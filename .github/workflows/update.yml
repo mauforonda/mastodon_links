@@ -24,7 +24,6 @@ jobs:
         env:
           MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
           MASTODON_BASE_URL: ${{ secrets.MASTODON_BASE_URL }}
-          MASTODON_USERNAME: ${{ secrets.MASTODON_USERNAME }}
         run: |
           python update/run.py
       - name: commit

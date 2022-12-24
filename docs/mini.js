@@ -1,64 +1,65 @@
 var container = document.querySelector('.entries')
 var dateFormat = {hour:"numeric", minute:"numeric", day: "numeric", month: 'long'}
 
-render_entry = (entry) => {
+newElement = (element, classList) => {
+    const el = document.createElement(element)
+    el.classList = classList
+    return el
+}
+
+renderEntry = (entry) => {
 
     date = new Date(entry['latest'])
-    dateString = date.toLocaleDateString("en-US", dateFormat)
 
-    const link = document.createElement('a')
-    link.classList = ['entry']
+    const link = newElement('a', ['entry'])
     link.href = entry.link
     link.target = '_blank'
-    link.title = dateString
     
-    const content = document.createElement('div')
-    content.classList = ['content']
+    const content = newElement('div', ['content'])
 
-    const title = document.createElement('div')
-    title.classList = ['title']
+    const title = newElement('div',['title'])
     title.textContent = entry.title
     content.appendChild(title)
 
-    const context = document.createElement('div')
-    context.classList = ['context']
+    const context = newElement('div',['context'])
 
-    const peoplediv = document.createElement('div')
-    peoplediv.classList = ['peoplediv']
-    
-    const prefix = document.createElement('span')
-    prefix.classList = ['prefix']
+    const peoplediv = newElement('div',['peoplediv'])
+
+    const prefix = newElement('span', ['prefix'])
     prefix.textContent = 'Shared by'
     peoplediv.appendChild(prefix)
 
-    entry.people.map(person => {
-        let persondiv = document.createElement('a')
-        persondiv.classList = ['person']
+    entry.people.map((person, i) => {
+        if (i > 0) {
+            let separator = newElement('span',['prefix'])
+            separator.textContent = '·'
+            peoplediv.appendChild(separator)
+        }
+        let persondiv = newElement('a', 'person')
         persondiv.href = person.url
         persondiv.target = '_blank'
         persondiv.textContent = person.display_name
         peoplediv.appendChild(persondiv)
     })
 
-    const post = document.createElement('a')
+    const post = newElement('a', ['post'])
     post.href = entry.last_post.url
     post.target = '_blank'
-    post.classList = ['post']
 
-    const post_content = document.createElement('post_content')
-    post_content.classList = ['post_content']
+    const post_content = newElement('div', ['post_content'])
     post_content.innerHTML = entry.last_post.content
 
-    const post_author = document.createElement('div')
-    post_author.classList = ['post_author']
-    post_author.textContent = entry.display_name
-
     post.appendChild(post_content)
-    post.appendChild(post_author)
 
     context.appendChild(peoplediv)
     context.appendChild(post)
     content.appendChild(context)
+
+    const published = newElement('div', ['published'])
+    published.textContent = dateString = date.toLocaleDateString("en-US", dateFormat)
+    published.title = 'Last shared'
+    content.appendChild(published)
+
     link.appendChild(content)
 
     container.appendChild(link)
@@ -68,7 +69,7 @@ download_and_render = () => {
     url = "links.json"    
     fetch(url).then((response) => {
 	response.json().then((entries) => {
-	    entries.forEach(e => render_entry(e))
+	    entries.forEach(e => renderEntry(e))
 	})
     })
 }

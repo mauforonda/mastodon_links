@@ -31,7 +31,7 @@ def get_last_update():
         with open(LAST_UPDATE_PATH, 'r') as f:
             return isoparse(f.read())
     else:
-        return datetime.now(timezone.utc) - timedelta(hours=1)
+        return datetime.now(timezone.utc) - timedelta(hours=12)
 
 def set_last_update():
     """
@@ -91,6 +91,12 @@ def title_in_card(link, post):
     if card and card['url'] in link:
         return card['title']
 
+def link_shortform_in_content(link, post):
+    ellipsis = re.findall('(?<=class\=\"ellipsis\">)([^<]*)(?=\<\/span)', post['content'])
+    for e in ellipsis:
+        if e in link:
+            return e + '...'
+
 def format_links(links, post):
     """
     Add details to a link
@@ -102,7 +108,9 @@ def format_links(links, post):
         
         title = title_in_card(link, post)
         if not title:
-            title = link
+            title = link_shortform_in_content(link, post)
+            if not title:
+                title = link
         
         formatted_links.append({
             'link': link,
@@ -128,7 +136,7 @@ def format_message(post):
     else:
         message = post
         
-    return {'url': message['url'], 'content': message['content'], 'acct': message['account']['acct'],'display_name': message['account']['display_name']}
+    return {'url': message['url'], 'content': message['content']}
 
 def process_post(post):
     """
@@ -170,7 +178,6 @@ def process_post(post):
                     'last_post': message,
                     'people': [person]
                 }
-
 
 def make_digest():
     """
