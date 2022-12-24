@@ -1,0 +1,132 @@
+:root {
+    --background: #edeff2;
+    --text: #5e6575;
+    --visited: #b4b6d2;
+    --highlight: #344bc6;
+    --post: #515f82;
+    --shade: #e2e3ec;
+    --selected: #fff;
+}
+
+@media (prefers-color-scheme:dark) {
+    :root {
+	--background: #17191e;
+	--text: #e8e9f2;
+    --visited: #6f6f6f;
+	--shade: #22242b;
+	--selected: #000;
+	--highlight: #6f80dd;
+	--post: #717ea2;
+    }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    font-size: 16px;
+    background: var(--background);
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    line-height: 1.6;
+}
+
+.entries {
+    margin: 10px 0px;
+    width: 100%;
+    max-width: 900px; 
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.entry {
+    text-decoration: none;
+    color: var(--text);
+    margin: 0px;
+}
+
+a:not(.person, .post):visited {
+    color: var(--visited);
+}
+
+.content {
+    padding: 12px 12px;
+    border-radius: 5px;
+}
+
+.content:hover {
+    background: var(--selected)
+}
+
+.title {
+    margin-bottom: 7px;
+    font-weight: bold;
+}
+
+.context {
+    font-size: .8em;
+    opacity: .6;
+}
+
+.person {
+    padding: 0px 4px;
+    text-decoration: none;
+    color: var(--highlight);
+    font-weight: bold;
+}
+
+.person:hover, .post a:hover, .post a:not(.mention):hover {
+    text-decoration: underline;
+}
+
+.post {
+	text-decoration: none;
+	color: var(--text);
+	color: var(--post);
+	font-size: .98em;
+}
+
+
+.post_content {
+    display: block;
+    border: 1px solid var(--shade);
+    padding: 15px 18px;
+    margin: 15px 0px 0px 0px;
+    border-radius: 5px;
+    line-height: 1.6;
+    background: var(--shade);
+}
+
+.post_content p {
+  margin: 0;
+}
+
+.post a:not(.mention) {
+    text-decoration: none;
+    color: var(--highlight);
+    font-weight: bold;
+}
+
+.invisible {
+  display: none;
+}
+
+.ellipsis::after {
+  content: "...";
+}
+
+.mention.hashtag, .u-url.mention {
+  background: var(--shade);
+  padding: 0px 4px;
+  color: var(--post);
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.post_content:hover {
+  border-color: var(--highlight);
+  background: var(--selected)
+}

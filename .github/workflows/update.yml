@@ -1,0 +1,36 @@
+name: links on mastodon 
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+jobs:
+  update:
+    name: digest
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@master
+        with:
+          ref: main
+      - name: python setup
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - name: python things
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r update/requirements.txt
+      - name: run
+        env:
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+          MASTODON_BASE_URL: ${{ secrets.MASTODON_BASE_URL }}
+          MASTODON_USERNAME: ${{ secrets.MASTODON_USERNAME }}
+        run: |
+          python update/run.py
+      - name: commit
+        run: |
+          git config --global user.email "mastodon_links@example.com"
+          git config --global user.name "mastodon_links"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "[ci] update"; git push -q "https://$GH_TOKEN@github.com/mauforonda/mastodon_links.git" main)
+
