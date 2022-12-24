@@ -38,7 +38,7 @@ body {
 .entries {
     margin: 10px 0px;
     width: 100%;
-    max-width: 900px; 
+    max-width: 600px; 
     display: flex;
     flex-direction: column;
     gap: 15px;
