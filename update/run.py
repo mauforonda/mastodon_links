@@ -6,6 +6,7 @@ from dateutil.parser import isoparse
 import re
 import os
 import json
+from hyperlink import URL
 
 TOKEN = os.getenv('MASTODON_TOKEN')
 BASE_URL = os.getenv('MASTODON_BASE_URL')
@@ -60,7 +61,7 @@ def set_catalog():
     """
     catalog_path = f'{CATALOG_DIR}/catalog.json'
     with open(catalog_path, 'w+') as f:
-        json.dump(catalog, f)
+        json.dump(catalog, f,indent=2)
 
 def collect_newposts(start):
     """
@@ -97,6 +98,9 @@ def link_shortform_in_content(link, post):
         if e in link:
             return e + '...'
 
+def normalize_link(link):
+    return URL.from_text(link).normalize().to_text()
+
 def format_links(links, post):
     """
     Add details to a link
@@ -112,8 +116,10 @@ def format_links(links, post):
             if not title:
                 title = link
         
+        normie_link = normalize_link(link)
+
         formatted_links.append({
-            'link': link,
+            'link': normie_link,
             'title': title
         })
     
@@ -210,18 +216,6 @@ def save_digest(digest, filename):
     digest_path = f'{DIGEST_DIR}/{filename}'
     with open(digest_path, 'w+') as f:
         json.dump(digest, f)
-
-
-def make_digest():
-    """
-    Save the last `DIGEST SIZE` links to make a digest
-    """
-    digest_path = f'{DIGEST_DIR}/links.json'
-    segment = [{**{'link': i[0]}, **i[1]} for i in sorted(catalog.items(), key=lambda x: x[1]['latest'], reverse=True)][:DIGEST_SIZE]
-    with open(digest_path, 'w+') as f:
-        json.dump(segment, f)
-
-
 
 make_dirs() # Make the necessary directories 
 mst = Mastodon(access_token=TOKEN, api_base_url=BASE_URL) # Prepare to make calls to mastodon
