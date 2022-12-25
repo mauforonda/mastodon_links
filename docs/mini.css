@@ -1,24 +1,24 @@
 :root {
-    --background: #f4f3f5;
+    --background: #edeff2;
     --entry-background: #fafafb;
-    --text: #5e6575;
+    --text: #55525c;
     --visited: #b4b6d2;
     --highlight: #2d49dd;
     --post: #515f82;
-    --shade: #e2e3ec;
+    --shade: #e8e9f5;
     --selected: #fff;
 }
 
 @media (prefers-color-scheme:dark) {
     :root {
-	--background: #25282f;
-	--text: #e8e9f2;
+	--background: #1c1d1e;
+	--text: #d1d3d7;
     --visited: #6f6f6f;
-	--shade: #22242b;
-	--selected: #000;
+	--shade: #242937;
+	--selected: #2c3240;
 	--highlight: #6f80dd;
 	--post: #717ea2;
-	--entry-background: #1e222b;
+	--entry-background: #2c3240;
     }
 }
 
@@ -36,22 +36,42 @@ body {
     margin: 0px 10px;
 }
 
-.entries {
-    margin: 10px 0px;
+.streams, .stream, .links {
     width: 100%;
     max-width: 600px; 
     display: flex;
     flex-direction: column;
+}
+
+.streams {
+  margin: 20px 0px;
+}
+
+.links {
     gap: 15px;
+    margin: 20px 0px;
+}
+
+
+.streamTitle {
+  color: var(--text);
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.8em;
+}
+
+
+.streamSubtitle {
+  color: var(--text);
+  text-align: center;
+  font-size: .8em;
 }
 
 .entry {
     text-decoration: none;
     color: var(--text);
-    /*! margin: 10px 0px; */
-    /*! border-bottom: 2px solid var(--shade); */
     background: var(--entry-background);
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 0.2px 0.4px 0.8px -10px rgba(0,0,0,0.03), 0.4px 0.9px 2px -10px rgba(0,0,0,0.030), 0.8px 1.8px 3.8px -10px rgba(0,0,0,0.038), 1.3px 3.1px 6.7px -10px rgba(0,0,0,0.045), 2.5px 5.8px 12.5px -10px rgba(0,0,0,0.06), 6px 14px 10px -10px rgba(0, 0, 0, 0.05);
     border: 1px solid var(--shade);
 }
@@ -61,7 +81,7 @@ a:not(.person, .post):visited {
 }
 
 .content {
-    padding: 12px 12px;
+    padding: 15px 17px;
     border-radius: 5px;
 }
 
@@ -70,7 +90,7 @@ a:not(.person, .post):visited {
 }
 
 .title {
-    margin-bottom: 7px;
+    margin-bottom: 12px;
     font-weight: bold;
 }
 
@@ -140,13 +160,13 @@ a:not(.person, .post):visited {
 
 .post_content:hover {
   border-color: var(--highlight);
-  background: var(--selected)
+  /*! background: var(--selected) */
 }
 
 
 .published {
   color: var(--text);
   font-size: .8em;
-  margin-top: 10px;
+  margin-top: 15px;
   opacity: .6;
 }

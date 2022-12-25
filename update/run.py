@@ -12,7 +12,7 @@ BASE_URL = os.getenv('MASTODON_BASE_URL')
 LAST_UPDATE_PATH = 'update/update_time'
 CATALOG_DIR = 'data'
 DIGEST_DIR = 'docs'
-DIGEST_SIZE = 250
+MAX_DIGEST_SIZE = 250
 
 def make_dirs():
     """
@@ -179,6 +179,39 @@ def process_post(post):
                     'people': [person]
                 }
 
+def to_list(catalog_dict):
+    """
+    Formats the catalog asa list of links
+    """
+    return [{**{'link': i[0]}, **i[1]} for i in catalog_dict]
+
+def make_digest_date(catalog):
+    """
+    Sorts the catalog by last shared
+    """
+    digest = sorted(catalog.items(), key=lambda x: x[1]['latest'], reverse=True)
+    return to_list(digest)[:MAX_DIGEST_SIZE]
+
+def make_digest_shared(catalog, min_shared, since_hours):
+    """
+    Filters links shared within the last `since_hours`
+    and shared at least `min_shared` times. Sorts them
+    by the number of shares
+    """
+    min_time = (datetime.now(timezone.utc) - timedelta(hours=since_hours)).isoformat()
+    digest = [i for i in catalog.items() if len(i[1]['people']) >= min_shared and i[1]['latest'] >= min_time]
+    digest = sorted(digest, key=lambda x: len(x[1]['people']), reverse=True)
+    return to_list(digest)[:MAX_DIGEST_SIZE]
+
+def save_digest(digest, filename):
+    """
+    Saves a digest
+    """
+    digest_path = f'{DIGEST_DIR}/{filename}'
+    with open(digest_path, 'w+') as f:
+        json.dump(digest, f)
+
+
 def make_digest():
     """
     Save the last `DIGEST SIZE` links to make a digest
@@ -197,6 +230,10 @@ catalog = get_catalog() # Get the full list of links from past runs
 newposts = collect_newposts(start) # Get new posts
 for post in reversed(newposts): # Update the list with links from new posts
     process_post(post)
-make_digest() # Select the latest links for a digest
+
+digest_date = make_digest_date(catalog) # Sorts the catalog by last shared
+save_digest(digest_date, 'latest.json')
+digest_shared = make_digest_shared(catalog, 2, 24) # Filters the most shared links within the last 24 hours
+save_digest(digest_shared,'shared.json')
 set_catalog() # Save back the full list of links
 set_last_update() # Set the update time for future runs
