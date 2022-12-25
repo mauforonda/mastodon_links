@@ -21,9 +21,18 @@ renderEntry = (entry) => {
     
     const content = newElement('div', 'content')
 
+    const header = newElement('div', 'header')
+
     const title = newElement('div','title')
     title.textContent = entry.title
-    content.appendChild(title)
+    header.appendChild(title)
+
+    const published = newElement('div', ['published'])
+    published.textContent = dateString = date.toLocaleTimeString("en-US", {hour: '2-digit', minute:'2-digit', hourCycle: 'h23'})
+    published.title = `Last shared on ${date.toLocaleDateString('en-US', {hour:"numeric", minute:"numeric", day: "numeric", month: 'long', hourCycle: 'h23'})}`
+    header.appendChild(published)
+    
+    content.appendChild(header)
 
     const context = newElement('div','context')
 
@@ -58,11 +67,6 @@ renderEntry = (entry) => {
     context.appendChild(peoplediv)
     context.appendChild(post)
     content.appendChild(context)
-
-    const published = newElement('div', ['published'])
-    published.textContent = dateString = date.toLocaleDateString("en-US", dateFormat)
-    published.title = 'Last shared'
-    content.appendChild(published)
 
     link.appendChild(content)
 

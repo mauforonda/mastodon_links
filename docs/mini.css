@@ -94,6 +94,15 @@ body {
     border: 1px solid var(--shade);
 }
 
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
 .streams a:not(.person, .post):visited {
     color: var(--visited);
 }
@@ -110,11 +119,11 @@ a.anchor {
 }
 
 .content:hover {
-    background: var(--selected)
+    background: var(--selected);
+    border-radius: 10px;
 }
 
 .title {
-    margin-bottom: 12px;
     font-weight: bold;
 }
 
@@ -191,6 +200,8 @@ a.anchor {
 .published {
   color: var(--text);
   font-size: .8em;
-  margin-top: 15px;
+  /*! margin-top: 15px; */
   opacity: .7;
+  min-width: 40px;
+  text-align: right;
 }
