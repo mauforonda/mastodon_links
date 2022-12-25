@@ -13,7 +13,7 @@ BASE_URL = os.getenv('MASTODON_BASE_URL')
 LAST_UPDATE_PATH = 'update/update_time'
 CATALOG_DIR = 'data'
 DIGEST_DIR = 'docs'
-MAX_DIGEST_SIZE = 250
+MAX_DIGEST_SIZE = 200
 
 def make_dirs():
     """

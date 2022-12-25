@@ -33,8 +33,26 @@ body {
     display: flex;
     justify-content: center;
     line-height: 1.6;
-    margin: 0px 10px;
+    margin: 0px 15px;
 }
+
+
+.nav {
+    position: fixed;
+    width: 100%;
+    background: var(--background);
+    padding: 10px;
+    text-align: center;
+    z-index: 5050;
+    font-size: .9em;
+    font-weight: bold;
+    box-shadow: 0 1px 2px hsla(0,0%,0%,0.05), 0 1px 4px hsla(0, 0%, 0%, 0.05), 0 2px 8px hsla(0, 0%, 0%, 0.05);
+  }
+  .navlink {
+    text-decoration: none;
+    color: var(--text);
+    padding: 0px 20px;
+  }
 
 .streams, .stream, .links {
     width: 100%;
@@ -44,7 +62,7 @@ body {
 }
 
 .streams {
-  margin: 20px 0px;
+  margin: 60px 0px 20px 0px;
 }
 
 .links {
@@ -76,13 +94,19 @@ body {
     border: 1px solid var(--shade);
 }
 
-a:not(.person, .post):visited {
+.streams a:not(.person, .post):visited {
     color: var(--visited);
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -60px;
+    visibility: hidden;
 }
 
 .content {
     padding: 15px 17px;
-    border-radius: 5px;
 }
 
 .content:hover {
@@ -96,7 +120,7 @@ a:not(.person, .post):visited {
 
 .context {
     font-size: .8em;
-    opacity: .6;
+    opacity: .7;
 }
 
 .peoplediv {
@@ -168,5 +192,5 @@ a:not(.person, .post):visited {
   color: var(--text);
   font-size: .8em;
   margin-top: 15px;
-  opacity: .6;
+  opacity: .7;
 }

@@ -1,3 +1,8 @@
+const digests = [
+    {filename: 'shared.json', id: 'popular', title: 'popular', subtitle: 'in the past 24 hours'},
+    {filename: 'latest.json', id: 'latest', title: 'latest', subtitle: '200 links'}
+]
+
 var dateFormat = {hour:"numeric", minute:"numeric", day: "numeric", month: 'long'}
 
 newElement = (element, classList) => {
@@ -75,16 +80,14 @@ download_and_render = (url, container) => {
     return container
 }
 
+var nav = document.querySelector('.nav')
 var streams = document.querySelector('.streams')
 
-const digests = [
-    {filename: 'shared.json', class: 'shared', title: 'most shared', subtitle: 'in the past 24 hours'},
-    {filename: 'latest.json', class: 'latest', title: 'latest', subtitle: '250 links'}
-]
+digests.forEach(digest => {   
 
-digests.forEach(digest => {
     var stream = newElement('div','stream')
-    stream.classList.add(digest.class)
+    var anchor = newElement('a', 'anchor')
+    anchor.id = digest.id
 
     var streamTitle = newElement('div', 'streamTitle')
     streamTitle.textContent = digest.title
@@ -97,5 +100,11 @@ digests.forEach(digest => {
     var links = newElement('div','links')
     links = download_and_render(digest.filename, links)
     stream.appendChild(links)
+    streams.appendChild(anchor)
     streams.appendChild(stream)
+
+    var navlink = newElement('a', 'navlink')
+    navlink.href = `#${digest.id}`
+    navlink.textContent = digest.title
+    nav.appendChild(navlink)
 })
