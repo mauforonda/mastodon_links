@@ -1759,10 +1759,10 @@
   },
   "https://www.washingtonpost.com/technology/2022/12/24/elon-musk-twitter-meltdown-tesla/": {
     "title": "Twitter brings Elon Musk\u2019s genius reputation crashing down to earth",
-    "latest": "2022-12-24T23:35:25+00:00",
+    "latest": "2022-12-26T05:22:32+00:00",
     "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109571271939379950",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mas.to/@carnage4life\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>carnage4life</span></a></span> maybe Bari Weiss had poor information security practices with her \"full access to everything at Twitter\" granted the other day <a href=\"https://www.washingtonpost.com/technology/2022/12/24/elon-musk-twitter-meltdown-tesla/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/technology/</span><span class=\"invisible\">2022/12/24/elon-musk-twitter-meltdown-tesla/</span></a></p>"
+      "url": "https://mastodon.social/@faizsays/109569335094641947",
+      "content": "<p>NEW: Elon Musk sent a Signal message ordering his staff to aid in the Twitter Files: \"please give Bari [Weiss] full access to everything at Twitter. No limits at all.\u201d</p><p>That triggered a frenzy inside Twitter, which was under a decade-old FTC order. IT staff refused to onboard Weiss, worried Twitter would be breaking the law. </p><p>Days later, two executives were fired.</p><p>\"These guys did amazing damage,\u201d a former employee told me of the Musk subordinates running the company.</p><p><a href=\"https://www.washingtonpost.com/technology/2022/12/24/elon-musk-twitter-meltdown-tesla/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/technology/</span><span class=\"invisible\">2022/12/24/elon-musk-twitter-meltdown-tesla/</span></a></p>"
     },
     "people": [
       {
@@ -2311,15 +2311,19 @@
   },
   "https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334": {
     "title": "All-knowing machines are a fantasy | Emily M. Bender and Chriag Shah",
-    "latest": "2022-12-24T19:41:43+00:00",
+    "latest": "2022-12-26T05:05:30+00:00",
     "last_post": {
-      "url": "https://dair-community.social/@emilymbender/109570353001872254",
-      "content": "<p>Chatbots are not a good replacement for search engines</p><p><a href=\"https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">iai.tv/articles/all-knowing-ma</span><span class=\"invisible\">chines-are-a-fantasy-auid-2334</span></a></p>"
+      "url": "https://mas.to/@carnage4life/109578232161127761",
+      "content": "<p>CS professors from the University of Washington argue against ChatGPT as the future of search because </p><p>1. It\u2019s designed to create answers that LOOK correct as opposed to BEING correct.</p><p>2. Some questions don\u2019t have an agreed upon correct answer so an authoritative sounding answer from ChatGPT would be wrong. E.g. How do I avoid getting COVID?</p><p>I disagree because the UX is so much better than web search that this is the future.<br><a href=\"https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">iai.tv/articles/all-knowing-ma</span><span class=\"invisible\">chines-are-a-fantasy-auid-2334</span></a></p>"
     },
     "people": [
       {
         "url": "https://dair-community.social/@emilymbender",
         "display_name": "Emily M. Bender (she/her)"
+      },
+      {
+        "url": "https://mas.to/@carnage4life",
+        "display_name": "Dare Obasanjo"
       }
     ]
   },
@@ -3015,15 +3019,19 @@
   },
   "https://www.theverge.com/23522749/phone-power-button-screen-apple-iphone-google-pixel-samsung-galaxy": {
     "title": "Smartphone power buttons should work like power buttons",
-    "latest": "2022-12-24T22:22:17+00:00",
+    "latest": "2022-12-26T05:53:52+00:00",
     "last_post": {
-      "url": "https://infosec.exchange/@patrickcmiller/109570980321622604",
-      "content": "<p>Phone manufacturers: please give us the power button back <a href=\"https://www.theverge.com/23522749/phone-power-button-screen-apple-iphone-google-pixel-samsung-galaxy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theverge.com/23522749/phone-po</span><span class=\"invisible\">wer-button-screen-apple-iphone-google-pixel-samsung-galaxy</span></a></p>"
+      "url": "https://mas.to/@carnage4life/109578422342954808",
+      "content": "<p>Replacing the power button with a Siri button is probably the worst user interface change Apple has ever made on the iPhone. </p><p>I want my power button back. </p><p><a href=\"https://www.theverge.com/23522749/phone-power-button-screen-apple-iphone-google-pixel-samsung-galaxy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theverge.com/23522749/phone-po</span><span class=\"invisible\">wer-button-screen-apple-iphone-google-pixel-samsung-galaxy</span></a></p>"
     },
     "people": [
       {
         "url": "https://infosec.exchange/@hacks4pancakes",
         "display_name": "Lesley Carhart :unverified:"
+      },
+      {
+        "url": "https://mas.to/@carnage4life",
+        "display_name": "Dare Obasanjo"
       }
     ]
   },
@@ -5116,6 +5124,118 @@
       {
         "url": "https://mastodon.truesciphi.org/@TrueSciPhi",
         "display_name": "Kelly Truelove"
+      }
+    ]
+  },
+  "https://www.reddit.com/r/MapPorn/comments/d8tbs5/major_cities_and_towns_in_north_america_replaced/": {
+    "title": "Major cities and towns in North America replaced by major cities across the Atlantic by latitude.",
+    "latest": "2022-12-26T05:42:07+00:00",
+    "last_post": {
+      "url": "https://sciences.social/@conradhackett/109536389132243858",
+      "content": "<p>Check this out -- major cities in North America replaced by major cities across the Atlantic at the same latitude. </p><p>The Gulf Stream makes winters less severe in many European cities than it is in their U.S./Canadian counterparts.<br><a href=\"https://www.reddit.com/r/MapPorn/comments/d8tbs5/major_cities_and_towns_in_north_america_replaced/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reddit.com/r/MapPorn/comments/</span><span class=\"invisible\">d8tbs5/major_cities_and_towns_in_north_america_replaced/</span></a><br>Ninth in a \ud83e\uddf5 of <a href=\"https://sciences.social/tags/2022TopToots\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>2022TopToots</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sciences.social/@conradhackett",
+        "display_name": "Conrad Hackett :verified:"
+      }
+    ]
+  },
+  "https://social-sciences.tau.ac.il/sites/socsci.tau.ac.il/files/media_server/social/soc-ant/PDF/Tenure-Track%20Faculty%20Position%202023.pdf": {
+    "title": "social-sciences.tau.ac.il/site...",
+    "latest": "2022-12-26T05:49:51+00:00",
+    "last_post": {
+      "url": "https://sciences.social/@gorodzeisky/109573914709603533",
+      "content": "<p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/sociology\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sociology</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/demography\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>demography</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> </p><p>The Department of <a href=\"https://sciences.social/tags/Sociology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Sociology</span></a> and <a href=\"https://sciences.social/tags/Anthropology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Anthropology</span></a> at Tel Aviv University invites applications for a full-time, tenure-track position to commence on October 1, 2023, contingent on budgetary approval.</p><p>Details: <br><a href=\"https://social-sciences.tau.ac.il/sites/socsci.tau.ac.il/files/media_server/social/soc-ant/PDF/Tenure-Track%20Faculty%20Position%202023.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">social-sciences.tau.ac.il/site</span><span class=\"invisible\">s/socsci.tau.ac.il/files/media_server/social/soc-ant/PDF/Tenure-Track%20Faculty%20Position%202023.pdf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sciences.social/@markigra",
+        "display_name": "Mark Igra"
+      }
+    ]
+  },
+  "https://www.newyorker.com/magazine/2011/10/03/personal-best": {
+    "title": "The Coach in the Operating Room",
+    "latest": "2022-12-26T05:57:28+00:00",
+    "last_post": {
+      "url": "https://discuss.systems/@emilsit/109578359588587497",
+      "content": "<p><span class=\"h-card\"><a href=\"https://types.pl/@ezyang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ezyang</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@danluu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>danluu</span></a></span> I always loved this idea <a href=\"https://www.newyorker.com/magazine/2011/10/03/personal-best\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newyorker.com/magazine/2011/10</span><span class=\"invisible\">/03/personal-best</span></a></p><p>An important difference between peer feedback and hiring a coach is that someone hiring a coach presumably wants to improve, whereas a person getting feedback (even from their manager) hasn\u2019t necessarily made that decision.</p>"
+    },
+    "people": [
+      {
+        "url": "https://types.pl/@ezyang",
+        "display_name": "Edward Z. Yang"
+      }
+    ]
+  },
+  "https://www.theregister.com/2022/12/21/ai_assistants_bad_code/": {
+    "title": "Study finds AI assistants help developers produce code that's more likely to be buggy",
+    "latest": "2022-12-26T04:09:58+00:00",
+    "last_post": {
+      "url": "https://mas.to/@carnage4life/109578013785340110",
+      "content": "<p>Researchers from Stanford University have found that programmers who accept help from AI tools like Github Copilot produce less secure code than those who fly solo.</p><p>I\u2019m sure you\u2019d find the same thing of developers who blindly cut &amp; paste from Stack Overflow. </p><p>The root issue is the same, people who don\u2019t understand the code they got from someone else write less secure code. Doesn\u2019t matter if it was an AI or Stack Overflow poster.</p><p><a href=\"https://www.theregister.com/2022/12/21/ai_assistants_bad_code/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theregister.com/2022/12/21/ai_</span><span class=\"invisible\">assistants_bad_code/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@carnage4life",
+        "display_name": "Dare Obasanjo"
+      }
+    ]
+  },
+  "https://mobile.twitter.com/_chandler_____/status/1607134643135942656?s=10": {
+    "title": "Chandler \ud83c\udf85\ud83c\udffb\ud83c\udf84 on Twitter",
+    "latest": "2022-12-26T04:13:35+00:00",
+    "last_post": {
+      "url": "https://mas.to/@carnage4life/109578028008339682",
+      "content": "<p>Russell Wilson getting roasted on Nickelodeon for throwing an interception by Patrick Star is not something I ever expected to see. <a href=\"https://mas.to/tags/LetRussCook\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LetRussCook</span></a> </p><p><a href=\"https://mobile.twitter.com/_chandler_____/status/1607134643135942656?s=10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mobile.twitter.com/_chandler__</span><span class=\"invisible\">___/status/1607134643135942656?s=10</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@carnage4life",
+        "display_name": "Dare Obasanjo"
+      }
+    ]
+  },
+  "https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service?launch_id=18232205#12": {
+    "title": "help.nytimes.com/hc/en-us/arti...",
+    "latest": "2022-12-26T04:52:45+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@dangillmor/109571887739560246",
+      "content": "<p>The New York Times has editorialized angrily against forced arbitration -- a system designed to protect companies from accountability. </p><p>So guess what I found in my inbox this morning. Yes! Subscribers to the NY Times must now submit to forced arbitration if there's a dispute: </p><p><a href=\"https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service?launch_id=18232205#12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">help.nytimes.com/hc/en-us/arti</span><span class=\"invisible\">cles/115014893428-Terms-of-service?launch_id=18232205#12</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sfba.social/@beatty",
+        "display_name": "John Beatty"
+      }
+    ]
+  },
+  "https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/": {
+    "title": "smithsonianmag.com/history/mus...",
+    "latest": "2022-12-26T04:58:52+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@rivershavewings/109577529185573216",
+      "content": "<p>Wow... <a href=\"https://twitter.com/dadabots/status/1604391007222697984\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/dadabots/status/16</span><span class=\"invisible\">04391007222697984</span></a></p><p>(\"These slogans from the 1930s protesting the use of recording music in films are amazing -- I love this evil robot. <a href=\"https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">smithsonianmag.com/history/mus</span><span class=\"invisible\">icians-wage-war-against-evil-robots-92702721/</span></a>\")</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@Adverb",
+        "display_name": "Advadnoun"
+      }
+    ]
+  },
+  "https://arxiv.org/abs/2212.09196v1": {
+    "title": "Emergent Analogical Reasoning in Large Language Models",
+    "latest": "2022-12-26T05:00:20+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@ceperez/109552708806419618",
+      "content": "<p>The psychology and statistics departments are now analyzing GPT-3 for analogy tasks.  Of course, they don't have an explanation as to why it \"surpasses human performance across a wide range of problem types.\" <a href=\"https://arxiv.org/abs/2212.09196v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.09196v1</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@Adverb",
+        "display_name": "Advadnoun"
       }
     ]
   }
