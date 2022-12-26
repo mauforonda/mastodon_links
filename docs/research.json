@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://arxiv.org/abs/2212.12032",
+    "title": "Department-level comparison of universities' scientific output: A bibliometric study of Greek universities",
+    "latest": "2022-12-26T13:54:38+00:00",
+    "last_post": {
+      "url": "https://mstdn.science/@serhii/109580312800551365",
+      "content": "<p>New <a href=\"https://mstdn.science/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> - Department-level comparison of universities' scientific output: A bibliometric study of Greek universities \ud83c\uddec\ud83c\uddf7 :</p><p>:oa: <a href=\"https://arxiv.org/abs/2212.12032\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.12032</span><span class=\"invisible\"></span></a></p><p>After collecting the <a href=\"https://mstdn.science/tags/Scopus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Scopus</span></a> IDs were calculated statistical metrics by exploiting the Scopus <a href=\"https://mstdn.science/tags/API\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>API</span></a> and creating scripts in :rstats:  using the <a href=\"https://mstdn.science/tags/bibliometrix\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bibliometrix</span></a> package to retrieve the data and generate statistics. The created scripts have been published on GitHub in the form of R functions: <a href=\"https://github.com/gnk02/bibliostats/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/gnk02/bibliostats/</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://mstdn.science/tags/university\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>university</span></a> <a href=\"https://mstdn.science/tags/bibliometrics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bibliometrics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.science/@serhii",
+        "display_name": "Serhii Nazarovets"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2212.09196v1",
     "title": "Emergent Analogical Reasoning in Large Language Models",
     "latest": "2022-12-26T05:00:20+00:00",

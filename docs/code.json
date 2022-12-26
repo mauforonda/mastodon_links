@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.com/lucahammer/fediporter",
+    "title": "GitHub - lucahammer/fediporter: Notes on importing content to Mastodon.",
+    "latest": "2022-12-26T14:02:22+00:00",
+    "last_post": {
+      "url": "https://vis.social/@Luca/109580343216152262",
+      "content": "<p>Over the last few days, I experimented with moving my Twitter archive to my personal <a href=\"https://vis.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> account <span class=\"h-card\"><a href=\"https://social.luca.run/@luca\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>luca@social.luca.run</span></a></span> and finally succeeded.</p><p>I had to modify the Mastodon source to allow backdated posts and prevent it from spamming other instances with old posts. Because image descriptions aren't included in the Twitter export, I had to request them from the API. There I got full text for truncated Retweets as well.</p><p>Incomplete notes:<br><a href=\"https://github.com/lucahammer/fediporter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/lucahammer/fediport</span><span class=\"invisible\">er</span></a></p><p><a href=\"https://vis.social/tags/TwitterMigration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TwitterMigration</span></a> <a href=\"https://vis.social/tags/MastoAdmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoAdmin</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@Luca",
+        "display_name": "Luca Hammer"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/gnk02/bibliostats/",
+    "title": "https://github.com/gnk02/bibliostats/",
+    "latest": "2022-12-26T13:54:38+00:00",
+    "last_post": {
+      "url": "https://mstdn.science/@serhii/109580312800551365",
+      "content": "<p>New <a href=\"https://mstdn.science/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> - Department-level comparison of universities' scientific output: A bibliometric study of Greek universities \ud83c\uddec\ud83c\uddf7 :</p><p>:oa: <a href=\"https://arxiv.org/abs/2212.12032\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.12032</span><span class=\"invisible\"></span></a></p><p>After collecting the <a href=\"https://mstdn.science/tags/Scopus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Scopus</span></a> IDs were calculated statistical metrics by exploiting the Scopus <a href=\"https://mstdn.science/tags/API\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>API</span></a> and creating scripts in :rstats:  using the <a href=\"https://mstdn.science/tags/bibliometrix\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bibliometrix</span></a> package to retrieve the data and generate statistics. The created scripts have been published on GitHub in the form of R functions: <a href=\"https://github.com/gnk02/bibliostats/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/gnk02/bibliostats/</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://mstdn.science/tags/university\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>university</span></a> <a href=\"https://mstdn.science/tags/bibliometrics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bibliometrics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.science/@serhii",
+        "display_name": "Serhii Nazarovets"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/MichelNivard/GPTstudio",
     "title": "GitHub - MichelNivard/GPTstudio: GPT addins for Rstudio",
     "latest": "2022-12-25T22:42:47+00:00",
