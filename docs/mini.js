@@ -115,9 +115,18 @@ render_digest = (digest_name) => {
     current_stream = digest_name
 }
 
+navUpdate = (digest_name) => {
+    const active = document.querySelector('.activenav')
+    if (active) {
+        active.classList.remove('activenav')
+    }
+    document.querySelector(`[data-digest="${digest_name}"]`).classList.add('activenav')
+}
+
 navHandler = (e) => {
     var digest_name  = e.target.dataset.digest
     if (current_stream != digest_name) {
+        navUpdate(digest_name)
         document.querySelector('.stream').remove()
         render_digest(digest_name)
     }
@@ -136,3 +145,4 @@ Object.keys(digests).forEach(digest_name => {
 })
 
 render_digest('popular')
+navUpdate('popular')

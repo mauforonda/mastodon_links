@@ -48,12 +48,20 @@ body {
     font-weight: bold;
     box-shadow: 0 1px 2px hsla(0,0%,0%,0.05), 0 1px 4px hsla(0, 0%, 0%, 0.05), 0 2px 8px hsla(0, 0%, 0%, 0.05);
   }
-  .navlink {
-    text-decoration: none;
-    color: var(--text);
-    padding: 0px 20px;
-    cursor: pointer;
-  }
+
+.navlink {
+	text-decoration: none;
+	color: var(--text);
+	margin: 0px 10px;
+	cursor: pointer;
+	padding: 3px 7px;
+	border-radius: 5px;
+}
+
+  .activenav {
+	background: var(--highlight);
+	color: var(--background);
+}
 
 .streams, .stream, .links {
     width: 100%;
