@@ -1,0 +1,235 @@
+[
+  {
+    "link": "https://github.com/MichelNivard/GPTstudio",
+    "title": "GitHub - MichelNivard/GPTstudio: GPT addins for Rstudio",
+    "latest": "2022-12-25T22:42:47+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@michelnivard/109576716148739581",
+      "content": "<p>Progress on a GPT addin for <a href=\"https://fediscience.org/tags/Rstudio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstudio</span></a> and <a href=\"https://fediscience.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a>. It now does spelling/grammar, adds comments to code, and writes code or text from a prompt. If none of those are precisely what you want, it also has a freeform GPT editor in a shiny app. (used here to translate poetry from French to English but can do code things as well obviously) find the alpha version of the app here: <a href=\"https://github.com/MichelNivard/GPTstudio\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MichelNivard/GPTstu</span><span class=\"invisible\">dio</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/smach/1570d42abb30da72ea8993c89c76c882",
+    "title": "gist.github.com/smach/1570d42a...",
+    "latest": "2022-12-25T20:26:07+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@smach/109576189852149212",
+      "content": "<p>Can we see a list of <a href=\"https://fosstodon.org/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> accounts we follow and the list(s) we've added each to?</p><p><span class=\"h-card\"><a href=\"https://mastodon.social/@judell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>judell</span></a></span> answered this with the open source Steampipe platform and SQL: <a href=\"https://blog.jonudell.net/2022/12/22/lists-and-people-on-mastodon/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.jonudell.net/2022/12/22/l</span><span class=\"invisible\">ists-and-people-on-mastodon/</span></a></p><p>It's also possible with R and the {rtoot} \ud83d\udce6 . Code is in this GitHub gist if anyone else is interested:</p><p><a href=\"https://gist.github.com/smach/1570d42abb30da72ea8993c89c76c882\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/smach/1570d42a</span><span class=\"invisible\">bb30da72ea8993c89c76c882</span></a></p><p>You need the dev version of rtoot and to authenticate with a user token for your own account.</p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/rtoot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rtoot</span></a> <a href=\"https://fosstodon.org/tags/SteamPipe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SteamPipe</span></a> <a href=\"https://fosstodon.org/tags/SQL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SQL</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rust-ndarray/ndarray",
+    "title": "GitHub - rust-ndarray/ndarray: ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations",
+    "latest": "2022-12-25T15:41:10+00:00",
+    "last_post": {
+      "url": "https://cryptodon.lol/@vadorovsky/109574596999645140",
+      "content": "<p><a href=\"https://github.com/rust-ndarray/ndarray\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rust-ndarray/ndarra</span><span class=\"invisible\">y</span></a></p><p>This is really cool. I need to try it in combination with <a href=\"https://github.com/arkworks-rs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/arkworks-rs</span><span class=\"invisible\"></span></a> libs - so far the common practice for defining multidimensional arrays are nested vecs, which is not the best for memory access (all vecs allocated separately on the heap).</p>"
+    },
+    "people": [
+      {
+        "url": "https://cryptodon.lol/@phil",
+        "display_name": "phil"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/arkworks-rs",
+    "title": "https://github.com/arkworks-rs",
+    "latest": "2022-12-25T15:41:10+00:00",
+    "last_post": {
+      "url": "https://cryptodon.lol/@vadorovsky/109574596999645140",
+      "content": "<p><a href=\"https://github.com/rust-ndarray/ndarray\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rust-ndarray/ndarra</span><span class=\"invisible\">y</span></a></p><p>This is really cool. I need to try it in combination with <a href=\"https://github.com/arkworks-rs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/arkworks-rs</span><span class=\"invisible\"></span></a> libs - so far the common practice for defining multidimensional arrays are nested vecs, which is not the best for memory access (all vecs allocated separately on the heap).</p>"
+    },
+    "people": [
+      {
+        "url": "https://cryptodon.lol/@phil",
+        "display_name": "phil"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/aconchillo/homebrew-guile",
+    "title": "GitHub - aconchillo/homebrew-guile: A Homebrew Tap for Guile libraries and applications.",
+    "latest": "2022-12-25T14:47:32+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@aconchillo/109559702577257708",
+      "content": "<p>And now that Fibers 1.2.0 supports macOS, you can finally do:</p><p>  brew install fibers</p><p>But not only that! Guile Goblins is now also available:</p><p>  brew install guile-goblins</p><p>Those are \"almost\" all my Holidays' gifts! Happy Hacking!</p><p><a href=\"https://emacs.ch/tags/guile\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>guile</span></a> <a href=\"https://emacs.ch/tags/scheme\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scheme</span></a> </p><p><a href=\"https://github.com/aconchillo/homebrew-guile\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/aconchillo/homebrew</span><span class=\"invisible\">-guile</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/dariusk/rss-to-activitypub/releases/tag/v2.0.0",
+    "title": "github.com/dariusk/rss-to-acti...",
+    "latest": "2022-12-24T22:41:45+00:00",
+    "last_post": {
+      "url": "https://friend.camp/@darius/107089477268598511",
+      "content": "<p>I've released version 2.0.0 of my RSS to ActivityPub converter! This now provides functionality I'd hacked in to <a href=\"https://rss.friend.camp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">rss.friend.camp</span><span class=\"invisible\"></span></a> - it requires OAuth 2.0 authorization for someone to create a new AP account for an RSS feed.</p><p>I used to run this service \"in the open\" but was overwhelmed by spammers. Now the admin of a Mastodon (or Pleroma or any federated server that is an OAuth 2 provider) can provide this converter as a service solely to members of their instance.</p><p><a href=\"https://github.com/dariusk/rss-to-activitypub/releases/tag/v2.0.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dariusk/rss-to-acti</span><span class=\"invisible\">vitypub/releases/tag/v2.0.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@randomfractals/duckdb-data-tables",
+    "title": "DuckDB Data Tables",
+    "latest": "2022-12-24T19:54:06+00:00",
+    "last_post": {
+      "url": "https://vis.social/@dataSamurai/109569285360427505",
+      "content": "<p>Our <a href=\"https://vis.social/tags/DuckDB\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DuckDB</span></a> <a href=\"https://vis.social/tags/dataTables\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataTables</span></a> <a href=\"https://vis.social/tags/JSNotebook\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSNotebook</span></a> \ud83d\udcd3 has been updated to show tables <a href=\"https://vis.social/tags/graphviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>graphviz</span></a> diagram.</p><p><a href=\"https://observablehq.com/@randomfractals/duckdb-data-tables\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@randomfracta</span><span class=\"invisible\">ls/duckdb-data-tables</span></a></p><p><a href=\"https://vis.social/tags/dataTools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataTools</span></a> \ud83d\udee0\ufe0f ...</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      },
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hodgesmr/mastodon_digest",
+    "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
+    "latest": "2022-12-24T18:01:28+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@wxs/109569782874381292",
+      "content": "<p>Thanks for showing me mastodon_digest <span class=\"h-card\"><a href=\"https://fosstodon.org/@shazow\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>shazow</span></a></span>! I've been trying to find ways to have a slower, more intentional, social-media experience. A daily digest of interesting posts I may have missed, where I have control over the algorithm and it's not about maximizing engagement is something I'm happy to try out :)</p><p>You kinda need to know what you're doing to get set up with it right now, seems like they're hoping you run it on your personal server or something.</p><p><a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@samim",
+        "display_name": "samim"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@terezaif/who-voted-in-the-psf-board-elections",
+    "title": "Who voted in the PSF Board Elections",
+    "latest": "2022-12-24T17:08:48+00:00",
+    "last_post": {
+      "url": "https://vis.social/@terezaif/109564404523504719",
+      "content": "<p>Ever wondered about the development in the board elections of <span class=\"h-card\"><a href=\"https://fosstodon.org/@ThePSF\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ThePSF</span></a></span>  over the past years? </p><p>Did you know that there are 3 types of PSF members who can vote? Fellows, Contributing or Managing, and Supporting?</p><p>The PSF  Diversity &amp; Inclusion group is preparing a really cool event where you can ask anything about all these things. </p><p>We will announce it soon, so stay tuned!</p><p>In the meantime dive into this interactive chart on <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> </p><p><a href=\"https://observablehq.com/@terezaif/who-voted-in-the-psf-board-elections\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@terezaif/who</span><span class=\"invisible\">-voted-in-the-psf-board-elections</span></a></p><p><a href=\"https://vis.social/tags/thepsf\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>thepsf</span></a> <a href=\"https://vis.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://vis.social/tags/boardelections\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>boardelections</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hugovk",
+        "display_name": "hugovk"
+      },
+      {
+        "url": "https://vis.social/@observablehq",
+        "display_name": ""
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/GT-RIPL/Awesome-LLM-Robotics",
+    "title": "GitHub - GT-RIPL/Awesome-LLM-Robotics: A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
+    "latest": "2022-12-24T15:50:58+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@evolvingstuff/109569445614920408",
+      "content": "<p>A nice curated list of papers involving LLMs/robotics/RL/planning:</p><p><a href=\"https://github.com/GT-RIPL/Awesome-LLM-Robotics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/GT-RIPL/Awesome-LLM</span><span class=\"invisible\">-Robotics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@evolvingstuff",
+        "display_name": "evolvingstuff"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/issues/5597",
+    "title": "Idea: Memorial Pages \u00b7 Issue #5597 \u00b7 mastodon/mastodon",
+    "latest": "2022-12-24T15:14:18+00:00",
+    "last_post": {
+      "url": "https://cyberplace.social/@GossiTheDog/109569301460612588",
+      "content": "<p>If anybody is good at Ruby on Rails and has some time to spare, an undo feature for marking people as dead might be a good feature XD (it disables the person logging back in) <a href=\"https://github.com/mastodon/mastodon/issues/5597\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/5597</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://cyberplace.social/@GossiTheDog",
+        "display_name": "Kevin Beaumont"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/chubin/wttr.in",
+    "title": "https://github.com/chubin/wttr.in",
+    "latest": "2022-12-24T12:22:59+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jmcastagnetto/109566500449675349",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@hrbrmstr\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hrbrmstr</span></a></span> <br>Your last drop (<a href=\"https://dailyfinds.hrbrmstr.dev/p/drop-164-2022-12-23-twelve-days-of\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dailyfinds.hrbrmstr.dev/p/drop</span><span class=\"invisible\">-164-2022-12-23-twelve-days-of</span></a>) is very nice, with lots of <a href=\"https://mastodon.social/tags/weather\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>weather</span></a> apps. Although it is missing my fav wttr.in (<a href=\"https://github.com/chubin/wttr.in\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/chubin/wttr.in</span><span class=\"invisible\"></span></a>), which can easily be used at the command line.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sethmlarson/pypi-data/releases/tag/2022.12.23",
+    "title": "Release 2022-12-23 \u00b7 sethmlarson/pypi-data",
+    "latest": "2022-12-24T08:56:36+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@sethmlarson/109566240641104901",
+      "content": "<p>:python:\ud83d\udce6 New <a href=\"https://fosstodon.org/tags/dataset\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataset</span></a> of <a href=\"https://fosstodon.org/tags/PythonPackaging\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PythonPackaging</span></a> data right before Christmas! This one has data on over 400K <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> packages and 180K maintainers of those packages.</p><p>\ud83d\udc49  <a href=\"https://github.com/sethmlarson/pypi-data/releases/tag/2022.12.23\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sethmlarson/pypi-da</span><span class=\"invisible\">ta/releases/tag/2022.12.23</span></a></p><p>If you've never seen this project, it's a snapshot in time for most packages on <a href=\"https://fosstodon.org/tags/PyPI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyPI</span></a> with data about the package, maintainers, dependencies, URLs, <a href=\"https://fosstodon.org/tags/OpenSSF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSSF</span></a> scorecard data, and more! You can query it via <a href=\"https://fosstodon.org/tags/Datasette\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Datasette</span></a> or <a href=\"https://fosstodon.org/tags/SQLite\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SQLite</span></a>.</p><p>Check it out here: <a href=\"https://github.com/sethmlarson/pypi-data\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sethmlarson/pypi-da</span><span class=\"invisible\">ta</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hugovk",
+        "display_name": "hugovk"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sethmlarson/pypi-data",
+    "title": "github.com/sethmlarson/pypi-da...",
+    "latest": "2022-12-24T08:56:36+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@sethmlarson/109566240641104901",
+      "content": "<p>:python:\ud83d\udce6 New <a href=\"https://fosstodon.org/tags/dataset\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataset</span></a> of <a href=\"https://fosstodon.org/tags/PythonPackaging\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PythonPackaging</span></a> data right before Christmas! This one has data on over 400K <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> packages and 180K maintainers of those packages.</p><p>\ud83d\udc49  <a href=\"https://github.com/sethmlarson/pypi-data/releases/tag/2022.12.23\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sethmlarson/pypi-da</span><span class=\"invisible\">ta/releases/tag/2022.12.23</span></a></p><p>If you've never seen this project, it's a snapshot in time for most packages on <a href=\"https://fosstodon.org/tags/PyPI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyPI</span></a> with data about the package, maintainers, dependencies, URLs, <a href=\"https://fosstodon.org/tags/OpenSSF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSSF</span></a> scorecard data, and more! You can query it via <a href=\"https://fosstodon.org/tags/Datasette\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Datasette</span></a> or <a href=\"https://fosstodon.org/tags/SQLite\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SQLite</span></a>.</p><p>Check it out here: <a href=\"https://github.com/sethmlarson/pypi-data\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sethmlarson/pypi-da</span><span class=\"invisible\">ta</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hugovk",
+        "display_name": "hugovk"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/issues/20673",
+    "title": "user-controlled, abuse-resistent quote-boosting \u00b7 Issue #20673 \u00b7 mastodon/mastodon",
+    "latest": "2022-12-24T08:46:10+00:00",
+    "last_post": {
+      "url": "https://mas.to/@maegul/109567497678553119",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> I saw this GitHub issue linked by others:</p><p><a href=\"https://github.com/mastodon/mastodon/issues/20673\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/20673</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  }
+]

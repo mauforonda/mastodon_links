@@ -52,6 +52,7 @@ body {
     text-decoration: none;
     color: var(--text);
     padding: 0px 20px;
+    cursor: pointer;
   }
 
 .streams, .stream, .links {

@@ -14,6 +14,8 @@ LAST_UPDATE_PATH = 'update/update_time'
 CATALOG_DIR = 'data'
 DIGEST_DIR = 'docs'
 MAX_DIGEST_SIZE = 200
+IGNORELIST_PATH = 'update/ignorelist'
+LIST_DIRECTORY = 'update/lists'
 
 def make_dirs():
     """
@@ -75,13 +77,32 @@ def collect_newposts(start):
         page = mst.fetch_previous(page)
     return newposts
 
-def filter_links(post):
+def find_links(post):
     """
     Get a list of links in a post
     """
     
     content = post['content']
     return re.findall('(?<=<a href=")([^\"]*)(?=" rel="nofollow noopener noreferrer")', content)
+
+def read_ignorelist():
+    """
+    Read the list of domains to ignore
+    """
+    if os.path.exists(IGNORELIST_PATH):
+        with open(IGNORELIST_PATH, 'r') as f:
+            return [row.strip() for row in f.readlines()]
+    else:
+        return []
+
+def filter_links(links):
+    """
+    Filter out links in domains I want to ignore
+    """
+    if ignorelist:
+        return [link for link in links if URL.from_text(link).host not in ignorelist]
+    else:
+        return links
 
 def title_in_card(link, post):
     """
@@ -155,7 +176,7 @@ def process_post(post):
     if post['reblog']:
         post = post['reblog']
     
-    links = filter_links(post)
+    links = filter_links(find_links(post))
 
     if links:
         
@@ -209,25 +230,41 @@ def make_digest_shared(catalog, min_shared, since_hours):
     digest = sorted(digest, key=lambda x: len(x[1]['people']), reverse=True)
     return to_list(digest)[:MAX_DIGEST_SIZE]
 
+def make_digest_list(catalog, list_name):
+    """
+    Makes a feed for links from domains in custom lists
+    """
+    
+    with open(f'{LIST_DIRECTORY}/{list_name}', 'r') as f:
+        customlist = [row.strip() for row in f.readlines()]
+        digest = [i for i in catalog.items() if URL.from_text(i[0]).host in customlist]
+        digest = sorted(digest, key=lambda x: x[1]['latest'], reverse=True)
+        return to_list(digest)[:MAX_DIGEST_SIZE]
+
 def save_digest(digest, filename):
     """
     Saves a digest
     """
     digest_path = f'{DIGEST_DIR}/{filename}'
     with open(digest_path, 'w+') as f:
-        json.dump(digest, f)
+        json.dump(digest, f, indent=2)
 
-make_dirs() # Make the necessary directories 
+make_dirs() # Make the necessary directories
 mst = Mastodon(access_token=TOKEN, api_base_url=BASE_URL) # Prepare to make calls to mastodon
 start = get_last_update() # When was this last updated
 catalog = get_catalog() # Get the full list of links from past runs
 newposts = collect_newposts(start) # Get new posts
+ignorelist = read_ignorelist()
 for post in reversed(newposts): # Update the list with links from new posts
     process_post(post)
 
-digest_date = make_digest_date(catalog) # Sorts the catalog by last shared
+digest_date = make_digest_date(catalog) # A feed for the latest links
 save_digest(digest_date, 'latest.json')
-digest_shared = make_digest_shared(catalog, 2, 24) # Filters the most shared links within the last 24 hours
+digest_shared = make_digest_shared(catalog, 2, 24) # A feed for links shared at least twice in the past 24 hours
 save_digest(digest_shared,'shared.json')
+for list_name in os.listdir(LIST_DIRECTORY): # A feed for every topic list defined in the LIST_DIRECTORY
+    digest_list = make_digest_list(catalog, list_name)
+    save_digest(digest_list, f'{list_name}.json')
+
 set_catalog() # Save back the full list of links
 set_last_update() # Set the update time for future runs

@@ -1,9 +1,12 @@
-const digests = [
-    {filename: 'shared.json', id: 'popular', title: 'popular', subtitle: 'in the past 24 hours'},
-    {filename: 'latest.json', id: 'latest', title: 'latest', subtitle: '200 links'}
-]
+const digests = {
+    popular: {filename: 'shared.json', id: 'popular', title: 'popular', subtitle: 'in the past 24 hours'},
+    latest: {filename: 'latest.json', id: 'latest', title: 'latest', subtitle: '200 links'},
+    code: {filename: 'code.json', id: 'code', title: 'code', subtitle: 'latest'},
+    research: {filename: 'research.json', id: 'research', title: 'research', subtitle: 'latest'},
+    videos: {filename: 'videos.json', id: 'videos', title: 'videos', subtitle: 'latest'}
+}
 
-var dateFormat = {hour:"numeric", minute:"numeric", day: "numeric", month: 'long'}
+let current_stream
 
 newElement = (element, classList) => {
     const el = document.createElement(element)
@@ -87,7 +90,9 @@ download_and_render = (url, container) => {
 var nav = document.querySelector('.nav')
 var streams = document.querySelector('.streams')
 
-digests.forEach(digest => {   
+render_digest = (digest_name) => {
+
+    const digest = digests[digest_name]
 
     var stream = newElement('div','stream')
     var anchor = newElement('a', 'anchor')
@@ -107,8 +112,27 @@ digests.forEach(digest => {
     streams.appendChild(anchor)
     streams.appendChild(stream)
 
+    current_stream = digest_name
+}
+
+navHandler = (e) => {
+    var digest_name  = e.target.dataset.digest
+    if (current_stream != digest_name) {
+        document.querySelector('.stream').remove()
+        render_digest(digest_name)
+    }
+}
+
+Object.keys(digests).forEach(digest_name => {
+
+    var digest = digests[digest_name]
     var navlink = newElement('a', 'navlink')
-    navlink.href = `#${digest.id}`
     navlink.textContent = digest.title
+    navlink.dataset.digest = digest_name
+    navlink.addEventListener('click', navHandler)
+    
     nav.appendChild(navlink)
+
 })
+
+render_digest('popular')
