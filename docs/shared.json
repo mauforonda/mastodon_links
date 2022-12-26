@@ -45,10 +45,10 @@
   {
     "link": "https://www.technologyreview.com/2022/12/24/1066041/a-startup-says-its-begun-releasing-particles-into-the-atmosphere-in-an-effort-to-tweak-the-climate/",
     "title": "A startup says it\u2019s begun releasing particles into the atmosphere, in an effort to tweak the climate",
-    "latest": "2022-12-25T18:53:05+00:00",
+    "latest": "2022-12-26T08:23:24+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@eckles/109575824062224358",
-      "content": "<p>Startup says it has used balloons to release sulfur to cool Earth</p><p>Seems like a provocative stunt more than a real benefit or risk</p><p><a href=\"https://www.technologyreview.com/2022/12/24/1066041/a-startup-says-its-begun-releasing-particles-into-the-atmosphere-in-an-effort-to-tweak-the-climate/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">technologyreview.com/2022/12/2</span><span class=\"invisible\">4/1066041/a-startup-says-its-begun-releasing-particles-into-the-atmosphere-in-an-effort-to-tweak-the-climate/</span></a></p>"
+      "url": "https://sfba.social/@drahardja/109578819113808878",
+      "content": "<p>Of all the things that startups are worst-suited to do, going rogue and doing unilateral geoengineering to get rich sell cooling credits has to be one of the worst. <a href=\"https://www.technologyreview.com/2022/12/24/1066041/a-startup-says-its-begun-releasing-particles-into-the-atmosphere-in-an-effort-to-tweak-the-climate/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">technologyreview.com/2022/12/2</span><span class=\"invisible\">4/1066041/a-startup-says-its-begun-releasing-particles-into-the-atmosphere-in-an-effort-to-tweak-the-climate/</span></a></p>"
     },
     "people": [
       {
@@ -66,6 +66,10 @@
       {
         "url": "https://mastodon.social/@eckles",
         "display_name": "Dean Eckles"
+      },
+      {
+        "url": "https://mathstodon.xyz/@gregeganSF",
+        "display_name": "Greg Egan"
       }
     ]
   },
@@ -226,25 +230,6 @@
     ]
   },
   {
-    "link": "https://bird.makeup/",
-    "title": "https://bird.makeup",
-    "latest": "2022-12-25T08:03:21+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@awilbert/109553409408694575",
-      "content": "<p>One of the things I would miss here on Mastodon was all of the alerts from my local infrastructure and government twitter accounts. These will likely take a very long time to make the migration. </p><p>With <a href=\"https://bird.makeup\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bird.makeup</span><span class=\"invisible\"></span></a>, you can create bot accounts that put those tweets in your Mastodon timeline. For instance, I follow the Washington State Patrol account for regional weather related road closures and accident reports:</p><p><span class=\"h-card\"><a href=\"https://bird.makeup/users/wspd7pio\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>wspd7pio</span></a></span></p><p>EDIT: I Should have tagged the project's creator: <span class=\"h-card\"><a href=\"https://social.librem.one/@vincent\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vincent</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@richardtol",
-        "display_name": "Prof Dr Richard S.J. Tol MAE"
-      },
-      {
-        "url": "https://infosec.exchange/@hacks4pancakes",
-        "display_name": "Lesley Carhart :unverified:"
-      }
-    ]
-  },
-  {
     "link": "https://www.nytimes.com/2022/12/25/opinion/christmas-gay-pride.html",
     "title": "Opinion | My Christmas Gift to Myself: Pride",
     "latest": "2022-12-25T17:12:16+00:00",
@@ -260,6 +245,25 @@
       {
         "url": "https://mastodon.social/@mikeolson",
         "display_name": "Mike Olson"
+      }
+    ]
+  },
+  {
+    "link": "https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophoslabs-uncut-mykings-report.pdf",
+    "title": "sophos.com/en-us/medialibrary/...",
+    "latest": "2022-12-26T06:30:16+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@SwiftOnSecurity/109577391312742716",
+      "content": "<p>Via <span class=\"h-card\"><a href=\"https://infosec.exchange/@sophos\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sophos</span></a></span>: The cryptocurrency mining botnet embedding its code into pictures of Taylor Swift<br><a href=\"https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophoslabs-uncut-mykings-report.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">sophos.com/en-us/medialibrary/</span><span class=\"invisible\">pdfs/technical-papers/sophoslabs-uncut-mykings-report.pdf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@gettingcomputey",
+        "display_name": "Javi"
+      },
+      {
+        "url": "https://cyberplace.social/@GossiTheDog",
+        "display_name": "Kevin Beaumont"
       }
     ]
   }
