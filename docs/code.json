@@ -2,7 +2,7 @@
   {
     "link": "https://github.com/corkami/pics/blob/master/binary/README.md#images",
     "title": "pics/README.md at master \u00b7 corkami/pics",
-    "latest": "2022-12-27T01:27:40+00:00",
+    "latest": "2022-12-27T06:08:49.804000+00:00",
     "last_post": {
       "url": "https://mastodon.social/@Ange/109581237243116686",
       "content": "<p>My file formats dissection repo should be now up-to-date.<br><a href=\"https://github.com/corkami/pics/blob/master/binary/README.md#images\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/corkami/pics/blob/m</span><span class=\"invisible\">aster/binary/README.md#images</span></a></p>"
@@ -11,6 +11,44 @@
       {
         "url": "https://recurse.social/@ballingt",
         "display_name": "Tom Ballinger"
+      },
+      {
+        "url": "https://hachyderm.io/@ramonpage",
+        "display_name": "Ramon :verified_paw:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jvns/manage-boosts/blob/main/mastodon-login-example.html",
+    "title": "manage-boosts/mastodon-login-example.html at main \u00b7 jvns/manage-boosts",
+    "latest": "2022-12-27T03:44:42+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@b0rk/109583576768217779",
+      "content": "<p>I also made a little mastodon.js library that has no dependencies, I didn't document it but there's a small example of how to use it here <a href=\"https://github.com/jvns/manage-boosts/blob/main/mastodon-login-example.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jvns/manage-boosts/</span><span class=\"invisible\">blob/main/mastodon-login-example.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@b0rk",
+        "display_name": "Julia Evans"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jvns/manage-boosts",
+    "title": "https://github.com/jvns/manage-boosts",
+    "latest": "2022-12-27T03:28:40+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@b0rk/109583513690634018",
+      "content": "<p>tiny holiday project: I made a little site to show/hide boosts for the people you follow on Mastodon, using the Mastodon API <a href=\"https://manage-boosts.jvns.ca/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">manage-boosts.jvns.ca/</span><span class=\"invisible\"></span></a></p><p>I'm not really taking feature requests but I found it helpful so I'm sharing in case other folks do as well</p><p>the code is here: <a href=\"https://github.com/jvns/manage-boosts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jvns/manage-boosts</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mamot.fr/@pluralistic",
+        "display_name": "Cory Doctorow's linkblog"
+      },
+      {
+        "url": "https://mastodon.social/@b0rk",
+        "display_name": "Julia Evans"
       }
     ]
   },
