@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.com/NeuromatchAcademy/mastodon/tree/feature-fetch-replies",
+    "title": "GitHub - NeuromatchAcademy/mastodon at feature-fetch-replies",
+    "latest": "2022-12-27T19:38:40+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@jonny/109582537808504261",
+      "content": "<p>OK Here's a basic implementation of <a href=\"https://neuromatch.social/tags/FetchAllReplies\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FetchAllReplies</span></a> :<br><a href=\"https://github.com/NeuromatchAcademy/mastodon/tree/feature-fetch-replies\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/NeuromatchAcademy/m</span><span class=\"invisible\">astodon/tree/feature-fetch-replies</span></a></p><p>Button at the bottom of a thread that lets you load more replies. It queries the context endpoint of the host server to get a list of replies, and then since I noticed that merely searching for a post will add it to the database, I just did that here and searched for all the posts. </p><p>Need to find a more direct way to add posts directly without having to ping all the involved servers, and also currently you need to do a refresh after clicking the button rather than the new posts being added dynamically, but anyway it's a first draft.</p><p><a href=\"https://neuromatch.social/tags/MastoDev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoDev</span></a> <a href=\"https://neuromatch.social/tags/HackThePlanet\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HackThePlanet</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/google-research/maxvit",
+    "title": "github.com/google-research/max...",
+    "latest": "2022-12-27T18:43:27+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109587110805054856",
+      "content": "<p>Compiling my yearly top-papers list and \"MaxViT: Multi-axis Vision Transformer\" should probably make the cut. </p><p>MaxViT is a vision transformer with local-global interaction between visual tokens within a single block. </p><p>The so-called multi-axis attention scales linearly (vs quadratic complexity in the original ViT).</p><p>You can use it for<br>- classification<br>- object detection<br>- instance segmentation</p><p>and generative modeling.</p><p>Paper: <a href=\"https://arxiv.org/abs/2204.01697\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2204.01697</span><span class=\"invisible\"></span></a></p><p>Code: <a href=\"https://github.com/google-research/maxvit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/google-research/max</span><span class=\"invisible\">vit</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/tts/Varia/blob/main/hockeyplayers.R",
     "title": "Varia/hockeyplayers.R at main \u00b7 tts/Varia",
     "latest": "2022-12-27T18:06:19+00:00",
