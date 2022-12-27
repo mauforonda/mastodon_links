@@ -2,10 +2,10 @@
   {
     "link": "https://followgraph.vercel.app/",
     "title": "Followgraph for Mastodon",
-    "latest": "2022-12-27T09:50:23+00:00",
+    "latest": "2022-12-27T15:05:11+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@ctietze/109585014711515604",
-      "content": "<p><a href=\"https://followgraph.vercel.app/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">followgraph.vercel.app/</span><span class=\"invisible\"></span></a> </p><p>Followgraph for Mastodon is really cool -- not *just* to discover new people, but also to find folks again that eluded my transition to Mastodon.</p><p>Be careful if you use the advanced web UI, though -- I got rate limited because each \"Follow\" link opened a new tab which in turn displayed all the columns</p>"
+      "url": "https://econtwitter.net/@TradingPlacesResearch/109586252519235780",
+      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@mauforonda\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mauforonda</span></a></span> Another good tool <a href=\"https://followgraph.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">followgraph.vercel.app</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
@@ -61,7 +61,7 @@
   {
     "link": "https://www.nytimes.com/2022/12/26/nyregion/george-santos-interview.html",
     "title": "nytimes.com/2022/12/26/nyregio...",
-    "latest": "2022-12-27T09:17:57+00:00",
+    "latest": "2022-12-27T13:36:30+00:00",
     "last_post": {
       "url": "https://mastodon.archive.org/@brewsterkahle/109583479335233354",
       "content": "<p>Wayback Machine is useful to journalists. Very. But we need to archive. Very.</p><p>\"Past statements of Mr. Santos are relatively clear however: An archived version of Mr. Santos\u2019s former campaign website preserved by the Wayback Machine says that he \u201cbegan working at Citigroup as an associate and quickly advanced to become an associate asset manager in the real asset division of the firm.\u201d\"  </p><p><a href=\"https://www.nytimes.com/2022/12/26/nyregion/george-santos-interview.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2022/12/26/nyregio</span><span class=\"invisible\">n/george-santos-interview.html</span></a></p><p>(don't mean to be partisan, just timely)</p><p>Please donate.<br><a href=\"https://archive.org/donate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">archive.org/donate</span><span class=\"invisible\"></span></a></p>"
@@ -82,6 +82,45 @@
       {
         "url": "https://mastodon.social/@henryfarrell",
         "display_name": "Henry Farrell"
+      },
+      {
+        "url": "https://toolsforthought.rocks/@billseitz",
+        "display_name": "Bill Seitz"
+      },
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      }
+    ]
+  },
+  {
+    "link": "https://archive.org/donate",
+    "title": "https://archive.org/donate",
+    "latest": "2022-12-27T13:36:30+00:00",
+    "last_post": {
+      "url": "https://mastodon.archive.org/@brewsterkahle/109583479335233354",
+      "content": "<p>Wayback Machine is useful to journalists. Very. But we need to archive. Very.</p><p>\"Past statements of Mr. Santos are relatively clear however: An archived version of Mr. Santos\u2019s former campaign website preserved by the Wayback Machine says that he \u201cbegan working at Citigroup as an associate and quickly advanced to become an associate asset manager in the real asset division of the firm.\u201d\"  </p><p><a href=\"https://www.nytimes.com/2022/12/26/nyregion/george-santos-interview.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2022/12/26/nyregio</span><span class=\"invisible\">n/george-santos-interview.html</span></a></p><p>(don't mean to be partisan, just timely)</p><p>Please donate.<br><a href=\"https://archive.org/donate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">archive.org/donate</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mamot.fr/@pluralistic",
+        "display_name": "Cory Doctorow's linkblog"
+      },
+      {
+        "url": "https://mastodon.archive.org/@brewsterkahle",
+        "display_name": "Brewster Kahle"
+      },
+      {
+        "url": "https://mastodon.social/@henryfarrell",
+        "display_name": "Henry Farrell"
+      },
+      {
+        "url": "https://toolsforthought.rocks/@billseitz",
+        "display_name": "Bill Seitz"
+      },
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
       }
     ]
   },
@@ -155,6 +194,29 @@
     ]
   },
   {
+    "link": "https://github.com/scikit-learn/scikit-learn/releases/tag/1.2.0",
+    "title": "Release Scikit-learn 1.2.0 \u00b7 scikit-learn/scikit-learn",
+    "latest": "2022-12-27T13:27:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109581372828613810",
+      "content": "<p>Scikit-learn 1.2 is out: <a href=\"https://github.com/scikit-learn/scikit-learn/releases/tag/1.2.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scikit-learn/scikit</span><span class=\"invisible\">-learn/releases/tag/1.2.0</span></a></p><p>Was an eventful December &amp; I totally missed the new release of my favorite <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> library!</p><p>My personal highlights are around the HistGradientBoostingClassifier (if you haven't used it yet, it's a LightGBM impl that works really well)</p><p>It now supports</p><p>1.  interaction constraints (in trees, features that appear along a particular path are considered as \"interacting\")<br>2.  class weights<br>3.  feature names for categorical features</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      },
+      {
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
+      },
+      {
+        "url": "https://mastodon.social/@GaelVaroquaux",
+        "display_name": "Ga\u00ebl Varoquaux"
+      }
+    ]
+  },
+  {
     "link": "https://nypost.com/2022/12/26/rep-elect-george-santos-admits-fabricating-key-details-of-his-bio/",
     "title": "Liar Rep.-elect George Santos admits fabricating key details of his bio",
     "latest": "2022-12-27T02:46:52+00:00",
@@ -220,29 +282,6 @@
       {
         "url": "https://infosec.exchange/@thegrugq",
         "display_name": "the grugq"
-      }
-    ]
-  },
-  {
-    "link": "https://archive.org/donate",
-    "title": "https://archive.org/donate",
-    "latest": "2022-12-27T09:17:57+00:00",
-    "last_post": {
-      "url": "https://mastodon.archive.org/@brewsterkahle/109583479335233354",
-      "content": "<p>Wayback Machine is useful to journalists. Very. But we need to archive. Very.</p><p>\"Past statements of Mr. Santos are relatively clear however: An archived version of Mr. Santos\u2019s former campaign website preserved by the Wayback Machine says that he \u201cbegan working at Citigroup as an associate and quickly advanced to become an associate asset manager in the real asset division of the firm.\u201d\"  </p><p><a href=\"https://www.nytimes.com/2022/12/26/nyregion/george-santos-interview.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2022/12/26/nyregio</span><span class=\"invisible\">n/george-santos-interview.html</span></a></p><p>(don't mean to be partisan, just timely)</p><p>Please donate.<br><a href=\"https://archive.org/donate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">archive.org/donate</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mamot.fr/@pluralistic",
-        "display_name": "Cory Doctorow's linkblog"
-      },
-      {
-        "url": "https://mastodon.archive.org/@brewsterkahle",
-        "display_name": "Brewster Kahle"
-      },
-      {
-        "url": "https://mastodon.social/@henryfarrell",
-        "display_name": "Henry Farrell"
       }
     ]
   },
@@ -319,6 +358,25 @@
       {
         "url": "https://xoxo.zone/@lauraehall",
         "display_name": "Laura E. Hall"
+      }
+    ]
+  },
+  {
+    "link": "https://www.aiweirdness.com/victorian-christmas-cards-by-ai/",
+    "title": "Victorian Holiday cards by AI",
+    "latest": "2022-12-27T12:31:03+00:00",
+    "last_post": {
+      "url": "https://wandering.shop/@janellecshane/109585646441213606",
+      "content": "<p>I did my best to illustrate GPT-3's attempt at generating a Victorian holiday card. I hope it adequately conveys my wishes for the future.<br><a href=\"https://www.aiweirdness.com/victorian-christmas-cards-by-ai/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">aiweirdness.com/victorian-chri</span><span class=\"invisible\">stmas-cards-by-ai/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      },
+      {
+        "url": "https://wandering.shop/@janellecshane",
+        "display_name": "Janelle Shane"
       }
     ]
   },
@@ -452,25 +510,6 @@
       {
         "url": "https://fedihum.org/@christof",
         "display_name": "Christof Sch\u00f6ch (moderator)"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/scikit-learn/scikit-learn/releases/tag/1.2.0",
-    "title": "Release Scikit-learn 1.2.0 \u00b7 scikit-learn/scikit-learn",
-    "latest": "2022-12-27T00:20:35+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@SebRaschka/109581372828613810",
-      "content": "<p>Scikit-learn 1.2 is out: <a href=\"https://github.com/scikit-learn/scikit-learn/releases/tag/1.2.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scikit-learn/scikit</span><span class=\"invisible\">-learn/releases/tag/1.2.0</span></a></p><p>Was an eventful December &amp; I totally missed the new release of my favorite <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> library!</p><p>My personal highlights are around the HistGradientBoostingClassifier (if you haven't used it yet, it's a LightGBM impl that works really well)</p><p>It now supports</p><p>1.  interaction constraints (in trees, features that appear along a particular path are considered as \"interacting\")<br>2.  class weights<br>3.  feature names for categorical features</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@SebRaschka",
-        "display_name": "Sebastian Raschka"
-      },
-      {
-        "url": "https://sigmoid.social/@ogrisel",
-        "display_name": "Olivier Grisel"
       }
     ]
   },
@@ -642,6 +681,82 @@
       {
         "url": "https://social.coop/@Laura",
         "display_name": "Laura James"
+      }
+    ]
+  },
+  {
+    "link": "https://pudding.cool/2022/12/yard-sale",
+    "title": "https://pudding.cool/2022/12/yard-sale",
+    "latest": "2022-12-27T14:08:43+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@nachtfunke/109584992508400451",
+      "content": "<p>Damn, what an article! <a href=\"https://pudding.cool/2022/12/yard-sale\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pudding.cool/2022/12/yard-sale</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@devdevcharlie",
+        "display_name": "Charlie Gerard"
+      },
+      {
+        "url": "https://mastodon.social/@jonkeegan",
+        "display_name": "Jon Keegan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "title": "GitHub - AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin: A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
+    "latest": "2022-12-27T13:08:10+00:00",
+    "last_post": {
+      "url": "https://social.skewed.de/@tiago/109585318154798575",
+      "content": "<p>Ok, this is cool.</p><p>RT @_akhaliq@twitter.com</p><p>Auto-Photoshop-StableDiffusion-Plugin, Automatic1111 Stable Diffusion @Gradio@twitter.com Web UI API with Photoshop</p><p>github: <a href=\"https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AbdullahAlfaraj/Aut</span><span class=\"invisible\">o-Photoshop-StableDiffusion-Plugin</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/_akhaliq/status/1607410840562458624\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_akhaliq/status/16</span><span class=\"invisible\">07410840562458624</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.skewed.de/@tiago",
+        "display_name": "Tiago Peixoto"
+      },
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      }
+    ]
+  },
+  {
+    "link": "https://www.bloomberg.com/features/2022-india-plastic-recycling-pollution/",
+    "title": "Amazon Packages Burn in India, Last Stop in Broken Plastic Recycling System",
+    "latest": "2022-12-27T13:58:06+00:00",
+    "last_post": {
+      "url": "https://techhub.social/@Techmeme/109585841383081268",
+      "content": "<p>An investigation shows how Amazon plastic shipping envelopes, discarded for recycling by US and Canadian consumers, end up being burned in Muzaffarnagar, India (K Oanh Ha/Bloomberg)</p><p><a href=\"https://www.bloomberg.com/features/2022-india-plastic-recycling-pollution/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/features/2022-in</span><span class=\"invisible\">dia-plastic-recycling-pollution/</span></a><br><a href=\"http://www.techmeme.com/221227/p11#a221227p11\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">techmeme.com/221227/p11#a22122</span><span class=\"invisible\">7p11</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toolsforthought.rocks/@billseitz",
+        "display_name": "Bill Seitz"
+      },
+      {
+        "url": "https://mastodon.social/@jonkeegan",
+        "display_name": "Jon Keegan"
+      }
+    ]
+  },
+  {
+    "link": "http://www.techmeme.com/221227/p11#a221227p11",
+    "title": "techmeme.com/221227/p11#a22122...",
+    "latest": "2022-12-27T13:58:06+00:00",
+    "last_post": {
+      "url": "https://techhub.social/@Techmeme/109585841383081268",
+      "content": "<p>An investigation shows how Amazon plastic shipping envelopes, discarded for recycling by US and Canadian consumers, end up being burned in Muzaffarnagar, India (K Oanh Ha/Bloomberg)</p><p><a href=\"https://www.bloomberg.com/features/2022-india-plastic-recycling-pollution/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/features/2022-in</span><span class=\"invisible\">dia-plastic-recycling-pollution/</span></a><br><a href=\"http://www.techmeme.com/221227/p11#a221227p11\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">techmeme.com/221227/p11#a22122</span><span class=\"invisible\">7p11</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toolsforthought.rocks/@billseitz",
+        "display_name": "Bill Seitz"
+      },
+      {
+        "url": "https://mastodon.social/@jonkeegan",
+        "display_name": "Jon Keegan"
       }
     ]
   }

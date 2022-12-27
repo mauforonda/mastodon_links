@@ -1,8 +1,31 @@
 [
   {
+    "link": "https://github.com/scikit-learn/scikit-learn/releases/tag/1.2.0",
+    "title": "Release Scikit-learn 1.2.0 \u00b7 scikit-learn/scikit-learn",
+    "latest": "2022-12-27T13:27:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109581372828613810",
+      "content": "<p>Scikit-learn 1.2 is out: <a href=\"https://github.com/scikit-learn/scikit-learn/releases/tag/1.2.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scikit-learn/scikit</span><span class=\"invisible\">-learn/releases/tag/1.2.0</span></a></p><p>Was an eventful December &amp; I totally missed the new release of my favorite <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> library!</p><p>My personal highlights are around the HistGradientBoostingClassifier (if you haven't used it yet, it's a LightGBM impl that works really well)</p><p>It now supports</p><p>1.  interaction constraints (in trees, features that appear along a particular path are considered as \"interacting\")<br>2.  class weights<br>3.  feature names for categorical features</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      },
+      {
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
+      },
+      {
+        "url": "https://mastodon.social/@GaelVaroquaux",
+        "display_name": "Ga\u00ebl Varoquaux"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
     "title": "GitHub - AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin: A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
-    "latest": "2022-12-27T11:07:34+00:00",
+    "latest": "2022-12-27T13:08:10+00:00",
     "last_post": {
       "url": "https://social.skewed.de/@tiago/109585318154798575",
       "content": "<p>Ok, this is cool.</p><p>RT @_akhaliq@twitter.com</p><p>Auto-Photoshop-StableDiffusion-Plugin, Automatic1111 Stable Diffusion @Gradio@twitter.com Web UI API with Photoshop</p><p>github: <a href=\"https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AbdullahAlfaraj/Aut</span><span class=\"invisible\">o-Photoshop-StableDiffusion-Plugin</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/_akhaliq/status/1607410840562458624\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_akhaliq/status/16</span><span class=\"invisible\">07410840562458624</span></a></p>"
@@ -11,6 +34,10 @@
       {
         "url": "https://social.skewed.de/@tiago",
         "display_name": "Tiago Peixoto"
+      },
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
       }
     ]
   },
@@ -79,25 +106,6 @@
       {
         "url": "https://mastodon.social/@b0rk",
         "display_name": "Julia Evans"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/scikit-learn/scikit-learn/releases/tag/1.2.0",
-    "title": "Release Scikit-learn 1.2.0 \u00b7 scikit-learn/scikit-learn",
-    "latest": "2022-12-27T00:20:35+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@SebRaschka/109581372828613810",
-      "content": "<p>Scikit-learn 1.2 is out: <a href=\"https://github.com/scikit-learn/scikit-learn/releases/tag/1.2.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scikit-learn/scikit</span><span class=\"invisible\">-learn/releases/tag/1.2.0</span></a></p><p>Was an eventful December &amp; I totally missed the new release of my favorite <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> library!</p><p>My personal highlights are around the HistGradientBoostingClassifier (if you haven't used it yet, it's a LightGBM impl that works really well)</p><p>It now supports</p><p>1.  interaction constraints (in trees, features that appear along a particular path are considered as \"interacting\")<br>2.  class weights<br>3.  feature names for categorical features</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@SebRaschka",
-        "display_name": "Sebastian Raschka"
-      },
-      {
-        "url": "https://sigmoid.social/@ogrisel",
-        "display_name": "Olivier Grisel"
       }
     ]
   },
