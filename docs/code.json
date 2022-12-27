@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://github.com/scikit-learn/scikit-learn/releases/tag/1.2.0",
+    "title": "Release Scikit-learn 1.2.0 \u00b7 scikit-learn/scikit-learn",
+    "latest": "2022-12-27T00:20:35+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109581372828613810",
+      "content": "<p>Scikit-learn 1.2 is out: <a href=\"https://github.com/scikit-learn/scikit-learn/releases/tag/1.2.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scikit-learn/scikit</span><span class=\"invisible\">-learn/releases/tag/1.2.0</span></a></p><p>Was an eventful December &amp; I totally missed the new release of my favorite <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> library!</p><p>My personal highlights are around the HistGradientBoostingClassifier (if you haven't used it yet, it's a LightGBM impl that works really well)</p><p>It now supports</p><p>1.  interaction constraints (in trees, features that appear along a particular path are considered as \"interacting\")<br>2.  class weights<br>3.  feature names for categorical features</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      },
+      {
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/nolanlawson/pinafore/releases/tag/v2.5.1",
+    "title": "Release v2.5.1 \u00b7 nolanlawson/pinafore",
+    "latest": "2022-12-26T23:38:13+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@pinafore/109581664195239737",
+      "content": "<p>Some accessibility fixes in this release, with contributions by <span class=\"h-card\"><a href=\"https://toot.cat/@nickcolley\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nickcolley</span></a></span> and <span class=\"h-card\"><a href=\"https://mas.to/@norrumar\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>norrumar</span></a></span>. Enjoy!</p><p><a href=\"https://github.com/nolanlawson/pinafore/releases/tag/v2.5.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nolanlawson/pinafor</span><span class=\"invisible\">e/releases/tag/v2.5.1</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@asadotzler",
+        "display_name": "Asa Dotzler"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/shapr/f9fa407f60bc78c64efb74d5d658af68",
+    "title": "gist.github.com/shapr/f9fa407f...",
+    "latest": "2022-12-26T21:56:54+00:00",
+    "last_post": {
+      "url": "https://recurse.social/@shapr/109582068448270193",
+      "content": "<p><span class=\"h-card\"><a href=\"https://types.pl/@ezyang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ezyang</span></a></span> I like the section on \"Watching Myself Code\" from <a href=\"https://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">malisper.me/how-to-improve-you</span><span class=\"invisible\">r-productivity-as-a-working-programmer/</span></a></p><p>It's a painful experience, but every time I see obvious improvements.</p><p>I made myself an ffmpeg command to record two frames a second and downscale to 1080p from 4k: <a href=\"https://gist.github.com/shapr/f9fa407f60bc78c64efb74d5d658af68\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/shapr/f9fa407f</span><span class=\"invisible\">60bc78c64efb74d5d658af68</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://types.pl/@ezyang",
+        "display_name": "Edward Z. Yang"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/rust-lang/rust/pull/105586",
     "title": "Experimental feature gate proposal `interoperable_abi` by joshtriplett \u00b7 Pull Request #105586 \u00b7 rust-lang/rust",
     "latest": "2022-12-26T21:03:15.823000+00:00",
@@ -41,21 +90,6 @@
       {
         "url": "https://tech.intersects.art/@xor",
         "display_name": "Parker Higgins"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/scikit-learn/scikit-learn/releases/tag/1.2.0",
-    "title": "Release Scikit-learn 1.2.0 \u00b7 scikit-learn/scikit-learn",
-    "latest": "2022-12-26T18:24:13+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@SebRaschka/109581372828613810",
-      "content": "<p>Scikit-learn 1.2 is out: <a href=\"https://github.com/scikit-learn/scikit-learn/releases/tag/1.2.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scikit-learn/scikit</span><span class=\"invisible\">-learn/releases/tag/1.2.0</span></a></p><p>Was an eventful December &amp; I totally missed the new release of my favorite <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> library!</p><p>My personal highlights are around the HistGradientBoostingClassifier (if you haven't used it yet, it's a LightGBM impl that works really well)</p><p>It now supports</p><p>1.  interaction constraints (in trees, features that appear along a particular path are considered as \"interacting\")<br>2.  class weights<br>3.  feature names for categorical features</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@SebRaschka",
-        "display_name": "Sebastian Raschka"
       }
     ]
   },
