@@ -1,5 +1,99 @@
 [
   {
+    "link": "https://gist.github.com/aphyr/2d0e7ab357f2e4e609154576b47caea2",
+    "title": "woof.group migration checklist",
+    "latest": "2022-12-28T00:25:31+00:00",
+    "last_post": {
+      "url": "https://woof.group/@aphyr/109588107055476625",
+      "content": "<p>The \"did I pack everything?\" migration checklist is ready... rehearsed as far as I can before actually flipping the DNS and (presumably) totally messing up federation. Fingers crossed for tomorrow!</p><p><a href=\"https://gist.github.com/aphyr/2d0e7ab357f2e4e609154576b47caea2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/aphyr/2d0e7ab3</span><span class=\"invisible\">57f2e4e609154576b47caea2</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://recurse.social/@ballingt",
+        "display_name": "Tom Ballinger"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/issues/20673",
+    "title": "user-controlled, abuse-resistent quote-boosting \u00b7 Issue #20673 \u00b7 mastodon/mastodon",
+    "latest": "2022-12-27T23:52:11+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@jdp23/109587048432759238",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@victoriadecapua\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>victoriadecapua</span></a></span> <span class=\"h-card\"><a href=\"https://mstdn.social/@joeinwynnewood\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joeinwynnewood</span></a></span> <span class=\"h-card\"><a href=\"https://zirk.us/@shengokai\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>shengokai</span></a></span> <span class=\"h-card\"><a href=\"https://wandering.shop/@Quinnae_Moon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Quinnae_Moon</span></a></span> Yep. And, the way that using Github prirotizes feedback from devs (and dev-adjacent people) over everybody else has been pointed out for years ... yet another reason your concerns about dev responsiveness are on target!</p><p>Here's three github threads on quoting::</p><p>- original, from 2017: <a href=\"https://github.com/mastodon/mastodon/issues/309\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/309</span></a></p><p>- <a href=\"https://github.com/mastodon/mastodon/issues/14597#issuecomment-1362907651\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/14597#issuecomment-1362907651</span></a> (with a great comment from <span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> ) </p><p>- <a href=\"https://github.com/mastodon/mastodon/issues/20673\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/20673</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://neuromatch.social/@jonny",
+        "display_name": "Jonny"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/issues/309",
+    "title": "quote + boost \u00b7 Issue #309 \u00b7 mastodon/mastodon",
+    "latest": "2022-12-27T23:52:11+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@jdp23/109587048432759238",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@victoriadecapua\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>victoriadecapua</span></a></span> <span class=\"h-card\"><a href=\"https://mstdn.social/@joeinwynnewood\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joeinwynnewood</span></a></span> <span class=\"h-card\"><a href=\"https://zirk.us/@shengokai\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>shengokai</span></a></span> <span class=\"h-card\"><a href=\"https://wandering.shop/@Quinnae_Moon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Quinnae_Moon</span></a></span> Yep. And, the way that using Github prirotizes feedback from devs (and dev-adjacent people) over everybody else has been pointed out for years ... yet another reason your concerns about dev responsiveness are on target!</p><p>Here's three github threads on quoting::</p><p>- original, from 2017: <a href=\"https://github.com/mastodon/mastodon/issues/309\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/309</span></a></p><p>- <a href=\"https://github.com/mastodon/mastodon/issues/14597#issuecomment-1362907651\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/14597#issuecomment-1362907651</span></a> (with a great comment from <span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> ) </p><p>- <a href=\"https://github.com/mastodon/mastodon/issues/20673\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/20673</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@jonny",
+        "display_name": "Jonny"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/issues/14597#issuecomment-1362907651",
+    "title": "github.com/mastodon/mastodon/i...",
+    "latest": "2022-12-27T23:52:11+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@jdp23/109587048432759238",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@victoriadecapua\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>victoriadecapua</span></a></span> <span class=\"h-card\"><a href=\"https://mstdn.social/@joeinwynnewood\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joeinwynnewood</span></a></span> <span class=\"h-card\"><a href=\"https://zirk.us/@shengokai\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>shengokai</span></a></span> <span class=\"h-card\"><a href=\"https://wandering.shop/@Quinnae_Moon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Quinnae_Moon</span></a></span> Yep. And, the way that using Github prirotizes feedback from devs (and dev-adjacent people) over everybody else has been pointed out for years ... yet another reason your concerns about dev responsiveness are on target!</p><p>Here's three github threads on quoting::</p><p>- original, from 2017: <a href=\"https://github.com/mastodon/mastodon/issues/309\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/309</span></a></p><p>- <a href=\"https://github.com/mastodon/mastodon/issues/14597#issuecomment-1362907651\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/14597#issuecomment-1362907651</span></a> (with a great comment from <span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> ) </p><p>- <a href=\"https://github.com/mastodon/mastodon/issues/20673\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/20673</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@jonny",
+        "display_name": "Jonny"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/1011X/rever",
+    "title": "GitHub - 1011X/rever: Experimental reversible programming language",
+    "latest": "2022-12-27T22:50:55+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@neauoire/109587922657017520",
+      "content": "<p><span class=\"h-card\"><a href=\"https://sigmoid.social/@R4_Unit\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>R4_Unit</span></a></span> <span class=\"h-card\"><a href=\"https://eldritch.cafe/@anni\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>anni</span></a></span> this language by <span class=\"h-card\"><a href=\"https://toot.cat/@1011X\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>1011X</span></a></span> uses a zero as one of the parameters to preserve the arg count: <a href=\"https://github.com/1011X/rever\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/1011X/rever</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/scripting/feedlandSupport/issues/153",
+    "title": "New feature: Searching feed titles \u00b7 Issue #153 \u00b7 scripting/feedlandSupport",
+    "latest": "2022-12-27T21:50:12+00:00",
+    "last_post": {
+      "url": "https://social.masto.land/@dave/109587840780972190",
+      "content": "<p>A new FeedLand feature -- you can now search titles of feeds.</p><p><a href=\"https://github.com/scripting/feedlandSupport/issues/153\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scripting/feedlandS</span><span class=\"invisible\">upport/issues/153</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2618\ufe0f"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/NeuromatchAcademy/mastodon/tree/feature-fetch-replies",
     "title": "GitHub - NeuromatchAcademy/mastodon at feature-fetch-replies",
     "latest": "2022-12-27T19:38:40+00:00",
@@ -572,21 +666,6 @@
       {
         "url": "https://mastodon.social/@hugovk",
         "display_name": "hugovk"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues/20673",
-    "title": "user-controlled, abuse-resistent quote-boosting \u00b7 Issue #20673 \u00b7 mastodon/mastodon",
-    "latest": "2022-12-24T08:46:10+00:00",
-    "last_post": {
-      "url": "https://mas.to/@maegul/109567497678553119",
-      "content": "<p><span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> I saw this GitHub issue linked by others:</p><p><a href=\"https://github.com/mastodon/mastodon/issues/20673\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/20673</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
       }
     ]
   }
