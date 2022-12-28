@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://arxiv.org/abs/1306.6088",
+    "title": "New Observables for Direct Detection of Axion Dark Matter",
+    "latest": "2022-12-28T08:45:04+00:00",
+    "last_post": {
+      "url": "https://astrodon.social/@dangreen/109590420170163064",
+      "content": "<p>Dec 28 - New Observables for Axion Dark Matter (\u201813)</p><p><a href=\"https://arxiv.org/abs/1306.6088\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1306.6088</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/1306.6089\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1306.6089</span><span class=\"invisible\"></span></a></p><p>The QCD axion, if it is a component of dark matter, would create a time-dependent neutron dipole moment. This enables new search strategies using existing NMR technology.</p>"
+    },
+    "people": [
+      {
+        "url": "https://astrodon.social/@dangreen",
+        "display_name": "Daniel Green"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/1306.6089",
+    "title": "https://arxiv.org/abs/1306.6089",
+    "latest": "2022-12-28T08:45:04+00:00",
+    "last_post": {
+      "url": "https://astrodon.social/@dangreen/109590420170163064",
+      "content": "<p>Dec 28 - New Observables for Axion Dark Matter (\u201813)</p><p><a href=\"https://arxiv.org/abs/1306.6088\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1306.6088</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/1306.6089\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1306.6089</span><span class=\"invisible\"></span></a></p><p>The QCD axion, if it is a component of dark matter, would create a time-dependent neutron dipole moment. This enables new search strategies using existing NMR technology.</p>"
+    },
+    "people": [
+      {
+        "url": "https://astrodon.social/@dangreen",
+        "display_name": "Daniel Green"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2207.08815",
+    "title": "Why do tree-based models still outperform deep learning on tabular data?",
+    "latest": "2022-12-28T06:56:42+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@patrickmineault/109588820558812541",
+      "content": "<p>Why do tree-based methods work so well with tabular data compared to NNs? </p><p>they're less sensitive to bad features<br>they're not invariant to data rotations<br>they can easily learn irregular functions</p><p>Interesting read from <span class=\"h-card\"><a href=\"https://mastodon.social/@GaelVaroquaux\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>GaelVaroquaux</span></a></span> and co. <a href=\"https://arxiv.org/abs/2207.08815\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2207.08815</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@jonny",
+        "display_name": "Jonny"
+      },
+      {
+        "url": "https://mastodon.social/@GaelVaroquaux",
+        "display_name": "Ga\u00ebl Varoquaux"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2211.01889v1",
     "title": "When to Laugh and How Hard? A Multimodal Approach to Detecting Humor and its Intensity",
     "latest": "2022-12-28T02:48:16+00:00",
@@ -11,21 +60,6 @@
       {
         "url": "https://sigmoid.social/@Adverb",
         "display_name": "Advadnoun"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2207.08815",
-    "title": "Why do tree-based models still outperform deep learning on tabular data?",
-    "latest": "2022-12-28T02:40:46+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@patrickmineault/109588820558812541",
-      "content": "<p>Why do tree-based methods work so well with tabular data compared to NNs? </p><p>they're less sensitive to bad features<br>they're not invariant to data rotations<br>they can easily learn irregular functions</p><p>Interesting read from <span class=\"h-card\"><a href=\"https://mastodon.social/@GaelVaroquaux\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>GaelVaroquaux</span></a></span> and co. <a href=\"https://arxiv.org/abs/2207.08815\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2207.08815</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@jonny",
-        "display_name": "Jonny"
       }
     ]
   },
