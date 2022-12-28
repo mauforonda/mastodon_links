@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://arxiv.org/abs/2211.01889v1",
+    "title": "When to Laugh and How Hard? A Multimodal Approach to Detecting Humor and its Intensity",
+    "latest": "2022-12-28T02:48:16+00:00",
+    "last_post": {
+      "url": "https://jawns.club/@vicki/109292334206683900",
+      "content": "<p>Sometime I want to start a site that\u2019s just academic papers that seem like they were written either to settle a bet or just pure shitposting.</p><p>Here\u2019s the latest, \u201cWhen to Laugh and How Hard? A Multimodal Approach to Detecting Humor and its Intensity\u201d, which is bascially just the authors watching Friends reruns. <a href=\"https://arxiv.org/abs/2211.01889v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.01889v1</span><span class=\"invisible\"></span></a><br><a href=\"https://jawns.club/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@Adverb",
+        "display_name": "Advadnoun"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2207.08815",
+    "title": "Why do tree-based models still outperform deep learning on tabular data?",
+    "latest": "2022-12-28T02:40:46+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@patrickmineault/109588820558812541",
+      "content": "<p>Why do tree-based methods work so well with tabular data compared to NNs? </p><p>they're less sensitive to bad features<br>they're not invariant to data rotations<br>they can easily learn irregular functions</p><p>Interesting read from <span class=\"h-card\"><a href=\"https://mastodon.social/@GaelVaroquaux\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>GaelVaroquaux</span></a></span> and co. <a href=\"https://arxiv.org/abs/2207.08815\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2207.08815</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@jonny",
+        "display_name": "Jonny"
+      }
+    ]
+  },
+  {
+    "link": "https://dl.acm.org/doi/abs/10.1145/3442188.3445914",
+    "title": "dl.acm.org/doi/abs/10.1145/344...",
+    "latest": "2022-12-28T01:16:58+00:00",
+    "last_post": {
+      "url": "https://dair-community.social/@emilymbender/109588658160577796",
+      "content": "<p>You Can't Sit With Us: Exclusionary Pedagogy in AI Ethics Education<br>Raji et al 2021<br><a href=\"https://dl.acm.org/doi/abs/10.1145/3442188.3445914\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/abs/10.1145/344</span><span class=\"invisible\">2188.3445914</span></a></p><p>Expectations of brilliance underlie gender distributions across academic disciplines<br>Leslie et al 2015<br><a href=\"https://www.science.org/doi/10.1126/science.1261375\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">science.org/doi/10.1126/scienc</span><span class=\"invisible\">e.1261375</span></a></p><p>&gt;&gt;</p>"
+    },
+    "people": [
+      {
+        "url": "https://dair-community.social/@emilymbender",
+        "display_name": "Emily M. Bender (she/her)"
+      }
+    ]
+  },
+  {
     "link": "https://www.nature.com/articles/s41598-022-26209-8",
     "title": "Time pressure reduces misinformation discrimination ability but does\u00a0not alter\u00a0response bias - Scientific Reports",
     "latest": "2022-12-27T23:43:27+00:00",
