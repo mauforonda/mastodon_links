@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://gitlab.com/joseph.gruber/mastodon-server-terraform-template",
+    "title": "Joseph Gruber / mastodon-server-terraform-template \u00b7 GitLab",
+    "latest": "2022-12-28T19:02:45+00:00",
+    "last_post": {
+      "url": "https://josephgruber.space/@josephgruber/109452685009366955",
+      "content": "<p>As promised, here is the Gitlab repo with the <a href=\"https://josephgruber.space/tags/Terraform\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Terraform</span></a> I am using for automatically deploying my <a href=\"https://josephgruber.space/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> infrastructure on <a href=\"https://josephgruber.space/tags/AWS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AWS</span></a> and automatically configuring Mastodon. <a href=\"https://gitlab.com/joseph.gruber/mastodon-server-terraform-template\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/joseph.gruber/masto</span><span class=\"invisible\">don-server-terraform-template</span></a></p><p>It is primarily geared towards an individual/low user count instance. There are several recommendations in the README for scaling to large amounts of users.</p><p>Any questions/comments/feedback, feel free to poke me.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.world/@h_thoreson",
+        "display_name": "h_thoreson"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/pull/20878",
+    "title": "Add support for editing media description and focus point of already-posted statuses by ClearlyClaire \u00b7 Pull Request #20878 \u00b7 mastodon/mastodon",
+    "latest": "2022-12-28T18:31:41+00:00",
+    "last_post": {
+      "url": "https://toot.fedilab.app/@apps/109592726823504186",
+      "content": "<p>We are looking at this PR, if it is merged, we will add support immediately so that you can edit descriptions or focus points to media already published. </p><p><a href=\"https://github.com/mastodon/mastodon/pull/20878\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/20878</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toot.fedilab.app/@apps",
+        "display_name": "Fedilab Apps"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/SuperIlu/DOStodon",
+    "title": "GitHub - SuperIlu/DOStodon: MS-DOS Mastodon client",
+    "latest": "2022-12-28T18:20:55.684000+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@dec_hl/109592452386559809",
+      "content": "<p>Big <a href=\"https://mastodon.social/tags/DOStodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DOStodon</span></a> update:</p><p>Added local timeline</p><p>Added global timeline</p><p>Added hashtag timeline</p><p>Added 'view bookmarks'</p><p>Added 'view favorites'</p><p>Added text input field</p><p>Reworked sidebar</p><p>Added auto refresh countdown</p><p><a href=\"https://mastodon.social/tags/RetroComputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RetroComputing</span></a>  <a href=\"https://mastodon.social/tags/MSDOS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MSDOS</span></a> <a href=\"https://mastodon.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> <a href=\"https://mastodon.social/tags/JavaScript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JavaScript</span></a> <a href=\"https://mastodon.social/tags/DOjS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DOjS</span></a> <a href=\"https://mastodon.social/tags/DOScember\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DOScember</span></a></p><p>Grab it here:<br><a href=\"https://github.com/SuperIlu/DOStodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/SuperIlu/DOStodon</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@thomasfuchs",
+        "display_name": "Thomas Fuchs \ud83d\udd79\ufe0f\ud83d\udd2d\ud83c\udf6a"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/brunneis/vader-multi",
     "title": "GitHub - brunneis/vader-multi: Multilanguage version of VADER Sentiment Analysis with automatic language-detection",
     "latest": "2022-12-28T17:41:55+00:00",
