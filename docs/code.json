@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md",
+    "title": "beaker/archive-notice.md at master \u00b7 beakerbrowser/beaker",
+    "latest": "2022-12-28T05:55:43+00:00",
+    "last_post": {
+      "url": "https://friend.camp/@eric/109589073691711627",
+      "content": "<p>RIP Beaker Browser, you will be missed! <a href=\"https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/beakerbrowser/beake</span><span class=\"invisible\">r/blob/master/archive-notice.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://friend.camp/@darius",
+        "display_name": "Darius Kazemi"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/guruthree/pico-superkey-board",
+    "title": "GitHub - guruthree/pico-superkey-board: A single key keyboard, a demonstration of a USB HID device for the Raspberry Pi Pico in C",
+    "latest": "2022-12-28T05:45:29+00:00",
+    "last_post": {
+      "url": "https://digipres.club/@foone/109589713984196179",
+      "content": "<p>okay I got it working. I modified this code, turning it closer into a \"real\" keyboard:</p><p><a href=\"https://github.com/guruthree/pico-superkey-board\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/guruthree/pico-supe</span><span class=\"invisible\">rkey-board</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://digipres.club/@foone",
+        "display_name": "Foone"
+      }
+    ]
+  },
+  {
+    "link": "https://codeberg.org/akib/emacs-denote-refs",
+    "title": "emacs-denote-refs",
+    "latest": "2022-12-28T04:40:03+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@hanspeter/109587527844570491",
+      "content": "<p>Just found this package:</p><p>emacs-denote-refs<br>see: <a href=\"https://codeberg.org/akib/emacs-denote-refs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/akib/emacs-denote</span><span class=\"invisible\">-refs</span></a></p><p>by <span class=\"h-card\"><a href=\"https://hostux.social/@akib\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>akib</span></a></span> </p><p>Right after the front matter of an opened denote file, It superimposes the files forward- and back-links (as read-only text).</p><p>That is exactly, what I was looking for.</p><p>Thank you Akib!</p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@sachac",
+        "display_name": "Sacha Chua"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/anticomputer/ea71ecab639326bf540418f31c600e09",
+    "title": "ivy compliant vertico config",
+    "latest": "2022-12-28T04:39:43+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109587561326424579",
+      "content": "<p>If you're like me and you have a lot of ivy + counsel-find-file muscle memory that introduces a slight directory navigation stutter when switching to vertico + vertico-directory, the following ugly hack makes vertico act like ivy on find-file :) <a href=\"https://gist.github.com/anticomputer/ea71ecab639326bf540418f31c600e09\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/anticomputer/e</span><span class=\"invisible\">a71ecab639326bf540418f31c600e09</span></a> note: this does depend on the new vertico-preselect option as well which isn't in the elpa version yet  <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://emacs.ch/tags/vertico\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vertico</span></a> <a href=\"https://emacs.ch/tags/ivy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ivy</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@sachac",
+        "display_name": "Sacha Chua"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/orgs/hometown-fork/projects/2/views/1",
     "title": "Hometown v4.x.x+hometown-1.1.0 \u2022 hometown-fork",
     "latest": "2022-12-28T01:48:39+00:00",
