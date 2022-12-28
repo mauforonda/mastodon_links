@@ -2,10 +2,10 @@
   {
     "link": "https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md",
     "title": "beaker/archive-notice.md at master \u00b7 beakerbrowser/beaker",
-    "latest": "2022-12-28T08:00:35+00:00",
+    "latest": "2022-12-28T10:43:17+00:00",
     "last_post": {
-      "url": "https://merveilles.town/@v/109590016573251572",
-      "content": "<p>appreciated reading this postmortem post <a href=\"https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/beakerbrowser/beake</span><span class=\"invisible\">r/blob/master/archive-notice.md</span></a></p>"
+      "url": "https://nondeterministic.computer/@martin/109590885033514717",
+      "content": "<p>Good retrospective on trying to make peer-to-peer software work in practice <a href=\"https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/beakerbrowser/beake</span><span class=\"invisible\">r/blob/master/archive-notice.md</span></a></p>"
     },
     "people": [
       {
@@ -15,6 +15,40 @@
       {
         "url": "https://merveilles.town/@cblgh",
         "display_name": "Alexander Cobleigh"
+      },
+      {
+        "url": "https://nondeterministic.computer/@martin",
+        "display_name": "Martin Kleppmann"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/facebookresearch/ConvNeXt",
+    "title": "github.com/facebookresearch/Co...",
+    "latest": "2022-12-28T09:29:53+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@akhaliq/109589786974200686",
+      "content": "<p>My top paper tweets in 2022 \ud83e\uddf5</p><p>A ConvNet for the 2020s<br>abs: <a href=\"http://arxiv.org/abs/2201.03545\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/2201.03545</span><span class=\"invisible\"></span></a><br>github: <a href=\"https://github.com/facebookresearch/ConvNeXt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/Co</span><span class=\"invisible\">nvNeXt</span></a><br>@huggingface@twitter.com demo: <a href=\"https://huggingface.co/spaces/akhaliq/convnext\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/spaces/akhaliq/</span><span class=\"invisible\">convnext</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@andrey",
+        "display_name": "Andrey Kurenkov"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/EmberGL-org/EmberGL",
+    "title": "GitHub - EmberGL-org/EmberGL: EmberGL Public Repository",
+    "latest": "2022-12-28T09:14:27+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@JarkkoL/109587858896107368",
+      "content": "<p>Released EmberGL, a small graphics library featuring a tiled software rasterizer, that I initially developed for 3D rendering on microcontrollers: <a href=\"https://github.com/EmberGL-org/EmberGL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/EmberGL-org/EmberGL</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@aras",
+        "display_name": "Aras Pranckevi\u010dius"
       }
     ]
   },
