@@ -1,5 +1,107 @@
 [
   {
+    "link": "https://github.com/brunneis/vader-multi",
+    "title": "GitHub - brunneis/vader-multi: Multilanguage version of VADER Sentiment Analysis with automatic language-detection",
+    "latest": "2022-12-28T17:41:55+00:00",
+    "last_post": {
+      "url": "https://fedihum.org/@rnsrk/109591084138971155",
+      "content": "<p>Ich schreib gerade aus Spa\u00df an einem Hedonometer f\u00fcr Mastodon und suche gerade nach einem guten multilingualen Sentiment Analyzer f\u00fcr Mastodon (mindestens Deutsch/ Englisch), k\u00f6nnen auch mehrere einzelne sein, sie m\u00fcssen nur alle Compound Scores ausgeben k\u00f6nnen. Programmiersprache ist grunds\u00e4tzlich egal (vorzugsweise Python, Javascript, PHP).  Hab schon <a href=\"https://github.com/brunneis/vader-multi\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/brunneis/vader-mult</span><span class=\"invisible\">i</span></a> gefunden, scheint ganz ok, aber kann die Validit\u00e4t nicht ganz beurteilen. Kennt da wer was? <span class=\"h-card\"><a href=\"https://fedihum.org/@toroe\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>toroe</span></a></span> <span class=\"h-card\"><a href=\"https://fedihum.org/@patrick_sahle\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>patrick_sahle</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sjmgarnier/viridis",
+    "title": "GitHub - sjmgarnier/viridis: Colorblind-Friendly Color Maps for R",
+    "latest": "2022-12-28T16:35:17+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@Mehrad/109592197002096795",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@smach\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smach</span></a></span> <span class=\"h-card\"><a href=\"https://scholar.social/@drdrago\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>drdrago</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@nowosad\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nowosad</span></a></span> There is also viridis package that has colorblind-friendly palettes:</p><p><a href=\"https://github.com/sjmgarnier/viridis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sjmgarnier/viridis</span><span class=\"invisible\"></span></a></p><p>Also, I myself have manually collected a list of colorblind-friendly palettes. All of it is accessible via a simple function. You just tell it how many colors you need and it will pick the palette that fits you most (you can use show=T to visualize colors easily):</p><p><a href=\"https://gist.github.com/mmahmoudian/b9789274a03116bcd26f69f9e6e9e0b9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/mmahmoudian/b9</span><span class=\"invisible\">789274a03116bcd26f69f9e6e9e0b9</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/mmahmoudian/b9789274a03116bcd26f69f9e6e9e0b9",
+    "title": "gist.github.com/mmahmoudian/b9...",
+    "latest": "2022-12-28T16:35:17+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@Mehrad/109592197002096795",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@smach\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smach</span></a></span> <span class=\"h-card\"><a href=\"https://scholar.social/@drdrago\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>drdrago</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@nowosad\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nowosad</span></a></span> There is also viridis package that has colorblind-friendly palettes:</p><p><a href=\"https://github.com/sjmgarnier/viridis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sjmgarnier/viridis</span><span class=\"invisible\"></span></a></p><p>Also, I myself have manually collected a list of colorblind-friendly palettes. All of it is accessible via a simple function. You just tell it how many colors you need and it will pick the palette that fits you most (you can use show=T to visualize colors easily):</p><p><a href=\"https://gist.github.com/mmahmoudian/b9789274a03116bcd26f69f9e6e9e0b9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/mmahmoudian/b9</span><span class=\"invisible\">789274a03116bcd26f69f9e6e9e0b9</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/kjhealy/44f9eb6ebc3510d650554217b3030314",
+    "title": "list2env.r",
+    "latest": "2022-12-28T16:12:56+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@kjhealy/109592181227871072",
+      "content": "<p>Today in occasionally useful R functions: list2env(). Convert the elements of a list into objects in some (usually the global) environment. The screenshot shows a Base R example. The main gotcha is properly naming the list elements. Here's a link to a gist with this code and also a Tidyverse version: <a href=\"https://gist.github.com/kjhealy/44f9eb6ebc3510d650554217b3030314\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/kjhealy/44f9eb</span><span class=\"invisible\">6ebc3510d650554217b3030314</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
+      },
+      {
+        "url": "https://mastodon.social/@kjhealy",
+        "display_name": "Kieran Healy"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "title": "GitHub - lucidrains/PaLM-rlhf-pytorch: Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "latest": "2022-12-28T15:39:02+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jpatanooga/109576963735345498",
+      "content": "<p><a href=\"https://github.com/lucidrains/PaLM-rlhf-pytorch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/lucidrains/PaLM-rlh</span><span class=\"invisible\">f-pytorch</span></a></p><p>An open source version of training PaLM (Google\u2019s 540B parameter LM) using the same reinforcement learning strategy as ChatGPT</p><p>Also: gonna need \"more than a few GPUs\" for this one...</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      },
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rotki/rotki/releases",
+    "title": "Releases \u00b7 rotki/rotki",
+    "latest": "2022-12-28T15:31:30+00:00",
+    "last_post": {
+      "url": "https://cryptodon.lol/@lefteris/109592018316112730",
+      "content": "<p>\ud83d\udc26With @rotkiapp you can select any time range and zoom in all historical charts.</p><p>\u23ecTry it: <a href=\"https://github.com/rotki/rotki/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rotki/rotki/release</span><span class=\"invisible\">s</span></a><br>\ud83d\udcc8Buy premium, unlock all features and support us: <a href=\"https://rotki.com/products\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">rotki.com/products</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://cryptodon.lol/@lefteris",
+        "display_name": "lefterisjp"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/mastodon/mastodon/issues/19679",
     "title": "Use web-based protocol handlers to make following across instances easier \u00b7 Issue #19679 \u00b7 mastodon/mastodon",
     "latest": "2022-12-28T14:57:51+00:00",
