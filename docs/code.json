@@ -1,5 +1,130 @@
 [
   {
+    "link": "https://gist.github.com/tef/b78ca1718c60c9a7606cc0a93b47e836#file-diff-py-L1623",
+    "title": "diff.py",
+    "latest": "2022-12-29T18:04:57+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@tef/109598284033576369",
+      "content": "<p>i gotta tidy up the code, for sure, but if you want to stare into the abyss, here you go <a href=\"https://gist.github.com/tef/b78ca1718c60c9a7606cc0a93b47e836#file-diff-py-L1623\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/tef/b78ca1718c</span><span class=\"invisible\">60c9a7606cc0a93b47e836#file-diff-py-L1623</span></a></p><p>the thing is, there's like 6000+ words getting to this point, so it isn't that bad in context</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@tef",
+        "display_name": "tef"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/d/d3245f96271f48ab",
+    "title": "Trends in History dissertations / statistics of distinguishing words as SQL",
+    "latest": "2022-12-29T17:02:52+00:00",
+    "last_post": {
+      "url": "https://vis.social/@benmschmidt/109598039902870323",
+      "content": "<p>Here's a notebook using pure SQL (in <span class=\"h-card\"><a href=\"https://beta.birdsite.live/users/duckdb\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>duckdb</span></a></span>, on <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span>) to see decade-by-decade trends in titles across all 50,000+ history dissertations in the US. \"Transnational\"/\"empire\" still gaining; \"identity\"/\"modernity\"/\"gender\" on the decline. <a href=\"https://observablehq.com/d/d3245f96271f48ab\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/d/d3245f96271</span><span class=\"invisible\">f48ab</span></a> .</p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot"
+      },
+      {
+        "url": "https://vis.social/@benmschmidt",
+        "display_name": "Ben Schmidt"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/adamghill/fediview",
+    "title": "https://github.com/adamghill/fediview",
+    "latest": "2022-12-29T16:29:43+00:00",
+    "last_post": {
+      "url": "https://dmv.community/@jcrabapple/109597863661980465",
+      "content": "<p>Someone took <span class=\"h-card\"><a href=\"https://mastodon.social/@MattHodges\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MattHodges</span></a></span> digest script and turned it into an on-demand website:</p><p><a href=\"https://fediview.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com/</span><span class=\"invisible\"></span></a></p><p>\"No personal data is stored and the Python/Django code is available if you want to check it out: <a href=\"https://github.com/adamghill/fediview\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/adamghill/fediview</span><span class=\"invisible\"></span></a>.\"</p><p>from: <a href=\"https://www.reddit.com/r/Mastodon/comments/zvn8gk/get_a_digest_of_recent_popular_posts_from_your/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reddit.com/r/Mastodon/comments</span><span class=\"invisible\">/zvn8gk/get_a_digest_of_recent_popular_posts_from_your/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hodgesmr/mastodon_digest",
+    "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
+    "latest": "2022-12-29T16:01:15+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/109597797635528024",
+      "content": "<p>I really like <span class=\"h-card\"><a href=\"https://hachyderm.io/@mauforonda\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mauforonda</span></a></span>'s beautiful\u00b9 fork\u00b2 of Mastodon Digest.\u00b3 A neat thing about the <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> API is you get the full HTML of a post. I'm rather \ud83d\udca9 at web UIs and my current implementation relies on fairly clunky iframe embeds.\u2074 <span class=\"h-card\"><a href=\"https://benward.social/@benward\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>benward</span></a></span> recently contributed\u2075 a better templating pattern, so I think there are some great opportunities for mainline improvements.</p><p>\u00b9 <a href=\"https://mauforonda.github.io/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mauforonda.github.io/mastodon_</span><span class=\"invisible\">digest</span></a><br>\u00b2 <a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a><br>\u00b3 <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a><br>\u2074 <a href=\"https://mstdn.social/@feditips/107746558229070558\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mstdn.social/@feditips/1077465</span><span class=\"invisible\">58229070558</span></a><br>\u2075 <a href=\"https://github.com/hodgesmr/mastodon_digest/pull/15\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest/pull/15</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@samim",
+        "display_name": "samim"
+      },
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      },
+      {
+        "url": "https://mstdn.science/@contaminatedsci",
+        "display_name": "Tami Lieberman"
+      },
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mauforonda/mastodon_digest",
+    "title": "github.com/mauforonda/mastodon...",
+    "latest": "2022-12-29T16:01:15+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/109597797635528024",
+      "content": "<p>I really like <span class=\"h-card\"><a href=\"https://hachyderm.io/@mauforonda\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mauforonda</span></a></span>'s beautiful\u00b9 fork\u00b2 of Mastodon Digest.\u00b3 A neat thing about the <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> API is you get the full HTML of a post. I'm rather \ud83d\udca9 at web UIs and my current implementation relies on fairly clunky iframe embeds.\u2074 <span class=\"h-card\"><a href=\"https://benward.social/@benward\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>benward</span></a></span> recently contributed\u2075 a better templating pattern, so I think there are some great opportunities for mainline improvements.</p><p>\u00b9 <a href=\"https://mauforonda.github.io/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mauforonda.github.io/mastodon_</span><span class=\"invisible\">digest</span></a><br>\u00b2 <a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a><br>\u00b3 <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a><br>\u2074 <a href=\"https://mstdn.social/@feditips/107746558229070558\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mstdn.social/@feditips/1077465</span><span class=\"invisible\">58229070558</span></a><br>\u2075 <a href=\"https://github.com/hodgesmr/mastodon_digest/pull/15\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest/pull/15</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hodgesmr/mastodon_digest/pull/15",
+    "title": "github.com/hodgesmr/mastodon_d...",
+    "latest": "2022-12-29T16:01:15+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/109597797635528024",
+      "content": "<p>I really like <span class=\"h-card\"><a href=\"https://hachyderm.io/@mauforonda\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mauforonda</span></a></span>'s beautiful\u00b9 fork\u00b2 of Mastodon Digest.\u00b3 A neat thing about the <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> API is you get the full HTML of a post. I'm rather \ud83d\udca9 at web UIs and my current implementation relies on fairly clunky iframe embeds.\u2074 <span class=\"h-card\"><a href=\"https://benward.social/@benward\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>benward</span></a></span> recently contributed\u2075 a better templating pattern, so I think there are some great opportunities for mainline improvements.</p><p>\u00b9 <a href=\"https://mauforonda.github.io/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mauforonda.github.io/mastodon_</span><span class=\"invisible\">digest</span></a><br>\u00b2 <a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a><br>\u00b3 <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a><br>\u2074 <a href=\"https://mstdn.social/@feditips/107746558229070558\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mstdn.social/@feditips/1077465</span><span class=\"invisible\">58229070558</span></a><br>\u2075 <a href=\"https://github.com/hodgesmr/mastodon_digest/pull/15\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest/pull/15</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/HSLdevcom/digitransit-ui",
+    "title": "GitHub - HSLdevcom/digitransit-ui: Digitransit UI (\"Reittiopas.fi\")",
+    "latest": "2022-12-29T15:12:30+00:00",
+    "last_post": {
+      "url": "https://vis.social/@jhilden/109597605947891745",
+      "content": "<p>I guess the actual Speeds used in km/h should be somewhere in the Source Code; they are not documented in the app itself or on the Website! <a href=\"https://github.com/HSLdevcom/digitransit-ui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/HSLdevcom/digitrans</span><span class=\"invisible\">it-ui</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@jhilden",
+        "display_name": "Jonatan Hild\u00e9n"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/aphyr/prometheus-mastodon-exporter",
     "title": "GitHub - aphyr/prometheus-mastodon-exporter: Exports Mastodon statistics for polling by Prometheus",
     "latest": "2022-12-29T14:36:13+00:00",
@@ -440,29 +565,6 @@
       {
         "url": "https://mastodon.social/@tmcw",
         "display_name": "Tom MacWright"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hodgesmr/mastodon_digest",
-    "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
-    "latest": "2022-12-28T12:58:39+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@MattHodges/109451111674479285",
-      "content": "<p>Here it is! My algorithmic <a href=\"https://mastodon.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> Digest is now <a href=\"https://mastodon.social/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a>! It surfaces posts and boosts from your home timeline that you may have missed. You need a bit of comfort running <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a> but I tried to make it as turnkey as possible. Everything runs locally, and you can currently generate 288 different digests based on your preferred:<br>\u2022 Timeline history<br>\u2022 Scoring criteria<br>\u2022 Threshold criteria</p><p>Lots more to experiment with \u2014 please remember this is still a toy \ud83d\ude04</p><p><a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@samim",
-        "display_name": "samim"
-      },
-      {
-        "url": "https://econtwitter.net/@paulgp",
-        "display_name": "Paul Goldsmith-Pinkham"
-      },
-      {
-        "url": "https://mastodon.social/@Cmastication",
-        "display_name": "JD Long \u2705"
       }
     ]
   },
