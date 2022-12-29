@@ -1,5 +1,43 @@
 [
   {
+    "link": "https://arxiv.org/abs/2212.14034",
+    "title": "Cramming: Training a Language Model on a Single GPU in One Day",
+    "latest": "2022-12-29T21:01:04+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@lb/109598976556744113",
+      "content": "<p>How good of a BERT can one get in ONE DAY on ONE GPU?</p><p>With all the recent studies about scaling compute up, this paper takes a refreshing turn and does a deep dive into scaling down compute.</p><p>It's well written, stock full of insights. Here is my summary and my opinions.</p><p><a href=\"https://arxiv.org/abs/2212.14034\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.14034</span><span class=\"invisible\"></span></a></p><p>\ud83e\uddf6 1/N</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      },
+      {
+        "url": "https://sigmoid.social/@lb",
+        "display_name": "Lucas Beyer"
+      }
+    ]
+  },
+  {
+    "link": "https://journals.sagepub.com/doi/10.1177/20563051221144252",
+    "title": "journals.sagepub.com/doi/10.11...",
+    "latest": "2022-12-29T19:18:09+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@katestarbird/109598571877302974",
+      "content": "<p>Researchers at the Center for an Informed Public, Rachel E. Moran and Izzi Grasso, and former CIP postdoc Kolina Koltai, recently published a paper examining how vaccine-opposed influencers use specific tactics to avoid moderation on Instagram \u2014 and exploring how those tactics reflect \"folk theories\" about content visibility and moderation on the popular social media platform. <a href=\"https://journals.sagepub.com/doi/10.1177/20563051221144252\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.sagepub.com/doi/10.11</span><span class=\"invisible\">77/20563051221144252</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@henryfarrell",
+        "display_name": "Henry Farrell"
+      },
+      {
+        "url": "https://mstdn.social/@katestarbird",
+        "display_name": "Kate Starbird"
+      }
+    ]
+  },
+  {
     "link": "https://academic.oup.com/jxb/article/74/1/1/6958678?login=false",
     "title": "academic.oup.com/jxb/article/7...",
     "latest": "2022-12-29T18:03:29+00:00",
@@ -158,21 +196,6 @@
       {
         "url": "https://sigmoid.social/@Yarin",
         "display_name": "Yarin :verified: :verified:"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2212.14034",
-    "title": "Cramming: Training a Language Model on a Single GPU in One Day",
-    "latest": "2022-12-29T02:26:59+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@akhaliq/109594410581061653",
-      "content": "<p>Cramming: Training a Language Model on a Single GPU in One Day<br>abs: <a href=\"https://arxiv.org/abs/2212.14034\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.14034</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
       }
     ]
   },
