@@ -1,5 +1,84 @@
 [
   {
+    "link": "https://arxiv.org/abs/2212.14034",
+    "title": "Cramming: Training a Language Model on a Single GPU in One Day",
+    "latest": "2022-12-29T02:26:59+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@akhaliq/109594410581061653",
+      "content": "<p>Cramming: Training a Language Model on a Single GPU in One Day<br>abs: <a href=\"https://arxiv.org/abs/2212.14034\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.14034</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2112.03808",
+    "title": "Automated Story Generation as Question-Answering",
+    "latest": "2022-12-29T02:16:59+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@Riedl/109594556449770536",
+      "content": "<p>Our first attempt at backward-chaining with language models wrapped an LM in a recursive question-answering routine, where the algorithm attempted to guess what questions readers might have and preemptively answer them <a href=\"https://arxiv.org/abs/2112.03808\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2112.03808</span><span class=\"invisible\"></span></a></p><p>Anyway, I\u2019m pretty excited about using LMs as part of a larger, structured process instead of just entering a prompt and generating continuations.</p><p>3/3</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@Riedl",
+        "display_name": "Mark Riedl"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2212.08718",
+    "title": "Neural Story Planning",
+    "latest": "2022-12-29T02:13:55+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@Riedl/109594544379412757",
+      "content": "<p>My team has been looking into wrapping Language Models within backward chaining algorithms for a few years now. In the context of story generation. Plot coherence has a lot of similarities with logical reasoning, though without the need for hard guarantees (readers can be forgiving sbout certain types of omissions). </p><p>Our most recent work wraps an LM in an algorithm inspired by ends-means backward chaining search: <a href=\"https://arxiv.org/abs/2212.08718\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.08718</span><span class=\"invisible\"></span></a> (came out a few days earlier \ud83d\ude09)</p><p>2/3</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@Riedl",
+        "display_name": "Mark Riedl"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2212.13894",
+    "title": "LAMBADA: Backward Chaining for Automated Reasoning in Natural Language",
+    "latest": "2022-12-29T01:44:59+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109594430645284712",
+      "content": "<p>LAMBADA: Backward Chaining for Automated Reasoning in Natural Language</p><p>Achieves massive accuracy boosts over SotA forward reasoning methods on two challenging logical reasoning datasets with a method inspired by backward reasoning.</p><p><a href=\"https://arxiv.org/abs/2212.13894\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.13894</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@Riedl",
+        "display_name": "Mark Riedl"
+      },
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-022-00338-6?utm_medium=Social&amp;utm_campaign=nature&amp;utm_source=Twitter#Echobox=1671725598",
+    "title": "The urine revolution: how recycling pee could help to save the world",
+    "latest": "2022-12-29T00:58:32+00:00",
+    "last_post": {
+      "url": "https://mastodon.sdf.org/@tamarhaspel/109594247966417891",
+      "content": "<p>I'm in. Urine too?<br><a href=\"https://www.nature.com/articles/d41586-022-00338-6?utm_medium=Social&amp;utm_campaign=nature&amp;utm_source=Twitter#Echobox=1671725598\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-022</span><span class=\"invisible\">-00338-6?utm_medium=Social&amp;utm_campaign=nature&amp;utm_source=Twitter#Echobox=1671725598</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.sdf.org/@tamarhaspel",
+        "display_name": "Tamar Haspel"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2212.11107",
     "title": "50 Years of Quantum Chromodynamics",
     "latest": "2022-12-28T23:18:40+00:00",

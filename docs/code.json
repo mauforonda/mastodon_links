@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://github.com/kdpsingh/TidyTable.jl",
+    "title": "GitHub - kdpsingh/TidyTable.jl: Julia package that wraps the R tidytable package (tidyverse syntax with the speed of data.table)",
+    "latest": "2022-12-29T02:48:56+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@kdpsingh/109594635603100176",
+      "content": "<p>Introducing TidyTable.jl, a ridiculous <a href=\"https://mastodon.social/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> \ud83d\udce6 that brings the syntax of <a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> tidyverse and the speed of data.table to Julia by wrapping the tidytable R package.</p><p>Obviously, Julia and the DataFrames package is plenty fast to begin with. This package isn\u2019t about beating it on benchmarks since it requires data transfer to R.</p><p>But if you\u2019re an R user dipping your toes in Julia, this package allows you to literally write R code, which is kind of cool.</p><p>GitHub: <a href=\"https://github.com/kdpsingh/TidyTable.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/kdpsingh/TidyTable.</span><span class=\"invisible\">jl</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@mauforonda/who-to-follow-on-mastodon",
+    "title": "Who to follow on mastodon",
+    "latest": "2022-12-29T01:20:08+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@kidehen/109593655988740669",
+      "content": "<p>Here's a really neat <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> notebook (by <span class=\"h-card\"><a href=\"https://hachyderm.io/@mauforonda\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mauforonda</span></a></span> ) for exploring <span class=\"h-card\"><a href=\"https://mastodon.social/@Mastodon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Mastodon</span></a></span> follow-networks. </p><p><a href=\"https://observablehq.com/@mauforonda/who-to-follow-on-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@mauforonda/w</span><span class=\"invisible\">ho-to-follow-on-mastodon</span></a></p><p>By offering a <a href=\"https://mastodon.social/tags/CSV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CSV</span></a> export option it simplifies the process of creating a shared <a href=\"https://mastodon.social/tags/GoogleSpreadsheet\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GoogleSpreadsheet</span></a> rendition which is also a one-click journey to a <a href=\"https://mastodon.social/tags/KnowledgeGraph\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KnowledgeGraph</span></a>. </p><p><a href=\"https://docs.google.com/spreadsheets/d/18Pi1AeQezbTdjjPcb6ol0Rxwx-hq5JkA4RoPsTapPqw/edit#gid=1714230245&amp;range=A1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.google.com/spreadsheets/d</span><span class=\"invisible\">/18Pi1AeQezbTdjjPcb6ol0Rxwx-hq5JkA4RoPsTapPqw/edit#gid=1714230245&amp;range=A1</span></a></p><p>/cc <span class=\"h-card\"><a href=\"https://mastodon.social/@judell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>judell</span></a></span> </p><p><a href=\"https://mastodon.social/tags/DataConnectivity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataConnectivity</span></a> <a href=\"https://mastodon.social/tags/OpenWeb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenWeb</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      },
+      {
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/NeuromatchAcademy/mastodon/pull/5",
     "title": "[feature] Autofollow accounts in .env file on new account creation by sneakers-the-rat \u00b7 Pull Request #5 \u00b7 NeuromatchAcademy/mastodon",
     "latest": "2022-12-29T00:12:44+00:00",
@@ -41,21 +75,6 @@
       {
         "url": "https://mastodon.social/@TodePond",
         "display_name": "Lu Wilson"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@mauforonda/who-to-follow-on-mastodon",
-    "title": "Who to follow on mastodon",
-    "latest": "2022-12-28T22:27:59+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@kidehen/109593655988740669",
-      "content": "<p>Here's a really neat <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> notebook (by <span class=\"h-card\"><a href=\"https://hachyderm.io/@mauforonda\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mauforonda</span></a></span> ) for exploring <span class=\"h-card\"><a href=\"https://mastodon.social/@Mastodon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Mastodon</span></a></span> follow-networks. </p><p><a href=\"https://observablehq.com/@mauforonda/who-to-follow-on-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@mauforonda/w</span><span class=\"invisible\">ho-to-follow-on-mastodon</span></a></p><p>By offering a <a href=\"https://mastodon.social/tags/CSV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CSV</span></a> export option it simplifies the process of creating a shared <a href=\"https://mastodon.social/tags/GoogleSpreadsheet\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GoogleSpreadsheet</span></a> rendition which is also a one-click journey to a <a href=\"https://mastodon.social/tags/KnowledgeGraph\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KnowledgeGraph</span></a>. </p><p><a href=\"https://docs.google.com/spreadsheets/d/18Pi1AeQezbTdjjPcb6ol0Rxwx-hq5JkA4RoPsTapPqw/edit#gid=1714230245&amp;range=A1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.google.com/spreadsheets/d</span><span class=\"invisible\">/18Pi1AeQezbTdjjPcb6ol0Rxwx-hq5JkA4RoPsTapPqw/edit#gid=1714230245&amp;range=A1</span></a></p><p>/cc <span class=\"h-card\"><a href=\"https://mastodon.social/@judell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>judell</span></a></span> </p><p><a href=\"https://mastodon.social/tags/DataConnectivity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataConnectivity</span></a> <a href=\"https://mastodon.social/tags/OpenWeb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenWeb</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
       }
     ]
   },
