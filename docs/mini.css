@@ -8,6 +8,7 @@
   --shade: #e8e9f5;
   --selected: #fff;
   --link: #eae9f5;
+  --post-background: #e4e8f9;
 }
 
 @media (prefers-color-scheme:dark) {
@@ -21,6 +22,7 @@
 --post: #717ea2;
 --entry-background: #2c3240;
 --link: #212537;
+--post-background: #13151a;
   }
 }
 
@@ -178,7 +180,7 @@ font-size: .98em;
   margin: 15px 0px 0px 0px;
   border-radius: 5px;
   line-height: 1.6;
-  background: var(--selected);
+  background: var(--post-background);
 }
 
 .post_content p {
@@ -220,4 +222,4 @@ font-size: .8em;
 opacity: .7;
 min-width: 40px;
 text-align: right;
-}
+} 
