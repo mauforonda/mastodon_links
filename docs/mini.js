@@ -7,6 +7,8 @@ const digests = {
 }
 
 let current_stream
+let posts = {}
+let openPost
 
 newElement = (element, classList) => {
     const el = document.createElement(element)
@@ -14,15 +16,55 @@ newElement = (element, classList) => {
     return el
 }
 
+render_post = (el, url) => {
+
+    const post = newElement('a', ['post'])
+    post.href = url
+    post.target = '_blank'
+
+    const post_content = newElement('div', ['post_content'])
+    post_content.innerHTML = posts[url]
+
+    post.appendChild(post_content)
+
+    el.closest('.content').appendChild(post)
+    openPost = url
+
+}
+
+linkHandler = (e) => {
+    var postUrl  = e.target.closest('.content').dataset.url
+    if (openPost == postUrl) {
+        const reading = document.querySelector('.post')
+        if (reading) {
+            reading.remove()
+        }
+        openPost = ''
+    } else {
+        const reading = document.querySelector('.post')
+        if (reading) {
+            reading.remove()
+        }
+        render_post(e.target, postUrl)
+    }
+}
+
 renderEntry = (entry) => {
 
     date = new Date(entry['latest'])
 
     const link = newElement('a', 'entry')
-    link.href = entry.link
-    link.target = '_blank'
+    link.addEventListener('click', linkHandler)
+    // link.href = entry.link
+    // link.target = '_blank'
+
+    const target = newElement('a', 'target')
+    target.href = entry.link
+    target.target = '_blank'
+    link.appendChild(target)
     
     const content = newElement('div', 'content')
+    content.dataset.url = entry.last_post.url
 
     const header = newElement('div', 'header')
 
@@ -58,20 +100,20 @@ renderEntry = (entry) => {
         peoplediv.appendChild(persondiv)
     })
 
-    const post = newElement('a', ['post'])
-    post.href = entry.last_post.url
-    post.target = '_blank'
+    // const post = newElement('a', ['post'])
+    // post.href = entry.last_post.url
+    // post.target = '_blank'
 
-    const post_content = newElement('div', ['post_content'])
-    post_content.innerHTML = entry.last_post.content
+    // const post_content = newElement('div', ['post_content'])
+    // post_content.innerHTML = entry.last_post.content
 
-    post.appendChild(post_content)
+    // post.appendChild(post_content)
 
     context.appendChild(peoplediv)
-    context.appendChild(post)
+    // context.appendChild(post)
     content.appendChild(context)
-
     link.appendChild(content)
+    posts[entry.last_post.url] = entry.last_post.content
 
     return link
 }
