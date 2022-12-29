@@ -25,6 +25,9 @@ render_post = (el, url) => {
     const post_content = newElement('div', ['post_content'])
     post_content.innerHTML = posts[url]
 
+    post.addEventListener('click', (e) => {
+        e.stopPropagation()
+    })
     post.appendChild(post_content)
 
     el.closest('.content').appendChild(post)
@@ -33,6 +36,7 @@ render_post = (el, url) => {
 }
 
 linkHandler = (e) => {
+    e.stopPropagation()
     var postUrl  = e.target.closest('.content').dataset.url
     if (openPost == postUrl) {
         const reading = document.querySelector('.post')
@@ -55,8 +59,6 @@ renderEntry = (entry) => {
 
     const link = newElement('a', 'entry')
     link.addEventListener('click', linkHandler)
-    // link.href = entry.link
-    // link.target = '_blank'
 
     const target = newElement('a', 'target')
     target.href = entry.link
