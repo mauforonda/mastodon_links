@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://codeberg.org/tom79/Fedilab/issues/702",
+    "title": "Support some specific endpoints for PLEROMA / AKKOMA  / GLITCH SOCIAL",
+    "latest": "2022-12-29T09:35:41+00:00",
+    "last_post": {
+      "url": "https://toot.fedilab.app/@apps/109596281513449019",
+      "content": "<p>To <a href=\"https://toot.fedilab.app/tags/GlitchSocial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GlitchSocial</span></a>, <a href=\"https://toot.fedilab.app/tags/Akkoma\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Akkoma</span></a>, <a href=\"https://toot.fedilab.app/tags/Pleroma\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pleroma</span></a> users.</p><p>Where can we find common API endpoints and specific API documentation?</p><p>We would like to support some custom features with <a href=\"https://toot.fedilab.app/tags/Fedilab\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fedilab</span></a> </p><p>We created that thread. Your help is welcome. Thank you.</p><p><a href=\"https://codeberg.org/tom79/Fedilab/issues/702\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/tom79/Fedilab/iss</span><span class=\"invisible\">ues/702</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toot.fedilab.app/@apps",
+        "display_name": "Fedilab Apps"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/hometown-fork/hometown/issues/1165",
     "title": "Add icon on media that lacks alt descriptions \u00b7 Issue #1165 \u00b7 hometown-fork/hometown",
     "latest": "2022-12-29T05:48:24+00:00",
