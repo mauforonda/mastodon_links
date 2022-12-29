@@ -128,8 +128,8 @@ justify-content: space-between;
 margin-bottom: 5px;
 }
 
-.streams a:not(.person, .post):visited {
-  color: var(--visited);
+a.target:visited {
+	border-color: var(--background);
 }
 
 a.anchor {
@@ -140,9 +140,10 @@ a.anchor {
 }
 
 .content {
-  padding: 12px;
-  width: 100%;
-  margin: 5px 0px;
+	padding: 12px;
+	width: 100%;
+	margin: 5px 0px;
+	cursor: pointer;
 }
 
 .content:hover {
