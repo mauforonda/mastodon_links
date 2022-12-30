@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://arxiv.org/abs/2212.13956",
+    "title": "Large cities are less efficient for sustainable transport: The ABC of mobility",
+    "latest": "2022-12-30T17:38:27+00:00",
+    "last_post": {
+      "url": "https://datasci.social/@mszll/109603842125317326",
+      "content": "<p>Super-cool looking preprint by <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@rafaelprieto\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rafaelprieto</span></a></span>: Large cities are less efficient for sustainable transport: The ABC of mobility <a href=\"https://arxiv.org/abs/2212.13956\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.13956</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2212.06727",
+    "title": "What do Vision Transformers Learn? A Visual Exploration",
+    "latest": "2022-12-30T17:20:44+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109603772483297070",
+      "content": "<p>\"What do vision transformers learn? A visual exploration.\" </p><p>Vision transformers (ViTs) have fewer inductive biases the convolutional networks, so, what do ViTs actually learn? It turns out that they learn inductive biases (or features) similar to convolutional networks!</p><p>Early layers capture edges and textures, and later layers learn more complex representations to capture broader concepts.</p><p>Paper: \"What do vision transformers learn? A visual exploration.\" (<a href=\"https://arxiv.org/abs/2212.06727\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.06727</span><span class=\"invisible\"></span></a>)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      }
+    ]
+  },
+  {
+    "link": "https://journals.sagepub.com/doi/abs/10.1177/19485506221143593",
+    "title": "journals.sagepub.com/doi/abs/1...",
+    "latest": "2022-12-30T15:31:48+00:00",
+    "last_post": {
+      "url": "https://sciences.social/@benruisch/109603305283927719",
+      "content": "<p>People avoid discussing political issues because they overestimate the discomfort these conversations will bring. Leading them to have these conversations anyway reduces expected discomfort and increases willingness to have tough discussions in the future <a href=\"https://journals.sagepub.com/doi/abs/10.1177/19485506221143593\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.sagepub.com/doi/abs/1</span><span class=\"invisible\">0.1177/19485506221143593</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sciences.social/@mjb",
+        "display_name": "mark"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-022-05398-2",
+    "title": "A multinational Delphi consensus to end the COVID-19 public health threat - Nature",
+    "latest": "2022-12-30T15:27:11+00:00",
+    "last_post": {
+      "url": "https://med-mastodon.com/@gregggonsalves/109602327747780024",
+      "content": "<p>Please read this consensus statement in Nature from last month. Lately, these common-sense recommendations are being framed as \"hardline,\" \"zero-COVID,\" \"fringe,\" in the popular media and even by some from our own communities, but there is remarkable consensus among scientists on what we need to do, even if we do not want to listen. As a benchmark for our aspirations, this is a fine document. <a href=\"https://med-mastodon.com/tags/COVID\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>COVID</span></a> <a href=\"https://med-mastodon.com/tags/publichealth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>publichealth</span></a></p><p><a href=\"https://www.nature.com/articles/s41586-022-05398-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41586-022</span><span class=\"invisible\">-05398-2</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2212.14034",
     "title": "Cramming: Training a Language Model on a Single GPU in One Day",
     "latest": "2022-12-30T14:42:50+00:00",

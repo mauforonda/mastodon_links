@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.com/brickstackr/pillow-hello-world",
+    "title": "GitHub - brickstackr/pillow-hello-world: draws hello world in a jupyter notebook",
+    "latest": "2022-12-30T17:30:12+00:00",
+    "last_post": {
+      "url": "https://mastodon.world/@h_thoreson/109603809710932807",
+      "content": "<p>whoa, H/T <span class=\"h-card\"><a href=\"https://mastodon.social/@rasterweb\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rasterweb</span></a></span>  - I didn't realize there was a Python library for just drawing images that was actually *good* (emphasis on \"good\")  I've played around with stuff like this before in WASM <a href=\"https://mastodon.world/tags/webassembly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webassembly</span></a> but not really so much in Python. I added Pillow to one of my Jupyter envs and was able to actually use Jupyter to generate JPG's dynamically besides just charts and stuff. Simple \"Hello World\" - <a href=\"https://github.com/brickstackr/pillow-hello-world\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/brickstackr/pillow-</span><span class=\"invisible\">hello-world</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.world/@h_thoreson",
+        "display_name": "hannah"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/eslint/rfcs/pull/102",
+    "title": "feat: parsing session objects by JoshuaKGoldberg \u00b7 Pull Request #102 \u00b7 eslint/rfcs",
+    "latest": "2022-12-30T15:16:52+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@JoshuaKGoldberg/109603285405348643",
+      "content": "<p>Submitted my second RFC to ESLint! This one is co-authored by <span class=\"h-card\"><a href=\"https://mastodon.online/@bradzacher\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bradzacher</span></a></span>  and features prototypes from the two of us and James Henry.</p><p>Very hopeful we can work with the ESLint folks to improve performance on typescript-eslint-powered rules. \u263a\ufe0f\u26a1\ufe0f</p><p><a href=\"https://github.com/eslint/rfcs/pull/102\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eslint/rfcs/pull/10</span><span class=\"invisible\">2</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@JoshuaKGoldberg",
+        "display_name": "Josh Goldberg \ud83d\udc96"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/papers-we-love/papers-we-love/blob/master/datastores/database-metatheory--asking-the-big-queries.pdf",
     "title": "papers-we-love/database-metatheory--asking-the-big-queries.pdf at master \u00b7 papers-we-love/papers-we-love",
     "latest": "2022-12-30T13:05:05+00:00",
