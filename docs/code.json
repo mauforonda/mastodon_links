@@ -1,5 +1,99 @@
 [
   {
+    "link": "https://github.com/dive/macports-custom/blob/main/ports/editors/emacs-plus/Portfile#L97-L161",
+    "title": "macports-custom/Portfile at main \u00b7 dive/macports-custom",
+    "latest": "2022-12-29T23:57:51+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@justsitandgrin/109598208084482379",
+      "content": "<p>In case you want to play with <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> 29 and tree-sitter, and you use <a href=\"https://emacs.ch/tags/macports\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>macports</span></a>, you can use this custom Portfile (builds Emacs 29 with tree-sitter support and provides plenty of tree-sitter modules to play with. Check the screenshot). Only for <a href=\"https://emacs.ch/tags/macos\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>macos</span></a>, sorry, folks! But should be easy enough to port to other platforms. <a href=\"https://github.com/dive/macports-custom/blob/main/ports/editors/emacs-plus/Portfile#L97-L161\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dive/macports-custo</span><span class=\"invisible\">m/blob/main/ports/editors/emacs-plus/Portfile#L97-L161</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@sachac",
+        "display_name": "Sacha Chua"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jdalrym2/road_surface_classifier",
+    "title": "GitHub - jdalrym2/road_surface_classifier: Leverage machine learning to aid in the tagging of drivable ways (i.e. roads) in OpenStreetMap.",
+    "latest": "2022-12-29T23:02:19+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@robinlovelace/109599425828812248",
+      "content": "<p>Impressive use of machine learning and image classification to improve <a href=\"https://fosstodon.org/tags/OpenAccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenAccess</span></a> data for more evidence based decision-making and reproducible research. <a href=\"https://fosstodon.org/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://fosstodon.org/tags/DataForGood\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataForGood</span></a> <a href=\"https://fosstodon.org/tags/gischat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gischat</span></a> <a href=\"https://github.com/jdalrym2/road_surface_classifier\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jdalrym2/road_surfa</span><span class=\"invisible\">ce_classifier</span></a> <br>---<br>RT <span class=\"h-card\"><a href=\"https://fosstodon.org/@richardf\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>richardf</span></a></span><br><span class=\"h-card\"><a href=\"https://fosstodon.org/@robinlovelace\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>robinlovelace</span></a></span> @LaurenceWWatson @antony_barja @rosamfelix @_francisodero_ @appelmar @geobrenning Not quite the same, but it might be worth chatting with Jon Dalrymple who\u2019s built this\u2026<br><a href=\"https://twitter.com/richardf/status/1608594134637629442\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/richardf/status/16</span><span class=\"invisible\">08594134637629442</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://techhub.social/@ruthpozuelo",
+        "display_name": "Ruth Pozuelo Martinez"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/str4d/rage",
+    "title": "GitHub - str4d/rage: A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.",
+    "latest": "2022-12-29T22:15:05+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109599267562964454",
+      "content": "<p>Ok just added plug-and-play support for <a href=\"https://github.com/str4d/rage\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/str4d/rage</span><span class=\"invisible\"></span></a> to age.el as well, which gets you pinentry support for passphrase protected identities until such time that age itself supports pinentry (hopefully) :) <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://emacs.ch/tags/age\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>age</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@sachac",
+        "display_name": "Sacha Chua"
+      },
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/ummjackson/050044e661c6c5fa3ae61aa8a8baf485",
+    "title": "Run full-text search SQL on a Mastodon federated stream",
+    "latest": "2022-12-29T22:03:30+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ummjackson/109599195869829336",
+      "content": "<p>A few people have asked me if there is an easy way to run full-text search on the \"firehose\" of Mastodon. </p><p>Here is a gist where I've open-sourced a very simple implementation for loading the real-time federated stream into a full-text search table you can then query using SQL: <a href=\"https://gist.github.com/ummjackson/050044e661c6c5fa3ae61aa8a8baf485\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/ummjackson/050</span><span class=\"invisible\">044e661c6c5fa3ae61aa8a8baf485</span></a></p><p>It's hacky but it works, hope someone finds it useful.</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bvaughn/react-resizable-panels/releases/tag/v0.0.23",
+    "title": "Release v0.0.23 \u00b7 bvaughn/react-resizable-panels",
+    "latest": "2022-12-29T21:33:51+00:00",
+    "last_post": {
+      "url": "https://mas.to/@bvaughn/109599105473783346",
+      "content": "<p>\u269b\ufe0f react-resizable-panels 0.0.23 just released:</p><p><a href=\"https://github.com/bvaughn/react-resizable-panels/releases/tag/v0.0.23\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bvaughn/react-resiz</span><span class=\"invisible\">able-panels/releases/tag/v0.0.23</span></a></p><p>I think it's probably ready for v1.0, but I'll give it a couple more days first to see.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@bvaughn",
+        "display_name": "Brian Vaughn"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/discussions/21444",
+    "title": "[FEATURE REQUEST] Turn off comments \u00b7 Discussion #21444 \u00b7 mastodon/mastodon",
+    "latest": "2022-12-29T21:19:11+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@atomicpoet/109599018694840761",
+      "content": "<p>Some folks might ask, \"Why not wait till Mastodon adds that feature?\"</p><p>Because I don't want to wait. </p><p>I want it now.</p><p>I've already added this as a Feature request in Mastodon's Github months ago:</p><p><a href=\"https://github.com/mastodon/mastodon/discussions/21444\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/d</span><span class=\"invisible\">iscussions/21444</span></a></p><p>The great thing about the Fediverse is that I don't have to wait on Mastodon to give me what I need.</p><p>That's because alternatives to Mastodon exist on the Fediverse.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/glitch-soc/mastodon/blob/main/app/javascript/flavours/glitch/features/status/index.js",
     "title": "mastodon/index.js at main \u00b7 glitch-soc/mastodon",
     "latest": "2022-12-29T20:45:05+00:00",
