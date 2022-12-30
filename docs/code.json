@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://github.com/alt-text-org/alt-text-copy",
+    "title": "GitHub - alt-text-org/alt-text-copy: Browser extension allowing easy copying of alt text",
+    "latest": "2022-12-30T09:04:06+00:00",
+    "last_post": {
+      "url": "https://not-ok.computer/@hannah/109601061553042928",
+      "content": "<p>I made a Chrome extension that adds a \"Copy Alt Text\" option to the right-click menu on images. A few kind folks have offered localizations, and now it's time to cut a release.</p><p>Before I do, I'd love to add other languages. I have Czech and Japanese, can you help with others?</p><p>Open a PR to <a href=\"https://github.com/alt-text-org/alt-text-copy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/alt-text-org/alt-te</span><span class=\"invisible\">xt-copy</span></a> or translate:</p><p>- \"Alt Text Copy\"<br>- \"Copy Image Alt Text By Right Clicking\"<br>- \"Copy Alt Text\"</p><p>Please boost \ud83d\udc9c</p><p><a href=\"https://not-ok.computer/tags/AltText\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AltText</span></a> <a href=\"https://not-ok.computer/tags/Accessibility\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Accessibility</span></a> </p><p><a href=\"https://chrome.google.com/webstore/detail/alt-text-copy/diklkehamgifnoikknopgieldonffjfk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">chrome.google.com/webstore/det</span><span class=\"invisible\">ail/alt-text-copy/diklkehamgifnoikknopgieldonffjfk</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.me.uk/@garius",
+        "display_name": "John Bull"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/issues/22383#issuecomment-1367784377",
+    "title": "Mute another user's post \u00b7 Issue #22383 \u00b7 mastodon/mastodon",
+    "latest": "2022-12-30T08:28:01+00:00",
+    "last_post": {
+      "url": "https://mamot.fr/@nemobis/109601677739935962",
+      "content": "<p><a href=\"https://mamot.fr/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> displays the same post countless times in my home timeline if people keep <a href=\"https://mamot.fr/tags/boosting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>boosting</span></a> it. I usually mute the author for a few days when this happens, which sounds too harsh: <a href=\"https://github.com/mastodon/mastodon/issues/22383#issuecomment-1367784377\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/22383#issuecomment-1367784377</span></a> .</p><p>On the other hand, maybe <a href=\"https://mamot.fr/tags/muting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>muting</span></a> is a well-deserved punishment for going <a href=\"https://mamot.fr/tags/viral\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>viral</span></a>.</p><p><a href=\"https://mamot.fr/tags/MastoMeta\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoMeta</span></a> <a href=\"https://mamot.fr/tags/FediMeta\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FediMeta</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mamot.fr/@nemobis",
+        "display_name": "Nemo_bis \ud83c\udf08"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/str4d/age-plugin-yubikey/",
+    "title": "GitHub - str4d/age-plugin-yubikey: YubiKey plugin for age",
+    "latest": "2022-12-30T06:35:44+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109601236234676410",
+      "content": "<p>Mwaha ... so now I have age.el encryption working with org-roam and with an age identity that's plumbed into a yubikey via <a href=\"https://github.com/str4d/age-plugin-yubikey/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/str4d/age-plugin-yu</span><span class=\"invisible\">bikey/</span></a> ... end result is that emacs decryption operations for selected files (those encrypted to the yubikey identity e.g. all my org files) require a physical touch on a 15 second cache to decrypt and open inside emacs ... pretty neat! <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://emacs.ch/tags/age\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>age</span></a> <a href=\"https://emacs.ch/tags/org\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>org</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/hometown-fork/hometown/pull/1264",
     "title": "Revert About page to v3 static version by dariusk \u00b7 Pull Request #1264 \u00b7 hometown-fork/hometown",
     "latest": "2022-12-30T05:54:44+00:00",
