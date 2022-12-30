@@ -14357,10 +14357,10 @@
   },
   "https://github.com/orgs/hometown-fork/projects/2/views/1": {
     "title": "Hometown v4.x.x+hometown-1.1.0 \u2022 hometown-fork",
-    "latest": "2022-12-28T01:48:39+00:00",
+    "latest": "2022-12-30T11:09:30+00:00",
     "last_post": {
-      "url": "https://friend.camp/@darius/109588782746434146",
-      "content": "<p>Finally had time to sit down and bang out a bunch of the work for the new <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> release. As usual you can check out everything I am working on, related discussions, and the status of the work:</p><p><a href=\"https://github.com/orgs/hometown-fork/projects/2/views/1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/orgs/hometown-fork/</span><span class=\"invisible\">projects/2/views/1</span></a></p>"
+      "url": "https://friend.camp/@darius/109602312707957309",
+      "content": "<p>Okay, finally did the last task for the new <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> release: improving the mobile layout. It's not perfect, but I got rid of the giant logo header bar at the top, and moved the account and post buttons into the sidebar.</p><p>I still don't love this layout, but I think it's an improvement. Before/after attached.</p><p>Next up, I install it on Friend Camp and run it for a few days. Then... release!!!</p><p>You can track the release here: <a href=\"https://github.com/orgs/hometown-fork/projects/2/views/1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/orgs/hometown-fork/</span><span class=\"invisible\">projects/2/views/1</span></a></p>"
     },
     "people": [
       {
@@ -20547,15 +20547,19 @@
   },
   "https://www.auposte.fr/convocation/peerturbateurs-unissez-vous-rejoignez-notre-test-grandeur-nature/": {
     "title": "Peerturbateurs, unissez-vous! Rejoignez notre test grandeur nature \u2013 Au Poste \u2192\u00a0Le\u00a030\u00a0d\u00e9cembre\u00a0\u00e0\u00a010h30 | Abonnez-vous !",
-    "latest": "2022-12-28T21:39:57+00:00",
+    "latest": "2022-12-30T09:09:50+00:00",
     "last_post": {
-      "url": "https://framapiaf.org/@Framasoft/109590279331158481",
-      "content": "<p>Vous aimez <a href=\"https://framapiaf.org/tags/PeerTube\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PeerTube</span></a> ? On a besoin d'aide ! </p><p>L'ami <span class=\"h-card\"><a href=\"https://mamot.fr/@davduf\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>davduf</span></a></span> (\u00e9paul\u00e9 de <span class=\"h-card\"><a href=\"https://mamot.fr/@Octopuce\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Octopuce</span></a></span> ) nous propose de faire un test de charge du direct... pour voir comment \u00e7a tient quand on est plein.</p><p>RDV vendredi 30/12, 10h30 pour faire p\u00e9ter les scores et les serveurs !</p><p>(le boost rendra vos tentacules vives et soyeuses)</p><p>Toutes les infos : </p><p><a href=\"https://www.auposte.fr/convocation/peerturbateurs-unissez-vous-rejoignez-notre-test-grandeur-nature/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">auposte.fr/convocation/peertur</span><span class=\"invisible\">bateurs-unissez-vous-rejoignez-notre-test-grandeur-nature/</span></a></p>"
+      "url": "https://mastodon.social/@thelinuxEXP/109601678638880512",
+      "content": "<p>In an hour (10:30AM Paris time) the folks at <span class=\"h-card\"><a href=\"https://framapiaf.org/@peertube\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>peertube</span></a></span> are load testing their servers for live streams, it will presumable be in French, but you can still tune in to help then see how well things work!</p><p>It will be here: <a href=\"https://www.auposte.fr/convocation/peerturbateurs-unissez-vous-rejoignez-notre-test-grandeur-nature/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">auposte.fr/convocation/peertur</span><span class=\"invisible\">bateurs-unissez-vous-rejoignez-notre-test-grandeur-nature/</span></a></p>"
     },
     "people": [
       {
         "url": "https://mapstodon.space/@jeremy",
         "display_name": "J\u00e9r\u00e9my Garniaux"
+      },
+      {
+        "url": "https://mastodon.social/@ctietze",
+        "display_name": "Christian Tietze"
       }
     ]
   },
@@ -20821,10 +20825,10 @@
   },
   "https://arxiv.org/abs/2212.14034": {
     "title": "Cramming: Training a Language Model on a Single GPU in One Day",
-    "latest": "2022-12-29T21:01:04+00:00",
+    "latest": "2022-12-30T09:35:53+00:00",
     "last_post": {
       "url": "https://sigmoid.social/@lb/109598976556744113",
-      "content": "<p>How good of a BERT can one get in ONE DAY on ONE GPU?</p><p>With all the recent studies about scaling compute up, this paper takes a refreshing turn and does a deep dive into scaling down compute.</p><p>It's well written, stock full of insights. Here is my summary and my opinions.</p><p><a href=\"https://arxiv.org/abs/2212.14034\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.14034</span><span class=\"invisible\"></span></a></p><p>\ud83e\uddf6 1/N</p>"
+      "content": "<p>How good of a BERT can one get in ONE DAY on ONE GPU?</p><p>With all the recent studies about scaling compute up, this paper takes a refreshing turn and does a deep dive into scaling down compute.</p><p>It's well written, stock full of insights. Here is my summary and my opinions.</p><p><a href=\"https://arxiv.org/abs/2212.14034\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.14034</span><span class=\"invisible\"></span></a> by <span class=\"h-card\"><a href=\"https://sigmoid.social/@jonasgeiping\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jonasgeiping</span></a></span> and <span class=\"h-card\"><a href=\"https://sigmoid.social/@tomgoldstein\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tomgoldstein</span></a></span> </p><p>\ud83e\uddf6 1/N</p>"
     },
     "people": [
       {
@@ -20834,6 +20838,10 @@
       {
         "url": "https://sigmoid.social/@lb",
         "display_name": "Lucas Beyer"
+      },
+      {
+        "url": "https://sigmoid.social/@boazbaraktcs",
+        "display_name": "Boaz Barak"
       }
     ]
   },
@@ -23747,7 +23755,7 @@
   },
   "http://smbc-comics.com/comic/jpeg": {
     "title": "http://smbc-comics.com/comic/jpeg",
-    "latest": "2022-12-30T01:58:09+00:00",
+    "latest": "2022-12-30T12:01:53+00:00",
     "last_post": {
       "url": "https://mastodon.social/@ZachWeinersmith/109597863213216698",
       "content": "<p>JPEG<br><a href=\"http://smbc-comics.com/comic/jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">smbc-comics.com/comic/jpeg</span><span class=\"invisible\"></span></a><br><a href=\"https://mastodon.social/tags/smbc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>smbc</span></a> <a href=\"https://mastodon.social/tags/hiveworks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hiveworks</span></a> <a href=\"https://mastodon.social/tags/comics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>comics</span></a></p>"
@@ -23764,6 +23772,10 @@
       {
         "url": "https://sigmoid.social/@Riedl",
         "display_name": "Mark Riedl"
+      },
+      {
+        "url": "https://sigmoid.social/@Yarin",
+        "display_name": "Yarin :verified: :verified:"
       }
     ]
   },
@@ -26215,7 +26227,7 @@
   },
   "https://www.gog.com/game/return_to_monkey_island": {
     "title": "gog.com/game/return_to_monkey_...",
-    "latest": "2022-12-29T22:42:57.242000+00:00",
+    "latest": "2022-12-30T09:12:50+00:00",
     "last_post": {
       "url": "https://eigenmagic.net/@vampiress/109599369613036339",
       "content": "<p>Oooooh Return to Monkey Island is out on Gog! I had been putting off buying it until I didn't have to give money to Steam.</p><p>Bought!</p><p><a href=\"https://www.gog.com/game/return_to_monkey_island\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">gog.com/game/return_to_monkey_</span><span class=\"invisible\">island</span></a></p>"
@@ -26224,6 +26236,10 @@
       {
         "url": "https://hachyderm.io/@thomasfuchs",
         "display_name": "Thomas Fuchs \ud83d\udd79\ufe0f\ud83d\udd2d\ud83c\udf6a"
+      },
+      {
+        "url": "https://chaos.social/@janl",
+        "display_name": "Jan Lehnardt \ud83d\udecb\ufe0f"
       }
     ]
   },
@@ -27199,7 +27215,7 @@
   },
   "https://www.bu.edu/articles/2022/fallou-ngom-discovers-ajami-african-writing-system/": {
     "title": "Unearthing a Long Ignored African Writing System, One Researcher Finds African History, by Africans",
-    "latest": "2022-12-30T01:12:31+00:00",
+    "latest": "2022-12-30T11:11:16+00:00",
     "last_post": {
       "url": "https://jawns.club/@acm_redfox/109599655607100446",
       "content": "<p>Well, this is pretty crazy news -- a new written language discovered among people previously considered \"illiterate\"...<br><a href=\"https://www.bu.edu/articles/2022/fallou-ngom-discovers-ajami-african-writing-system/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bu.edu/articles/2022/fallou-ng</span><span class=\"invisible\">om-discovers-ajami-african-writing-system/</span></a></p><p><a href=\"https://jawns.club/tags/BlackMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BlackMastodon</span></a> <a href=\"https://jawns.club/tags/Africa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Africa</span></a> <a href=\"https://jawns.club/tags/Arabic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Arabic</span></a></p>"
@@ -27208,6 +27224,10 @@
       {
         "url": "https://jawns.club/@alexhillman",
         "display_name": "Alex Hillman \u26a1\ufe0f"
+      },
+      {
+        "url": "https://xoxo.zone/@gretchenmcc",
+        "display_name": "Gretchen McCulloch"
       }
     ]
   },
@@ -27641,15 +27661,19 @@
   },
   "https://ourworldindata.org/world-population-update-2022": {
     "title": "Five key findings from the 2022 UN Population Prospects",
-    "latest": "2022-12-30T08:37:35+00:00",
+    "latest": "2022-12-30T09:14:51+00:00",
     "last_post": {
-      "url": "https://mas.to/@edmat/109601715355050143",
-      "content": "<p>'Five key findings from the 2022 UN Population Prospects' was our most-read article this year!</p><p>- World population now 8+ billion<br>- Projected to peak around 10.4 billion in 2086<br>- Global fertility rate has dropped to 2.3<br>- India's population is now &amp;gt; China<br><a href=\"https://ourworldindata.org/world-population-update-2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/world-popul</span><span class=\"invisible\">ation-update-2022</span></a></p>"
+      "url": "https://mastodon.social/@a_sator/109601861915644129",
+      "content": "<p>RT @redouad@twitter.com</p><p>'Five key findings from the 2022 UN Population Prospects' was our most-read article this year!</p><p>- World population now 8+ billion<br>- Projected to peak around 10.4 billion in 2086<br>- Global fertility rate has dropped to 2.3<br>- India's population is now &gt; China<br><a href=\"https://ourworldindata.org/world-population-update-2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/world-popul</span><span class=\"invisible\">ation-update-2022</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/redouad/status/1608743947014385669\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/redouad/status/160</span><span class=\"invisible\">8743947014385669</span></a></p>"
     },
     "people": [
       {
         "url": "https://mas.to/@edmat",
         "display_name": "Edouard Mathieu"
+      },
+      {
+        "url": "https://mastodon.social/@a_sator",
+        "display_name": "Andreas Sator"
       }
     ]
   },
@@ -27753,10 +27777,10 @@
   },
   "https://www.calmdownben.com/p/romanian-cops-did-not-find-andrew": {
     "title": "Romanian Cops Did Not Find Andrew Tate Because Of His Greta Thunberg Video",
-    "latest": "2022-12-30T08:03:58+00:00",
+    "latest": "2022-12-30T11:06:26+00:00",
     "last_post": {
-      "url": "https://vis.social/@jhilden/109601583186515683",
-      "content": "<p>\u201cAnd like thousands of people online who read about this today, my initial instinct wasn\u2019t to dig into it. It was to take the Daily Beast\u2019s word for it. Only prompted by a follower with a conspiracy theory did I think to look further. </p><p>And that\u2019s how misinformation spreads.</p><p>It\u2019s not all nefarious. It\u2019s not all disinformation.\u201d</p><p><a href=\"https://www.calmdownben.com/p/romanian-cops-did-not-find-andrew\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">calmdownben.com/p/romanian-cop</span><span class=\"invisible\">s-did-not-find-andrew</span></a></p>"
+      "url": "https://fedi.simonwillison.net/@simon/109602300661556101",
+      "content": "<p>Because I believe in debunking misinformation even when it's just absurdly delightful to believe it, I'll link to this article that makes a strong case that the pizza box was not the missing piece of evidence needed to raid that guy's villa <a href=\"https://www.calmdownben.com/p/romanian-cops-did-not-find-andrew\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">calmdownben.com/p/romanian-cop</span><span class=\"invisible\">s-did-not-find-andrew</span></a></p>"
     },
     "people": [
       {
@@ -27766,6 +27790,10 @@
       {
         "url": "https://vis.social/@jhilden",
         "display_name": "Jonatan Hild\u00e9n"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
       }
     ]
   },
@@ -27892,6 +27920,580 @@
       {
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  "https://community.osarch.org/discussion/1260/new-plugin-for-blender-sverchok-mega-polis-a-data-driven-urban-design-toolkit-for-sverchok#latest": {
+    "title": "New Plugin for Blender-Sverchok: Mega-Polis - A Data-Driven Urban Design Toolkit for Sverchok",
+    "latest": "2022-12-30T11:56:19+00:00",
+    "last_post": {
+      "url": "https://mapstodon.space/@baswein/109423696145323377",
+      "content": "<p>I'm very excited about the possibilities of the Mega-Polis <a href=\"https://mapstodon.space/tags/blender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>blender</span></a> plugin that <span class=\"h-card\"><a href=\"https://fosstodon.org/@klixto\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>klixto</span></a></span> has been working on. It uses the blender node plugin <a href=\"https://mapstodon.space/tags/Sverchok\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Sverchok</span></a> to bring in and manipulate <a href=\"https://mapstodon.space/tags/GIS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GIS</span></a> data in blender. Already it can utilize <a href=\"https://mapstodon.space/tags/whiteboxtools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>whiteboxtools</span></a> and <a href=\"https://mapstodon.space/tags/pandas\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pandas</span></a>. Can't wait to play with it. Here is a thread on <a href=\"https://mapstodon.space/tags/osarch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>osarch</span></a> <a href=\"https://community.osarch.org/discussion/1260/new-plugin-for-blender-sverchok-mega-polis-a-data-driven-urban-design-toolkit-for-sverchok#latest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">community.osarch.org/discussio</span><span class=\"invisible\">n/1260/new-plugin-for-blender-sverchok-mega-polis-a-data-driven-urban-design-toolkit-for-sverchok#latest</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@p3palazzo",
+        "display_name": "Pedro P. Palazzo"
+      }
+    ]
+  },
+  "https://stackoverflow.com/a/67442858": {
+    "title": "https://stackoverflow.com/a/67442858",
+    "latest": "2022-12-30T12:02:32+00:00",
+    "last_post": {
+      "url": "https://vis.social/@jhilden/109602521271553568",
+      "content": "<p>Is this the smartest way to wrap a text box in <a href=\"https://vis.social/tags/matplotlib\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>matplotlib</span></a>? <br>```<br>text = \"Test 2 blah blah blah\"<br>xi, yi = 0.2, 0.15<br>txt = ax.text(xi, yi, text, wrap=True)<br># Override the object's method for getting available width<br># Note width is in pixels.<br>txt._get_wrap_line_width = lambda : 70.<br>```<br>Works, but resolution-dependent.<br><a href=\"https://stackoverflow.com/a/67442858\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">stackoverflow.com/a/67442858</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@jhilden",
+        "display_name": "Jonatan Hild\u00e9n"
+      }
+    ]
+  },
+  "https://phys.org/news/2021-10-indigenous-knowledge-myth-wilderness.html": {
+    "title": "Indigenous knowledge and the myth of 'wilderness'",
+    "latest": "2022-12-30T12:10:21+00:00",
+    "last_post": {
+      "url": "https://toot.io/@IndigenousFoodSov/109581292373771211",
+      "content": "<p>Indigenous knowledge and the myth of 'wilderness</p><p><a href=\"https://toot.io/tags/Indigenous\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Indigenous</span></a> <a href=\"https://toot.io/tags/IndigenousMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndigenousMastodon</span></a> <a href=\"https://toot.io/tags/IndigenousKnowledge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndigenousKnowledge</span></a> </p><p><a href=\"https://phys.org/news/2021-10-indigenous-knowledge-myth-wilderness.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">phys.org/news/2021-10-indigeno</span><span class=\"invisible\">us-knowledge-myth-wilderness.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@p3palazzo",
+        "display_name": "Pedro P. Palazzo"
+      }
+    ]
+  },
+  "https://doi.org/10.1111/aman.13805": {
+    "title": "https://doi.org/10.1111/aman.13805",
+    "latest": "2022-12-30T12:12:15+00:00",
+    "last_post": {
+      "url": "https://aus.social/@CJFrieman/109589033751876756",
+      "content": "<p><span class=\"h-card\"><a href=\"https://sciences.social/@josh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>josh</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> a new one - this started life as a longform essay and ended up an Academic article: NFT art is just a contemporary outgrowth of the early 20th c futurist art movement complete with fascist trappings and the fact that the art itself is derivative and easily copied is actually part of what makes it powerful for creating, maintaining and influencing affinity groups</p><p><a href=\"https://doi.org/10.1111/aman.13805\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.1111/aman.13805</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@p3palazzo",
+        "display_name": "Pedro P. Palazzo"
+      }
+    ]
+  },
+  "https://www.youtube.com/watch?v=fB2UrqbfV-4": {
+    "title": "PwL Remote #2 - Philip Wadler on Definitional Interpreters for Higher-Order Programming Languages",
+    "latest": "2022-12-30T12:15:08+00:00",
+    "last_post": {
+      "url": "https://mstdn.io/@paperswelove/109602570814430269",
+      "content": "<p>PwL Remote #2 - Philip Wadler on Definitional Interpreters for Higher-Order Programming Languages - originally posted on Jan 24, 2017 </p><p>\ud83d\udcfa <a href=\"https://www.youtube.com/watch?v=fB2UrqbfV-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=fB2UrqbfV-</span><span class=\"invisible\">4</span></a></p><p><a href=\"https://mstdn.io/tags/paperswelove\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperswelove</span></a> <a href=\"https://mstdn.io/tags/video\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>video</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.io/@paperswelove",
+        "display_name": "Papers We Love"
+      }
+    ]
+  },
+  "https://www.washingtonpost.com/media/2022/12/29/north-shore-leader-santos-scoop/": {
+    "title": "A tiny paper broke the George Santos scandal, but no one paid attention",
+    "latest": "2022-12-30T12:15:22+00:00",
+    "last_post": {
+      "url": "https://sciencemastodon.com/@elizkolbert/109602571719579133",
+      "content": "<p>The demise of local media is (another) threat to democracy.</p><p>Good piece on the tiny local paper that broke the George Santos story. Why was no one listening?</p><p><a href=\"https://www.washingtonpost.com/media/2022/12/29/north-shore-leader-santos-scoop/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/media/2022/</span><span class=\"invisible\">12/29/north-shore-leader-santos-scoop/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sciencemastodon.com/@elizkolbert",
+        "display_name": "Elizabeth Kolbert"
+      }
+    ]
+  },
+  "https://ottotaimela.bandcamp.com/album/rainface-pt-l": {
+    "title": "RAINFACE pt. l, by Otto Taimela",
+    "latest": "2022-12-30T12:15:32+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@cblgh/109602572354449559",
+      "content": "<p>excellent little ep <a href=\"https://ottotaimela.bandcamp.com/album/rainface-pt-l\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ottotaimela.bandcamp.com/album</span><span class=\"invisible\">/rainface-pt-l</span></a><br><a href=\"https://merveilles.town/tags/thestudio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>thestudio</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@cblgh",
+        "display_name": "Alexander Cobleigh"
+      }
+    ]
+  },
+  "https://johnbull.beehiiv.com/p/fantasy-needs-kebabs": {
+    "title": "Fantasy needs more kebabs | The First Foot and Mouth",
+    "latest": "2022-12-30T11:15:48+00:00",
+    "last_post": {
+      "url": "https://mastodon.me.uk/@garius/109602337495266715",
+      "content": "<p>\"Write what you know.\"</p><p>I wasn't lying when I said last night's kebab disappointment would make it into my next novel. Fantasy needs more kebab discourse.</p><p>As usual, sign up for the newsletter if you want the full extract! <a href=\"https://johnbull.beehiiv.com/p/fantasy-needs-kebabs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">johnbull.beehiiv.com/p/fantasy</span><span class=\"invisible\">-needs-kebabs</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.me.uk/@garius",
+        "display_name": "John Bull"
+      }
+    ]
+  },
+  "https://gwagner.com/predictions-2023": {
+    "title": "https://gwagner.com/predictions-2023",
+    "latest": "2022-12-30T11:30:28+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@gwagner/109602395147035744",
+      "content": "<p>Project Syndicate asked to read the 2023 tea leaves. Here goes: easy &amp; hard, good &amp; bad</p><p><a href=\"https://gwagner.com/predictions-2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gwagner.com/predictions-2023</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@gwagner",
+        "display_name": "Gernot Wagner"
+      }
+    ]
+  },
+  "https://www.bloomberg.com/news/articles/2022-12-29/here-are-the-places-imposing-new-covid-rules-for-china-travelers": {
+    "title": "The Places With New Covid Rules for China Travelers",
+    "latest": "2022-12-30T11:33:35+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@gwagner/109602407409189351",
+      "content": "<p>Covid ripping through China, rest of world putting up travel restrictions.</p><p>3 years on, more than 1 technofix in hand, and we're doing it all again</p><p><a href=\"https://www.bloomberg.com/news/articles/2022-12-29/here-are-the-places-imposing-new-covid-rules-for-china-travelers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">22-12-29/here-are-the-places-imposing-new-covid-rules-for-china-travelers</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@gwagner",
+        "display_name": "Gernot Wagner"
+      }
+    ]
+  },
+  "https://authors.elsevier.com/a/1gKNX3QW8R~fdk": {
+    "title": "authors.elsevier.com/a/1gKNX3Q...",
+    "latest": "2022-12-30T11:37:40+00:00",
+    "last_post": {
+      "url": "https://drosophila.social/@Jan_Ache/109602265012683156",
+      "content": "<p>Thrilled to share the lab\u2019s first paper, which just came out in <br>Current Biology: <a href=\"https://authors.elsevier.com/a/1gKNX3QW8R%7Efdk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">authors.elsevier.com/a/1gKNX3Q</span><span class=\"invisible\">W8R%7Efdk</span></a> <br>This project, spearheaded by postdoc extraordinaire <br>Sander Liessem, was our first foray into the world of <a href=\"https://drosophila.social/tags/insulin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>insulin</span></a> signaling in <a href=\"https://drosophila.social/tags/Drosophila\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Drosophila</span></a>. Just like in humans, worms, and mice, insulin is key to regulating <a href=\"https://drosophila.social/tags/fly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fly</span></a> metabolism. Different from vertebrates, however, a major population of insulin-producing cells (IPCs) sits right on top of the fly\u2019s brain and releases insulin into circulation.</p>"
+    },
+    "people": [
+      {
+        "url": "https://drosophila.social/@giorgiogilestro",
+        "display_name": "Giorgio Gilestro"
+      }
+    ]
+  },
+  "https://www.ft.com/content/1da5c955-b6b1-4695-b61b-ef67f859aa3a?shareType=nongift": {
+    "title": "Pensions industry and consultants play blame game over LDI crisis",
+    "latest": "2022-12-30T11:41:31+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@tobyn/109602438638739134",
+      "content": "<p>Nice piece by Adrienne Klasa looking at the state of the LDI blame game.</p><p>It\u2019ll be interesting to see where the Work &amp; Pensions Select Committee inquiry lands on this.</p><p><a href=\"https://www.ft.com/content/1da5c955-b6b1-4695-b61b-ef67f859aa3a?shareType=nongift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">ft.com/content/1da5c955-b6b1-4</span><span class=\"invisible\">695-b61b-ef67f859aa3a?shareType=nongift</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@tobyn",
+        "display_name": "Toby Nangle :verified:"
+      }
+    ]
+  },
+  "https://www.bbc.co.uk/news/world-europe-64122628": {
+    "title": "Andrew Tate detained in Romania over human trafficking case",
+    "latest": "2022-12-30T10:49:54+00:00",
+    "last_post": {
+      "url": "https://cyberplace.social/@GossiTheDog/109602235648090058",
+      "content": "<p>There\u2019s a bit more about what went down with Andrew Tate here, he was allegedly imprisoning women at gunpoint. <a href=\"https://www.bbc.co.uk/news/world-europe-64122628\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bbc.co.uk/news/world-europe-64</span><span class=\"invisible\">122628</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://cyberplace.social/@GossiTheDog",
+        "display_name": "Kevin Beaumont"
+      }
+    ]
+  },
+  "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=IN": {
+    "title": "Access to electricity (% of population) - India | Data",
+    "latest": "2022-12-30T10:51:22+00:00",
+    "last_post": {
+      "url": "https://mastodon.green/@solar_chase/109602241414413767",
+      "content": "<p>Over the last decade, India has increased the proportion of its population with access to electricity from 80% to 99%. I hadn't realised it was quite that dramatic!</p><p><a href=\"https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=IN\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">data.worldbank.org/indicator/E</span><span class=\"invisible\">G.ELC.ACCS.ZS?locations=IN</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.green/@solar_chase",
+        "display_name": "Jenny Chase"
+      }
+    ]
+  },
+  "https://manlius.substack.com/": {
+    "title": "Complexity Thoughts",
+    "latest": "2022-12-30T10:53:44+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@manlius/109602250686365095",
+      "content": "<p><a href=\"https://mathstodon.xyz/tags/ComplexityThoughts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComplexityThoughts</span></a> issue #5 is going out in a few minutes!</p><p>Don't know what is it? Click on the hashtag and check it. Or follow this URL and subscribe for free: <a href=\"https://manlius.substack.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">manlius.substack.com/</span><span class=\"invisible\"></span></a></p><p>Merry Christmas and Happy 2023!</p><p><a href=\"https://mathstodon.xyz/tags/ComplexSystems\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComplexSystems</span></a> <a href=\"https://mathstodon.xyz/tags/Emergence\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emergence</span></a> <a href=\"https://mathstodon.xyz/tags/ComplexNetworks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComplexNetworks</span></a> <a href=\"https://mathstodon.xyz/tags/SelfOrganization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SelfOrganization</span></a> <a href=\"https://mathstodon.xyz/tags/CollectiveBehavior\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CollectiveBehavior</span></a> <a href=\"https://mathstodon.xyz/tags/StatisticalPhysics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StatisticalPhysics</span></a> <a href=\"https://mathstodon.xyz/tags/ComputationalBiology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComputationalBiology</span></a> <a href=\"https://mathstodon.xyz/tags/Neuroscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Neuroscience</span></a> <a href=\"https://mathstodon.xyz/tags/BioInspiredComputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BioInspiredComputing</span></a></p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/complexsystems\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>complexsystems</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/neuroscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>neuroscience</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@manlius",
+        "display_name": "Manlio De Domenico"
+      }
+    ]
+  },
+  "https://open.spotify.com/track/5ai97hAB5rHiV2luX5NWw5?si=08898e70152c4b5d": {
+    "title": "Somewhere Near Marseilles \u30fc\u30de\u30eb\u30bb\u30a4\u30e6\u8fba\u308a\u30fc",
+    "latest": "2022-12-30T10:54:53+00:00",
+    "last_post": {
+      "url": "https://vis.social/@jhilden/109602255258227588",
+      "content": "<p>also this track\u2026 Hikaru Utada\u2019s Somewhere near Marseille. Japanese Euro-optimism with acid synth sprinkles? Here for it. Recommended for e.g. Herbert fans, probably<br><a href=\"https://open.spotify.com/track/5ai97hAB5rHiV2luX5NWw5?si=08898e70152c4b5d\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">open.spotify.com/track/5ai97hA</span><span class=\"invisible\">B5rHiV2luX5NWw5?si=08898e70152c4b5d</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@jhilden",
+        "display_name": "Jonatan Hild\u00e9n"
+      }
+    ]
+  },
+  "https://strolling.rosano.ca/0128": {
+    "title": "https://strolling.rosano.ca/0128",
+    "latest": "2022-12-30T10:54:46+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@rosano/109602254807775771",
+      "content": "<p>platform cooperatives / dragon dreaming / community and collaboration / social.coop / mastodon (with <span class=\"h-card\"><a href=\"https://social.coop/@Manuela\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Manuela</span></a></span>) <a href=\"https://strolling.rosano.ca/0128\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">strolling.rosano.ca/0128</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@rosano",
+        "display_name": "Rosano / Strolling podcast"
+      }
+    ]
+  },
+  "https://www.gogla.org/off-grid-solar-market-trends-report-2022-0": {
+    "title": "Off-Grid Solar Market Trends Report 2022",
+    "latest": "2022-12-30T10:59:46+00:00",
+    "last_post": {
+      "url": "https://mastodon.green/@solar_chase/109602274452534856",
+      "content": "<p>However, while \"reliability appears to be improving\" for the India grid, it's still not great.</p><p>This is from @GOGLAssociation@twitter.com 's 2022 Offgrid Solar Market Trends Report, <a href=\"https://www.gogla.org/off-grid-solar-market-trends-report-2022-0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">gogla.org/off-grid-solar-marke</span><span class=\"invisible\">t-trends-report-2022-0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.green/@solar_chase",
+        "display_name": "Jenny Chase"
+      }
+    ]
+  },
+  "https://www.bbc.co.uk/news/uk-wales-63794012": {
+    "title": "Andrew Tate: 'I fear online influencer radicalised my son'",
+    "latest": "2022-12-30T10:58:56+00:00",
+    "last_post": {
+      "url": "https://cyberplace.social/@GossiTheDog/109602271158300358",
+      "content": "<p>And here\u2019s the real world impact Andrew Tate has been having. <a href=\"https://www.bbc.co.uk/news/uk-wales-63794012\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bbc.co.uk/news/uk-wales-637940</span><span class=\"invisible\">12</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://cyberplace.social/@GossiTheDog",
+        "display_name": "Kevin Beaumont"
+      }
+    ]
+  },
+  "https://arxiv.org/abs/hep-th/0110285": {
+    "title": "Spontaneously Broken Spacetime Symmetries and Goldstone's Theorem",
+    "latest": "2022-12-30T10:03:20+00:00",
+    "last_post": {
+      "url": "https://astrodon.social/@dangreen/109602052507189983",
+      "content": "<p>Goldstones of spacetime symmetries or in non-relativistic systems are surprisingly subtle. Counting the number of Goldstones and their dispersion relation was only recently solved in a systematic way.</p><p><a href=\"https://arxiv.org/abs/hep-th/0110285\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/hep-th/0110285</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/1203.0609\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1203.0609</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/1204.1570\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1204.1570</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://astrodon.social/@dangreen",
+        "display_name": "Daniel Green"
+      }
+    ]
+  },
+  "https://arxiv.org/abs/1203.0609": {
+    "title": "https://arxiv.org/abs/1203.0609",
+    "latest": "2022-12-30T10:03:20+00:00",
+    "last_post": {
+      "url": "https://astrodon.social/@dangreen/109602052507189983",
+      "content": "<p>Goldstones of spacetime symmetries or in non-relativistic systems are surprisingly subtle. Counting the number of Goldstones and their dispersion relation was only recently solved in a systematic way.</p><p><a href=\"https://arxiv.org/abs/hep-th/0110285\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/hep-th/0110285</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/1203.0609\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1203.0609</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/1204.1570\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1204.1570</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://astrodon.social/@dangreen",
+        "display_name": "Daniel Green"
+      }
+    ]
+  },
+  "https://arxiv.org/abs/1204.1570": {
+    "title": "https://arxiv.org/abs/1204.1570",
+    "latest": "2022-12-30T10:03:20+00:00",
+    "last_post": {
+      "url": "https://astrodon.social/@dangreen/109602052507189983",
+      "content": "<p>Goldstones of spacetime symmetries or in non-relativistic systems are surprisingly subtle. Counting the number of Goldstones and their dispersion relation was only recently solved in a systematic way.</p><p><a href=\"https://arxiv.org/abs/hep-th/0110285\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/hep-th/0110285</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/1203.0609\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1203.0609</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/1204.1570\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1204.1570</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://astrodon.social/@dangreen",
+        "display_name": "Daniel Green"
+      }
+    ]
+  },
+  "https://artvsentropy.wordpress.com/2022/12/29/retro-writing-12-the-panaword/": {
+    "title": "Retro Writing 12 &#8211; The&nbsp;Panaword",
+    "latest": "2022-12-30T10:04:18+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ctietze/109602056360315556",
+      "content": "<p>Retro Writing 12 \u2013 The Panaword</p><p><a href=\"https://artvsentropy.wordpress.com/2022/12/29/retro-writing-12-the-panaword/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">artvsentropy.wordpress.com/202</span><span class=\"invisible\">2/12/29/retro-writing-12-the-panaword/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ctietze",
+        "display_name": "Christian Tietze"
+      }
+    ]
+  },
+  "https://t.co/2xBjI4yyKu": {
+    "title": "https://t.co/2xBjI4yyKu",
+    "latest": "2022-12-30T10:11:35+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@popular_ML/109602084970944220",
+      "content": "<p>The most popular Arxiv link yesterday (via _akhaliq@twitter): </p><p>Cramming: Training a Language Model on a Single GPU in One Day<br>abs: <a href=\"https://t.co/2xBjI4yyKu\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">t.co/2xBjI4yyKu</span><span class=\"invisible\"></span></a> <a href=\"https://t.co/VNtoc9aQaS\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">t.co/VNtoc9aQaS</span><span class=\"invisible\"></span></a></p><p><a href=\"https://twitter.com/_akhaliq/status/1608275059176800257\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_akhaliq/status/16</span><span class=\"invisible\">08275059176800257</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@popular_ML",
+        "display_name": "Popular ML resources"
+      }
+    ]
+  },
+  "https://t.co/VNtoc9aQaS": {
+    "title": "https://t.co/VNtoc9aQaS",
+    "latest": "2022-12-30T10:11:35+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@popular_ML/109602084970944220",
+      "content": "<p>The most popular Arxiv link yesterday (via _akhaliq@twitter): </p><p>Cramming: Training a Language Model on a Single GPU in One Day<br>abs: <a href=\"https://t.co/2xBjI4yyKu\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">t.co/2xBjI4yyKu</span><span class=\"invisible\"></span></a> <a href=\"https://t.co/VNtoc9aQaS\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">t.co/VNtoc9aQaS</span><span class=\"invisible\"></span></a></p><p><a href=\"https://twitter.com/_akhaliq/status/1608275059176800257\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_akhaliq/status/16</span><span class=\"invisible\">08275059176800257</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@popular_ML",
+        "display_name": "Popular ML resources"
+      }
+    ]
+  },
+  "https://en.wikipedia.org/wiki/Conrad_Heyer": {
+    "title": "Conrad Heyer - Wikipedia",
+    "latest": "2022-12-30T10:16:12+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Sardonicus/109602103157897788",
+      "content": "<p>Conrad Heyer in 1852, aged 103.</p><p><a href=\"https://en.wikipedia.org/wiki/Conrad_Heyer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Conrad_H</span><span class=\"invisible\">eyer</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Sardonicus",
+        "display_name": "Sardonicus"
+      }
+    ]
+  },
+  "https://komonews.com/amp/news/local/seattle-tech-worker-charged-for-theft-inspired-by-the-movie-office-space": {
+    "title": "komonews.com/amp/news/local/se...",
+    "latest": "2022-12-30T10:17:27+00:00",
+    "last_post": {
+      "url": "https://mas.to/@carnage4life/109602108061916440",
+      "content": "<p>A developer inspired by the movie Office Space, wrote code that sent the shipping fees from his employer Zulily to his personal account.</p><p>Even worse, due to a bug in his code he also had the shoes sent to this home in some cases. Over 1,000 pairs.</p><p>He stole $300,000 before being caught. </p><p><a href=\"https://komonews.com/amp/news/local/seattle-tech-worker-charged-for-theft-inspired-by-the-movie-office-space\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">komonews.com/amp/news/local/se</span><span class=\"invisible\">attle-tech-worker-charged-for-theft-inspired-by-the-movie-office-space</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@carnage4life",
+        "display_name": "Dare Obasanjo"
+      }
+    ]
+  },
+  "https://en.wikipedia.org/wiki/List_of_most-liked_tweets": {
+    "title": "en.wikipedia.org/wiki/List_of_...",
+    "latest": "2022-12-30T10:23:15+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109602130851339080",
+      "content": "<p>Here's a drama from the bird site you won't want to miss</p><p>Greta Thunberg just owned a rich moron (recently unbanned by Elmo) so hard that his villa was raided and he was taken into custody by Romanian authorities</p><p><a href=\"https://twitter.com/esqueer_/status/1608579412588650496\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/esqueer_/status/16</span><span class=\"invisible\">08579412588650496</span></a></p><p>Original owning incident: <a href=\"https://twitter.com/GretaThunberg/status/1608056944501178368\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/GretaThunberg/stat</span><span class=\"invisible\">us/1608056944501178368</span></a> - now the 7th most liked tweet of all time according to <a href=\"https://en.wikipedia.org/wiki/List_of_most-liked_tweets\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/List_of_</span><span class=\"invisible\">most-liked_tweets</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  "https://imgur.com/O9gUR97": {
+    "title": "Dwarf's history taken from legends mode and run through chatGPT, used OCR on ascreenshot to quickly copy.",
+    "latest": "2022-12-30T10:25:47+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@Danc/109602140829841839",
+      "content": "<p>I keep thinking about this log from Dwarf Fortress being converting into a story. </p><p>Story from chatGPT<br><a href=\"https://imgur.com/O9gUR97\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">imgur.com/O9gUR97</span><span class=\"invisible\"></span></a></p><p>Original log from legends mode.<br><a href=\"https://imgur.com/SO3iYrN\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">imgur.com/SO3iYrN</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@Danc",
+        "display_name": "Daniel Cook"
+      }
+    ]
+  },
+  "https://imgur.com/SO3iYrN": {
+    "title": "https://imgur.com/SO3iYrN",
+    "latest": "2022-12-30T10:25:47+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@Danc/109602140829841839",
+      "content": "<p>I keep thinking about this log from Dwarf Fortress being converting into a story. </p><p>Story from chatGPT<br><a href=\"https://imgur.com/O9gUR97\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">imgur.com/O9gUR97</span><span class=\"invisible\"></span></a></p><p>Original log from legends mode.<br><a href=\"https://imgur.com/SO3iYrN\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">imgur.com/SO3iYrN</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@Danc",
+        "display_name": "Daniel Cook"
+      }
+    ]
+  },
+  "https://youtu.be/PAp3_emZ4_A": {
+    "title": "https://youtu.be/PAp3_emZ4_A",
+    "latest": "2022-12-30T10:29:21+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@rosano/109602154865199549",
+      "content": "<p>not being a purist (with <span class=\"h-card\"><a href=\"https://social.coop/@Manuela\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Manuela</span></a></span>)<br><a href=\"https://youtu.be/PAp3_emZ4_A\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/PAp3_emZ4_A</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@rosano",
+        "display_name": "Rosano / Strolling podcast"
+      }
+    ]
+  },
+  "https://www.faz.net/aktuell/wirtschaft/vonovia-chef-buch-ueber-wohnungsmangel-gaspreisbremse-und-immobilienpreise-18567707.html?premium": {
+    "title": "Vonovia-Chef Buch: \u201eBauen lohnt sich gerade nicht\u201c",
+    "latest": "2022-12-30T10:33:45+00:00",
+    "last_post": {
+      "url": "https://nerdculture.de/@PatrickBernau/109602172147329145",
+      "content": "<p>\"Bauen lohnt sich gerade nicht\": Mit Vonovia-Chef Rolf Buch habe ich \u00fcber den Wohnungsmangel in Deutschland gesprochen, \u00fcber klamme Mieter und \u00fcber die Entwicklung der Immobilienpreise. Er h\u00e4lt die Angst vor dem Crash f\u00fcr \u00fcbertrieben.</p><p><a href=\"https://www.faz.net/aktuell/wirtschaft/vonovia-chef-buch-ueber-wohnungsmangel-gaspreisbremse-und-immobilienpreise-18567707.html?premium\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">faz.net/aktuell/wirtschaft/von</span><span class=\"invisible\">ovia-chef-buch-ueber-wohnungsmangel-gaspreisbremse-und-immobilienpreise-18567707.html?premium</span></a></p><p><a href=\"https://nerdculture.de/tags/FAS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FAS</span></a> f\u00fcr <a href=\"https://nerdculture.de/tags/fplus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fplus</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://nerdculture.de/@PatrickBernau",
+        "display_name": "Patrick Bernau"
+      }
+    ]
+  },
+  "https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html": {
+    "title": "How the Virus Got Out",
+    "latest": "2022-12-30T09:55:02+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@manlius/109602019897715519",
+      "content": "<p>La storia parte da Wuhan: 3 anni fa. Il @nytimes con alcuni team di esperti, tra cui quello di <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@alexvespi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>alexvespi</span></a></span>, fece un ottimo lavoro di visualizzazione della \u201cdinamica\u201d, e quindi utilizzer\u00f2 quella, commentandola a passi. Poi potremo discutere di oggi.</p><p><a href=\"https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/interactive/2020/0</span><span class=\"invisible\">3/22/world/coronavirus-spread.html</span></a></p><p>2/</p><p><a href=\"https://mathstodon.xyz/tags/Infodemia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Infodemia</span></a> <a href=\"https://mathstodon.xyz/tags/Divulgazione\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Divulgazione</span></a> <a href=\"https://mathstodon.xyz/tags/Scienza\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Scienza</span></a> <a href=\"https://mathstodon.xyz/tags/PublicHealth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PublicHealth</span></a> <a href=\"https://mathstodon.xyz/tags/COVID19\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>COVID19</span></a> <a href=\"https://mathstodon.xyz/tags/Epidemiology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Epidemiology</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@manlius",
+        "display_name": "Manlio De Domenico"
+      }
+    ]
+  },
+  "https://birchtree.me/blog/the-unlikely-rise-of-barnes-noble/": {
+    "title": "The Unlikely Rise of Barnes & Noble",
+    "latest": "2022-12-30T09:59:53+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ctietze/109602038959105947",
+      "content": "<p>The Unlikely Rise of Barnes \uff06 Noble</p><p><a href=\"https://birchtree.me/blog/the-unlikely-rise-of-barnes-noble/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">birchtree.me/blog/the-unlikely</span><span class=\"invisible\">-rise-of-barnes-noble/</span></a></p><p>Happy to hear that shops are now more independent, and an actual love of books is important!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ctietze",
+        "display_name": "Christian Tietze"
+      }
+    ]
+  },
+  "https://blog.selfhtml.org/2022/dec/30/webdesign-trend-2023-auf-google-fonts-verzichten": {
+    "title": "Webdesign-Trend 2023 - Auf Direkt-Einbindung von Google-Fonts verzichten! von Matthias Scharwies, 30.12.2022 08:30 \u2013 SELFHTML Weblog",
+    "latest": "2022-12-30T10:03:06+00:00",
+    "last_post": {
+      "url": "https://bildung.social/@selfhtml/109601507395739909",
+      "content": "<p>Hostet eure <a href=\"https://bildung.social/tags/Fonts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fonts</span></a> selbst!</p><p><a href=\"https://blog.selfhtml.org/2022/dec/30/webdesign-trend-2023-auf-google-fonts-verzichten\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.selfhtml.org/2022/dec/30/</span><span class=\"invisible\">webdesign-trend-2023-auf-google-fonts-verzichten</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://chaos.social/@janl",
+        "display_name": "Jan Lehnardt \ud83d\udecb\ufe0f"
+      }
+    ]
+  },
+  "https://arxiv.org/abs/hep-ph/9609466": {
+    "title": "Phonons as Goldstone Bosons",
+    "latest": "2022-12-30T10:03:08+00:00",
+    "last_post": {
+      "url": "https://astrodon.social/@dangreen/109602051748002159",
+      "content": "<p>Dec 30 - Phonons as Goldstone bosons (\u201896)</p><p><a href=\"https://arxiv.org/abs/hep-ph/9609466\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/hep-ph/9609466</span><span class=\"invisible\"></span></a></p><p>Phonons were known to be a consequence of spontaneously broken translations. This paper formalisms the approach in a familiar language, which would inform many important results on fluids, inflation, and more.</p>"
+    },
+    "people": [
+      {
+        "url": "https://astrodon.social/@dangreen",
+        "display_name": "Daniel Green"
+      }
+    ]
+  },
+  "https://open.spotify.com/episode/299NLd93bQ8LC8rlGFRZSM?si=2LVsG8urSNuqQmNi3FLeEg": {
+    "title": "#5 Wir Fl\u00fcchtlinge",
+    "latest": "2022-12-30T09:14:52+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@a_sator/109601861979365659",
+      "content": "<p>RT @J_Kohlenberger@twitter.com</p><p>Eine besondere Folge zum Jahreswechsel: @vedrandzihic@twitter.com teilt seine pers\u00f6nlichen Erfahrungen als Fl\u00fcchtling in \u00d6sterreich &amp; als Politikwissenschafterin, der (u.a.) dazu forscht. Wie so viele Karrieren in diesem Land begann auch seine in Traiskirchen.<br><a href=\"https://open.spotify.com/episode/299NLd93bQ8LC8rlGFRZSM?si=2LVsG8urSNuqQmNi3FLeEg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">open.spotify.com/episode/299NL</span><span class=\"invisible\">d93bQ8LC8rlGFRZSM?si=2LVsG8urSNuqQmNi3FLeEg</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/J_Kohlenberger/status/1608728541117702145\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/J_Kohlenberger/sta</span><span class=\"invisible\">tus/1608728541117702145</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@a_sator",
+        "display_name": "Andreas Sator"
+      }
+    ]
+  },
+  "https://ouropinionsarecorrect.libsyn.com/episode-122-anne-rice": {
+    "title": "Our Opinions Are Correct: Episode 122: The Incredibly Strange Career of Anne Rice",
+    "latest": "2022-12-30T09:20:56+00:00",
+    "last_post": {
+      "url": "https://wandering.shop/@annaleen/109598538697292089",
+      "content": "<p>From vampires and BDSM erotica to fan activism and Christian fantasy novels, the career of Anne Rice knew no bounds. Today on <span class=\"h-card\"><a href=\"https://wandering.shop/@ouropinions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ouropinions</span></a></span>, the <a href=\"https://wandering.shop/tags/podcast\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>podcast</span></a> about science fiction and society, <span class=\"h-card\"><a href=\"https://wandering.shop/@charliejane\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>charliejane</span></a></span> and I discuss the bonkers world of Anne Rice -- and the afterlife of her influence. <a href=\"https://ouropinionsarecorrect.libsyn.com/episode-122-anne-rice\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ouropinionsarecorrect.libsyn.c</span><span class=\"invisible\">om/episode-122-anne-rice</span></a> <a href=\"https://wandering.shop/tags/fantasy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fantasy</span></a> <a href=\"https://wandering.shop/tags/annerice\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>annerice</span></a> <a href=\"https://wandering.shop/tags/horror\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>horror</span></a> <a href=\"https://wandering.shop/tags/fandom\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fandom</span></a> <a href=\"https://wandering.shop/tags/scifi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scifi</span></a> <a href=\"https://wandering.shop/tags/erotica\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>erotica</span></a> <a href=\"https://wandering.shop/tags/xp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xp</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.me.uk/@garius",
+        "display_name": "John Bull"
+      }
+    ]
+  },
+  "https://open.spotify.com/playlist/5F21eUmFT7Fm4HdiMNTtJs?si=PF5LPFrkQqSv5tuTiPToiQ": {
+    "title": "2022 mostly",
+    "latest": "2022-12-30T09:27:15+00:00",
+    "last_post": {
+      "url": "https://vis.social/@jhilden/109575274369343720",
+      "content": "<p>Oh waddap, yearly mostly Playlist <a href=\"https://vis.social/tags/music\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>music</span></a> <a href=\"https://vis.social/tags/rave\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rave</span></a> <a href=\"https://vis.social/tags/density\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>density</span></a>  <a href=\"https://open.spotify.com/playlist/5F21eUmFT7Fm4HdiMNTtJs?si=PF5LPFrkQqSv5tuTiPToiQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">open.spotify.com/playlist/5F21</span><span class=\"invisible\">eUmFT7Fm4HdiMNTtJs?si=PF5LPFrkQqSv5tuTiPToiQ</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@jhilden",
+        "display_name": "Jonatan Hild\u00e9n"
+      }
+    ]
+  },
+  "https://www.paulkozal.com/browse": {
+    "title": "browse",
+    "latest": "2022-12-30T09:38:46+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Sardonicus/109601955929038064",
+      "content": "<p>Paul Kozal<br><a href=\"https://www.paulkozal.com/browse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">paulkozal.com/browse</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Sardonicus",
+        "display_name": "Sardonicus"
+      }
+    ]
+  },
+  "https://www.sueddeutsche.de/panorama/kriminalitaet-influencer-andrew-tate-in-rumaenien-festgenommen-dpa.urn-newsml-dpa-com-20090101-221230-99-53279": {
+    "title": "Influencer Andrew Tate in Rum\u00e4nien festgenommen",
+    "latest": "2022-12-30T09:40:33+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@niggi/109601962937168573",
+      "content": "<p>Rum\u00e4nische Staatsanwaltschaft dementiert laut @dpa@twitter.com Berichte, wonach der Pizzakarton einen Hinweis auf den Aufenthaltsort von <a href=\"https://mastodon.social/tags/AndrewTate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AndrewTate</span></a> gegeben habe. Es stimme nicht, dass der Karton f\u00fcr die Festnahme eine Rolle gespielt habe. <a href=\"https://www.sueddeutsche.de/panorama/kriminalitaet-influencer-andrew-tate-in-rumaenien-festgenommen-dpa.urn-newsml-dpa-com-20090101-221230-99-53279\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">sueddeutsche.de/panorama/krimi</span><span class=\"invisible\">nalitaet-influencer-andrew-tate-in-rumaenien-festgenommen-dpa.urn-newsml-dpa-com-20090101-221230-99-53279</span></a> <a href=\"https://mastodon.social/tags/Greta\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Greta</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@niggi",
+        "display_name": "Stefan Niggemeier"
       }
     ]
   }
