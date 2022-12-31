@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://github.com/panicz/grasp-android/blob/master/stages/retreat/GRASP/src/test-painter.scm#L252",
+    "title": "github.com/panicz/grasp-androi...",
+    "latest": "2022-12-30T23:37:12+00:00",
+    "last_post": {
+      "url": "https://functional.cafe/@PaniczGodek/109605222203262815",
+      "content": "<p>As promised, on this last day of the year, I am writing the summary of the year 2022 and what it meant for GRASP.</p><p>First off, <a href=\"https://functional.cafe/tags/GRASP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GRASP</span></a> is a <a href=\"https://functional.cafe/tags/Lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Lisp</span></a> (s-expression) editor designed with mobile devices/tactile interfaces in mind. Here's what using it on a mobile device is supposed to look&amp;feel like:</p><p><a href=\"https://www.youtube.com/watch?v=H0YNZCO7gyQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=H0YNZCO7gy</span><span class=\"invisible\">Q</span></a></p><p>The above is a video recoreded with the old prototype (the one that I have presented during 2021 Scheme Workshop).</p><p>However, with the beginning of the year 2022, after some experimentation, I decided to rewrite the whole program from scratch.</p><p>The reasons for that were the following:<br>- the old prototype was written in Java (becasue, when I started, it was the only option I knew about for writing Android apps on an Android device), so that I would not be able to use GRASP to edit its own source code</p><p>- after I integrated GRASP with Kawa Scheme, I learned enough about Java, Android and Kawa to attempt rewriting the editor in Kawa Scheme</p><p>- after integration with Kawa Scheme the build times of the APK file increased significantly, so I needed a way for testing pieces of the application without rebuilding the whole thing</p><p>- the representation chosen in that prototype was fairly ad-hoc, and it would be difficult to modify it to represent dotted lists</p><p>- I wanted to be able to work on (and in) the app not only on my phone, but also on a conventional computer with a keyboard and a mouse</p><p>- I felt that adding certain features (like undo or keyboard editing) was hard in the existing code base</p><p>- I'm neither experienced nor passionate about Java (actually GRASP was my first and last program written in Java), whereas I am both passionate and experienced when it comes to writing Scheme</p><p>The point regading being able to test the application without rebuilding it, and about being able to write both on the mobile and conventional computers, has lead me to some interesting by-products.</p><p>First - for the purpose of testing - I created a backend which spits out GRASP rendering as ASCII art, which lets me write unit tests in the following way:</p><p><a href=\"https://github.com/panicz/grasp-android/blob/master/stages/retreat/GRASP/src/test-painter.scm#L252\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/panicz/grasp-androi</span><span class=\"invisible\">d/blob/master/stages/retreat/GRASP/src/test-painter.scm#L252</span></a></p><p>Second - I also built a terminal version of GRASP, so that I have a piece of code that I can quite literally run both on a computer and on the phone (via Termux,<br>which is my development environment). Dragging expressions in a terminal using a mouse feels insane!</p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@akkartik",
+        "display_name": "Kartik Agaram"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/shwestrick/smlfmt",
+    "title": "GitHub - shwestrick/smlfmt: A custom parser/auto-formatter for Standard ML",
+    "latest": "2022-12-30T23:05:32+00:00",
+    "last_post": {
+      "url": "https://discuss.systems/@shwestrick/109598659239627546",
+      "content": "<p>As a hobby project, I've been developing an auto-formatter for Standard ML. This turned out to be way more interesting than I first expected. I've kept coming back to it over the past two years.</p><p>Well, after a bit of a push recently, it's now soooo close to being usable for real work. Maybe I can cross the last few hurdles before the end of winter break...</p><p><a href=\"https://github.com/shwestrick/smlfmt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/shwestrick/smlfmt</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@mattmight",
+        "display_name": "Matt Might"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/nolanlawson/pinafore/issues/2337",
+    "title": "Pointers to ActivityStreams and RSS feeds missing  \u00b7 Issue #2337 \u00b7 nolanlawson/pinafore",
+    "latest": "2022-12-30T21:58:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@kidehen/109604864634218759",
+      "content": "<p><span class=\"h-card\"><a href=\"https://toot.cafe/@nolan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nolan</span></a></span>,</p><p>First off, <a href=\"https://mastodon.social/tags/pinafore\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pinafore</span></a> is a really neat <a href=\"https://mastodon.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> reader. </p><p>Little feature enhancement that I've posted as an issue on <a href=\"https://mastodon.social/tags/github\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>github</span></a>.</p><p><a href=\"https://github.com/nolanlawson/pinafore/issues/2337\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nolanlawson/pinafor</span><span class=\"invisible\">e/issues/2337</span></a>  -- use of auto-discovery patterns for discovering <a href=\"https://mastodon.social/tags/ActivityStreams\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityStreams</span></a> and <a href=\"https://mastodon.social/tags/RSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RSS</span></a> via <a href=\"https://mastodon.social/tags/HTML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HTML</span></a> <a href=\"https://mastodon.social/tags/metadata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>metadata</span></a> .</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/mastodon/mastodon/pull/22393",
     "title": "To enhance privacy, reduce IP and Session retention from 1 year to 2 days by eobrain \u00b7 Pull Request #22393 \u00b7 mastodon/mastodon",
     "latest": "2022-12-30T19:40:42+00:00",
