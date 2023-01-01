@@ -1,5 +1,24 @@
 [
   {
+    "link": "https://arxiv.org/abs/2212.08718",
+    "title": "Neural Story Planning",
+    "latest": "2023-01-01T13:46:27+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@Riedl/109547331308324391",
+      "content": "<p>This is a passion project that I've been wanting to do for a long time...</p><p>Neural Story Planning<br><a href=\"https://arxiv.org/abs/2212.08718\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.08718</span><span class=\"invisible\"></span></a></p><p>Historically, partial-order planning was used to generate causally coherent stories/plots. But suffered from knowledge engineering bottlenecks.</p><p>Neural story generators struggle with coherence, repetition, and other LM artifacts.</p><p>This works updates classical planning algorithms to use an LM to infer actions and causal preconditions</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@Riedl",
+        "display_name": "Mark Riedl"
+      },
+      {
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
+      }
+    ]
+  },
+  {
     "link": "https://www.nature.com/articles/s41593-022-01212-4",
     "title": "Hippocampal spatial representations exhibit a hyperbolic geometry that expands with experience - Nature Neuroscience",
     "latest": "2023-01-01T03:47:42+00:00",
@@ -763,21 +782,6 @@
       {
         "url": "https://sigmoid.social/@Yarin",
         "display_name": "Yarin :verified: :verified:"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2212.08718",
-    "title": "Neural Story Planning",
-    "latest": "2022-12-29T02:13:55+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@Riedl/109594544379412757",
-      "content": "<p>My team has been looking into wrapping Language Models within backward chaining algorithms for a few years now. In the context of story generation. Plot coherence has a lot of similarities with logical reasoning, though without the need for hard guarantees (readers can be forgiving sbout certain types of omissions). </p><p>Our most recent work wraps an LM in an algorithm inspired by ends-means backward chaining search: <a href=\"https://arxiv.org/abs/2212.08718\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.08718</span><span class=\"invisible\"></span></a> (came out a few days earlier \ud83d\ude09)</p><p>2/3</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@Riedl",
-        "display_name": "Mark Riedl"
       }
     ]
   },
