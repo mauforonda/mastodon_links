@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.com/cve-search/cve-search",
+    "title": "github.com/cve-search/cve-sear...",
+    "latest": "2023-01-01T11:51:49+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@adulau/109613329407390812",
+      "content": "<p>What\u2019s the logic behind the halt of JSON data feeds in late 2023 for the NIST NVD (National Vulnerability Database)? This means that all the tools which were using the data feeds in JSON will need then to rely on the NIST API 2.0. Then this will increase the load on the NIST API endpoint and lack the ability to do local searches for many organisations.</p><p><a href=\"https://nvd.nist.gov/vuln/data-feeds#JSON_FEED\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nvd.nist.gov/vuln/data-feeds#J</span><span class=\"invisible\">SON_FEED</span></a></p><p><a href=\"https://infosec.exchange/tags/opendata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opendata</span></a> <a href=\"https://infosec.exchange/tags/vulnerabilities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vulnerabilities</span></a> <a href=\"https://infosec.exchange/tags/cve\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cve</span></a> <a href=\"https://infosec.exchange/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a> </p><p>Of course, I can update cve-search <a href=\"https://github.com/cve-search/cve-search\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cve-search/cve-sear</span><span class=\"invisible\">ch</span></a> to pull from the new API 2.0 but then all the local instances will do the same. A static JSON dump was clearly more efficient to update all the instances. But I suppose complexity is selling better than simplicity nowadays\u2026</p>"
+    },
+    "people": [
+      {
+        "url": "https://cyberplace.social/@GossiTheDog",
+        "display_name": "Kevin Beaumont"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/benbrown/shuttlecraft",
     "title": "github.com/benbrown/shuttlecra...",
     "latest": "2023-01-01T06:02:43+00:00",
