@@ -1,5 +1,80 @@
 [
   {
+    "link": "https://github.com/astrowonk/mastodon_reader",
+    "title": "GitHub - astrowonk/mastodon_reader: Dash based Mastodon Link List from bookmarks and favorites",
+    "latest": "2023-01-01T17:33:52+00:00",
+    "last_post": {
+      "url": "https://vmst.io/@marcoshuerta/109615148715530834",
+      "content": "<p>New in <a href=\"https://vmst.io/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a>: a new <a href=\"https://vmst.io/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> web app from me that collects and presents links from your favorites and bookmarks:</p><p>Repo: <a href=\"https://github.com/astrowonk/mastodon_reader\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/astrowonk/mastodon_</span><span class=\"invisible\">reader</span></a></p><p>Live: <a href=\"https://marcoshuerta.com/dash/mastodon_reader/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marcoshuerta.com/dash/mastodon</span><span class=\"invisible\">_reader/</span></a></p><p>Instance API Tokens are stored in HTML 5 storage but encrypted with a server-side key (Fernet.) Nothing is stored on the server.</p><p>If anyone tries this let me know. It was really just me learning to do the OAuth dance in <a href=\"https://vmst.io/tags/plotly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>plotly</span></a> Dash; this was my first idea for what do with the API.</p>"
+    },
+    "people": [
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/TodePond/ThingsIWantToMake",
+    "title": "GitHub - TodePond/ThingsIWantToMake: things I wanna make (updated for 2023)",
+    "latest": "2023-01-01T16:25:08+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@TodePond/109614878463205224",
+      "content": "<p>Ok fine I'll do it!</p><p>I've now updated my todo list for 2023. What do you think? (warning: spoilers for future videos) \ud83d\udc1f\ud83d\udc0d</p><p><a href=\"https://github.com/TodePond/ThingsIWantToMake\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TodePond/ThingsIWan</span><span class=\"invisible\">tToMake</span></a></p><p><a href=\"https://mastodon.social/tags/creativecoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>creativecoding</span></a> + <a href=\"https://mastodon.social/tags/cellularautomata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cellularautomata</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@TodePond",
+        "display_name": "Lu Wilson"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/chrisbarrett/nursery",
+    "title": "GitHub - chrisbarrett/nursery: Programs and libs that I haven't gotten around to formally packaging",
+    "latest": "2023-01-01T16:22:02+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@credmp/109614638842658054",
+      "content": "<p>If you use <a href=\"https://fosstodon.org/tags/org\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>org</span></a> <a href=\"https://fosstodon.org/tags/roam\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>roam</span></a> in <a href=\"https://fosstodon.org/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> be sure to check out <a href=\"https://github.com/chrisbarrett/nursery\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/chrisbarrett/nurser</span><span class=\"invisible\">y</span></a> there are some jewels there!</p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/radian-software/el-patch",
+    "title": "GitHub - radian-software/el-patch: \u2728 Future-proof your Emacs Lisp customizations!",
+    "latest": "2023-01-01T16:21:46+00:00",
+    "last_post": {
+      "url": "https://hostux.social/@akib/109614664520505758",
+      "content": "<p><a href=\"https://hostux.social/tags/EmacsTip\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EmacsTip</span></a>: Patch definitions in <a href=\"https://hostux.social/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> packages with <a href=\"https://hostux.social/tags/ElPatch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ElPatch</span></a>!</p><p><a href=\"https://github.com/radian-software/el-patch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/radian-software/el-</span><span class=\"invisible\">patch</span></a></p><p><a href=\"https://hostux.social/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> <a href=\"https://hostux.social/tags/Patch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Patch</span></a> <a href=\"https://hostux.social/tags/ElPatch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ElPatch</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/EleutherAI/pythia",
+    "title": "GitHub - EleutherAI/pythia",
+    "latest": "2023-01-01T15:50:10+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@stellaathena/109614667611187533",
+      "content": "<p>What do LLMs learn over the course of training? How do these patterns change as you scale? To help answer these questions, we are releasing a Pythia, suite of LLMs + checkpoints designed for research on interpretability and training dynamics!</p><p>The models have sizes ranging from 19M to 13B parameters, contain 143 intermediate checkpoints, and were trained on the same exact data in the same exact order.</p><p><a href=\"https://sigmoid.social/tags/ml\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ml</span></a> <a href=\"https://sigmoid.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://sigmoid.social/tags/nlproc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nlproc</span></a> <a href=\"https://sigmoid.social/tags/interpretability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>interpretability</span></a> <a href=\"https://sigmoid.social/tags/EleutherAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EleutherAI</span></a> </p><p><a href=\"https://github.com/EleutherAI/pythia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/EleutherAI/pythia</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@moultano",
+        "display_name": "Ryan Moulton"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/rasbt/py-args/tree/master/glob-replace",
     "title": "py-args/glob-replace at master \u00b7 rasbt/py-args",
     "latest": "2023-01-01T14:16:09+00:00",
