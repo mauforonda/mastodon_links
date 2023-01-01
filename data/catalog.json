@@ -27153,7 +27153,7 @@
   },
   "https://bringback.blog/": {
     "title": "Bring Back Blogs! January 2023",
-    "latest": "2022-12-31T23:32:44.110000+00:00",
+    "latest": "2023-01-01T01:17:26+00:00",
     "last_post": {
       "url": "https://fosstodon.org/@amoroso/109603327206521341",
       "content": "<p>In January of 2023 will you publish at least 3 posts to your blog or RSS feed? If so join Bring Back Blogging, an experiment to encourage blogging by listing the bloggers who participate and allowing readers to discover new content.</p><p>So far over 130 bloggers joined, including yours truly. I blog regularly, so it was a no brainer.</p><p><a href=\"https://bringback.blog\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bringback.blog</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fosstodon.org/tags/blogging\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>blogging</span></a> <a href=\"https://fosstodon.org/tags/rss\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rss</span></a></p>"
@@ -27190,6 +27190,14 @@
       {
         "url": "https://hachyderm.io/@allafarce",
         "display_name": "Dave Guarino"
+      },
+      {
+        "url": "https://hci.social/@joelchan86",
+        "display_name": "Joel Chan"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
       }
     ]
   },
@@ -35261,15 +35269,19 @@
   },
   "https://shkspr.mobi/blog/2022/12/whats-an-acceptable-number-of-failures/": {
     "title": "What's an acceptable number of failures?",
-    "latest": "2022-12-31T21:17:36+00:00",
+    "latest": "2023-01-01T02:41:18+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@Edent/109608311441200179",
-      "content": "<p>\ud83c\udd95 blog! \u201cWhat's an acceptable number of failures?\u201d</p><p>During my (brief) stint teaching senior leaders about AI, there was one question that I urged them to learn above all others. What is the acceptable failure rate? For this, I had to teach them two concepts. False Positives. For example, telling someone they have cancer when they don't. False Negatives. For example, telling someon\u2026</p><p>\ud83d\udc40 Read more: <a href=\"https://shkspr.mobi/blog/2022/12/whats-an-acceptable-number-of-failures/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">shkspr.mobi/blog/2022/12/whats</span><span class=\"invisible\">-an-acceptable-number-of-failures/</span></a><br>\u2e3b<br><a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://mastodon.social/tags/statistics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>statistics</span></a></p>"
+      "url": "https://mastodon.neilzone.co.uk/@neil/109609427956867667",
+      "content": "<p>A superb piece by <span class=\"h-card\"><a href=\"https://mastodon.social/@Edent\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Edent</span></a></span> </p><p>What's an acceptable number of failures? <a href=\"https://shkspr.mobi/blog/2022/12/whats-an-acceptable-number-of-failures/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">shkspr.mobi/blog/2022/12/whats</span><span class=\"invisible\">-an-acceptable-number-of-failures/</span></a></p>"
     },
     "people": [
       {
         "url": "https://mastodon.social/@Edent",
         "display_name": "Terence Eden"
+      },
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
       }
     ]
   },
@@ -35891,10 +35903,10 @@
   },
   "https://blog.cloudflare.com/the-state-of-http-in-2022/": {
     "title": "The state of HTTP in 2022",
-    "latest": "2022-12-31T22:27:38+00:00",
+    "latest": "2023-01-01T01:08:40+00:00",
     "last_post": {
-      "url": "https://techpolicy.social/@mnot/109610641523489182",
-      "content": "<p>I wrote a thing. <a href=\"https://blog.cloudflare.com/the-state-of-http-in-2022/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.cloudflare.com/the-state-</span><span class=\"invisible\">of-http-in-2022/</span></a></p>"
+      "url": "https://toot.cafe/@nolan/109609277999138804",
+      "content": "<p>\"The state of HTTP in 2022\" by <span class=\"h-card\"><a href=\"https://techpolicy.social/@mnot\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mnot</span></a></span> <a href=\"https://blog.cloudflare.com/the-state-of-http-in-2022/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.cloudflare.com/the-state-</span><span class=\"invisible\">of-http-in-2022/</span></a></p><p>Great overview of what's new and upcoming with HTTP. It's nice to see such a core standard still able to grow and evolve.</p>"
     },
     "people": [
       {
@@ -35908,6 +35920,10 @@
       {
         "url": "https://techpolicy.social/@mnot",
         "display_name": "Mark Nottingham"
+      },
+      {
+        "url": "https://toot.cafe/@oliverturner",
+        "display_name": "Oliver"
       }
     ]
   },
@@ -37337,7 +37353,7 @@
   },
   "https://joinmastodon.org/roadmap": {
     "title": "Public Roadmap",
-    "latest": "2022-12-31T22:00:59+00:00",
+    "latest": "2023-01-01T02:58:21+00:00",
     "last_post": {
       "url": "https://sigmoid.social/@andrey/109610536790312477",
       "content": "<p><a href=\"https://sigmoid.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> now has a public development <a href=\"https://sigmoid.social/tags/roadmap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>roadmap</span></a> !</p><p><a href=\"https://joinmastodon.org/roadmap\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">joinmastodon.org/roadmap</span><span class=\"invisible\"></span></a></p><p>Love this.</p>"
@@ -37362,6 +37378,10 @@
       {
         "url": "https://sigmoid.social/@andrey",
         "display_name": "Andrey Kurenkov"
+      },
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
       }
     ]
   },
@@ -38146,6 +38166,192 @@
       {
         "url": "https://sauropods.win/@futurebird",
         "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  "https://www.gregegan.net/SCALE/SCALE.html": {
+    "title": "Scale \u2014 Greg Egan",
+    "latest": "2023-01-01T01:44:15+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@gregeganSF/109611414660784965",
+      "content": "<p>When electronics importer Cara Leon goes missing, private investigator Sam Mujrif is hired by her sister to investigate. Cara is 8 times taller than Sam, but evidence soon points to players much smaller than either of them.</p><p>As Sam and his cross-scale colleagues pursue the case, it becomes apparent that Cara\u2019s disappearance is linked to  technology with the potential to reshape their whole society, and radically alter the balance of power between the scales.</p><p><a href=\"https://www.gregegan.net/SCALE/SCALE.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">gregegan.net/SCALE/SCALE.html</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@jascha",
+        "display_name": "Jascha Sohl-Dickstein"
+      },
+      {
+        "url": "https://mathstodon.xyz/@gregeganSF",
+        "display_name": "Greg Egan"
+      }
+    ]
+  },
+  "https://youtu.be/09NGZebQ6o4": {
+    "title": "https://youtu.be/09NGZebQ6o4",
+    "latest": "2023-01-01T02:41:48+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@mat_kelcey/109611640955446752",
+      "content": "<p>model generates the following inpainting for \"\"playing music from the international space station. view from window.\"</p><p><a href=\"https://youtu.be/09NGZebQ6o4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/09NGZebQ6o4</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@mat_kelcey",
+        "display_name": "Mat Kelcey"
+      }
+    ]
+  },
+  "https://doi.org/10.1371/journal.pcbi.1010705": {
+    "title": "doi.org/10.1371/journal.pcbi.1...",
+    "latest": "2023-01-01T02:45:08+00:00",
+    "last_post": {
+      "url": "https://genomic.social/@BeardyMcJohnFace/109536934129309628",
+      "content": "<p>New paper is out! Writing research software is hard, so why make it harder than it needs to be? <a href=\"https://doi.org/10.1371/journal.pcbi.1010705\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1371/journal.pcbi.1</span><span class=\"invisible\">010705</span></a> Thank you to all my  amazing collaborators @saltyscientist@twitter.com <span class=\"h-card\"><a href=\"https://genomic.social/@bioinforad\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bioinforad</span></a></span> <span class=\"h-card\"><a href=\"https://genomic.social/@vijinim\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vijinim</span></a></span> <span class=\"h-card\"><a href=\"https://genomic.social/@npbhavya\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>npbhavya</span></a></span> <span class=\"h-card\"><a href=\"https://genomic.social/@ctb\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ctb</span></a></span> @watsonhaigh@twitter.com <span class=\"h-card\"><a href=\"https://genomic.social/@linsalrob\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>linsalrob</span></a></span> <a href=\"https://genomic.social/tags/bioinformatics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bioinformatics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://genomic.social/@ctb",
+        "display_name": "Titus Brown"
+      }
+    ]
+  },
+  "https://www.salon.com/2021/07/23/panpsychism-the-idea-that-inanimate-objects-have-consciousness-gains-steam-in-science-communities/": {
+    "title": "Panpsychism, the idea that inanimate objects have consciousness, gains steam in science communities",
+    "latest": "2023-01-01T02:51:46+00:00",
+    "last_post": {
+      "url": "https://mastodon.world/@blythe/109611659812789686",
+      "content": "<p><span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> panpsychism? <a href=\"https://www.salon.com/2021/07/23/panpsychism-the-idea-that-inanimate-objects-have-consciousness-gains-steam-in-science-communities/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">salon.com/2021/07/23/panpsychi</span><span class=\"invisible\">sm-the-idea-that-inanimate-objects-have-consciousness-gains-steam-in-science-communities/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  "https://www.theatlantic.com/books/archive/2022/12/native-american-history-indigenous-continent-pekka-hamalainen/672600/": {
+    "title": "Rethinking the European Conquest of Native Americans",
+    "latest": "2023-01-01T02:26:06+00:00",
+    "last_post": {
+      "url": "https://historians.social/@davidmluebke/109610909285099253",
+      "content": "<p>An excellent review of Pekka H\u00e4m\u00e4l\u00e4inen's latest book, \"Indigenous Continent,\" by my old friend and colleague, David Waldstreicher. Always judicious and balanced, David surveys the controversies that H\u00e4m\u00e4l\u00e4inen's work has generated, its blind-spots as well as its contributions. </p><p><a href=\"https://historians.social/tags/indigenous\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>indigenous</span></a> <a href=\"https://historians.social/tags/native\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>native</span></a> <a href=\"https://historians.social/tags/histodons\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>histodons</span></a></p><p><a href=\"https://www.theatlantic.com/books/archive/2022/12/native-american-history-indigenous-continent-pekka-hamalainen/672600/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theatlantic.com/books/archive/</span><span class=\"invisible\">2022/12/native-american-history-indigenous-continent-pekka-hamalainen/672600/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://writing.exchange/@bryankam",
+        "display_name": "Bryan Kam"
+      }
+    ]
+  },
+  "https://github-contributions.vercel.app/": {
+    "title": "GitHub Contributions Chart Generator",
+    "latest": "2023-01-01T01:53:14+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109611450028280533",
+      "content": "<p><a href=\"https://github-contributions.vercel.app/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github-contributions.vercel.ap</span><span class=\"invisible\">p/</span></a> Is really neat - renders a single image with your entire GitHub contribution history, mine goes all the way back to 2008!</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  "https://torrentfreak.com/where-are-the-pirated-movie-screeners-this-year-221229/": {
+    "title": "Where Are the Pirated Movie Screeners This Year?",
+    "latest": "2023-01-01T02:22:02+00:00",
+    "last_post": {
+      "url": "https://social.masto.land/@dave/109599770560355919",
+      "content": "<p>Where Are the Pirated Movie Screeners This Year?</p><p><a href=\"https://torrentfreak.com/where-are-the-pirated-movie-screeners-this-year-221229/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">torrentfreak.com/where-are-the</span><span class=\"invisible\">-pirated-movie-screeners-this-year-221229/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2618\ufe0f"
+      }
+    ]
+  },
+  "https://news.ycombinator.com/item?id=34176035": {
+    "title": "Ask HN: Why haven't bookmarks been re-invented? | Hacker News",
+    "latest": "2023-01-01T02:22:05+00:00",
+    "last_post": {
+      "url": "https://social.masto.land/@dave/109598704858391444",
+      "content": "<p>Ask HN: Why haven't bookmarks been re-invented?</p><p><a href=\"https://news.ycombinator.com/item?id=34176035\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">news.ycombinator.com/item?id=3</span><span class=\"invisible\">4176035</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2618\ufe0f"
+      }
+    ]
+  },
+  "https://www.newstatesman.com/culture/books/2021/09/ludwig-wittgenstein-a-mind-on-fire": {
+    "title": "Ludwig Wittgenstein: a mind on fire",
+    "latest": "2023-01-01T01:27:16+00:00",
+    "last_post": {
+      "url": "https://writing.exchange/@bryankam/109611347893893989",
+      "content": "<p>Interesting <a href=\"https://writing.exchange/tags/Wittgenstein\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wittgenstein</span></a> was reading <a href=\"https://writing.exchange/tags/James\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>James</span></a> and <a href=\"https://writing.exchange/tags/Tolstoy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tolstoy</span></a>. Former is a classic pragmatist, latter kind of is too, has <a href=\"https://writing.exchange/tags/Taoist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Taoist</span></a> leanings <a href=\"https://writing.exchange/tags/philosophy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>philosophy</span></a> <a href=\"https://www.newstatesman.com/culture/books/2021/09/ludwig-wittgenstein-a-mind-on-fire\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newstatesman.com/culture/books</span><span class=\"invisible\">/2021/09/ludwig-wittgenstein-a-mind-on-fire</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://writing.exchange/@bryankam",
+        "display_name": "Bryan Kam"
+      }
+    ]
+  },
+  "https://opensourcedesign.net/": {
+    "title": "Open Source Design",
+    "latest": "2023-01-01T01:28:51+00:00",
+    "last_post": {
+      "url": "https://c.im/@DenialShown/109611347518498259",
+      "content": "<p><span class=\"h-card\"><a href=\"https://dice.camp/@bujold\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bujold</span></a></span> <span class=\"h-card\"><a href=\"https://mstdn.social/@486timetable\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>486timetable</span></a></span> <span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> there is an emerging open UX mindset and practice. Check out <a href=\"https://opensourcedesign.net/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">opensourcedesign.net/</span><span class=\"invisible\"></span></a>. I can point you at more specific resources in about a week or so.</p>"
+    },
+    "people": [
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  "https://lexaloffle.com/bbs/?tid=50923": {
+    "title": "https://lexaloffle.com/bbs/?tid=50923",
+    "latest": "2023-01-01T01:01:14+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@zep/109609087259389863",
+      "content": "<p>Picotron Playground -- an experimental web-based edition of my WIP Fantasy Workstation -- is OUT NOW! It includes a code editor and terminal program for poking around some demos of the <a href=\"https://mastodon.social/tags/picotron\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>picotron</span></a> API and runtime.</p><p><a href=\"https://lexaloffle.com/bbs/?tid=50923\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">lexaloffle.com/bbs/?tid=50923</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@helvetica",
+        "display_name": "Zach Gage"
+      }
+    ]
+  },
+  "https://jonworth.eu/the-longest-train-journey-in-the-world/": {
+    "title": "jonworth.eu/the-longest-train-...",
+    "latest": "2023-01-01T01:13:43+00:00",
+    "last_post": {
+      "url": "https://gruene.social/@jon/109602456488809073",
+      "content": "<p>As the incorrect version of the World's Longest Train trip map is doing the rounds again... here is the *correct* one</p><p>It's Cascais \ud83c\uddf5\ud83c\uddf9 to Woodlands \ud83c\uddf8\ud83c\uddec - a geodesic distance of 11904.73km</p><p>Add trams, metros and the Changi Airport Skytrain and you can manage 11929.33km</p><p>And if you want the full explanation it's here: <a href=\"https://jonworth.eu/the-longest-train-journey-in-the-world/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jonworth.eu/the-longest-train-</span><span class=\"invisible\">journey-in-the-world/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot"
+      }
+    ]
+  },
+  "https://solar.lowtechmagazine.com/about.html": {
+    "title": "LOW\u2190TECH MAGAZINE",
+    "latest": "2023-01-01T01:14:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@autiomaa/109610683703465676",
+      "content": "<p>\"To reduce energy use, we opted for a back to basics web design, using a static site instead of a database driven content management system.\"<br><a href=\"https://solar.lowtechmagazine.com/about.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">solar.lowtechmagazine.com/abou</span><span class=\"invisible\">t.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@jonny",
+        "display_name": "Jonny"
       }
     ]
   }
