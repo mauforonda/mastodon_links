@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://github.com/anticomputer/age.el/releases/tag/v0.1.0",
+    "title": "Release v0.1.0 \u00b7 anticomputer/age.el",
+    "latest": "2023-01-01T19:43:41+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109615659180447984",
+      "content": "<p>Alrighty after a furious week of throwing parentheses at things, v0.1.0 of age.el is official at <a href=\"https://github.com/anticomputer/age.el/releases/tag/v0.1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anticomputer/age.el</span><span class=\"invisible\">/releases/tag/v0.1.0</span></a> and I'll do the housekeeping required to get it into MELPA ... once v1.0.0 arrives I'll submit it to GNU ELPA as well. Like all cryptography tools please read the existing issues and consider your personal threat models carefully before deciding on adopting it for your sensitive emacs files. As of v0.1.0, age.el provides epg equivalent security and functionality. <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/issues/1685",
+    "title": "Give users feedback about reports \u00b7 Issue #1685 \u00b7 mastodon/mastodon",
+    "latest": "2023-01-01T19:26:12+00:00",
+    "last_post": {
+      "url": "https://sauropods.win/@futurebird/109615559718493003",
+      "content": "<p><span class=\"h-card\"><a href=\"https://sfba.social/@cd24\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cd24</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.scot/@simon_brooke\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon_brooke</span></a></span> </p><p>Some of the issues I care about have been raised in the past:</p><p>Give users feedback from reports:<br><a href=\"https://github.com/mastodon/mastodon/issues/1685\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/1685</span></a></p><p>When looking at the database tables for mastodon there are some of the bones for a ticket system in place there are table for Reports, AccountWarning and appeals. </p><p>What if servers could share reports? (but take different actions on them)</p><p><a href=\"https://sauropods.win/tags/mastodonSuggestions\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodonSuggestions</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/slavingia/askmybook",
+    "title": "GitHub - slavingia/askmybook",
+    "latest": "2023-01-01T18:28:03+00:00",
+    "last_post": {
+      "url": "https://toolsforthought.rocks/@absamma/109615212967059156",
+      "content": "<p>Books that can be queried via natural language chat should be a thing.</p><p><a href=\"https://github.com/slavingia/askmybook\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/slavingia/askmybook</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toolsforthought.rocks/@billseitz",
+        "display_name": "Bill Seitz"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/astrowonk/mastodon_reader",
     "title": "GitHub - astrowonk/mastodon_reader: Dash based Mastodon Link List from bookmarks and favorites",
     "latest": "2023-01-01T17:33:52+00:00",
