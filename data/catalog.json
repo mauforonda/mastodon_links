@@ -32795,7 +32795,7 @@
   },
   "https://shuttlecraft.net/": {
     "title": "SHUTTLECRAFT - Run your own social media",
-    "latest": "2022-12-31T03:20:36+00:00",
+    "latest": "2023-01-01T06:02:43+00:00",
     "last_post": {
       "url": "https://hackers.town/@benbrown/109605510788355449",
       "content": "<p>Hello fellow citizens of the free and open web, it is me, Ben Brown. You may remember me from that social network from back when social networks were cool, or maybe from that one open source project that blew up.  </p><p>Hi, it is great to see you again.</p><p>First off, corporate owned social media always sucked, we always knew it. It is past time for us to have better options.I am so glad for the <a href=\"https://hackers.town/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> and <a href=\"https://hackers.town/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> and Mastodon and other projects for breathing new life into the indie web, where it is possible for us to own what we post and use whatever tools we want. I couldn\u2019t resist building something!</p><p>My new project is called SHUTTLECRAFT. It social media server \u2026 FOR ONE.</p><p>What does that mean? </p><p>It is very small and lightweight open source app that runs nicely on services like Glitch, but it has most of what you need to host your own personal social media account.</p><p>It\u2019s got a microblogging tool, to make posts. You can customize the design with HTML and CSS. You can follow people on Mastodon or other services and interact with posts and send messages. People can follow you on Mastodon, or with RSS. You run it on your own server so you own and operate the data and the code and the whole service. And you can hack the code and make it weirder so that we can all be part of a better, more diverse and more interesting web.</p><p>No billionaires or mega-corps required!</p><p>I made a 3 minute video showing how it works:<br><a href=\"https://www.loom.com/share/a6441bcebdc64f54b5010c95eae1e180\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">loom.com/share/a6441bcebdc64f5</span><span class=\"invisible\">4b5010c95eae1e180</span></a></p><p>Though this a personal project and only a few weeks old, with tons of stuff still unfinished and yet to build... you can get the code right now and run your own right now! The official site also has a 3 minute walk through of setting up an instance on Glitch. It is pretty easy!</p><p><a href=\"https://shuttlecraft.net/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">shuttlecraft.net/</span><span class=\"invisible\"></span></a></p><p>Or go straight to for the code:</p><p><a href=\"https://github.com/benbrown/shuttlecraft\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benbrown/shuttlecra</span><span class=\"invisible\">ft</span></a></p><p>Thanks to everyone who has already tested this or sent feedback or contributed code. Y'all rule. </p><p>Own your posts!! Make it hard for them to monetize you!</p>"
@@ -32812,6 +32812,10 @@
       {
         "url": "https://toolsforthought.rocks/@billseitz",
         "display_name": "Bill Seitz"
+      },
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
       }
     ]
   },
@@ -33321,7 +33325,7 @@
   },
   "https://www.loom.com/share/a6441bcebdc64f54b5010c95eae1e180": {
     "title": "SHUTTLECRAFT - What is it?",
-    "latest": "2022-12-31T03:20:36+00:00",
+    "latest": "2023-01-01T06:02:43+00:00",
     "last_post": {
       "url": "https://hackers.town/@benbrown/109605510788355449",
       "content": "<p>Hello fellow citizens of the free and open web, it is me, Ben Brown. You may remember me from that social network from back when social networks were cool, or maybe from that one open source project that blew up.  </p><p>Hi, it is great to see you again.</p><p>First off, corporate owned social media always sucked, we always knew it. It is past time for us to have better options.I am so glad for the <a href=\"https://hackers.town/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> and <a href=\"https://hackers.town/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> and Mastodon and other projects for breathing new life into the indie web, where it is possible for us to own what we post and use whatever tools we want. I couldn\u2019t resist building something!</p><p>My new project is called SHUTTLECRAFT. It social media server \u2026 FOR ONE.</p><p>What does that mean? </p><p>It is very small and lightweight open source app that runs nicely on services like Glitch, but it has most of what you need to host your own personal social media account.</p><p>It\u2019s got a microblogging tool, to make posts. You can customize the design with HTML and CSS. You can follow people on Mastodon or other services and interact with posts and send messages. People can follow you on Mastodon, or with RSS. You run it on your own server so you own and operate the data and the code and the whole service. And you can hack the code and make it weirder so that we can all be part of a better, more diverse and more interesting web.</p><p>No billionaires or mega-corps required!</p><p>I made a 3 minute video showing how it works:<br><a href=\"https://www.loom.com/share/a6441bcebdc64f54b5010c95eae1e180\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">loom.com/share/a6441bcebdc64f5</span><span class=\"invisible\">4b5010c95eae1e180</span></a></p><p>Though this a personal project and only a few weeks old, with tons of stuff still unfinished and yet to build... you can get the code right now and run your own right now! The official site also has a 3 minute walk through of setting up an instance on Glitch. It is pretty easy!</p><p><a href=\"https://shuttlecraft.net/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">shuttlecraft.net/</span><span class=\"invisible\"></span></a></p><p>Or go straight to for the code:</p><p><a href=\"https://github.com/benbrown/shuttlecraft\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benbrown/shuttlecra</span><span class=\"invisible\">ft</span></a></p><p>Thanks to everyone who has already tested this or sent feedback or contributed code. Y'all rule. </p><p>Own your posts!! Make it hard for them to monetize you!</p>"
@@ -33334,12 +33338,16 @@
       {
         "url": "https://toolsforthought.rocks/@billseitz",
         "display_name": "Bill Seitz"
+      },
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
       }
     ]
   },
   "https://github.com/benbrown/shuttlecraft": {
     "title": "github.com/benbrown/shuttlecra...",
-    "latest": "2022-12-31T03:20:36+00:00",
+    "latest": "2023-01-01T06:02:43+00:00",
     "last_post": {
       "url": "https://hackers.town/@benbrown/109605510788355449",
       "content": "<p>Hello fellow citizens of the free and open web, it is me, Ben Brown. You may remember me from that social network from back when social networks were cool, or maybe from that one open source project that blew up.  </p><p>Hi, it is great to see you again.</p><p>First off, corporate owned social media always sucked, we always knew it. It is past time for us to have better options.I am so glad for the <a href=\"https://hackers.town/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> and <a href=\"https://hackers.town/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> and Mastodon and other projects for breathing new life into the indie web, where it is possible for us to own what we post and use whatever tools we want. I couldn\u2019t resist building something!</p><p>My new project is called SHUTTLECRAFT. It social media server \u2026 FOR ONE.</p><p>What does that mean? </p><p>It is very small and lightweight open source app that runs nicely on services like Glitch, but it has most of what you need to host your own personal social media account.</p><p>It\u2019s got a microblogging tool, to make posts. You can customize the design with HTML and CSS. You can follow people on Mastodon or other services and interact with posts and send messages. People can follow you on Mastodon, or with RSS. You run it on your own server so you own and operate the data and the code and the whole service. And you can hack the code and make it weirder so that we can all be part of a better, more diverse and more interesting web.</p><p>No billionaires or mega-corps required!</p><p>I made a 3 minute video showing how it works:<br><a href=\"https://www.loom.com/share/a6441bcebdc64f54b5010c95eae1e180\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">loom.com/share/a6441bcebdc64f5</span><span class=\"invisible\">4b5010c95eae1e180</span></a></p><p>Though this a personal project and only a few weeks old, with tons of stuff still unfinished and yet to build... you can get the code right now and run your own right now! The official site also has a 3 minute walk through of setting up an instance on Glitch. It is pretty easy!</p><p><a href=\"https://shuttlecraft.net/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">shuttlecraft.net/</span><span class=\"invisible\"></span></a></p><p>Or go straight to for the code:</p><p><a href=\"https://github.com/benbrown/shuttlecraft\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benbrown/shuttlecra</span><span class=\"invisible\">ft</span></a></p><p>Thanks to everyone who has already tested this or sent feedback or contributed code. Y'all rule. </p><p>Own your posts!! Make it hard for them to monetize you!</p>"
@@ -33352,6 +33360,10 @@
       {
         "url": "https://toolsforthought.rocks/@billseitz",
         "display_name": "Bill Seitz"
+      },
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
       }
     ]
   },
@@ -34657,10 +34669,10 @@
   },
   "https://www.nytimes.com/2022/12/31/technology/cloud-data-storage-google-apple-meta.html": {
     "title": "Your Memories. Their Cloud.",
-    "latest": "2022-12-31T21:18:21+00:00",
+    "latest": "2023-01-01T03:18:55+00:00",
     "last_post": {
-      "url": "https://macaw.social/@bhaggs/109610108536693466",
-      "content": "<p><span class=\"h-card\"><a href=\"https://macaw.social/@stammy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>stammy</span></a></span> Very apropos of <span class=\"h-card\"><a href=\"https://mastodon.social/@kashhill\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kashhill</span></a></span>\u2019s article today on the data we\u2019re keeping around. <a href=\"https://www.nytimes.com/2022/12/31/technology/cloud-data-storage-google-apple-meta.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2022/12/31/technol</span><span class=\"invisible\">ogy/cloud-data-storage-google-apple-meta.html</span></a></p>"
+      "url": "https://mastodon.archive.org/@brewsterkahle/109611786933153115",
+      "content": "<p><a href=\"https://www.nytimes.com/2022/12/31/technology/cloud-data-storage-google-apple-meta.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2022/12/31/technol</span><span class=\"invisible\">ogy/cloud-data-storage-google-apple-meta.html</span></a></p>"
     },
     "people": [
       {
@@ -34674,6 +34686,10 @@
       {
         "url": "https://macaw.social/@stammy",
         "display_name": "Stammy"
+      },
+      {
+        "url": "https://mastodon.archive.org/@brewsterkahle",
+        "display_name": "Brewster Kahle"
       }
     ]
   },
@@ -36179,7 +36195,7 @@
   },
   "https://natematias.com/faculty-parity-projections/": {
     "title": "Project Page: U.S. Universities Are Not Succeeding in Diversifying Faculty",
-    "latest": "2022-12-31T15:23:18+00:00",
+    "latest": "2023-01-01T04:16:51+00:00",
     "last_post": {
       "url": "https://social.coop/@natematias/109608973014554904",
       "content": "<p>Are you a student/local journalist interested to write about faculty diversity at your college/university? </p><p><span class=\"h-card\"><a href=\"https://mastodon.social/@NeilLewisJr\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>NeilLewisJr</span></a></span>, Elan Hope, and I have generated per-institution diversity trend data for every college/university in the US &amp; are sharing it with student and local journalists who want to report on it next semester.</p><p>More detail here: <a href=\"https://natematias.com/faculty-parity-projections/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">natematias.com/faculty-parity-</span><span class=\"invisible\">projections/</span></a></p><p>cc <span class=\"h-card\"><a href=\"https://mastodon.social/@jeffjarvis\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jeffjarvis</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@emilybell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>emilybell</span></a></span></p>"
@@ -36188,6 +36204,10 @@
       {
         "url": "https://social.coop/@natematias",
         "display_name": "J. Nathan Matias \ud83e\udda3"
+      },
+      {
+        "url": "https://hci.social/@eglassman",
+        "display_name": "Elena Glassman"
       }
     ]
   },
@@ -37353,10 +37373,10 @@
   },
   "https://joinmastodon.org/roadmap": {
     "title": "Public Roadmap",
-    "latest": "2023-01-01T02:58:21+00:00",
+    "latest": "2023-01-01T03:59:49+00:00",
     "last_post": {
-      "url": "https://sigmoid.social/@andrey/109610536790312477",
-      "content": "<p><a href=\"https://sigmoid.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> now has a public development <a href=\"https://sigmoid.social/tags/roadmap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>roadmap</span></a> !</p><p><a href=\"https://joinmastodon.org/roadmap\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">joinmastodon.org/roadmap</span><span class=\"invisible\"></span></a></p><p>Love this.</p>"
+      "url": "https://mastodon.online/@hildabast/109610986824867198",
+      "content": "<p>There's a Mastodon development roadmap out now. </p><p>Some highlights for core Mastodon...</p><p>In progress:<br>- groups<br>- editing media metadata</p><p>Planned:<br>- importing lists<br>- migrate lists when migrating account</p><p>From the exploring list:<br>- More filtering of notifications<br>- End-to-end encrypted messages<br>- Restricting who can reply to a post</p><p><a href=\"https://joinmastodon.org/roadmap\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">joinmastodon.org/roadmap</span><span class=\"invisible\"></span></a></p><p>via <span class=\"h-card\"><a href=\"https://sigmoid.social/@andrey\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andrey</span></a></span></p>"
     },
     "people": [
       {
@@ -37382,6 +37402,10 @@
       {
         "url": "https://sauropods.win/@futurebird",
         "display_name": "myrmepropagandist"
+      },
+      {
+        "url": "https://fediscience.org/@salonium",
+        "display_name": "Saloni \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
       }
     ]
   },
@@ -38352,6 +38376,328 @@
       {
         "url": "https://neuromatch.social/@jonny",
         "display_name": "Jonny"
+      }
+    ]
+  },
+  "https://www.tabithaarnold.com/work/rugs": {
+    "title": "Rugs \u2014 Tabitha Arnold",
+    "latest": "2023-01-01T06:11:39+00:00",
+    "last_post": {
+      "url": "https://dair-community.social/@miriamkp/109611724827162610",
+      "content": "<p>Happened across this amazing Amazon workers rug by the artist Tabitha Arnold. <a href=\"https://www.tabithaarnold.com/work/rugs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">tabithaarnold.com/work/rugs</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://jawns.club/@amy",
+        "display_name": "Amy Hoy"
+      }
+    ]
+  },
+  "https://cscw.acm.org/2023": {
+    "title": "https://cscw.acm.org/2023",
+    "latest": "2023-01-01T05:43:54+00:00",
+    "last_post": {
+      "url": "https://hci.social/@cscw/109611654443194655",
+      "content": "<p>Happy New Year to our <a href=\"https://hci.social/tags/CSCW\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CSCW</span></a> community! \ud83c\udf87\ud83c\udf8a\ud83c\udf86 </p><p>After three years fully online, we're thrilled to welcome you in-person (and online) to Minneapolis, MN in 2023. </p><p>Check out the new website at <a href=\"https://cscw.acm.org/2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">cscw.acm.org/2023</span><span class=\"invisible\"></span></a> for key dates, and stay tuned for more updates as we go.</p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@barik",
+        "display_name": "Titus Barik"
+      }
+    ]
+  },
+  "https://global.oup.com/academic/product/oar-feet-and-opal-teeth-9780197637326?q=Insect%20diapause&amp;lang=en&amp;cc=us": {
+    "title": "Oar Feet and Opal Teeth",
+    "latest": "2023-01-01T05:45:02+00:00",
+    "last_post": {
+      "url": "https://ecoevo.social/@Thomashegna/109612276167147299",
+      "content": "<p>Is everyone else as excited as I am that a book dedicated entirely to copepods and copepodologists is coming out in April? <a href=\"https://ecoevo.social/tags/Crustacea\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Crustacea</span></a> <a href=\"https://ecoevo.social/tags/Arthropoda\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Arthropoda</span></a> <br>Too bad it is so damn expensive...looks like tons of color images.<br>\"Oar Feet and Opal Teeth: About Copepods and Copepodologists\"<br><a href=\"https://global.oup.com/academic/product/oar-feet-and-opal-teeth-9780197637326?q=Insect%20diapause&amp;lang=en&amp;cc=us\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">global.oup.com/academic/produc</span><span class=\"invisible\">t/oar-feet-and-opal-teeth-9780197637326?q=Insect%20diapause&amp;lang=en&amp;cc=us</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  "https://sauropods.win/@futurebird/109570823652901902": {
+    "title": "myrmepropagandist (@futurebird@sauropods.win)",
+    "latest": "2023-01-01T05:54:12+00:00",
+    "last_post": {
+      "url": "https://mstdn.io/@tarheel/109612387722783724",
+      "content": "<p><span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span><br>Found it. Pshew.</p><p><a href=\"https://sauropods.win/@futurebird/109570823652901902\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sauropods.win/@futurebird/1095</span><span class=\"invisible\">70823652901902</span></a></p><p>Hope it's ok if I add some tags.</p><p><a href=\"https://mstdn.io/tags/moderationPuzzles\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>moderationPuzzles</span></a> <a href=\"https://mstdn.io/tags/mastoAdmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastoAdmin</span></a> <a href=\"https://mstdn.io/tags/moderation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>moderation</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  "https://testflight.apple.com/join/FktENfSl": {
+    "title": "Join the Ivory by Tapbots beta",
+    "latest": "2023-01-01T06:02:42+00:00",
+    "last_post": {
+      "url": "https://tapbots.social/@ivory/109612420651819856",
+      "content": "<p>Happy New Year!</p><p>Here are 1000 more testflight spots:</p><p><a href=\"https://testflight.apple.com/join/FktENfSl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testflight.apple.com/join/FktE</span><span class=\"invisible\">NfSl</span></a></p><p>And here\u2019s an updated wallpaper of Ivory, our beloved little elephant:</p><p><a href=\"https://d.pr/i/pHuBWV\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">d.pr/i/pHuBWV</span><span class=\"invisible\"></span></a></p><p>Thank you so much for all the feedback and support! We are so excited about our plans for Ivory in 2023. It's just going to keep getting better!</p>"
+    },
+    "people": [
+      {
+        "url": "https://macaw.social/@stammy",
+        "display_name": "Stammy"
+      }
+    ]
+  },
+  "https://d.pr/i/pHuBWV": {
+    "title": "https://d.pr/i/pHuBWV",
+    "latest": "2023-01-01T06:02:42+00:00",
+    "last_post": {
+      "url": "https://tapbots.social/@ivory/109612420651819856",
+      "content": "<p>Happy New Year!</p><p>Here are 1000 more testflight spots:</p><p><a href=\"https://testflight.apple.com/join/FktENfSl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testflight.apple.com/join/FktE</span><span class=\"invisible\">NfSl</span></a></p><p>And here\u2019s an updated wallpaper of Ivory, our beloved little elephant:</p><p><a href=\"https://d.pr/i/pHuBWV\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">d.pr/i/pHuBWV</span><span class=\"invisible\"></span></a></p><p>Thank you so much for all the feedback and support! We are so excited about our plans for Ivory in 2023. It's just going to keep getting better!</p>"
+    },
+    "people": [
+      {
+        "url": "https://macaw.social/@stammy",
+        "display_name": "Stammy"
+      }
+    ]
+  },
+  "https://www.engadget.com/grubhu-pay-35-million-settle-deceptive-practices-lawsuit-150304597.html": {
+    "title": "Grubhub ordered to pay $3.5 million to settle Washington DC deceptive practices lawsuit | Engadget",
+    "latest": "2023-01-01T05:11:17+00:00",
+    "last_post": {
+      "url": "https://techhub.social/@Techmeme/109612210931493867",
+      "content": "<p>Grubhub was ordered to pay $3.5M to settle a lawsuit filed by the Washington DC AG's office for charging hidden fees and using deceptive marketing techniques (Mariella Moon/Engadget)</p><p><a href=\"https://www.engadget.com/grubhu-pay-35-million-settle-deceptive-practices-lawsuit-150304597.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">engadget.com/grubhu-pay-35-mil</span><span class=\"invisible\">lion-settle-deceptive-practices-lawsuit-150304597.html</span></a><br><a href=\"http://www.techmeme.com/230101/p1#a230101p1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">techmeme.com/230101/p1#a230101</span><span class=\"invisible\">p1</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toolsforthought.rocks/@billseitz",
+        "display_name": "Bill Seitz"
+      }
+    ]
+  },
+  "http://www.techmeme.com/230101/p1#a230101p1": {
+    "title": "techmeme.com/230101/p1#a230101...",
+    "latest": "2023-01-01T05:11:17+00:00",
+    "last_post": {
+      "url": "https://techhub.social/@Techmeme/109612210931493867",
+      "content": "<p>Grubhub was ordered to pay $3.5M to settle a lawsuit filed by the Washington DC AG's office for charging hidden fees and using deceptive marketing techniques (Mariella Moon/Engadget)</p><p><a href=\"https://www.engadget.com/grubhu-pay-35-million-settle-deceptive-practices-lawsuit-150304597.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">engadget.com/grubhu-pay-35-mil</span><span class=\"invisible\">lion-settle-deceptive-practices-lawsuit-150304597.html</span></a><br><a href=\"http://www.techmeme.com/230101/p1#a230101p1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">techmeme.com/230101/p1#a230101</span><span class=\"invisible\">p1</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toolsforthought.rocks/@billseitz",
+        "display_name": "Bill Seitz"
+      }
+    ]
+  },
+  "https://til.simonwillison.net/clickhouse/github-explorer": {
+    "title": "til.simonwillison.net/clickhou...",
+    "latest": "2023-01-01T05:23:25+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109612276511879692",
+      "content": "<p>TIL you can use the free ClickHouse Playground tool to run SQL queries against over a decade of GitHub archived events... and in addition to the UI you can make API calls against it - including CORS-enabled API calls from any domain! <a href=\"https://til.simonwillison.net/clickhouse/github-explorer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">til.simonwillison.net/clickhou</span><span class=\"invisible\">se/github-explorer</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  "https://www.itemis.com/en/yakindu-statechart-tools": {
+    "title": "YAKINDU Statechart Tools Rebranding: Why?",
+    "latest": "2023-01-01T05:25:30+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@chrisshank/109612284660987316",
+      "content": "<p>Yakindu Statecharts has been rebranded</p><p><a href=\"https://www.itemis.com/en/yakindu-statechart-tools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">itemis.com/en/yakindu-statecha</span><span class=\"invisible\">rt-tools</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chrisshank",
+        "display_name": "\ud835\udd6e"
+      }
+    ]
+  },
+  "https://cohost.org/graphickal/post/759217-episode-15-breaking": {
+    "title": "episode 15: breaking patterns",
+    "latest": "2023-01-01T05:30:37+00:00",
+    "last_post": {
+      "url": "https://chaos.social/@Aphrodite/109612302869911826",
+      "content": "<p><span class=\"h-card\"><a href=\"https://equestria.social/@g1comics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>g1comics</span></a></span> <span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> </p><p>ok so i dropped a podcast episode talking about breaking patterns about an hour ago and i specifically reference pareidolia, apophenia, clustering illusion and connecting the concepts with addictions and new year\u2019s resolutions</p><p>(sorry - i\u2019m just weirded out by the synchronicity)</p><p><a href=\"https://cohost.org/graphickal/post/759217-episode-15-breaking\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cohost.org/graphickal/post/759</span><span class=\"invisible\">217-episode-15-breaking</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  "https://www.patreon.com/mastodon/": {
+    "title": "Mastodon | Creating Mastodon | Patreon",
+    "latest": "2023-01-01T04:40:28+00:00",
+    "last_post": {
+      "url": "https://sauropods.win/@futurebird/109611976971096751",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mas.to/@meganox\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meganox</span></a></span> </p><p>I decided to support Mastodon's patreon because they posted that roadmap. Even if I end up mostly cheerleading for a fork having base software that addresses these concerns is still essential. </p><p>I've wanted to support them for weeks, but the \"dead software\" energy was making me nervous. </p><p>To have great forks you need something great to fork from. All of the changes in the roadmap look great. </p><p>I hope they address link localization soon too!</p><p><a href=\"https://www.patreon.com/mastodon/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">patreon.com/mastodon/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  "https://www.weather.gov/wrh/TextProduct?product=afdmtr": {
+    "title": "Text Product Viewer",
+    "latest": "2023-01-01T04:57:58.856000+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@weatherwest/109612161355733304",
+      "content": "<p>RT @NWSBayArea@twitter.com</p><p>8 pm update.  No bucket tips for the last three hours in downtown SF.  So were still at 5.46 inches for today, keeping us in 2nd place for wettest calendar day ever. The real countdown at midnight will be monitoring this...<br><a href=\"https://www.weather.gov/wrh/TextProduct?product=afdmtr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">weather.gov/wrh/TextProduct?pr</span><span class=\"invisible\">oduct=afdmtr</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/NWSBayArea/status/1609397947632091136\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/NWSBayArea/status/</span><span class=\"invisible\">1609397947632091136</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@allafarce",
+        "display_name": "Dave Guarino"
+      }
+    ]
+  },
+  "https://www.theverge.com/23513418/bring-back-personal-blogging": {
+    "title": "Bring back personal blogging",
+    "latest": "2023-01-01T04:25:42+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jonasdowney/109611814527882870",
+      "content": "<p>I love this ode to blogs, but also: a personal site is a place to do all kinds of weird stuff! Let\u2019s bring back blogs and invent new things while we\u2019re at it</p><p><a href=\"https://www.theverge.com/23513418/bring-back-personal-blogging\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theverge.com/23513418/bring-ba</span><span class=\"invisible\">ck-personal-blogging</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://macaw.social/@stammy",
+        "display_name": "Stammy"
+      }
+    ]
+  },
+  "https://www.atlasobscura.com/articles/lemon-pigs-new-year": {
+    "title": "Lemon Pigs Are the World\u2019s Newest New Year\u2019s Tradition",
+    "latest": "2023-01-01T04:26:46+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109612053732491384",
+      "content": "<p>Made our lemon pigs for New Year's Eve! <a href=\"https://www.atlasobscura.com/articles/lemon-pigs-new-year\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">atlasobscura.com/articles/lemo</span><span class=\"invisible\">n-pigs-new-year</span></a></p><p>\ud83c\udf4b \ud83d\udc37 <a href=\"https://fedi.simonwillison.net/tags/LemonPig\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LemonPig</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  "https://oa.letterformarchive.org/item?workID=lfa_type_0729&amp;targPic=lfa_type_0729_001.jpg": {
+    "title": "Online Archive",
+    "latest": "2023-01-01T04:30:44+00:00",
+    "last_post": {
+      "url": "https://typo.social/@letterformarchive/109611293448873675",
+      "content": "<p>Helion type specimen, typeface design by Arno Drescher, Schriftguss A.-G. vorm. Br\u00fcder Butter, Germany, 1936. See more in the Online Archive: <a href=\"https://oa.letterformarchive.org/item?workID=lfa_type_0729&amp;targPic=lfa_type_0729_001.jpg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">oa.letterformarchive.org/item?</span><span class=\"invisible\">workID=lfa_type_0729&amp;targPic=lfa_type_0729_001.jpg</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.world/@erik_kwakkel",
+        "display_name": "Erik Kwakkel"
+      }
+    ]
+  },
+  "https://www.sfchronicle.com/weather/article/California-rain-snow-storm-17684042.php": {
+    "title": "California weather: Rain causes widespread flooding, mudslides and road closures",
+    "latest": "2023-01-01T04:40:29+00:00",
+    "last_post": {
+      "url": "https://vis.social/@scott/109612107655623319",
+      "content": "<p><a href=\"https://vis.social/tags/BayArea\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BayArea</span></a> friends, stay safe! \ud83d\ude4f<br> <a href=\"https://www.sfchronicle.com/weather/article/California-rain-snow-storm-17684042.php\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">sfchronicle.com/weather/articl</span><span class=\"invisible\">e/California-rain-snow-storm-17684042.php</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@scott",
+        "display_name": "Scott Murray"
+      }
+    ]
+  },
+  "https://thebulletin.org/2019/12/fact-check-five-claims-about-thorium-made-by-andrew-yang/": {
+    "title": "Fact-check: Five claims about thorium made by Andrew Yang",
+    "latest": "2023-01-01T03:53:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@michael_w_busch/109610610086775742",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mstdn.io/@neglesaks\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>neglesaks</span></a></span> <span class=\"h-card\"><a href=\"https://dice.camp/@PTR_K\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PTR_K</span></a></span> <span class=\"h-card\"><a href=\"https://spacey.space/@nyrath\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nyrath</span></a></span> The coolant in salt reactors turning solid when cooled is not an unmitigated positive.  You cannot entirely shut one down or the coolant freezes inside it (a chemical engineer I know was involved in an extended project to contain solidified sodium from a shut down reactor).</p><p>Each reactor design has advantages and disadvantages.</p><p>Similarly, contrary to the linked article, thorium is not magic. Discussion from when someone else made similar claims: <a href=\"https://thebulletin.org/2019/12/fact-check-five-claims-about-thorium-made-by-andrew-yang/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thebulletin.org/2019/12/fact-c</span><span class=\"invisible\">heck-five-claims-about-thorium-made-by-andrew-yang/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://spacey.space/@nyrath",
+        "display_name": "Winchell Chung \u269b\ud83d\ude80"
+      }
+    ]
+  },
+  "https://github.com/mastodon/mastodon/pull/19059": {
+    "title": "Add groups support by ClearlyClaire \u00b7 Pull Request #19059 \u00b7 mastodon/mastodon",
+    "latest": "2023-01-01T03:57:02+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@dougholton/109611919361823993",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mstdn.ca/@IPEdmonton\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>IPEdmonton</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.online/@hildabast\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hildabast</span></a></span> <span class=\"h-card\"><a href=\"https://sigmoid.social/@andrey\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andrey</span></a></span> <br>mastodon groups feature details &amp; pull request: <a href=\"https://github.com/mastodon/mastodon/pull/19059\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/19059</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@hildabast",
+        "display_name": "Hilda Bastian"
+      }
+    ]
+  },
+  "https://mobile.twitter.com/Inadarkwood/status/1609285024897015810": {
+    "title": "mobile.twitter.com/Inadarkwood...",
+    "latest": "2023-01-01T04:08:53+00:00",
+    "last_post": {
+      "url": "https://front-end.social/@jensimmons/109611983395615392",
+      "content": "<p>RT @inadarkwoods@twitter.com</p><p>\u201cHappy new year to disabled people and disabled people only. This year, more than ever before, friends, colleagues and the government wholly committed themselves to pretending that the pandemic is over. It's been a brutal, horrifying, isolating year.</p><p>Every single day, disabled people have been ignored &amp; gaslighted about the severity of the pandemic. Our very real concerns for our safety are ignored.\u201d</p><p>/1</p><p><a href=\"https://mobile.twitter.com/Inadarkwood/status/1609285024897015810\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mobile.twitter.com/Inadarkwood</span><span class=\"invisible\">/status/1609285024897015810</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://front-end.social/@jensimmons",
+        "display_name": "Jen Simmons"
+      }
+    ]
+  },
+  "https://lostgarden.home.blog/2023/01/01/closed-social-affordances-open-social-affordances-in-social-systems-design/": {
+    "title": "Closed social affordances / Open social affordances in social systems&nbsp;design",
+    "latest": "2023-01-01T03:32:35+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@Danc/109611840635146007",
+      "content": "<p>A new post on open and closed social affordances <a href=\"https://lostgarden.home.blog/2023/01/01/closed-social-affordances-open-social-affordances-in-social-systems-design/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">lostgarden.home.blog/2023/01/0</span><span class=\"invisible\">1/closed-social-affordances-open-social-affordances-in-social-systems-design/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@Danc",
+        "display_name": "Daniel Cook"
+      }
+    ]
+  },
+  "https://blog.joinmastodon.org/2018/07/cage-the-mastodon/": {
+    "title": "Cage the Mastodon",
+    "latest": "2023-01-01T03:33:20+00:00",
+    "last_post": {
+      "url": "https://sfba.social/@rsprovost/109611838776656931",
+      "content": "<p><span class=\"h-card\"><a href=\"https://sfba.social/@cd24\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cd24</span></a></span> <span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> <br>I support QBs, but discussions I've seen drift into the Eugen Rochko wall (<a href=\"https://blog.joinmastodon.org/2018/07/cage-the-mastodon/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.joinmastodon.org/2018/07/</span><span class=\"invisible\">cage-the-mastodon/</span></a>). </p><p>\"Another feature that has been requested almost since the start, and which I keep rejecting is quoting messages.\" </p><p>\"It makes it a lot easier for people to immediately engage with the quoted content\u2026 and it usually doesn\u2019t lead to anything good.\"</p><p>Isn't this an obstacle?</p>"
+    },
+    "people": [
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  "https://www.nature.com/articles/s41593-022-01212-4": {
+    "title": "Hippocampal spatial representations exhibit a hyperbolic geometry that expands with experience - Nature Neuroscience",
+    "latest": "2023-01-01T03:47:42+00:00",
+    "last_post": {
+      "url": "https://mstdn.science/@leafs_s/109611796385786698",
+      "content": "<p>RT <span class=\"h-card\"><a href=\"https://mstdn.science/@leafs_s\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>leafs_s</span></a></span><br>Nature Neuroscience</p><p>Hippocampal spatial representations exhibit a hyperbolic geometry that expands with experience<br><a href=\"https://www.nature.com/articles/s41593-022-01212-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41593-022</span><span class=\"invisible\">-01212-4</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
       }
     ]
   }
