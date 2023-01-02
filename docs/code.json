@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.com/DrSensor/nusa/releases",
+    "title": "github.com/DrSensor/nusa/relea...",
+    "latest": "2023-01-01T23:29:56+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@drsensor/109616548814554489",
+      "content": "<p>Hi, how's your new year? Hopefully it's good.</p><p>From 1 January 2023, I plan to <a href=\"https://fosstodon.org/tags/buildInPublic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>buildInPublic</span></a> my experimental web framework. My aim is to have a framework that is suitable for real-time MPA while load instantly without any setup or compilation. I will use <a href=\"https://fosstodon.org/tags/nusa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nusa</span></a> hashtag to post my progress \ud83d\ude0a</p><p>site: <a href=\"https://nusa.pages.dev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">nusa.pages.dev</span><span class=\"invisible\"></span></a> (still blank page)<br>repo: <a href=\"https://github.com/DrSensor/nusa/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/DrSensor/nusa/relea</span><span class=\"invisible\">ses</span></a></p><p><a href=\"https://fosstodon.org/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a> <a href=\"https://fosstodon.org/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webdev</span></a> <a href=\"https://fosstodon.org/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a> <a href=\"https://fosstodon.org/tags/html\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@drsensor",
+        "display_name": "\u30fe(\uff3e-\uff3e)\u30ce :t_blink:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/TodePond/DreamBerd/releases/tag/v1.0.0.0.0.0.0.0.0a",
+    "title": "Release v1.0.0.0.0.0.0.0.0a \u00b7 TodePond/DreamBerd",
+    "latest": "2023-01-01T22:20:18+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@TodePond/109616275036545380",
+      "content": "<p>I'm delighted to announce the first DreamBerd update since launch. Read the release notes here: <a href=\"https://github.com/TodePond/DreamBerd/releases/tag/v1.0.0.0.0.0.0.0.0a\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TodePond/DreamBerd/</span><span class=\"invisible\">releases/tag/v1.0.0.0.0.0.0.0.0a</span></a></p><p>This includes a huge improvement to i17n - multiple currencies are now supported for string interpolation. </p><p><a href=\"https://mastodon.social/tags/creativecoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>creativecoding</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@TodePond",
+        "display_name": "Lu Wilson"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/anticomputer/age.el/releases/tag/v0.1.0",
     "title": "Release v0.1.0 \u00b7 anticomputer/age.el",
     "latest": "2023-01-01T19:43:41+00:00",
