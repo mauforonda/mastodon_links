@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://arxiv.org/abs/2210.03021",
+    "title": "Explanations as Programs in Probabilistic Logic Programming",
+    "latest": "2023-01-02T18:53:12+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@the_heruman/109358221984775939",
+      "content": "<p>Probabilistic logic programs are considered interpretable and thus there's no need for additional explanations. However, if you're interested in the explanation of why a given query is true (with a given probability), well, things are not so straightforward... My last paper considers this issue: Explanations as Programs in Probabilistic Logic Programming.</p><p><a href=\"https://arxiv.org/abs/2210.03021\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2210.03021</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://chaos.social/@zx",
+        "display_name": "Zx"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/s41567-022-01852-0",
+    "title": "Higher-order organization of multivariate time series - Nature Physics",
+    "latest": "2023-01-02T18:21:58+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@danielemarinazzo/109620666160483540",
+      "content": "<p>RT @Enri_amico@twitter.com</p><p>Happy new year! \ud83e\udd73 Our paper \"Higher-order organization of multivariate time series\" is now out on @NaturePhysics@twitter.com! <a href=\"https://www.nature.com/articles/s41567-022-01852-0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41567-022</span><span class=\"invisible\">-01852-0</span></a> (Git code in pic\ud83d\udc47) Massive kudos to @andreasantor0@twitter.com. Proud of our team!\ud83c\uddee\ud83c\uddf9 @fede7j@twitter.com @lordgrilo@twitter.com</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/Enri_amico/status/1609945594356977668\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/Enri_amico/status/</span><span class=\"invisible\">1609945594356977668</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@r3rt0",
+        "display_name": "Roberto Toro"
+      },
+      {
+        "url": "https://sciences.social/@mjb",
+        "display_name": "mark"
+      }
+    ]
+  },
+  {
     "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247642",
     "title": "The anti-vaccination infodemic on social media: A behavioral analysis",
     "latest": "2023-01-02T17:27:45+00:00",
@@ -34,21 +68,6 @@
       {
         "url": "https://sciences.social/@markigra",
         "display_name": "Mark Igra"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/s41567-022-01852-0",
-    "title": "Higher-order organization of multivariate time series - Nature Physics",
-    "latest": "2023-01-02T17:02:55+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@danielemarinazzo/109620666160483540",
-      "content": "<p>RT @Enri_amico@twitter.com</p><p>Happy new year! \ud83e\udd73 Our paper \"Higher-order organization of multivariate time series\" is now out on @NaturePhysics@twitter.com! <a href=\"https://www.nature.com/articles/s41567-022-01852-0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41567-022</span><span class=\"invisible\">-01852-0</span></a> (Git code in pic\ud83d\udc47) Massive kudos to @andreasantor0@twitter.com. Proud of our team!\ud83c\uddee\ud83c\uddf9 @fede7j@twitter.com @lordgrilo@twitter.com</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/Enri_amico/status/1609945594356977668\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/Enri_amico/status/</span><span class=\"invisible\">1609945594356977668</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@r3rt0",
-        "display_name": "Roberto Toro"
       }
     ]
   },

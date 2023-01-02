@@ -154,53 +154,6 @@
     ]
   },
   {
-    "link": "https://web.law.duke.edu/cspd/publicdomainday/2023/",
-    "title": "Public Domain Day 2023 | Duke University School of Law",
-    "latest": "2023-01-01T18:17:00+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@tilvids/109615190778198117",
-      "content": "<p>Happy <a href=\"https://mstdn.social/tags/PublicDomainDay\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PublicDomainDay</span></a> 2023! Here are a list of all the works that are entering the public domain this year. Please support <a href=\"https://mstdn.social/tags/copyright\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>copyright</span></a> reform so that we don't have to wait a century for today's works to enter the public domain!</p><p><a href=\"https://web.law.duke.edu/cspd/publicdomainday/2023/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">web.law.duke.edu/cspd/publicdo</span><span class=\"invisible\">mainday/2023/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.archive.org/@brewsterkahle",
-        "display_name": "Brewster Kahle"
-      },
-      {
-        "url": "https://stareinto.space/@kat",
-        "display_name": "Kat"
-      },
-      {
-        "url": "https://mstdn.social/@quinnanya",
-        "display_name": "Quinn Dombrowski"
-      },
-      {
-        "url": "https://mas.to/@mgeist",
-        "display_name": "Michael Geist"
-      },
-      {
-        "url": "https://infosec.exchange/@hacks4pancakes",
-        "display_name": "Lesley Carhart :unverified:"
-      },
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      },
-      {
-        "url": "https://dice.camp/@randylubin",
-        "display_name": "Randy Lubin"
-      },
-      {
-        "url": "https://fediscience.org/@petersuber",
-        "display_name": "petersuber"
-      },
-      {
-        "url": "https://xoxo.zone/@lauraehall",
-        "display_name": "Laura E. Hall"
-      }
-    ]
-  },
-  {
     "link": "https://arstechnica.com/gadgets/2022/12/mastodon-highlights-pros-and-cons-of-moving-beyond-big-tech-gatekeepers/",
     "title": "Mastodon\u2014and the pros and cons of moving beyond Big Tech gatekeepers",
     "latest": "2023-01-02T02:43:57+00:00",
@@ -240,6 +193,37 @@
       {
         "url": "https://cryptodon.lol/@phil",
         "display_name": "phil"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hodgesmr/mastodon_digest",
+    "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
+    "latest": "2023-01-02T21:02:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@acowley/109621620707219357",
+      "content": "<p>Here's a neat thing: an algorithmically-generated <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> daily digest <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a> by <span class=\"h-card\"><a href=\"https://mastodon.social/@MattHodges\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MattHodges</span></a></span>. I've packaged it as a <a href=\"https://mastodon.social/tags/nix\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nix</span></a> flake <a href=\"https://github.com/acowley/mastodon_digest/tree/nix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/acowley/mastodon_di</span><span class=\"invisible\">gest/tree/nix</span></a>, so that if you are in a directory with a `.env` file in it (following the README instructions), you can do,</p><p>`nix run github:acowley/mastodon_digest/nix -- -o $PWD`</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@samim",
+        "display_name": "samim"
+      },
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      },
+      {
+        "url": "https://mstdn.science/@contaminatedsci",
+        "display_name": "Tami Lieberman"
+      },
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
       }
     ]
   },
@@ -383,48 +367,25 @@
     ]
   },
   {
-    "link": "https://itch.io/jam/gaming-like-its-1927",
-    "title": "Gaming Like It's 1927",
-    "latest": "2023-01-01T18:36:11+00:00",
+    "link": "https://github.com/corkami/pics/blob/master/binary/README.md#images",
+    "title": "pics/README.md at master \u00b7 corkami/pics",
+    "latest": "2023-01-02T20:04:20+00:00",
     "last_post": {
-      "url": "https://dice.camp/@randylubin/109614968499106714",
-      "content": "<p>A new year means new works entering the public domain \u2013 which means a new Public Domain Game Jam!</p><p>There are tons of great works from 1927 that are now free to remix. Come join <span class=\"h-card\"><a href=\"https://mastodon.social/@mmasnick\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mmasnick</span></a></span> Leigh Beadon and me for 'Gaming Like It's 1927' to celebrate: <a href=\"https://itch.io/jam/gaming-like-its-1927\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">itch.io/jam/gaming-like-its-19</span><span class=\"invisible\">27</span></a></p>"
+      "url": "https://mastodon.social/@Ange/109581237243116686",
+      "content": "<p>My file formats dissection repo should be now up-to-date.<br><a href=\"https://github.com/corkami/pics/blob/master/binary/README.md#images\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/corkami/pics/blob/m</span><span class=\"invisible\">aster/binary/README.md#images</span></a></p>"
     },
     "people": [
       {
-        "url": "https://post.lurk.org/@liza",
-        "display_name": "Liza Daly"
+        "url": "https://recurse.social/@ballingt",
+        "display_name": "Tom Ballinger"
       },
-      {
-        "url": "https://dice.camp/@randylubin",
-        "display_name": "Randy Lubin"
-      },
-      {
-        "url": "https://xoxo.zone/@lauraehall",
-        "display_name": "Laura E. Hall"
-      }
-    ]
-  },
-  {
-    "link": "http://www.securitybsides.com/w/page/12194156/FrontPage",
-    "title": "Security BSides / FrontPage",
-    "latest": "2023-01-01T19:41:00+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@hacks4pancakes/109556348095735908",
-      "content": "<p>Hey, you - yes you, the non-cybersecurity person who\u2019s following me on the \u2018Don because of social justice or geekdom or being very bored - have you considered attending or submitting a talk to a local hacker conference? </p><p>You don\u2019t have to be a cybersecurity expert or professional to do it. There are often talks on everything from technology ethics to radio hobbies, electronics projects to lock picking and criminal psychology. Hackers encompass a huge and cool nerdy space of hobbies and tangential interests from the philosophical to counter culture. We want to learn about lots of stuff related to why people do intriguing or bad things with technology.</p><p>Check out your local or regional community BSides here: <a href=\"http://www.securitybsides.com/w/page/12194156/FrontPage\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">securitybsides.com/w/page/1219</span><span class=\"invisible\">4156/FrontPage</span></a> - they\u2019re free or cheap and a lot of fun. You don\u2019t have to be a Mr Robot hacker.</p><p><a href=\"https://infosec.exchange/tags/cybersecurity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cybersecurity</span></a> <a href=\"https://infosec.exchange/tags/hacking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hacking</span></a></p>"
-    },
-    "people": [
       {
         "url": "https://hachyderm.io/@ramonpage",
         "display_name": "Ramon :verified_paw:"
       },
       {
-        "url": "https://infosec.exchange/@hacks4pancakes",
-        "display_name": "Lesley Carhart :unverified:"
-      },
-      {
-        "url": "https://merveilles.town/@akkartik",
-        "display_name": "Kartik Agaram"
+        "url": "https://vis.social/@jhilden",
+        "display_name": "Jonatan Hild\u00e9n"
       }
     ]
   },
@@ -448,6 +409,29 @@
       {
         "url": "https://mstdn.social/@arnicas",
         "display_name": "arnicas"
+      }
+    ]
+  },
+  {
+    "link": "https://www.rewiringamerica.org/app/ira-calculator",
+    "title": "Household Electrification Savings Calculator",
+    "latest": "2023-01-02T19:14:00+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@wblau/109620378885337263",
+      "content": "<p>Remarkable online tool for US residents to see the wide range of discounts and tax credits they can get since Jan 1st under the Inflation Reduction Act. From solar panels to heat pumps and electric stoves to electric vehicles:<br><a href=\"https://www.rewiringamerica.org/app/ira-calculator\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">rewiringamerica.org/app/ira-ca</span><span class=\"invisible\">lculator</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jonkeegan",
+        "display_name": "Jon Keegan"
+      },
+      {
+        "url": "https://mastodon.social/@colinwright",
+        "display_name": "Colin Wright"
+      },
+      {
+        "url": "https://fediscience.org/@gwagner",
+        "display_name": "Gernot Wagner"
       }
     ]
   },
@@ -486,6 +470,44 @@
       {
         "url": "https://mastodon.social/@danbri",
         "display_name": "danbri"
+      }
+    ]
+  },
+  {
+    "link": "https://third-bit.com/sdxjs/",
+    "title": "Software Design by Example",
+    "latest": "2023-01-02T20:48:32+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@gvwilson/109591998933849235",
+      "content": "<p>It's been an off and on project since 2018 (with a lot more \"off\" than \"on\"), but it's finally here. You can read the whole thing online at <a href=\"https://third-bit.com/sdxjs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">third-bit.com/sdxjs/</span><span class=\"invisible\"></span></a>, but if you buy a copy, all the royalties go to the Red Door Family Shelter in Toronto (<a href=\"https://www.reddoorshelter.ca/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">reddoorshelter.ca/</span><span class=\"invisible\"></span></a>). Even if you don't want hard copy, please consider a donation - the last couple of years have been very hard on the people they're trying to help.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
+      },
+      {
+        "url": "https://hci.social/@eglassman",
+        "display_name": "Elena Glassman"
+      }
+    ]
+  },
+  {
+    "link": "https://www.reddoorshelter.ca/",
+    "title": "https://www.reddoorshelter.ca/",
+    "latest": "2023-01-02T20:48:32+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@gvwilson/109591998933849235",
+      "content": "<p>It's been an off and on project since 2018 (with a lot more \"off\" than \"on\"), but it's finally here. You can read the whole thing online at <a href=\"https://third-bit.com/sdxjs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">third-bit.com/sdxjs/</span><span class=\"invisible\"></span></a>, but if you buy a copy, all the royalties go to the Red Door Family Shelter in Toronto (<a href=\"https://www.reddoorshelter.ca/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">reddoorshelter.ca/</span><span class=\"invisible\"></span></a>). Even if you don't want hard copy, please consider a donation - the last couple of years have been very hard on the people they're trying to help.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
+      },
+      {
+        "url": "https://hci.social/@eglassman",
+        "display_name": "Elena Glassman"
       }
     ]
   },
@@ -604,25 +626,6 @@
     ]
   },
   {
-    "link": "https://globalcarbonproject.org/carbonbudget/22/visualisations.htm",
-    "title": "globalcarbonproject.org/carbon...",
-    "latest": "2023-01-01T19:06:56+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@ZLabe/109610123204944054",
-      "content": "<p>As always, my last tweet of the year - rising carbon dioxide (CO\u2082)...</p><p>There is no deadline. Any reduction in emissions will reduce future climate warming. I am hopeful! Thank you all for following! \ud83d\ude42</p><p>+ Visualization/info by: <a href=\"https://globalcarbonproject.org/carbonbudget/22/visualisations.htm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">globalcarbonproject.org/carbon</span><span class=\"invisible\">budget/22/visualisations.htm</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@ZLabe",
-        "display_name": "Zack Labe"
-      },
-      {
-        "url": "https://fediscience.org/@ed_hawkins",
-        "display_name": "Ed Hawkins"
-      }
-    ]
-  },
-  {
     "link": "https://www.codastory.com/rewriting-history/war-on-librarians-united-states/",
     "title": "America\u2019s culture warriors are going after librarians",
     "latest": "2023-01-02T15:59:51+00:00",
@@ -680,6 +683,25 @@
     ]
   },
   {
+    "link": "https://www.theverge.com/23513418/bring-back-personal-blogging",
+    "title": "Bring back personal blogging",
+    "latest": "2023-01-02T18:48:38+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@burningbird/109620312393027749",
+      "content": "<p>Yes. No one can control what we do in our spaces. </p><p>I've maintained 'a blog' but not always the same one. I'm now recovering all old posts on the Wayback Machine, until I have everything in one place, at Burningbird. </p><p>And with Wordpress/ActivityPub integration, it's all a win/win.</p><p>Bring back personal blogging</p><p><a href=\"https://www.theverge.com/23513418/bring-back-personal-blogging\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theverge.com/23513418/bring-ba</span><span class=\"invisible\">ck-personal-blogging</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://macaw.social/@stammy",
+        "display_name": "Stammy"
+      },
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      }
+    ]
+  },
+  {
     "link": "https://standardebooks.org/donate",
     "title": "https://standardebooks.org/donate",
     "latest": "2023-01-02T11:35:32+00:00",
@@ -699,25 +721,6 @@
     ]
   },
   {
-    "link": "https://mattsclancy.com/",
-    "title": "https://mattsclancy.com",
-    "latest": "2023-01-01T19:31:01+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@mattsclancy/109614734368972902",
-      "content": "<p>New year, new personal website! <a href=\"https://mattsclancy.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mattsclancy.com</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@mattsclancy",
-        "display_name": "Matt Clancy"
-      },
-      {
-        "url": "https://econtwitter.net/@Mattmarx",
-        "display_name": "Matt Marx"
-      }
-    ]
-  },
-  {
     "link": "https://mastodeck.com/",
     "title": "https://mastodeck.com",
     "latest": "2023-01-02T08:37:26+00:00",
@@ -733,25 +736,6 @@
       {
         "url": "https://cyberplace.social/@GossiTheDog",
         "display_name": "Kevin Beaumont"
-      }
-    ]
-  },
-  {
-    "link": "https://www.sciencedirect.com/science/article/pii/S0022103122001597",
-    "title": "sciencedirect.com/science/arti...",
-    "latest": "2023-01-01T18:58:59+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@Rolandimhoff/109615218929328545",
-      "content": "<p>New paper by Fiona Kazarovytska shows no evidence for memory bias (free recall; recognition) across five experiments in three contexts (Germany, UK, USA). We find no support for (and effects smaller than a pre-defined smalles effect size of interest) for the widespread idea that people selectively remember those historical episodes that flatter their ingroup and selectively forget the ones that put a stain in their cherished identity <a href=\"https://mastodon.online/tags/openaccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openaccess</span></a> <a href=\"https://www.sciencedirect.com/science/article/pii/S0022103122001597\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">sciencedirect.com/science/arti</span><span class=\"invisible\">cle/pii/S0022103122001597</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sciences.social/@markigra",
-        "display_name": "Mark Igra"
-      },
-      {
-        "url": "https://sciences.social/@mjb",
-        "display_name": "mark"
       }
     ]
   },
@@ -828,25 +812,6 @@
       {
         "url": "https://mastodon.social/@Sardonicus",
         "display_name": "Sardonicus"
-      }
-    ]
-  },
-  {
-    "link": "https://boffosocko.com/2023/01/01/55813317/",
-    "title": "| Chris Aldrich",
-    "latest": "2023-01-01T18:40:57+00:00",
-    "last_post": {
-      "url": "https://boffosocko.com/2023/01/01/55813317/",
-      "content": "<p></p><p>In addition to becoming incomprehensibly js;dr in Mastodon 4.0, why did <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/mastodon/\" target=\"_blank\">#Mastodon</a> change it\u2019s default reply workflow to make me copy a URL, switch to a different window, go to my server, log in, paste the URL, search, and then reply? I used to be able to just input my account and go directly to a reply box? This new user interface of 7 steps is far worse than the prior two\u2026&nbsp;\n</p><p><a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/jsdr/\" target=\"_blank\">#jsdr</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/mastodon/\" target=\"_blank\">#mastodon</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/user-interface/\" target=\"_blank\">#user-interface</a></p><p><a href=\"https://boffosocko.com/2023/01/01/55813317/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/2023/01/01/55813317/</a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@chrisaldrich",
-        "display_name": "Chris Aldrich"
-      },
-      {
-        "url": "https://boffosocko.com/author/chrisaldrich/",
-        "display_name": "Chris Aldrich"
       }
     ]
   },
@@ -1193,6 +1158,25 @@
     ]
   },
   {
+    "link": "https://startafuckingblog.com/",
+    "title": "https://startafuckingblog.com",
+    "latest": "2023-01-02T19:54:12+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@kev/109619238230515070",
+      "content": "<p>Ladies and gentlemen, I present to you <a href=\"https://fosstodon.org/tags/StartAFuckingBlog\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StartAFuckingBlog</span></a></p><p><a href=\"https://startafuckingblog.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">startafuckingblog.com</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fosstodon.org/tags/Blog\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Blog</span></a> <a href=\"https://fosstodon.org/tags/Blogging\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Blogging</span></a> <a href=\"https://fosstodon.org/tags/Twitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Twitter</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hugovk",
+        "display_name": "hugovk"
+      },
+      {
+        "url": "https://mastodon.social/@ctietze",
+        "display_name": "Christian Tietze"
+      }
+    ]
+  },
+  {
     "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247642",
     "title": "The anti-vaccination infodemic on social media: A behavioral analysis",
     "latest": "2023-01-02T17:27:45+00:00",
@@ -1269,6 +1253,25 @@
     ]
   },
   {
+    "link": "https://forms.gle/1PGcXEzBkzqpcX9d8",
+    "title": "https://forms.gle/1PGcXEzBkzqpcX9d8",
+    "latest": "2023-01-02T19:32:55+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@thegradient/109620794795371294",
+      "content": "<p>Submit your pitches here! <a href=\"https://forms.gle/1PGcXEzBkzqpcX9d8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">forms.gle/1PGcXEzBkzqpcX9d8</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@thegradient",
+        "display_name": "The Gradient"
+      },
+      {
+        "url": "https://mas.to/@shakir",
+        "display_name": "Shakir"
+      }
+    ]
+  },
+  {
     "link": "http://osf.io/xvbkj/",
     "title": "http://osf.io/xvbkj/",
     "latest": "2023-01-02T15:26:59+00:00",
@@ -1284,6 +1287,82 @@
       {
         "url": "https://mastodon.social/@philipncohen",
         "display_name": "Philip N Cohen"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/s41567-022-01852-0",
+    "title": "Higher-order organization of multivariate time series - Nature Physics",
+    "latest": "2023-01-02T18:21:58+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@danielemarinazzo/109620666160483540",
+      "content": "<p>RT @Enri_amico@twitter.com</p><p>Happy new year! \ud83e\udd73 Our paper \"Higher-order organization of multivariate time series\" is now out on @NaturePhysics@twitter.com! <a href=\"https://www.nature.com/articles/s41567-022-01852-0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41567-022</span><span class=\"invisible\">-01852-0</span></a> (Git code in pic\ud83d\udc47) Massive kudos to @andreasantor0@twitter.com. Proud of our team!\ud83c\uddee\ud83c\uddf9 @fede7j@twitter.com @lordgrilo@twitter.com</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/Enri_amico/status/1609945594356977668\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/Enri_amico/status/</span><span class=\"invisible\">1609945594356977668</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@r3rt0",
+        "display_name": "Roberto Toro"
+      },
+      {
+        "url": "https://sciences.social/@mjb",
+        "display_name": "mark"
+      }
+    ]
+  },
+  {
+    "link": "https://www.dfg.de/foerderung/info_wissenschaft/info_wissenschaft_23_01",
+    "title": "dfg.de/foerderung/info_wissens...",
+    "latest": "2023-01-02T19:19:22+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@Rolandimhoff/109619339797308284",
+      "content": "<p>This is huge. The German science foundation requests publicly accessible final reports of all funded studies to enhance the visibility of null results.</p><p>RT @dfg_public@twitter.com</p><p>Projekt-<a href=\"https://mastodon.online/tags/Abschlussberichte\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Abschlussberichte</span></a>: Einheitliche Grundlagen sollen <a href=\"https://mastodon.online/tags/DFG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DFG</span></a>-Projekte besser erschlie\u00dfen, die Verwendung d. Gelder und (auch negative) <a href=\"https://mastodon.online/tags/Forschungsergebnisse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Forschungsergebnisse</span></a> transparenter machen. Entspr. Muster gelten f\u00fcr die meisten ab 1.1.23 bewilligten Antr\u00e4ge. Mehr:<br><a href=\"https://www.dfg.de/foerderung/info_wissenschaft/info_wissenschaft_23_01\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dfg.de/foerderung/info_wissens</span><span class=\"invisible\">chaft/info_wissenschaft_23_01</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/dfg_public/status/1609863489757093889\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/dfg_public/status/</span><span class=\"invisible\">1609863489757093889</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://nerdculture.de/@briannosek",
+        "display_name": "Brian Nosek"
+      },
+      {
+        "url": "https://econtwitter.net/@DianeCoyle1859",
+        "display_name": "Diane Coyle"
+      }
+    ]
+  },
+  {
+    "link": "https://boffosocko.com/2023/01/02/55813326/",
+    "title": "On Indigenous knowledge",
+    "latest": "2023-01-02T20:35:57+00:00",
+    "last_post": {
+      "url": "https://boffosocko.com/2023/01/02/55813326/",
+      "content": "<p></p><p>A multi-layered statement, but let\u2019s reflect for a moment on how the West wholly misses out on a hidden personal knowledge management technique inherent in orality. <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/toolsforthought/\" target=\"_blank\">#ToolsForThought</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/pkm/\" target=\"_blank\">#PKM</a></p>\n<p><a href=\"https://amzn.to/3Ij7Xx4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"></a>\n</p><p><a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/books/\" target=\"_blank\">#books</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/indigenous-knowledge/\" target=\"_blank\">#indigenous-knowledge</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/orality/\" target=\"_blank\">#orality</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/personal-knowledge-management/\" target=\"_blank\">#personal-knowledge-management</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/songlines/\" target=\"_blank\">#songlines</a></p><p><a href=\"https://boffosocko.com/2023/01/02/55813326/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/2023/01/02/55813326/</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chrisaldrich",
+        "display_name": "Chris Aldrich"
+      },
+      {
+        "url": "https://boffosocko.com/author/chrisaldrich/",
+        "display_name": "Chris Aldrich"
+      }
+    ]
+  },
+  {
+    "link": "https://www.npr.org/2023/01/02/1146543157/e-bikes-could-be-a-more-affordable-way-to-reduce-emissions",
+    "title": "E-bikes could be a more affordable way to reduce emissions",
+    "latest": "2023-01-02T20:11:01+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@Riedl/109621428968979102",
+      "content": "<p>\u201cE-bikes could be a more affordable way to reduce emissions\u201d</p><p>Yes, yes they could. I\u2019ve replaced my 6-mile car commute to work with an e-bike commute. It\u2019s made my commute fun and I reduce my carbon footprint.</p><p><a href=\"https://www.npr.org/2023/01/02/1146543157/e-bikes-could-be-a-more-affordable-way-to-reduce-emissions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">npr.org/2023/01/02/1146543157/</span><span class=\"invisible\">e-bikes-could-be-a-more-affordable-way-to-reduce-emissions</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MichaelErard",
+        "display_name": "Michael Erard"
+      },
+      {
+        "url": "https://sigmoid.social/@Riedl",
+        "display_name": "Mark Riedl"
       }
     ]
   }
