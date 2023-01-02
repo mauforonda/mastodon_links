@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://github.com/RandomFractals/vscode-vega-viewer/blob/master/CHANGELOG.md",
+    "title": "vscode-vega-viewer/CHANGELOG.md at master \u00b7 RandomFractals/vscode-vega-viewer",
+    "latest": "2023-01-02T17:56:14+00:00",
+    "last_post": {
+      "url": "https://vis.social/@dataSamurai/109620899009535343",
+      "content": "<p>Updated <a href=\"https://vis.social/tags/VegaViewer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VegaViewer</span></a> \ud83d\udcc8 <a href=\"https://vis.social/tags/dataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataViz</span></a> extension v9.6.0 is now in <a href=\"https://vis.social/tags/vscode\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vscode</span></a> marketplace. See changelog for details: <a href=\"https://github.com/RandomFractals/vscode-vega-viewer/blob/master/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/RandomFractals/vsco</span><span class=\"invisible\">de-vega-viewer/blob/master/CHANGELOG.md</span></a></p><p>\ud83d\udce5 <a href=\"https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-vega-viewer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marketplace.visualstudio.com/i</span><span class=\"invisible\">tems?itemName=RandomFractalsInc.vscode-vega-viewer</span></a> </p><p><a href=\"https://vis.social/tags/dataTools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataTools</span></a> \ud83d\udd2c ...</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@dataSamurai",
+        "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rq/django-rq#synchronous-mode",
+    "title": "GitHub - rq/django-rq: A simple app that provides django integration for RQ (Redis Queue)",
+    "latest": "2023-01-02T15:29:36+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@adamghill/109620322414780912",
+      "content": "<p>I tried out django-db-queue for devmarks.io, but I decided to switch back to django-rq for fediview.com.</p><p>django-rq uses redis to store jobs while django-db-queue uses the database. Both are easier to reason about &amp; lighter weight than celery IMO.</p><p><a href=\"https://github.com/rq/django-rq#synchronous-mode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rq/django-rq#synchr</span><span class=\"invisible\">onous-mode</span></a> is a game-changer for local development with django-rq.</p><p><a href=\"https://github.com/rq/django-rq\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rq/django-rq</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/dabapps/django-db-queue\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dabapps/django-db-q</span><span class=\"invisible\">ueue</span></a></p><p><a href=\"https://indieweb.social/tags/django\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>django</span></a> <a href=\"https://indieweb.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rq/django-rq",
+    "title": "GitHub - rq/django-rq: A simple app that provides django integration for RQ (Redis Queue)",
+    "latest": "2023-01-02T15:29:36+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@adamghill/109620322414780912",
+      "content": "<p>I tried out django-db-queue for devmarks.io, but I decided to switch back to django-rq for fediview.com.</p><p>django-rq uses redis to store jobs while django-db-queue uses the database. Both are easier to reason about &amp; lighter weight than celery IMO.</p><p><a href=\"https://github.com/rq/django-rq#synchronous-mode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rq/django-rq#synchr</span><span class=\"invisible\">onous-mode</span></a> is a game-changer for local development with django-rq.</p><p><a href=\"https://github.com/rq/django-rq\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rq/django-rq</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/dabapps/django-db-queue\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dabapps/django-db-q</span><span class=\"invisible\">ueue</span></a></p><p><a href=\"https://indieweb.social/tags/django\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>django</span></a> <a href=\"https://indieweb.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/dabapps/django-db-queue",
+    "title": "github.com/dabapps/django-db-q...",
+    "latest": "2023-01-02T15:29:36+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@adamghill/109620322414780912",
+      "content": "<p>I tried out django-db-queue for devmarks.io, but I decided to switch back to django-rq for fediview.com.</p><p>django-rq uses redis to store jobs while django-db-queue uses the database. Both are easier to reason about &amp; lighter weight than celery IMO.</p><p><a href=\"https://github.com/rq/django-rq#synchronous-mode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rq/django-rq#synchr</span><span class=\"invisible\">onous-mode</span></a> is a game-changer for local development with django-rq.</p><p><a href=\"https://github.com/rq/django-rq\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rq/django-rq</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/dabapps/django-db-queue\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dabapps/django-db-q</span><span class=\"invisible\">ueue</span></a></p><p><a href=\"https://indieweb.social/tags/django\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>django</span></a> <a href=\"https://indieweb.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
     "link": "https://gitlab.com/bkhl/dotfiles/-/commit/d54a99fb3573f2640476ca6b61bf339ca4524822",
     "title": "Upgrade to modus-themes 4.0.1 (d54a99fb) \u00b7 Commits \u00b7 Bj\u00f6rn Lindstr\u00f6m / dotfiles \u00b7 GitLab",
     "latest": "2023-01-02T14:22:00+00:00",
