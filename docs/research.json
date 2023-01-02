@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://arxiv.org/abs/2107.14210",
+    "title": "uiCA: Accurate Throughput Prediction of Basic Blocks on Recent Intel Microarchitectures",
+    "latest": "2023-01-02T10:34:18+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@pervognsen/109618222504547584",
+      "content": "<p>A mic drop moment in the uiCA paper is when they show that the trivial baseline model</p><p>rthroughput = max(instructions / 4, loads / 2, stores)</p><p>beats llvm-mca and OSACA by a wide margin and approaches IACA in prediction accuracy, at least on BHive. Of course, this isn't uiCA's actual model (it has a proper pipeline model) but it puts the accuracy of those other tools into perspective. Conversely, it shows how good the baseline model is for napkin estimates.</p><p><a href=\"https://arxiv.org/abs/2107.14210\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2107.14210</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@rygorous",
+        "display_name": "Fabian Giesen"
+      }
+    ]
+  },
+  {
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13570",
+    "title": "onlinelibrary.wiley.com/doi/10...",
+    "latest": "2023-01-02T09:13:35+00:00",
+    "last_post": {
+      "url": "https://ecoevo.social/@JulianSchrader/109617493097096309",
+      "content": "<p>My first post on Mastodon: <br>Proud to share our cover image for the new issue of Diversity and Distribution (<a href=\"https://onlinelibrary.wiley.com/doi/10.1111/ddi.13570\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">onlinelibrary.wiley.com/doi/10</span><span class=\"invisible\">.1111/ddi.13570</span></a>): Endemic plants on La Palma (Canaries). Check out our related paper led by Jos\u00e9 Mar\u00eda Fern\u00e1ndez Palacios on immune plant communities on the Canary Islands: <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/ddi.13650\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">onlinelibrary.wiley.com/doi/10</span><span class=\"invisible\">.1111/ddi.13650</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@jonny",
+        "display_name": "Jonny"
+      }
+    ]
+  },
+  {
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13650",
+    "title": "onlinelibrary.wiley.com/doi/10...",
+    "latest": "2023-01-02T09:13:35+00:00",
+    "last_post": {
+      "url": "https://ecoevo.social/@JulianSchrader/109617493097096309",
+      "content": "<p>My first post on Mastodon: <br>Proud to share our cover image for the new issue of Diversity and Distribution (<a href=\"https://onlinelibrary.wiley.com/doi/10.1111/ddi.13570\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">onlinelibrary.wiley.com/doi/10</span><span class=\"invisible\">.1111/ddi.13570</span></a>): Endemic plants on La Palma (Canaries). Check out our related paper led by Jos\u00e9 Mar\u00eda Fern\u00e1ndez Palacios on immune plant communities on the Canary Islands: <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/ddi.13650\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">onlinelibrary.wiley.com/doi/10</span><span class=\"invisible\">.1111/ddi.13650</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@jonny",
+        "display_name": "Jonny"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2212.14409",
     "title": "A mathematical overview and some applications of gear design",
     "latest": "2023-01-02T06:55:34+00:00",
