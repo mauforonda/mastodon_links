@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.com/khonsulabs/okaywal",
+    "title": "GitHub - khonsulabs/okaywal: A Write Ahead Log (WAL) implementation in Rust",
+    "latest": "2023-01-03T07:10:14.301000+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@ecton/109623281349481504",
+      "content": "<p>I've been working on new foundational crates for <a href=\"https://fosstodon.org/tags/BonsaiDb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BonsaiDb</span></a>'s storage layer.</p><p><a href=\"https://fosstodon.org/tags/OkayWAL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OkayWAL</span></a> is the crate I'll highlight today. It's a write-ahead log (WAL) implementation for <a href=\"https://fosstodon.org/tags/RustLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RustLang</span></a>. It's far from stable, but as of today, it is now feature complete as far as my initial concept is concerned.</p><p>A WAL's goal is to get bits describing the changes being made to a <a href=\"https://fosstodon.org/tags/database\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>database</span></a> to disk as quickly as possible while being ACID-compliant.</p><p><a href=\"https://github.com/khonsulabs/okaywal\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/khonsulabs/okaywal</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@colel",
+        "display_name": "Cole Lawrence"
+      }
+    ]
+  },
+  {
     "link": "https://gist.github.com/jsit/545542b076f559a92ec7ffd4d35c1895",
     "title": "Mastodon Explained in 100, 200, and 500 Words",
     "latest": "2023-01-03T05:11:29+00:00",
