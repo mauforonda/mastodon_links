@@ -1,8 +1,23 @@
 [
   {
+    "link": "https://github.com/nhaouari/obsidian-textgenerator-plugin",
+    "title": "GitHub - nhaouari/obsidian-textgenerator-plugin: Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).",
+    "latest": "2023-01-03T14:47:55+00:00",
+    "last_post": {
+      "url": "https://pkm.social/@Gahrae/109623728012907750",
+      "content": "<p>Another way to integrate Obsidian with OpenAI...</p><p><a href=\"https://github.com/nhaouari/obsidian-textgenerator-plugin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nhaouari/obsidian-t</span><span class=\"invisible\">extgenerator-plugin</span></a></p><p>(Video demo at the bottom of page)</p><p>Jaw-droppingly impressive!</p>"
+    },
+    "people": [
+      {
+        "url": "https://pkm.social/@eleanorkonik",
+        "display_name": "Eleanor Konik"
+      }
+    ]
+  },
+  {
     "link": "https://observablehq.com/@riate/flow-based-cartograms-gastner-seguy-more-2018-in-the-browse",
     "title": "Flow-based cartograms (Gastner, Seguy & More, 2018) in the browser",
-    "latest": "2023-01-03T10:00:41+00:00",
+    "latest": "2023-01-03T14:22:07+00:00",
     "last_post": {
       "url": "https://vis.social/@neocarto/109624691375712180",
       "content": "<p>Thanks to go-cart-wasm by <span class=\"h-card\"><a href=\"https://fosstodon.org/@mthv\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mthv</span></a></span>, designing cartograms (Gastner, Seguy &amp; More, 2018) in the browser is now possible \ud83e\udd29 <a href=\"https://observablehq.com/@riate/flow-based-cartograms-gastner-seguy-more-2018-in-the-browse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@riate/flow-b</span><span class=\"invisible\">ased-cartograms-gastner-seguy-more-2018-in-the-browse</span></a></p>"
@@ -11,6 +26,104 @@
       {
         "url": "https://vis.social/@neocarto",
         "display_name": "Nicolas Lambert \ud83c\udf0f"
+      },
+      {
+        "url": "https://vis.social/@maarten",
+        "display_name": "Maarten Lambrechts"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9",
+    "title": "LLMs.md",
+    "latest": "2023-01-03T14:08:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jacobeisenstein/109623531673637375",
+      "content": "<p>Very interesting essay on LLMs, their limitations, and their future by <span class=\"h-card\"><a href=\"https://sigmoid.social/@yoavgo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>yoavgo</span></a></span>!</p><p><a href=\"https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/yoavg/59d17460</span><span class=\"invisible\">8e92e845c8994ac2e234c8a9</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jacobeisenstein",
+        "display_name": "Jacob Eisenstein"
+      },
+      {
+        "url": "https://masto.ai/@brenocon",
+        "display_name": "brendan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/glitch-soc/mastodon/pull/1502",
+    "title": "github.com/glitch-soc/mastodon...",
+    "latest": "2023-01-03T13:53:46+00:00",
+    "last_post": {
+      "url": "https://chaos.social/@zx/109625607878568629",
+      "content": "<p><span class=\"h-card\"><a href=\"https://social.skewed.de/@tiago\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tiago</span></a></span> </p><p><a href=\"https://gitea.treehouse.systems/treehouse/mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitea.treehouse.systems/treeho</span><span class=\"invisible\">use/mastodon</span></a></p><p><a href=\"https://github.com/glitch-soc/mastodon/pull/1502\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/glitch-soc/mastodon</span><span class=\"invisible\">/pull/1502</span></a> is where search was discussed for glitch-soc</p>"
+    },
+    "people": [
+      {
+        "url": "https://chaos.social/@zx",
+        "display_name": "Zx"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@neocartocnrs/map-geojson?collection=@neocartocnrs/geotoolbox",
+    "title": "Map (geojson)",
+    "latest": "2023-01-03T13:47:48+00:00",
+    "last_post": {
+      "url": "https://vis.social/@neocarto/109625584439249295",
+      "content": "<p>Iterating on a geoJSON is always a bit tricky. That's why I added the map and filter functions in the geotoolbox library. Easy to use. No complications. See examples below. <br>map: <a href=\"https://observablehq.com/@neocartocnrs/map-geojson?collection=@neocartocnrs/geotoolbox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/map-geojson?collection=@neocartocnrs/geotoolbox</span></a><br>filter: <a href=\"https://observablehq.com/@neocartocnrs/filter-geojson?collection=@neocartocnrs/geotoolbox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/filter-geojson?collection=@neocartocnrs/geotoolbox</span></a><br><a href=\"https://vis.social/tags/JSspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSspatial</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@neocarto",
+        "display_name": "Nicolas Lambert \ud83c\udf0f"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@neocartocnrs/filter-geojson?collection=@neocartocnrs/geotoolbox",
+    "title": "observablehq.com/@neocartocnrs...",
+    "latest": "2023-01-03T13:47:48+00:00",
+    "last_post": {
+      "url": "https://vis.social/@neocarto/109625584439249295",
+      "content": "<p>Iterating on a geoJSON is always a bit tricky. That's why I added the map and filter functions in the geotoolbox library. Easy to use. No complications. See examples below. <br>map: <a href=\"https://observablehq.com/@neocartocnrs/map-geojson?collection=@neocartocnrs/geotoolbox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/map-geojson?collection=@neocartocnrs/geotoolbox</span></a><br>filter: <a href=\"https://observablehq.com/@neocartocnrs/filter-geojson?collection=@neocartocnrs/geotoolbox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/filter-geojson?collection=@neocartocnrs/geotoolbox</span></a><br><a href=\"https://vis.social/tags/JSspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSspatial</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@neocarto",
+        "display_name": "Nicolas Lambert \ud83c\udf0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pmndrs/drei#html",
+    "title": "https://github.com/pmndrs/drei#html",
+    "latest": "2023-01-03T13:44:02+00:00",
+    "last_post": {
+      "url": "https://mas.to/@steveruizok/109625569584407209",
+      "content": "<p>RT @CantBeFaraz@twitter.com</p><p>Released drei v9.50.0 with updates to &lt;HTML /&gt;<br>\u2705 Correct Occlusion <br>\u2705 HTML casts/recieves shadows<br>\u2705 Give HTML materials properties <br>\u2705 Works with Bloom and PP <br>\u2705 Fully Opt-in</p><p>Enable by using `occlude=\"blending\"`</p><p>Demo: <a href=\"https://codesandbox.io/s/occluded-html-qrw20v\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codesandbox.io/s/occluded-html</span><span class=\"invisible\">-qrw20v</span></a><br>Docs: <a href=\"https://github.com/pmndrs/drei#html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/pmndrs/drei#html</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/CantBeFaraz/status/1609975262862577665\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/CantBeFaraz/status</span><span class=\"invisible\">/1609975262862577665</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@steveruizok",
+        "display_name": "Steve Ruiz"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pymc-devs/pytensor/issues/161",
+    "title": "Add missing numba ops \u00b7 Issue #161 \u00b7 pymc-devs/pytensor",
+    "latest": "2023-01-03T12:55:47+00:00",
+    "last_post": {
+      "url": "https://bayes.club/@pymc/109625303948059906",
+      "content": "<p>We're in the process of adding a new NUTS sampler to PyMC that is written in Rust and hooks into PyTensor's numba backend. The speed-ups are \ud83e\udd2f.<br>However, there are still a few Ops missing to support all PyMC models. We need your help to add them: <a href=\"https://github.com/pymc-devs/pytensor/issues/161\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pymc-devs/pytensor/</span><span class=\"invisible\">issues/161</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://bayes.club/@twiecki",
+        "display_name": "Thomas Wiecki"
       }
     ]
   },
@@ -56,21 +169,6 @@
       {
         "url": "https://social.coop/@bmann",
         "display_name": "Boris Mann"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9",
-    "title": "LLMs.md",
-    "latest": "2023-01-03T05:05:46+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jacobeisenstein/109623531673637375",
-      "content": "<p>Very interesting essay on LLMs, their limitations, and their future by <span class=\"h-card\"><a href=\"https://sigmoid.social/@yoavgo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>yoavgo</span></a></span>!</p><p><a href=\"https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/yoavg/59d17460</span><span class=\"invisible\">8e92e845c8994ac2e234c8a9</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jacobeisenstein",
-        "display_name": "Jacob Eisenstein"
       }
     ]
   },
