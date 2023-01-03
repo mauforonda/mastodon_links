@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://github.com/mastodon/mastodon/discussions/18347",
+    "title": "Sidekiq quere flooded with LowPriorityWorker for \"Delete Actor\" pull \u00b7 Discussion #18347 \u00b7 mastodon/mastodon",
+    "latest": "2023-01-03T01:37:35+00:00",
+    "last_post": {
+      "url": "https://cyberplace.social/@GossiTheDog/109622279333861083",
+      "content": "<p>Spotted an interesting Mastodon attack, currently low key - people creating, then deleting accounts. This causes the instance to send messages to every Fediverse instance to delete the content, causes the pull queue to bloat in Sidekiq. <a href=\"https://cyberplace.social/tags/fediadmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediadmin</span></a> </p><p>See also: <a href=\"https://github.com/mastodon/mastodon/discussions/18347\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/d</span><span class=\"invisible\">iscussions/18347</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://cyberplace.social/@GossiTheDog",
+        "display_name": "Kevin Beaumont"
+      },
+      {
+        "url": "https://infosec.exchange/@briankrebs",
+        "display_name": "BrianKrebs"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tebl/Amiga-DrawBridge",
+    "title": "GitHub - tebl/Amiga-DrawBridge: A PCB build of Rob Smiths Amiga DrawBridge, an Arduino-based solution for reading and writing Amiga floppy disks on modern hardware. Also includes version of Greaseweazle.",
+    "latest": "2023-01-03T01:00:14+00:00",
+    "last_post": {
+      "url": "https://digipres.club/@foone/109622566213176766",
+      "content": "<p>This is awesome. The Amiga Drawbridge, the first floppy disk imager that actually looks like a floppy disk! </p><p><a href=\"https://github.com/tebl/Amiga-DrawBridge\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tebl/Amiga-DrawBrid</span><span class=\"invisible\">ge</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://digipres.club/@foone",
+        "display_name": "Foone"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/mastodon/mastodon/issues/10557",
     "title": "github.com/mastodon/mastodon/i...",
     "latest": "2023-01-03T00:48:54+00:00",
@@ -56,21 +90,6 @@
       {
         "url": "https://mastodon.social/@geoffhing",
         "display_name": "Geoff Hing"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/discussions/18347",
-    "title": "Sidekiq quere flooded with LowPriorityWorker for \"Delete Actor\" pull \u00b7 Discussion #18347 \u00b7 mastodon/mastodon",
-    "latest": "2023-01-02T23:47:16+00:00",
-    "last_post": {
-      "url": "https://cyberplace.social/@GossiTheDog/109622279333861083",
-      "content": "<p>Spotted an interesting Mastodon attack, currently low key - people creating, then deleting accounts. This causes the instance to send messages to every Fediverse instance to delete the content, causes the pull queue to bloat in Sidekiq. <a href=\"https://cyberplace.social/tags/fediadmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediadmin</span></a> </p><p>See also: <a href=\"https://github.com/mastodon/mastodon/discussions/18347\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/d</span><span class=\"invisible\">iscussions/18347</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://cyberplace.social/@GossiTheDog",
-        "display_name": "Kevin Beaumont"
       }
     ]
   },
