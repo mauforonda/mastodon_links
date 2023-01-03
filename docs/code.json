@@ -1,5 +1,100 @@
 [
   {
+    "link": "https://github.com/hometown-fork/hometown/releases/tag/v4.0.2%2Bhometown-1.1.0",
+    "title": "Release Hometown v1.1.0 (Mastodon 4.0.2) \u00b7 hometown-fork/hometown",
+    "latest": "2023-01-03T18:10:04+00:00",
+    "last_post": {
+      "url": "https://friend.camp/@darius/109626615702163766",
+      "content": "<p>Okay, <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> v1.1.0 is now released!</p><p>Massive release notes here:</p><p><a href=\"https://github.com/hometown-fork/hometown/releases/tag/v4.0.2%2Bhometown-1.1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hometown-fork/homet</span><span class=\"invisible\">own/releases/tag/v4.0.2%2Bhometown-1.1.0</span></a></p><p>Admins, please let me know if you run into trouble on the upgrade. This is a tricky one, mostly due to Mastodon v3 -&gt; v4 stuff. You'll get a lot of mileage searching the Mastodon issues repo for production errors you run into on the upgrade.</p><p>I'll repeat what I said on the release notes: if your installation is customized in any way (sidekiq setup, etc) you NEED to be careful.</p>"
+    },
+    "people": [
+      {
+        "url": "https://friend.camp/@darius",
+        "display_name": "Darius Kazemi"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/docker-library/official-images/pull/13823",
+    "title": "update to CouchDB 3.3.0 by janl \u00b7 Pull Request #13823 \u00b7 docker-library/official-images",
+    "latest": "2023-01-03T17:02:06+00:00",
+    "last_post": {
+      "url": "https://chaos.social/@janl/109626348453459682",
+      "content": "<p><span class=\"h-card\"><a href=\"https://octodon.social/@wohali\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>wohali</span></a></span> if you have a spare +1? <a href=\"https://github.com/docker-library/official-images/pull/13823\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/docker-library/offi</span><span class=\"invisible\">cial-images/pull/13823</span></a> &lt;3</p>"
+    },
+    "people": [
+      {
+        "url": "https://chaos.social/@janl",
+        "display_name": "Jan Lehnardt \ud83d\udecb\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9",
+    "title": "LLMs.md",
+    "latest": "2023-01-03T16:37:51+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@geomblog/109623992057778658",
+      "content": "<p>This is a very nice analysis of what LLMs can and cannot do right now.</p><p>RT @yoavgo@twitter.com</p><p>Everyone are writing about LLMs so I did too. (It became longer than I expected. and also not long enough.)</p><p><a href=\"https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/yoavg/59d17460</span><span class=\"invisible\">8e92e845c8994ac2e234c8a9</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/yoavgo/status/1610055975389614080\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/yoavgo/status/1610</span><span class=\"invisible\">055975389614080</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jacobeisenstein",
+        "display_name": "Jacob Eisenstein"
+      },
+      {
+        "url": "https://masto.ai/@brenocon",
+        "display_name": "brendan"
+      },
+      {
+        "url": "https://mastodon.social/@rrwilliams",
+        "display_name": "Ryan Williams"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/benbrown/shuttlecraft",
+    "title": "github.com/benbrown/shuttlecra...",
+    "latest": "2023-01-03T16:24:14+00:00",
+    "last_post": {
+      "url": "https://hackers.town/@benbrown/109605510788355449",
+      "content": "<p>Hello fellow citizens of the free and open web, it is me, Ben Brown. You may remember me from that social network from back when social networks were cool, or maybe from that one open source project that blew up.  </p><p>Hi, it is great to see you again.</p><p>First off, corporate owned social media always sucked, we always knew it. It is past time for us to have better options.I am so glad for the <a href=\"https://hackers.town/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> and <a href=\"https://hackers.town/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> and Mastodon and other projects for breathing new life into the indie web, where it is possible for us to own what we post and use whatever tools we want. I couldn\u2019t resist building something!</p><p>My new project is called SHUTTLECRAFT. It social media server \u2026 FOR ONE.</p><p>What does that mean? </p><p>It is very small and lightweight open source app that runs nicely on services like Glitch, but it has most of what you need to host your own personal social media account.</p><p>It\u2019s got a microblogging tool, to make posts. You can customize the design with HTML and CSS. You can follow people on Mastodon or other services and interact with posts and send messages. People can follow you on Mastodon, or with RSS. You run it on your own server so you own and operate the data and the code and the whole service. And you can hack the code and make it weirder so that we can all be part of a better, more diverse and more interesting web.</p><p>No billionaires or mega-corps required!</p><p>I made a 3 minute video showing how it works:<br><a href=\"https://www.loom.com/share/a6441bcebdc64f54b5010c95eae1e180\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">loom.com/share/a6441bcebdc64f5</span><span class=\"invisible\">4b5010c95eae1e180</span></a></p><p>Though this a personal project and only a few weeks old, with tons of stuff still unfinished and yet to build... you can get the code right now and run your own right now! The official site also has a 3 minute walk through of setting up an instance on Glitch. It is pretty easy!</p><p><a href=\"https://shuttlecraft.net/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">shuttlecraft.net/</span><span class=\"invisible\"></span></a></p><p>Or go straight to for the code:</p><p><a href=\"https://github.com/benbrown/shuttlecraft\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benbrown/shuttlecra</span><span class=\"invisible\">ft</span></a></p><p>Thanks to everyone who has already tested this or sent feedback or contributed code. Y'all rule. </p><p>Own your posts!! Make it hard for them to monetize you!</p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@jonny",
+        "display_name": "Jonny"
+      },
+      {
+        "url": "https://toolsforthought.rocks/@billseitz",
+        "display_name": "Bill Seitz"
+      },
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
+      },
+      {
+        "url": "https://merveilles.town/@lrhodes",
+        "display_name": "L. Rhodes"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/singlesourcepub/community/discussions/34",
+    "title": "Monthly Community Call of the Single Source Publishing Community \u00b7 Discussion #34 \u00b7 singlesourcepub/community",
+    "latest": "2023-01-03T16:00:51+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@xldrkp/109624762359236657",
+      "content": "<p>Interested in Single Source Publishing (SSP)? </p><p>I.e. having one file format like Markdown or XML and generate multiple other formats from it.</p><p>SSP is somehow big in scholarly publishing in order to have additional machine readable formats beyond the PDF.</p><p>Join us today at 12:00 CET in our monthly community call. No preparation needed, just bring your interest in the matter.</p><p><a href=\"https://github.com/singlesourcepub/community/discussions/34\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/singlesourcepub/com</span><span class=\"invisible\">munity/discussions/34</span></a></p><p><a href=\"https://scholar.social/tags/openscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openscience</span></a> <a href=\"https://scholar.social/tags/publishing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>publishing</span></a> <a href=\"https://scholar.social/tags/openaccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openaccess</span></a> <a href=\"https://scholar.social/tags/formatsforfuture\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>formatsforfuture</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@jcls",
+        "display_name": "JCLS"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/nhaouari/obsidian-textgenerator-plugin",
     "title": "GitHub - nhaouari/obsidian-textgenerator-plugin: Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).",
     "latest": "2023-01-03T14:47:55+00:00",
@@ -30,25 +125,6 @@
       {
         "url": "https://vis.social/@maarten",
         "display_name": "Maarten Lambrechts"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9",
-    "title": "LLMs.md",
-    "latest": "2023-01-03T14:08:01+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jacobeisenstein/109623531673637375",
-      "content": "<p>Very interesting essay on LLMs, their limitations, and their future by <span class=\"h-card\"><a href=\"https://sigmoid.social/@yoavgo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>yoavgo</span></a></span>!</p><p><a href=\"https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/yoavg/59d17460</span><span class=\"invisible\">8e92e845c8994ac2e234c8a9</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jacobeisenstein",
-        "display_name": "Jacob Eisenstein"
-      },
-      {
-        "url": "https://masto.ai/@brenocon",
-        "display_name": "brendan"
       }
     ]
   },
@@ -872,29 +948,6 @@
       {
         "url": "https://cyberplace.social/@GossiTheDog",
         "display_name": "Kevin Beaumont"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/benbrown/shuttlecraft",
-    "title": "github.com/benbrown/shuttlecra...",
-    "latest": "2023-01-01T06:02:43+00:00",
-    "last_post": {
-      "url": "https://hackers.town/@benbrown/109605510788355449",
-      "content": "<p>Hello fellow citizens of the free and open web, it is me, Ben Brown. You may remember me from that social network from back when social networks were cool, or maybe from that one open source project that blew up.  </p><p>Hi, it is great to see you again.</p><p>First off, corporate owned social media always sucked, we always knew it. It is past time for us to have better options.I am so glad for the <a href=\"https://hackers.town/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> and <a href=\"https://hackers.town/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> and Mastodon and other projects for breathing new life into the indie web, where it is possible for us to own what we post and use whatever tools we want. I couldn\u2019t resist building something!</p><p>My new project is called SHUTTLECRAFT. It social media server \u2026 FOR ONE.</p><p>What does that mean? </p><p>It is very small and lightweight open source app that runs nicely on services like Glitch, but it has most of what you need to host your own personal social media account.</p><p>It\u2019s got a microblogging tool, to make posts. You can customize the design with HTML and CSS. You can follow people on Mastodon or other services and interact with posts and send messages. People can follow you on Mastodon, or with RSS. You run it on your own server so you own and operate the data and the code and the whole service. And you can hack the code and make it weirder so that we can all be part of a better, more diverse and more interesting web.</p><p>No billionaires or mega-corps required!</p><p>I made a 3 minute video showing how it works:<br><a href=\"https://www.loom.com/share/a6441bcebdc64f54b5010c95eae1e180\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">loom.com/share/a6441bcebdc64f5</span><span class=\"invisible\">4b5010c95eae1e180</span></a></p><p>Though this a personal project and only a few weeks old, with tons of stuff still unfinished and yet to build... you can get the code right now and run your own right now! The official site also has a 3 minute walk through of setting up an instance on Glitch. It is pretty easy!</p><p><a href=\"https://shuttlecraft.net/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">shuttlecraft.net/</span><span class=\"invisible\"></span></a></p><p>Or go straight to for the code:</p><p><a href=\"https://github.com/benbrown/shuttlecraft\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benbrown/shuttlecra</span><span class=\"invisible\">ft</span></a></p><p>Thanks to everyone who has already tested this or sent feedback or contributed code. Y'all rule. </p><p>Own your posts!! Make it hard for them to monetize you!</p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@jonny",
-        "display_name": "Jonny"
-      },
-      {
-        "url": "https://toolsforthought.rocks/@billseitz",
-        "display_name": "Bill Seitz"
-      },
-      {
-        "url": "https://social.coop/@bmann",
-        "display_name": "Boris Mann"
       }
     ]
   },
