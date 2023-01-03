@@ -1,5 +1,66 @@
 [
   {
+    "link": "https://arxiv.org/abs/2301.00704",
+    "title": "https://arxiv.org/abs/2301.00704",
+    "latest": "2023-01-03T11:47:28+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109625111220649456",
+      "content": "<p>RT @dilipkay@twitter.com</p><p>Announcing Muse, a super-fast text-to-image generation model based on masked generative transformers. 2-10x faster than diffusion or autoregressive models! SOTA CLIP score and excellent FID score!  <br><a href=\"https://arxiv.org/abs/2301.00704\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.00704</span><span class=\"invisible\"></span></a> <br><a href=\"https://muse-model.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">muse-model.github.io/</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/dilipkay/status/1610091360203476993\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/dilipkay/status/16</span><span class=\"invisible\">10091360203476993</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@andrey",
+        "display_name": "Andrey Kurenkov"
+      },
+      {
+        "url": "https://sigmoid.social/@lucidrains",
+        "display_name": "Ice Cream"
+      },
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@Riedl",
+        "display_name": "Mark Riedl"
+      },
+      {
+        "url": "https://sigmoid.social/@Yarin",
+        "display_name": "Yarin :verified: :verified:"
+      }
+    ]
+  },
+  {
+    "link": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005597",
+    "title": "\"Missing\" G x E Variation Controls Flowering Time in Arabidopsis thaliana",
+    "latest": "2023-01-03T10:49:47+00:00",
+    "last_post": {
+      "url": "https://genomic.social/@ewanbirney/109624884444569554",
+      "content": "<p>RT @1m1a2t@twitter.com</p><p>@ewanbirney@twitter.com Interestingly there may also be natural variation in FIONA1 in Arabidopsis populations that affects flowering time: <a href=\"https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005597\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.plos.org/plosgenetics</span><span class=\"invisible\">/article?id=10.1371/journal.pgen.1005597</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/1m1a2t/status/1610212825154076672\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/1m1a2t/status/1610</span><span class=\"invisible\">212825154076672</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://genomic.social/@ewanbirney",
+        "display_name": "Ewan Birney"
+      }
+    ]
+  },
+  {
+    "link": "http://osf.io/rjnyd/",
+    "title": "http://osf.io/rjnyd/",
+    "latest": "2023-01-03T10:27:37+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@SocArXivBot/109571000365237852",
+      "content": "<p>Inequality and COVID-19 in Sweden: Relative risks of nine negative life events, along four social gradients, in pandemic vs. pre-pandemic years <a href=\"http://osf.io/rjnyd/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/rjnyd/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sciences.social/@per",
+        "display_name": "Per Engzell"
+      }
+    ]
+  },
+  {
     "link": "https://www.nature.com/articles/nature.2014.15951",
     "title": "Why high-profile journals have more retractions - Nature",
     "latest": "2023-01-03T09:07:22+00:00",
@@ -41,37 +102,6 @@
       {
         "url": "https://mstdn.social/@arnicas",
         "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.00704",
-    "title": "https://arxiv.org/abs/2301.00704",
-    "latest": "2023-01-03T07:50:02+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@akhaliq/109622780986076983",
-      "content": "<p>Muse: Text-To-Image Generation via Masked Generative Transformers<br>abs: <a href=\"https://arxiv.org/abs/2301.00704\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.00704</span><span class=\"invisible\"></span></a> <br>project page: <a href=\"https://muse-model.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">muse-model.github.io/</span><span class=\"invisible\"></span></a> </p><p>a t2i Transformer model that achieves sota image generation performance, significantly more efficient than diffusion or autoregressive models</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@andrey",
-        "display_name": "Andrey Kurenkov"
-      },
-      {
-        "url": "https://sigmoid.social/@lucidrains",
-        "display_name": "Ice Cream"
-      },
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://sigmoid.social/@Riedl",
-        "display_name": "Mark Riedl"
-      },
-      {
-        "url": "https://sigmoid.social/@Yarin",
-        "display_name": "Yarin :verified: :verified:"
       }
     ]
   },
