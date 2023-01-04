@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://github.com/anticomputer/passage.el",
+    "title": "GitHub - anticomputer/passage.el: Emacs support for passage: an age encryption based port of the standard unix password manager",
+    "latest": "2023-01-04T02:21:46+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109628549131041423",
+      "content": "<p>Ok maybe just one evening \ud83d\ude02 <br>If you also want to migrate from pass to passage on top of age.el inside Emacs you can use <a href=\"https://github.com/anticomputer/passage.el\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anticomputer/passag</span><span class=\"invisible\">e.el</span></a> for that <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://emacs.ch/tags/age\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>age</span></a> cc <span class=\"h-card\"><a href=\"https://abyssdomain.expert/@filippo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>filippo</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/FiloSottile/passage",
+    "title": "GitHub - FiloSottile/passage: A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.",
+    "latest": "2023-01-04T01:26:04+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109628330129018495",
+      "content": "<p>With age file support and org-roam support handled, it's time to start hacking on porting the password-store mode to <a href=\"https://github.com/FiloSottile/passage\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/FiloSottile/passage</span><span class=\"invisible\"></span></a> ... which thankfully appears to be as simple as just regexp-replace pass -&gt; passage and .gpg -&gt; age for the most part :) should be done in a few evenings <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://emacs.ch/tags/passage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>passage</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hodgesmr/2022-campaign-tech-keynote-talent",
+    "title": "GitHub - hodgesmr/2022-campaign-tech-keynote-talent: PDF of my morning keynote on the importance of retaining tech talent in political work",
+    "latest": "2023-01-04T00:56:54+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/109628197676101232",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@adrienne\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>adrienne</span></a></span> <span class=\"h-card\"><a href=\"https://data-folks.masto.host/@thebbennett\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>thebbennett</span></a></span> Here's the principal slide from my CampaignTech Innovation Summit keynote\u00b9 in November.</p><p><a href=\"https://mastodon.social/tags/PoliticalTech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PoliticalTech</span></a></p><p>\u00b9 <a href=\"https://github.com/hodgesmr/2022-campaign-tech-keynote-talent\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/2022-campa</span><span class=\"invisible\">ign-tech-keynote-talent</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/giswqs/geospatial-data-catalogs",
     "title": "GitHub - giswqs/geospatial-data-catalogs: A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, and STAC Index",
     "latest": "2023-01-04T00:27:27+00:00",
@@ -2099,21 +2144,6 @@
       {
         "url": "https://mstdn.science/@contaminatedsci",
         "display_name": "Tami Lieberman"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/FiloSottile/passage",
-    "title": "GitHub - FiloSottile/passage: A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.",
-    "latest": "2022-12-29T13:41:09+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@anticomputer/109597246740226583",
-      "content": "<p>BTW once age.el is stable I\u2019ll go fork and port the emacs pass frontend to work with <a href=\"https://github.com/FiloSottile/passage\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/FiloSottile/passage</span><span class=\"invisible\"></span></a> as well <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://emacs.ch/tags/gpgfree\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gpgfree</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
       }
     ]
   },
