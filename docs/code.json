@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://github.com/bryangraham/Harvard_Ec2147/blob/master/Lecture_Notes/4_Lecture_Partially_Linear_Regression.pdf",
+    "title": "Harvard_Ec2147/4_Lecture_Partially_Linear_Regression.pdf at master \u00b7 bryangraham/Harvard_Ec2147",
+    "latest": "2023-01-04T20:39:17+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@apoorvalal/109632718234506954",
+      "content": "<p>Today in everything is IV [cc <span class=\"h-card\"><a href=\"https://econtwitter.net/@instrumenthull\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>instrumenthull</span></a></span> ]<br>Hadn't seen this before; anyone got a sense of how it compares to partially linear regression / AIPW style estimators for multi-valued treatments? </p><p>[<a href=\"https://github.com/bryangraham/Harvard_Ec2147/blob/master/Lecture_Notes/4_Lecture_Partially_Linear_Regression.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bryangraham/Harvard</span><span class=\"invisible\">_Ec2147/blob/master/Lecture_Notes/4_Lecture_Partially_Linear_Regression.pdf</span></a>]</p><p>cc <span class=\"h-card\"><a href=\"https://econtwitter.net/@kevin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kevin</span></a></span> <span class=\"h-card\"><a href=\"https://econtwitter.net/@paulgp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>paulgp</span></a></span> </p><p><a href=\"https://econtwitter.net/tags/xp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xp</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/WebKit/WebKit/commit/5f26496d558011203cd8796591c3dd0aa4cf154e",
+    "title": "[@property] Enable by default \u00b7 WebKit/WebKit@5f26496",
+    "latest": "2023-01-04T19:23:45+00:00",
+    "last_post": {
+      "url": "https://front-end.social/@bramus/109632325139247732",
+      "content": "<p>\ud83d\udc40 WebKit Commit 5f26496d558 </p><p>\u201cEnable CSS Custom Properties and Values API\u201d</p><p><a href=\"https://github.com/WebKit/WebKit/commit/5f26496d558011203cd8796591c3dd0aa4cf154e\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/WebKit/WebKit/commi</span><span class=\"invisible\">t/5f26496d558011203cd8796591c3dd0aa4cf154e</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toot.cafe/@oliverturner",
+        "display_name": "Oliver"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/evansiroky/timezone-boundary-builder/releases",
+    "title": "Releases \u00b7 evansiroky/timezone-boundary-builder",
+    "latest": "2023-01-04T18:48:21+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109632428530373540",
+      "content": "<p><span class=\"h-card\"><a href=\"https://xoxo.zone/@numist\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>numist</span></a></span> looks like this is still being actively updated <a href=\"https://github.com/evansiroky/timezone-boundary-builder/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/evansiroky/timezone</span><span class=\"invisible\">-boundary-builder/releases</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/magisAR9/JEGeovizRennes",
+    "title": "GitHub - magisAR9/JEGeovizRennes",
+    "latest": "2023-01-04T18:39:16+00:00",
+    "last_post": {
+      "url": "https://mapstodon.space/@comeetie/109632392825470585",
+      "content": "<p>Vendredi direction rennes pour discuter carto de flux si jamais vous voulez viendre je suis sur que \u00e7a va \u00eatre sympa <a href=\"https://github.com/magisAR9/JEGeovizRennes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/magisAR9/JEGeovizRe</span><span class=\"invisible\">nnes</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@comeetie",
+        "display_name": ""
+      }
+    ]
+  },
+  {
     "link": "https://codeberg.org/fediverse/fep",
     "title": "fep",
     "latest": "2023-01-04T17:52:00.262000+00:00",
@@ -3104,66 +3164,6 @@
       {
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rotki/releases",
-    "title": "GitHub - rotki/releases: A powerful Sphinx changelog-generating extension.",
-    "latest": "2022-12-26T15:52:48+00:00",
-    "last_post": {
-      "url": "https://cryptodon.lol/@lefteris/109580777439914648",
-      "content": "<p>A key strength of @rotkiapp is that it's not just a portfolio tracker + accounting tool for on-chain activity.</p><p>It can connect to a bunch of CEXes show your balances in them and take trades into account.</p><p>\u23ecTry it: <a href=\"https://github.com/rotki/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rotki/releases</span><span class=\"invisible\"></span></a><br>\ud83d\udcc8Buy premium: <a href=\"https://rotki.com/products\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">rotki.com/products</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://cryptodon.lol/@lefteris",
-        "display_name": "lefterisjp"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/gnk02/bibliostats/",
-    "title": "https://github.com/gnk02/bibliostats/",
-    "latest": "2022-12-26T13:54:38+00:00",
-    "last_post": {
-      "url": "https://mstdn.science/@serhii/109580312800551365",
-      "content": "<p>New <a href=\"https://mstdn.science/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> - Department-level comparison of universities' scientific output: A bibliometric study of Greek universities \ud83c\uddec\ud83c\uddf7 :</p><p>:oa: <a href=\"https://arxiv.org/abs/2212.12032\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.12032</span><span class=\"invisible\"></span></a></p><p>After collecting the <a href=\"https://mstdn.science/tags/Scopus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Scopus</span></a> IDs were calculated statistical metrics by exploiting the Scopus <a href=\"https://mstdn.science/tags/API\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>API</span></a> and creating scripts in :rstats:  using the <a href=\"https://mstdn.science/tags/bibliometrix\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bibliometrix</span></a> package to retrieve the data and generate statistics. The created scripts have been published on GitHub in the form of R functions: <a href=\"https://github.com/gnk02/bibliostats/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/gnk02/bibliostats/</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://mstdn.science/tags/university\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>university</span></a> <a href=\"https://mstdn.science/tags/bibliometrics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bibliometrics</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.science/@serhii",
-        "display_name": "Serhii Nazarovets"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/MichelNivard/GPTstudio",
-    "title": "GitHub - MichelNivard/GPTstudio: GPT addins for Rstudio",
-    "latest": "2022-12-25T22:42:47+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@michelnivard/109576716148739581",
-      "content": "<p>Progress on a GPT addin for <a href=\"https://fediscience.org/tags/Rstudio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstudio</span></a> and <a href=\"https://fediscience.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a>. It now does spelling/grammar, adds comments to code, and writes code or text from a prompt. If none of those are precisely what you want, it also has a freeform GPT editor in a shiny app. (used here to translate poetry from French to English but can do code things as well obviously) find the alpha version of the app here: <a href=\"https://github.com/MichelNivard/GPTstudio\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MichelNivard/GPTstu</span><span class=\"invisible\">dio</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@smach",
-        "display_name": "Sharon Machlis"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/smach/1570d42abb30da72ea8993c89c76c882",
-    "title": "gist.github.com/smach/1570d42a...",
-    "latest": "2022-12-25T20:26:07+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@smach/109576189852149212",
-      "content": "<p>Can we see a list of <a href=\"https://fosstodon.org/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> accounts we follow and the list(s) we've added each to?</p><p><span class=\"h-card\"><a href=\"https://mastodon.social/@judell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>judell</span></a></span> answered this with the open source Steampipe platform and SQL: <a href=\"https://blog.jonudell.net/2022/12/22/lists-and-people-on-mastodon/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.jonudell.net/2022/12/22/l</span><span class=\"invisible\">ists-and-people-on-mastodon/</span></a></p><p>It's also possible with R and the {rtoot} \ud83d\udce6 . Code is in this GitHub gist if anyone else is interested:</p><p><a href=\"https://gist.github.com/smach/1570d42abb30da72ea8993c89c76c882\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/smach/1570d42a</span><span class=\"invisible\">bb30da72ea8993c89c76c882</span></a></p><p>You need the dev version of rtoot and to authenticate with a user token for your own account.</p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/rtoot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rtoot</span></a> <a href=\"https://fosstodon.org/tags/SteamPipe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SteamPipe</span></a> <a href=\"https://fosstodon.org/tags/SQL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SQL</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@smach",
-        "display_name": "Sharon Machlis"
       }
     ]
   }

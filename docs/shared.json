@@ -1,64 +1,108 @@
 [
   {
-    "link": "https://bringback.blog/",
-    "title": "Bring Back Blogs! January 2023",
-    "latest": "2023-01-03T20:51:13+00:00",
+    "link": "https://followgraph.vercel.app/",
+    "title": "Followgraph for Mastodon",
+    "latest": "2023-01-04T20:44:28+00:00",
     "last_post": {
-      "url": "https://boffosocko.com/2023/01/03/55813359/",
-      "content": "<p></p><p>A group of people have been posting with the tag <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/feedreaderfriday/\" target=\"_blank\">#FeedReaderFriday</a> with some people and resources for just this sort of effort.&nbsp;</p>\n<p>Given limited instance search, this link may be better: <a href=\"https://mastodon.social/tags/FeedReaderFriday\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://mastodon.social/tags/FeedReaderFriday</a></p>\n<p>I\u2019ve also recently run across: <a href=\"https://bringback.blog/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://bringback.blog/</a></p>\n<p>If you\u2019re repopulating a feed reader, I\u2019ve got a long list in which folks may find some interesting tidbits hiding: <a href=\"https://boffosocko.com/about/following/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/about/following/</a>. Potentially easier if your reader supports OPML.\n</p><p></p><p><a href=\"https://boffosocko.com/2023/01/03/55813359/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/2023/01/03/55813359/</a></p>"
+      "url": "https://infosec.exchange/@darkuncle/109632627438397615",
+      "content": "<p>so FollowGraph has turned out to be *insanely* useful - there's a whole pack of great people I was following on the other site that I somehow had missed after moving here. (h/t <span class=\"h-card\"><a href=\"https://mastodon.social/@mmasnick\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mmasnick</span></a></span> for the recommendation; the app looks at who the people you follow also follow, and bubbles up people that many of them follow that you aren't currently following) <a href=\"https://followgraph.vercel.app/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">followgraph.vercel.app/</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
-        "url": "https://boffosocko.com/author/chrisaldrich/",
-        "display_name": "Chris Aldrich"
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
       },
       {
-        "url": "https://toolsforthought.rocks/@billseitz",
-        "display_name": "Bill Seitz"
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
       },
       {
-        "url": "https://mastodon.social/@Edent",
-        "display_name": "Terence Eden"
+        "url": "https://mas.to/@carnage4life",
+        "display_name": "Dare Obasanjo"
       },
       {
-        "url": "https://mastodon.social/@mrchrisadams",
-        "display_name": "Chris Adams"
+        "url": "https://fediscience.org/@salonium",
+        "display_name": "Saloni \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      },
+      {
+        "url": "https://mas.to/@edmat",
+        "display_name": "Edouard Mathieu"
+      },
+      {
+        "url": "https://sfba.social/@beatty",
+        "display_name": "John Beatty"
       },
       {
         "url": "https://mastodon.social/@johnkellden",
         "display_name": "John Kellden"
       },
       {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
+        "url": "https://sigmoid.social/@maria_antoniak",
+        "display_name": "Maria Antoniak"
       },
       {
-        "url": "https://mastodon.social/@harold",
-        "display_name": "Harold Jarche"
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
       },
       {
-        "url": "https://hachyderm.io/@allafarce",
-        "display_name": "Dave Guarino"
+        "url": "https://chaos.social/@mahibi",
+        "display_name": "mahibi"
+      },
+      {
+        "url": "https://econtwitter.net/@TradingPlacesResearch",
+        "display_name": "Trading Places Research"
+      },
+      {
+        "url": "https://mastodon.social/@ctietze",
+        "display_name": "Christian Tietze"
+      },
+      {
+        "url": "https://jawns.club/@alexhillman",
+        "display_name": "Alex Hillman \u26a1\ufe0f"
+      },
+      {
+        "url": "https://mathstodon.xyz/@ColinTheMathmo",
+        "display_name": "Colin the Mathmo"
+      },
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      },
+      {
+        "url": "https://mathstodon.xyz/@mattmight",
+        "display_name": "Matt Might"
+      },
+      {
+        "url": "https://mastodon.gamedev.place/@helvetica",
+        "display_name": "Zach Gage"
+      },
+      {
+        "url": "https://ecoevo.social/@Eliz_Hobson",
+        "display_name": "Elizabeth Hobson"
+      },
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      },
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
       },
       {
         "url": "https://hci.social/@joelchan86",
         "display_name": "Joel Chan"
       },
       {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
+        "url": "https://mastodon.online/@rosano",
+        "display_name": "Rosano / Strolling podcast"
       },
       {
-        "url": "https://mastodon.social/@danbri",
-        "display_name": "danbri"
+        "url": "https://sciences.social/@conradhackett",
+        "display_name": "Conrad Hackett :verified:"
       },
       {
-        "url": "https://qubit-social.xyz/@AggieBranczyk",
-        "display_name": "Aggie Branczyk \ud83e\udd8b"
-      },
-      {
-        "url": "https://writing.exchange/@bryankam",
-        "display_name": "Bryan Kam"
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
       }
     ]
   },
@@ -268,10 +312,10 @@
   {
     "link": "https://elk.zone/",
     "title": "https://elk.zone/",
-    "latest": "2023-01-04T02:57:06+00:00",
+    "latest": "2023-01-04T20:43:08+00:00",
     "last_post": {
-      "url": "https://jawns.club/@alexhillman/109628688102952490",
-      "content": "<p><a href=\"https://elk.zone\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">elk.zone</span><span class=\"invisible\"></span></a> is a VERY nice browser-based Masto client. Won\u2019t replace Mammoth for me on mobile but might replace my desktop preference which is still just a single site app serving jawns.club</p>"
+      "url": "https://dan.mastohon.com/@danhon/109632879857811910",
+      "content": "<p>Joining the Elk (a web Mastodon client in alpha) is Quite Good, Actually bandwagon: <br><a href=\"https://elk.zone\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">elk.zone</span><span class=\"invisible\"></span></a><br><a href=\"https://dan.mastohon.com/tags/elk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>elk</span></a></p>"
     },
     "people": [
       {
@@ -289,33 +333,10 @@
       {
         "url": "https://jawns.club/@alexhillman",
         "display_name": "Alex Hillman \u26a1\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://theintercept.com/2022/12/30/russia-china-news-media-agreement/",
-    "title": "Hacked Russian Files Reveal Propaganda Agreement With China",
-    "latest": "2023-01-03T18:31:27+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@colinwright/109626699801675022",
-      "content": "<p>Hacked Russian Files Reveal Propaganda Agreement With China <a href=\"https://theintercept.com/2022/12/30/russia-china-news-media-agreement/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">theintercept.com/2022/12/30/ru</span><span class=\"invisible\">ssia-china-news-media-agreement/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://kolektiva.social/@ddosecrets",
-        "display_name": "Distributed Denial of Secrets"
       },
       {
-        "url": "https://infosec.exchange/@briankrebs",
-        "display_name": "BrianKrebs"
-      },
-      {
-        "url": "https://infosec.exchange/@thegrugq",
-        "display_name": "the grugq"
-      },
-      {
-        "url": "https://mastodon.social/@colinwright",
-        "display_name": "Colin Wright"
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
       }
     ]
   },
@@ -401,33 +422,6 @@
     ]
   },
   {
-    "link": "https://web.archive.org/web/20230101194846/https://www.nytimes.com/2022/12/28/opinion/jack-dorseys-twitter-signal-privacy.html",
-    "title": "Opinion | Jack Dorsey and the Dangers of Privacy At All Costs",
-    "latest": "2023-01-03T20:12:32+00:00",
-    "last_post": {
-      "url": "https://mastodon.world/@Mer__edith/109626357357994153",
-      "content": "<p>OK let\u2019s talk about That Op-ed. The one that insisted not only that privacy is dangerous, but that not affirmatively building surveillance into communication tools is a radical ideological position.  </p><p>Dunking on the op-ed\u2019s arguments is easy. They\u2019re SHALLOW. And dunk many have, often with the gentleness of a professor grading a draft essay from a student they didn\u2019t want to completely discourage. I\u2019ll direct you to the great threads from others... 1/</p><p><a href=\"https://web.archive.org/web/20230101194846/https://www.nytimes.com/2022/12/28/opinion/jack-dorseys-twitter-signal-privacy.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">web.archive.org/web/2023010119</span><span class=\"invisible\">4846/https://www.nytimes.com/2022/12/28/opinion/jack-dorseys-twitter-signal-privacy.html</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@kvnweb",
-        "display_name": "Kevin Webb"
-      },
-      {
-        "url": "https://cryptodon.lol/@phil",
-        "display_name": "phil"
-      },
-      {
-        "url": "https://social.skewed.de/@tiago",
-        "display_name": "Tiago Peixoto"
-      },
-      {
-        "url": "https://dair-community.social/@emilymbender",
-        "display_name": "Emily M. Bender (she/her)"
-      }
-    ]
-  },
-  {
     "link": "https://noyb.eu/en/breaking-meta-prohibited-use-personal-data-advertisment",
     "title": "BREAKING: Meta prohibited from use of personal data for advertisment",
     "latest": "2023-01-04T16:09:26+00:00",
@@ -451,29 +445,6 @@
       {
         "url": "https://vis.social/@jhilden",
         "display_name": "Jonatan Hild\u00e9n"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nytimes.com/2022/12/30/opinion/new-york-harbor-clean-water-act.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqYhlSlUYAybSRdkhrxqAwv7C3_ktgWX9aSicUzxF1aEeB4WJ_QLSbLZufZ461CjdRMNENPVnYs1O-dJlHh4nTRi08NzDkY4ZIi4xpMW5VD1s1JuUA_Vk-2awKzTlduo6zbfg7lfYaDG9WaKJ03N1cAl1sNAyIwHRrH8Mx6zBFOdz3cAvnqtyQ8AnGkpTIXWCrPLqCB5hON6ZbBi66gY-WOhRWzq7jsfLovtbM10UUQSaOSs5tWUs69pcOscVPLL8LXMjf8n-gLYQCA94PcyvKmMBXv9Vu1OojbRc8kM&amp;referringSource=articleShare",
-    "title": "Opinion | Once an Open Sewer, New York Harbor Now Teems With Life. Thank the Clean Water Act.",
-    "latest": "2023-01-03T20:05:09+00:00",
-    "last_post": {
-      "url": "https://saturation.social/@clive/109603538760967883",
-      "content": "<p>50 years ago, the harbor of New York City was a sewer, filled with human trash and pollutants </p><p>But congress passed the Clean Water Act and it helped enormously, so \u2026</p><p>\u2026 today wildlife has staged a remarkable comeback, and the water quality is high. They\u2019ve seen humpback whales in the Hudson River one mile from Times Square, and there\u2019s a thousand breeding pairs of heron</p><p>Smart ecological legislation works </p><p>\u201cFriend\u201d link to NYT story: <a href=\"https://www.nytimes.com/2022/12/30/opinion/new-york-harbor-clean-water-act.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqYhlSlUYAybSRdkhrxqAwv7C3_ktgWX9aSicUzxF1aEeB4WJ_QLSbLZufZ461CjdRMNENPVnYs1O-dJlHh4nTRi08NzDkY4ZIi4xpMW5VD1s1JuUA_Vk-2awKzTlduo6zbfg7lfYaDG9WaKJ03N1cAl1sNAyIwHRrH8Mx6zBFOdz3cAvnqtyQ8AnGkpTIXWCrPLqCB5hON6ZbBi66gY-WOhRWzq7jsfLovtbM10UUQSaOSs5tWUs69pcOscVPLL8LXMjf8n-gLYQCA94PcyvKmMBXv9Vu1OojbRc8kM&amp;referringSource=articleShare\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2022/12/30/opinion</span><span class=\"invisible\">/new-york-harbor-clean-water-act.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqYhlSlUYAybSRdkhrxqAwv7C3_ktgWX9aSicUzxF1aEeB4WJ_QLSbLZufZ461CjdRMNENPVnYs1O-dJlHh4nTRi08NzDkY4ZIi4xpMW5VD1s1JuUA_Vk-2awKzTlduo6zbfg7lfYaDG9WaKJ03N1cAl1sNAyIwHRrH8Mx6zBFOdz3cAvnqtyQ8AnGkpTIXWCrPLqCB5hON6ZbBi66gY-WOhRWzq7jsfLovtbM10UUQSaOSs5tWUs69pcOscVPLL8LXMjf8n-gLYQCA94PcyvKmMBXv9Vu1OojbRc8kM&amp;referringSource=articleShare</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://saturation.social/@clive",
-        "display_name": "Clive Thompson"
-      },
-      {
-        "url": "https://xoxo.zone/@lauraehall",
-        "display_name": "Laura E. Hall"
-      },
-      {
-        "url": "https://fediscience.org/@gwagner",
-        "display_name": "Gernot Wagner"
       }
     ]
   },
@@ -662,29 +633,6 @@
     ]
   },
   {
-    "link": "https://mastodon.social/@Gargron/109623891328707089",
-    "title": "Eugen Rochko (@Gargron@mastodon.social)",
-    "latest": "2023-01-03T20:27:49+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@andrey/109627157361843946",
-      "content": "<p>Lead dev / creator of <a href=\"https://sigmoid.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> said quote toots might be coming!</p><p><a href=\"https://mastodon.social/@Gargron/109623891328707089\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@Gargron/10962</span><span class=\"invisible\">3891328707089</span></a></p><p>(see screenshot - would not have to do this if we had quote toots)</p>"
-    },
-    "people": [
-      {
-        "url": "https://macaw.social/@dml",
-        "display_name": "Dave LaMacchia"
-      },
-      {
-        "url": "https://mastodon.online/@hildabast",
-        "display_name": "Hilda Bastian"
-      },
-      {
-        "url": "https://sigmoid.social/@andrey",
-        "display_name": "Andrey Kurenkov"
-      }
-    ]
-  },
-  {
     "link": "https://psychologicalsciences.unimelb.edu.au/chdh/news/we-are-hiring",
     "title": "We are hiring!",
     "latest": "2023-01-04T15:51:21+00:00",
@@ -704,52 +652,6 @@
       {
         "url": "https://sigmoid.social/@jefan",
         "display_name": "Judy Fan"
-      }
-    ]
-  },
-  {
-    "link": "https://buff.ly/3v97hmk",
-    "title": "https://buff.ly/3v97hmk",
-    "latest": "2023-01-03T19:39:24+00:00",
-    "last_post": {
-      "url": "https://mas.to/@ASAPbio/109625662382283991",
-      "content": "<p>Missed <a href=\"https://mas.to/tags/RecognizingPreprintReview\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RecognizingPreprintReview</span></a>? Watch it on the HHMI YouTube channel!<br>The 1st session covers the culture of peer review, the benefits and challenges of <a href=\"https://mas.to/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> review, the value of the reviewer effort, &amp; more! <br><a href=\"https://buff.ly/3v97hmk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buff.ly/3v97hmk</span><span class=\"invisible\"></span></a> <br>All sessions: <a href=\"https://buff.ly/3FCW1TW\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buff.ly/3FCW1TW</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@ASAPbio",
-        "display_name": "ASAPbio"
-      },
-      {
-        "url": "https://mastodon.social/@philipncohen",
-        "display_name": "Philip N Cohen"
-      },
-      {
-        "url": "https://social.cwts.nl/@LudoWaltman",
-        "display_name": "Ludo Waltman"
-      }
-    ]
-  },
-  {
-    "link": "https://buff.ly/3FCW1TW",
-    "title": "https://buff.ly/3FCW1TW",
-    "latest": "2023-01-03T19:39:24+00:00",
-    "last_post": {
-      "url": "https://mas.to/@ASAPbio/109625662382283991",
-      "content": "<p>Missed <a href=\"https://mas.to/tags/RecognizingPreprintReview\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RecognizingPreprintReview</span></a>? Watch it on the HHMI YouTube channel!<br>The 1st session covers the culture of peer review, the benefits and challenges of <a href=\"https://mas.to/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> review, the value of the reviewer effort, &amp; more! <br><a href=\"https://buff.ly/3v97hmk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buff.ly/3v97hmk</span><span class=\"invisible\"></span></a> <br>All sessions: <a href=\"https://buff.ly/3FCW1TW\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buff.ly/3FCW1TW</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@ASAPbio",
-        "display_name": "ASAPbio"
-      },
-      {
-        "url": "https://mastodon.social/@philipncohen",
-        "display_name": "Philip N Cohen"
-      },
-      {
-        "url": "https://social.cwts.nl/@LudoWaltman",
-        "display_name": "Ludo Waltman"
       }
     ]
   },
@@ -1007,6 +909,98 @@
     ]
   },
   {
+    "link": "https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your",
+    "title": "Causal Diagrams: Draw Your Assumptions Before Your Conclusions",
+    "latest": "2023-01-04T18:21:18+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@MiguelHernan/109631680035579553",
+      "content": "<p>Interested in graphs for <a href=\"https://fediscience.org/tags/causalinference\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>causalinference</span></a>? Start the year right by taking our *free* online course \"Draw Your Assumptions Before Your Conclusions\".</p><p>Join the 80,000 people who have already taken the <a href=\"https://fediscience.org/tags/CausalDiagramsCourse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CausalDiagramsCourse</span></a>.</p><p>Registration is open. No math background required. All content is now freely available.</p><p>The course was made possible by April Opoliner and the team at HarvardX. Thanks to edX for making online learning accessible for everybody.</p><p><a href=\"https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">edx.org/course/causal-diagrams</span><span class=\"invisible\">-draw-your-assumptions-before-your</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@ito",
+        "display_name": "Tim Gushue"
+      },
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      },
+      {
+        "url": "https://techpolicy.social/@davidmanheim",
+        "display_name": "David Manheim"
+      }
+    ]
+  },
+  {
+    "link": "https://www.bleepingcomputer.com/news/security/toyota-mercedes-bmw-api-flaws-exposed-owners-personal-info/",
+    "title": "Toyota, Mercedes, BMW API flaws exposed owners\u2019 personal info",
+    "latest": "2023-01-04T18:51:51+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@BleepingComputer/109631791066015240",
+      "content": "<p>Security analysts disclosed severe API security flaws impacting numerous car makers, enabling them to access vehicle owner information, take over accounts, access internal systems, modify records, and track their position.</p><p><a href=\"https://www.bleepingcomputer.com/news/security/toyota-mercedes-bmw-api-flaws-exposed-owners-personal-info/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bleepingcomputer.com/news/secu</span><span class=\"invisible\">rity/toyota-mercedes-bmw-api-flaws-exposed-owners-personal-info/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      },
+      {
+        "url": "https://mastodon.social/@jonkeegan",
+        "display_name": "Jon Keegan"
+      },
+      {
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
+      }
+    ]
+  },
+  {
+    "link": "https://api.joinmastodon.org/statistics",
+    "title": "api.joinmastodon.org/statistic...",
+    "latest": "2023-01-04T19:57:03+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@randomwalker/109632698706086734",
+      "content": "<p>The number of active Mastodon users \u2014 those who've logged in in the last 30 days \u2014 has fallen to 1.8 million from a high of 2.6 million. This reflects the fact that while there's a wave of new users after each Musk tantrum, the majority aren't sticking around. Even the 1.8M figure is inflated by new accounts, so I expect a further drop. </p><p>Still, the number of active users is over 4 times what it used to be before the Twitter takeover.</p><p>Source: <a href=\"https://api.joinmastodon.org/statistics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">api.joinmastodon.org/statistic</span><span class=\"invisible\">s</span></a> (and Wayback machine).</p>"
+    },
+    "people": [
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      },
+      {
+        "url": "https://mastodon.social/@jose_eduardo",
+        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
+      },
+      {
+        "url": "https://mastodon.social/@randomwalker",
+        "display_name": "Arvind Narayanan"
+      }
+    ]
+  },
+  {
+    "link": "https://cyber.harvard.edu/getinvolved/fellowships/2324Fellows",
+    "title": "Open Call for Fellowship Applications, Academic Year 2023-2024",
+    "latest": "2023-01-04T18:24:55+00:00",
+    "last_post": {
+      "url": "https://chaos.social/@senficon/109354541442991374",
+      "content": "<p>Apply for Berkman Klein Fellowship at Harvard by January 9! I benefited greatly from this fellowship. At the time, it was not funded, barring many deserving candidates from considering it. Good to see that this year, it comes with a $75,000 stipend. Hopefully this will help make the programme more equitable. Great opportunity for digital rights scholars &amp; activists. <a href=\"https://cyber.harvard.edu/getinvolved/fellowships/2324Fellows\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cyber.harvard.edu/getinvolved/</span><span class=\"invisible\">fellowships/2324Fellows</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://post.lurk.org/@liza",
+        "display_name": "Liza Daly"
+      },
+      {
+        "url": "https://social.coop/@natematias",
+        "display_name": "J. Nathan Matias \ud83e\udda3"
+      },
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      }
+    ]
+  },
+  {
     "link": "https://apnews.com/article/technology-police-government-surveillance-covid-19-3f3f348d176bc7152a8cb2dbab2e4cc4",
     "title": "Police seize on COVID-19 tech to expand global surveillance",
     "latest": "2023-01-03T23:14:41+00:00",
@@ -1022,6 +1016,25 @@
       {
         "url": "https://mstdn.social/@quinnanya",
         "display_name": "Quinn Dombrowski"
+      }
+    ]
+  },
+  {
+    "link": "https://forms.gle/im7DyrgsS5EDZAt49",
+    "title": "https://forms.gle/im7DyrgsS5EDZAt49",
+    "latest": "2023-01-04T18:19:20+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@thegradient/109632314431409655",
+      "content": "<p>Last day to submit entries to our competition to choose a Mascot for Sigmoid Social!</p><p><a href=\"https://forms.gle/im7DyrgsS5EDZAt49\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">forms.gle/im7DyrgsS5EDZAt49</span><span class=\"invisible\"></span></a></p><p>We have some great entries so far, but there's still room for more! \ud83c\udfa8 </p><p><a href=\"https://sigmoid.social/tags/AIArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AIArt</span></a> <a href=\"https://sigmoid.social/tags/GenArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenArt</span></a> <a href=\"https://sigmoid.social/tags/GenerativeArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeArt</span></a>\u200b</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@thegradient",
+        "display_name": "The Gradient"
+      },
+      {
+        "url": "https://sigmoid.social/@andrey",
+        "display_name": "Andrey Kurenkov"
       }
     ]
   },
@@ -1140,25 +1153,6 @@
     ]
   },
   {
-    "link": "https://www.cbsnews.com/news/elon-musk-twitter-sued-rent-nonpayment-san-francisco-office/",
-    "title": "Twitter sued for nonpayment of over $136,000 in rent on its San Francisco office",
-    "latest": "2023-01-03T20:59:58.085000+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@parismarx/109627217062622737",
-      "content": "<p>elon musk: everyone must come to the office, but don\u2019t expect me to pay for the office <a href=\"https://www.cbsnews.com/news/elon-musk-twitter-sued-rent-nonpayment-san-francisco-office/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cbsnews.com/news/elon-musk-twi</span><span class=\"invisible\">tter-sued-rent-nonpayment-san-francisco-office/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@carnage4life",
-        "display_name": "Dare Obasanjo"
-      },
-      {
-        "url": "https://hachyderm.io/@timpaul",
-        "display_name": "Tim Paul"
-      }
-    ]
-  },
-  {
     "link": "https://tinyurl.com/45bz4tz8",
     "title": "https://tinyurl.com/45bz4tz8",
     "latest": "2023-01-04T10:32:16+00:00",
@@ -1193,25 +1187,6 @@
       {
         "url": "https://econtwitter.net/@m_clem",
         "display_name": "Michael Clemens"
-      }
-    ]
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Inverse_distance_weighting",
-    "title": "Inverse distance weighting - Wikipedia",
-    "latest": "2023-01-03T19:00:06+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@gabrielpeyre/109623792989079344",
-      "content": "<p>Shepard interpolation is a surprisingly simple multi-dimensional interpolation method. It uses singular radial basis functions inversely proportional to the distances to the samples. Nearest neighbor interpolation is the limit case. <a href=\"https://en.wikipedia.org/wiki/Inverse_distance_weighting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Inverse_</span><span class=\"invisible\">distance_weighting</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@Danpiker",
-        "display_name": ""
-      },
-      {
-        "url": "https://sigmoid.social/@ogrisel",
-        "display_name": "Olivier Grisel"
       }
     ]
   },
@@ -1254,59 +1229,21 @@
     ]
   },
   {
-    "link": "https://observablehq.com/@neocartocnrs/map-geojson?collection=@neocartocnrs/geotoolbox",
-    "title": "Map (geojson)",
-    "latest": "2023-01-03T18:16:41+00:00",
+    "link": "https://ourworldindata.org/space-exploration-satellites",
+    "title": "Space Exploration and Satellites",
+    "latest": "2023-01-04T21:02:56+00:00",
     "last_post": {
-      "url": "https://vis.social/@neocarto/109625584439249295",
-      "content": "<p>Iterating on a geoJSON is always a bit tricky. That's why I added the map and filter functions in the geotoolbox library. Easy to use. No complications. See examples below. <br>map: <a href=\"https://observablehq.com/@neocartocnrs/map-geojson?collection=@neocartocnrs/geotoolbox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/map-geojson?collection=@neocartocnrs/geotoolbox</span></a><br>filter: <a href=\"https://observablehq.com/@neocartocnrs/filter-geojson?collection=@neocartocnrs/geotoolbox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/filter-geojson?collection=@neocartocnrs/geotoolbox</span></a><br><a href=\"https://vis.social/tags/JSspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSspatial</span></a></p>"
+      "url": "https://mas.to/@edmat/109626612149642260",
+      "content": "<p>I just updated Our World in Data's chart on the annual number of objects launched into space. </p><p>Last year, close to 2,200 objects were launched in total \u2013&nbsp;1,800 of which by the United States.</p><p>Explore our data on space &amp; satellites: <a href=\"https://ourworldindata.org/space-exploration-satellites\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/space-explo</span><span class=\"invisible\">ration-satellites</span></a></p>"
     },
     "people": [
       {
-        "url": "https://vis.social/@neocarto",
-        "display_name": "Nicolas Lambert \ud83c\udf0f"
+        "url": "https://mas.to/@edmat",
+        "display_name": "Edouard Mathieu"
       },
       {
-        "url": "https://front-end.social/@saneef",
-        "display_name": "Saneef H. Ansari"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@neocartocnrs/filter-geojson?collection=@neocartocnrs/geotoolbox",
-    "title": "observablehq.com/@neocartocnrs...",
-    "latest": "2023-01-03T18:16:41+00:00",
-    "last_post": {
-      "url": "https://vis.social/@neocarto/109625584439249295",
-      "content": "<p>Iterating on a geoJSON is always a bit tricky. That's why I added the map and filter functions in the geotoolbox library. Easy to use. No complications. See examples below. <br>map: <a href=\"https://observablehq.com/@neocartocnrs/map-geojson?collection=@neocartocnrs/geotoolbox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/map-geojson?collection=@neocartocnrs/geotoolbox</span></a><br>filter: <a href=\"https://observablehq.com/@neocartocnrs/filter-geojson?collection=@neocartocnrs/geotoolbox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/filter-geojson?collection=@neocartocnrs/geotoolbox</span></a><br><a href=\"https://vis.social/tags/JSspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSspatial</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@neocarto",
-        "display_name": "Nicolas Lambert \ud83c\udf0f"
-      },
-      {
-        "url": "https://front-end.social/@saneef",
-        "display_name": "Saneef H. Ansari"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hometown-fork/hometown/releases/tag/v4.0.2%2Bhometown-1.1.0",
-    "title": "Release Hometown v1.1.0 (Mastodon 4.0.2) \u00b7 hometown-fork/hometown",
-    "latest": "2023-01-03T18:33:03+00:00",
-    "last_post": {
-      "url": "https://friend.camp/@darius/109626615702163766",
-      "content": "<p>Okay, <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> v1.1.0 is now released!</p><p>Massive release notes here:</p><p><a href=\"https://github.com/hometown-fork/hometown/releases/tag/v4.0.2%2Bhometown-1.1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hometown-fork/homet</span><span class=\"invisible\">own/releases/tag/v4.0.2%2Bhometown-1.1.0</span></a></p><p>Admins, please let me know if you run into trouble on the upgrade. This is a tricky one, mostly due to Mastodon v3 -&gt; v4 stuff. You'll get a lot of mileage searching the Mastodon issues repo for production errors you run into on the upgrade.</p><p>I'll repeat what I said on the release notes: if your installation is customized in any way (sidekiq setup, etc) you NEED to be careful.</p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      },
-      {
-        "url": "https://friend.camp/@aparrish",
-        "display_name": "allison"
+        "url": "https://fediscience.org/@salonium",
+        "display_name": "Saloni \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
       }
     ]
   },
@@ -1349,25 +1286,6 @@
     ]
   },
   {
-    "link": "https://mastodon.world/@Mer__edith/109626357357994153",
-    "title": "Meredith Whittaker (@Mer__edith@mastodon.world)",
-    "latest": "2023-01-03T19:38:15.951000+00:00",
-    "last_post": {
-      "url": "https://mastodon.world/@signalapp/109626426394013324",
-      "content": "<p>About that op-ed (a thread): </p><p><a href=\"https://mastodon.world/@Mer__edith/109626357357994153\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.world/@Mer__edith/109</span><span class=\"invisible\">626357357994153</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://infosec.exchange/@briankrebs",
-        "display_name": "BrianKrebs"
-      },
-      {
-        "url": "https://hachyderm.io/@ChrisShort",
-        "display_name": "Chris \"Not So\" Short \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
     "link": "https://dl.acm.org/doi/abs/10.1145/3567568",
     "title": "dl.acm.org/doi/abs/10.1145/356...",
     "latest": "2023-01-04T05:05:21+00:00",
@@ -1402,6 +1320,25 @@
       {
         "url": "https://social.cwts.nl/@vtraag",
         "display_name": "Vincent Traag"
+      }
+    ]
+  },
+  {
+    "link": "https://restofworld.org/2023/amazon-pakistani-sellers-scammers/",
+    "title": "Amazon finally authorized Pakistani sellers. A wave of scammers followed",
+    "latest": "2023-01-04T18:50:03+00:00",
+    "last_post": {
+      "url": "https://mastodon.world/@fbajak/109632376010892891",
+      "content": "<p>RT @NilChristopher@twitter.com</p><p>NEW: Inside Pakistan's Amazon scam boom, and its ruinous impact on local sellers</p><p>For months, a screwed crop of scamsters outsmarted Amazon, &amp; defrauded customers. When Amazon found out it banned 13000 seller accounts \u2014 @SiddiquiZuha@twitter.com &amp; I report\ud83e\uddf5</p><p><a href=\"https://restofworld.org/2023/amazon-pakistani-sellers-scammers/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">restofworld.org/2023/amazon-pa</span><span class=\"invisible\">kistani-sellers-scammers/</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/NilChristopher/status/1610269576490803201\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/NilChristopher/sta</span><span class=\"invisible\">tus/1610269576490803201</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://restof.social/@restofworld",
+        "display_name": "Rest of World"
+      },
+      {
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
       }
     ]
   },
@@ -1516,25 +1453,6 @@
       {
         "url": "https://mastodon.social/@Colarusso",
         "display_name": "David Colarusso"
-      }
-    ]
-  },
-  {
-    "link": "https://hai-gen.github.io/2023/",
-    "title": "https://hai-gen.github.io/2023/",
-    "latest": "2023-01-03T18:32:07+00:00",
-    "last_post": {
-      "url": "https://hci.social/@jweisz/109625874539679182",
-      "content": "<p>The 4th Workshop on Human-AI Co-creation with Generative Models is happening at IUI 2023 in March. Submit your work by Jan 9! <a href=\"https://hai-gen.github.io/2023/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">hai-gen.github.io/2023/</span><span class=\"invisible\"></span></a> <a href=\"https://hci.social/tags/genai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genai</span></a> <a href=\"https://hci.social/tags/hci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hci</span></a> <a href=\"https://hci.social/tags/creativity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>creativity</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@Riedl",
-        "display_name": "Mark Riedl"
-      },
-      {
-        "url": "https://hci.social/@eglassman",
-        "display_name": "Elena Glassman"
       }
     ]
   },
@@ -1767,6 +1685,25 @@
     ]
   },
   {
+    "link": "https://www.metmuseum.org/art/collection/search/642228",
+    "title": "metmuseum.org/art/collection/s...",
+    "latest": "2023-01-04T20:58:38+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Sardonicus/109630021908340682",
+      "content": "<p>Fragment of a Seljuk box with a combination lock, cast and hammered brass, inlaid with silver and copper. from Iran, Ishafan, 1200-1201</p><p><a href=\"https://www.metmuseum.org/art/collection/search/642228\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">metmuseum.org/art/collection/s</span><span class=\"invisible\">earch/642228</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Sardonicus",
+        "display_name": "Sardonicus"
+      },
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  {
     "link": "https://chaser.com.au/uncategorized/why-the-chaser-is-going-to-put-up-a-paywall/",
     "title": "Why the Chaser is going to put up a paywall",
     "latest": "2023-01-04T10:58:58+00:00",
@@ -1820,6 +1757,25 @@
       {
         "url": "https://med-mastodon.com/@adamjkucharski",
         "display_name": "Adam Kucharski"
+      }
+    ]
+  },
+  {
+    "link": "https://editor.p5js.org/isohedral/sketches/TVz6MGlBJ",
+    "title": "p5.js Web Editor",
+    "latest": "2023-01-04T18:19:37+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@csk/109631397684461331",
+      "content": "<p>Release a collection of particles at random. When a particle intersects another's trail, it bounces off.<a href=\"https://mathstodon.xyz/tags/genuary4\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genuary4</span></a> <a href=\"https://mathstodon.xyz/tags/genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genuary</span></a> Source code at <a href=\"https://editor.p5js.org/isohedral/sketches/TVz6MGlBJ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">editor.p5js.org/isohedral/sket</span><span class=\"invisible\">ches/TVz6MGlBJ</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://chaos.social/@blinry",
+        "display_name": "blinry"
+      },
+      {
+        "url": "https://mathstodon.xyz/@Danpiker",
+        "display_name": ""
       }
     ]
   },
@@ -1900,21 +1856,40 @@
     ]
   },
   {
-    "link": "https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your",
-    "title": "Causal Diagrams: Draw Your Assumptions Before Your Conclusions",
-    "latest": "2023-01-04T16:29:20+00:00",
+    "link": "https://www.washingtonpost.com/technology/2023/01/04/mudge-finds-a-new-job/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_business-technology",
+    "title": "Twitter whistleblower Zatko lands new job at a security consulting firm",
+    "latest": "2023-01-04T18:51:20+00:00",
     "last_post": {
-      "url": "https://fediscience.org/@MiguelHernan/109631680035579553",
-      "content": "<p>Interested in graphs for <a href=\"https://fediscience.org/tags/causalinference\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>causalinference</span></a>? Start the year right by taking our *free* online course \"Draw Your Assumptions Before Your Conclusions\".</p><p>Join the 80,000 people who have already taken the <a href=\"https://fediscience.org/tags/CausalDiagramsCourse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CausalDiagramsCourse</span></a>.</p><p>Registration is open. No math background required. All content is now freely available.</p><p>The course was made possible by April Opoliner and the team at HarvardX. Thanks to edX for making online learning accessible for everybody.</p><p><a href=\"https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">edx.org/course/causal-diagrams</span><span class=\"invisible\">-draw-your-assumptions-before-your</span></a></p>"
+      "url": "https://kolektiva.social/@chadloder/109631956800592985",
+      "content": "<p>\"Loder was banned from Twitter by an order from owner Elon Musk, according to a former employee who saw a screenshot of the notes accompanying the decision.\" <a href=\"https://www.washingtonpost.com/technology/2023/01/04/mudge-finds-a-new-job/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_business-technology\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/technology/</span><span class=\"invisible\">2023/01/04/mudge-finds-a-new-job/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_business-technology</span></a></p>"
     },
     "people": [
       {
-        "url": "https://econtwitter.net/@ito",
-        "display_name": "Tim Gushue"
+        "url": "https://infosec.exchange/@briankrebs",
+        "display_name": "BrianKrebs"
       },
       {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
+      }
+    ]
+  },
+  {
+    "link": "https://ideas.lego.com/projects/a6a24359-d8d3-4276-97a0-3c998deb1206",
+    "title": "This Is Fine",
+    "latest": "2023-01-04T18:19:33+00:00",
+    "last_post": {
+      "url": "https://mastodon.lawprofs.org/@AnnemarieBridy/109630899950789302",
+      "content": "<p>I need this. <a href=\"https://mastodon.lawprofs.org/tags/LEGO\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LEGO</span></a> <a href=\"https://mastodon.lawprofs.org/tags/ThisIsFine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ThisIsFine</span></a></p><p>LEGO IDEAS - This Is Fine <a href=\"https://ideas.lego.com/projects/a6a24359-d8d3-4276-97a0-3c998deb1206\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ideas.lego.com/projects/a6a243</span><span class=\"invisible\">59-d8d3-4276-97a0-3c998deb1206</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@ChrisShort",
+        "display_name": "Chris \"Not So\" Short \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
       }
     ]
   },
@@ -1934,6 +1909,44 @@
       {
         "url": "https://fosstodon.org/@danielskatz",
         "display_name": "Daniel S. Katz"
+      }
+    ]
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=QDdOoYdb748",
+    "title": "Lattice-based cryptography: The tricky math of dots",
+    "latest": "2023-01-04T18:23:44+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@kelseyahe/109632331759560088",
+      "content": "<p>Lattices are simple looking patterns of dots. But lattice problems are really hard. They could be the basis for post-quantum cryptography.</p><p>More details in a new video<br><a href=\"https://www.youtube.com/watch?v=QDdOoYdb748\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=QDdOoYdb74</span><span class=\"invisible\">8</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@adamwulf",
+        "display_name": "Adam Wulf"
+      },
+      {
+        "url": "https://mathstodon.xyz/@kelseyahe",
+        "display_name": "Kelsey Houston-Edwards"
+      }
+    ]
+  },
+  {
+    "link": "https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.5.3.63",
+    "title": "AEA Web - American Economic Journal: Applied Economics - 5(3):63 - Abstract",
+    "latest": "2023-01-04T18:44:32+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@seema_econ/109632413531470002",
+      "content": "<p>Does anyone know of a paper that constructs an h-index variant that adjusts for the productivity of coauthors? </p><p>Glenn Ellison, in his paper, adjusts for # of coauthors, but not their fixed effect/citation impact without you</p><p><a href=\"https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.5.3.63\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pubs.aeaweb.org/doi/pdfplus/10</span><span class=\"invisible\">.1257/app.5.3.63</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@ckrafftc",
+        "display_name": "Caroline Krafft"
+      },
+      {
+        "url": "https://econtwitter.net/@seema_econ",
+        "display_name": "Seema Jayachandran :verified:"
       }
     ]
   }
