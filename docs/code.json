@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://observablehq.com/collection/@cartographie/cours",
+    "title": "Cours",
+    "latest": "2023-01-04T09:00:05+00:00",
+    "last_post": {
+      "url": "https://vis.social/@neocarto/109630115382471579",
+      "content": "<p>Projection, generalization, discretizations... Find here some resources (in French), used in the 1st semester for teaching cartography at the university with <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> Everything is freely available. Feel free to use it, fork and modify it if needed. <a href=\"https://observablehq.com/collection/@cartographie/cours\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/collection/@c</span><span class=\"invisible\">artographie/cours</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@neocarto",
+        "display_name": "Nicolas Lambert \ud83c\udf0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/v3ga/dessins_geometriques_et_artistiques",
+    "title": "GitHub - v3ga/dessins_geometriques_et_artistiques",
+    "latest": "2023-01-04T08:15:49+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@golan/109629941333417577",
+      "content": "<p>This is lovely and generous work.</p><p>RT @v3ga@twitter.com</p><p>Recently I\u2019ve been working on recoding the programs of the book \"Dessins g\u00e9om\u00e9triques et artistiques avec votre micro-ordinateur\" with <a href=\"https://mstdn.social/tags/p5js\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>p5js</span></a>. Around 250 sketches were recoded using a tiny custom js lib. </p><p>\ud83d\udc49 <a href=\"https://github.com/v3ga/dessins_geometriques_et_artistiques\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/v3ga/dessins_geomet</span><span class=\"invisible\">riques_et_artistiques</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/v3ga/status/1610314241088671744\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/v3ga/status/161031</span><span class=\"invisible\">4241088671744</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@fil",
+        "display_name": "Fil"
+      },
+      {
+        "url": "https://mstdn.social/@golan",
+        "display_name": "Golan Levin"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/cutiful/4f36da3ed37b24f9a7106064393f5e7f",
+    "title": "Detecting the real IP of a Cloudflare'd Mastodon instance",
+    "latest": "2023-01-04T07:26:46+00:00",
+    "last_post": {
+      "url": "https://puddle.town/@null/109629335585309558",
+      "content": "<p>It's trivial to determine the real IP of a Mastodon server behind Cloudflare. All it takes is one well-crafted request:</p><p><a href=\"https://gist.github.com/cutiful/4f36da3ed37b24f9a7106064393f5e7f\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/cutiful/4f36da</span><span class=\"invisible\">3ed37b24f9a7106064393f5e7f</span></a></p><p>I wonder how many instance admins using Cloudflare know about this? My hunch is most do not, because the primary justification I see for using Cloudflare here is DDoS protection.</p><p>Cloudflare won't help if the attacker knows your origin IP, and you can't hide that with Cloudflare alone, due to the nature of ActivityPub.</p><p><a href=\"https://puddle.town/tags/MastoAdmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoAdmin</span></a> <a href=\"https://puddle.town/tags/InfoSec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>InfoSec</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@thegrugq",
+        "display_name": "the grugq"
+      }
+    ]
+  },
+  {
     "link": "https://gist.github.com/jackrusher/6722751",
     "title": "gist.github.com/jackrusher/672...",
     "latest": "2023-01-04T05:03:05+00:00",
@@ -131,21 +180,6 @@
       {
         "url": "https://social.cwts.nl/@vtraag",
         "display_name": "Vincent Traag"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/v3ga/dessins_geometriques_et_artistiques",
-    "title": "GitHub - v3ga/dessins_geometriques_et_artistiques",
-    "latest": "2023-01-03T21:23:06+00:00",
-    "last_post": {
-      "url": "https://genart.social/@v3ga/109627350911734003",
-      "content": "<p>Recently I\u2019ve been working on recoding the programs of the book \"Dessins g\u00e9om\u00e9triques et artistiques avec votre micro-ordinateur\" written by French mathematician Jean-Paul Delahaye (1985). Around 250 sketches were recoded using a tiny custom js lib. and using <a href=\"https://genart.social/tags/p5js\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>p5js</span></a> </p><p>\ud83d\udc49 <a href=\"https://github.com/v3ga/dessins_geometriques_et_artistiques\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/v3ga/dessins_geomet</span><span class=\"invisible\">riques_et_artistiques</span></a></p><p>The book covers a wide range of topics including polygons, fractals, grids, data manipulation and also 3D rendering with hidden lines removal (totally great).</p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@fil",
-        "display_name": "Fil"
       }
     ]
   },
@@ -3126,36 +3160,6 @@
       {
         "url": "https://cyberplace.social/@GossiTheDog",
         "display_name": "Kevin Beaumont"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/chubin/wttr.in",
-    "title": "https://github.com/chubin/wttr.in",
-    "latest": "2022-12-24T12:22:59+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jmcastagnetto/109566500449675349",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@hrbrmstr\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hrbrmstr</span></a></span> <br>Your last drop (<a href=\"https://dailyfinds.hrbrmstr.dev/p/drop-164-2022-12-23-twelve-days-of\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dailyfinds.hrbrmstr.dev/p/drop</span><span class=\"invisible\">-164-2022-12-23-twelve-days-of</span></a>) is very nice, with lots of <a href=\"https://mastodon.social/tags/weather\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>weather</span></a> apps. Although it is missing my fav wttr.in (<a href=\"https://github.com/chubin/wttr.in\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/chubin/wttr.in</span><span class=\"invisible\"></span></a>), which can easily be used at the command line.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sethmlarson/pypi-data/releases/tag/2022.12.23",
-    "title": "Release 2022-12-23 \u00b7 sethmlarson/pypi-data",
-    "latest": "2022-12-24T08:56:36+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@sethmlarson/109566240641104901",
-      "content": "<p>:python:\ud83d\udce6 New <a href=\"https://fosstodon.org/tags/dataset\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataset</span></a> of <a href=\"https://fosstodon.org/tags/PythonPackaging\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PythonPackaging</span></a> data right before Christmas! This one has data on over 400K <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> packages and 180K maintainers of those packages.</p><p>\ud83d\udc49  <a href=\"https://github.com/sethmlarson/pypi-data/releases/tag/2022.12.23\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sethmlarson/pypi-da</span><span class=\"invisible\">ta/releases/tag/2022.12.23</span></a></p><p>If you've never seen this project, it's a snapshot in time for most packages on <a href=\"https://fosstodon.org/tags/PyPI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyPI</span></a> with data about the package, maintainers, dependencies, URLs, <a href=\"https://fosstodon.org/tags/OpenSSF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSSF</span></a> scorecard data, and more! You can query it via <a href=\"https://fosstodon.org/tags/Datasette\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Datasette</span></a> or <a href=\"https://fosstodon.org/tags/SQLite\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SQLite</span></a>.</p><p>Check it out here: <a href=\"https://github.com/sethmlarson/pypi-data\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sethmlarson/pypi-da</span><span class=\"invisible\">ta</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hugovk",
-        "display_name": "hugovk"
       }
     ]
   }
