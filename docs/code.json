@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.com/adamkucharski/scrapR",
+    "title": "GitHub - adamkucharski/scrapR: Extract raw underlying data from PDF figures",
+    "latest": "2023-01-04T13:36:44+00:00",
+    "last_post": {
+      "url": "https://med-mastodon.com/@adamjkucharski/109631203192461407",
+      "content": "<p>Want to extract underlying data from a PDF figure, without the loss of information that comes from manual tracing tools?</p><p>Have been refining scrapR, which extracts the underlying vector geometry, to hopefully make process smoother: <a href=\"https://github.com/adamkucharski/scrapR\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/adamkucharski/scrap</span><span class=\"invisible\">R</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://med-mastodon.com/@adamjkucharski",
+        "display_name": "Adam Kucharski"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/v3ga/dessins_geometriques_et_artistiques",
     "title": "GitHub - v3ga/dessins_geometriques_et_artistiques",
     "latest": "2023-01-04T11:10:16+00:00",
@@ -3149,21 +3164,6 @@
       {
         "url": "https://vis.social/@observablehq",
         "display_name": ""
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/GT-RIPL/Awesome-LLM-Robotics",
-    "title": "GitHub - GT-RIPL/Awesome-LLM-Robotics: A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
-    "latest": "2022-12-24T15:50:58+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@evolvingstuff/109569445614920408",
-      "content": "<p>A nice curated list of papers involving LLMs/robotics/RL/planning:</p><p><a href=\"https://github.com/GT-RIPL/Awesome-LLM-Robotics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/GT-RIPL/Awesome-LLM</span><span class=\"invisible\">-Robotics</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@evolvingstuff",
-        "display_name": "evolvingstuff"
       }
     ]
   }
