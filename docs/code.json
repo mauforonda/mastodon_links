@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://gist.github.com/jackrusher/6722751",
+    "title": "gist.github.com/jackrusher/672...",
+    "latest": "2023-01-04T05:03:05+00:00",
+    "last_post": {
+      "url": "https://berlin.social/@jack/109626697921333639",
+      "content": "<p>Hooked up a custom Streamdeck interface to manipulate the Superformula, which is Johan Gielis' generalization of Piet Hein's superellipse.</p><p>Details:<br><a href=\"https://en.m.wikipedia.org/wiki/Superformula\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.m.wikipedia.org/wiki/Superf</span><span class=\"invisible\">ormula</span></a><br>... and a gist showing how to calculate it in Clojure:<br><a href=\"https://gist.github.com/jackrusher/6722751\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/jackrusher/672</span><span class=\"invisible\">2751</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://pkm.social/@just_be",
+        "display_name": "Justin"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/go-gitea/gitea/issues/18240",
+    "title": "Gitea2Gitea Federation State \u00b7 Issue #18240 \u00b7 go-gitea/gitea",
+    "latest": "2023-01-04T04:55:36+00:00",
+    "last_post": {
+      "url": "https://social.bitfolk.com/@grifferz/109629122486453772",
+      "content": "<p>Interested to read there are efforts to federate bug trackers so that</p><p>- they can be decentralised;<br>- you could report and comment on bugs between multiple projects without having to do it in X different ways;<br>- you don't have to maintain X different identities (username/pass/MFA) to do so, </p><p>etc.</p><p><a href=\"https://social.bitfolk.com/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> <a href=\"https://social.bitfolk.com/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> </p><p><a href=\"https://github.com/go-gitea/gitea/issues/18240\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/go-gitea/gitea/issu</span><span class=\"invisible\">es/18240</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/anticomputer/ovpn-mode/",
+    "title": "GitHub - anticomputer/ovpn-mode: OpenVPN management mode for Emacs",
+    "latest": "2023-01-04T03:19:12+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109628774991532288",
+      "content": "<p>K next on the \"rid myself of overcomplicated crypto\" list is rewriting my old openvpn namespace management mode to support wireguard ... I wrote <a href=\"https://github.com/anticomputer/ovpn-mode/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anticomputer/ovpn-m</span><span class=\"invisible\">ode/</span></a> to be able to spawn processes inside namespaced openvpn connections from Emacs and I depend on it quite heavily for segmenting certain kinds of application traffic ... *cough* rtorrent *cough* ... I used to also depend on it for stuff like \"only THIS browser process can talk to work services\" so its pretty handy but quite stale</p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/anticomputer/passage.el",
     "title": "GitHub - anticomputer/passage.el: Emacs support for passage: an age encryption based port of the standard unix password manager",
     "latest": "2023-01-04T02:21:46+00:00",
@@ -3102,21 +3147,6 @@
   {
     "link": "https://github.com/sethmlarson/pypi-data/releases/tag/2022.12.23",
     "title": "Release 2022-12-23 \u00b7 sethmlarson/pypi-data",
-    "latest": "2022-12-24T08:56:36+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@sethmlarson/109566240641104901",
-      "content": "<p>:python:\ud83d\udce6 New <a href=\"https://fosstodon.org/tags/dataset\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataset</span></a> of <a href=\"https://fosstodon.org/tags/PythonPackaging\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PythonPackaging</span></a> data right before Christmas! This one has data on over 400K <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> packages and 180K maintainers of those packages.</p><p>\ud83d\udc49  <a href=\"https://github.com/sethmlarson/pypi-data/releases/tag/2022.12.23\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sethmlarson/pypi-da</span><span class=\"invisible\">ta/releases/tag/2022.12.23</span></a></p><p>If you've never seen this project, it's a snapshot in time for most packages on <a href=\"https://fosstodon.org/tags/PyPI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyPI</span></a> with data about the package, maintainers, dependencies, URLs, <a href=\"https://fosstodon.org/tags/OpenSSF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSSF</span></a> scorecard data, and more! You can query it via <a href=\"https://fosstodon.org/tags/Datasette\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Datasette</span></a> or <a href=\"https://fosstodon.org/tags/SQLite\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SQLite</span></a>.</p><p>Check it out here: <a href=\"https://github.com/sethmlarson/pypi-data\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sethmlarson/pypi-da</span><span class=\"invisible\">ta</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hugovk",
-        "display_name": "hugovk"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sethmlarson/pypi-data",
-    "title": "github.com/sethmlarson/pypi-da...",
     "latest": "2022-12-24T08:56:36+00:00",
     "last_post": {
       "url": "https://fosstodon.org/@sethmlarson/109566240641104901",

@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://arxiv.org/abs/2212.09255",
+    "title": "Multi hash embeddings in spaCy",
+    "latest": "2023-01-04T05:41:31+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@ljvmiranda/109546178347685247",
+      "content": "<p>One of <span class=\"h-card\"><a href=\"https://sigmoid.social/@explosion\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>explosion</span></a></span> spaCy's unusual features is its strategy to embed lexical items. Instead of using standard embeddings, we use a hashing trick.<br> <br>We wrote a technical report that benchmarks this process on various NER datasets in different scenarios (1/4)</p><p>You can read the full paper here: <a href=\"https://arxiv.org/abs/2212.09255\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.09255</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://universeodon.com/@pchiusano",
+        "display_name": "Paul Chiusano"
+      }
+    ]
+  },
+  {
+    "link": "https://dl.acm.org/doi/abs/10.1145/3567568",
+    "title": "dl.acm.org/doi/abs/10.1145/356...",
+    "latest": "2023-01-04T05:05:21+00:00",
+    "last_post": {
+      "url": "https://hci.social/@skairam/109626427246792159",
+      "content": "<p>I wanted to share this upcoming paper with <span class=\"h-card\"><a href=\"https://hci.social/@josephseering\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>josephseering</span></a></span>, which will be appearing at ACM GROUP 2023 next week. </p><p>It explores the question of what \"moderating an online community\" actually means to moderators on Twitch, in terms of how and why they become moderators, what roles they play within the community, and what tasks they typically perform.</p><p><a href=\"https://dl.acm.org/doi/abs/10.1145/3567568\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/abs/10.1145/356</span><span class=\"invisible\">7568</span></a></p><p>If you're still reading things on Twitter, check out this explainer thread: <a href=\"https://twitter.com/skairam/status/1610322604694581250\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/skairam/status/161</span><span class=\"invisible\">0322604694581250</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@skairam",
+        "display_name": "Sanjay Kairam"
+      },
+      {
+        "url": "https://hci.social/@andresmh",
+        "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2212.09689",
     "title": "Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor",
     "latest": "2023-01-04T02:35:46+00:00",
@@ -215,21 +249,6 @@
       {
         "url": "https://mastodon.social/@philipncohen",
         "display_name": "Philip N Cohen"
-      }
-    ]
-  },
-  {
-    "link": "https://dl.acm.org/doi/abs/10.1145/3567568",
-    "title": "dl.acm.org/doi/abs/10.1145/356...",
-    "latest": "2023-01-03T17:22:09+00:00",
-    "last_post": {
-      "url": "https://hci.social/@skairam/109626427246792159",
-      "content": "<p>I wanted to share this upcoming paper with <span class=\"h-card\"><a href=\"https://hci.social/@josephseering\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>josephseering</span></a></span>, which will be appearing at ACM GROUP 2023 next week. </p><p>It explores the question of what \"moderating an online community\" actually means to moderators on Twitch, in terms of how and why they become moderators, what roles they play within the community, and what tasks they typically perform.</p><p><a href=\"https://dl.acm.org/doi/abs/10.1145/3567568\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/abs/10.1145/356</span><span class=\"invisible\">7568</span></a></p><p>If you're still reading things on Twitter, check out this explainer thread: <a href=\"https://twitter.com/skairam/status/1610322604694581250\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/skairam/status/161</span><span class=\"invisible\">0322604694581250</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hci.social/@skairam",
-        "display_name": "Sanjay Kairam"
       }
     ]
   },
