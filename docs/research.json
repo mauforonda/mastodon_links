@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.nature.com/articles/d41586-022-04505-7",
+    "title": "The \u2018breakthrough\u2019 obesity drugs that have stunned researchers",
+    "latest": "2023-01-05T08:23:18+00:00",
+    "last_post": {
+      "url": "https://genomic.social/@ewanbirney/109635633039635399",
+      "content": "<p>RT @RogerHighfield@twitter.com</p><p>The \u2018breakthrough\u2019 obesity drugs that have stunned researchers. The new drugs mimic hormones known as incretins, which lower blood sugar and curb appetite. <a href=\"https://www.nature.com/articles/d41586-022-04505-7\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-022</span><span class=\"invisible\">-04505-7</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/RogerHighfield/status/1610912295017668608\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/RogerHighfield/sta</span><span class=\"invisible\">tus/1610912295017668608</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://genomic.social/@ewanbirney",
+        "display_name": "Ewan Birney"
+      }
+    ]
+  },
+  {
     "link": "http://arxiv.org/abs/2301.01343",
     "title": "http://arxiv.org/abs/2301.01343",
     "latest": "2023-01-05T05:26:42+00:00",
@@ -3137,21 +3152,6 @@
       {
         "url": "https://dair-community.social/@emilymbender",
         "display_name": "Emily M. Bender (she/her)"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2212.09835",
-    "title": "A non-constructive proof of the Four Colour Theorem",
-    "latest": "2022-12-24T19:33:43+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@johncarlosbaez/109562730582311252",
-      "content": "<p>This new claimed proof of the 4-color theorem is short, interesting, but problematic:</p><p><a href=\"https://arxiv.org/abs/2212.09835\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.09835</span><span class=\"invisible\"></span></a></p><p>The basic strategy is simple, as explained by <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@highergeometer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>highergeometer</span></a></span>:</p><p>\"given a map L that isn't 4-colourable, then all but an exponentially small (in # edges) proportion of graphs are not 4-colourable, because they contain L.  But the proportion of 4-colourable graphs has a lower bound proportional to # edges.\"</p><p>But there may be problems.  Maybe you can help with a really simple one!</p><p>(1/n)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@michael_nielsen",
-        "display_name": "Michael Nielsen"
       }
     ]
   }
