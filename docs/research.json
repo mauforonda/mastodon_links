@@ -1,5 +1,43 @@
 [
   {
+    "link": "https://arxiv.org/pdf/2212.13138.pdf",
+    "title": "https://arxiv.org/pdf/2212.13138.pdf",
+    "latest": "2023-01-05T13:44:04+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@culurciello/109636894336416577",
+      "content": "<p>A large-language-model <a href=\"https://sigmoid.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> <a href=\"https://sigmoid.social/tags/neuralnetwors\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuralnetwors</span></a> for the medical field:<br><a href=\"https://arxiv.org/pdf/2212.13138.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2212.13138.pdf</span><span class=\"invisible\"></span></a> <br>Interesting concepts to note are:<br>Few-shot prompting<br>Self-consistency<br><a href=\"https://sigmoid.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://sigmoid.social/tags/deeplearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deeplearning</span></a> <a href=\"https://sigmoid.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> <a href=\"https://sigmoid.social/tags/medical\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>medical</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@culurciello",
+        "display_name": "Eugenio Culurciello"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-022-05543-x",
+    "title": "Papers and patents are becoming less disruptive over time - Nature",
+    "latest": "2023-01-05T13:06:14+00:00",
+    "last_post": {
+      "url": "https://social.skewed.de/@tiago/109636087748407646",
+      "content": "<p>Taking a closer look at this paper, I really dislike it.</p><p><a href=\"https://www.nature.com/articles/s41586-022-05543-x\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41586-022</span><span class=\"invisible\">-05543-x</span></a></p><p>It's clear that newer papers *must* have a lower \u201cdisruption\u201d score than older ones under a null model \u2014 they even confirm this in the supplemental material with a randomization test. It's an artifact of their definition.</p><p>When comparing with the null model they compute only the z-score, getting values at most 4 or so. It's also besides the point \u2014 as usual, small meaningless deviations from the null model can be statistically \u201csignificant.\u201d Effect size \u2260 statistical significance.</p><p>Finally, according to their definition, review papers would be \u201cdisruptive\u201d because they funnel a bunch of citations. And a paper that does not cite anyone but is universally cited would not be \u201cdisruptive\u201d. \ud83e\udd37</p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span> <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> <br><a href=\"https://social.skewed.de/tags/networkscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>networkscience</span></a> <a href=\"https://social.skewed.de/tags/networks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>networks</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@kordinglab",
+        "display_name": "Konrad Kording"
+      },
+      {
+        "url": "https://social.skewed.de/@tiago",
+        "display_name": "Tiago Peixoto"
+      },
+      {
+        "url": "https://fediscience.org/@aaronclauset",
+        "display_name": "Aaron Clauset"
+      }
+    ]
+  },
+  {
     "link": "https://osf.io/d6sk4/",
     "title": "https://osf.io/d6sk4/",
     "latest": "2023-01-05T11:32:17+00:00",
@@ -94,25 +132,6 @@
       {
         "url": "https://mas.to/@carnage4life",
         "display_name": "Dare Obasanjo"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-022-05543-x",
-    "title": "Papers and patents are becoming less disruptive over time - Nature",
-    "latest": "2023-01-05T10:18:56+00:00",
-    "last_post": {
-      "url": "https://social.skewed.de/@tiago/109636087748407646",
-      "content": "<p>Taking a closer look at this paper, I really dislike it.</p><p><a href=\"https://www.nature.com/articles/s41586-022-05543-x\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41586-022</span><span class=\"invisible\">-05543-x</span></a></p><p>It's clear that newer papers *must* have a lower \u201cdisruption\u201d score than older ones under a null model \u2014 they even confirm this in the supplemental material with a randomization test. It's an artifact of their definition.</p><p>When comparing with the null model they compute only the z-score, getting values at most 4 or so. It's also besides the point \u2014 as usual, small meaningless deviations from the null model can be statistically \u201csignificant.\u201d Effect size \u2260 statistical significance.</p><p>Finally, according to their definition, review papers would be \u201cdisruptive\u201d because they funnel a bunch of citations. And a paper that does not cite anyone but is universally cited would not be \u201cdisruptive\u201d. \ud83e\udd37</p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span> <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> <br><a href=\"https://social.skewed.de/tags/networkscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>networkscience</span></a> <a href=\"https://social.skewed.de/tags/networks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>networks</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@kordinglab",
-        "display_name": "Konrad Kording"
-      },
-      {
-        "url": "https://social.skewed.de/@tiago",
-        "display_name": "Tiago Peixoto"
       }
     ]
   },
@@ -3153,21 +3172,6 @@
       {
         "url": "https://sigmoid.social/@aran",
         "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://royalsocietypublishing.org/doi/full/10.1098/rsos.220099",
-    "title": "royalsocietypublishing.org/doi...",
-    "latest": "2022-12-25T23:19:10+00:00",
-    "last_post": {
-      "url": "https://social.skewed.de/@tiago/109576870327894385",
-      "content": "<p>RT @SteveStuWill@twitter.com</p><p>\"Psychological science is on an extraordinary winning streak. A review of the literature shows that nearly all study hypotheses are supported. This means that either all the theories are correct, or the literature is biased towards positive findings...\" <a href=\"https://royalsocietypublishing.org/doi/full/10.1098/rsos.220099\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">royalsocietypublishing.org/doi</span><span class=\"invisible\">/full/10.1098/rsos.220099</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/SteveStuWill/status/1605956336323244033\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/SteveStuWill/statu</span><span class=\"invisible\">s/1605956336323244033</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.skewed.de/@tiago",
-        "display_name": "Tiago Peixoto"
       }
     ]
   }

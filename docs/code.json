@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://github.com/adhocteam/pushup",
+    "title": "GitHub - adhocteam/pushup: Pushup is for making modern, page-oriented web apps in Go",
+    "latest": "2023-01-05T15:07:32+00:00",
+    "last_post": {
+      "url": "https://changelog.social/@gotime/109637167800017809",
+      "content": "<p>A page-oriented web framework for Go: <a href=\"https://github.com/adhocteam/pushup\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/adhocteam/pushup</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@llimllib",
+        "display_name": "llimllib"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hodgesmr/mastodon_digest",
+    "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
+    "latest": "2023-01-05T12:31:59+00:00",
+    "last_post": {
+      "url": "https://ruhr.social/@x1l3f/109636422092122808",
+      "content": "<p><span class=\"h-card\"><a href=\"https://ecoevo.social/@ryneches\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ryneches</span></a></span> <span class=\"h-card\"><a href=\"https://econtwitter.net/@fetzert\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fetzert</span></a></span> <span class=\"h-card\"><a href=\"https://fediscience.org/@wolfgangcramer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>wolfgangcramer</span></a></span> <span class=\"h-card\"><a href=\"https://neuromatch.social/@LeonDLotter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>LeonDLotter</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/phdstudents\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>phdstudents</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/neuroscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>neuroscience</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/cognition\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cognition</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@talkpython\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>talkpython</span></a></span> <br>Also, have a look at this <a href=\"https://ruhr.social/tags/algorithm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>algorithm</span></a> project - still under development:</p><p><a href=\"https://mastodon.social/@MattHodges/109451111674479285\u200b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@MattHodges/10</span><span class=\"invisible\">9451111674479285\u200b</span></a></p><p><a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a></p><p>Next step should be an easy way to use it for the masses.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@samim",
+        "display_name": "samim"
+      },
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      },
+      {
+        "url": "https://mstdn.science/@contaminatedsci",
+        "display_name": "Tami Lieberman"
+      },
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      },
+      {
+        "url": "https://econtwitter.net/@fetzert",
+        "display_name": "Thiemo Fetzer"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/NeuromatchAcademy/mastodon/blob/a209c1b0b43760a3915263d3e57c8140f0849acd/app/javascript/flavours/glitch/actions/statuses.js#L230-L257",
     "title": "mastodon/statuses.js at a209c1b0b43760a3915263d3e57c8140f0849acd \u00b7 NeuromatchAcademy/mastodon",
     "latest": "2023-01-05T10:41:21+00:00",
@@ -335,21 +385,6 @@
       {
         "url": "https://sigmoid.social/@ogrisel",
         "display_name": "Olivier Grisel"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/adhocteam/pushup",
-    "title": "GitHub - adhocteam/pushup: Pushup is for making modern, page-oriented web apps in Go",
-    "latest": "2023-01-04T16:01:50+00:00",
-    "last_post": {
-      "url": "https://vis.social/@llimllib/109631773789259376",
-      "content": "<p>My boss and friend <span class=\"h-card\"><a href=\"https://hachyderm.io/@paulsmith\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>paulsmith</span></a></span> has done some hacking on a new way to build web apps in go. He wanted to experiment with bringing a PHP sort of development experience to a compiled lang, while retaining the benefits of go, and <a href=\"https://github.com/adhocteam/pushup\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/adhocteam/pushup</span><span class=\"invisible\"></span></a> is his go at it!</p><p>I love the idea and the aesthetic, and will be looking for some small projects to write with it.</p><p>He made a demo video here: <a href=\"https://www.youtube-nocookie.com/embed/nkyiATkZ4Js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube-nocookie.com/embed/nky</span><span class=\"invisible\">iATkZ4Js</span></a></p><p><a href=\"https://vis.social/tags/golang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>golang</span></a> <a href=\"https://vis.social/tags/pushup\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pushup</span></a> <a href=\"https://vis.social/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a> <a href=\"https://vis.social/tags/foss\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>foss</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@llimllib",
-        "display_name": "llimllib"
       }
     ]
   },
@@ -1080,37 +1115,6 @@
       {
         "url": "https://mastodon.social/@ctietze",
         "display_name": "Christian Tietze"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hodgesmr/mastodon_digest",
-    "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
-    "latest": "2023-01-02T21:02:31+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@acowley/109621620707219357",
-      "content": "<p>Here's a neat thing: an algorithmically-generated <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> daily digest <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a> by <span class=\"h-card\"><a href=\"https://mastodon.social/@MattHodges\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MattHodges</span></a></span>. I've packaged it as a <a href=\"https://mastodon.social/tags/nix\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nix</span></a> flake <a href=\"https://github.com/acowley/mastodon_digest/tree/nix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/acowley/mastodon_di</span><span class=\"invisible\">gest/tree/nix</span></a>, so that if you are in a directory with a `.env` file in it (following the README instructions), you can do,</p><p>`nix run github:acowley/mastodon_digest/nix -- -o $PWD`</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@samim",
-        "display_name": "samim"
-      },
-      {
-        "url": "https://econtwitter.net/@paulgp",
-        "display_name": "Paul Goldsmith-Pinkham"
-      },
-      {
-        "url": "https://mastodon.social/@Cmastication",
-        "display_name": "JD Long \u2705"
-      },
-      {
-        "url": "https://mstdn.science/@contaminatedsci",
-        "display_name": "Tami Lieberman"
-      },
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
       }
     ]
   },
