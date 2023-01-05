@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://arxiv.org/abs/2301.01320",
+    "title": "Towards Deployable RL - What's Broken with RL Research and a Potential Fix",
+    "latest": "2023-01-05T02:13:18+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@gershbrain/109634178132984330",
+      "content": "<p>Interesting perspective on \"deployable reinforcement learning\":<br><a href=\"https://arxiv.org/abs/2301.01320\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.01320</span><span class=\"invisible\"></span></a><br>The authors suggest that there should be \"weight classes\" based on available compute. This struck me as unintuitive. Don't we want to just know the correct/best result regardless of compute? They seem to be implying that a lot of compute can somehow produce spurious results (make bad algorithms look good), but I'm not sure I understand why.</p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@gershbrain",
+        "display_name": "Sam Gershman"
+      }
+    ]
+  },
+  {
     "link": "https://www.nature.com/articles/s41586-022-05543-x",
     "title": "Papers and patents are becoming less disruptive over time - Nature",
     "latest": "2023-01-05T00:24:15+00:00",
@@ -3133,21 +3148,6 @@
       {
         "url": "https://sigmoid.social/@TedUnderwood",
         "display_name": "Ted Underwood"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2210.14213",
-    "title": "Deep orbital search for additional planets in the HR 8799 system",
-    "latest": "2022-12-24T11:39:12+00:00",
-    "last_post": {
-      "url": "https://astrodon.social/@astrogsw/109568237342212231",
-      "content": "<p>RT @coreyspowell@twitter.com</p><p>This is a real time-lapse video of planets orbiting the star HR 8799, 133 light years away: four super-Jupiter worlds dancing around their sun. Amazing!<br>Images collected at the Keck Observatory, processed by William Thompson (@AstroWrt@twitter.com). <a href=\"https://arxiv.org/abs/2210.14213\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2210.14213</span><span class=\"invisible\"></span></a> <a href=\"https://astrodon.social/tags/astronomy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>astronomy</span></a> <a href=\"https://astrodon.social/tags/space\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>space</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/coreyspowell/status/1606437805948911616\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/coreyspowell/statu</span><span class=\"invisible\">s/1606437805948911616</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
       }
     ]
   }
