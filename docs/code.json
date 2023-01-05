@@ -1,5 +1,77 @@
 [
   {
+    "link": "https://github.com/mastodon/mastodon/pull/22956",
+    "title": "Make autosuggest for mentions return followed accounts first by dariusk \u00b7 Pull Request #22956 \u00b7 mastodon/mastodon",
+    "latest": "2023-01-05T21:03:04+00:00",
+    "last_post": {
+      "url": "https://friend.camp/@darius/109638620551117788",
+      "content": "<p>Made a Mastodon pull request.</p><p>In v4, there is an issue on servers that don't have elasticsearch: when a user types @ in the compose box and starts to type a name, the results they get are ordered by a popularity ranking algorithm. This is fine if you were only searching accounts you don't follow, but to me it makes more sense to FIRST return matches for accounts you DO follow as a suggestion, and then return popular accounts that you don't follow</p><p><a href=\"https://github.com/mastodon/mastodon/pull/22956\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/22956</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://friend.camp/@darius",
+        "display_name": "Darius Kazemi"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/WhatsApp/proxy",
+    "title": "https://github.com/WhatsApp/proxy",
+    "latest": "2023-01-05T19:49:13+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@ngleicher/109638314546486234",
+      "content": "<p>This is great work by the WA team to help ensure people around the world can communicate freely and privately through volunteer-run proxy servers. <a href=\"https://twitter.com/wcathcart/status/1611031956044795904?s=46&amp;t=ldjj15FqC77Q_QS7C8k80Q\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/wcathcart/status/1</span><span class=\"invisible\">611031956044795904?s=46&amp;t=ldjj15FqC77Q_QS7C8k80Q</span></a></p><p>More on how to setup/run a proxy server here: <a href=\"https://github.com/WhatsApp/proxy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/WhatsApp/proxy</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@katestarbird",
+        "display_name": "Kate Starbird"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@mauforonda/who-to-follow-on-mastodon",
+    "title": "Who to follow on mastodon",
+    "latest": "2023-01-05T18:24:30+00:00",
+    "last_post": {
+      "url": "https://vis.social/@waynesutton/109627148173475179",
+      "content": "<p>There's a new who to follow on <a href=\"https://vis.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a>  notebook on <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> <a href=\"https://observablehq.com/@mauforonda/who-to-follow-on-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@mauforonda/w</span><span class=\"invisible\">ho-to-follow-on-mastodon</span></a> more mastodon notebooks in the collection here <a href=\"https://observablehq.com/@mauforonda/who-to-follow-on-mastodon?collection=@observablehq/mastodon-visualizations\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@mauforonda/w</span><span class=\"invisible\">ho-to-follow-on-mastodon?collection=@observablehq/mastodon-visualizations</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      },
+      {
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
+      },
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      },
+      {
+        "url": "https://vis.social/@observablehq",
+        "display_name": ""
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@mauforonda/who-to-follow-on-mastodon?collection=@observablehq/mastodon-visualizations",
+    "title": "Who to follow on mastodon",
+    "latest": "2023-01-05T18:24:30+00:00",
+    "last_post": {
+      "url": "https://vis.social/@waynesutton/109627148173475179",
+      "content": "<p>There's a new who to follow on <a href=\"https://vis.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a>  notebook on <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> <a href=\"https://observablehq.com/@mauforonda/who-to-follow-on-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@mauforonda/w</span><span class=\"invisible\">ho-to-follow-on-mastodon</span></a> more mastodon notebooks in the collection here <a href=\"https://observablehq.com/@mauforonda/who-to-follow-on-mastodon?collection=@observablehq/mastodon-visualizations\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@mauforonda/w</span><span class=\"invisible\">ho-to-follow-on-mastodon?collection=@observablehq/mastodon-visualizations</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@observablehq",
+        "display_name": ""
+      }
+    ]
+  },
+  {
     "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion",
     "title": "Textual Inversion \u00b7 AUTOMATIC1111/stable-diffusion-webui Wiki",
     "latest": "2023-01-05T17:12:06+00:00",
@@ -2445,29 +2517,6 @@
     ]
   },
   {
-    "link": "https://observablehq.com/@mauforonda/who-to-follow-on-mastodon",
-    "title": "Who to follow on mastodon",
-    "latest": "2022-12-29T19:59:06+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@MattHodges/109598732900394046",
-      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@allafarce\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>allafarce</span></a></span> For follow spelunking, check out <span class=\"h-card\"><a href=\"https://hachyderm.io/@mauforonda\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mauforonda</span></a></span>'s who-to-follow tool.\u00b9 And for a self-plug, I'm finding lots of interesting people in the \"boosts\" section of my Mastodon Digest.\u00b2</p><p>\u00b9 <a href=\"https://observablehq.com/@mauforonda/who-to-follow-on-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@mauforonda/w</span><span class=\"invisible\">ho-to-follow-on-mastodon</span></a><br>\u00b2 <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      },
-      {
-        "url": "https://mastodon.social/@judell",
-        "display_name": "Jon Udell"
-      },
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      }
-    ]
-  },
-  {
     "link": "https://gist.github.com/z3tt/c58761aacc78ba52d6a305ccca3cce56",
     "title": "Human Rights Protection Scores of USA and Germany",
     "latest": "2022-12-29T18:59:12+00:00",
@@ -3107,51 +3156,6 @@
       {
         "url": "https://sigmoid.social/@R4_Unit",
         "display_name": "R4_Unit"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/scripting/feedlandSupport/issues/153",
-    "title": "New feature: Searching feed titles \u00b7 Issue #153 \u00b7 scripting/feedlandSupport",
-    "latest": "2022-12-27T21:50:12+00:00",
-    "last_post": {
-      "url": "https://social.masto.land/@dave/109587840780972190",
-      "content": "<p>A new FeedLand feature -- you can now search titles of feeds.</p><p><a href=\"https://github.com/scripting/feedlandSupport/issues/153\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scripting/feedlandS</span><span class=\"invisible\">upport/issues/153</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2618\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/NeuromatchAcademy/mastodon/tree/feature-fetch-replies",
-    "title": "GitHub - NeuromatchAcademy/mastodon at feature-fetch-replies",
-    "latest": "2022-12-27T19:38:40+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@jonny/109582537808504261",
-      "content": "<p>OK Here's a basic implementation of <a href=\"https://neuromatch.social/tags/FetchAllReplies\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FetchAllReplies</span></a> :<br><a href=\"https://github.com/NeuromatchAcademy/mastodon/tree/feature-fetch-replies\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/NeuromatchAcademy/m</span><span class=\"invisible\">astodon/tree/feature-fetch-replies</span></a></p><p>Button at the bottom of a thread that lets you load more replies. It queries the context endpoint of the host server to get a list of replies, and then since I noticed that merely searching for a post will add it to the database, I just did that here and searched for all the posts. </p><p>Need to find a more direct way to add posts directly without having to ping all the involved servers, and also currently you need to do a refresh after clicking the button rather than the new posts being added dynamically, but anyway it's a first draft.</p><p><a href=\"https://neuromatch.social/tags/MastoDev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoDev</span></a> <a href=\"https://neuromatch.social/tags/HackThePlanet\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HackThePlanet</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@doppioslash",
-        "display_name": "Claudia Doppioslash/ShaderCat"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/google-research/maxvit",
-    "title": "github.com/google-research/max...",
-    "latest": "2022-12-27T18:43:27+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@SebRaschka/109587110805054856",
-      "content": "<p>Compiling my yearly top-papers list and \"MaxViT: Multi-axis Vision Transformer\" should probably make the cut. </p><p>MaxViT is a vision transformer with local-global interaction between visual tokens within a single block. </p><p>The so-called multi-axis attention scales linearly (vs quadratic complexity in the original ViT).</p><p>You can use it for<br>- classification<br>- object detection<br>- instance segmentation</p><p>and generative modeling.</p><p>Paper: <a href=\"https://arxiv.org/abs/2204.01697\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2204.01697</span><span class=\"invisible\"></span></a></p><p>Code: <a href=\"https://github.com/google-research/maxvit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/google-research/max</span><span class=\"invisible\">vit</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@SebRaschka",
-        "display_name": "Sebastian Raschka"
       }
     ]
   }
