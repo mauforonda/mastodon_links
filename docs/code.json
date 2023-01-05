@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.com/NeuromatchAcademy/mastodon/pull/8",
+    "title": "[feature] fetch all replies by sneakers-the-rat \u00b7 Pull Request #8 \u00b7 NeuromatchAcademy/mastodon",
+    "latest": "2023-01-05T05:11:39+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@jonny/109634869235794426",
+      "content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@jdp23\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jdp23</span></a></span> <span class=\"h-card\"><a href=\"https://4xl.co/@liamsora\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>liamsora</span></a></span> <span class=\"h-card\"><a href=\"https://kitchenparty.online/@kichae\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kichae</span></a></span> <span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> <span class=\"h-card\"><a href=\"https://famichiki.jp/@stopthatgirl7\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>stopthatgirl7</span></a></span> <br>it certainly doesn't address the problem fully, but I'll be merging this into neuromatch.social to test soon enough: <a href=\"https://github.com/NeuromatchAcademy/mastodon/pull/8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/NeuromatchAcademy/m</span><span class=\"invisible\">astodon/pull/8</span></a></p><p>It's relatively simple patch that's entirely frontend so hopefully easy to deploy on smaller instances.</p><p>Makes a button that lets you request the replies to a given post so you can see them even if no one on your instance follows the poster (ie. your instance wouldn't know about the post because of the pub/sub issues described above). </p><p>It works by using the search feature to fetch posts (as <span class=\"h-card\"><a href=\"https://4xl.co/@liamsora\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>liamsora</span></a></span> also discovered):</p><p>Ask OP server for the context that it knows about, replies and ancestors<br>Submits the URLs for each of the replies to the search endpoint<br>Inserts posts as they are received into the redux store -&gt; into the React component displaying the thread</p><p>It currently inserts them in a disordered way because the React component holding a thread is a single-layer component that holds expanded post &amp; ancestors &amp; replies. that's also related to why a thread is completely unreadable (imo) because it's rendered as a flat list rather than as a tree - which is what a thread is. Will be working on making a properly recursive component next.</p><p>Once that's done, then it should be possible to iteratively request replies in a smarter way, but that will also require another change in the way the /context endpoint works, which currently takes no arguments for subsetting and has no pagination - so therefore has relatively low hardcoded limits on the amount of replies you can request without being logged in. That will need to change to be able to request a certain depth (currently it gets the entire reply tree and then flattens it into an array) and paginate through results so that eg. you can get all the top-level replies to the request you have open, and then as you open deeper replies you get the replies to that reply, and so on....</p><p>(sorry for wall of text sort of got away from me.)</p><p><a href=\"https://neuromatch.social/tags/FetchAllReplies\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FetchAllReplies</span></a> <a href=\"https://neuromatch.social/tags/NestedThreads\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NestedThreads</span></a> <a href=\"https://neuromatch.social/tags/ContextAPI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ContextAPI</span></a> <a href=\"https://neuromatch.social/tags/MastoDev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoDev</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pymc-labs/CausalPy/releases/tag/0.0.8",
+    "title": "Release 0.0.8 \u00b7 pymc-labs/CausalPy",
+    "latest": "2023-01-05T05:10:42+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@benvincent/109631413971669610",
+      "content": "<p>CausalPy 0.0.8 is now out. </p><p>We've given some love to Difference in Differences...You can now include multiple pre and post treatment observations. And there are some correctness fixes.</p><p>Plot legends are also improved with combined posterior mean and HDI. All plots are now consistent in the they show posterior mean/HDI, rather than some showing the posterior predictive.</p><p>Release notes here: <a href=\"https://github.com/pymc-labs/CausalPy/releases/tag/0.0.8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pymc-labs/CausalPy/</span><span class=\"invisible\">releases/tag/0.0.8</span></a></p><p><span class=\"h-card\"><a href=\"https://bayes.club/@pymc_labs\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pymc_labs</span></a></span> <a href=\"https://fosstodon.org/tags/CausalInference\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CausalInference</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://bayes.club/@twiecki",
+        "display_name": "Thomas Wiecki"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/mauforonda/mastodon_digest",
     "title": "github.com/mauforonda/mastodon...",
     "latest": "2023-01-05T01:40:48+00:00",
@@ -3138,36 +3168,6 @@
       {
         "url": "https://mastodon.social/@b0rk",
         "display_name": "Julia Evans"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nolanlawson/pinafore/releases/tag/v2.5.1",
-    "title": "Release v2.5.1 \u00b7 nolanlawson/pinafore",
-    "latest": "2022-12-26T23:38:13+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@pinafore/109581664195239737",
-      "content": "<p>Some accessibility fixes in this release, with contributions by <span class=\"h-card\"><a href=\"https://toot.cat/@nickcolley\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nickcolley</span></a></span> and <span class=\"h-card\"><a href=\"https://mas.to/@norrumar\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>norrumar</span></a></span>. Enjoy!</p><p><a href=\"https://github.com/nolanlawson/pinafore/releases/tag/v2.5.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nolanlawson/pinafor</span><span class=\"invisible\">e/releases/tag/v2.5.1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@asadotzler",
-        "display_name": "Asa Dotzler"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/shapr/f9fa407f60bc78c64efb74d5d658af68",
-    "title": "gist.github.com/shapr/f9fa407f...",
-    "latest": "2022-12-26T21:56:54+00:00",
-    "last_post": {
-      "url": "https://recurse.social/@shapr/109582068448270193",
-      "content": "<p><span class=\"h-card\"><a href=\"https://types.pl/@ezyang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ezyang</span></a></span> I like the section on \"Watching Myself Code\" from <a href=\"https://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">malisper.me/how-to-improve-you</span><span class=\"invisible\">r-productivity-as-a-working-programmer/</span></a></p><p>It's a painful experience, but every time I see obvious improvements.</p><p>I made myself an ffmpeg command to record two frames a second and downscale to 1080p from 4k: <a href=\"https://gist.github.com/shapr/f9fa407f60bc78c64efb74d5d658af68\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/shapr/f9fa407f</span><span class=\"invisible\">60bc78c64efb74d5d658af68</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://types.pl/@ezyang",
-        "display_name": "Edward Z. Yang"
       }
     ]
   }
