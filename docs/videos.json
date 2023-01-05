@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://youtu.be/QwZQrxIk6Dg",
+    "title": "https://youtu.be/QwZQrxIk6Dg",
+    "latest": "2023-01-04T21:29:07+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@alfcnz/109615013610039835",
+      "content": "<p>Let's start the year by brushing up on the basics of neural nets: linear and non-linear transformations.<br>In this episode, we're concerned with inference only. Forward and backwards. We introduce the cost and the energy. \ud83d\udd0b<br>Website: <a href=\"https://atcold.github.io/NYU-DLFL22/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">atcold.github.io/NYU-DLFL22/</span><span class=\"invisible\"></span></a><br><a href=\"https://youtu.be/QwZQrxIk6Dg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/QwZQrxIk6Dg</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@andrey",
+        "display_name": "Andrey Kurenkov"
+      }
+    ]
+  },
+  {
     "link": "https://www.youtube.com/watch?v=3bs3QX92kYA",
     "title": "Moldable Live Programming with Clerk (by Philippa Markovics)",
     "latest": "2023-01-04T19:51:24+00:00",
@@ -3024,21 +3039,6 @@
     "last_post": {
       "url": "https://hci.social/@bwaber/109577736969817965",
       "content": "<p>\u8208\u5473\u6df1\u3044\u6176\u5fdc\u5927\u306e\u30d8\u30eb\u30b9\u30b1\u30a2\u30a4\u30ce\u30d9\u30fc\u30b7\u30e7\u30f3\u30a4\u30d9\u30f3\u30c8\u3092\u898b\u3066\u3001\u53c2\u8003\u306b\u306a\u308a\u307e\u3057\u305f\u3002</p><p>\u6700\u521d\u306b\u4e2d\u6751\u5148\u751f\u306f\u660e\u78ba\u306b\u65e5\u672c\u306e\u9ad8\u9f62\u8005\u30b1\u30a2\u72b6\u614b\u3092\u5ba2\u89b3\u7684\u306a\u30c7\u30fc\u30bf\u3068\u4e3b\u89b3\u7684\u306a\u30c7\u30fc\u30bf\u3092\u7d44\u307f\u5408\u308f\u305b\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u691c\u8a0e\u3057\u3066\u7dcf\u5408\u7684\u306a\u30d8\u30eb\u30b9\u30b3\u30e2\u30f3\u30ba\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u30e2\u30c7\u30eb\u3092\u63d0\u6848\u3057\u307e\u3057\u305f\u3002\u3053\u306e\u30e2\u30c7\u30eb\u306fAI\u3068\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0\u3092\u7528\u3044\u3066\u8907\u6570\u306a\u30d8\u30eb\u30b9\u30b1\u30a2\u6a5f\u95a2\u3068\u9023\u643a\u3057\u3066\u304a\u5e74\u5bc4\u308a\u306e\u65b9\u306e\u305f\u3081\u306b\u52b9\u679c\u7684\u3067\u30ab\u30b9\u30bf\u30de\u30a4\u30ba\u3055\u308c\u305f\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u63d0\u4f9b\u3067\u304d\u308b\u3088\u3046\u306b\u3067\u304d\u307e\u3059\u3002\u5fc3\u914d\u3057\u3066\u3044\u308b\u306e\u306f\u30c7\u30fc\u30bf\u30d0\u30a4\u30a2\u30b9\u306a\u3069\u306e\u8ab2\u984c\u306f\u3042\u3052\u307e\u305b\u3093\u3067\u3057\u305f\u3002</p><p>\u6700\u5f8c\u306b\u9663\u5d0e\u5148\u751f\u306f\u300cAI\u30db\u30b9\u30d4\u30bf\u30eb\u300d\u306e\u30b3\u30f3\u30bb\u30d7\u30c8\u306b\u3064\u3044\u3066\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u3053\u306e\u30c8\u30fc\u30af\u306b\u3082\u3044\u308d\u3093\u306a\u5927\u4e8b\u306a\u30a2\u30a4\u30c7\u30a2\u304c\u8aac\u660e\u3055\u308c\u3066\u3001\u4eba\u6750\u8cc7\u6e90\u304c\u4e0d\u8db3\u3057\u3066\u3044\u308b\u65e5\u672c\u3067\u30c7\u30fc\u30bf\u3092\u7528\u3044\u3066\u52b9\u679c\u7684\u306a\u75c5\u9662\u6a5f\u95a2\u304c\u4f5c\u308c\u308b\u306e\u306f\u5fc5\u8981\u3060\u3068\u601d\u3044\u307e\u3059\u3002\u3057\u304b\u3057AI\u502b\u7406\u306f\u3053\u306e\u6d3b\u52d5\u306b\u5927\u304d\u306a\u5f71\u97ff\u3092\u4e0e\u3048\u308b\u53ef\u80fd\u6027\u306f\u9ad8\u3044\u3067\u3059\u306e\u3067\u3001\u502b\u7406\u304c\u6700\u521d\u304b\u3089\u7814\u7a76\u306b\u76db\u308a\u8fbc\u3093\u3060\u65b9\u304c\u3044\u3044\u3068\u601d\u3044\u307e\u3059\u3002</p><p>\u3053\u306e\u3088\u3046\u306a\u7814\u7a76\u306f\u65e5\u672c\u3067\u884c\u3063\u3066\u3044\u308b\u306e\u306f\u7d20\u6674\u3089\u3057\u3044\u3068\u601d\u3044\u307e\u3059\u3002\u3053\u306e\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306f\u4e16\u754c\u306e\u30e2\u30c7\u30eb\u306b\u306a\u308c\u308b\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u306e\u3067\u3001AI\u502b\u7406\u304c\u4e2d\u5fc3\u7684\u306b\u3059\u308b\u3079\u304d\u3060\u3068\u601d\u3044\u307e\u3059</p><p><a href=\"https://www.youtube.com/watch?v=EuTT7rS_JGU\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=EuTT7rS_JG</span><span class=\"invisible\">U</span></a> <a href=\"https://hci.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hci.social/@bwaber",
-        "display_name": "Ben Waber"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=KQwmszM8B5U",
-    "title": "Digit Debates - Pawel Adrjan",
-    "latest": "2022-12-26T02:33:56+00:00",
-    "last_post": {
-      "url": "https://hci.social/@bwaber/109577636212926056",
-      "content": "<p>Next was an informative talk by <span class=\"h-card\"><a href=\"https://mastodon.social/@PawelAdrjan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PawelAdrjan</span></a></span> on global <a href=\"https://hci.social/tags/RemoteWork\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RemoteWork</span></a> trends from <a href=\"https://hci.social/tags/Indeed\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Indeed</span></a> <a href=\"https://hci.social/tags/data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>data</span></a> at the Digital Futures at <a href=\"https://hci.social/tags/Work\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Work</span></a> Research Centre (Digit). With some thorough caveats at the beginning, this talk nicely reviews where the data appears to show workplace strategy trends settling. Useful for level setting and for <a href=\"https://hci.social/tags/governments\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>governments</span></a>, but for organizations this shouldn't influence strategy b/c companies have absolutely no idea what they're doing on <a href=\"https://hci.social/tags/workplace\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>workplace</span></a> strategy <a href=\"https://www.youtube.com/watch?v=KQwmszM8B5U\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=KQwmszM8B5</span><span class=\"invisible\">U</span></a> (8/9)</p>"
     },
     "people": [
       {
