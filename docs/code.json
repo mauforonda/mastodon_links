@@ -2,7 +2,7 @@
   {
     "link": "https://github.com/NeuromatchAcademy/mastodon/blob/a209c1b0b43760a3915263d3e57c8140f0849acd/app/javascript/flavours/glitch/actions/statuses.js#L230-L257",
     "title": "mastodon/statuses.js at a209c1b0b43760a3915263d3e57c8140f0849acd \u00b7 NeuromatchAcademy/mastodon",
-    "latest": "2023-01-05T08:17:38+00:00",
+    "latest": "2023-01-05T10:41:21+00:00",
     "last_post": {
       "url": "https://neuromatch.social/@jonny/109635610739208981",
       "content": "<p><span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> <br>1) it uses the search API, so it should follow the same rules. A very vague test just now trying to search for a user and post on an instance our server is defederated from says it shouldn't work, but i'll have to double check and write tests for if an account has blocked someone. good question. had been on my mind and part of the reason why I haven't tried to pull upstream yet</p><p>2) It likely will be in the list of peer servers, but I don't know that masto uses this in any meaningful way, another thing i should check out</p><p>3) yes, unfortunately, this is something that would require the instance admin to apply</p><p>4) I tried to write something like this just using clientside javascript for eg. a bookmarklet, but the CORS rules prevented me from making the fetch to the OP server. I believe a browser extension would be able to overcome that problem, and it also looks like the search API doesn't require login (which seems bad actually) and so it might not even need to have you approve it with eg. OAuth or something like that. I have only written one extremely simple browser extension before, but this is ultimately extremely simple, basically this (and then refresh the page):</p><p>fetch(&lt;other_instance&gt;/api/&lt;context_endpoint&gt;<br>  ).then( (response) =&gt; {<br>  response.json().descendants<br>    .forEach( (status) =&gt; {<br>      fetch(&lt;search_api&gt;/&lt;status.url&gt;);<br>  }<br>});<br></p><p>in pseudo-javascript<br><a href=\"https://github.com/NeuromatchAcademy/mastodon/blob/a209c1b0b43760a3915263d3e57c8140f0849acd/app/javascript/flavours/glitch/actions/statuses.js#L230-L257\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/NeuromatchAcademy/m</span><span class=\"invisible\">astodon/blob/a209c1b0b43760a3915263d3e57c8140f0849acd/app/javascript/flavours/glitch/actions/statuses.js#L230-L257</span></a></p>"
@@ -11,6 +11,55 @@
       {
         "url": "https://neuromatch.social/@jonny",
         "display_name": "Jonny"
+      },
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/TIBHannover/optimetaCitations/",
+    "title": "github.com/TIBHannover/optimet...",
+    "latest": "2023-01-05T09:39:27+00:00",
+    "last_post": {
+      "url": "https://mstdn.science/@serhii/109635932495907682",
+      "content": "<p>New interesting <a href=\"https://mstdn.science/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> about The OPTIMETA project <a href=\"https://projects.tib.eu/optimeta/en/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">projects.tib.eu/optimeta/en/</span><span class=\"invisible\"></span></a> from <span class=\"h-card\"><a href=\"https://openbiblio.social/@tibhannover\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tibhannover</span></a></span> &amp; Ko:</p><p> \ud83d\udcc4  <a href=\"https://arxiv.org/abs/2301.01502\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.01502</span><span class=\"invisible\"></span></a></p><p>Results: 2 open plugins for <a href=\"https://mstdn.science/tags/OJS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OJS</span></a> that collect, enrich, and automatically deliver <a href=\"https://mstdn.science/tags/citation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>citation</span></a> metadata and spatio-temporal <a href=\"https://mstdn.science/tags/metadata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>metadata</span></a> for articles:</p><p>\ud83d\udc49 <a href=\"https://github.com/TIBHannover/optimetaCitations/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TIBHannover/optimet</span><span class=\"invisible\">aCitations/</span></a><br>\ud83d\udc49 <a href=\"https://github.com/TIBHannover/optimetaGeo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TIBHannover/optimet</span><span class=\"invisible\">aGeo</span></a></p><p><a href=\"https://mstdn.science/tags/OpenAccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenAccess</span></a> <a href=\"https://mstdn.science/tags/publishing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>publishing</span></a> <a href=\"https://mstdn.science/tags/assessment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>assessment</span></a> <a href=\"https://mstdn.science/tags/discovery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>discovery</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.science/@serhii",
+        "display_name": "Serhii Nazarovets"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/TIBHannover/optimetaGeo",
+    "title": "github.com/TIBHannover/optimet...",
+    "latest": "2023-01-05T09:39:27+00:00",
+    "last_post": {
+      "url": "https://mstdn.science/@serhii/109635932495907682",
+      "content": "<p>New interesting <a href=\"https://mstdn.science/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> about The OPTIMETA project <a href=\"https://projects.tib.eu/optimeta/en/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">projects.tib.eu/optimeta/en/</span><span class=\"invisible\"></span></a> from <span class=\"h-card\"><a href=\"https://openbiblio.social/@tibhannover\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tibhannover</span></a></span> &amp; Ko:</p><p> \ud83d\udcc4  <a href=\"https://arxiv.org/abs/2301.01502\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.01502</span><span class=\"invisible\"></span></a></p><p>Results: 2 open plugins for <a href=\"https://mstdn.science/tags/OJS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OJS</span></a> that collect, enrich, and automatically deliver <a href=\"https://mstdn.science/tags/citation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>citation</span></a> metadata and spatio-temporal <a href=\"https://mstdn.science/tags/metadata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>metadata</span></a> for articles:</p><p>\ud83d\udc49 <a href=\"https://github.com/TIBHannover/optimetaCitations/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TIBHannover/optimet</span><span class=\"invisible\">aCitations/</span></a><br>\ud83d\udc49 <a href=\"https://github.com/TIBHannover/optimetaGeo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TIBHannover/optimet</span><span class=\"invisible\">aGeo</span></a></p><p><a href=\"https://mstdn.science/tags/OpenAccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenAccess</span></a> <a href=\"https://mstdn.science/tags/publishing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>publishing</span></a> <a href=\"https://mstdn.science/tags/assessment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>assessment</span></a> <a href=\"https://mstdn.science/tags/discovery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>discovery</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.science/@serhii",
+        "display_name": "Serhii Nazarovets"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/HelgeKrueger/mastodon_recommender/blob/replies_visualization/hypergraph.ipynb",
+    "title": "mastodon_recommender/hypergraph.ipynb at replies_visualization \u00b7 HelgeKrueger/mastodon_recommender",
+    "latest": "2023-01-05T09:12:01+00:00",
+    "last_post": {
+      "url": "https://mas.to/@helgek/109635523217553078",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.sandwich.net/@dragfyre\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dragfyre</span></a></span> </p><p>Warning: work in progress</p><p>I'm working on one. My current visualizations are on.</p><p><a href=\"https://github.com/HelgeKrueger/mastodon_recommender/blob/replies_visualization/hypergraph.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/HelgeKrueger/mastod</span><span class=\"invisible\">on_recommender/blob/replies_visualization/hypergraph.ipynb</span></a></p><p>My current thinking is that the percentage of federated posts with a hashtag might be the interesting quantity. Example I should be on an instance where the hashtag <a href=\"https://mas.to/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> is more likely to get federated than <a href=\"https://mas.to/tags/taylorswift\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>taylorswift</span></a> .</p>"
+    },
+    "people": [
+      {
+        "url": "https://techhub.social/@ruthpozuelo",
+        "display_name": "Ruth Pozuelo Martinez"
       }
     ]
   },
@@ -3115,55 +3164,6 @@
       {
         "url": "https://mastodon.social/@GaelVaroquaux",
         "display_name": "Ga\u00ebl Varoquaux"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
-    "title": "GitHub - AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin: A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
-    "latest": "2022-12-27T13:08:10+00:00",
-    "last_post": {
-      "url": "https://social.skewed.de/@tiago/109585318154798575",
-      "content": "<p>Ok, this is cool.</p><p>RT @_akhaliq@twitter.com</p><p>Auto-Photoshop-StableDiffusion-Plugin, Automatic1111 Stable Diffusion @Gradio@twitter.com Web UI API with Photoshop</p><p>github: <a href=\"https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AbdullahAlfaraj/Aut</span><span class=\"invisible\">o-Photoshop-StableDiffusion-Plugin</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/_akhaliq/status/1607410840562458624\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_akhaliq/status/16</span><span class=\"invisible\">07410840562458624</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.skewed.de/@tiago",
-        "display_name": "Tiago Peixoto"
-      },
-      {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/abey79/vpype",
-    "title": "https://github.com/abey79/vpype",
-    "latest": "2022-12-27T10:19:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@abey79/109585130364342039",
-      "content": "<p>I just stumbled upon my original <a href=\"https://mastodon.social/tags/vpype\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vpype</span></a> announcement  post on Reddit while checking out stuff: <a href=\"https://www.reddit.com/r/generative/comments/dvp6ox/tool_introducing_vpype_a_cli_pipeline_tool_to/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reddit.com/r/generative/commen</span><span class=\"invisible\">ts/dvp6ox/tool_introducing_vpype_a_cli_pipeline_tool_to/</span></a></p><p>More than 3 years already! \ud83d\ude05 </p><p>I guess I'll jump on the occasion for a <a href=\"https://mastodon.social/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a> toot.</p><p>I created vpype (\"The Swiss-Army-knife command-line tool for plotter vector graphics\") to assist with the repetitive <a href=\"https://mastodon.social/tags/penplotter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>penplotter</span></a> tasks such as optimisation, page layout, etc.</p><p>Open-source code: <a href=\"https://github.com/abey79/vpype\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/abey79/vpype</span><span class=\"invisible\"></span></a></p><p>Documentation: <a href=\"https://vpype.readthedocs.io/en/latest/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">vpype.readthedocs.io/en/latest</span><span class=\"invisible\">/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@abey79",
-        "display_name": "Antoine Beyeler"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jvns/manage-boosts/blob/main/mastodon-login-example.html",
-    "title": "manage-boosts/mastodon-login-example.html at main \u00b7 jvns/manage-boosts",
-    "latest": "2022-12-27T03:44:42+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@b0rk/109583576768217779",
-      "content": "<p>I also made a little mastodon.js library that has no dependencies, I didn't document it but there's a small example of how to use it here <a href=\"https://github.com/jvns/manage-boosts/blob/main/mastodon-login-example.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jvns/manage-boosts/</span><span class=\"invisible\">blob/main/mastodon-login-example.html</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@b0rk",
-        "display_name": "Julia Evans"
       }
     ]
   }
