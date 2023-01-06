@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://github.com/anticomputer/with-wireguard.el",
+    "title": "GitHub - anticomputer/with-wireguard.el: Network namespace wireguard configuration management for Emacs.",
+    "latest": "2023-01-06T01:59:45+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109638800724794012",
+      "content": "<p>In case someone else finds it useful, here's today's lunch project for juggling wireguard network namespaces from emacs <a href=\"https://github.com/anticomputer/with-wireguard.el\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anticomputer/with-w</span><span class=\"invisible\">ireguard.el</span></a> <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://emacs.ch/tags/lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lisp</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      },
+      {
+        "url": "https://emacs.ch/@sachac",
+        "display_name": "Sacha Chua"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/facebookresearch/paco",
+    "title": "github.com/facebookresearch/pa...",
+    "latest": "2023-01-06T01:41:53+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109639716928339635",
+      "content": "<p>PACO: Parts and Attributes of Common Objects</p><p>Presents PACO, a dataset of object masks that contains 641K part masks annotated across 260K object boxes. </p><p>proj: <a href=\"https://paco.metademolab.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">paco.metademolab.com/</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/facebookresearch/paco\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/pa</span><span class=\"invisible\">co</span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.01795\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.01795</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/TypeStrong/typedoc/issues/1606#issuecomment-1353688993",
     "title": "OOM on large monorepo project \u00b7 Issue #1606 \u00b7 TypeStrong/typedoc",
     "latest": "2023-01-05T23:12:59+00:00",
@@ -11,21 +45,6 @@
       {
         "url": "https://vis.social/@gka",
         "display_name": "gka"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/anticomputer/with-wireguard.el",
-    "title": "GitHub - anticomputer/with-wireguard.el: Network namespace wireguard configuration management for Emacs.",
-    "latest": "2023-01-05T21:48:53+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@anticomputer/109638800724794012",
-      "content": "<p>In case someone else finds it useful, here's today's lunch project for juggling wireguard network namespaces from emacs <a href=\"https://github.com/anticomputer/with-wireguard.el\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anticomputer/with-w</span><span class=\"invisible\">ireguard.el</span></a> <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://emacs.ch/tags/lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lisp</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
       }
     ]
   },
@@ -3141,21 +3160,6 @@
       {
         "url": "https://recurse.social/@ballingt",
         "display_name": "Tom Ballinger"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues/309",
-    "title": "quote + boost \u00b7 Issue #309 \u00b7 mastodon/mastodon",
-    "latest": "2022-12-27T23:52:11+00:00",
-    "last_post": {
-      "url": "https://indieweb.social/@jdp23/109587048432759238",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@victoriadecapua\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>victoriadecapua</span></a></span> <span class=\"h-card\"><a href=\"https://mstdn.social/@joeinwynnewood\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joeinwynnewood</span></a></span> <span class=\"h-card\"><a href=\"https://zirk.us/@shengokai\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>shengokai</span></a></span> <span class=\"h-card\"><a href=\"https://wandering.shop/@Quinnae_Moon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Quinnae_Moon</span></a></span> Yep. And, the way that using Github prirotizes feedback from devs (and dev-adjacent people) over everybody else has been pointed out for years ... yet another reason your concerns about dev responsiveness are on target!</p><p>Here's three github threads on quoting::</p><p>- original, from 2017: <a href=\"https://github.com/mastodon/mastodon/issues/309\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/309</span></a></p><p>- <a href=\"https://github.com/mastodon/mastodon/issues/14597#issuecomment-1362907651\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/14597#issuecomment-1362907651</span></a> (with a great comment from <span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> ) </p><p>- <a href=\"https://github.com/mastodon/mastodon/issues/20673\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/20673</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@jonny",
-        "display_name": "Jonny"
       }
     ]
   }
