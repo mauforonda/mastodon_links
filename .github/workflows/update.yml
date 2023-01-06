@@ -28,8 +28,8 @@ jobs:
           python update/run.py
       - name: commit
         run: |
-          git config --global user.email "mastodon_links@example.com"
-          git config --global user.name "mastodon_links"
+          git config --global user.email "arnicas@gmail.com"
+          git config --global user.name "Lynn Cherny"
           git add -A
           git diff --quiet && git diff --staged --quiet || (git commit -m "[ci] update"; git push -q "https://$GH_TOKEN@github.com/mauforonda/mastodon_links.git" main)
 
