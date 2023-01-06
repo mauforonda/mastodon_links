@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.com/waldoj/moonstriker/",
+    "title": "GitHub - waldoj/moonstriker: A Bash script that generates a clip-per-caption for a video file",
+    "latest": "2023-01-06T03:50:54+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@waldoj/109640168444463629",
+      "content": "<p>If you, too, want to generate a bajillion video clips for a video file, I shared my little Bash script on GitHub. As you'll see, it's really simple. <a href=\"https://github.com/waldoj/moonstriker/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/waldoj/moonstriker/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/anticomputer/with-wireguard.el",
     "title": "GitHub - anticomputer/with-wireguard.el: Network namespace wireguard configuration management for Emacs.",
     "latest": "2023-01-06T01:59:45+00:00",
@@ -3145,21 +3160,6 @@
       {
         "url": "https://emacs.ch/@sachac",
         "display_name": "Sacha Chua"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/aphyr/2d0e7ab357f2e4e609154576b47caea2",
-    "title": "woof.group migration checklist",
-    "latest": "2022-12-28T00:25:31+00:00",
-    "last_post": {
-      "url": "https://woof.group/@aphyr/109588107055476625",
-      "content": "<p>The \"did I pack everything?\" migration checklist is ready... rehearsed as far as I can before actually flipping the DNS and (presumably) totally messing up federation. Fingers crossed for tomorrow!</p><p><a href=\"https://gist.github.com/aphyr/2d0e7ab357f2e4e609154576b47caea2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/aphyr/2d0e7ab3</span><span class=\"invisible\">57f2e4e609154576b47caea2</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://recurse.social/@ballingt",
-        "display_name": "Tom Ballinger"
       }
     ]
   }
