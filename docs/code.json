@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.com/mastodon/mastodon/issues/20089#issuecomment-1306654133",
+    "title": "Might be a good idea to limit number of followers to like 10K or 20K \u00b7 Issue #20089 \u00b7 mastodon/mastodon",
+    "latest": "2023-01-06T07:06:38+00:00",
+    "last_post": {
+      "url": "https://aus.social/@AndyPerfors/109640974663179818",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fediscience.org/@ct_bergstrom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ct_bergstrom</span></a></span> I\u2019ve thought a bunch about this issue of scaling, not just from the point of view of the people with big accounts, but also what it means for information flow when you have a system with this kind of power-law distribution of follower numbers.</p><p>I was actually concerned enough about it that back in November I submitted a pull request to the Mastodon GitHub suggesting that it be possible to limit follower counts. I was thoroughly hammered, partly for good reason (while few argued against my reasoning, there were a bunch of issues with actually being able to implement it that I hadn\u2019t realised).</p><p>Despite the hammering, I still think scaling is a huge problem and is probably a lot of where some of the worst properties of modern information systems come from (e.g. I think it makes polarisation much more likely). Your suggestion of making a distinction between social systems (which don\u2019t scale well) and broadcast (which might) is interesting. I\u2019ll have to think about it more.</p><p>In any case, if you\u2019re curious, I\u2019ve linked to my GitHub request below. If you ignore all the people telling me I\u2019m an idiot :) you might be interested in the reasoning behind my request, as it goes into a lot more depth about why I think the problem of scale is such a big one. Has some of the same points as yours, but some pretty different.</p><p><a href=\"https://github.com/mastodon/mastodon/issues/20089#issuecomment-1306654133\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/20089#issuecomment-1306654133</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@ct_bergstrom",
+        "display_name": "Carl T. Bergstrom"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/waldoj/moonstriker/",
     "title": "GitHub - waldoj/moonstriker: A Bash script that generates a clip-per-caption for a video file",
     "latest": "2023-01-06T03:50:54+00:00",
@@ -3140,21 +3155,6 @@
     "last_post": {
       "url": "https://emacs.ch/@hanspeter/109587527844570491",
       "content": "<p>Just found this package:</p><p>emacs-denote-refs<br>see: <a href=\"https://codeberg.org/akib/emacs-denote-refs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/akib/emacs-denote</span><span class=\"invisible\">-refs</span></a></p><p>by <span class=\"h-card\"><a href=\"https://hostux.social/@akib\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>akib</span></a></span> </p><p>Right after the front matter of an opened denote file, It superimposes the files forward- and back-links (as read-only text).</p><p>That is exactly, what I was looking for.</p><p>Thank you Akib!</p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@sachac",
-        "display_name": "Sacha Chua"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/anticomputer/ea71ecab639326bf540418f31c600e09",
-    "title": "ivy compliant vertico config",
-    "latest": "2022-12-28T04:39:43+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@anticomputer/109587561326424579",
-      "content": "<p>If you're like me and you have a lot of ivy + counsel-find-file muscle memory that introduces a slight directory navigation stutter when switching to vertico + vertico-directory, the following ugly hack makes vertico act like ivy on find-file :) <a href=\"https://gist.github.com/anticomputer/ea71ecab639326bf540418f31c600e09\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/anticomputer/e</span><span class=\"invisible\">a71ecab639326bf540418f31c600e09</span></a> note: this does depend on the new vertico-preselect option as well which isn't in the elpa version yet  <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://emacs.ch/tags/vertico\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vertico</span></a> <a href=\"https://emacs.ch/tags/ivy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ivy</span></a></p>"
     },
     "people": [
       {
