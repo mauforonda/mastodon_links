@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/suborbital/e2core",
+    "title": "GitHub - suborbital/e2core: Server for sandboxed third-party plugins, powered by WebAssembly",
+    "latest": "2023-01-06T19:14:38+00:00",
+    "first": "2023-01-06T19:14:38+00:00",
+    "last_post": {
+      "url": "https://vis.social/@idan/109643856519132695",
+      "content": "<p>Have you seen <a href=\"https://github.com/suborbital/e2core\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/suborbital/e2core</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@idan",
+        "display_name": "Idan Gazit"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/blog/favorite-data-visualizations-of-2022",
+    "title": "Top Data Visualizations, 2022",
+    "latest": "2023-01-06T19:10:51+00:00",
+    "first": "2023-01-06T19:10:51+00:00",
+    "last_post": {
+      "url": "https://vis.social/@observablehq/109643841646492925",
+      "content": "<p>\u2734\ufe0f The Observable team, also known as \u2018Observables\u2019, shared their favorite notebooks for the year 2022 and their reasons for choosing them. </p><p>\ud83e\udd14 What was your favorite notebook for 2022? </p><p>\u27a1\ufe0f<a href=\"https://observablehq.com/blog/favorite-data-visualizations-of-2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/blog/favorite</span><span class=\"invisible\">-data-visualizations-of-2022</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@observablehq",
+        "display_name": ""
+      }
+    ]
+  },
+  {
     "link": "https://github.com/molpopgen/text2qti_example",
     "title": "GitHub - molpopgen/text2qti_example: text2qti_example",
     "latest": "2023-01-06T17:42:34+00:00",
@@ -12,7 +44,8 @@
         "url": "https://mstdn.science/@contaminatedsci",
         "display_name": "Tami Lieberman"
       }
-    ]
+    ],
+    "first": "2023-01-06T17:42:34+00:00"
   },
   {
     "link": "https://github.com/ml729/org-habit-stats",
@@ -27,7 +60,8 @@
         "url": "https://emacs.ch/@sachac",
         "display_name": "Sacha Chua"
       }
-    ]
+    ],
+    "first": "2023-01-06T17:34:02+00:00"
   },
   {
     "link": "https://gitlab.com/sasanidas/emacs-c64-basic-ide",
@@ -42,7 +76,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-06T17:15:34+00:00"
   },
   {
     "link": "https://github.com/hodgesmr/mastodon_digest",
@@ -89,7 +124,8 @@
         "url": "https://hachyderm.io/@mnl",
         "display_name": "mnml mnl (he/him)"
       }
-    ]
+    ],
+    "first": "2023-01-06T16:46:47.992000+00:00"
   },
   {
     "link": "https://github.com/mauforonda/mastodon_digest",
@@ -116,7 +152,8 @@
         "url": "https://hachyderm.io/@mnl",
         "display_name": "mnml mnl (he/him)"
       }
-    ]
+    ],
+    "first": "2023-01-06T16:46:47.992000+00:00"
   },
   {
     "link": "https://github.com/mauforonda/mastodon_email_digest",
@@ -135,7 +172,8 @@
         "url": "https://hachyderm.io/@mnl",
         "display_name": "mnml mnl (he/him)"
       }
-    ]
+    ],
+    "first": "2023-01-06T16:46:47.992000+00:00"
   },
   {
     "link": "https://github.com/mauforonda/mastodon_links",
@@ -154,7 +192,8 @@
         "url": "https://hachyderm.io/@mnl",
         "display_name": "mnml mnl (he/him)"
       }
-    ]
+    ],
+    "first": "2023-01-06T16:46:47.992000+00:00"
   },
   {
     "link": "https://github.com/facebook/react/blob/main/packages/react-devtools-shared/src/__tests__/store-test.js",
@@ -169,7 +208,8 @@
         "url": "https://mas.to/@bvaughn",
         "display_name": "Brian Vaughn"
       }
-    ]
+    ],
+    "first": "2023-01-06T16:06:11+00:00"
   },
   {
     "link": "https://github.com/replayio/devtools/blob/main/packages/replay-next/components/sources/utils/getExpressionFromString.test.ts",
@@ -184,7 +224,8 @@
         "url": "https://mas.to/@bvaughn",
         "display_name": "Brian Vaughn"
       }
-    ]
+    ],
+    "first": "2023-01-06T16:05:51+00:00"
   },
   {
     "link": "https://github.com/HelgeKrueger/mastodon_recommender/blob/replies_visualization/fediverse_selection.ipynb",
@@ -199,7 +240,8 @@
         "url": "https://mas.to/@helgek",
         "display_name": "helge"
       }
-    ]
+    ],
+    "first": "2023-01-06T16:04:25+00:00"
   },
   {
     "link": "https://github.com/community-tech-alliance",
@@ -214,7 +256,8 @@
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
       }
-    ]
+    ],
+    "first": "2023-01-06T15:50:10+00:00"
   },
   {
     "link": "https://github.com/nektos/act",
@@ -229,7 +272,8 @@
         "url": "https://post.lurk.org/@liza",
         "display_name": "Liza Daly"
       }
-    ]
+    ],
+    "first": "2023-01-06T14:21:40+00:00"
   },
   {
     "link": "https://github.com/xenodium/dwim-shell-command",
@@ -248,7 +292,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-06T13:27:30+00:00"
   },
   {
     "link": "https://observablehq.com/@neocartocnrs/carpooling",
@@ -263,7 +308,8 @@
         "url": "https://vis.social/@neocarto",
         "display_name": "Nicolas Lambert \ud83c\udf0f"
       }
-    ]
+    ],
+    "first": "2023-01-06T13:18:18+00:00"
   },
   {
     "link": "https://observablehq.com/@neocartocnrs/hello-geotoolbox?collection=@neocartocnrs/geotoolbox",
@@ -278,7 +324,8 @@
         "url": "https://vis.social/@neocarto",
         "display_name": "Nicolas Lambert \ud83c\udf0f"
       }
-    ]
+    ],
+    "first": "2023-01-06T13:15:28+00:00"
   },
   {
     "link": "https://observablehq.com/collection/@jwolondon/advent-of-code-2022",
@@ -293,7 +340,8 @@
         "url": "https://hci.social/@eglassman",
         "display_name": "Elena Glassman"
       }
-    ]
+    ],
+    "first": "2023-01-06T13:14:14+00:00"
   },
   {
     "link": "https://github.com/papers-we-love/papers-we-love/blob/master/languages-theory/programming-languages-application-and-interpretation.pdf",
@@ -308,7 +356,8 @@
         "url": "https://mstdn.io/@paperswelove",
         "display_name": "Papers We Love"
       }
-    ]
+    ],
+    "first": "2023-01-06T13:05:06+00:00"
   },
   {
     "link": "https://github.com/natemoo-re/ultrahtml",
@@ -323,7 +372,8 @@
         "url": "https://m.webtoo.ls/@patak",
         "display_name": "patak"
       }
-    ]
+    ],
+    "first": "2023-01-06T12:55:20+00:00"
   },
   {
     "link": "https://github.com/jart/sectorlisp",
@@ -338,7 +388,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-06T11:31:44+00:00"
   },
   {
     "link": "https://github.com/jart/cosmopolitan",
@@ -353,7 +404,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-06T11:31:44+00:00"
   },
   {
     "link": "https://github.com/jart/disaster",
@@ -368,7 +420,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-06T11:31:44+00:00"
   },
   {
     "link": "https://github.com/jart/blink",
@@ -383,7 +436,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-06T11:31:44+00:00"
   },
   {
     "link": "https://github.com/mastodon/mastodon/issues/20089#issuecomment-1306654133",
@@ -398,7 +452,8 @@
         "url": "https://fediscience.org/@ct_bergstrom",
         "display_name": "Carl T. Bergstrom"
       }
-    ]
+    ],
+    "first": "2023-01-06T07:06:38+00:00"
   },
   {
     "link": "https://github.com/waldoj/moonstriker/",
@@ -413,7 +468,8 @@
         "url": "https://mastodon.social/@Colarusso",
         "display_name": "David Colarusso"
       }
-    ]
+    ],
+    "first": "2023-01-06T03:50:54+00:00"
   },
   {
     "link": "https://github.com/anticomputer/with-wireguard.el",
@@ -432,7 +488,8 @@
         "url": "https://emacs.ch/@sachac",
         "display_name": "Sacha Chua"
       }
-    ]
+    ],
+    "first": "2023-01-06T01:59:45+00:00"
   },
   {
     "link": "https://github.com/facebookresearch/paco",
@@ -447,7 +504,8 @@
         "url": "https://sigmoid.social/@aran",
         "display_name": "Aran Komatsuzaki"
       }
-    ]
+    ],
+    "first": "2023-01-06T01:41:53+00:00"
   },
   {
     "link": "https://github.com/TypeStrong/typedoc/issues/1606#issuecomment-1353688993",
@@ -462,7 +520,8 @@
         "url": "https://vis.social/@gka",
         "display_name": "gka"
       }
-    ]
+    ],
+    "first": "2023-01-05T23:12:59+00:00"
   },
   {
     "link": "https://github.com/mastodon/mastodon/pull/22956",
@@ -477,7 +536,8 @@
         "url": "https://friend.camp/@darius",
         "display_name": "Darius Kazemi"
       }
-    ]
+    ],
+    "first": "2023-01-05T21:03:04+00:00"
   },
   {
     "link": "https://github.com/WhatsApp/proxy",
@@ -492,7 +552,8 @@
         "url": "https://mstdn.social/@katestarbird",
         "display_name": "Kate Starbird"
       }
-    ]
+    ],
+    "first": "2023-01-05T19:49:13+00:00"
   },
   {
     "link": "https://observablehq.com/@mauforonda/who-to-follow-on-mastodon",
@@ -519,7 +580,8 @@
         "url": "https://vis.social/@observablehq",
         "display_name": ""
       }
-    ]
+    ],
+    "first": "2023-01-05T18:24:30+00:00"
   },
   {
     "link": "https://observablehq.com/@mauforonda/who-to-follow-on-mastodon?collection=@observablehq/mastodon-visualizations",
@@ -534,7 +596,8 @@
         "url": "https://vis.social/@observablehq",
         "display_name": ""
       }
-    ]
+    ],
+    "first": "2023-01-05T18:24:30+00:00"
   },
   {
     "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion",
@@ -549,7 +612,8 @@
         "url": "https://mstdn.social/@arnicas",
         "display_name": "arnicas"
       }
-    ]
+    ],
+    "first": "2023-01-05T17:12:06+00:00"
   },
   {
     "link": "https://github.com/cyberphone/json-canonicalization",
@@ -564,7 +628,8 @@
         "url": "https://merveilles.town/@cblgh",
         "display_name": "Alexander Cobleigh"
       }
-    ]
+    ],
+    "first": "2023-01-05T16:55:54+00:00"
   },
   {
     "link": "https://github.com/openelections/clarify",
@@ -579,7 +644,8 @@
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
       }
-    ]
+    ],
+    "first": "2023-01-05T15:47:43+00:00"
   },
   {
     "link": "https://github.com/idoerg/papertooter",
@@ -594,7 +660,8 @@
         "url": "https://fediscience.org/@dmikeando",
         "display_name": "Mike Ando"
       }
-    ]
+    ],
+    "first": "2023-01-05T15:26:03+00:00"
   },
   {
     "link": "https://github.com/RandomFractals",
@@ -609,7 +676,8 @@
         "url": "https://vis.social/@dataSamurai",
         "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
       }
-    ]
+    ],
+    "first": "2023-01-05T15:12:57+00:00"
   },
   {
     "link": "https://github.com/adhocteam/pushup",
@@ -624,7 +692,8 @@
         "url": "https://vis.social/@llimllib",
         "display_name": "llimllib"
       }
-    ]
+    ],
+    "first": "2023-01-05T15:07:32+00:00"
   },
   {
     "link": "https://github.com/NeuromatchAcademy/mastodon/blob/a209c1b0b43760a3915263d3e57c8140f0849acd/app/javascript/flavours/glitch/actions/statuses.js#L230-L257",
@@ -643,7 +712,8 @@
         "url": "https://sauropods.win/@futurebird",
         "display_name": "myrmepropagandist"
       }
-    ]
+    ],
+    "first": "2023-01-05T10:41:21+00:00"
   },
   {
     "link": "https://github.com/TIBHannover/optimetaCitations/",
@@ -658,7 +728,8 @@
         "url": "https://mstdn.science/@serhii",
         "display_name": "Serhii Nazarovets"
       }
-    ]
+    ],
+    "first": "2023-01-05T09:39:27+00:00"
   },
   {
     "link": "https://github.com/TIBHannover/optimetaGeo",
@@ -673,7 +744,8 @@
         "url": "https://mstdn.science/@serhii",
         "display_name": "Serhii Nazarovets"
       }
-    ]
+    ],
+    "first": "2023-01-05T09:39:27+00:00"
   },
   {
     "link": "https://github.com/HelgeKrueger/mastodon_recommender/blob/replies_visualization/hypergraph.ipynb",
@@ -688,7 +760,8 @@
         "url": "https://techhub.social/@ruthpozuelo",
         "display_name": "Ruth Pozuelo Martinez"
       }
-    ]
+    ],
+    "first": "2023-01-05T09:12:01+00:00"
   },
   {
     "link": "https://github.com/NeuromatchAcademy/mastodon/pull/8",
@@ -703,7 +776,8 @@
         "url": "https://sauropods.win/@futurebird",
         "display_name": "myrmepropagandist"
       }
-    ]
+    ],
+    "first": "2023-01-05T05:11:39+00:00"
   },
   {
     "link": "https://github.com/pymc-labs/CausalPy/releases/tag/0.0.8",
@@ -718,7 +792,8 @@
         "url": "https://bayes.club/@twiecki",
         "display_name": "Thomas Wiecki"
       }
-    ]
+    ],
+    "first": "2023-01-05T05:10:42+00:00"
   },
   {
     "link": "https://github.com/davecheney/pub",
@@ -733,7 +808,8 @@
         "url": "https://hachyderm.io/@kvnweb",
         "display_name": "Kevin Webb"
       }
-    ]
+    ],
+    "first": "2023-01-05T00:45:58.918000+00:00"
   },
   {
     "link": "https://github.com/jonathandinu/awesome-ai-art",
@@ -748,7 +824,8 @@
         "url": "https://mstdn.social/@golan",
         "display_name": "Golan Levin"
       }
-    ]
+    ],
+    "first": "2023-01-04T23:04:23+00:00"
   },
   {
     "link": "https://github.com/hodgesmr/mastodon_digest/commit/f70a01896e9b69e05803f6be1cd863e1ffc630b8",
@@ -763,7 +840,8 @@
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
       }
-    ]
+    ],
+    "first": "2023-01-04T22:41:17+00:00"
   },
   {
     "link": "https://github.com/MichalBryxi/foun",
@@ -778,7 +856,8 @@
         "url": "https://mastodon.coffee/@MichalBryxi",
         "display_name": "Michal Bryx\u00ed"
       }
-    ]
+    ],
+    "first": "2023-01-04T22:12:14+00:00"
   },
   {
     "link": "https://github.com/zeux/volk",
@@ -793,7 +872,8 @@
         "url": "https://mastodon.gamedev.place/@doppioslash",
         "display_name": "Claudia Doppioslash/ShaderCat"
       }
-    ]
+    ],
+    "first": "2023-01-04T21:32:47+00:00"
   },
   {
     "link": "https://github.com/bryangraham/Harvard_Ec2147/blob/master/Lecture_Notes/4_Lecture_Partially_Linear_Regression.pdf",
@@ -808,7 +888,8 @@
         "url": "https://econtwitter.net/@paulgp",
         "display_name": "Paul Goldsmith-Pinkham"
       }
-    ]
+    ],
+    "first": "2023-01-04T20:39:17+00:00"
   },
   {
     "link": "https://github.com/WebKit/WebKit/commit/5f26496d558011203cd8796591c3dd0aa4cf154e",
@@ -823,7 +904,8 @@
         "url": "https://toot.cafe/@oliverturner",
         "display_name": "Oliver"
       }
-    ]
+    ],
+    "first": "2023-01-04T19:23:45+00:00"
   },
   {
     "link": "https://github.com/evansiroky/timezone-boundary-builder/releases",
@@ -838,7 +920,8 @@
         "url": "https://fedi.simonwillison.net/@simon",
         "display_name": "Simon Willison"
       }
-    ]
+    ],
+    "first": "2023-01-04T18:48:21+00:00"
   },
   {
     "link": "https://github.com/magisAR9/JEGeovizRennes",
@@ -853,7 +936,8 @@
         "url": "https://mapstodon.space/@comeetie",
         "display_name": ""
       }
-    ]
+    ],
+    "first": "2023-01-04T18:39:16+00:00"
   },
   {
     "link": "https://codeberg.org/fediverse/fep",
@@ -868,7 +952,8 @@
         "url": "https://hachyderm.io/@mnl",
         "display_name": "mnml mnl (he/him)"
       }
-    ]
+    ],
+    "first": "2023-01-04T17:52:00.262000+00:00"
   },
   {
     "link": "https://observablehq.com/collection/@cartographie/cours",
@@ -887,7 +972,8 @@
         "url": "https://mapstodon.space/@jeremy",
         "display_name": "J\u00e9r\u00e9my Garniaux"
       }
-    ]
+    ],
+    "first": "2023-01-04T17:39:51+00:00"
   },
   {
     "link": "https://github.com/jspsych/datapipe/",
@@ -902,7 +988,8 @@
         "url": "https://mefi.social/@melissaekline",
         "display_name": "Melissa Kline Struhl"
       }
-    ]
+    ],
+    "first": "2023-01-04T17:19:09+00:00"
   },
   {
     "link": "https://github.com/cmock/WifiMulti_rs",
@@ -917,7 +1004,8 @@
         "url": "https://chaos.social/@cm",
         "display_name": "christian mock"
       }
-    ]
+    ],
+    "first": "2023-01-04T16:31:28+00:00"
   },
   {
     "link": "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9",
@@ -944,7 +1032,8 @@
         "url": "https://sigmoid.social/@ogrisel",
         "display_name": "Olivier Grisel"
       }
-    ]
+    ],
+    "first": "2023-01-04T16:29:43+00:00"
   },
   {
     "link": "https://github.com/MaartenGr/BERTopic",
@@ -959,7 +1048,8 @@
         "url": "https://mstdn.social/@arnicas",
         "display_name": "arnicas"
       }
-    ]
+    ],
+    "first": "2023-01-04T15:37:29+00:00"
   },
   {
     "link": "https://github.com/hometown-fork/hometown",
@@ -974,7 +1064,8 @@
         "url": "https://friend.camp/@darius",
         "display_name": "Darius Kazemi"
       }
-    ]
+    ],
+    "first": "2023-01-04T15:34:14+00:00"
   },
   {
     "link": "https://github.com/adamkucharski/scrapR",
@@ -989,7 +1080,8 @@
         "url": "https://med-mastodon.com/@adamjkucharski",
         "display_name": "Adam Kucharski"
       }
-    ]
+    ],
+    "first": "2023-01-04T13:36:44+00:00"
   },
   {
     "link": "https://github.com/v3ga/dessins_geometriques_et_artistiques",
@@ -1012,7 +1104,8 @@
         "url": "https://mastodon.social/@wattenberg",
         "display_name": "Martin Wattenberg"
       }
-    ]
+    ],
+    "first": "2023-01-04T11:10:16+00:00"
   },
   {
     "link": "https://observablehq.com/@neocartocnrs/clementines",
@@ -1027,7 +1120,8 @@
         "url": "https://vis.social/@neocarto",
         "display_name": "Nicolas Lambert \ud83c\udf0f"
       }
-    ]
+    ],
+    "first": "2023-01-04T10:40:15+00:00"
   },
   {
     "link": "https://gist.github.com/cutiful/4f36da3ed37b24f9a7106064393f5e7f",
@@ -1042,7 +1136,8 @@
         "url": "https://infosec.exchange/@thegrugq",
         "display_name": "the grugq"
       }
-    ]
+    ],
+    "first": "2023-01-04T07:26:46+00:00"
   },
   {
     "link": "https://gist.github.com/jackrusher/6722751",
@@ -1057,7 +1152,8 @@
         "url": "https://pkm.social/@just_be",
         "display_name": "Justin"
       }
-    ]
+    ],
+    "first": "2023-01-04T05:03:05+00:00"
   },
   {
     "link": "https://github.com/go-gitea/gitea/issues/18240",
@@ -1072,7 +1168,8 @@
         "url": "https://mastodon.social/@kidehen",
         "display_name": "Kingsley Uyi Idehen"
       }
-    ]
+    ],
+    "first": "2023-01-04T04:55:36+00:00"
   },
   {
     "link": "https://github.com/anticomputer/ovpn-mode/",
@@ -1087,7 +1184,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-04T03:19:12+00:00"
   },
   {
     "link": "https://github.com/anticomputer/passage.el",
@@ -1102,7 +1200,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-04T02:21:46+00:00"
   },
   {
     "link": "https://github.com/FiloSottile/passage",
@@ -1117,7 +1216,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-04T01:26:04+00:00"
   },
   {
     "link": "https://github.com/hodgesmr/2022-campaign-tech-keynote-talent",
@@ -1132,7 +1232,8 @@
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
       }
-    ]
+    ],
+    "first": "2023-01-04T00:56:54+00:00"
   },
   {
     "link": "https://github.com/giswqs/geospatial-data-catalogs",
@@ -1147,7 +1248,8 @@
         "url": "https://ecoevo.social/@cboettig",
         "display_name": "Carl Boettiger"
       }
-    ]
+    ],
+    "first": "2023-01-04T00:27:27+00:00"
   },
   {
     "link": "https://github.com/immunityinc/libptrace",
@@ -1162,7 +1264,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-03T22:59:24+00:00"
   },
   {
     "link": "https://github.com/ORCID/ORCID-Source/issues/6668#issuecomment-1369615284",
@@ -1177,7 +1280,8 @@
         "url": "https://social.cwts.nl/@vtraag",
         "display_name": "Vincent Traag"
       }
-    ]
+    ],
+    "first": "2023-01-03T22:01:52+00:00"
   },
   {
     "link": "https://github.com/AlbertRapp/PublicTidyTuesday/blob/main/2022-w04-boardgames/2022-w04-boardgames.Rmd",
@@ -1192,7 +1296,8 @@
         "url": "https://vis.social/@maarten",
         "display_name": "Maarten Lambrechts"
       }
-    ]
+    ],
+    "first": "2023-01-03T20:22:01+00:00"
   },
   {
     "link": "https://github.com/AllanCameron/geomtextpath",
@@ -1207,7 +1312,8 @@
         "url": "https://vis.social/@maarten",
         "display_name": "Maarten Lambrechts"
       }
-    ]
+    ],
+    "first": "2023-01-03T20:22:01+00:00"
   },
   {
     "link": "https://github.com/fwupd/fwupd/releases/tag/1.8.9",
@@ -1222,7 +1328,8 @@
         "url": "https://sre.masto.host/@jinxos",
         "display_name": "Dimitrios Psychogios"
       }
-    ]
+    ],
+    "first": "2023-01-03T19:59:57+00:00"
   },
   {
     "link": "https://github.com/jeremiak/noaa-cpc-map-scraper",
@@ -1237,7 +1344,8 @@
         "url": "https://journa.host/@jeremiak",
         "display_name": "Jeremia Kimelman"
       }
-    ]
+    ],
+    "first": "2023-01-03T19:44:42+00:00"
   },
   {
     "link": "https://github.com/web-padawan/webcomponents.today",
@@ -1252,7 +1360,8 @@
         "url": "https://status.kinlan.me/@paul",
         "display_name": "Paul Kinlan"
       }
-    ]
+    ],
+    "first": "2023-01-03T19:26:18+00:00"
   },
   {
     "link": "https://github.com/hometown-fork/hometown/releases/tag/v4.0.2%2Bhometown-1.1.0",
@@ -1271,7 +1380,8 @@
         "url": "https://friend.camp/@aparrish",
         "display_name": "allison"
       }
-    ]
+    ],
+    "first": "2023-01-03T18:33:03+00:00"
   },
   {
     "link": "https://observablehq.com/@neocartocnrs/map-geojson?collection=@neocartocnrs/geotoolbox",
@@ -1290,7 +1400,8 @@
         "url": "https://front-end.social/@saneef",
         "display_name": "Saneef H. Ansari"
       }
-    ]
+    ],
+    "first": "2023-01-03T18:16:41+00:00"
   },
   {
     "link": "https://observablehq.com/@neocartocnrs/filter-geojson?collection=@neocartocnrs/geotoolbox",
@@ -1309,7 +1420,8 @@
         "url": "https://front-end.social/@saneef",
         "display_name": "Saneef H. Ansari"
       }
-    ]
+    ],
+    "first": "2023-01-03T18:16:41+00:00"
   },
   {
     "link": "https://github.com/docker-library/official-images/pull/13823",
@@ -1324,7 +1436,8 @@
         "url": "https://chaos.social/@janl",
         "display_name": "Jan Lehnardt \ud83d\udecb\ufe0f"
       }
-    ]
+    ],
+    "first": "2023-01-03T17:02:06+00:00"
   },
   {
     "link": "https://github.com/benbrown/shuttlecraft",
@@ -1351,7 +1464,8 @@
         "url": "https://merveilles.town/@lrhodes",
         "display_name": "L. Rhodes"
       }
-    ]
+    ],
+    "first": "2023-01-03T16:24:14+00:00"
   },
   {
     "link": "https://github.com/singlesourcepub/community/discussions/34",
@@ -1366,7 +1480,8 @@
         "url": "https://fedihum.org/@jcls",
         "display_name": "JCLS"
       }
-    ]
+    ],
+    "first": "2023-01-03T16:00:51+00:00"
   },
   {
     "link": "https://github.com/nhaouari/obsidian-textgenerator-plugin",
@@ -1381,7 +1496,8 @@
         "url": "https://pkm.social/@eleanorkonik",
         "display_name": "Eleanor Konik"
       }
-    ]
+    ],
+    "first": "2023-01-03T14:47:55+00:00"
   },
   {
     "link": "https://observablehq.com/@riate/flow-based-cartograms-gastner-seguy-more-2018-in-the-browse",
@@ -1400,7 +1516,8 @@
         "url": "https://vis.social/@maarten",
         "display_name": "Maarten Lambrechts"
       }
-    ]
+    ],
+    "first": "2023-01-03T14:22:07+00:00"
   },
   {
     "link": "https://github.com/glitch-soc/mastodon/pull/1502",
@@ -1415,7 +1532,8 @@
         "url": "https://chaos.social/@zx",
         "display_name": "Zx"
       }
-    ]
+    ],
+    "first": "2023-01-03T13:53:46+00:00"
   },
   {
     "link": "https://github.com/pmndrs/drei#html",
@@ -1430,7 +1548,8 @@
         "url": "https://mas.to/@steveruizok",
         "display_name": "Steve Ruiz"
       }
-    ]
+    ],
+    "first": "2023-01-03T13:44:02+00:00"
   },
   {
     "link": "https://github.com/pymc-devs/pytensor/issues/161",
@@ -1445,7 +1564,8 @@
         "url": "https://bayes.club/@twiecki",
         "display_name": "Thomas Wiecki"
       }
-    ]
+    ],
+    "first": "2023-01-03T12:55:47+00:00"
   },
   {
     "link": "https://github.com/morluna/ChatGPT",
@@ -1460,7 +1580,8 @@
         "url": "https://mastodon.social/@ctietze",
         "display_name": "Christian Tietze"
       }
-    ]
+    ],
+    "first": "2023-01-03T09:43:39+00:00"
   },
   {
     "link": "https://github.com/khonsulabs/okaywal",
@@ -1475,7 +1596,8 @@
         "url": "https://hachyderm.io/@colel",
         "display_name": "Cole Lawrence"
       }
-    ]
+    ],
+    "first": "2023-01-03T07:10:14.301000+00:00"
   },
   {
     "link": "https://gist.github.com/jsit/545542b076f559a92ec7ffd4d35c1895",
@@ -1490,7 +1612,8 @@
         "url": "https://social.coop/@bmann",
         "display_name": "Boris Mann"
       }
-    ]
+    ],
+    "first": "2023-01-03T05:11:29+00:00"
   },
   {
     "link": "https://github.com/hometown-fork/hometown/wiki/",
@@ -1505,7 +1628,8 @@
         "url": "https://friend.camp/@darius",
         "display_name": "Darius Kazemi"
       }
-    ]
+    ],
+    "first": "2023-01-03T03:38:47+00:00"
   },
   {
     "link": "https://github.com/facebookresearch/ConvNeXt-V2",
@@ -1520,7 +1644,8 @@
         "url": "https://sigmoid.social/@R4_Unit",
         "display_name": "R4_Unit"
       }
-    ]
+    ],
+    "first": "2023-01-03T03:35:12+00:00"
   },
   {
     "link": "https://github.com/mastodon/mastodon/discussions/18347",
@@ -1539,7 +1664,8 @@
         "url": "https://infosec.exchange/@briankrebs",
         "display_name": "BrianKrebs"
       }
-    ]
+    ],
+    "first": "2023-01-03T01:37:35+00:00"
   },
   {
     "link": "https://github.com/tebl/Amiga-DrawBridge",
@@ -1554,7 +1680,8 @@
         "url": "https://digipres.club/@foone",
         "display_name": "Foone"
       }
-    ]
+    ],
+    "first": "2023-01-03T01:00:14+00:00"
   },
   {
     "link": "https://github.com/mastodon/mastodon/issues/10557",
@@ -1569,7 +1696,8 @@
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
       }
-    ]
+    ],
+    "first": "2023-01-03T00:48:54+00:00"
   },
   {
     "link": "https://github.com/urschrei/cocktails",
@@ -1584,7 +1712,8 @@
         "url": "https://mastodon.social/@tmcw",
         "display_name": "Tom MacWright"
       }
-    ]
+    ],
+    "first": "2023-01-03T00:34:41+00:00"
   },
   {
     "link": "https://github.com/andrewwillmott/sun-sky",
@@ -1599,7 +1728,8 @@
         "url": "https://mastodon.gamedev.place/@doppioslash",
         "display_name": "Claudia Doppioslash/ShaderCat"
       }
-    ]
+    ],
+    "first": "2023-01-03T00:19:35+00:00"
   },
   {
     "link": "https://observablehq.com/@ghing/convert-arbitrary-json-tracks-to-gpx",
@@ -1614,7 +1744,8 @@
         "url": "https://mastodon.social/@geoffhing",
         "display_name": "Geoff Hing"
       }
-    ]
+    ],
+    "first": "2023-01-02T23:52:40+00:00"
   },
   {
     "link": "https://github.com/mjbommar/gpt-takes-the-bar-exam",
@@ -1629,7 +1760,8 @@
         "url": "https://artoot.xyz/@interstar",
         "display_name": "interstar"
       }
-    ]
+    ],
+    "first": "2023-01-02T23:21:29+00:00"
   },
   {
     "link": "https://github.com/bvaughn/react-resizable-panels/commit/7a81c3977e546467178e799031fca830fc5a3928",
@@ -1644,7 +1776,8 @@
         "url": "https://mas.to/@bvaughn",
         "display_name": "Brian Vaughn"
       }
-    ]
+    ],
+    "first": "2023-01-02T22:33:33+00:00"
   },
   {
     "link": "https://github.com/karpathy/nanoGPT",
@@ -1659,7 +1792,8 @@
         "url": "https://fedi.simonwillison.net/@simon",
         "display_name": "Simon Willison"
       }
-    ]
+    ],
+    "first": "2023-01-02T21:46:12+00:00"
   },
   {
     "link": "https://gist.github.com/nicklockwood/ff51117ac8139248507ecc84a1ed7fed",
@@ -1674,7 +1808,8 @@
         "url": "https://mastodon.social/@ctietze",
         "display_name": "Christian Tietze"
       }
-    ]
+    ],
+    "first": "2023-01-02T21:45:43+00:00"
   },
   {
     "link": "https://github.com/acowley/mastodon_digest/tree/nix",
@@ -1689,7 +1824,8 @@
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
       }
-    ]
+    ],
+    "first": "2023-01-02T21:02:31+00:00"
   },
   {
     "link": "https://github.com/corkami/pics/blob/master/binary/README.md#images",
@@ -1712,7 +1848,8 @@
         "url": "https://vis.social/@jhilden",
         "display_name": "Jonatan Hild\u00e9n"
       }
-    ]
+    ],
+    "first": "2023-01-02T20:04:20+00:00"
   },
   {
     "link": "https://github.com/placemark/figma-plugin",
@@ -1727,7 +1864,8 @@
         "url": "https://mastodon.social/@tmcw",
         "display_name": "Tom MacWright"
       }
-    ]
+    ],
+    "first": "2023-01-02T19:58:55+00:00"
   },
   {
     "link": "https://github.com/nolanlawson/open-stylable/issues/1",
@@ -1742,7 +1880,8 @@
         "url": "https://toot.cafe/@nolan",
         "display_name": "Nolan"
       }
-    ]
+    ],
+    "first": "2023-01-02T19:07:02+00:00"
   },
   {
     "link": "https://github.com/nolanlawson/open-stylable",
@@ -1757,7 +1896,8 @@
         "url": "https://toot.cafe/@nolan",
         "display_name": "Nolan"
       }
-    ]
+    ],
+    "first": "2023-01-02T19:05:23+00:00"
   },
   {
     "link": "https://github.com/WICG/webcomponents/issues/909",
@@ -1772,7 +1912,8 @@
         "url": "https://toot.cafe/@nolan",
         "display_name": "Nolan"
       }
-    ]
+    ],
+    "first": "2023-01-02T19:05:23+00:00"
   },
   {
     "link": "https://github.com/kitao/pyxel",
@@ -1787,7 +1928,8 @@
         "url": "https://sigmoid.social/@R4_Unit",
         "display_name": "R4_Unit"
       }
-    ]
+    ],
+    "first": "2023-01-02T18:45:02+00:00"
   },
   {
     "link": "https://github.com/RandomFractals/vscode-vega-viewer/blob/master/CHANGELOG.md",
@@ -1802,7 +1944,8 @@
         "url": "https://vis.social/@dataSamurai",
         "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
       }
-    ]
+    ],
+    "first": "2023-01-02T17:56:14+00:00"
   },
   {
     "link": "https://github.com/rq/django-rq#synchronous-mode",
@@ -1817,7 +1960,8 @@
         "url": "https://indieweb.social/@adamghill",
         "display_name": "adamghill"
       }
-    ]
+    ],
+    "first": "2023-01-02T15:29:36+00:00"
   },
   {
     "link": "https://github.com/rq/django-rq",
@@ -1832,7 +1976,8 @@
         "url": "https://indieweb.social/@adamghill",
         "display_name": "adamghill"
       }
-    ]
+    ],
+    "first": "2023-01-02T15:29:36+00:00"
   },
   {
     "link": "https://github.com/dabapps/django-db-queue",
@@ -1847,7 +1992,8 @@
         "url": "https://indieweb.social/@adamghill",
         "display_name": "adamghill"
       }
-    ]
+    ],
+    "first": "2023-01-02T15:29:36+00:00"
   },
   {
     "link": "https://gitlab.com/bkhl/dotfiles/-/commit/d54a99fb3573f2640476ca6b61bf339ca4524822",
@@ -1862,7 +2008,8 @@
         "url": "https://mastodon.social/@ctietze",
         "display_name": "Christian Tietze"
       }
-    ]
+    ],
+    "first": "2023-01-02T14:22:00+00:00"
   },
   {
     "link": "https://gist.github.com/ikashnitsky/cf2c29a29d39f79bb1c857a4fefc2cd4",
@@ -1877,7 +2024,8 @@
         "url": "https://datasci.social/@UrbanDemog",
         "display_name": "Rafael H M Pereira"
       }
-    ]
+    ],
+    "first": "2023-01-02T12:54:03+00:00"
   },
   {
     "link": "https://github.com/Flave/circular-calendar/blob/main/print/2023_CW.pdf",
@@ -1892,7 +2040,8 @@
         "url": "https://vis.social/@moritz",
         "display_name": "moritz"
       }
-    ]
+    ],
+    "first": "2023-01-02T09:59:18+00:00"
   },
   {
     "link": "https://github.com/tweetback/tweetback-canonical",
@@ -1907,7 +2056,8 @@
         "url": "https://toolsforthought.rocks/@boris",
         "display_name": "Boris Mann"
       }
-    ]
+    ],
+    "first": "2023-01-02T08:52:27+00:00"
   },
   {
     "link": "https://github.com/rmcelreath/stat_rethinking_2023",
@@ -1922,7 +2072,8 @@
         "url": "https://nerdculture.de/@rlmcelreath",
         "display_name": "Richard McElreath \ud83e\udd94"
       }
-    ]
+    ],
+    "first": "2023-01-02T07:55:06+00:00"
   },
   {
     "link": "https://github.com/ThomasAlbin/Astroniz-YT-Tutorials/blob/main/%5BProject%5D-Near-Earth-Objects/13_2_NEO_Sky_Prediction.ipynb",
@@ -1937,7 +2088,8 @@
         "url": "https://spacey.space/@nyrath",
         "display_name": "Winchell Chung \u269b\ud83d\ude80"
       }
-    ]
+    ],
+    "first": "2023-01-02T01:19:13+00:00"
   },
   {
     "link": "https://github.com/DrSensor/nusa/releases",
@@ -1952,7 +2104,8 @@
         "url": "https://fosstodon.org/@drsensor",
         "display_name": "\u30fe(\uff3e-\uff3e)\u30ce :t_blink:"
       }
-    ]
+    ],
+    "first": "2023-01-01T23:29:56+00:00"
   },
   {
     "link": "https://github.com/TodePond/DreamBerd/releases/tag/v1.0.0.0.0.0.0.0.0a",
@@ -1967,7 +2120,8 @@
         "url": "https://mastodon.social/@TodePond",
         "display_name": "Lu Wilson"
       }
-    ]
+    ],
+    "first": "2023-01-01T22:20:18+00:00"
   },
   {
     "link": "https://github.com/anticomputer/age.el/releases/tag/v0.1.0",
@@ -1982,7 +2136,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-01T19:43:41+00:00"
   },
   {
     "link": "https://github.com/mastodon/mastodon/issues/1685",
@@ -1997,7 +2152,8 @@
         "url": "https://sauropods.win/@futurebird",
         "display_name": "myrmepropagandist"
       }
-    ]
+    ],
+    "first": "2023-01-01T19:26:12+00:00"
   },
   {
     "link": "https://github.com/slavingia/askmybook",
@@ -2012,7 +2168,8 @@
         "url": "https://toolsforthought.rocks/@billseitz",
         "display_name": "Bill Seitz"
       }
-    ]
+    ],
+    "first": "2023-01-01T18:28:03+00:00"
   },
   {
     "link": "https://github.com/astrowonk/mastodon_reader",
@@ -2027,7 +2184,8 @@
         "url": "https://vmst.io/@marcoshuerta",
         "display_name": "Marcos Huerta"
       }
-    ]
+    ],
+    "first": "2023-01-01T17:33:52+00:00"
   },
   {
     "link": "https://github.com/TodePond/ThingsIWantToMake",
@@ -2042,7 +2200,8 @@
         "url": "https://mastodon.social/@TodePond",
         "display_name": "Lu Wilson"
       }
-    ]
+    ],
+    "first": "2023-01-01T16:25:08+00:00"
   },
   {
     "link": "https://github.com/chrisbarrett/nursery",
@@ -2057,7 +2216,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-01T16:22:02+00:00"
   },
   {
     "link": "https://github.com/radian-software/el-patch",
@@ -2072,7 +2232,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2023-01-01T16:21:46+00:00"
   },
   {
     "link": "https://github.com/EleutherAI/pythia",
@@ -2087,7 +2248,8 @@
         "url": "https://sigmoid.social/@moultano",
         "display_name": "Ryan Moulton"
       }
-    ]
+    ],
+    "first": "2023-01-01T15:50:10+00:00"
   },
   {
     "link": "https://github.com/rasbt/py-args/tree/master/glob-replace",
@@ -2102,7 +2264,8 @@
         "url": "https://mastodon.social/@SebRaschka",
         "display_name": "Sebastian Raschka"
       }
-    ]
+    ],
+    "first": "2023-01-01T14:16:09+00:00"
   },
   {
     "link": "https://observablehq.com/d/afc44c33d5a07ae8",
@@ -2117,7 +2280,8 @@
         "url": "https://front-end.social/@saneef",
         "display_name": "Saneef H. Ansari"
       }
-    ]
+    ],
+    "first": "2023-01-01T14:01:15+00:00"
   },
   {
     "link": "https://github.com/RandomFractals/vscode-vega-viewer/releases",
@@ -2132,7 +2296,8 @@
         "url": "https://vis.social/@dataSamurai",
         "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
       }
-    ]
+    ],
+    "first": "2023-01-01T13:32:22+00:00"
   },
   {
     "link": "https://codeberg.org/tom79/Fedilab/issues/702",
@@ -2147,7 +2312,8 @@
         "url": "https://toot.fedilab.app/@apps",
         "display_name": "Fedilab Apps"
       }
-    ]
+    ],
+    "first": "2023-01-01T12:44:39+00:00"
   },
   {
     "link": "https://github.com/cve-search/cve-search",
@@ -2162,7 +2328,8 @@
         "url": "https://cyberplace.social/@GossiTheDog",
         "display_name": "Kevin Beaumont"
       }
-    ]
+    ],
+    "first": "2023-01-01T11:51:49+00:00"
   },
   {
     "link": "https://github.com/mastodon/mastodon/pull/19059",
@@ -2177,7 +2344,8 @@
         "url": "https://mastodon.online/@hildabast",
         "display_name": "Hilda Bastian"
       }
-    ]
+    ],
+    "first": "2023-01-01T03:57:02+00:00"
   },
   {
     "link": "https://github.com/mastodon/mastodon/discussions/22644#discussioncomment-4562748",
@@ -2192,7 +2360,8 @@
         "url": "https://sigmoid.social/@andrey",
         "display_name": "Andrey Kurenkov"
       }
-    ]
+    ],
+    "first": "2023-01-01T00:04:38+00:00"
   },
   {
     "link": "https://github.com/adamrushy/OpenAISwift",
@@ -2207,7 +2376,8 @@
         "url": "https://mstdn.social/@adamwulf",
         "display_name": "Adam Wulf"
       }
-    ]
+    ],
+    "first": "2022-12-31T23:09:01+00:00"
   },
   {
     "link": "https://github.com/anticomputer/age.el",
@@ -2226,7 +2396,8 @@
         "url": "https://emacs.ch/@sachac",
         "display_name": "Sacha Chua"
       }
-    ]
+    ],
+    "first": "2022-12-31T22:09:37+00:00"
   },
   {
     "link": "https://github.com/org-roam/org-roam/pull/2302",
@@ -2241,7 +2412,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2022-12-31T22:09:37+00:00"
   },
   {
     "link": "https://codeberg.org/akkartik/pong.love",
@@ -2256,7 +2428,8 @@
         "url": "https://toolsforthought.rocks/@billseitz",
         "display_name": "Bill Seitz"
       }
-    ]
+    ],
+    "first": "2022-12-31T21:53:04+00:00"
   },
   {
     "link": "https://github.com/gohugoio/hugo/releases",
@@ -2271,7 +2444,8 @@
         "url": "https://status.kinlan.me/@paul",
         "display_name": "Paul Kinlan"
       }
-    ]
+    ],
+    "first": "2022-12-31T19:30:13+00:00"
   },
   {
     "link": "https://github.com/steveruizok/polyclip-js/tree/main/packages/polyclip-js",
@@ -2286,7 +2460,8 @@
         "url": "https://mas.to/@steveruizok",
         "display_name": "Steve Ruiz"
       }
-    ]
+    ],
+    "first": "2022-12-31T18:58:48+00:00"
   },
   {
     "link": "https://observablehq.com/@fil/all-the-notebooks-ive-liked",
@@ -2305,7 +2480,8 @@
         "url": "https://vis.social/@fil",
         "display_name": "Fil"
       }
-    ]
+    ],
+    "first": "2022-12-31T18:47:51+00:00"
   },
   {
     "link": "https://github.com/kakaobrain/karlo",
@@ -2324,7 +2500,8 @@
         "url": "https://sigmoid.social/@TedUnderwood",
         "display_name": "Ted Underwood"
       }
-    ]
+    ],
+    "first": "2022-12-31T17:46:11+00:00"
   },
   {
     "link": "https://gist.github.com/RobertAKARobin/850a408e04d5414e67d308a2b5847378",
@@ -2339,7 +2516,8 @@
         "url": "https://toot.cafe/@oliverturner",
         "display_name": "Oliver"
       }
-    ]
+    ],
+    "first": "2022-12-31T16:44:14+00:00"
   },
   {
     "link": "https://github.com/mastodon/mastodon/issues/20673",
@@ -2362,7 +2540,8 @@
         "url": "https://mastodon.social/@danbri",
         "display_name": "danbri"
       }
-    ]
+    ],
+    "first": "2022-12-31T15:41:41+00:00"
   },
   {
     "link": "https://github.com/anticomputer/age.el/issues/4",
@@ -2377,7 +2556,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2022-12-31T14:20:33+00:00"
   },
   {
     "link": "https://github.com/adamghill/fediview/discussions",
@@ -2392,7 +2572,8 @@
         "url": "https://hachyderm.io/@mauforonda",
         "display_name": "mauforonda"
       }
-    ]
+    ],
+    "first": "2022-12-31T12:59:23.567000+00:00"
   },
   {
     "link": "https://github.com/pola-rs/r-polars",
@@ -2407,7 +2588,8 @@
         "url": "https://mastodon.social/@hrbrmstr",
         "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
       }
-    ]
+    ],
+    "first": "2022-12-31T12:41:23+00:00"
   },
   {
     "link": "https://github.com/lucahammer/fediporter",
@@ -2426,7 +2608,8 @@
         "url": "https://cyberplace.social/@GossiTheDog",
         "display_name": "Kevin Beaumont"
       }
-    ]
+    ],
+    "first": "2022-12-31T12:39:37+00:00"
   },
   {
     "link": "https://github.com/zakird/crux-top-lists",
@@ -2441,7 +2624,8 @@
         "url": "https://status.kinlan.me/@paul",
         "display_name": "Paul Kinlan"
       }
-    ]
+    ],
+    "first": "2022-12-31T08:32:25+00:00"
   },
   {
     "link": "https://github.com/cachapa/sqlite_crdt",
@@ -2456,7 +2640,8 @@
         "url": "https://nondeterministic.computer/@martin",
         "display_name": "Martin Kleppmann"
       }
-    ]
+    ],
+    "first": "2022-12-31T07:32:34+00:00"
   },
   {
     "link": "https://github.com/brohrer/how-to-train-your-robot/tree/main/chapter_5/sandbox/af_flybot",
@@ -2471,7 +2656,8 @@
         "url": "https://sigmoid.social/@TedUnderwood",
         "display_name": "Ted Underwood"
       }
-    ]
+    ],
+    "first": "2022-12-31T01:35:07+00:00"
   },
   {
     "link": "https://github.com/panicz/grasp-android/blob/master/stages/retreat/GRASP/src/test-painter.scm#L252",
@@ -2486,7 +2672,8 @@
         "url": "https://merveilles.town/@akkartik",
         "display_name": "Kartik Agaram"
       }
-    ]
+    ],
+    "first": "2022-12-30T23:37:12+00:00"
   },
   {
     "link": "https://github.com/shwestrick/smlfmt",
@@ -2501,7 +2688,8 @@
         "url": "https://mathstodon.xyz/@mattmight",
         "display_name": "Matt Might"
       }
-    ]
+    ],
+    "first": "2022-12-30T23:05:32+00:00"
   },
   {
     "link": "https://github.com/nolanlawson/pinafore/issues/2337",
@@ -2516,7 +2704,8 @@
         "url": "https://mastodon.social/@kidehen",
         "display_name": "Kingsley Uyi Idehen"
       }
-    ]
+    ],
+    "first": "2022-12-30T21:58:29+00:00"
   },
   {
     "link": "https://github.com/mastodon/mastodon/pull/22393",
@@ -2531,7 +2720,8 @@
         "url": "https://m.webtoo.ls/@patak",
         "display_name": "patak"
       }
-    ]
+    ],
+    "first": "2022-12-30T19:40:42+00:00"
   },
   {
     "link": "https://github.com/rotki/rotki/releases",
@@ -2546,7 +2736,8 @@
         "url": "https://cryptodon.lol/@lefteris",
         "display_name": "lefterisjp"
       }
-    ]
+    ],
+    "first": "2022-12-30T19:28:07+00:00"
   },
   {
     "link": "https://github.com/anticomputer/age.el/tree/main#why-age-over-gpg",
@@ -2561,7 +2752,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2022-12-30T19:03:45+00:00"
   },
   {
     "link": "https://github.com/nolanlawson/emoji-picker-element/blob/master/CHANGELOG.md#1150-2022-12-29",
@@ -2576,7 +2768,8 @@
         "url": "https://toot.cafe/@nolan",
         "display_name": "Nolan"
       }
-    ]
+    ],
+    "first": "2022-12-30T18:21:26+00:00"
   },
   {
     "link": "https://github.com/brickstackr/pillow-hello-world",
@@ -2591,7 +2784,8 @@
         "url": "https://mastodon.world/@h_thoreson",
         "display_name": "hannah"
       }
-    ]
+    ],
+    "first": "2022-12-30T17:30:12+00:00"
   },
   {
     "link": "https://github.com/eslint/rfcs/pull/102",
@@ -2606,7 +2800,8 @@
         "url": "https://fosstodon.org/@JoshuaKGoldberg",
         "display_name": "Josh Goldberg \ud83d\udc96"
       }
-    ]
+    ],
+    "first": "2022-12-30T15:16:52+00:00"
   },
   {
     "link": "https://github.com/papers-we-love/papers-we-love/blob/master/datastores/database-metatheory--asking-the-big-queries.pdf",
@@ -2621,7 +2816,8 @@
         "url": "https://mstdn.io/@paperswelove",
         "display_name": "Papers We Love"
       }
-    ]
+    ],
+    "first": "2022-12-30T13:05:05+00:00"
   },
   {
     "link": "https://github.com/orgs/hometown-fork/projects/2/views/1",
@@ -2636,7 +2832,8 @@
         "url": "https://friend.camp/@darius",
         "display_name": "Darius Kazemi"
       }
-    ]
+    ],
+    "first": "2022-12-30T11:09:30+00:00"
   },
   {
     "link": "https://github.com/alt-text-org/alt-text-copy",
@@ -2651,7 +2848,8 @@
         "url": "https://mastodon.me.uk/@garius",
         "display_name": "John Bull"
       }
-    ]
+    ],
+    "first": "2022-12-30T09:04:06+00:00"
   },
   {
     "link": "https://github.com/mastodon/mastodon/issues/22383#issuecomment-1367784377",
@@ -2666,7 +2864,8 @@
         "url": "https://mamot.fr/@nemobis",
         "display_name": "Nemo_bis \ud83c\udf08"
       }
-    ]
+    ],
+    "first": "2022-12-30T08:28:01+00:00"
   },
   {
     "link": "https://github.com/str4d/age-plugin-yubikey/",
@@ -2681,7 +2880,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2022-12-30T06:35:44+00:00"
   },
   {
     "link": "https://github.com/hometown-fork/hometown/pull/1264",
@@ -2696,7 +2896,8 @@
         "url": "https://friend.camp/@darius",
         "display_name": "Darius Kazemi"
       }
-    ]
+    ],
+    "first": "2022-12-30T05:54:44+00:00"
   },
   {
     "link": "https://github.com/anticomputer/age.el#org-roam-does-not-support-age-files",
@@ -2711,7 +2912,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2022-12-30T05:15:07+00:00"
   },
   {
     "link": "https://github.com/glitch-soc/mastodon/blob/main/app/javascript/flavours/glitch/containers/status_container.js#L97",
@@ -2726,7 +2928,8 @@
         "url": "https://neuromatch.social/@jonny",
         "display_name": "Jonny"
       }
-    ]
+    ],
+    "first": "2022-12-30T03:17:37+00:00"
   },
   {
     "link": "https://github.com/nategri",
@@ -2741,7 +2944,8 @@
         "url": "https://tacobelllabs.net/@ComradeRobot",
         "display_name": "Notorious RBMK"
       }
-    ]
+    ],
+    "first": "2022-12-30T03:11:02+00:00"
   },
   {
     "link": "https://github.com/dive/macports-custom/blob/main/ports/editors/emacs-plus/Portfile#L97-L161",
@@ -2756,7 +2960,8 @@
         "url": "https://emacs.ch/@sachac",
         "display_name": "Sacha Chua"
       }
-    ]
+    ],
+    "first": "2022-12-29T23:57:51+00:00"
   },
   {
     "link": "https://github.com/jdalrym2/road_surface_classifier",
@@ -2771,7 +2976,8 @@
         "url": "https://techhub.social/@ruthpozuelo",
         "display_name": "Ruth Pozuelo Martinez"
       }
-    ]
+    ],
+    "first": "2022-12-29T23:02:19+00:00"
   },
   {
     "link": "https://github.com/str4d/rage",
@@ -2790,7 +2996,8 @@
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
       }
-    ]
+    ],
+    "first": "2022-12-29T22:15:05+00:00"
   },
   {
     "link": "https://gist.github.com/ummjackson/050044e661c6c5fa3ae61aa8a8baf485",
@@ -2805,7 +3012,8 @@
         "url": "https://sigmoid.social/@TedUnderwood",
         "display_name": "Ted Underwood"
       }
-    ]
+    ],
+    "first": "2022-12-29T22:03:30+00:00"
   },
   {
     "link": "https://github.com/bvaughn/react-resizable-panels/releases/tag/v0.0.23",
@@ -2820,7 +3028,8 @@
         "url": "https://mas.to/@bvaughn",
         "display_name": "Brian Vaughn"
       }
-    ]
+    ],
+    "first": "2022-12-29T21:33:51+00:00"
   },
   {
     "link": "https://github.com/mastodon/mastodon/discussions/21444",
@@ -2835,7 +3044,8 @@
         "url": "https://mastodon.social/@kidehen",
         "display_name": "Kingsley Uyi Idehen"
       }
-    ]
+    ],
+    "first": "2022-12-29T21:19:11+00:00"
   },
   {
     "link": "https://github.com/glitch-soc/mastodon/blob/main/app/javascript/flavours/glitch/features/status/index.js",
@@ -2850,7 +3060,8 @@
         "url": "https://neuromatch.social/@jonny",
         "display_name": "Jonny"
       }
-    ]
+    ],
+    "first": "2022-12-29T20:45:05+00:00"
   },
   {
     "link": "https://github.com/glitch-soc/mastodon/blob/main/app/javascript/flavours/glitch/features/status/components/detailed_status.js",
@@ -2865,7 +3076,8 @@
         "url": "https://neuromatch.social/@jonny",
         "display_name": "Jonny"
       }
-    ]
+    ],
+    "first": "2022-12-29T20:45:05+00:00"
   },
   {
     "link": "https://github.com/glitch-soc/mastodon/blob/cbfeb105a8408bebd81bb697d58a5635f3024105/app/javascript/flavours/glitch/features/status/index.js#L558-L569",
@@ -2880,7 +3092,8 @@
         "url": "https://neuromatch.social/@jonny",
         "display_name": "Jonny"
       }
-    ]
+    ],
+    "first": "2022-12-29T20:45:05+00:00"
   },
   {
     "link": "https://github.com/glitch-soc/mastodon/blob/main/app/models/status.rb#L62",
@@ -2895,7 +3108,8 @@
         "url": "https://neuromatch.social/@jonny",
         "display_name": "Jonny"
       }
-    ]
+    ],
+    "first": "2022-12-29T20:21:11+00:00"
   },
   {
     "link": "https://github.com/glitch-soc/mastodon/blob/cbfeb105a8408bebd81bb697d58a5635f3024105/app/models/concerns/status_threading_concern.rb#L10",
@@ -2910,7 +3124,8 @@
         "url": "https://neuromatch.social/@jonny",
         "display_name": "Jonny"
       }
-    ]
+    ],
+    "first": "2022-12-29T20:21:11+00:00"
   },
   {
     "link": "https://observablehq.com/blog/community-recognition-2022",
@@ -2925,7 +3140,8 @@
         "url": "https://front-end.social/@saneef",
         "display_name": "Saneef H. Ansari"
       }
-    ]
+    ],
+    "first": "2022-12-29T20:12:29+00:00"
   },
   {
     "link": "https://gist.github.com/z3tt/c58761aacc78ba52d6a305ccca3cce56",
@@ -2940,7 +3156,8 @@
         "url": "https://vis.social/@CedScherer",
         "display_name": "C\u00e9dric Scherer"
       }
-    ]
+    ],
+    "first": "2022-12-29T18:59:12+00:00"
   },
   {
     "link": "https://github.com/mastodon/mastodon/pull/22831",
@@ -2955,7 +3172,8 @@
         "url": "https://friend.camp/@darius",
         "display_name": "Darius Kazemi"
       }
-    ]
+    ],
+    "first": "2022-12-29T18:41:51+00:00"
   },
   {
     "link": "https://github.com/UberGuidoZ/Flipper/tree/main/Sub-GHz/Gas_Sign",
@@ -2970,7 +3188,8 @@
         "url": "https://infosec.exchange/@hacks4pancakes",
         "display_name": "Lesley Carhart :unverified:"
       }
-    ]
+    ],
+    "first": "2022-12-29T18:15:44+00:00"
   },
   {
     "link": "https://gist.github.com/tef/b78ca1718c60c9a7606cc0a93b47e836#file-diff-py-L1623",
@@ -2985,7 +3204,8 @@
         "url": "https://mastodon.social/@tef",
         "display_name": "tef"
       }
-    ]
+    ],
+    "first": "2022-12-29T18:04:57+00:00"
   },
   {
     "link": "https://observablehq.com/d/d3245f96271f48ab",
@@ -3004,7 +3224,8 @@
         "url": "https://vis.social/@benmschmidt",
         "display_name": "Ben Schmidt"
       }
-    ]
+    ],
+    "first": "2022-12-29T17:02:52+00:00"
   },
   {
     "link": "https://github.com/adamghill/fediview",
@@ -3019,7 +3240,8 @@
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
       }
-    ]
+    ],
+    "first": "2022-12-29T16:29:43+00:00"
   },
   {
     "link": "https://github.com/hodgesmr/mastodon_digest/pull/15",
@@ -3034,7 +3256,8 @@
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
       }
-    ]
+    ],
+    "first": "2022-12-29T16:01:15+00:00"
   },
   {
     "link": "https://github.com/HSLdevcom/digitransit-ui",
@@ -3049,7 +3272,8 @@
         "url": "https://vis.social/@jhilden",
         "display_name": "Jonatan Hild\u00e9n"
       }
-    ]
+    ],
+    "first": "2022-12-29T15:12:30+00:00"
   },
   {
     "link": "https://github.com/aphyr/prometheus-mastodon-exporter",
@@ -3064,7 +3288,8 @@
         "url": "https://mastodon.social/@mrchrisadams",
         "display_name": "Chris Adams"
       }
-    ]
+    ],
+    "first": "2022-12-29T14:36:13+00:00"
   },
   {
     "link": "https://github.com/baron42bba/.emacs.d/commit/a4937701b7f99d18a1bdde62f46dd6fa6cd400f2",
@@ -3079,7 +3304,8 @@
         "url": "https://emacs.ch/@sachac",
         "display_name": "Sacha Chua"
       }
-    ]
+    ],
+    "first": "2022-12-29T14:16:32+00:00"
   },
   {
     "link": "https://observablehq.com/@terezaif/psf-board-timeline",
@@ -3094,7 +3320,8 @@
         "url": "https://vis.social/@terezaif",
         "display_name": "Tereza Iofciu (she/her)"
       }
-    ]
+    ],
+    "first": "2022-12-29T13:54:31+00:00"
   },
   {
     "link": "https://github.com/hometown-fork/hometown/issues/1165",
@@ -3113,7 +3340,8 @@
         "url": "https://merveilles.town/@lrhodes",
         "display_name": "L. Rhodes"
       }
-    ]
+    ],
+    "first": "2022-12-29T13:45:17+00:00"
   },
   {
     "link": "https://github.com/steineggerlab/foldseek/releases/tag/4-645b789",
@@ -3128,7 +3356,8 @@
         "url": "https://mstdn.science/@contaminatedsci",
         "display_name": "Tami Lieberman"
       }
-    ]
+    ],
+    "first": "2022-12-29T13:43:15+00:00"
   },
   {
     "link": "https://github.com/JamesHWade/gpttools",
@@ -3143,36 +3372,7 @@
         "url": "https://mastodon.social/@hrbrmstr",
         "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
       }
-    ]
-  },
-  {
-    "link": "https://github.com/camartinezbu/tidytuesday/tree/main/2022/2022-week49",
-    "title": "tidytuesday/2022/2022-week49 at main \u00b7 camartinezbu/tidytuesday",
-    "latest": "2022-12-29T12:36:13+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@camartinezbu/109593429342467876",
-      "content": "<p><a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> Week 49.</p><p>Inspired by the graphs made by <span class=\"h-card\"><a href=\"https://fosstodon.org/@terence\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>terence</span></a></span>, I decided to use <a href=\"https://fosstodon.org/tags/rayshader\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayshader</span></a> in <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> to plot the elevator density in New York's blocks. </p><p>I played a while with {rayshader} to get the base of the map you see below. As I'm not confortable with the package yet, I imported the image into Affinity Photo and added the titles there.</p><p>Code: <a href=\"https://github.com/camartinezbu/tidytuesday/tree/main/2022/2022-week49\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/camartinezbu/tidytu</span><span class=\"invisible\">esday/tree/main/2022/2022-week49</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@terence",
-        "display_name": "terence"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/amcgregor/7f413bfaa538cb36681912f608d28ab7",
-    "title": "A random blurb of prose relating to my peirspapre character and Avatar of the Mother, sailces.",
-    "latest": "2022-12-29T12:28:36+00:00",
-    "last_post": {
-      "url": "https://marrow.haus/@alice/109594834511791335",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@KarlSchroeder\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>KarlSchroeder</span></a></span> Ha; bleary-eyed, I managed to remember the correct descriptive noun to search for to find the segment back: <a href=\"https://gist.github.com/amcgregor/7f413bfaa538cb36681912f608d28ab7\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/amcgregor/7f41</span><span class=\"invisible\">3bfaa538cb36681912f608d28ab7</span></a> (186W ~1m)</p><p>I \"evolved\" much of this canon during a series of RPG sessions held with friends back at that time. Developed a cast of characters, firmed up locales, defined societal structure details, and really dove into linguistics for it. (Neurolinguistics is a passion; studied in uni psych.)</p><p>Comma use may not have improved. \ud83d\ude22</p><p><span class=\"h-card\"><a href=\"https://mstdn.ca/@michaelgemar\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>michaelgemar</span></a></span> <span class=\"h-card\"><a href=\"https://spacey.space/@nyrath\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nyrath</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://spacey.space/@nyrath",
-        "display_name": "Winchell Chung \u269b\ud83d\ude80"
-      }
-    ]
+    ],
+    "first": "2022-12-29T13:18:02+00:00"
   }
 ]
