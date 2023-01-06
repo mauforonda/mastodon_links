@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://github.com/jart/sectorlisp",
+    "title": "GitHub - jart/sectorlisp: Bootstrapping LISP in a Boot Sector",
+    "latest": "2023-01-06T11:31:44+00:00",
+    "last_post": {
+      "url": "https://bsd.network/@cynicalsecurity/109641302759587674",
+      "content": "<p>I was looking at the 'Blinkenlights' project by Justine Tunney which is \"a virtual machine that runs statically-compiled x86-64-linux programs on different operating systems and hardware architectures\" (might as well let Justine describe it!) motivated by research on APE (\"Actually Portable Executable\")\u00b9 \u00b2. <a href=\"https://bsd.network/tags/ActuallyPortableExecutable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyPortableExecutable</span></a></p><p>After appreciating blink I looked at Justine's other repos, as one does, and\u2026 here's what I already bookmarked:</p><p>* \"sectorlisp is a 512-byte implementation of LISP that's able to bootstrap John McCarthy's meta-circular evaluator on bare metal.\" - <a href=\"https://github.com/jart/sectorlisp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/sectorlisp</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Lisp</span></a></p><p>* \"Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. Instead, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS with the best possible performance and the tiniest footprint imaginable.\" - <a href=\"https://github.com/jart/cosmopolitan\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/cosmopolitan</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Libc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Libc</span></a> <a href=\"https://bsd.network/tags/VirtualMachine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VirtualMachine</span></a> <a href=\"https://bsd.network/tags/Polyglot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Polyglot</span></a> (you should also look at the work by <span class=\"h-card\"><a href=\"https://mastodon.social/@Ange\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Ange</span></a></span>  on the vast subject of polyglots)</p><p>* \"Disaster lets you press C-c d to see the compiled assembly code for the C, C++ or Fortran file you're currently editing. It even jumps to and highlights the line of assembly corresponding to the line beneath your cursor.\" - <a href=\"https://github.com/jart/disaster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/disaster</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> <a href=\"https://bsd.network/tags/EmacsLisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EmacsLisp</span></a> <a href=\"https://bsd.network/tags/Disassembler\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Disassembler</span></a> ( <span class=\"h-card\"><a href=\"https://emacs.ch/@anticomputer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>anticomputer</span></a></span> this one is for you\u2026)</p><p>No apologies for sending you down this Github hole :flan_molotov:\u200b as it is more fun to go spelunking with friends!</p><p>__<br>\u00b9 <a href=\"https://justine.lol/ape.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">justine.lol/ape.html</span><span class=\"invisible\"></span></a><br>\u00b2 <a href=\"https://github.com/jart/blink\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/blink</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jart/cosmopolitan",
+    "title": "https://github.com/jart/cosmopolitan",
+    "latest": "2023-01-06T11:31:44+00:00",
+    "last_post": {
+      "url": "https://bsd.network/@cynicalsecurity/109641302759587674",
+      "content": "<p>I was looking at the 'Blinkenlights' project by Justine Tunney which is \"a virtual machine that runs statically-compiled x86-64-linux programs on different operating systems and hardware architectures\" (might as well let Justine describe it!) motivated by research on APE (\"Actually Portable Executable\")\u00b9 \u00b2. <a href=\"https://bsd.network/tags/ActuallyPortableExecutable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyPortableExecutable</span></a></p><p>After appreciating blink I looked at Justine's other repos, as one does, and\u2026 here's what I already bookmarked:</p><p>* \"sectorlisp is a 512-byte implementation of LISP that's able to bootstrap John McCarthy's meta-circular evaluator on bare metal.\" - <a href=\"https://github.com/jart/sectorlisp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/sectorlisp</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Lisp</span></a></p><p>* \"Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. Instead, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS with the best possible performance and the tiniest footprint imaginable.\" - <a href=\"https://github.com/jart/cosmopolitan\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/cosmopolitan</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Libc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Libc</span></a> <a href=\"https://bsd.network/tags/VirtualMachine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VirtualMachine</span></a> <a href=\"https://bsd.network/tags/Polyglot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Polyglot</span></a> (you should also look at the work by <span class=\"h-card\"><a href=\"https://mastodon.social/@Ange\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Ange</span></a></span>  on the vast subject of polyglots)</p><p>* \"Disaster lets you press C-c d to see the compiled assembly code for the C, C++ or Fortran file you're currently editing. It even jumps to and highlights the line of assembly corresponding to the line beneath your cursor.\" - <a href=\"https://github.com/jart/disaster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/disaster</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> <a href=\"https://bsd.network/tags/EmacsLisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EmacsLisp</span></a> <a href=\"https://bsd.network/tags/Disassembler\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Disassembler</span></a> ( <span class=\"h-card\"><a href=\"https://emacs.ch/@anticomputer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>anticomputer</span></a></span> this one is for you\u2026)</p><p>No apologies for sending you down this Github hole :flan_molotov:\u200b as it is more fun to go spelunking with friends!</p><p>__<br>\u00b9 <a href=\"https://justine.lol/ape.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">justine.lol/ape.html</span><span class=\"invisible\"></span></a><br>\u00b2 <a href=\"https://github.com/jart/blink\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/blink</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jart/disaster",
+    "title": "https://github.com/jart/disaster",
+    "latest": "2023-01-06T11:31:44+00:00",
+    "last_post": {
+      "url": "https://bsd.network/@cynicalsecurity/109641302759587674",
+      "content": "<p>I was looking at the 'Blinkenlights' project by Justine Tunney which is \"a virtual machine that runs statically-compiled x86-64-linux programs on different operating systems and hardware architectures\" (might as well let Justine describe it!) motivated by research on APE (\"Actually Portable Executable\")\u00b9 \u00b2. <a href=\"https://bsd.network/tags/ActuallyPortableExecutable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyPortableExecutable</span></a></p><p>After appreciating blink I looked at Justine's other repos, as one does, and\u2026 here's what I already bookmarked:</p><p>* \"sectorlisp is a 512-byte implementation of LISP that's able to bootstrap John McCarthy's meta-circular evaluator on bare metal.\" - <a href=\"https://github.com/jart/sectorlisp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/sectorlisp</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Lisp</span></a></p><p>* \"Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. Instead, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS with the best possible performance and the tiniest footprint imaginable.\" - <a href=\"https://github.com/jart/cosmopolitan\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/cosmopolitan</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Libc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Libc</span></a> <a href=\"https://bsd.network/tags/VirtualMachine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VirtualMachine</span></a> <a href=\"https://bsd.network/tags/Polyglot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Polyglot</span></a> (you should also look at the work by <span class=\"h-card\"><a href=\"https://mastodon.social/@Ange\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Ange</span></a></span>  on the vast subject of polyglots)</p><p>* \"Disaster lets you press C-c d to see the compiled assembly code for the C, C++ or Fortran file you're currently editing. It even jumps to and highlights the line of assembly corresponding to the line beneath your cursor.\" - <a href=\"https://github.com/jart/disaster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/disaster</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> <a href=\"https://bsd.network/tags/EmacsLisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EmacsLisp</span></a> <a href=\"https://bsd.network/tags/Disassembler\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Disassembler</span></a> ( <span class=\"h-card\"><a href=\"https://emacs.ch/@anticomputer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>anticomputer</span></a></span> this one is for you\u2026)</p><p>No apologies for sending you down this Github hole :flan_molotov:\u200b as it is more fun to go spelunking with friends!</p><p>__<br>\u00b9 <a href=\"https://justine.lol/ape.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">justine.lol/ape.html</span><span class=\"invisible\"></span></a><br>\u00b2 <a href=\"https://github.com/jart/blink\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/blink</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jart/blink",
+    "title": "https://github.com/jart/blink",
+    "latest": "2023-01-06T11:31:44+00:00",
+    "last_post": {
+      "url": "https://bsd.network/@cynicalsecurity/109641302759587674",
+      "content": "<p>I was looking at the 'Blinkenlights' project by Justine Tunney which is \"a virtual machine that runs statically-compiled x86-64-linux programs on different operating systems and hardware architectures\" (might as well let Justine describe it!) motivated by research on APE (\"Actually Portable Executable\")\u00b9 \u00b2. <a href=\"https://bsd.network/tags/ActuallyPortableExecutable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyPortableExecutable</span></a></p><p>After appreciating blink I looked at Justine's other repos, as one does, and\u2026 here's what I already bookmarked:</p><p>* \"sectorlisp is a 512-byte implementation of LISP that's able to bootstrap John McCarthy's meta-circular evaluator on bare metal.\" - <a href=\"https://github.com/jart/sectorlisp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/sectorlisp</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Lisp</span></a></p><p>* \"Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. Instead, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS with the best possible performance and the tiniest footprint imaginable.\" - <a href=\"https://github.com/jart/cosmopolitan\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/cosmopolitan</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Libc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Libc</span></a> <a href=\"https://bsd.network/tags/VirtualMachine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VirtualMachine</span></a> <a href=\"https://bsd.network/tags/Polyglot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Polyglot</span></a> (you should also look at the work by <span class=\"h-card\"><a href=\"https://mastodon.social/@Ange\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Ange</span></a></span>  on the vast subject of polyglots)</p><p>* \"Disaster lets you press C-c d to see the compiled assembly code for the C, C++ or Fortran file you're currently editing. It even jumps to and highlights the line of assembly corresponding to the line beneath your cursor.\" - <a href=\"https://github.com/jart/disaster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/disaster</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> <a href=\"https://bsd.network/tags/EmacsLisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EmacsLisp</span></a> <a href=\"https://bsd.network/tags/Disassembler\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Disassembler</span></a> ( <span class=\"h-card\"><a href=\"https://emacs.ch/@anticomputer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>anticomputer</span></a></span> this one is for you\u2026)</p><p>No apologies for sending you down this Github hole :flan_molotov:\u200b as it is more fun to go spelunking with friends!</p><p>__<br>\u00b9 <a href=\"https://justine.lol/ape.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">justine.lol/ape.html</span><span class=\"invisible\"></span></a><br>\u00b2 <a href=\"https://github.com/jart/blink\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/blink</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/mastodon/mastodon/issues/20089#issuecomment-1306654133",
     "title": "Might be a good idea to limit number of followers to like 10K or 20K \u00b7 Issue #20089 \u00b7 mastodon/mastodon",
     "latest": "2023-01-06T07:06:38+00:00",
@@ -3100,66 +3160,6 @@
       {
         "url": "https://nondeterministic.computer/@martin",
         "display_name": "Martin Kleppmann"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/facebookresearch/ConvNeXt",
-    "title": "github.com/facebookresearch/Co...",
-    "latest": "2022-12-28T09:29:53+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@akhaliq/109589786974200686",
-      "content": "<p>My top paper tweets in 2022 \ud83e\uddf5</p><p>A ConvNet for the 2020s<br>abs: <a href=\"http://arxiv.org/abs/2201.03545\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/2201.03545</span><span class=\"invisible\"></span></a><br>github: <a href=\"https://github.com/facebookresearch/ConvNeXt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/Co</span><span class=\"invisible\">nvNeXt</span></a><br>@huggingface@twitter.com demo: <a href=\"https://huggingface.co/spaces/akhaliq/convnext\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/spaces/akhaliq/</span><span class=\"invisible\">convnext</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@andrey",
-        "display_name": "Andrey Kurenkov"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/EmberGL-org/EmberGL",
-    "title": "GitHub - EmberGL-org/EmberGL: EmberGL Public Repository",
-    "latest": "2022-12-28T09:14:27+00:00",
-    "last_post": {
-      "url": "https://mastodon.gamedev.place/@JarkkoL/109587858896107368",
-      "content": "<p>Released EmberGL, a small graphics library featuring a tiled software rasterizer, that I initially developed for 3D rendering on microcontrollers: <a href=\"https://github.com/EmberGL-org/EmberGL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/EmberGL-org/EmberGL</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@aras",
-        "display_name": "Aras Pranckevi\u010dius"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/guruthree/pico-superkey-board",
-    "title": "GitHub - guruthree/pico-superkey-board: A single key keyboard, a demonstration of a USB HID device for the Raspberry Pi Pico in C",
-    "latest": "2022-12-28T05:45:29+00:00",
-    "last_post": {
-      "url": "https://digipres.club/@foone/109589713984196179",
-      "content": "<p>okay I got it working. I modified this code, turning it closer into a \"real\" keyboard:</p><p><a href=\"https://github.com/guruthree/pico-superkey-board\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/guruthree/pico-supe</span><span class=\"invisible\">rkey-board</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://digipres.club/@foone",
-        "display_name": "Foone"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/akib/emacs-denote-refs",
-    "title": "emacs-denote-refs",
-    "latest": "2022-12-28T04:40:03+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@hanspeter/109587527844570491",
-      "content": "<p>Just found this package:</p><p>emacs-denote-refs<br>see: <a href=\"https://codeberg.org/akib/emacs-denote-refs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/akib/emacs-denote</span><span class=\"invisible\">-refs</span></a></p><p>by <span class=\"h-card\"><a href=\"https://hostux.social/@akib\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>akib</span></a></span> </p><p>Right after the front matter of an opened denote file, It superimposes the files forward- and back-links (as read-only text).</p><p>That is exactly, what I was looking for.</p><p>Thank you Akib!</p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@sachac",
-        "display_name": "Sacha Chua"
       }
     ]
   }
