@@ -202,6 +202,7 @@ def process_post(post):
                 catalog[url] = {
                     'title': title,
                     'latest': time,
+                    'first': time,
                     'last_post': message,
                     'people': [person]
                 }
@@ -219,7 +220,7 @@ def make_digest_date(catalog):
     digest = sorted(catalog.items(), key=lambda x: x[1]['latest'], reverse=True)
     return to_list(digest)[:MAX_DIGEST_SIZE]
 
-def make_digest_shared(catalog, min_shared, since_hours):
+def make_digest_alltimepopular(catalog, min_shared, since_hours):
     """
     Filters links shared within the last `since_hours`
     and shared at least `min_shared` times. Sorts them
@@ -229,6 +230,18 @@ def make_digest_shared(catalog, min_shared, since_hours):
     digest = [i for i in catalog.items() if len(i[1]['people']) >= min_shared and i[1]['latest'] >= min_time]
     digest = sorted(digest, key=lambda x: len(x[1]['people']), reverse=True)
     return to_list(digest)[:MAX_DIGEST_SIZE]
+
+def make_digest_newpopular(catalog, min_shared, since_hours):
+    """
+    Filters links shared for the 1st time within the last `since_hours`
+    and shared at least `min_shared` times. Sorts them
+    by the number of shares
+    """
+    min_time = (datetime.now(timezone.utc) - timedelta(hours=since_hours)).isoformat()
+    digest = [i for i in catalog.items() if len(i[1]['people']) >= min_shared and i[1]['latest'] >= min_time]
+    digest = sorted(digest, key=lambda x: len(x[1]['people']), reverse=True)
+    return to_list(digest)[:MAX_DIGEST_SIZE]
+
 
 def make_digest_list(catalog, list_name):
     """
@@ -258,9 +271,9 @@ ignorelist = read_ignorelist()
 for post in reversed(newposts): # Update the list with links from new posts
     process_post(post)
 
-digest_date = make_digest_date(catalog) # A feed for the latest links
+digest_date = make_digest_date(catalog) # Latest links
 save_digest(digest_date, 'latest.json')
-digest_shared = make_digest_shared(catalog, 2, 24) # A feed for links shared at least twice in the past 24 hours
+digest_shared = make_digest_newpopular(catalog, 2, 24) # Links that appeared in the past 24 hours and were shared at least twice 
 save_digest(digest_shared,'shared.json')
 for list_name in os.listdir(LIST_DIRECTORY): # A feed for every topic list defined in the LIST_DIRECTORY
     digest_list = make_digest_list(catalog, list_name)
