@@ -117,10 +117,10 @@
   {
     "link": "https://maggieappleton.com/ai-dark-forest",
     "title": "The Expanding Dark Forest and Generative AI",
-    "latest": "2023-01-06T07:15:55.902000+00:00",
+    "latest": "2023-01-06T03:19:24+00:00",
     "last_post": {
-      "url": "https://indieweb.social/@maggie/109624696861846677",
-      "content": "<p>Watching language models become content-producing machines. Wondering how the web will feel after we flood it with GPT-X articles, tweets, toots, and tiktoks</p><p>Feels like we're heading into an ever darker forest. Wrote some tips for signalling you're human</p><p><a href=\"https://maggieappleton.com/ai-dark-forest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">maggieappleton.com/ai-dark-for</span><span class=\"invisible\">est</span></a></p>"
+      "url": "https://mastodon.social/@MattHodges/109640100385193817",
+      "content": "<p>Anyway, my favorite article this week is <span class=\"h-card\"><a href=\"https://indieweb.social/@maggie\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>maggie</span></a></span>'s fascinating post exploring the idea of a Reverse Turing Test. \"Our new challenge as little snowflake humans will be to prove we aren't language models.\"\u00b9 <a href=\"https://mastodon.social/tags/aiEthics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aiEthics</span></a> <a href=\"https://mastodon.social/tags/TechEthics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TechEthics</span></a></p><p>\u00b9 <a href=\"https://maggieappleton.com/ai-dark-forest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">maggieappleton.com/ai-dark-for</span><span class=\"invisible\">est</span></a></p>"
     },
     "people": [
       {
@@ -178,10 +178,6 @@
       {
         "url": "https://vis.social/@benmschmidt",
         "display_name": "Ben Schmidt"
-      },
-      {
-        "url": "https://hachyderm.io/@hazelweakly",
-        "display_name": "Hazel Weakly :verified_trans:"
       }
     ]
   },
@@ -508,33 +504,6 @@
     ]
   },
   {
-    "link": "https://amzn.to/3GA2HUz",
-    "title": "https://amzn.to/3GA2HUz",
-    "latest": "2023-01-06T07:16:47+00:00",
-    "last_post": {
-      "url": "https://xoxo.zone/@arielwaldman/109629172529867260",
-      "content": "<p>Hey friends - I am in Antarctica with extremely slow and limited internet and I have a book coming out this year that I'd normally be posting more about because pre-orders are *critical* to a book's success.</p><p>Help me get the word out?</p><p>OUT THERE: THE SCIENCE BEHIND SCI-FI FILM AND TV</p><p>From black holes to space elevators and extraterrestrial civilizations, this is a rich and beautifully illustrated book for your coffee table. And astronaut Mae Jemison wrote the Foreword!</p><p><a href=\"https://amzn.to/3GA2HUz\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">amzn.to/3GA2HUz</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://xoxo.zone/@arielwaldman",
-        "display_name": "Ariel Waldman"
-      },
-      {
-        "url": "https://mastodon.social/@genmon",
-        "display_name": "Matt Webb"
-      },
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://neuromatch.social/@LeonDLotter",
-        "display_name": "Leon Lotter"
-      }
-    ]
-  },
-  {
     "link": "https://www.pwnallthethings.com/p/the-house-has-no-members-and-the",
     "title": "The House has No Members and the Bootstrapping of Power",
     "latest": "2023-01-05T13:37:18+00:00",
@@ -727,29 +696,6 @@
     ]
   },
   {
-    "link": "https://aiguide.substack.com/",
-    "title": "AI: A Guide for Thinking Humans",
-    "latest": "2023-01-06T07:12:03+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@melaniemitchell/109627980191803880",
-      "content": "<p>One of my new years resolutions is to blog (from time to time) about interesting work in AI.   I'm trying out Substack for this.  My first post is a perspective on   recent paper by Webb et al., \"Emergent Analogical Reasoning in Large Language Models\".</p><p><a href=\"https://aiguide.substack.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">aiguide.substack.com/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@melaniemitchell",
-        "display_name": "Melanie Mitchell"
-      },
-      {
-        "url": "https://mastodon.social/@henryfarrell",
-        "display_name": "Henry Farrell"
-      },
-      {
-        "url": "https://mastodon.social/@johnkellden",
-        "display_name": "John Kellden"
-      }
-    ]
-  },
-  {
     "link": "https://blogs.worldbank.org/impactevaluations/remembering-martin-ravallion",
     "title": "Remembering Martin Ravallion",
     "latest": "2023-01-05T21:14:35+00:00",
@@ -861,6 +807,29 @@
       {
         "url": "https://artoot.xyz/@interstar",
         "display_name": "interstar"
+      }
+    ]
+  },
+  {
+    "link": "https://circleci.com/blog/january-4-2023-security-alert/",
+    "title": "CircleCI security alert: Rotate any secrets stored in CircleCI",
+    "latest": "2023-01-05T06:22:54+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@Francisck/109634696279142875",
+      "content": "<p><a href=\"https://infosec.exchange/tags/circleci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>circleci</span></a> has disclosed an incident and is recommending that customers *rotate* all sensitive credentials / secrets* that were used in builds - and that orgs investigate their logs from Dec 21st - Today for suspicious activity:</p><p><a href=\"https://circleci.com/blog/january-4-2023-security-alert/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">circleci.com/blog/january-4-20</span><span class=\"invisible\">23-security-alert/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@briankrebs",
+        "display_name": "BrianKrebs"
+      },
+      {
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
+      },
+      {
+        "url": "https://cyberplace.social/@GossiTheDog",
+        "display_name": "Kevin Beaumont"
       }
     ]
   },
@@ -1026,29 +995,6 @@
     ]
   },
   {
-    "link": "https://erininthemorn.substack.com/p/oklahoma-could-force-trans-people",
-    "title": "Oklahoma Could Force Trans People Under 26 Years Old To Detransition Medically",
-    "latest": "2023-01-06T06:32:44+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@ErinInTheMorn/109639369898411520",
-      "content": "<p>A terrifying bill was just dropped in the late night hours in Oklahoma that would medically detransition all trans people up to age 26.</p><p>I called this would happen months ago - states are moving towards outright elimination.</p><p>Subscribe to support my work.</p><p><a href=\"https://erininthemorn.substack.com/p/oklahoma-could-force-trans-people\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">erininthemorn.substack.com/p/o</span><span class=\"invisible\">klahoma-could-force-trans-people</span></a></p><p><a href=\"https://mstdn.social/tags/trans\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>trans</span></a> <a href=\"https://mstdn.social/tags/transrights\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transrights</span></a> <a href=\"https://mstdn.social/tags/transgender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transgender</span></a> <a href=\"https://mstdn.social/tags/translegislation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>translegislation</span></a> <a href=\"https://mstdn.social/tags/lgbt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lgbt</span></a> <a href=\"https://mstdn.social/tags/lgbtq\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lgbtq</span></a> <a href=\"https://mstdn.social/tags/lgbtqia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lgbtqia</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://tryste.ro/@andrea",
-        "display_name": "Andrea"
-      },
-      {
-        "url": "https://infosec.exchange/@hacks4pancakes",
-        "display_name": "Lesley Carhart :unverified:"
-      },
-      {
-        "url": "https://infosec.exchange/@thegrugq",
-        "display_name": "the grugq"
-      }
-    ]
-  },
-  {
     "link": "https://www.thisiscolossal.com/2023/01/mars-pastel-drawing/",
     "title": "A Scientific Paint-By-Number Pastel Drawing Was Our First Closeup Image of Mars \u2014 Colossal",
     "latest": "2023-01-05T22:02:09+00:00",
@@ -1129,21 +1075,21 @@
     ]
   },
   {
-    "link": "http://butterurls.com/",
-    "title": "http://butterurls.com/",
-    "latest": "2023-01-06T07:55:35+00:00",
+    "link": "https://www.gregegan.net/SCALE/SCALE.html",
+    "title": "Scale \u2014 Greg Egan",
+    "latest": "2023-01-05T06:20:21+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@docpop/109428015777099585",
-      "content": "<p>Before I share any URLs with friends, I manually remove any UTM codes/tracking data and replace them with \"=butts\". </p><p>This has been a time consuming process in the past, but not anymore!!!!</p><p>BUTTER is a new Chrome extension that cleans any unwanted code from a URL before you share it... and replaces that code with \"butts\".  </p><p>Use it for the lulz. Use it for your privacy. Use it to make the web a weirder place!</p><p><a href=\"http://butterurls.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">butterurls.com/</span><span class=\"invisible\"></span></a> <a href=\"https://mastodon.social/tags/chrome\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chrome</span></a> <a href=\"https://mastodon.social/tags/extension\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>extension</span></a> <a href=\"https://mastodon.social/tags/butts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>butts</span></a></p>"
+      "url": "https://mathstodon.xyz/@gregeganSF/109611414660784965",
+      "content": "<p>When electronics importer Cara Leon goes missing, private investigator Sam Mujrif is hired by her sister to investigate. Cara is 8 times taller than Sam, but evidence soon points to players much smaller than either of them.</p><p>As Sam and his cross-scale colleagues pursue the case, it becomes apparent that Cara\u2019s disappearance is linked to  technology with the potential to reshape their whole society, and radically alter the balance of power between the scales.</p><p><a href=\"https://www.gregegan.net/SCALE/SCALE.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">gregegan.net/SCALE/SCALE.html</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
-        "url": "https://mstdn.social/@r3rt0",
-        "display_name": "Roberto Toro"
+        "url": "https://sigmoid.social/@jascha",
+        "display_name": "Jascha Sohl-Dickstein"
       },
       {
-        "url": "https://typo.social/@pixelambacht",
-        "display_name": "Roel Nieskens"
+        "url": "https://mathstodon.xyz/@gregeganSF",
+        "display_name": "Greg Egan"
       }
     ]
   },
@@ -1319,6 +1265,44 @@
     ]
   },
   {
+    "link": "https://www.codingwithjesse.com/blog/add-mastodon-replies-to-your-blog/",
+    "title": "Add Mastodon replies to your blog - Coding with Jesse",
+    "latest": "2023-01-05T07:35:46.110000+00:00",
+    "last_post": {
+      "url": "https://toot.cafe/@JesseSkinner/109586473582034626",
+      "content": "<p>How to add Mastodon replies to your blog</p><p>\"I turned off comments years ago, because I was getting tons of spam. But recently, with my return to social media, I decided to integrate Mastodon to give people a way to comment on and interact with my articles.\"</p><p><a href=\"https://www.codingwithjesse.com/blog/add-mastodon-replies-to-your-blog/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">codingwithjesse.com/blog/add-m</span><span class=\"invisible\">astodon-replies-to-your-blog/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toolsforthought.rocks/@billseitz",
+        "display_name": "Bill Seitz"
+      },
+      {
+        "url": "https://hachyderm.io/@mikiobraun",
+        "display_name": "Mikio Braun \ud83d\udc33"
+      }
+    ]
+  },
+  {
+    "link": "https://tinyurl.com/state-world-2023",
+    "title": "https://tinyurl.com/state-world-2023",
+    "latest": "2023-01-05T07:40:54+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrheingold/109633268637865538",
+      "content": "<p>Every January, Bruce  Sterling <span class=\"h-card\"><a href=\"https://mastodon.social/@bruces\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bruces</span></a></span> rants, forecasts, and converses with the WELL community in what is known there as the \"State of the World\" discussion. The rest of the WELL requires membership, but the SOW is readable by anyone. Non WELLites can't comment, but can read, and forward questions/comments through the hosts. </p><p><a href=\"https://tinyurl.com/state-world-2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/state-world-2023</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.social/tags/future\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>future</span></a> <a href=\"https://mastodon.social/tags/futurism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>futurism</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrheingold",
+        "display_name": "Howard Rheingold"
+      },
+      {
+        "url": "https://social.coop/@Laura",
+        "display_name": "Laura James"
+      }
+    ]
+  },
+  {
     "link": "https://tpinsights.com/philadelphia-is-allocating-hundreds-of-millions-of-dollars-to-address-mounting-gun-violence/",
     "title": "Philadelphia is Allocating Hundreds of Millions of Dollars to Address Mounting Gun Violence",
     "latest": "2023-01-05T14:05:40+00:00",
@@ -1467,6 +1451,63 @@
       {
         "url": "https://neuromatch.social/@jonny",
         "display_name": "Jonny"
+      }
+    ]
+  },
+  {
+    "link": "https://indieweb.org/Template:slideshow",
+    "title": "Template:slideshow - IndieWeb",
+    "latest": "2023-01-05T07:46:06+00:00",
+    "last_post": {
+      "url": "https://boffosocko.com/2023/01/04/55813425/",
+      "content": "<p></p><p><a href=\"https://twitter.com/jerrymichalski\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@JerryMichalski</a> <a href=\"https://toolsforthought.rocks/@j3rry\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@j3rry@toolsforthought.rocks</a> With respect to your idea of a <a href=\"https://wiki.rel8.dev/present_from_a_neodeck\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">NeoDeck</a>, I\u2019m reminded of a slideshow set up that was built into a MediaWiki site which might fit some of the prototype you\u2019re seeking?</p>\n<p>Details: <a href=\"https://indieweb.org/Template:slideshow\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://indieweb.org/Template:slideshow</a></p>\n<p>Example: <a href=\"https://indieweb.org/2018/Baltimore/Building_Blocks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://indieweb.org/2018/Baltimore/Building_Blocks</a></p>\n<p>Individual pages could also likely be done via transclusion thereby giving one the ability to create re-orderable versions.</p>\n<p></p><p><a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/neodeck/\" target=\"_blank\">#neodeck</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/presentations/\" target=\"_blank\">#presentations</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/slideshows/\" target=\"_blank\">#slideshows</a></p><p><a href=\"https://boffosocko.com/2023/01/04/55813425/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/2023/01/04/55813425/</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chrisaldrich",
+        "display_name": "Chris Aldrich"
+      },
+      {
+        "url": "https://boffosocko.com/author/chrisaldrich/",
+        "display_name": "Chris Aldrich"
+      }
+    ]
+  },
+  {
+    "link": "https://indieweb.org/2018/Baltimore/Building_Blocks",
+    "title": "indieweb.org/2018/Baltimore/Bu...",
+    "latest": "2023-01-05T07:46:06+00:00",
+    "last_post": {
+      "url": "https://boffosocko.com/2023/01/04/55813425/",
+      "content": "<p></p><p><a href=\"https://twitter.com/jerrymichalski\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@JerryMichalski</a> <a href=\"https://toolsforthought.rocks/@j3rry\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@j3rry@toolsforthought.rocks</a> With respect to your idea of a <a href=\"https://wiki.rel8.dev/present_from_a_neodeck\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">NeoDeck</a>, I\u2019m reminded of a slideshow set up that was built into a MediaWiki site which might fit some of the prototype you\u2019re seeking?</p>\n<p>Details: <a href=\"https://indieweb.org/Template:slideshow\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://indieweb.org/Template:slideshow</a></p>\n<p>Example: <a href=\"https://indieweb.org/2018/Baltimore/Building_Blocks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://indieweb.org/2018/Baltimore/Building_Blocks</a></p>\n<p>Individual pages could also likely be done via transclusion thereby giving one the ability to create re-orderable versions.</p>\n<p></p><p><a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/neodeck/\" target=\"_blank\">#neodeck</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/presentations/\" target=\"_blank\">#presentations</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/slideshows/\" target=\"_blank\">#slideshows</a></p><p><a href=\"https://boffosocko.com/2023/01/04/55813425/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/2023/01/04/55813425/</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chrisaldrich",
+        "display_name": "Chris Aldrich"
+      },
+      {
+        "url": "https://boffosocko.com/author/chrisaldrich/",
+        "display_name": "Chris Aldrich"
+      }
+    ]
+  },
+  {
+    "link": "https://boffosocko.com/2023/01/04/55813425/",
+    "title": "boffosocko.com/2023/01/04/5581...",
+    "latest": "2023-01-05T07:46:06+00:00",
+    "last_post": {
+      "url": "https://boffosocko.com/2023/01/04/55813425/",
+      "content": "<p></p><p><a href=\"https://twitter.com/jerrymichalski\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@JerryMichalski</a> <a href=\"https://toolsforthought.rocks/@j3rry\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@j3rry@toolsforthought.rocks</a> With respect to your idea of a <a href=\"https://wiki.rel8.dev/present_from_a_neodeck\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">NeoDeck</a>, I\u2019m reminded of a slideshow set up that was built into a MediaWiki site which might fit some of the prototype you\u2019re seeking?</p>\n<p>Details: <a href=\"https://indieweb.org/Template:slideshow\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://indieweb.org/Template:slideshow</a></p>\n<p>Example: <a href=\"https://indieweb.org/2018/Baltimore/Building_Blocks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://indieweb.org/2018/Baltimore/Building_Blocks</a></p>\n<p>Individual pages could also likely be done via transclusion thereby giving one the ability to create re-orderable versions.</p>\n<p></p><p><a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/neodeck/\" target=\"_blank\">#neodeck</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/presentations/\" target=\"_blank\">#presentations</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/slideshows/\" target=\"_blank\">#slideshows</a></p><p><a href=\"https://boffosocko.com/2023/01/04/55813425/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/2023/01/04/55813425/</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chrisaldrich",
+        "display_name": "Chris Aldrich"
+      },
+      {
+        "url": "https://boffosocko.com/author/chrisaldrich/",
+        "display_name": "Chris Aldrich"
       }
     ]
   },
@@ -1946,25 +1987,6 @@
     ]
   },
   {
-    "link": "https://blog.stephaniestimac.com/posts/2023/1/css-trigonometric-functions/",
-    "title": "An Intro to Trigonometric CSS Functions - Stephanie Stimac's Blog",
-    "latest": "2023-01-06T08:05:35+00:00",
-    "last_post": {
-      "url": "https://toot.cafe/@seaotta/109638158210639196",
-      "content": "<p>New on the blog: a high-level overview of Trigonometric CSS functions that are landing in browsers. </p><p>I take a look at what\u2019s shipped (or about to ship) and their use cases.</p><p><a href=\"https://blog.stephaniestimac.com/posts/2023/1/css-trigonometric-functions/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.stephaniestimac.com/posts</span><span class=\"invisible\">/2023/1/css-trigonometric-functions/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://bell.bz/@andy",
-        "display_name": "Andy Bell"
-      },
-      {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
-      }
-    ]
-  },
-  {
     "link": "https://www.harvard.com/event/sean_carroll_at_harvard_science_center/",
     "title": "Sean Carroll at Harvard Science Center - Events - Harvard Book Store",
     "latest": "2023-01-05T21:15:52+00:00",
@@ -1980,6 +2002,25 @@
       {
         "url": "https://sigmoid.social/@boazbaraktcs",
         "display_name": "Boaz Barak"
+      }
+    ]
+  },
+  {
+    "link": "https://erininthemorn.substack.com/p/oklahoma-could-force-trans-people",
+    "title": "Oklahoma Could Force Trans People Under 26 Years Old To Detransition Medically",
+    "latest": "2023-01-06T02:21:19+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@ErinInTheMorn/109639369898411520",
+      "content": "<p>A terrifying bill was just dropped in the late night hours in Oklahoma that would medically detransition all trans people up to age 26.</p><p>I called this would happen months ago - states are moving towards outright elimination.</p><p>Subscribe to support my work.</p><p><a href=\"https://erininthemorn.substack.com/p/oklahoma-could-force-trans-people\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">erininthemorn.substack.com/p/o</span><span class=\"invisible\">klahoma-could-force-trans-people</span></a></p><p><a href=\"https://mstdn.social/tags/trans\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>trans</span></a> <a href=\"https://mstdn.social/tags/transrights\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transrights</span></a> <a href=\"https://mstdn.social/tags/transgender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transgender</span></a> <a href=\"https://mstdn.social/tags/translegislation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>translegislation</span></a> <a href=\"https://mstdn.social/tags/lgbt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lgbt</span></a> <a href=\"https://mstdn.social/tags/lgbtq\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lgbtq</span></a> <a href=\"https://mstdn.social/tags/lgbtqia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lgbtqia</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://tryste.ro/@andrea",
+        "display_name": "Andrea"
+      },
+      {
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
       }
     ]
   },
@@ -2056,25 +2097,6 @@
       {
         "url": "https://boffosocko.com/author/chrisaldrich/",
         "display_name": "Chris Aldrich"
-      }
-    ]
-  },
-  {
-    "link": "https://aws.amazon.com/blogs/aws/amazon-s3-encrypts-new-objects-by-default/",
-    "title": "Amazon S3 Encrypts New Objects By Default | Amazon Web Services",
-    "latest": "2023-01-06T06:44:36+00:00",
-    "last_post": {
-      "url": "https://awscommunity.social/@jeffbarr/109638719793305119",
-      "content": "<p>A big change to Amazon S3 - New Objects are now Encrypted by Default, at no additional cost:</p><p><a href=\"https://aws.amazon.com/blogs/aws/amazon-s3-encrypts-new-objects-by-default/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">aws.amazon.com/blogs/aws/amazo</span><span class=\"invisible\">n-s3-encrypts-new-objects-by-default/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://awscommunity.social/@jeffbarr",
-        "display_name": "Jeff Barr"
-      },
-      {
-        "url": "https://awscommunity.social/@esh",
-        "display_name": "Eric Hammond"
       }
     ]
   },
