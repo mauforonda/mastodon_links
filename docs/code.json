@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/seanthegeek/mastodon-dmarc-survey",
+    "title": "GitHub - seanthegeek/mastodon-dmarc-survey: A survey of DMARC deployment across all domains hosting public a Mastodon instance",
+    "latest": "2023-01-07T02:20:04.727000+00:00",
+    "first": "2023-01-07T02:20:04.727000+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@seanthegeek/109645128873857022",
+      "content": "<p>In the short time I've been the <a href=\"https://infosec.exchange/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> <a href=\"https://infosec.exchange/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> so far, I've talked a lot about how <a href=\"https://infosec.exchange/tags/DMARC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DMARC</span></a> can help prevent <a href=\"https://infosec.exchange/tags/spoofed\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>spoofed</span></a> <a href=\"https://infosec.exchange/tags/emails\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emails</span></a> from being delivered to their targets, in light of a wave of Mastodon-themed phishing. That made me wonder, \"How many Mastodon instances have a DMARC record on their domain? How many of those are set up to properly?\" For their own security Users should join servers with an enforced DMARC policy, and instance admins should enforce DMARC on their domains to protect users and attract a security conscious userbase.</p><p>I wrote a script that queries instances.social for the 1000 top Mastodon instances based on the number of active users, feeds that list to <a href=\"https://infosec.exchange/tags/checkdmarc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>checkdmarc</span></a> to query for, parse, and validate DMARC <a href=\"https://infosec.exchange/tags/DNS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DNS</span></a> records. Here are the results.</p><p><a href=\"https://github.com/seanthegeek/mastodon-dmarc-survey\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/seanthegeek/mastodo</span><span class=\"invisible\">n-dmarc-survey</span></a></p><p>As of earlier today, 148 instances with a combined 295, 975 active users had an enforced DMARC policy (p=quarantine or p=reject). 113 instances with a combined 168,965 active users have deployed a monitor only policy, 3 instances with a combined 577 active users have an invalid DMARC record, and 113 instances with a combined 486,972 active users don't have any DMARC record.</p><p>As I looked through the list of instances, I noticed that infosec.exchange is now the 7th largest Mastodon instance on the public internet, with 18,328 active users (and counting. Thanks <span class=\"h-card\"><a href=\"https://infosec.exchange/@jerry\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jerry</span></a></span>!</p><p><a href=\"https://infosec.exchange/tags/Infosec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Infosec</span></a> <a href=\"https://infosec.exchange/tags/InformationSecuriy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>InformationSecuriy</span></a> <a href=\"https://infosec.exchange/tags/phish\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>phish</span></a> <a href=\"https://infosec.exchange/tags/phishing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>phishing</span></a> <a href=\"https://infosec.exchange/tags/spoofing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>spoofing</span></a> <a href=\"https://infosec.exchange/tags/adminsofmastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>adminsofmastodon</span></a> <a href=\"https://infosec.exchange/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a> <a href=\"https://infosec.exchange/tags/OpenSourceSoftware\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSourceSoftware</span></a> <a href=\"https://infosec.exchange/tags/FLOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FLOSS</span></a> <a href=\"https://infosec.exchange/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> <a href=\"https://infosec.exchange/tags/CLI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CLI</span></a> <a href=\"https://infosec.exchange/tags/API\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>API</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@nova",
+        "display_name": "Kris N\u00f3va :ferris:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/libjohn/rfun_flipped",
+    "title": "github.com/libjohn/rfun_flippe...",
+    "latest": "2023-01-07T01:01:06+00:00",
+    "first": "2023-01-07T01:01:06+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@smach/109645218875025849",
+      "content": "<p>QuickStart with R workshop: Videos, code, and data from beginner (setup, data import &amp; filtering) to <a href=\"https://fosstodon.org/tags/ggplot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggplot</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a>, data reshaping, interactive charts and linear regression.</p><p>Part of Duke University data science librarian John Little's RFUN training series hosted by the Center for Data and Visualization Sciences.</p><p>Website <a href=\"https://rfun.library.duke.edu/portfolio/r_flipped/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">rfun.library.duke.edu/portfoli</span><span class=\"invisible\">o/r_flipped/</span></a><br>GitHub repo <a href=\"https://github.com/libjohn/rfun_flipped\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/libjohn/rfun_flippe</span><span class=\"invisible\">d</span></a></p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/rstats\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rstats</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/CeeYaa/GENUARY2023",
     "title": "https://github.com/CeeYaa/GENUARY2023",
     "latest": "2023-01-06T23:09:06+00:00",
@@ -3338,37 +3370,5 @@
       }
     ],
     "first": "2022-12-29T16:29:43+00:00"
-  },
-  {
-    "link": "https://github.com/hodgesmr/mastodon_digest/pull/15",
-    "title": "github.com/hodgesmr/mastodon_d...",
-    "latest": "2022-12-29T16:01:15+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@MattHodges/109597797635528024",
-      "content": "<p>I really like <span class=\"h-card\"><a href=\"https://hachyderm.io/@mauforonda\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mauforonda</span></a></span>'s beautiful\u00b9 fork\u00b2 of Mastodon Digest.\u00b3 A neat thing about the <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> API is you get the full HTML of a post. I'm rather \ud83d\udca9 at web UIs and my current implementation relies on fairly clunky iframe embeds.\u2074 <span class=\"h-card\"><a href=\"https://benward.social/@benward\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>benward</span></a></span> recently contributed\u2075 a better templating pattern, so I think there are some great opportunities for mainline improvements.</p><p>\u00b9 <a href=\"https://mauforonda.github.io/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mauforonda.github.io/mastodon_</span><span class=\"invisible\">digest</span></a><br>\u00b2 <a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a><br>\u00b3 <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a><br>\u2074 <a href=\"https://mstdn.social/@feditips/107746558229070558\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mstdn.social/@feditips/1077465</span><span class=\"invisible\">58229070558</span></a><br>\u2075 <a href=\"https://github.com/hodgesmr/mastodon_digest/pull/15\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest/pull/15</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      }
-    ],
-    "first": "2022-12-29T16:01:15+00:00"
-  },
-  {
-    "link": "https://github.com/HSLdevcom/digitransit-ui",
-    "title": "GitHub - HSLdevcom/digitransit-ui: Digitransit UI (\"Reittiopas.fi\")",
-    "latest": "2022-12-29T15:12:30+00:00",
-    "last_post": {
-      "url": "https://vis.social/@jhilden/109597605947891745",
-      "content": "<p>I guess the actual Speeds used in km/h should be somewhere in the Source Code; they are not documented in the app itself or on the Website! <a href=\"https://github.com/HSLdevcom/digitransit-ui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/HSLdevcom/digitrans</span><span class=\"invisible\">it-ui</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@jhilden",
-        "display_name": "Jonatan Hild\u00e9n"
-      }
-    ],
-    "first": "2022-12-29T15:12:30+00:00"
   }
 ]
