@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://doi.org/10.1037/tra0001358",
+    "title": "https://doi.org/10.1037/tra0001358",
+    "latest": "2023-01-07T16:25:20+00:00",
+    "first": "2023-01-07T16:25:20+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@marcellaflamme/109648823230349537",
+      "content": "<p>One of the most impressive studies of <a href=\"https://scholar.social/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> in <a href=\"https://scholar.social/tags/qualitative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>qualitative</span></a> research that I have ever read (:ClosedAccess:, but worth accessing if you can).</p><p>The authors describe a deeply thoughtful approach to enlisting research participants from a vulnerable population in a process of archiving interview data.</p><p>As one participant stated: \u201cIf we\u2019re strong enough to give you the story, then we should be allowed to have it the way we want it.\u201d</p><p><a href=\"https://doi.org/10.1037/tra0001358\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.1037/tra0001358</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@philipncohen",
+        "display_name": "Philip N Cohen"
+      }
+    ]
+  },
+  {
+    "link": "https://doi.org/10.1037/h0027108",
+    "title": "https://doi.org/10.1037/h0027108",
+    "latest": "2023-01-07T16:20:28+00:00",
+    "first": "2023-01-07T16:20:28+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@StatGenDan/109648833962945574",
+      "content": "<p>\"It may well be true that \"plot and eye\" is the most diverse channel to the human mind. Not that it transmits more bits per second, but rather that it will transmit a greater variety of messages on unexpected topics easily and rapidly. There really seems to be no substitute for \"looking at the data.\u201d\"</p><p>Tukey JW. Analyzing data: Sanctification or detective work? American Psychologist. US: American Psychological Association; 1969;24:83\u201391. DOI: <a href=\"https://doi.org/10.1037/h0027108\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.1037/h0027108</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fediscience.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://fediscience.org/tags/Statistics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Statistics</span></a> <a href=\"https://fediscience.org/tags/Stats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Stats</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@StatGenDan",
+        "display_name": "Daniel E. Weeks"
+      }
+    ]
+  },
+  {
     "link": "https://osf.io/preprints/socarxiv/y9egm/",
     "title": "osf.io/preprints/socarxiv/y9eg...",
     "latest": "2023-01-07T14:59:47+00:00",
@@ -3318,41 +3350,5 @@
       }
     ],
     "first": "2022-12-29T05:08:21+00:00"
-  },
-  {
-    "link": "https://link.springer.com/article/10.1007/s10502-022-09407-1",
-    "title": "\u201cMaybe in a few years I'll be able to look at it\u201d: a preliminary study of documentary issues in the Ukrainian refugee experience - Archival Science",
-    "latest": "2022-12-29T04:42:48+00:00",
-    "last_post": {
-      "url": "https://social.coop/@edsu/109595079720020663",
-      "content": "<p>\ud83d\udd16 \u201cMaybe in a few years I'll be able to look at it\u201d: a preliminary study of documentary issues in the Ukrainian refugee experience | SpringerLink <a href=\"https://link.springer.com/article/10.1007/s10502-022-09407-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/article/10.1</span><span class=\"invisible\">007/s10502-022-09407-1</span></a> - This article sets out the findings of a pilot study into the documentary experiences of Ukrainian refugees in Poland. Interviews conducted by and with Ukrainian refugees consider the removal of records, the documentation of the refugee experience, the documentary requirements of border cro</p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@quinnanya",
-        "display_name": "Quinn Dombrowski"
-      }
-    ],
-    "first": "2022-12-29T04:42:48+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2112.03808",
-    "title": "Automated Story Generation as Question-Answering",
-    "latest": "2022-12-29T03:27:57+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@Riedl/109594556449770536",
-      "content": "<p>Our first attempt at backward-chaining with language models wrapped an LM in a recursive question-answering routine, where the algorithm attempted to guess what questions readers might have and preemptively answer them <a href=\"https://arxiv.org/abs/2112.03808\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2112.03808</span><span class=\"invisible\"></span></a></p><p>Anyway, I\u2019m pretty excited about using LMs as part of a larger, structured process instead of just entering a prompt and generating continuations.</p><p>3/3</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@Riedl",
-        "display_name": "Mark Riedl"
-      },
-      {
-        "url": "https://sigmoid.social/@Yarin",
-        "display_name": "Yarin :verified: :verified:"
-      }
-    ],
-    "first": "2022-12-29T03:27:57+00:00"
   }
 ]
