@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/astrowonk/Emoji-Semantic-Search-LaunchBar-Action",
+    "title": "GitHub - astrowonk/Emoji-Semantic-Search-LaunchBar-Action: Emoji Semantic Search : LaunchBar Action",
+    "latest": "2023-01-08T20:33:12+00:00",
+    "first": "2023-01-08T20:33:12+00:00",
+    "last_post": {
+      "url": "https://vmst.io/@marcoshuerta/109655490065773442",
+      "content": "<p>If you're a <a href=\"https://vmst.io/tags/MacOS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MacOS</span></a> user who uses <a href=\"https://vmst.io/tags/LaunchBar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LaunchBar</span></a>, I created a LaunchBar Action for semantic <a href=\"https://vmst.io/tags/emoji\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emoji</span></a> search using mostly the same data/code as the web version.</p><p><a href=\"https://github.com/astrowonk/Emoji-Semantic-Search-LaunchBar-Action\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/astrowonk/Emoji-Sem</span><span class=\"invisible\">antic-Search-LaunchBar-Action</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/EthanRosenthal/medium-data-bakeoff",
     "title": "github.com/EthanRosenthal/medi...",
     "latest": "2023-01-08T17:25:32+00:00",
@@ -3390,21 +3406,5 @@
       }
     ],
     "first": "2022-12-29T22:15:05+00:00"
-  },
-  {
-    "link": "https://gist.github.com/ummjackson/050044e661c6c5fa3ae61aa8a8baf485",
-    "title": "Run full-text search SQL on a Mastodon federated stream",
-    "latest": "2022-12-29T22:03:30+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ummjackson/109599195869829336",
-      "content": "<p>A few people have asked me if there is an easy way to run full-text search on the \"firehose\" of Mastodon. </p><p>Here is a gist where I've open-sourced a very simple implementation for loading the real-time federated stream into a full-text search table you can then query using SQL: <a href=\"https://gist.github.com/ummjackson/050044e661c6c5fa3ae61aa8a8baf485\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/ummjackson/050</span><span class=\"invisible\">044e661c6c5fa3ae61aa8a8baf485</span></a></p><p>It's hacky but it works, hope someone finds it useful.</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
-      }
-    ],
-    "first": "2022-12-29T22:03:30+00:00"
   }
 ]
