@@ -416,6 +416,46 @@
     "first": "2023-01-06T17:35:58+00:00"
   },
   {
+    "link": "https://fediview.com/",
+    "title": "fediview",
+    "latest": "2023-01-08T07:27:51+00:00",
+    "last_post": {
+      "url": "https://home.social/@Sho_Ishiguro/109645746583609705",
+      "content": "<p>Posts on a Mastodon timeline are sorted in chronological order, new to old. I think algorithmic curation (e.g., highlighting popular posts) is acceptable as long as it's open source and testable.</p><p><a href=\"https://home.social/tags/Fediview\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediview</span></a>, which uses an open source algorithm, can selectively display popular posts from your Mastodon timeline based on posts' boosts and favorites. <a href=\"https://fediview.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com/</span><span class=\"invisible\"></span></a></p><p>Kudos to the developer, <span class=\"h-card\"><a href=\"https://indieweb.social/@adamghill\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>adamghill</span></a></span> </p><p><a href=\"https://home.social/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a> <a href=\"https://home.social/tags/Algorithm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Algorithm</span></a> <a href=\"https://home.social/tags/Curation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Curation</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      },
+      {
+        "url": "https://social.skewed.de/@tiago",
+        "display_name": "Tiago Peixoto"
+      },
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      },
+      {
+        "url": "https://sigmoid.social/@lb",
+        "display_name": "Lucas Beyer"
+      },
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      },
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      },
+      {
+        "url": "https://sciences.social/@per",
+        "display_name": "Per Engzell"
+      }
+    ],
+    "first": "2022-12-29T16:29:43+00:00"
+  },
+  {
     "link": "https://api.joinmastodon.org/statistics",
     "title": "api.joinmastodon.org/statistic...",
     "latest": "2023-01-05T17:26:54+00:00",
@@ -494,42 +534,6 @@
         "display_name": "drw"
       }
     ]
-  },
-  {
-    "link": "https://fediview.com/",
-    "title": "fediview",
-    "latest": "2023-01-07T18:36:40+00:00",
-    "last_post": {
-      "url": "https://home.social/@Sho_Ishiguro/109645746583609705",
-      "content": "<p>Posts on a Mastodon timeline are sorted in chronological order, new to old. I think algorithmic curation (e.g., highlighting popular posts) is acceptable as long as it's open source and testable.</p><p><a href=\"https://home.social/tags/Fediview\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediview</span></a>, which uses an open source algorithm, can selectively display popular posts from your Mastodon timeline based on posts' boosts and favorites. <a href=\"https://fediview.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com/</span><span class=\"invisible\"></span></a></p><p>Kudos to the developer, <span class=\"h-card\"><a href=\"https://indieweb.social/@adamghill\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>adamghill</span></a></span> </p><p><a href=\"https://home.social/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a> <a href=\"https://home.social/tags/Algorithm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Algorithm</span></a> <a href=\"https://home.social/tags/Curation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Curation</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://social.skewed.de/@tiago",
-        "display_name": "Tiago Peixoto"
-      },
-      {
-        "url": "https://mastodon.social/@Colarusso",
-        "display_name": "David Colarusso"
-      },
-      {
-        "url": "https://sigmoid.social/@lb",
-        "display_name": "Lucas Beyer"
-      },
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      },
-      {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      }
-    ],
-    "first": "2022-12-29T16:29:43+00:00"
   },
   {
     "link": "https://www.techdirt.com/2023/01/04/journalists-and-others-should-leave-twitter-heres-how-they-can-get-started/",
@@ -790,6 +794,38 @@
       }
     ],
     "first": "2023-01-06T16:44:45+00:00"
+  },
+  {
+    "link": "https://fediscience.org/@adam42smith/109639860471806025",
+    "title": "Sebastian Karcher (@adam42smith@fediscience.org)",
+    "latest": "2023-01-08T07:04:35+00:00",
+    "first": "2023-01-06T21:01:21+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@adam42smith/109644115180188832",
+      "content": "<p><a href=\"https://fediscience.org/tags/Zotero\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Zotero</span></a> &amp; Mastodon tricks: <br>1. Bc Mastodon is using standard HTML, Zotero is able to recognize any DOIs in your current timeline &amp; import the related works into your Zotero library:<br>Right-click on the Save to Zotero icon in your browser and select \"Save to Zotero (DOI)\"<br>2. Did you know you can add individual Mastodon posts with metadata to Zotero when you're looking at a single post view, e.g. by clicking on the timestamp (the URL will look sth like <a href=\"https://fediscience.org/@adam42smith/109639860471806025\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediscience.org/@adam42smith/1</span><span class=\"invisible\">09639860471806025</span></a> )</p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@joelchan86",
+        "display_name": "Joel Chan"
+      },
+      {
+        "url": "https://neuromatch.social/@LeonDLotter",
+        "display_name": "Leon Lotter"
+      },
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      },
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      },
+      {
+        "url": "https://berlin.social/@psm_os",
+        "display_name": "Paul Schultze-Motel"
+      }
+    ]
   },
   {
     "link": "https://www.archdaily.com/992550/okra-receives-the-european-urban-public-space-award-2022",
@@ -1272,34 +1308,6 @@
     "first": "2023-01-06T15:58:07+00:00"
   },
   {
-    "link": "https://fediscience.org/@adam42smith/109639860471806025",
-    "title": "Sebastian Karcher (@adam42smith@fediscience.org)",
-    "latest": "2023-01-07T23:11:48+00:00",
-    "first": "2023-01-06T21:01:21+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@adam42smith/109644115180188832",
-      "content": "<p><a href=\"https://fediscience.org/tags/Zotero\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Zotero</span></a> &amp; Mastodon tricks: <br>1. Bc Mastodon is using standard HTML, Zotero is able to recognize any DOIs in your current timeline &amp; import the related works into your Zotero library:<br>Right-click on the Save to Zotero icon in your browser and select \"Save to Zotero (DOI)\"<br>2. Did you know you can add individual Mastodon posts with metadata to Zotero when you're looking at a single post view, e.g. by clicking on the timestamp (the URL will look sth like <a href=\"https://fediscience.org/@adam42smith/109639860471806025\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediscience.org/@adam42smith/1</span><span class=\"invisible\">09639860471806025</span></a> )</p>"
-    },
-    "people": [
-      {
-        "url": "https://hci.social/@joelchan86",
-        "display_name": "Joel Chan"
-      },
-      {
-        "url": "https://neuromatch.social/@LeonDLotter",
-        "display_name": "Leon Lotter"
-      },
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      },
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      }
-    ]
-  },
-  {
     "link": "https://www.washingtonpost.com/climate-environment/2023/01/06/turtles-eat-south-america/",
     "title": "The turtle moms that \u2018talk\u2019 to their eggs before they hatch",
     "latest": "2023-01-07T21:36:11+00:00",
@@ -1592,30 +1600,6 @@
     "first": "2023-01-05T21:14:35+00:00"
   },
   {
-    "link": "https://circleci.com/blog/january-4-2023-security-alert/",
-    "title": "CircleCI security alert: Rotate any secrets stored in CircleCI",
-    "latest": "2023-01-05T06:22:54+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@Francisck/109634696279142875",
-      "content": "<p><a href=\"https://infosec.exchange/tags/circleci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>circleci</span></a> has disclosed an incident and is recommending that customers *rotate* all sensitive credentials / secrets* that were used in builds - and that orgs investigate their logs from Dec 21st - Today for suspicious activity:</p><p><a href=\"https://circleci.com/blog/january-4-2023-security-alert/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">circleci.com/blog/january-4-20</span><span class=\"invisible\">23-security-alert/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://infosec.exchange/@briankrebs",
-        "display_name": "BrianKrebs"
-      },
-      {
-        "url": "https://sigmoid.social/@ogrisel",
-        "display_name": "Olivier Grisel"
-      },
-      {
-        "url": "https://cyberplace.social/@GossiTheDog",
-        "display_name": "Kevin Beaumont"
-      }
-    ],
-    "first": "2023-01-05T06:22:54+00:00"
-  },
-  {
     "link": "https://www.bleepingcomputer.com/news/security/slacks-private-github-code-repositories-stolen-over-holidays/",
     "title": "Slack's private GitHub code repositories stolen over holidays",
     "latest": "2023-01-05T21:29:44+00:00",
@@ -1638,6 +1622,30 @@
       }
     ],
     "first": "2023-01-05T21:29:44+00:00"
+  },
+  {
+    "link": "https://chi2023.acm.org/2023/01/05/investigating-the-quality-of-reviews-reviewers-and-their-expertise-for-chi2023/",
+    "title": "Investigating the Quality of Reviews, Reviewers, and their Expertise for CHI2023 \u2013 CHI 2023",
+    "latest": "2023-01-08T08:27:38+00:00",
+    "last_post": {
+      "url": "https://hci.social/@drmaxlwilson/109636046314437783",
+      "content": "<p>Here's my analysis of reviews produced for <a href=\"https://hci.social/tags/chi2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chi2023</span></a> and the review process in phase 1. tl/dr better reviews approach 1000 words, and 1/3 of papers are not producing reviews, 2/3 are not producing enough (!)</p><p><a href=\"https://chi2023.acm.org/2023/01/05/investigating-the-quality-of-reviews-reviewers-and-their-expertise-for-chi2023/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">chi2023.acm.org/2023/01/05/inv</span><span class=\"invisible\">estigating-the-quality-of-reviews-reviewers-and-their-expertise-for-chi2023/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@eglassman",
+        "display_name": "Elena Glassman"
+      },
+      {
+        "url": "https://hci.social/@andresmh",
+        "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
+      },
+      {
+        "url": "https://hci.social/@axz",
+        "display_name": "Amy Zhang"
+      }
+    ],
+    "first": "2023-01-05T13:01:31+00:00"
   },
   {
     "link": "https://scottaaronson.blog/?p=6957",
@@ -2244,26 +2252,6 @@
     "first": "2023-01-01T17:30:41+00:00"
   },
   {
-    "link": "https://www.gregegan.net/SCALE/SCALE.html",
-    "title": "Scale \u2014 Greg Egan",
-    "latest": "2023-01-05T06:20:21+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@gregeganSF/109611414660784965",
-      "content": "<p>When electronics importer Cara Leon goes missing, private investigator Sam Mujrif is hired by her sister to investigate. Cara is 8 times taller than Sam, but evidence soon points to players much smaller than either of them.</p><p>As Sam and his cross-scale colleagues pursue the case, it becomes apparent that Cara\u2019s disappearance is linked to  technology with the potential to reshape their whole society, and radically alter the balance of power between the scales.</p><p><a href=\"https://www.gregegan.net/SCALE/SCALE.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">gregegan.net/SCALE/SCALE.html</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@jascha",
-        "display_name": "Jascha Sohl-Dickstein"
-      },
-      {
-        "url": "https://mathstodon.xyz/@gregeganSF",
-        "display_name": "Greg Egan"
-      }
-    ],
-    "first": "2023-01-05T06:20:21+00:00"
-  },
-  {
     "link": "https://lettermatic.com/custom/pentiment",
     "title": "Pentiment | Lettermatic",
     "latest": "2023-01-07T16:43:54+00:00",
@@ -2306,10 +2294,30 @@
   {
     "link": "https://tinyurl.com/45bz4tz8",
     "title": "https://tinyurl.com/45bz4tz8",
-    "latest": "2023-01-07T12:55:09+00:00",
+    "latest": "2023-01-08T07:47:31+00:00",
     "last_post": {
-      "url": "https://econtwitter.net/@fetzert/109648026662649280",
-      "content": "<p>Fact 1: <a href=\"https://econtwitter.net/tags/Bregret\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Bregret</span></a> is not a new thing. It has been a feature of the data for a long time. But: the data was misread by many political commentators, political scientists and media.</p><p>Already in 2018, much of the <a href=\"https://econtwitter.net/tags/austerity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>austerity</span></a> <a href=\"https://econtwitter.net/tags/Brexit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Brexit</span></a> protest vote had crumbled <br> \ud83d\udc49<a href=\"https://tinyurl.com/45bz4tz8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/45bz4tz8</span><span class=\"invisible\"></span></a></p>"
+      "url": "https://econtwitter.net/@fetzert/109620848557480108",
+      "content": "<p>Fact 5:  Support for <a href=\"https://econtwitter.net/tags/Brexit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Brexit</span></a> collapsed quickly after the <a href=\"https://econtwitter.net/tags/EUReferendum\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EUReferendum</span></a>.  </p><p>The protest vote that drove <a href=\"https://econtwitter.net/tags/Brexit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Brexit</span></a> (which is the vote that matters) collapsed in a very predictable fashion almost immediately after the <a href=\"https://econtwitter.net/tags/EUReferendum\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EUReferendum</span></a> </p><p>I wrote a paper about this: Who is NOT voting for <a href=\"https://econtwitter.net/tags/Brexit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Brexit</span></a> anymore...</p><p><a href=\"https://tinyurl.com/45bz4tz8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/45bz4tz8</span><span class=\"invisible\"></span></a></p><p>The biggest declines in <a href=\"https://econtwitter.net/tags/Brexit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Brexit</span></a> support were coming from the places where the <a href=\"https://econtwitter.net/tags/ProtestVote\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ProtestVote</span></a> was highest... not surprisingly.</p><p>Here is a short write up<br><a href=\"https://ukandeu.ac.uk/is-the-uk-having-a-rethink-on-brexit/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ukandeu.ac.uk/is-the-uk-having</span><span class=\"invisible\">-a-rethink-on-brexit/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@fetzert",
+        "display_name": "Thiemo Fetzer"
+      },
+      {
+        "url": "https://econtwitter.net/@m_clem",
+        "display_name": "Michael Clemens"
+      }
+    ],
+    "first": "2023-01-04T10:32:16+00:00"
+  },
+  {
+    "link": "https://ukandeu.ac.uk/is-the-uk-having-a-rethink-on-brexit/",
+    "title": "ukandeu.ac.uk/is-the-uk-having...",
+    "latest": "2023-01-08T07:47:31+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@fetzert/109620848557480108",
+      "content": "<p>Fact 5:  Support for <a href=\"https://econtwitter.net/tags/Brexit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Brexit</span></a> collapsed quickly after the <a href=\"https://econtwitter.net/tags/EUReferendum\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EUReferendum</span></a>.  </p><p>The protest vote that drove <a href=\"https://econtwitter.net/tags/Brexit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Brexit</span></a> (which is the vote that matters) collapsed in a very predictable fashion almost immediately after the <a href=\"https://econtwitter.net/tags/EUReferendum\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EUReferendum</span></a> </p><p>I wrote a paper about this: Who is NOT voting for <a href=\"https://econtwitter.net/tags/Brexit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Brexit</span></a> anymore...</p><p><a href=\"https://tinyurl.com/45bz4tz8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/45bz4tz8</span><span class=\"invisible\"></span></a></p><p>The biggest declines in <a href=\"https://econtwitter.net/tags/Brexit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Brexit</span></a> support were coming from the places where the <a href=\"https://econtwitter.net/tags/ProtestVote\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ProtestVote</span></a> was highest... not surprisingly.</p><p>Here is a short write up<br><a href=\"https://ukandeu.ac.uk/is-the-uk-having-a-rethink-on-brexit/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ukandeu.ac.uk/is-the-uk-having</span><span class=\"invisible\">-a-rethink-on-brexit/</span></a></p>"
     },
     "people": [
       {
@@ -2604,26 +2612,6 @@
     "first": "2023-01-05T19:59:49+00:00"
   },
   {
-    "link": "https://www.codingwithjesse.com/blog/add-mastodon-replies-to-your-blog/",
-    "title": "Add Mastodon replies to your blog - Coding with Jesse",
-    "latest": "2023-01-05T07:35:46.110000+00:00",
-    "last_post": {
-      "url": "https://toot.cafe/@JesseSkinner/109586473582034626",
-      "content": "<p>How to add Mastodon replies to your blog</p><p>\"I turned off comments years ago, because I was getting tons of spam. But recently, with my return to social media, I decided to integrate Mastodon to give people a way to comment on and interact with my articles.\"</p><p><a href=\"https://www.codingwithjesse.com/blog/add-mastodon-replies-to-your-blog/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">codingwithjesse.com/blog/add-m</span><span class=\"invisible\">astodon-replies-to-your-blog/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toolsforthought.rocks/@billseitz",
-        "display_name": "Bill Seitz"
-      },
-      {
-        "url": "https://hachyderm.io/@mikiobraun",
-        "display_name": "Mikio Braun \ud83d\udc33"
-      }
-    ],
-    "first": "2023-01-05T07:35:46.110000+00:00"
-  },
-  {
     "link": "https://icymilaw.org/about/",
     "title": "https://icymilaw.org/about/",
     "latest": "2023-01-06T13:40:26+00:00",
@@ -2642,26 +2630,6 @@
       }
     ],
     "first": "2023-01-06T13:40:26+00:00"
-  },
-  {
-    "link": "https://tinyurl.com/state-world-2023",
-    "title": "https://tinyurl.com/state-world-2023",
-    "latest": "2023-01-05T07:40:54+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hrheingold/109633268637865538",
-      "content": "<p>Every January, Bruce  Sterling <span class=\"h-card\"><a href=\"https://mastodon.social/@bruces\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bruces</span></a></span> rants, forecasts, and converses with the WELL community in what is known there as the \"State of the World\" discussion. The rest of the WELL requires membership, but the SOW is readable by anyone. Non WELLites can't comment, but can read, and forward questions/comments through the hosts. </p><p><a href=\"https://tinyurl.com/state-world-2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/state-world-2023</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.social/tags/future\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>future</span></a> <a href=\"https://mastodon.social/tags/futurism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>futurism</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrheingold",
-        "display_name": "Howard Rheingold"
-      },
-      {
-        "url": "https://social.coop/@Laura",
-        "display_name": "Laura James"
-      }
-    ],
-    "first": "2023-01-05T07:40:54+00:00"
   },
   {
     "link": "https://tpinsights.com/philadelphia-is-allocating-hundreds-of-millions-of-dollars-to-address-mounting-gun-violence/",
@@ -2842,66 +2810,6 @@
       }
     ],
     "first": "2023-01-05T10:32:30+00:00"
-  },
-  {
-    "link": "https://indieweb.org/Template:slideshow",
-    "title": "Template:slideshow - IndieWeb",
-    "latest": "2023-01-05T07:46:06+00:00",
-    "last_post": {
-      "url": "https://boffosocko.com/2023/01/04/55813425/",
-      "content": "<p></p><p><a href=\"https://twitter.com/jerrymichalski\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@JerryMichalski</a> <a href=\"https://toolsforthought.rocks/@j3rry\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@j3rry@toolsforthought.rocks</a> With respect to your idea of a <a href=\"https://wiki.rel8.dev/present_from_a_neodeck\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">NeoDeck</a>, I\u2019m reminded of a slideshow set up that was built into a MediaWiki site which might fit some of the prototype you\u2019re seeking?</p>\n<p>Details: <a href=\"https://indieweb.org/Template:slideshow\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://indieweb.org/Template:slideshow</a></p>\n<p>Example: <a href=\"https://indieweb.org/2018/Baltimore/Building_Blocks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://indieweb.org/2018/Baltimore/Building_Blocks</a></p>\n<p>Individual pages could also likely be done via transclusion thereby giving one the ability to create re-orderable versions.</p>\n<p></p><p><a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/neodeck/\" target=\"_blank\">#neodeck</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/presentations/\" target=\"_blank\">#presentations</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/slideshows/\" target=\"_blank\">#slideshows</a></p><p><a href=\"https://boffosocko.com/2023/01/04/55813425/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/2023/01/04/55813425/</a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@chrisaldrich",
-        "display_name": "Chris Aldrich"
-      },
-      {
-        "url": "https://boffosocko.com/author/chrisaldrich/",
-        "display_name": "Chris Aldrich"
-      }
-    ],
-    "first": "2023-01-05T07:46:06+00:00"
-  },
-  {
-    "link": "https://indieweb.org/2018/Baltimore/Building_Blocks",
-    "title": "indieweb.org/2018/Baltimore/Bu...",
-    "latest": "2023-01-05T07:46:06+00:00",
-    "last_post": {
-      "url": "https://boffosocko.com/2023/01/04/55813425/",
-      "content": "<p></p><p><a href=\"https://twitter.com/jerrymichalski\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@JerryMichalski</a> <a href=\"https://toolsforthought.rocks/@j3rry\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@j3rry@toolsforthought.rocks</a> With respect to your idea of a <a href=\"https://wiki.rel8.dev/present_from_a_neodeck\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">NeoDeck</a>, I\u2019m reminded of a slideshow set up that was built into a MediaWiki site which might fit some of the prototype you\u2019re seeking?</p>\n<p>Details: <a href=\"https://indieweb.org/Template:slideshow\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://indieweb.org/Template:slideshow</a></p>\n<p>Example: <a href=\"https://indieweb.org/2018/Baltimore/Building_Blocks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://indieweb.org/2018/Baltimore/Building_Blocks</a></p>\n<p>Individual pages could also likely be done via transclusion thereby giving one the ability to create re-orderable versions.</p>\n<p></p><p><a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/neodeck/\" target=\"_blank\">#neodeck</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/presentations/\" target=\"_blank\">#presentations</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/slideshows/\" target=\"_blank\">#slideshows</a></p><p><a href=\"https://boffosocko.com/2023/01/04/55813425/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/2023/01/04/55813425/</a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@chrisaldrich",
-        "display_name": "Chris Aldrich"
-      },
-      {
-        "url": "https://boffosocko.com/author/chrisaldrich/",
-        "display_name": "Chris Aldrich"
-      }
-    ],
-    "first": "2023-01-05T07:46:06+00:00"
-  },
-  {
-    "link": "https://boffosocko.com/2023/01/04/55813425/",
-    "title": "boffosocko.com/2023/01/04/5581...",
-    "latest": "2023-01-05T07:46:06+00:00",
-    "last_post": {
-      "url": "https://boffosocko.com/2023/01/04/55813425/",
-      "content": "<p></p><p><a href=\"https://twitter.com/jerrymichalski\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@JerryMichalski</a> <a href=\"https://toolsforthought.rocks/@j3rry\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@j3rry@toolsforthought.rocks</a> With respect to your idea of a <a href=\"https://wiki.rel8.dev/present_from_a_neodeck\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">NeoDeck</a>, I\u2019m reminded of a slideshow set up that was built into a MediaWiki site which might fit some of the prototype you\u2019re seeking?</p>\n<p>Details: <a href=\"https://indieweb.org/Template:slideshow\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://indieweb.org/Template:slideshow</a></p>\n<p>Example: <a href=\"https://indieweb.org/2018/Baltimore/Building_Blocks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://indieweb.org/2018/Baltimore/Building_Blocks</a></p>\n<p>Individual pages could also likely be done via transclusion thereby giving one the ability to create re-orderable versions.</p>\n<p></p><p><a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/neodeck/\" target=\"_blank\">#neodeck</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/presentations/\" target=\"_blank\">#presentations</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/slideshows/\" target=\"_blank\">#slideshows</a></p><p><a href=\"https://boffosocko.com/2023/01/04/55813425/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/2023/01/04/55813425/</a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@chrisaldrich",
-        "display_name": "Chris Aldrich"
-      },
-      {
-        "url": "https://boffosocko.com/author/chrisaldrich/",
-        "display_name": "Chris Aldrich"
-      }
-    ],
-    "first": "2023-01-05T07:46:06+00:00"
   },
   {
     "link": "https://causalinf.substack.com/p/why-do-economists-so-dislike-conditional",
@@ -3102,26 +3010,6 @@
       }
     ],
     "first": "2023-01-05T14:24:43+00:00"
-  },
-  {
-    "link": "https://chi2023.acm.org/2023/01/05/investigating-the-quality-of-reviews-reviewers-and-their-expertise-for-chi2023/",
-    "title": "Investigating the Quality of Reviews, Reviewers, and their Expertise for CHI2023 \u2013 CHI 2023",
-    "latest": "2023-01-05T13:01:31+00:00",
-    "last_post": {
-      "url": "https://hci.social/@drmaxlwilson/109636046314437783",
-      "content": "<p>Here's my analysis of reviews produced for <a href=\"https://hci.social/tags/chi2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chi2023</span></a> and the review process in phase 1. tl/dr better reviews approach 1000 words, and 1/3 of papers are not producing reviews, 2/3 are not producing enough (!)</p><p><a href=\"https://chi2023.acm.org/2023/01/05/investigating-the-quality-of-reviews-reviewers-and-their-expertise-for-chi2023/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">chi2023.acm.org/2023/01/05/inv</span><span class=\"invisible\">estigating-the-quality-of-reviews-reviewers-and-their-expertise-for-chi2023/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hci.social/@eglassman",
-        "display_name": "Elena Glassman"
-      },
-      {
-        "url": "https://hci.social/@andresmh",
-        "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
-      }
-    ],
-    "first": "2023-01-05T13:01:31+00:00"
   },
   {
     "link": "https://marabos.nl/atomics/",
@@ -4700,6 +4588,126 @@
       {
         "url": "https://sciencemastodon.com/@fqxi",
         "display_name": "FQXi Physics"
+      }
+    ]
+  },
+  {
+    "link": "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html",
+    "title": "A Lisp Interpreter Implemented in Conway\u2019s Game of Life",
+    "latest": "2023-01-07T13:33:47+00:00",
+    "first": "2023-01-07T05:14:58+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@michael_nielsen/109646217120868353",
+      "content": "<p>A Lisp interpreter... implemented in the Game of Life: <a href=\"https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">woodrush.github.io/blog/posts/</span><span class=\"invisible\">2022-01-12-lisp-in-life.html</span></a></p><p>Supports macros &amp; closures.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@michael_nielsen",
+        "display_name": "Michael Nielsen"
+      },
+      {
+        "url": "https://mastodon.social/@gordon",
+        "display_name": "Gordon Brander"
+      }
+    ]
+  },
+  {
+    "link": "https://buff.ly/3ipcHGL",
+    "title": "https://buff.ly/3ipcHGL",
+    "latest": "2023-01-07T17:15:48+00:00",
+    "first": "2023-01-07T03:58:21.332000+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@K4bergen/109644188769164129",
+      "content": "<p>RT @Rainmaker1973<br>Digital effects are no match for designer Tomohiro Okazaki: this animation uses stop-motion techniques to animate paint, strips paper, and other household objects under the matchsticks' control</p><p>[YT: <a href=\"https://buff.ly/3ipcHGL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buff.ly/3ipcHGL</span><span class=\"invisible\"></span></a>]<br>[IG: <a href=\"https://buff.ly/3X7Wy85\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buff.ly/3X7Wy85</span><span class=\"invisible\"></span></a>]</p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@evanw",
+        "display_name": "Evan Wallace"
+      },
+      {
+        "url": "https://vis.social/@mattbrehmer",
+        "display_name": "mattbrehmer"
+      }
+    ]
+  },
+  {
+    "link": "https://buff.ly/3X7Wy85",
+    "title": "https://buff.ly/3X7Wy85",
+    "latest": "2023-01-07T17:15:48+00:00",
+    "first": "2023-01-07T03:58:21.332000+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@K4bergen/109644188769164129",
+      "content": "<p>RT @Rainmaker1973<br>Digital effects are no match for designer Tomohiro Okazaki: this animation uses stop-motion techniques to animate paint, strips paper, and other household objects under the matchsticks' control</p><p>[YT: <a href=\"https://buff.ly/3ipcHGL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buff.ly/3ipcHGL</span><span class=\"invisible\"></span></a>]<br>[IG: <a href=\"https://buff.ly/3X7Wy85\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buff.ly/3X7Wy85</span><span class=\"invisible\"></span></a>]</p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@evanw",
+        "display_name": "Evan Wallace"
+      },
+      {
+        "url": "https://vis.social/@mattbrehmer",
+        "display_name": "mattbrehmer"
+      }
+    ]
+  },
+  {
+    "link": "https://world.hey.com/ian.mulvany/martin-fenner-has-launched-a-science-blog-indexing-service-a482e5bf",
+    "title": "Martin Fenner has launched a science blog indexing service ",
+    "latest": "2023-01-07T15:50:48+00:00",
+    "first": "2023-01-07T09:04:38+00:00",
+    "last_post": {
+      "url": "https://social.cologne/@IanMulvany/109647120229913152",
+      "content": "<p>Martin Fenner has launched a science blog index service - <a href=\"https://world.hey.com/ian.mulvany/martin-fenner-has-launched-a-science-blog-indexing-service-a482e5bf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">world.hey.com/ian.mulvany/mart</span><span class=\"invisible\">in-fenner-has-launched-a-science-blog-indexing-service-a482e5bf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.cologne/@IanMulvany",
+        "display_name": "IanMulvany"
+      },
+      {
+        "url": "https://fediscience.org/@erinnacland",
+        "display_name": "Erinn Acland, PhD"
+      }
+    ]
+  },
+  {
+    "link": "https://themarkup.org/hello-world/2023/01/07/back-into-the-trenches-of-the-crypto-wars",
+    "title": "Back into the Trenches of the Crypto Wars \u2013 The Markup",
+    "latest": "2023-01-07T15:51:37+00:00",
+    "first": "2023-01-07T14:19:22+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@eckles/109648720499258777",
+      "content": "<p>If a \"big messaging app\" had Signal-level privacy, would Europe's forced interoperability undermine that privacy? Interesting already to think about how that's supposed to work with WhatsApp, which is encrypted<br><a href=\"https://themarkup.org/hello-world/2023/01/07/back-into-the-trenches-of-the-crypto-wars\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">themarkup.org/hello-world/2023</span><span class=\"invisible\">/01/07/back-into-the-trenches-of-the-crypto-wars</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://newsie.social/@themarkup",
+        "display_name": "The Markup"
+      },
+      {
+        "url": "https://mastodon.social/@eckles",
+        "display_name": "Dean Eckles"
+      }
+    ]
+  },
+  {
+    "link": "https://obyford.com/posts/the-safari-bug-that-never-was/",
+    "title": "The Safari bug that never was",
+    "latest": "2023-01-07T17:50:36+00:00",
+    "first": "2023-01-07T14:20:20+00:00",
+    "last_post": {
+      "url": "https://toot.cafe/@nolan/109649188414947581",
+      "content": "<p>\"The Safari bug that never was\" by Oliver Byford <a href=\"https://obyford.com/posts/the-safari-bug-that-never-was/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">obyford.com/posts/the-safari-b</span><span class=\"invisible\">ug-that-never-was/</span></a></p><p>Reporting bugs on browsers is worth it. I've done it many times, and I've found browser vendors are very grateful for a concise, well-written bug with a minimal repro.</p>"
+    },
+    "people": [
+      {
+        "url": "https://front-end.social/@jensimmons",
+        "display_name": "Jen Simmons"
+      },
+      {
+        "url": "https://toot.cafe/@nolan",
+        "display_name": "Nolan"
       }
     ]
   }
