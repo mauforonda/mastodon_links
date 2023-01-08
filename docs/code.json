@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/m-clare/pmDemo",
+    "title": "GitHub - m-clare/pmDemo: Small demo of Protomaps in a React component",
+    "latest": "2023-01-08T03:54:22+00:00",
+    "first": "2023-01-08T03:54:22+00:00",
+    "last_post": {
+      "url": "https://recurse.social/@mclare/109651562528147409",
+      "content": "<p>Needed a self-contained \"small-win\" project for the day, so I worked on getting a small <a href=\"https://recurse.social/tags/react\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>react</span></a> app using <a href=\"https://recurse.social/tags/protomaps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>protomaps</span></a> set up.</p><p><a href=\"https://github.com/m-clare/pmDemo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/m-clare/pmDemo</span><span class=\"invisible\"></span></a></p><p><a href=\"https://recurse.social/tags/maps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>maps</span></a> <a href=\"https://recurse.social/tags/mapstodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mapstodon</span></a> <a href=\"https://recurse.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://recurse.social/@mclare",
+        "display_name": "Maryanne Wachter"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/mastodon/mastodon/discussions/22979",
     "title": "Moderation: Sharing the load, Sharing tickets, feedback and more. \u00b7 Discussion #22979 \u00b7 mastodon/mastodon",
     "latest": "2023-01-07T21:39:48+00:00",
@@ -3342,22 +3358,6 @@
   {
     "link": "https://github.com/glitch-soc/mastodon/blob/main/app/models/status.rb#L62",
     "title": "mastodon/status.rb at main \u00b7 glitch-soc/mastodon",
-    "latest": "2022-12-29T20:21:11+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@jonny/109598819703849432",
-      "content": "<p>Problem: Fedi posts have a treelike structure to them, where each post can have a single post it is in reply to ( <a href=\"https://github.com/glitch-soc/mastodon/blob/main/app/models/status.rb#L62\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">in_reply_to_id</a> ) but many posts that reply to it. However the interface just represents them as a flat list, which makes them hard to navigate and read - it's hard to know if a given status is replying to the OP or to the post above it. This gets really really hard when threads get deeper and broader.</p><p>Posts (statuses in the code) already have the notion of a \"thread\" but in the ruby the tree is collapsed to a list in the <a href=\"https://github.com/glitch-soc/mastodon/blob/cbfeb105a8408bebd81bb697d58a5635f3024105/app/models/concerns/status_threading_concern.rb#L10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">descendents</a> method, which does a treelike SQL query and then sorts the results, bringing self-replies to the top.</p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@jonny",
-        "display_name": "Jonny"
-      }
-    ],
-    "first": "2022-12-29T20:21:11+00:00"
-  },
-  {
-    "link": "https://github.com/glitch-soc/mastodon/blob/cbfeb105a8408bebd81bb697d58a5635f3024105/app/models/concerns/status_threading_concern.rb#L10",
-    "title": "https://github.com/glitch-soc/mastodon/blob/cbfeb105a8408bebd81bb697d58a5635f3024105/app/models/concerns/status_threading_concern.rb#L10",
     "latest": "2022-12-29T20:21:11+00:00",
     "last_post": {
       "url": "https://neuromatch.social/@jonny/109598819703849432",
