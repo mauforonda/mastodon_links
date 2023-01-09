@@ -72,6 +72,66 @@
     "first": "2023-01-06T07:15:55.902000+00:00"
   },
   {
+    "link": "https://joinmastodon.org/covenant",
+    "title": "https://joinmastodon.org/covenant",
+    "latest": "2023-01-09T19:57:24+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@feditips/109660959063080873",
+      "content": "<p>Do you own a Fediverse server/instance (either Mastodon or non-Mastodon) that fulfils the following criteria:</p><p> - Obeys the Mastodon covenant (<a href=\"https://joinmastodon.org/covenant\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">joinmastodon.org/covenant</span><span class=\"invisible\"></span></a>), but doesn't have to be a Mastodon server</p><p> - Has under 50,000 members</p><p> - Either open for signups or has signup requests available</p><p>Would you be interested in being listed on an independent Fediverse server directory? If so, message me!</p><p>(Can't promise anything yet, looking into the feasibility of such a project. Boosts welcome!)</p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      },
+      {
+        "url": "https://datasci.social/@estebanmoro",
+        "display_name": "Esteban Moro"
+      },
+      {
+        "url": "https://econtwitter.net/@fetzert",
+        "display_name": "Thiemo Fetzer"
+      },
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      },
+      {
+        "url": "https://jawns.club/@alexhillman",
+        "display_name": "Alex Hillman \u26a1\ufe0f"
+      },
+      {
+        "url": "https://fediscience.org/@salonium",
+        "display_name": "Saloni \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      },
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      },
+      {
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
+      },
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      },
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://berlin.social/@psm_os",
+        "display_name": "Paul Schultze-Motel"
+      },
+      {
+        "url": "https://toot.fedilab.app/@apps",
+        "display_name": "Fedilab Apps"
+      }
+    ],
+    "first": "2023-01-06T15:44:38+00:00"
+  },
+  {
     "link": "https://github.com/hodgesmr/mastodon_digest",
     "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
     "latest": "2023-01-08T09:56:42+00:00",
@@ -122,58 +182,6 @@
       }
     ],
     "first": "2023-01-06T16:46:47.992000+00:00"
-  },
-  {
-    "link": "https://joinmastodon.org/covenant",
-    "title": "https://joinmastodon.org/covenant",
-    "latest": "2023-01-08T12:26:37+00:00",
-    "last_post": {
-      "url": "https://newsie.social/@jeff/109642749739164655",
-      "content": "<p>I have become anecdotally aware of several (smaller) mastodon instances that are considering shutting down because they cannot afford their server bills.</p><p>If you are a <a href=\"https://newsie.social/tags/mastodonadmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodonadmin</span></a> of an instance that is 1000+ users and considering shutting down please reach out to me.</p><p>We may be willing to take over your instance and save your users if you are compliant with the Mastodon Server Covenenant (<a href=\"https://joinmastodon.org/covenant\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">joinmastodon.org/covenant</span><span class=\"invisible\"></span></a>)</p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@mszll",
-        "display_name": "Michael Szell"
-      },
-      {
-        "url": "https://datasci.social/@estebanmoro",
-        "display_name": "Esteban Moro"
-      },
-      {
-        "url": "https://econtwitter.net/@fetzert",
-        "display_name": "Thiemo Fetzer"
-      },
-      {
-        "url": "https://mastodon.social/@Colarusso",
-        "display_name": "David Colarusso"
-      },
-      {
-        "url": "https://jawns.club/@alexhillman",
-        "display_name": "Alex Hillman \u26a1\ufe0f"
-      },
-      {
-        "url": "https://fediscience.org/@salonium",
-        "display_name": "Saloni \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-      },
-      {
-        "url": "https://sauropods.win/@futurebird",
-        "display_name": "myrmepropagandist"
-      },
-      {
-        "url": "https://mastodon.social/@judell",
-        "display_name": "Jon Udell"
-      },
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
-      },
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ],
-    "first": "2023-01-06T15:44:38+00:00"
   },
   {
     "link": "https://fediview.com/",
@@ -352,6 +360,46 @@
     ]
   },
   {
+    "link": "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4",
+    "title": "cell.com/trends/cognitive-scie...",
+    "latest": "2023-01-09T18:22:23+00:00",
+    "first": "2023-01-07T23:07:26+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@petersuber/109659890286353338",
+      "content": "<p>Fascinating study: \"The cognitive sciences have been dominated by English-speaking researchers studying other English speakers\u2026However, English differs from other languages in ways that have consequences for the whole of the cognitive sciences\u2026The particular characteristics of English and the linguistic habits of English speakers bias the field.\"<br><a href=\"https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cell.com/trends/cognitive-scie</span><span class=\"invisible\">nces/fulltext/S1364-6613(22)00236-4</span></a></p><p><a href=\"https://fediscience.org/tags/MultilingualResearch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilingualResearch</span></a>, <a href=\"https://fediscience.org/tags/Multilingualism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Multilingualism</span></a>, <a href=\"https://fediscience.org/tags/CogSci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CogSci</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@joelchan86",
+        "display_name": "Joel Chan"
+      },
+      {
+        "url": "https://friend.camp/@aparrish",
+        "display_name": "allison"
+      },
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot"
+      },
+      {
+        "url": "https://sigmoid.social/@nsaphra",
+        "display_name": "Naomi Saphra"
+      },
+      {
+        "url": "https://hachyderm.io/@hazelweakly",
+        "display_name": "Hazel Weakly :verified_trans:"
+      },
+      {
+        "url": "https://fediscience.org/@petersuber",
+        "display_name": "petersuber"
+      },
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      }
+    ]
+  },
+  {
     "link": "https://www.techdirt.com/2023/01/04/journalists-and-others-should-leave-twitter-heres-how-they-can-get-started/",
     "title": "Journalists (And Others) Should Leave Twitter. Here\u2019s How They Can Get Started",
     "latest": "2023-01-06T23:32:15+00:00",
@@ -458,42 +506,6 @@
       }
     ],
     "first": "2023-01-06T15:40:48+00:00"
-  },
-  {
-    "link": "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4",
-    "title": "cell.com/trends/cognitive-scie...",
-    "latest": "2023-01-09T15:12:14+00:00",
-    "first": "2023-01-07T23:07:26+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@petersuber/109659890286353338",
-      "content": "<p>Fascinating study: \"The cognitive sciences have been dominated by English-speaking researchers studying other English speakers\u2026However, English differs from other languages in ways that have consequences for the whole of the cognitive sciences\u2026The particular characteristics of English and the linguistic habits of English speakers bias the field.\"<br><a href=\"https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cell.com/trends/cognitive-scie</span><span class=\"invisible\">nces/fulltext/S1364-6613(22)00236-4</span></a></p><p><a href=\"https://fediscience.org/tags/MultilingualResearch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilingualResearch</span></a>, <a href=\"https://fediscience.org/tags/Multilingualism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Multilingualism</span></a>, <a href=\"https://fediscience.org/tags/CogSci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CogSci</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hci.social/@joelchan86",
-        "display_name": "Joel Chan"
-      },
-      {
-        "url": "https://friend.camp/@aparrish",
-        "display_name": "allison"
-      },
-      {
-        "url": "https://hcommons.social/@scott_bot",
-        "display_name": "@scott_bot"
-      },
-      {
-        "url": "https://sigmoid.social/@nsaphra",
-        "display_name": "Naomi Saphra"
-      },
-      {
-        "url": "https://hachyderm.io/@hazelweakly",
-        "display_name": "Hazel Weakly :verified_trans:"
-      },
-      {
-        "url": "https://fediscience.org/@petersuber",
-        "display_name": "petersuber"
-      }
-    ]
   },
   {
     "link": "https://audio.mcsweeneys.net/transcripts/against_access.html",
@@ -900,34 +912,6 @@
     "first": "2023-01-06T10:31:20+00:00"
   },
   {
-    "link": "https://www.justsecurity.org/84658/insiders-view-of-the-january-6th-committees-social-media-investigation/",
-    "title": "Insiders\u2019 View of the January 6th Committee\u2019s Social Media Investigation",
-    "latest": "2023-01-06T19:33:24+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@katestarbird/109637510139558614",
-      "content": "<p>An article from the January 6th committee's \"purple team\" on content that got left on the cutting room floor (from their final report) about the role of social media in motivating and mobilizing the January 6 attack on the Capitol: <a href=\"https://www.justsecurity.org/84658/insiders-view-of-the-january-6th-committees-social-media-investigation/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">justsecurity.org/84658/insider</span><span class=\"invisible\">s-view-of-the-january-6th-committees-social-media-investigation/</span></a></p><p>\"One clear conclusion from our investigation is that proponents of the recently released \u201cTwitter Files,\u201d who claim that platform suspensions of the former President are evidence of anti-conservative bias, have it completely backward.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@katestarbird",
-        "display_name": "Kate Starbird"
-      },
-      {
-        "url": "https://mastodon.social/@brendannyhan",
-        "display_name": "Brendan Nyhan"
-      },
-      {
-        "url": "https://mastodon.social/@justinhendrix",
-        "display_name": "Justin Hendrix"
-      },
-      {
-        "url": "https://saturation.social/@Noupside",
-        "display_name": "Renee DiResta"
-      }
-    ],
-    "first": "2023-01-05T21:04:23+00:00"
-  },
-  {
     "link": "https://danluu.com/p95-skill/",
     "title": "95%-ile isn't that good",
     "latest": "2023-01-08T21:56:17.353000+00:00",
@@ -1092,6 +1076,62 @@
       {
         "url": "https://econtwitter.net/@RichStein",
         "display_name": "Rich Stein"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/s41467-022-35576-9",
+    "title": "Exposure to the Russian Internet Research Agency foreign influence campaign on Twitter in the 2016 US election and its relationship to attitudes and voting behavior - Nature Communications",
+    "latest": "2023-01-09T20:14:51+00:00",
+    "first": "2023-01-09T17:30:18+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@gavinwilde/109659309408140459",
+      "content": "<p>The mismatch between the theoretical vs actual efficacy of social media influence ops remains wide. The 2016 Russian op preached mostly to a small group of the already converted \ud83d\udc47</p><p><a href=\"https://www.nature.com/articles/s41467-022-35576-9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41467-022</span><span class=\"invisible\">-35576-9</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@TradingPlacesResearch",
+        "display_name": "Trading Places Research"
+      },
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
+      },
+      {
+        "url": "https://mastodon.social/@brendannyhan",
+        "display_name": "Brendan Nyhan"
+      },
+      {
+        "url": "https://cybervillains.com/@alex",
+        "display_name": "Alex Stamos"
+      }
+    ]
+  },
+  {
+    "link": "https://nolanlawson.com/2023/01/09/retiring-pinafore/",
+    "title": "Retiring Pinafore",
+    "latest": "2023-01-09T19:13:19+00:00",
+    "first": "2023-01-09T17:11:30+00:00",
+    "last_post": {
+      "url": "https://toot.cafe/@nolan/109660134942211650",
+      "content": "<p>New blog post: \"Retiring Pinafore\" <a href=\"https://nolanlawson.com/2023/01/09/retiring-pinafore/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nolanlawson.com/2023/01/09/ret</span><span class=\"invisible\">iring-pinafore/</span></a></p><p>Probably not going to surprise anyone, but I'm stepping back from Pinafore. Thanks to everyone who followed along with this project over the years!</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://toot.cafe/@nolan",
+        "display_name": "Nolan"
+      },
+      {
+        "url": "https://toot.cafe/@nickytonline",
+        "display_name": "Nick Taylor"
+      },
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
       }
     ]
   },
@@ -1288,6 +1328,54 @@
     "first": "2023-01-04T19:52:26+00:00"
   },
   {
+    "link": "https://www.ssrc.org/programs/cswep-women-in-economics-research-consortium/",
+    "title": "CSWEP-SSRC Women in Economics Research Consortium",
+    "latest": "2023-01-09T18:54:05+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@seema_econ/109660762629739369",
+      "content": "<p>The Sloan Foundation/AEA CSWEP/SSRC Women in Economics Research Consortium is inviting proposals to evaluate cost-effective and scalable interventions to increase the number and persistence of women in economics. </p><p>Details here: <a href=\"https://www.ssrc.org/programs/cswep-women-in-economics-research-consortium/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">ssrc.org/programs/cswep-women-</span><span class=\"invisible\">in-economics-research-consortium/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@leightjessica",
+        "display_name": "Jessica Leight"
+      },
+      {
+        "url": "https://econtwitter.net/@ckrafftc",
+        "display_name": "Caroline Krafft"
+      },
+      {
+        "url": "https://econtwitter.net/@seema_econ",
+        "display_name": "Seema Jayachandran :verified:"
+      }
+    ],
+    "first": "2023-01-05T18:33:11+00:00"
+  },
+  {
+    "link": "https://futurism.com/the-byte/study-finds-that-buttons-in-cars-are-safer-and-quicker-to-use-than-touchscreens",
+    "title": "Study Finds That Buttons in Cars Are Safer and Quicker to Use Than Touchscreens",
+    "latest": "2023-01-09T19:30:02+00:00",
+    "last_post": {
+      "url": "https://social.coop/@scottjenson/109657123419963082",
+      "content": "<p>Study shows that touch screen buttons are less safe than physical buttons (no surprise to anyone in <a href=\"https://social.coop/tags/UXDesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UXDesign</span></a>)</p><p>\"The 2005 <a href=\"https://social.coop/tags/Volvo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Volvo</span></a> far outperformed the modern, infotainment screen equipped cars, with a driver completing all four tasks in just ten seconds and 1,000 feet traveled.\"</p><p><a href=\"https://futurism.com/the-byte/study-finds-that-buttons-in-cars-are-safer-and-quicker-to-use-than-touchscreens\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">futurism.com/the-byte/study-fi</span><span class=\"invisible\">nds-that-buttons-in-cars-are-safer-and-quicker-to-use-than-touchscreens</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@jaspar",
+        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      },
+      {
+        "url": "https://saturation.social/@clive",
+        "display_name": "Clive Thompson"
+      },
+      {
+        "url": "https://mastodon.social/@brad_frost",
+        "display_name": "brad_frost"
+      }
+    ],
+    "first": "2023-01-05T03:41:43+00:00"
+  },
+  {
     "link": "https://better.fyi/trackers/",
     "title": "Better",
     "latest": "2023-01-09T06:40:57+00:00",
@@ -1334,6 +1422,30 @@
       }
     ],
     "first": "2023-01-05T13:01:31+00:00"
+  },
+  {
+    "link": "https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me202",
+    "title": "Short course: Social Network Analysis",
+    "latest": "2023-01-09T20:59:59+00:00",
+    "last_post": {
+      "url": "https://sciences.social/@epower/109637449643164817",
+      "content": "<p>This summer, I'll be running a three-week course on <a href=\"https://sciences.social/tags/social\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>social</span></a> <a href=\"https://sciences.social/tags/network\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>network</span></a> analysis with my excellent colleague Milena Tsvetkova as part of the <a href=\"https://sciences.social/tags/LSE\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LSE</span></a> <a href=\"https://sciences.social/tags/SummerSchool\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SummerSchool</span></a>. In short order, we'll get you working in <a href=\"https://sciences.social/tags/R\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R</span></a> with real-world network datasets! Join us 31 July to 18 August! Please re-toot, and feel free to reach out with any questions. <a href=\"https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me202\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">lse.ac.uk/study-at-lse/summer-</span><span class=\"invisible\">schools/summer-school/courses/research-methods/me202</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@netscisociety",
+        "display_name": "Network Science Society"
+      },
+      {
+        "url": "https://ecoevo.social/@Eliz_Hobson",
+        "display_name": "Elizabeth Hobson"
+      },
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      }
+    ],
+    "first": "2023-01-06T14:07:34+00:00"
   },
   {
     "link": "https://paulstamatiou.com/mastodon/",
@@ -1502,30 +1614,6 @@
       }
     ],
     "first": "2023-01-06T15:15:49+00:00"
-  },
-  {
-    "link": "https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html",
-    "title": "Guide to the Year of Open Science \u2014 NASA's Transform to Open Science Mission",
-    "latest": "2023-01-06T18:51:10+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@Russpoldrack/109643105732294464",
-      "content": "<p>ICYMI <a href=\"https://mastodon.online/tags/NASA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NASA</span></a> has named 2023 as the Year of Open Science <a href=\"https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nasa.github.io/Transform-to-Op</span><span class=\"invisible\">en-Science-Book/Year_of_Open_Science_Guide/readme.html</span></a> - they are doing remarkable work in the open science domain, and you don't have to be a space scientist to get involved!</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@Russpoldrack",
-        "display_name": "Russ Poldrack"
-      },
-      {
-        "url": "https://sigmoid.social/@NeuroStats",
-        "display_name": "Manjari Narayan"
-      },
-      {
-        "url": "https://mefi.social/@melissaekline",
-        "display_name": "Melissa Kline Struhl"
-      }
-    ],
-    "first": "2023-01-06T16:03:42+00:00"
   },
   {
     "link": "https://www.reddit.com/r/CompSocial/",
@@ -1864,26 +1952,50 @@
     ]
   },
   {
-    "link": "https://www.nature.com/articles/s41467-022-35576-9",
-    "title": "Exposure to the Russian Internet Research Agency foreign influence campaign on Twitter in the 2016 US election and its relationship to attitudes and voting behavior - Nature Communications",
-    "latest": "2023-01-09T15:41:17+00:00",
-    "first": "2023-01-09T17:30:18+00:00",
+    "link": "https://maggieappleton.com/reverse-outline",
+    "title": "Reverse Outlining with Language Models",
+    "latest": "2023-01-09T18:21:42+00:00",
+    "first": "2023-01-09T12:18:42+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@j_a_tucker/109659961695321213",
-      "content": "<p>\ud83d\udce2\ud83d\udce3 We've got a new paper out from <span class=\"h-card\"><a href=\"https://mastodon.social/@csmap_nyu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>csmap_nyu</span></a></span> out today in <br>@NatureComms! \ud83d\udce2  </p><p>Russia's foreign influence campaign on Twitter in 2016 caused widespread concern. But who was exposed? How effective was it? \ud83e\uddf5\ud83d\udc47</p><p>1/</p><p><a href=\"https://www.nature.com/articles/s41467-022-35576-9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41467-022</span><span class=\"invisible\">-35576-9</span></a></p>"
+      "url": "https://indieweb.social/@maggie/109659207926987955",
+      "content": "<p>Thinking about using language models for reverse outlining when writing. There\u2019s a couple promising prototypes out in the world already - waiting for it to catch on in products and/or open-source tools.</p><p><a href=\"https://maggieappleton.com/reverse-outline\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">maggieappleton.com/reverse-out</span><span class=\"invisible\">line</span></a></p>"
     },
     "people": [
       {
-        "url": "https://econtwitter.net/@TradingPlacesResearch",
-        "display_name": "Trading Places Research"
+        "url": "https://indieweb.social/@maggie",
+        "display_name": "Maggie Appleton"
       },
       {
-        "url": "https://econtwitter.net/@paulgp",
-        "display_name": "Paul Goldsmith-Pinkham"
+        "url": "https://mastodon.social/@mikeolson",
+        "display_name": "Mike Olson"
       },
       {
-        "url": "https://mastodon.social/@brendannyhan",
-        "display_name": "Brendan Nyhan"
+        "url": "https://mstdn.social/@adamwulf",
+        "display_name": "Adam Wulf"
+      }
+    ]
+  },
+  {
+    "link": "https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-to-view-credit-reports/",
+    "title": "Identity Thieves Bypassed Experian Security to View Credit Reports \u2013 Krebs on Security",
+    "latest": "2023-01-09T19:35:49+00:00",
+    "first": "2023-01-09T18:08:57+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@dangillmor/109660925860159204",
+      "content": "<p>Why does \"credit reporting\"  Experian still exist? This rogue company and industry have demonstrated again and again that they cannot be trusted with the detailed personal and financial information it holds about you and almost everyone else in the U.S. The latest: <a href=\"https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-to-view-credit-reports/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">krebsonsecurity.com/2023/01/id</span><span class=\"invisible\">entity-thieves-bypassed-experian-security-to-view-credit-reports/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      },
+      {
+        "url": "https://infosec.exchange/@thegrugq",
+        "display_name": "the grugq"
+      },
+      {
+        "url": "https://mastodon.social/@shoq",
+        "display_name": "Shoq"
       }
     ]
   },
@@ -2228,26 +2340,6 @@
     "first": "2023-01-04T19:52:44+00:00"
   },
   {
-    "link": "https://futurism.com/the-byte/study-finds-that-buttons-in-cars-are-safer-and-quicker-to-use-than-touchscreens",
-    "title": "Study Finds That Buttons in Cars Are Safer and Quicker to Use Than Touchscreens",
-    "latest": "2023-01-07T22:21:09+00:00",
-    "last_post": {
-      "url": "https://saturation.social/@clive/109650252222898374",
-      "content": "<p>A Swedish car magazine did a shoot-out between an old 2005 Volvo and eleven modern cars</p><p>The modern cars had touchscreens -- the Volvo, buttons and levers</p><p>The test: After spending time familiarizing themselves with the controls, the test subjects were asked to drive while changing controls on stuff -- the AC, the radio, etc</p><p>No shocker: Using the touchscreens took much longer than knobs</p><p>(Caveats: Not scientific; longer familiarity could make touchscreens more nimble)</p><p><a href=\"https://futurism.com/the-byte/study-finds-that-buttons-in-cars-are-safer-and-quicker-to-use-than-touchscreens\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">futurism.com/the-byte/study-fi</span><span class=\"invisible\">nds-that-buttons-in-cars-are-safer-and-quicker-to-use-than-touchscreens</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@jaspar",
-        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-      },
-      {
-        "url": "https://saturation.social/@clive",
-        "display_name": "Clive Thompson"
-      }
-    ],
-    "first": "2023-01-05T03:41:43+00:00"
-  },
-  {
     "link": "https://f1000research.com/articles/6-518/v2",
     "title": "F1000Research Article: We can shift academic culture through publishing choices.",
     "latest": "2023-01-08T23:19:24+00:00",
@@ -2408,24 +2500,24 @@
     "first": "2023-01-05T19:18:59+00:00"
   },
   {
-    "link": "https://www.inkandswitch.com/untangle/",
-    "title": "Untangle: Solving problems with fuzzy constraints",
-    "latest": "2023-01-06T18:51:24+00:00",
+    "link": "https://doi.org/10.5281/zenodo.5526634",
+    "title": "https://doi.org/10.5281/zenodo.5526634",
+    "latest": "2023-01-09T20:25:53+00:00",
     "last_post": {
-      "url": "https://merveilles.town/@pvh/109643761111293130",
-      "content": "<p>Another new Ink &amp; Switch essay is here. Hope you enjoy it:<br><a href=\"https://www.inkandswitch.com/untangle/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">inkandswitch.com/untangle/</span><span class=\"invisible\"></span></a></p>"
+      "url": "https://mastodon.social/@brembs/109658012484951932",
+      "content": "<p>The scholarly \"community should demand longer-term solutions that break up the monopoly of academic publishers\"</p><p>From an ex-Nature editor:<br><a href=\"https://pubmed.ncbi.nlm.nih.gov/30709550/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pubmed.ncbi.nlm.nih.gov/307095</span><span class=\"invisible\">50/</span></a></p><p>even before we wrote that we need to replace academic journals:<br><a href=\"https://doi.org/10.5281/zenodo.5526634\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.5281/zenodo.5526634</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.social/tags/openscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openscience</span></a> <a href=\"https://mastodon.social/tags/OpenAccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenAccess</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mas.to/@szymon_k",
-        "display_name": "Szymon Kaliski"
+        "url": "https://ecoevo.social/@cboettig",
+        "display_name": "Carl Boettiger"
       },
       {
-        "url": "https://merveilles.town/@cblgh",
-        "display_name": "Alexander Cobleigh"
+        "url": "https://fediscience.org/@petersuber",
+        "display_name": "petersuber"
       }
     ],
-    "first": "2023-01-05T19:09:37+00:00"
+    "first": "2023-01-05T19:26:15+00:00"
   },
   {
     "link": "https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html?smid=tw-share",
@@ -2506,26 +2598,6 @@
       }
     ],
     "first": "2023-01-06T01:33:38+00:00"
-  },
-  {
-    "link": "https://medicine.yale.edu/news-article/introducing-jot-a-new-open-source-tool-to-help-researchers-with-journal-selection/",
-    "title": "Introducing Jot \u2014 a new open-source tool that help researchers with journal selection",
-    "latest": "2023-01-06T19:13:00+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@oatp/109643850116640010",
-      "content": "<p>Introducing Jot \u2014 a new open-source tool that help researchers with journal selection &lt; Yale School of Medicine <a href=\"https://medicine.yale.edu/news-article/introducing-jot-a-new-open-source-tool-to-help-researchers-with-journal-selection/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">medicine.yale.edu/news-article</span><span class=\"invisible\">/introducing-jot-a-new-open-source-tool-to-help-researchers-with-journal-selection/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedihum.org/@jcls",
-        "display_name": "JCLS"
-      },
-      {
-        "url": "https://fediscience.org/@oatp",
-        "display_name": "Open Access Tracking Project"
-      }
-    ],
-    "first": "2023-01-06T06:41:22+00:00"
   },
   {
     "link": "https://magrit.cnrs.fr/",
@@ -2708,26 +2780,6 @@
     ]
   },
   {
-    "link": "https://ijoc.org/index.php/ijoc/article/view/8782",
-    "title": "Whose Death Matters? A Quantitative Analysis of Media Attention to Deaths of Black Americans in Police Confrontations, 2013\u20132016 | Zuckerman | International Journal of Communication",
-    "latest": "2023-01-06T20:41:08+00:00",
-    "first": "2023-01-06T19:26:43+00:00",
-    "last_post": {
-      "url": "https://octodon.social/@ethanz/109643903998635138",
-      "content": "<p>My team at MIT wrote about killings of unarmed people of color by police, and media attention to these stories, in a paper called Whose Death Matters? We saw evidence that attention  to these deaths comes in waves, when media is able to frame the epidemic of death as a coherent phenomenon organized around a person, like George Floyd or Michael Brown: <a href=\"https://ijoc.org/index.php/ijoc/article/view/8782\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ijoc.org/index.php/ijoc/articl</span><span class=\"invisible\">e/view/8782</span></a> But the deaths keep coming, a product of America's approach to guns and to policing.</p>"
-    },
-    "people": [
-      {
-        "url": "https://octodon.social/@ethanz",
-        "display_name": "Ethan Zuckerman"
-      },
-      {
-        "url": "https://masto.ai/@brenocon",
-        "display_name": "brendan"
-      }
-    ]
-  },
-  {
     "link": "https://www.bloomberg.com/news/articles/2023-01-06/special-counsel-jack-smith-hires-anti-corruption-prosecutors-in-trump-probe",
     "title": "Trump Special Counsel Probe Adds Two Anti-Corruption Prosecutors",
     "latest": "2023-01-07T14:52:43+00:00",
@@ -2824,26 +2876,6 @@
       {
         "url": "https://vis.social/@tamara",
         "display_name": "Tamara Munzner"
-      }
-    ]
-  },
-  {
-    "link": "https://brandnewbox.com/inthestacks/",
-    "title": "In the Stacks (Maisie's Tune), by Robin Sloan",
-    "latest": "2023-01-06T20:11:46+00:00",
-    "first": "2023-01-06T20:59:32+00:00",
-    "last_post": {
-      "url": "https://saturation.social/@clive/109644081150479076",
-      "content": "<p>Robin Sloan's latest short story -- \"In the Stacks (Maizie's Tune)\" -- is online, and the title card for its is a little software synthesizer that you can tweak the parameters of, creating a little custom melody to play in the background while you read: <a href=\"https://brandnewbox.com/inthestacks/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">brandnewbox.com/inthestacks/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
-      },
-      {
-        "url": "https://saturation.social/@clive",
-        "display_name": "Clive Thompson"
       }
     ]
   },
@@ -3104,6 +3136,26 @@
       {
         "url": "https://fediscience.org/@erinnacland",
         "display_name": "Erinn Acland, PhD"
+      }
+    ]
+  },
+  {
+    "link": "https://investinopen.org/jobs",
+    "title": "https://investinopen.org/jobs",
+    "latest": "2023-01-09T21:05:36+00:00",
+    "first": "2023-01-07T11:58:26+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@investinopen/109656352893407105",
+      "content": "<p>We're expanding our team!\u2728 Please help spread the word!</p><p>TWO leadership openings:<br>\ud83d\udd39Business Development &amp; Partnerships Lead (application deadline: Sunday)<br>\ud83d\udd39Research Lead</p><p>Apply apply apply!</p><p><a href=\"https://investinopen.org/jobs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">investinopen.org/jobs</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@kaythaney",
+        "display_name": "Kaitlin Thaney"
+      },
+      {
+        "url": "https://fediscience.org/@petersuber",
+        "display_name": "petersuber"
       }
     ]
   },
@@ -3868,26 +3920,6 @@
     ]
   },
   {
-    "link": "https://maggieappleton.com/reverse-outline",
-    "title": "Reverse Outlining with Language Models",
-    "latest": "2023-01-09T13:17:16+00:00",
-    "first": "2023-01-09T12:18:42+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@mikeolson/109659438231128378",
-      "content": "<p>It's interesting to watch people pick up chunks of AI and knap them into useful tools for their work. Maggie Appleton <span class=\"h-card\"><a href=\"https://indieweb.social/@maggie\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>maggie</span></a></span> is always interesting, but I especially liked this mundane but helpful application of LLMs to writing.</p><p><a href=\"https://maggieappleton.com/reverse-outline\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">maggieappleton.com/reverse-out</span><span class=\"invisible\">line</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@maggie",
-        "display_name": "Maggie Appleton"
-      },
-      {
-        "url": "https://mastodon.social/@mikeolson",
-        "display_name": "Mike Olson"
-      }
-    ]
-  },
-  {
     "link": "https://www.biorxiv.org/content/10.1101/2022.12.23.521747v1",
     "title": "biorxiv.org/content/10.1101/20...",
     "latest": "2023-01-09T16:01:40+00:00",
@@ -4028,6 +4060,26 @@
     ]
   },
   {
+    "link": "https://aperiodical.com/2023/01/recurring-decimals-and-1-7/",
+    "title": "Recurring decimals and 1/7",
+    "latest": "2023-01-09T18:25:09+00:00",
+    "first": "2023-01-09T13:48:31+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@aperiodical/109659431256033649",
+      "content": "<p>Recurring decimals and 1/7 <a href=\"https://aperiodical.com/2023/01/recurring-decimals-and-1-7/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">aperiodical.com/2023/01/recurr</span><span class=\"invisible\">ing-decimals-and-1-7/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@Danpiker",
+        "display_name": ""
+      },
+      {
+        "url": "https://mstdn.social/@adamwulf",
+        "display_name": "Adam Wulf"
+      }
+    ]
+  },
+  {
     "link": "https://www.wsj.com/articles/china-a-pioneer-in-regulating-algorithms-turns-its-focus-to-deepfakes-11673149283",
     "title": "China, a Pioneer in Regulating Algorithms, Turns Its Focus to Deepfakes",
     "latest": "2023-01-09T17:17:28+00:00",
@@ -4048,22 +4100,22 @@
     ]
   },
   {
-    "link": "https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-to-view-credit-reports/",
-    "title": "Identity Thieves Bypassed Experian Security to View Credit Reports \u2013 Krebs on Security",
-    "latest": "2023-01-09T15:28:03+00:00",
-    "first": "2023-01-09T18:08:57+00:00",
+    "link": "https://nerdy.dev/",
+    "title": "Adam Argyle",
+    "latest": "2023-01-09T18:58:54+00:00",
+    "first": "2023-01-09T12:28:10+00:00",
     "last_post": {
-      "url": "https://infosec.exchange/@briankrebs/109659661383319403",
-      "content": "<p>I was tooting about this scoop a few days before the new year, hoping maybe <a href=\"https://infosec.exchange/tags/Experian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Experian</span></a> would see the wisdom of providing an on the record response. They never did. </p><p>Today's story includes a great quote from Sen. Ron <a href=\"https://infosec.exchange/tags/Wyden\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wyden</span></a>, who told me Experian never responded to him either, regarding his questions to them about my last scoop in re Experian (where they were letting ID thieves hijack existing Experian.com accounts by simply signing up as the target consumer using a different email address).</p><p>Here's the lede:</p><p>\"Identity thieves have been exploiting a glaring security weakness in the website of Experian, one of the big three consumer credit reporting bureaus. Normally, Experian requires that those seeking a copy of their credit report successfully answer several multiple choice questions about their financial history. But until the end of 2022, Experian's website allowed anyone to bypass these questions and go straight to the consumer's report. All that was needed was the person's name, address, birthday and Social Security number.\"</p><p><a href=\"https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-to-view-credit-reports/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">krebsonsecurity.com/2023/01/id</span><span class=\"invisible\">entity-thieves-bypassed-experian-security-to-view-credit-reports/</span></a></p>"
+      "url": "https://front-end.social/@mxbck/109659245181853836",
+      "content": "<p>I love this new thing where people make their websites literally look like a social feed (e.g. <a href=\"https://nerdy.dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">nerdy.dev/</span><span class=\"invisible\"></span></a>) and use POSSE/backfeed to bring it into the fediverse.</p><p>Need to fight the urge to redesign my site yet again...</p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
+        "url": "https://front-end.social/@mxbck",
+        "display_name": "Max B\u00f6ck"
       },
       {
-        "url": "https://infosec.exchange/@thegrugq",
-        "display_name": "the grugq"
+        "url": "https://status.kinlan.me/@paul",
+        "display_name": "Paul Kinlan"
       }
     ]
   },
@@ -4088,9 +4140,29 @@
     ]
   },
   {
+    "link": "https://patricia.no/2023/01/09/open_letter_guest_post.html",
+    "title": "An Open Letter to the C++ Community | Alice (pseudonym)",
+    "latest": "2023-01-09T18:52:27+00:00",
+    "first": "2023-01-09T17:26:10+00:00",
+    "last_post": {
+      "url": "https://social.vivaldi.net/@Patricia/109660346354156856",
+      "content": "<p>1/ \"I was sexually harassed by a prominent member of WG21 (the ISO C++ committee) at an in-person meeting several years ago.\"</p><p>Guest post by \"Alice\"<br><a href=\"https://patricia.no/2023/01/09/open_letter_guest_post.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">patricia.no/2023/01/09/open_le</span><span class=\"invisible\">tter_guest_post.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Migueldeicaza",
+        "display_name": "Miguel de Icaza"
+      },
+      {
+        "url": "https://social.treehouse.systems/@ariadne",
+        "display_name": "Ariadne Conill \ud83d\udc30"
+      }
+    ]
+  },
+  {
     "link": "https://gwagner.com/ps-2023-book-award/",
     "title": "Sustainability Book Award",
-    "latest": "2023-01-09T15:19:53+00:00",
+    "latest": "2023-01-09T20:35:30+00:00",
     "first": "2023-01-09T17:33:34+00:00",
     "last_post": {
       "url": "https://fediscience.org/@gwagner/109659920389821282",
@@ -4104,26 +4176,6 @@
       {
         "url": "https://fediscience.org/@gwagner",
         "display_name": "Gernot Wagner"
-      }
-    ]
-  },
-  {
-    "link": "https://nolanlawson.com/2023/01/09/retiring-pinafore/",
-    "title": "Retiring Pinafore",
-    "latest": "2023-01-09T16:14:27+00:00",
-    "first": "2023-01-09T17:11:30+00:00",
-    "last_post": {
-      "url": "https://toot.cafe/@nolan/109660134942211650",
-      "content": "<p>New blog post: \"Retiring Pinafore\" <a href=\"https://nolanlawson.com/2023/01/09/retiring-pinafore/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nolanlawson.com/2023/01/09/ret</span><span class=\"invisible\">iring-pinafore/</span></a></p><p>Probably not going to surprise anyone, but I'm stepping back from Pinafore. Thanks to everyone who followed along with this project over the years!</p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://toot.cafe/@nolan",
-        "display_name": "Nolan"
       }
     ]
   },
@@ -4144,6 +4196,86 @@
       {
         "url": "https://fediscience.org/@erinnacland",
         "display_name": "Erinn Acland, PhD"
+      }
+    ]
+  },
+  {
+    "link": "https://www.washingtonpost.com/politics/2023/01/09/trump-jan-6-insurrection-brazil/",
+    "title": "Trumpian election rejection goes global",
+    "latest": "2023-01-09T18:45:19+00:00",
+    "first": "2023-01-09T16:14:18+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@brendannyhan/109660728193861209",
+      "content": "<p>Well this is bad <a href=\"https://www.washingtonpost.com/politics/2023/01/09/trump-jan-6-insurrection-brazil/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/politics/20</span><span class=\"invisible\">23/01/09/trump-jan-6-insurrection-brazil/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@katestarbird",
+        "display_name": "Kate Starbird"
+      },
+      {
+        "url": "https://mastodon.social/@brendannyhan",
+        "display_name": "Brendan Nyhan"
+      }
+    ]
+  },
+  {
+    "link": "https://slate.com/technology/2023/01/supreme-court-florida-texas-social-media-laws.html",
+    "title": "The Important Lesson Hidden in Florida\u2019s and Texas\u2019 Garbage Social Media Laws",
+    "latest": "2023-01-09T18:45:06+00:00",
+    "first": "2023-01-09T15:52:55+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@evelyndouek/109660064874530741",
+      "content": "<p>This is a fantastic piece on the under-appreciated stakes for transparency regulation of the Netchoice cases, the dark horse in the cases while the focus has mostly been on the must-carry provisions....</p><p>RT @2ramyakrishnan@twitter.com</p><p>Why platform transparency laws aren't foreclosed by the First Amendment. New from me today in Slate <a href=\"https://slate.com/technology/2023/01/supreme-court-florida-texas-social-media-laws.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">slate.com/technology/2023/01/s</span><span class=\"invisible\">upreme-court-florida-texas-social-media-laws.html</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/2ramyakrishnan/status/1612475036119490561\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/2ramyakrishnan/sta</span><span class=\"invisible\">tus/1612475036119490561</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@evelyndouek",
+        "display_name": "Evelyn Douek"
+      },
+      {
+        "url": "https://cybervillains.com/@alex",
+        "display_name": "Alex Stamos"
+      }
+    ]
+  },
+  {
+    "link": "https://t1p.de/dighis23",
+    "title": "https://t1p.de/dighis23",
+    "latest": "2023-01-09T18:22:31+00:00",
+    "first": "2023-01-09T15:15:41+00:00",
+    "last_post": {
+      "url": "https://fedihum.org/@DigitalHistory/109659903878277828",
+      "content": "<p><a href=\"https://fedihum.org/tags/Histodons\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Histodons</span></a>, <a href=\"https://fedihum.org/tags/DigitalHistorians\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHistorians</span></a> und <a href=\"https://fedihum.org/tags/DigitalHumanists\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanists</span></a> aufgepasst:</p><p>The clock is ticking \u23f0 In genau einer Woche endet die Einreichungsfrist f\u00fcr die <a href=\"https://fedihum.org/tags/DigHis23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigHis23</span></a>! Bis zum 16.01. ist noch Gelegenheit, Vorschl\u00e4ge f\u00fcr Vortr\u00e4ge, Workshops und Poster zum Thema \"Digitale Methoden in der geschichtswissenschaftlichen Praxis\" einzureichen.</p><p>\u2139\ufe0f Was, Wie, Wo? Alles, was man wissen muss: <a href=\"https://t1p.de/dighis23\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">t1p.de/dighis23</span><span class=\"invisible\"></span></a></p><p>Wir freuen uns auf eure Beitr\u00e4ge!</p><p><a href=\"https://fedihum.org/tags/DigitalHistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHistory</span></a> <a href=\"https://fedihum.org/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> <a href=\"https://fedihum.org/tags/digiGW\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digiGW</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/historikerinnen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>historikerinnen</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@DigitalHistory",
+        "display_name": "Digital History Berlin"
+      },
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      }
+    ]
+  },
+  {
+    "link": "https://jobportal.ku.dk/phd/?show=158247&amp;fbclid=IwAR3cDQeoXc-ipYMcts2lCKXD0XHW2o5shpvmreD7Bcg63OgW8NOMX8hJvlk",
+    "title": "jobportal.ku.dk/phd/?show=1582...",
+    "latest": "2023-01-09T18:49:31+00:00",
+    "first": "2023-01-09T21:07:13+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Touboel/109660692971537912",
+      "content": "<p>Want to write a PhD dissertation in sociology on a research idea of your own? Then apply for this position with us here at sociology, University of Copenhagen! It is an open call, thus, an unique chance to do your own independent research project and not just work on an idea of some PI. And if that's not enough, you will also get paid a proper wage! <br>Apply here: <a href=\"https://jobportal.ku.dk/phd/?show=158247&amp;fbclid=IwAR3cDQeoXc-ipYMcts2lCKXD0XHW2o5shpvmreD7Bcg63OgW8NOMX8hJvlk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jobportal.ku.dk/phd/?show=1582</span><span class=\"invisible\">47&amp;fbclid=IwAR3cDQeoXc-ipYMcts2lCKXD0XHW2o5shpvmreD7Bcg63OgW8NOMX8hJvlk</span></a><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/sociology\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sociology</span></a></span> <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      },
+      {
+        "url": "https://sciences.social/@per",
+        "display_name": "Per Engzell"
       }
     ]
   }

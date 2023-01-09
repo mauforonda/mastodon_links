@@ -1,5 +1,117 @@
 [
   {
+    "link": "https://github.com/JuliaDynamics/Agents.jl",
+    "title": "GitHub - JuliaDynamics/Agents.jl: Agent-based modeling framework in Julia",
+    "latest": "2023-01-09T21:00:32.693000+00:00",
+    "first": "2023-01-09T21:00:32.693000+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@InPhyT/109661259754330996",
+      "content": "<p>\u2705 integrated the package within the <a href=\"https://fosstodon.org/tags/JuliaDynamics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaDynamics</span></a> ecosystem to make it compatible with <a href=\"https://fosstodon.org/tags/Agents\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Agents</span></a> allowing for agent-based modelling on general multilayer networks <a href=\"https://github.com/JuliaDynamics/Agents.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaDynamics/Agent</span><span class=\"invisible\">s.jl</span></a>; </p><p><a href=\"https://fosstodon.org/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://fosstodon.org/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://fosstodon.org/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://fosstodon.org/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://fosstodon.org/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://fosstodon.org/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://fosstodon.org/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://a.gup.pe/u/networkscience",
+        "display_name": "networkscience group"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/JuliaGraphs",
+    "title": "JuliaGraphs",
+    "latest": "2023-01-09T20:59:26.576000+00:00",
+    "first": "2023-01-09T20:59:26.576000+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@InPhyT/109661255439035212",
+      "content": "<p>Since the previous version of <a href=\"https://fosstodon.org/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> we have: </p><p>\u2705 integrated the package within the <a href=\"https://fosstodon.org/tags/JuliaGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaGraphs</span></a> ecosystem to guarantee methodological consistency and enrich the variety of possible graph structures underlying layers and interlayers <a href=\"https://github.com/JuliaGraphs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/JuliaGraphs</span><span class=\"invisible\"></span></a>; </p><p><a href=\"https://fosstodon.org/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://fosstodon.org/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://fosstodon.org/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://fosstodon.org/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://fosstodon.org/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://fosstodon.org/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://fosstodon.org/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://a.gup.pe/u/networkscience",
+        "display_name": "networkscience group"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/JuliaGraphs/MultilayerGraphs.jl",
+    "title": "GitHub - JuliaGraphs/MultilayerGraphs.jl: A Julia package for the creation, manipulation and analysis of the structure, dynamics and functions of multilayer graphs.",
+    "latest": "2023-01-09T20:48:16.407000+00:00",
+    "first": "2023-01-09T21:04:14.165000+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@InPhyT/109661211540157933",
+      "content": "<p>\ud83d\udce2 We're happy to announce the new release of MultilayerGraphs.jl (v1.1) \ud83c\udf89!</p><p>Interested in multilayer network science in @JuliaLanguage?</p><p>Read the following \ud83e\uddf5 summarising the main features of the package by @ClaudioMoroni and <span class=\"h-card\"><a href=\"https://fosstodon.org/@PietroMonticone\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PietroMonticone</span></a></span>. </p><p>\ud83d\udce6 Repository: <a href=\"https://github.com/JuliaGraphs/MultilayerGraphs.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaGraphs/Multila</span><span class=\"invisible\">yerGraphs.jl</span></a></p><p>\ud83d\udcc4 Documentation: <a href=\"https://juliagraphs.org/MultilayerGraphs.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">juliagraphs.org/MultilayerGrap</span><span class=\"invisible\">hs.jl</span></a></p><p><a href=\"https://fosstodon.org/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://fosstodon.org/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://fosstodon.org/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://fosstodon.org/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://fosstodon.org/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://fosstodon.org/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://fosstodon.org/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://a.gup.pe/u/networkscience",
+        "display_name": "networkscience group"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/natemoo-re/tiny-decode",
+    "title": "GitHub - natemoo-re/tiny-decode: Decode HTML entities the browser-friendly way",
+    "latest": "2023-01-09T20:05:03+00:00",
+    "first": "2023-01-09T20:05:03+00:00",
+    "last_post": {
+      "url": "https://mas.to/@nmoo/109661005119004834",
+      "content": "<p>I just published \ud83e\udd0f `tiny-decode`!</p><p>Traditionally, decoding HTML named character references requires a large table to store entity names and the code points to which they refer. Unless you take extreme care, this data can easily end up in your JavaScript bundle.</p><p>Using export conditions, `tiny-decode` only includes a few bytes in your browser bundles. Server bundles include the full table as usual.</p><p>`entities` \ud83d\udc49 19.64 kB gzip<br>`tiny-decode` \ud83d\udc49 0.56 kB gzip</p><p><a href=\"https://github.com/natemoo-re/tiny-decode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/natemoo-re/tiny-dec</span><span class=\"invisible\">ode</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/reggi/std/tree/main/scripts",
+    "title": "std/scripts at main \u00b7 reggi/std",
+    "latest": "2023-01-09T20:04:07+00:00",
+    "first": "2023-01-09T20:04:07+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@thomasreggi/109661038016695018",
+      "content": "<p>I have too many repositories. Should I try to consolidate them? I recently found a folder of shell scripts (<a href=\"https://github.com/reggi/std/tree/main/scripts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/reggi/std/tree/main</span><span class=\"invisible\">/scripts</span></a>) this is one of many of these. I've always struggled to organize my smaller functions, bash scripts, and typescript, node/deno code into a single repository. It's overwhelming and I would like to have things organized and tested better.  <a href=\"https://indieweb.social/tags/code\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>code</span></a> <a href=\"https://indieweb.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://indieweb.social/tags/reusable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reusable</span></a> <a href=\"https://indieweb.social/tags/modular\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>modular</span></a> <a href=\"https://indieweb.social/tags/bash\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bash</span></a> <a href=\"https://indieweb.social/tags/unix\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>unix</span></a> <a href=\"https://indieweb.social/tags/shell\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>shell</span></a> <a href=\"https://indieweb.social/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a> <a href=\"https://indieweb.social/tags/deno\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deno</span></a> <a href=\"https://indieweb.social/tags/typescript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>typescript</span></a> <a href=\"https://indieweb.social/tags/nodejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nodejs</span></a> <a href=\"https://indieweb.social/tags/node\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>node</span></a> <a href=\"https://indieweb.social/tags/github\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>github</span></a> <a href=\"https://indieweb.social/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@thomasreggi",
+        "display_name": "thomas \ud83c\udf38"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/freedmand/textra",
+    "title": "GitHub - freedmand/textra: A command-line application to convert images, PDFs, and audio files to text using Apple's APIs",
+    "latest": "2023-01-09T19:26:04+00:00",
+    "first": "2023-01-09T19:26:04+00:00",
+    "last_post": {
+      "url": "https://vmst.io/@marcoshuerta/109660888415363068",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@siracusa\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>siracusa</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@atpfm\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>atpfm</span></a></span> <br>Whisper relies on pytorch but can\u2019t use the Metal version (MPS) so it is all cpu on a Mac.</p><p>My guess is they chose Whisper over Apple\u2019s framework bc it\u2019s more accurate &amp; doesn\u2019t require any changes to system settings to turn on. In my limited testing,  Whisper is a bit more cpu intensive.</p><p>The utility textra can  transcribe an mp3 file using Apple\u2019s framework. <a href=\"https://github.com/freedmand/textra\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/freedmand/textra</span><span class=\"invisible\"></span></a></p><p>I did a quick comparison and Apple\u2019s framework is noticeably less accurate than whisper.</p>"
+    },
+    "people": [
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf",
+    "title": "dataviz-style-guide/Sunlight-StyleGuide-DataViz.pdf at master \u00b7 amycesal/dataviz-style-guide",
+    "latest": "2023-01-09T18:44:07+00:00",
+    "first": "2023-01-09T18:44:07+00:00",
+    "last_post": {
+      "url": "https://tooting.ch/@DdelAlamo/109660723419511029",
+      "content": "<p>The sunlight foundation's data visualization style guide <a href=\"https://tooting.ch/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p><p>What an amazing document! How has nobody told me about this?</p><p><a href=\"https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/amycesal/dataviz-st</span><span class=\"invisible\">yle-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://tooting.ch/@DdelAlamo",
+        "display_name": "Diego del Alamo"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/rapidblock-org/rapidblock",
     "title": "GitHub - rapidblock-org/rapidblock: Syndicated domain blocks in the Fediverse",
     "latest": "2023-01-09T18:02:00+00:00",
@@ -3306,121 +3418,5 @@
       }
     ],
     "first": "2022-12-31T12:41:23+00:00"
-  },
-  {
-    "link": "https://github.com/lucahammer/fediporter",
-    "title": "GitHub - lucahammer/fediporter: Notes on importing content to Mastodon.",
-    "latest": "2022-12-31T12:39:37+00:00",
-    "last_post": {
-      "url": "https://vis.social/@Luca/109580343216152262",
-      "content": "<p>Over the last few days, I experimented with moving my Twitter archive to my personal <a href=\"https://vis.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> account <span class=\"h-card\"><a href=\"https://social.luca.run/@luca\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>luca@social.luca.run</span></a></span> and finally succeeded.</p><p>I had to modify the Mastodon source to allow backdated posts and prevent it from spamming other instances with old posts. Because image descriptions aren't included in the Twitter export, I had to request them from the API. There I got full text for truncated Retweets as well.</p><p>Incomplete notes:<br><a href=\"https://github.com/lucahammer/fediporter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/lucahammer/fediport</span><span class=\"invisible\">er</span></a></p><p><a href=\"https://vis.social/tags/TwitterMigration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TwitterMigration</span></a> <a href=\"https://vis.social/tags/MastoAdmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoAdmin</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@Luca",
-        "display_name": "Luca Hammer"
-      },
-      {
-        "url": "https://cyberplace.social/@GossiTheDog",
-        "display_name": "Kevin Beaumont"
-      }
-    ],
-    "first": "2022-12-31T12:39:37+00:00"
-  },
-  {
-    "link": "https://github.com/zakird/crux-top-lists",
-    "title": "github.com/zakird/crux-top-lis...",
-    "latest": "2022-12-31T08:32:25+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@zakir/109604452106232927",
-      "content": "<p>Earlier this year, one of my students, Kimberly Ruth, showed that Alexa, Tranco, and other top million website lists are scarily inaccurate. Paper: <a href=\"https://zakird.com/papers/toplists.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">zakird.com/papers/toplists.pdf</span><span class=\"invisible\"></span></a>.</p><p>The only saving grace was that Google Chrome recently started to publish website popularity data that is significantly better (not shocking given their perspective). But, since then, we've heard from a number of folks though that it's difficult to extract popularity data from the CrUX datasets in Google BigQuery. </p><p>I just threw together a repo that pulls and caches CSV snapshots of their Top Million Sites from BigQuery that can be used similar to how Alexa and other lists are used: <a href=\"https://github.com/zakird/crux-top-lists\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zakird/crux-top-lis</span><span class=\"invisible\">ts</span></a>. Hopefully this makes it easier for folks.</p>"
-    },
-    "people": [
-      {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
-      }
-    ],
-    "first": "2022-12-31T08:32:25+00:00"
-  },
-  {
-    "link": "https://github.com/cachapa/sqlite_crdt",
-    "title": "GitHub - cachapa/sqlite_crdt: Dart implementation of Conflict-free Replicated Data Types (CRDTs) using a Sqlite database as store",
-    "latest": "2022-12-31T07:32:34+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@cachapa/109602355777533984",
-      "content": "<p>I've been sort of obsessed with <a href=\"https://mastodon.social/tags/localfirst\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>localfirst</span></a> databases for a while.</p><p>StoryArk, Libra, and tudo all use it with exceptional results, even if they needed a lot of custom code.</p><p>Now I'm trying to distill those learnings into a <a href=\"https://mastodon.social/tags/dart\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dart</span></a> / <a href=\"https://mastodon.social/tags/flutter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>flutter</span></a> library: <a href=\"https://github.com/cachapa/sqlite_crdt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cachapa/sqlite_crdt</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://nondeterministic.computer/@martin",
-        "display_name": "Martin Kleppmann"
-      }
-    ],
-    "first": "2022-12-31T07:32:34+00:00"
-  },
-  {
-    "link": "https://github.com/brohrer/how-to-train-your-robot/tree/main/chapter_5/sandbox/af_flybot",
-    "title": "how-to-train-your-robot/chapter_5/sandbox/af_flybot at main \u00b7 brohrer/how-to-train-your-robot",
-    "latest": "2022-12-31T01:35:07+00:00",
-    "last_post": {
-      "url": "https://recsys.social/@brohrer/109605607174918956",
-      "content": "<p>I made my latest <a href=\"https://recsys.social/tags/animation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>animation</span></a> project to illustrate a spring-damper <a href=\"https://recsys.social/tags/simulation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>simulation</span></a>.</p><p>Animation tools courtesy of <span class=\"h-card\"><a href=\"https://vis.social/@matplotlib\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>matplotlib</span></a></span><br>Illustrations done with <span class=\"h-card\"><a href=\"https://mastodon.art/@inkscape\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>inkscape</span></a></span> Simulation tools are under development for the WIP book How to Train Your Robot <a href=\"https://recsys.social/tags/httyr\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>httyr</span></a></p><p>Full code at <a href=\"https://github.com/brohrer/how-to-train-your-robot/tree/main/chapter_5/sandbox/af_flybot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/brohrer/how-to-trai</span><span class=\"invisible\">n-your-robot/tree/main/chapter_5/sandbox/af_flybot</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
-      }
-    ],
-    "first": "2022-12-31T01:35:07+00:00"
-  },
-  {
-    "link": "https://github.com/panicz/grasp-android/blob/master/stages/retreat/GRASP/src/test-painter.scm#L252",
-    "title": "github.com/panicz/grasp-androi...",
-    "latest": "2022-12-30T23:37:12+00:00",
-    "last_post": {
-      "url": "https://functional.cafe/@PaniczGodek/109605222203262815",
-      "content": "<p>As promised, on this last day of the year, I am writing the summary of the year 2022 and what it meant for GRASP.</p><p>First off, <a href=\"https://functional.cafe/tags/GRASP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GRASP</span></a> is a <a href=\"https://functional.cafe/tags/Lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Lisp</span></a> (s-expression) editor designed with mobile devices/tactile interfaces in mind. Here's what using it on a mobile device is supposed to look&amp;feel like:</p><p><a href=\"https://www.youtube.com/watch?v=H0YNZCO7gyQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=H0YNZCO7gy</span><span class=\"invisible\">Q</span></a></p><p>The above is a video recoreded with the old prototype (the one that I have presented during 2021 Scheme Workshop).</p><p>However, with the beginning of the year 2022, after some experimentation, I decided to rewrite the whole program from scratch.</p><p>The reasons for that were the following:<br>- the old prototype was written in Java (becasue, when I started, it was the only option I knew about for writing Android apps on an Android device), so that I would not be able to use GRASP to edit its own source code</p><p>- after I integrated GRASP with Kawa Scheme, I learned enough about Java, Android and Kawa to attempt rewriting the editor in Kawa Scheme</p><p>- after integration with Kawa Scheme the build times of the APK file increased significantly, so I needed a way for testing pieces of the application without rebuilding the whole thing</p><p>- the representation chosen in that prototype was fairly ad-hoc, and it would be difficult to modify it to represent dotted lists</p><p>- I wanted to be able to work on (and in) the app not only on my phone, but also on a conventional computer with a keyboard and a mouse</p><p>- I felt that adding certain features (like undo or keyboard editing) was hard in the existing code base</p><p>- I'm neither experienced nor passionate about Java (actually GRASP was my first and last program written in Java), whereas I am both passionate and experienced when it comes to writing Scheme</p><p>The point regading being able to test the application without rebuilding it, and about being able to write both on the mobile and conventional computers, has lead me to some interesting by-products.</p><p>First - for the purpose of testing - I created a backend which spits out GRASP rendering as ASCII art, which lets me write unit tests in the following way:</p><p><a href=\"https://github.com/panicz/grasp-android/blob/master/stages/retreat/GRASP/src/test-painter.scm#L252\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/panicz/grasp-androi</span><span class=\"invisible\">d/blob/master/stages/retreat/GRASP/src/test-painter.scm#L252</span></a></p><p>Second - I also built a terminal version of GRASP, so that I have a piece of code that I can quite literally run both on a computer and on the phone (via Termux,<br>which is my development environment). Dragging expressions in a terminal using a mouse feels insane!</p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@akkartik",
-        "display_name": "Kartik Agaram"
-      }
-    ],
-    "first": "2022-12-30T23:37:12+00:00"
-  },
-  {
-    "link": "https://github.com/shwestrick/smlfmt",
-    "title": "GitHub - shwestrick/smlfmt: A custom parser/auto-formatter for Standard ML",
-    "latest": "2022-12-30T23:05:32+00:00",
-    "last_post": {
-      "url": "https://discuss.systems/@shwestrick/109598659239627546",
-      "content": "<p>As a hobby project, I've been developing an auto-formatter for Standard ML. This turned out to be way more interesting than I first expected. I've kept coming back to it over the past two years.</p><p>Well, after a bit of a push recently, it's now soooo close to being usable for real work. Maybe I can cross the last few hurdles before the end of winter break...</p><p><a href=\"https://github.com/shwestrick/smlfmt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/shwestrick/smlfmt</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@mattmight",
-        "display_name": "Matt Might"
-      }
-    ],
-    "first": "2022-12-30T23:05:32+00:00"
-  },
-  {
-    "link": "https://github.com/nolanlawson/pinafore/issues/2337",
-    "title": "Pointers to ActivityStreams and RSS feeds missing  \u00b7 Issue #2337 \u00b7 nolanlawson/pinafore",
-    "latest": "2022-12-30T21:58:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@kidehen/109604864634218759",
-      "content": "<p><span class=\"h-card\"><a href=\"https://toot.cafe/@nolan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nolan</span></a></span>,</p><p>First off, <a href=\"https://mastodon.social/tags/pinafore\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pinafore</span></a> is a really neat <a href=\"https://mastodon.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> reader. </p><p>Little feature enhancement that I've posted as an issue on <a href=\"https://mastodon.social/tags/github\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>github</span></a>.</p><p><a href=\"https://github.com/nolanlawson/pinafore/issues/2337\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nolanlawson/pinafor</span><span class=\"invisible\">e/issues/2337</span></a>  -- use of auto-discovery patterns for discovering <a href=\"https://mastodon.social/tags/ActivityStreams\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityStreams</span></a> and <a href=\"https://mastodon.social/tags/RSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RSS</span></a> via <a href=\"https://mastodon.social/tags/HTML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HTML</span></a> <a href=\"https://mastodon.social/tags/metadata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>metadata</span></a> .</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      }
-    ],
-    "first": "2022-12-30T21:58:29+00:00"
   }
 ]
