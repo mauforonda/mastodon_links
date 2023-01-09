@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://gist.github.com/ummjackson/c82b0b0c41a33161e0688ebdc6641c09",
+    "title": "fedistream - filter the Mastodon firehose with a single HTML file (work in progress!)",
+    "latest": "2023-01-09T04:48:41+00:00",
+    "first": "2023-01-09T00:47:40+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ummjackson/109656309575177408",
+      "content": "<p>OK here it is - fedistream. Filter the streaming Mastodon firehose on your local machine with a single HTML file. It's a work in progress so there may be bugs. </p><p>You should be able to just download the .zip, extract it and double click the \"fedistream.html\" file to get started. Feedback welcome. <a href=\"https://mastodon.social/tags/development\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>development</span></a> <a href=\"https://mastodon.social/tags/mastodev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodev</span></a> <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://mastodon.social/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a> <a href=\"https://mastodon.social/tags/streaming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>streaming</span></a> </p><p><a href=\"https://gist.github.com/ummjackson/c82b0b0c41a33161e0688ebdc6641c09\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/ummjackson/c82</span><span class=\"invisible\">b0b0c41a33161e0688ebdc6641c09</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      },
+      {
+        "url": "https://mastodon.social/@johnkellden",
+        "display_name": "John Kellden"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cmod/websters-1913",
+    "title": "GitHub - cmod/websters-1913: Styling of Webster's 1913 Dictionary for macOS",
+    "latest": "2023-01-09T04:42:48+00:00",
+    "first": "2023-01-09T04:42:48+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@craigmod/109657415235583672",
+      "content": "<p>start your year off right, install the Webster's 1913 dictionary into your macOS dictionaries and live in a richer lexical plane:</p><p><a href=\"https://github.com/cmod/websters-1913\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cmod/websters-1913</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@craigmod",
+        "display_name": "Craig Mod"
+      }
+    ]
+  },
+  {
     "link": "https://codeberg.org/akkartik/driver.love",
     "title": "codeberg.org/akkartik/driver.l...",
     "latest": "2023-01-09T00:53:20+00:00",
@@ -28,22 +64,6 @@
       {
         "url": "https://cryptodon.lol/@lefteris",
         "display_name": "lefterisjp"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/ummjackson/c82b0b0c41a33161e0688ebdc6641c09",
-    "title": "fedistream - filter the Mastodon firehose with a single HTML file (work in progress!)",
-    "latest": "2023-01-09T00:47:40+00:00",
-    "first": "2023-01-09T00:47:40+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ummjackson/109656309575177408",
-      "content": "<p>OK here it is - fedistream. Filter the streaming Mastodon firehose on your local machine with a single HTML file. It's a work in progress so there may be bugs. </p><p>You should be able to just download the .zip, extract it and double click the \"fedistream.html\" file to get started. Feedback welcome. <a href=\"https://mastodon.social/tags/development\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>development</span></a> <a href=\"https://mastodon.social/tags/mastodev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodev</span></a> <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://mastodon.social/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a> <a href=\"https://mastodon.social/tags/streaming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>streaming</span></a> </p><p><a href=\"https://gist.github.com/ummjackson/c82b0b0c41a33161e0688ebdc6641c09\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/ummjackson/c82</span><span class=\"invisible\">b0b0c41a33161e0688ebdc6641c09</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@smach",
-        "display_name": "Sharon Machlis"
       }
     ]
   },
@@ -3386,21 +3406,5 @@
       }
     ],
     "first": "2022-12-30T06:35:44+00:00"
-  },
-  {
-    "link": "https://github.com/hometown-fork/hometown/pull/1264",
-    "title": "Revert About page to v3 static version by dariusk \u00b7 Pull Request #1264 \u00b7 hometown-fork/hometown",
-    "latest": "2022-12-30T05:54:44+00:00",
-    "last_post": {
-      "url": "https://friend.camp/@darius/109601075034947817",
-      "content": "<p>\ud83d\udc40 \ud83d\udc40 \ud83d\udc40 </p><p><a href=\"https://github.com/hometown-fork/hometown/pull/1264\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hometown-fork/homet</span><span class=\"invisible\">own/pull/1264</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      }
-    ],
-    "first": "2022-12-30T05:54:44+00:00"
   }
 ]
