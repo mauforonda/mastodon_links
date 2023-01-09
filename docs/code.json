@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://codeberg.org/akkartik/driver.love",
+    "title": "codeberg.org/akkartik/driver.l...",
+    "latest": "2023-01-09T00:53:20+00:00",
+    "first": "2023-01-09T00:53:20+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@akkartik/109656512985323270",
+      "content": "<p>A map for code</p><p>In this video, I start up in quick succession:</p><p>* a simple test app<br>* the 'driver' programming environment showing the map for the app's code<br>* the 'meta-driver' programming environment showing the map for the driver's code</p><p>On initial load the driver (glitchily) zooms out over the whole codebase before zooming back in to the previous session.</p><p><a href=\"https://codeberg.org/akkartik/driver.love\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/akkartik/driver.l</span><span class=\"invisible\">ove</span></a></p><p>(Inspiration: early side-scrolling videogames that would often start a new level by panning across all of it.)</p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@akkartik",
+        "display_name": "Kartik Agaram"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/rotki/rotki/pull/5364/files",
     "title": "EVM Chain genesis, and ruff to 0.0.215 with many more checks. by LefterisJP \u00b7 Pull Request #5364 \u00b7 rotki/rotki",
     "latest": "2023-01-09T00:49:35+00:00",
@@ -3386,21 +3402,5 @@
       }
     ],
     "first": "2022-12-30T05:54:44+00:00"
-  },
-  {
-    "link": "https://github.com/anticomputer/age.el#org-roam-does-not-support-age-files",
-    "title": "github.com/anticomputer/age.el...",
-    "latest": "2022-12-30T05:15:07+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@anticomputer/109600919254643581",
-      "content": "<p>Parked a PR for org-roam support on age encrypted org files at <a href=\"https://github.com/org-roam/org-roam/pull/2302\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/org-roam/org-roam/p</span><span class=\"invisible\">ull/2302</span></a> ... in the meantime you can find a package recipe for an org-roam build that has age.el support enabled at <a href=\"https://github.com/anticomputer/age.el#org-roam-does-not-support-age-files\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anticomputer/age.el</span><span class=\"invisible\">#org-roam-does-not-support-age-files</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
-      }
-    ],
-    "first": "2022-12-30T05:15:07+00:00"
   }
 ]
