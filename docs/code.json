@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/datagistips/mapfailbruarychallenge",
+    "title": "github.com/datagistips/mapfail...",
+    "latest": "2023-01-09T14:40:42+00:00",
+    "first": "2023-01-09T14:40:42+00:00",
+    "last_post": {
+      "url": "https://mapstodon.space/@pokateo/109659761727919018",
+      "content": "<p>I know what you're thinking... \"Another challenge?!?!\" Yes, but this one encourages you to FAIL. Take what you know about mapping principles and THROW THEM OUT THE WINDOW for the <a href=\"https://mapstodon.space/tags/MapFailbruaryChallenge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MapFailbruaryChallenge</span></a>. <a href=\"https://mapstodon.space/tags/gischat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gischat</span></a><br><a href=\"https://github.com/datagistips/mapfailbruarychallenge\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/datagistips/mapfail</span><span class=\"invisible\">bruarychallenge</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/wilkelab/ggridges/issues/57",
+    "title": "Feature Request: Trim Edges \u00b7 Issue #57 \u00b7 wilkelab/ggridges",
+    "latest": "2023-01-09T12:21:27+00:00",
+    "first": "2023-01-09T12:21:27+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@dingemansemark/109659218719054960",
+      "content": "<p>Okay folks how alive is the <a href=\"https://scholar.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://scholar.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> crowd here? I want to create ridgeline plots with ggridges::geom_density_ridges, but with the trim=T option of ggplot::geom_density. There's an open feature request at  <a href=\"https://github.com/wilkelab/ggridges/issues/57\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/wilkelab/ggridges/i</span><span class=\"invisible\">ssues/57</span></a> so I don't think <span class=\"h-card\"><a href=\"https://genart.social/@clauswilke\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>clauswilke</span></a></span> has been able to implement this </p><p>Interested in ideas! Main reason to want ridges instead of vanilla density plots is multifaceted data \u2014 see example plot.</p>"
+    },
+    "people": [
+      {
+        "url": "https://scholar.social/@dingemansemark",
+        "display_name": "Mark Dingemanse"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/mpociot/chatgpt-vscode",
     "title": "GitHub - mpociot/chatgpt-vscode: A VSCode extension that allows you to use ChatGPT",
     "latest": "2023-01-09T10:46:26+00:00",
@@ -3390,37 +3422,5 @@
       }
     ],
     "first": "2022-12-30T15:16:52+00:00"
-  },
-  {
-    "link": "https://github.com/papers-we-love/papers-we-love/blob/master/datastores/database-metatheory--asking-the-big-queries.pdf",
-    "title": "papers-we-love/database-metatheory--asking-the-big-queries.pdf at master \u00b7 papers-we-love/papers-we-love",
-    "latest": "2022-12-30T13:05:05+00:00",
-    "last_post": {
-      "url": "https://mstdn.io/@paperswelove/109602767227792097",
-      "content": "<p>\ud83d\udcdc Database metatheory: asking the big queries [1995]</p><p>By: C. Papadimitriou</p><p>\ud83d\udcd6 <a href=\"https://github.com/papers-we-love/papers-we-love/blob/master/datastores/database-metatheory--asking-the-big-queries.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/papers-we-love/pape</span><span class=\"invisible\">rs-we-love/blob/master/datastores/database-metatheory--asking-the-big-queries.pdf</span></a><br>\ud83d\udd0d <a href=\"https://www.semanticscholar.org/paper/7645278062836961b15ccffeaaa38631228b7265\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semanticscholar.org/paper/7645</span><span class=\"invisible\">278062836961b15ccffeaaa38631228b7265</span></a></p><p><a href=\"https://mstdn.io/tags/semanticScholar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>semanticScholar</span></a> <a href=\"https://mstdn.io/tags/paperswelove\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperswelove</span></a> <a href=\"https://mstdn.io/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a> <a href=\"https://mstdn.io/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.io/@paperswelove",
-        "display_name": "Papers We Love"
-      }
-    ],
-    "first": "2022-12-30T13:05:05+00:00"
-  },
-  {
-    "link": "https://github.com/orgs/hometown-fork/projects/2/views/1",
-    "title": "Hometown v4.x.x+hometown-1.1.0 \u2022 hometown-fork",
-    "latest": "2022-12-30T11:09:30+00:00",
-    "last_post": {
-      "url": "https://friend.camp/@darius/109602312707957309",
-      "content": "<p>Okay, finally did the last task for the new <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> release: improving the mobile layout. It's not perfect, but I got rid of the giant logo header bar at the top, and moved the account and post buttons into the sidebar.</p><p>I still don't love this layout, but I think it's an improvement. Before/after attached.</p><p>Next up, I install it on Friend Camp and run it for a few days. Then... release!!!</p><p>You can track the release here: <a href=\"https://github.com/orgs/hometown-fork/projects/2/views/1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/orgs/hometown-fork/</span><span class=\"invisible\">projects/2/views/1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      }
-    ],
-    "first": "2022-12-30T11:09:30+00:00"
   }
 ]
