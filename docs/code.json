@@ -1,5 +1,85 @@
 [
   {
+    "link": "https://github.com/rapidblock-org/rapidblock",
+    "title": "GitHub - rapidblock-org/rapidblock: Syndicated domain blocks in the Fediverse",
+    "latest": "2023-01-09T18:02:00+00:00",
+    "first": "2023-01-09T18:02:00+00:00",
+    "last_post": {
+      "url": "https://oliphant.social/@oliphant/109660206948265266",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.slightlycyberpunk.com/@admin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>admin</span></a></span> <span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> There are a few projects already trying to make auto-syncing of blocklists easier.</p><p><a href=\"https://github.com/rapidblock-org/rapidblock\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rapidblock-org/rapi</span><span class=\"invisible\">dblock</span></a></p><p><a href=\"https://writer.oliphant.social/oliphant/new-mastoadmin-ban-list-fediblock#mastodon-blocklist-manager\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">writer.oliphant.social/oliphan</span><span class=\"invisible\">t/new-mastoadmin-ban-list-fediblock#mastodon-blocklist-manager</span></a></p><p>Your method is what I think would be best, though. Point your server at another server as a \"trusted source.\"</p>"
+    },
+    "people": [
+      {
+        "url": "https://sauropods.win/@futurebird",
+        "display_name": "myrmepropagandist"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/facebook/react-native/releases/tag/v0.71.0-rc.6",
+    "title": "Release 0.71.0-RC.6 \u00b7 facebook/react-native",
+    "latest": "2023-01-09T17:14:32+00:00",
+    "first": "2023-01-09T17:14:32+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@kelset/109660371177668525",
+      "content": "<p>quick headsup - we just released 0.71.0-RC6 for <a href=\"https://mastodon.online/tags/reactnative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reactnative</span></a> \u269b\ufe0f.</p><p>It's just a technical release 'cause we needed to verify that all the post-CircleCI-incident stuff was taken care of correctly.</p><p>No changes from RC5.<br>Expected 0.71.0 soon\u2122\ufe0f</p><p><a href=\"https://github.com/facebook/react-native/releases/tag/v0.71.0-rc.6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebook/react-nati</span><span class=\"invisible\">ve/releases/tag/v0.71.0-rc.6</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@kelset",
+        "display_name": "Lorenzo \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sponsors/ArnaudBarre",
+    "title": "Sponsor @ArnaudBarre on GitHub Sponsors",
+    "latest": "2023-01-09T15:53:01+00:00",
+    "first": "2023-01-09T15:53:01+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@arnaudbarre/109659420587755705",
+      "content": "<p>I'm happy to find a new place to keep up with with everything that's going on in the JS ecosystem!  </p><p>I will post some news about my work on Vite and Vite React plugins.</p><p>First news: You can sponsor my work on GitHub: <a href=\"https://github.com/sponsors/ArnaudBarre\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sponsors/ArnaudBarr</span><span class=\"invisible\">e</span></a><br> <br>I hope to get some support so I can take some days off to spend more time working on Vite.</p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://gitlab.com/howardabrams/emacs-ironsworn",
+    "title": "Howard Abrams / emacs-ironsworn \u00b7 GitLab",
+    "latest": "2023-01-09T15:41:47+00:00",
+    "first": "2023-01-09T15:41:47+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@sachac/109660006506726020",
+      "content": "<p><span class=\"h-card\"><a href=\"https://emacs.ch/@howard\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>howard</span></a></span> I find <a href=\"https://gitlab.com/howardabrams/emacs-ironsworn\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/howardabrams/emacs-</span><span class=\"invisible\">ironsworn</span></a> interesting and hilarious. I suspect you had as much fun writing the code as other people might have playing games. =)</p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@sachac",
+        "display_name": "Sacha Chua"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/SwedbankPay/jekyll-material-icon-tag",
+    "title": "GitHub - SwedbankPay/jekyll-material-icon-tag: Material Design Icon tag for Jekyll",
+    "latest": "2023-01-09T15:29:09+00:00",
+    "first": "2023-01-09T15:29:09+00:00",
+    "last_post": {
+      "url": "https://mastodon.world/@h_thoreson/109659956780438526",
+      "content": "<p>Going to play with this - Material UI icons ported over to Jekyll  <a href=\"https://github.com/SwedbankPay/jekyll-material-icon-tag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/SwedbankPay/jekyll-</span><span class=\"invisible\">material-icon-tag</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.world/@h_thoreson",
+        "display_name": "hannah"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/datagistips/mapfailbruarychallenge",
     "title": "github.com/datagistips/mapfail...",
     "latest": "2023-01-09T14:40:42+00:00",
@@ -3342,85 +3422,5 @@
       }
     ],
     "first": "2022-12-30T21:58:29+00:00"
-  },
-  {
-    "link": "https://github.com/rotki/rotki/releases",
-    "title": "Releases \u00b7 rotki/rotki",
-    "latest": "2022-12-30T19:28:07+00:00",
-    "last_post": {
-      "url": "https://cryptodon.lol/@lefteris/109604273347987843",
-      "content": "<p>We just released our last @rotkiapp version for 2022! rotki v1.26.3 is out with lots of bugfixes and small improvements.</p><p>\ud83c\udf87We wish you a happy new year 2023</p><p>\u23ecTry it: <a href=\"https://github.com/rotki/rotki/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rotki/rotki/release</span><span class=\"invisible\">s</span></a><br>\ud83d\udcc8Buy premium, unlock all features and support us: <a href=\"https://rotki.com/products\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">rotki.com/products</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://cryptodon.lol/@lefteris",
-        "display_name": "lefterisjp"
-      }
-    ],
-    "first": "2022-12-30T19:28:07+00:00"
-  },
-  {
-    "link": "https://github.com/anticomputer/age.el/tree/main#why-age-over-gpg",
-    "title": "GitHub - anticomputer/age.el: Transparent age encryption/decryption for Emacs modeled after EPG/EPA",
-    "latest": "2022-12-30T19:03:45+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@anticomputer/109604177564070597",
-      "content": "<p>I wasn't aware these were controversial opinions, but here goes :) <a href=\"https://github.com/anticomputer/age.el/tree/main#why-age-over-gpg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anticomputer/age.el</span><span class=\"invisible\">/tree/main#why-age-over-gpg</span></a> <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
-      }
-    ],
-    "first": "2022-12-30T19:03:45+00:00"
-  },
-  {
-    "link": "https://github.com/nolanlawson/emoji-picker-element/blob/master/CHANGELOG.md#1150-2022-12-29",
-    "title": "emoji-picker-element/CHANGELOG.md at master \u00b7 nolanlawson/emoji-picker-element",
-    "latest": "2022-12-30T18:21:26+00:00",
-    "last_post": {
-      "url": "https://toot.cafe/@nolan/109604011160277730",
-      "content": "<p>I shipped an update to emoji-picker-element adding support for custom emoji fonts. A long-requested feature that I wish wasn't necessary: <a href=\"https://github.com/nolanlawson/emoji-picker-element/blob/master/CHANGELOG.md#1150-2022-12-29\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nolanlawson/emoji-p</span><span class=\"invisible\">icker-element/blob/master/CHANGELOG.md#1150-2022-12-29</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@nolan",
-        "display_name": "Nolan"
-      }
-    ],
-    "first": "2022-12-30T18:21:26+00:00"
-  },
-  {
-    "link": "https://github.com/brickstackr/pillow-hello-world",
-    "title": "GitHub - brickstackr/pillow-hello-world: draws hello world in a jupyter notebook",
-    "latest": "2022-12-30T17:30:12+00:00",
-    "last_post": {
-      "url": "https://mastodon.world/@h_thoreson/109603809710932807",
-      "content": "<p>whoa, H/T <span class=\"h-card\"><a href=\"https://mastodon.social/@rasterweb\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rasterweb</span></a></span>  - I didn't realize there was a Python library for just drawing images that was actually *good* (emphasis on \"good\")  I've played around with stuff like this before in WASM <a href=\"https://mastodon.world/tags/webassembly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webassembly</span></a> but not really so much in Python. I added Pillow to one of my Jupyter envs and was able to actually use Jupyter to generate JPG's dynamically besides just charts and stuff. Simple \"Hello World\" - <a href=\"https://github.com/brickstackr/pillow-hello-world\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/brickstackr/pillow-</span><span class=\"invisible\">hello-world</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.world/@h_thoreson",
-        "display_name": "hannah"
-      }
-    ],
-    "first": "2022-12-30T17:30:12+00:00"
-  },
-  {
-    "link": "https://github.com/eslint/rfcs/pull/102",
-    "title": "feat: parsing session objects by JoshuaKGoldberg \u00b7 Pull Request #102 \u00b7 eslint/rfcs",
-    "latest": "2022-12-30T15:16:52+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@JoshuaKGoldberg/109603285405348643",
-      "content": "<p>Submitted my second RFC to ESLint! This one is co-authored by <span class=\"h-card\"><a href=\"https://mastodon.online/@bradzacher\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bradzacher</span></a></span>  and features prototypes from the two of us and James Henry.</p><p>Very hopeful we can work with the ESLint folks to improve performance on typescript-eslint-powered rules. \u263a\ufe0f\u26a1\ufe0f</p><p><a href=\"https://github.com/eslint/rfcs/pull/102\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eslint/rfcs/pull/10</span><span class=\"invisible\">2</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@JoshuaKGoldberg",
-        "display_name": "Josh Goldberg \ud83d\udc96"
-      }
-    ],
-    "first": "2022-12-30T15:16:52+00:00"
   }
 ]
