@@ -238,7 +238,7 @@ def make_digest_newpopular(catalog, min_shared, since_hours):
     by the number of shares
     """
     min_time = (datetime.now(timezone.utc) - timedelta(hours=since_hours)).isoformat()
-    digest = [i for i in catalog.items() if len(i[1]['people']) >= min_shared and i[1]['latest'] >= min_time]
+    digest = [i for i in catalog.items() if len(i[1]['people']) >= min_shared and i[1]['first'] >= min_time]
     digest = sorted(digest, key=lambda x: len(x[1]['people']), reverse=True)
     return to_list(digest)[:MAX_DIGEST_SIZE]
 
