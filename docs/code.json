@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-01-10",
+    "title": "tidytuesday/2023/2023-01-10 at main \u00b7 nrennie/tidytuesday",
+    "latest": "2023-01-10T09:18:55+00:00",
+    "first": "2023-01-10T09:18:55+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@nrennie/109664163302631661",
+      "content": "<p>This week's <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> data is from Feederwatch, a survey of North America from Nov-Apr, counting birds that visit community areas\ud83d\udc26Styling is similar to last week's map since I spent a bit more time on data wrangling and modelling!</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-01-10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-01-10</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/RSpatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RSpatial</span></a> <a href=\"https://fosstodon.org/tags/MapPromptMonday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MapPromptMonday</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@nrennie",
+        "display_name": "Nicola Rennie"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/glitch-soc/mastodon/",
     "title": "github.com/glitch-soc/mastodon...",
     "latest": "2023-01-10T08:57:15+00:00",
@@ -3382,21 +3398,5 @@
       }
     ],
     "first": "2023-01-01T00:04:38+00:00"
-  },
-  {
-    "link": "https://github.com/adamrushy/OpenAISwift",
-    "title": "GitHub - adamrushy/OpenAISwift: This is a wrapper library around the ChatGPT and OpenAI HTTP API",
-    "latest": "2022-12-31T23:09:01+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@adamwulf/109610804254874515",
-      "content": "<p>I've been playing with <a href=\"https://github.com/adamrushy/OpenAISwift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/adamrushy/OpenAISwi</span><span class=\"invisible\">ft</span></a> for the past 30m, and it's wild how quickly I can setup a ChatGPT style iOS app with it. working with AI like this is like magic.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@adamwulf",
-        "display_name": "Adam Wulf"
-      }
-    ],
-    "first": "2022-12-31T23:09:01+00:00"
   }
 ]
