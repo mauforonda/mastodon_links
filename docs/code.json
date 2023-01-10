@@ -1,5 +1,85 @@
 [
   {
+    "link": "https://github.com/bvaughn/react-resizable-panels/pull/76",
+    "title": "Panel and PanelGroup callbacks always called after mount by bvaughn \u00b7 Pull Request #76 \u00b7 bvaughn/react-resizable-panels",
+    "latest": "2023-01-10T20:47:42+00:00",
+    "first": "2023-01-10T20:47:42+00:00",
+    "last_post": {
+      "url": "https://mas.to/@bvaughn/109666871734858869",
+      "content": "<p>\u269b\ufe0f Complete code is here if anyone is interested:<br><a href=\"https://github.com/bvaughn/react-resizable-panels/pull/76\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bvaughn/react-resiz</span><span class=\"invisible\">able-panels/pull/76</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@bvaughn",
+        "display_name": "Brian Vaughn"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/anticomputer",
+    "title": "anticomputer - Overview",
+    "latest": "2023-01-10T18:50:59+00:00",
+    "first": "2023-01-10T18:50:59+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109666412780728058",
+      "content": "<p>Looks like this infection has subsided finally so that means less hobby programming and more jiu jitsu for a while :) hint: whenever you see me release a metric crapton of elisp it\u2019s usually because I\u2019m injured or otherwise incapacitated from training :P You can always find the latest versions of things at <a href=\"https://github.com/anticomputer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/anticomputer</span><span class=\"invisible\"></span></a> and since I use my own packages pretty heavily they\u2019re generally kept in a stable state \u2026 hope some of it was/is useful to y\u2019all! <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Fgazzelloni/TidyTuesday",
+    "title": "GitHub - Fgazzelloni/TidyTuesday: several TidyTuesday interesting examples",
+    "latest": "2023-01-10T18:45:51+00:00",
+    "first": "2023-01-10T18:45:51+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@fgazzelloni/109666392542901491",
+      "content": "<p><a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> 2022 Week49 Elevators<br>Data is from EmilHvitfeldt/elevators package<br><span class=\"h-card\"><a href=\"https://fosstodon.org/@R4DSCommunity\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>R4DSCommunity</span></a></span> <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/rspatials\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatials</span></a> <a href=\"https://fosstodon.org/tags/datascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datascience</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fosstodon.org/tags/infographics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>infographics</span></a> <a href=\"https://fosstodon.org/tags/graphics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>graphics</span></a> <a href=\"https://fosstodon.org/tags/DataVisualization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataVisualization</span></a> <br>code: <a href=\"https://github.com/Fgazzelloni/TidyTuesday\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Fgazzelloni/TidyTue</span><span class=\"invisible\">sday</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@fgazzelloni",
+        "display_name": "Federica Gazzelloni"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/eramdam/tokimeki-mastodon",
+    "title": "github.com/eramdam/tokimeki-ma...",
+    "latest": "2023-01-10T18:31:53+00:00",
+    "first": "2023-01-10T18:31:53+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@Eramdam/109663455265127820",
+      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/11ty/is-land/issues/13",
+    "title": "Declarative Shadow DOM / lit-ssr + is-land flicker \u00b7 Issue #13 \u00b7 11ty/is-land",
+    "latest": "2023-01-10T18:20:32+00:00",
+    "first": "2023-01-10T18:20:32+00:00",
+    "last_post": {
+      "url": "https://fediverse.zachleat.com/@zachleat/109328829198255413",
+      "content": "<p>Adding Declarative Shadow DOM support to &lt;is-land&gt; thanks to a collab with <span class=\"h-card\"><a href=\"https://mstdn.social/@techytacos\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>techytacos</span></a></span>!</p><p><a href=\"https://github.com/11ty/is-land/issues/13\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/is-land/issues</span><span class=\"invisible\">/13</span></a></p><p>Weeeeee!</p>"
+    },
+    "people": [
+      {
+        "url": "https://toot.cafe/@nickytonline",
+        "display_name": "Nick Taylor"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/web-platform-tests/interop/issues/225",
     "title": "github.com/web-platform-tests/...",
     "latest": "2023-01-10T17:40:23+00:00",
@@ -3318,85 +3398,5 @@
       }
     ],
     "first": "2023-01-01T16:22:02+00:00"
-  },
-  {
-    "link": "https://github.com/radian-software/el-patch",
-    "title": "GitHub - radian-software/el-patch: \u2728 Future-proof your Emacs Lisp customizations!",
-    "latest": "2023-01-01T16:21:46+00:00",
-    "last_post": {
-      "url": "https://hostux.social/@akib/109614664520505758",
-      "content": "<p><a href=\"https://hostux.social/tags/EmacsTip\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EmacsTip</span></a>: Patch definitions in <a href=\"https://hostux.social/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> packages with <a href=\"https://hostux.social/tags/ElPatch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ElPatch</span></a>!</p><p><a href=\"https://github.com/radian-software/el-patch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/radian-software/el-</span><span class=\"invisible\">patch</span></a></p><p><a href=\"https://hostux.social/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> <a href=\"https://hostux.social/tags/Patch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Patch</span></a> <a href=\"https://hostux.social/tags/ElPatch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ElPatch</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
-      }
-    ],
-    "first": "2023-01-01T16:21:46+00:00"
-  },
-  {
-    "link": "https://github.com/EleutherAI/pythia",
-    "title": "GitHub - EleutherAI/pythia",
-    "latest": "2023-01-01T15:50:10+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@stellaathena/109614667611187533",
-      "content": "<p>What do LLMs learn over the course of training? How do these patterns change as you scale? To help answer these questions, we are releasing a Pythia, suite of LLMs + checkpoints designed for research on interpretability and training dynamics!</p><p>The models have sizes ranging from 19M to 13B parameters, contain 143 intermediate checkpoints, and were trained on the same exact data in the same exact order.</p><p><a href=\"https://sigmoid.social/tags/ml\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ml</span></a> <a href=\"https://sigmoid.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://sigmoid.social/tags/nlproc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nlproc</span></a> <a href=\"https://sigmoid.social/tags/interpretability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>interpretability</span></a> <a href=\"https://sigmoid.social/tags/EleutherAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EleutherAI</span></a> </p><p><a href=\"https://github.com/EleutherAI/pythia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/EleutherAI/pythia</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@moultano",
-        "display_name": "Ryan Moulton"
-      }
-    ],
-    "first": "2023-01-01T15:50:10+00:00"
-  },
-  {
-    "link": "https://github.com/rasbt/py-args/tree/master/glob-replace",
-    "title": "py-args/glob-replace at master \u00b7 rasbt/py-args",
-    "latest": "2023-01-01T14:16:09+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@SebRaschka/109614371259706996",
-      "content": "<p>Happy New Year! \ud83c\udf8a</p><p>What\u2019s your theme for the year? <br>Personally, I am aiming to automate more mundane tasks again</p><p>My first project is automating the 2022 -&gt; 2023 bumps on various websites (using my old, trusty py-args utils <a href=\"https://github.com/rasbt/py-args/tree/master/glob-replace\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rasbt/py-args/tree/</span><span class=\"invisible\">master/glob-replace</span></a>)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@SebRaschka",
-        "display_name": "Sebastian Raschka"
-      }
-    ],
-    "first": "2023-01-01T14:16:09+00:00"
-  },
-  {
-    "link": "https://observablehq.com/d/afc44c33d5a07ae8",
-    "title": "Genuary 2023, Perfect loop",
-    "latest": "2023-01-01T14:01:15+00:00",
-    "last_post": {
-      "url": "https://vis.social/@irenedelatorre/109613849450274088",
-      "content": "<p>Check the code or create your own animation at <a href=\"https://observablehq.com/d/afc44c33d5a07ae8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/d/afc44c33d5a</span><span class=\"invisible\">07ae8</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://front-end.social/@saneef",
-        "display_name": "Saneef H. Ansari"
-      }
-    ],
-    "first": "2023-01-01T14:01:15+00:00"
-  },
-  {
-    "link": "https://github.com/RandomFractals/vscode-vega-viewer/releases",
-    "title": "Releases \u00b7 RandomFractals/vscode-vega-viewer",
-    "latest": "2023-01-01T13:32:22+00:00",
-    "last_post": {
-      "url": "https://vis.social/@dataSamurai/109614199096515873",
-      "content": "<p>Did you know you can use our <a href=\"https://vis.social/tags/VegaViewer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VegaViewer</span></a> \ud83d\udcc8 <a href=\"https://vis.social/tags/vscode\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vscode</span></a> extension in <a href=\"https://vis.social/tags/Azure\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Azure</span></a> <a href=\"https://vis.social/tags/DataStudio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataStudio</span></a> too? Just install it from vsix attached to our releases:</p><p><a href=\"https://github.com/RandomFractals/vscode-vega-viewer/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/RandomFractals/vsco</span><span class=\"invisible\">de-vega-viewer/releases</span></a></p><p>Here is <a href=\"https://vis.social/tags/geoProjections\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geoProjections</span></a> with params Vega-Lite viz spec loaded in that VSCode-based IDE.</p><p><a href=\"https://vis.social/tags/GIS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GIS</span></a> <a href=\"https://vis.social/tags/dataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataViz</span></a> \ud83d\uddfa\ufe0f <a href=\"https://vis.social/tags/dataTools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataTools</span></a> \ud83d\udee0\ufe0f</p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@dataSamurai",
-        "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
-      }
-    ],
-    "first": "2023-01-01T13:32:22+00:00"
   }
 ]
