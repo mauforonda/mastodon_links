@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/web-platform-tests/interop/issues/225",
+    "title": "github.com/web-platform-tests/...",
+    "latest": "2023-01-10T17:40:23+00:00",
+    "first": "2023-01-10T17:40:23+00:00",
+    "last_post": {
+      "url": "https://front-end.social/@jensimmons/109666135140922035",
+      "content": "<p>Did you know the <a href=\"https://front-end.social/tags/CSSWG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CSSWG</span></a> extended the :nth-of-type/:nth-child selectors to be much more powerful?</p><p>Safari shipped support for these new superpowers in 2015! <a href=\"https://caniuse.com/css-nth-child-of\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">caniuse.com/css-nth-child-of</span><span class=\"invisible\"></span></a></p><p>But none of the other browsers did\u2026 so you probably haven\u2019t heard about it.</p><p>Then Apple proposed :nth-* pseudo-classes interoperability for Interop 2023: <a href=\"https://github.com/web-platform-tests/interop/issues/225\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/web-platform-tests/</span><span class=\"invisible\">interop/issues/225</span></a></p><p>And now Chrome is working on implementing support! \u263a\ufe0f</p><p><span class=\"h-card\"><a href=\"https://front-end.social/@bramus\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bramus</span></a></span> wrote about what you can do with these CSS selectors:<br><a href=\"https://www.bram.us/2020/03/16/css-nth-of-class-selector/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bram.us/2020/03/16/css-nth-of-</span><span class=\"invisible\">class-selector/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://front-end.social/@jensimmons",
+        "display_name": "Jen Simmons"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/JuliaGraphs/MultilayerGraphs.jl",
+    "title": "GitHub - JuliaGraphs/MultilayerGraphs.jl: A Julia package for the creation, manipulation and analysis of the structure, dynamics and functions of multilayer graphs.",
+    "latest": "2023-01-10T17:17:42.067000+00:00",
+    "first": "2023-01-09T21:04:14.165000+00:00",
+    "last_post": {
+      "url": "https://bayes.club/@PietroMonticone/109666045862447984",
+      "content": "<p>\ud83d\udce2 MultilayerGraphs.jl v1.1 is out! </p><p>It features new subgraph interfaces, generalised graph generators, faster graph realisation methods, weight and metadata tensor types and more.</p><p>\ud83e\uddf5 Thread: <a href=\"https://fosstodon.org/@InPhyT/109661211540157933\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fosstodon.org/@InPhyT/10966121</span><span class=\"invisible\">1540157933</span></a></p><p>\ud83d\udce6 Repo: <a href=\"https://github.com/JuliaGraphs/MultilayerGraphs.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaGraphs/Multila</span><span class=\"invisible\">yerGraphs.jl</span></a></p><p>\ud83d\udcc1 Docs: <a href=\"https://juliagraphs.org/MultilayerGraphs.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">juliagraphs.org/MultilayerGrap</span><span class=\"invisible\">hs.jl</span></a></p><p><a href=\"https://bayes.club/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://bayes.club/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://bayes.club/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://bayes.club/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://bayes.club/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://bayes.club/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://bayes.club/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://a.gup.pe/u/networkscience",
+        "display_name": "networkscience group"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/RandomFractals/geo-data-viewer#support",
+    "title": "github.com/RandomFractals/geo-...",
+    "latest": "2023-01-10T16:07:28+00:00",
+    "first": "2023-01-10T16:07:28+00:00",
+    "last_post": {
+      "url": "https://vis.social/@dataSamurai/109665769785623587",
+      "content": "<p>\ud83d\udce2 Published <a href=\"https://vis.social/tags/GeoDataViewer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GeoDataViewer</span></a> \ud83d\uddfa\ufe0f v2.6.0 extension release with updated <a href=\"https://vis.social/tags/geoSpatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geoSpatial</span></a> data loading libraries, refined docs, patched map save options, new <a href=\"https://vis.social/tags/mapGallery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mapGallery</span></a> demo gif and support/sponsor info:</p><p>\ud83d\udce5 <a href=\"https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.geo-data-viewer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marketplace.visualstudio.com/i</span><span class=\"invisible\">tems?itemName=RandomFractalsInc.geo-data-viewer</span></a></p><p>\ud83d\udc96 <a href=\"https://github.com/RandomFractals/geo-data-viewer#support\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/RandomFractals/geo-</span><span class=\"invisible\">data-viewer#support</span></a></p><p><a href=\"https://vis.social/tags/VSCode\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VSCode</span></a> <a href=\"https://vis.social/tags/GIS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GIS</span></a> <a href=\"https://vis.social/tags/dataTools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataTools</span></a> \ud83d\udee0\ufe0f</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@dataSamurai",
+        "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/sponsors/threepointone/",
     "title": "Sponsor @threepointone on GitHub Sponsors",
     "latest": "2023-01-10T15:01:43+00:00",
@@ -279,22 +327,6 @@
     "last_post": {
       "url": "https://fosstodon.org/@InPhyT/109661255439035212",
       "content": "<p>Since the previous version of <a href=\"https://fosstodon.org/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> we have: </p><p>\u2705 integrated the package within the <a href=\"https://fosstodon.org/tags/JuliaGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaGraphs</span></a> ecosystem to guarantee methodological consistency and enrich the variety of possible graph structures underlying layers and interlayers <a href=\"https://github.com/JuliaGraphs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/JuliaGraphs</span><span class=\"invisible\"></span></a>; </p><p><a href=\"https://fosstodon.org/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://fosstodon.org/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://fosstodon.org/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://fosstodon.org/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://fosstodon.org/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://fosstodon.org/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://fosstodon.org/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://a.gup.pe/u/networkscience",
-        "display_name": "networkscience group"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/JuliaGraphs/MultilayerGraphs.jl",
-    "title": "GitHub - JuliaGraphs/MultilayerGraphs.jl: A Julia package for the creation, manipulation and analysis of the structure, dynamics and functions of multilayer graphs.",
-    "latest": "2023-01-09T20:48:16.407000+00:00",
-    "first": "2023-01-09T21:04:14.165000+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@InPhyT/109661211540157933",
-      "content": "<p>\ud83d\udce2 We're happy to announce the new release of MultilayerGraphs.jl (v1.1) \ud83c\udf89!</p><p>Interested in multilayer network science in @JuliaLanguage?</p><p>Read the following \ud83e\uddf5 summarising the main features of the package by @ClaudioMoroni and <span class=\"h-card\"><a href=\"https://fosstodon.org/@PietroMonticone\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PietroMonticone</span></a></span>. </p><p>\ud83d\udce6 Repository: <a href=\"https://github.com/JuliaGraphs/MultilayerGraphs.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaGraphs/Multila</span><span class=\"invisible\">yerGraphs.jl</span></a></p><p>\ud83d\udcc4 Documentation: <a href=\"https://juliagraphs.org/MultilayerGraphs.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">juliagraphs.org/MultilayerGrap</span><span class=\"invisible\">hs.jl</span></a></p><p><a href=\"https://fosstodon.org/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://fosstodon.org/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://fosstodon.org/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://fosstodon.org/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://fosstodon.org/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://fosstodon.org/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://fosstodon.org/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
     },
     "people": [
       {
@@ -3366,37 +3398,5 @@
       }
     ],
     "first": "2023-01-01T13:32:22+00:00"
-  },
-  {
-    "link": "https://codeberg.org/tom79/Fedilab/issues/702",
-    "title": "Support some specific endpoints for PLEROMA / AKKOMA  / GLITCH SOCIAL",
-    "latest": "2023-01-01T12:44:39+00:00",
-    "last_post": {
-      "url": "https://toot.fedilab.app/@apps/109614011509636039",
-      "content": "<p>We created an account on a <a href=\"https://toot.fedilab.app/tags/GlitchSocial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GlitchSocial</span></a> instance for testing extra features and bugs with <a href=\"https://toot.fedilab.app/tags/Fedilab\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fedilab</span></a> (thanks to <span class=\"h-card\"><a href=\"https://fanglitch.space/@thedeadparrot\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>thedeadparrot</span></a></span>). Don't hesitate to share bugs/improvements with us.<br>There is our open issue where you can see all commited improvements.</p><p><a href=\"https://codeberg.org/tom79/Fedilab/issues/702\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/tom79/Fedilab/iss</span><span class=\"invisible\">ues/702</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.fedilab.app/@apps",
-        "display_name": "Fedilab Apps"
-      }
-    ],
-    "first": "2023-01-01T12:44:39+00:00"
-  },
-  {
-    "link": "https://github.com/cve-search/cve-search",
-    "title": "github.com/cve-search/cve-sear...",
-    "latest": "2023-01-01T11:51:49+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@adulau/109613329407390812",
-      "content": "<p>What\u2019s the logic behind the halt of JSON data feeds in late 2023 for the NIST NVD (National Vulnerability Database)? This means that all the tools which were using the data feeds in JSON will need then to rely on the NIST API 2.0. Then this will increase the load on the NIST API endpoint and lack the ability to do local searches for many organisations.</p><p><a href=\"https://nvd.nist.gov/vuln/data-feeds#JSON_FEED\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nvd.nist.gov/vuln/data-feeds#J</span><span class=\"invisible\">SON_FEED</span></a></p><p><a href=\"https://infosec.exchange/tags/opendata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opendata</span></a> <a href=\"https://infosec.exchange/tags/vulnerabilities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vulnerabilities</span></a> <a href=\"https://infosec.exchange/tags/cve\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cve</span></a> <a href=\"https://infosec.exchange/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a> </p><p>Of course, I can update cve-search <a href=\"https://github.com/cve-search/cve-search\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cve-search/cve-sear</span><span class=\"invisible\">ch</span></a> to pull from the new API 2.0 but then all the local instances will do the same. A static JSON dump was clearly more efficient to update all the instances. But I suppose complexity is selling better than simplicity nowadays\u2026</p>"
-    },
-    "people": [
-      {
-        "url": "https://cyberplace.social/@GossiTheDog",
-        "display_name": "Kevin Beaumont"
-      }
-    ],
-    "first": "2023-01-01T11:51:49+00:00"
   }
 ]
