@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=sfgjL7EUHZ8",
+    "title": "youtube.com/watch?v=sfgjL7EUHZ...",
+    "latest": "2023-01-10T06:14:11+00:00",
+    "first": "2023-01-10T06:14:11+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109663436923904172",
+      "content": "<p>Fun video of Kalman Reti using Genera for his daily problem solving <a href=\"https://www.youtube.com/watch?v=sfgjL7EUHZ8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=sfgjL7EUHZ</span><span class=\"invisible\">8</span></a> ... also a super useful example of what the workflows on Genera are supposed to look like <a href=\"https://emacs.ch/tags/lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lisp</span></a> <a href=\"https://emacs.ch/tags/genera\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genera</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
     "link": "https://www.youtube.com/watch?v=lCrgfTAo-Oc",
     "title": "I Don't Know What I Can Save You From",
     "latest": "2023-01-10T02:54:55+00:00",
@@ -3230,21 +3246,5 @@
       }
     ],
     "first": "2022-12-30T13:43:14+00:00"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=fB2UrqbfV-4",
-    "title": "PwL Remote #2 - Philip Wadler on Definitional Interpreters for Higher-Order Programming Languages",
-    "latest": "2022-12-30T12:15:08+00:00",
-    "last_post": {
-      "url": "https://mstdn.io/@paperswelove/109602570814430269",
-      "content": "<p>PwL Remote #2 - Philip Wadler on Definitional Interpreters for Higher-Order Programming Languages - originally posted on Jan 24, 2017 </p><p>\ud83d\udcfa <a href=\"https://www.youtube.com/watch?v=fB2UrqbfV-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=fB2UrqbfV-</span><span class=\"invisible\">4</span></a></p><p><a href=\"https://mstdn.io/tags/paperswelove\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperswelove</span></a> <a href=\"https://mstdn.io/tags/video\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>video</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.io/@paperswelove",
-        "display_name": "Papers We Love"
-      }
-    ],
-    "first": "2022-12-30T12:15:08+00:00"
   }
 ]
