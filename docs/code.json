@@ -1,5 +1,93 @@
 [
   {
+    "link": "https://github.com/tropy/tropy-plugin-omeka",
+    "title": "GitHub - tropy/tropy-plugin-omeka: Tropy plugin for exporting items into Omeka",
+    "latest": "2023-01-11T19:57:49+00:00",
+    "first": "2023-01-11T19:57:49+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@dvmcrae/109672213293421649",
+      "content": "<p><a href=\"https://mastodon.online/tags/histodons\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>histodons</span></a> is there anyone out there using <a href=\"https://mastodon.online/tags/tropy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tropy</span></a> and <a href=\"https://mastodon.online/tags/omeka\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>omeka</span></a> at the same time? </p><p>If so, the Tropy team would like to hear your experience.</p><p>Oh by the way...did you know Tropy has a plugin that makes it very easy to export your Tropy project items to Omeka S? </p><p><a href=\"https://github.com/tropy/tropy-plugin-omeka\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tropy/tropy-plugin-</span><span class=\"invisible\">omeka</span></a></p><p>(If you\u2019re working on public history projects and planning online exhibits it might be handy for you.)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/karpathy/nanoGPT",
+    "title": "GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "latest": "2023-01-11T19:29:15+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109672225545929196",
+      "content": "<p>RT @karpathy@twitter.com</p><p>Didn't tweet nanoGPT yet (quietly getting it to good shape) but it's trending on HN so here it is :) :<br><a href=\"https://github.com/karpathy/nanoGPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/karpathy/nanoGPT</span><span class=\"invisible\"></span></a><br>Aspires to be simplest, fastest repo for training/finetuning medium-sized GPTs. So far confirmed it reproduced GPT-2 (124M). 2 simple files of ~300 lines</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/karpathy/status/1613250487838707712\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/karpathy/status/16</span><span class=\"invisible\">13250487838707712</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://sigmoid.social/@lucidrains",
+        "display_name": "Ice Cream"
+      },
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ],
+    "first": "2023-01-02T21:46:12+00:00"
+  },
+  {
+    "link": "https://github.com/quarto-dev/quarto-cli/discussions/2189",
+    "title": "Code listing with line numbers and caption \u00b7 Discussion #2189 \u00b7 quarto-dev/quarto-cli",
+    "latest": "2023-01-11T19:27:47+00:00",
+    "first": "2023-01-11T19:27:47+00:00",
+    "last_post": {
+      "url": "https://vis.social/@amelia/109672219744872615",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@Posit\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Posit</span></a></span> I've also posted on GitHub, where it is perhaps more appropriate: <a href=\"https://github.com/quarto-dev/quarto-cli/discussions/2189\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/quarto-dev/quarto-c</span><span class=\"invisible\">li/discussions/2189</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@amelia",
+        "display_name": "Amelia McNamara"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Inspiaaa/UnityHFSM",
+    "title": "GitHub - Inspiaaa/UnityHFSM: A simple yet powerful class based hierarchical finite state machine for Unity3D",
+    "latest": "2023-01-11T19:17:10+00:00",
+    "first": "2023-01-11T19:17:10+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@casraf/109671850836544242",
+      "content": "<p>Pretty much the cleanest, easiest to use <a href=\"https://mastodon.gamedev.place/tags/Unity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Unity</span></a> <a href=\"https://mastodon.gamedev.place/tags/HSFM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HSFM</span></a> (hierarchal finite state machine) implementation I found online.</p><p>Saved me a bunch of time, works great and is very flexible :) check it out! <a href=\"https://mastodon.gamedev.place/tags/gamedev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gamedev</span></a> </p><p><a href=\"https://github.com/Inspiaaa/UnityHFSM\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Inspiaaa/UnityHFSM</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/beyarkay/eskom-calendar",
+    "title": "GitHub - beyarkay/eskom-calendar: Get your loadshedding schedule in your calendar and never be left in the dark! Open-source, up-to-date, and developer friendly.",
+    "latest": "2023-01-11T19:11:09+00:00",
+    "first": "2023-01-11T19:11:09+00:00",
+    "last_post": {
+      "url": "https://bsd.network/@dch/109672132874675807",
+      "content": "<p>It\u2019s easy to forget the much of the world doesn\u2019t have Gigabit internet (I don\u2019t!), stable power during the day, even running water, let alone a brand new McComputer every year (not me either).</p><p><a href=\"https://github.com/beyarkay/eskom-calendar\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/beyarkay/eskom-cale</span><span class=\"invisible\">ndar</span></a> is a load shedding info service for South Africa - find out when power is reduced or out in your area and stop/save your work before it\u2019s too late.</p><p>A salutary reminder to bloated web &amp; electron apps filled with surveillance capitalism click trackers assuming unlimited resources.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/Kanaries/graphic-walker",
     "title": "github.com/Kanaries/graphic-wa...",
     "latest": "2023-01-11T18:11:16+00:00",
@@ -3228,22 +3316,6 @@
     "first": "2023-01-02T22:33:33+00:00"
   },
   {
-    "link": "https://github.com/karpathy/nanoGPT",
-    "title": "GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.",
-    "latest": "2023-01-02T21:46:12+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109621803238375326",
-      "content": "<p>Here's ~600 lines of MIT licensed Python that can train a GPT language model, written by Andrej Karpathy <a href=\"https://github.com/karpathy/nanoGPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/karpathy/nanoGPT</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ],
-    "first": "2023-01-02T21:46:12+00:00"
-  },
-  {
     "link": "https://gist.github.com/nicklockwood/ff51117ac8139248507ecc84a1ed7fed",
     "title": "PolymorphicCoding.swift ",
     "latest": "2023-01-02T21:45:43+00:00",
@@ -3346,69 +3418,5 @@
       }
     ],
     "first": "2023-01-02T19:05:23+00:00"
-  },
-  {
-    "link": "https://github.com/WICG/webcomponents/issues/909",
-    "title": "github.com/WICG/webcomponents/...",
-    "latest": "2023-01-02T19:05:23+00:00",
-    "last_post": {
-      "url": "https://toot.cafe/@nolan/109621170874013105",
-      "content": "<p>Put together a little <a href=\"https://toot.cafe/tags/WebComponents\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WebComponents</span></a> experiment: a component that can be styled from the global &lt;head&gt;, even though it uses shadow DOM: <a href=\"https://github.com/nolanlawson/open-stylable\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nolanlawson/open-st</span><span class=\"invisible\">ylable</span></a></p><p>This proof-of-concept is based on a proposal for an \"open-stylable\" option for shadow roots: <a href=\"https://github.com/WICG/webcomponents/issues/909\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/WICG/webcomponents/</span><span class=\"invisible\">issues/909</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@nolan",
-        "display_name": "Nolan"
-      }
-    ],
-    "first": "2023-01-02T19:05:23+00:00"
-  },
-  {
-    "link": "https://github.com/kitao/pyxel",
-    "title": "GitHub - kitao/pyxel: A retro game engine for Python",
-    "latest": "2023-01-02T18:45:02+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@alienmelon/109620818867364852",
-      "content": "<p>found something beautiful the other day. how did i not know about Pyxel?<br>Pyxel is a retro game engine for Python \ud83d\udc49  <a href=\"https://github.com/kitao/pyxel\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kitao/pyxel</span><span class=\"invisible\"></span></a><br>\u201cPyxel's specifications and APIs are inspired by PICO-8 and TIC-80.<br>Pyxel is open source and free to use. Let's start making a retro game with Pyxel!\u201d<br>\u2728\ud83d\udc95\ud83d\udc7e\ud83c\udfae\u2728<br><a href=\"https://mastodon.social/tags/tools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tools</span></a> <a href=\"https://mastodon.social/tags/indiedev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>indiedev</span></a> <a href=\"https://mastodon.social/tags/gamedev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gamedev</span></a> <a href=\"https://mastodon.social/tags/indiegames\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>indiegames</span></a> <a href=\"https://mastodon.social/tags/FantasyConsole\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FantasyConsole</span></a> <a href=\"https://mastodon.social/tags/RetroGameEngine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RetroGameEngine</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
-      }
-    ],
-    "first": "2023-01-02T18:45:02+00:00"
-  },
-  {
-    "link": "https://github.com/RandomFractals/vscode-vega-viewer/blob/master/CHANGELOG.md",
-    "title": "vscode-vega-viewer/CHANGELOG.md at master \u00b7 RandomFractals/vscode-vega-viewer",
-    "latest": "2023-01-02T17:56:14+00:00",
-    "last_post": {
-      "url": "https://vis.social/@dataSamurai/109620899009535343",
-      "content": "<p>Updated <a href=\"https://vis.social/tags/VegaViewer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VegaViewer</span></a> \ud83d\udcc8 <a href=\"https://vis.social/tags/dataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataViz</span></a> extension v9.6.0 is now in <a href=\"https://vis.social/tags/vscode\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vscode</span></a> marketplace. See changelog for details: <a href=\"https://github.com/RandomFractals/vscode-vega-viewer/blob/master/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/RandomFractals/vsco</span><span class=\"invisible\">de-vega-viewer/blob/master/CHANGELOG.md</span></a></p><p>\ud83d\udce5 <a href=\"https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-vega-viewer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marketplace.visualstudio.com/i</span><span class=\"invisible\">tems?itemName=RandomFractalsInc.vscode-vega-viewer</span></a> </p><p><a href=\"https://vis.social/tags/dataTools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataTools</span></a> \ud83d\udd2c ...</p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@dataSamurai",
-        "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
-      }
-    ],
-    "first": "2023-01-02T17:56:14+00:00"
-  },
-  {
-    "link": "https://github.com/rq/django-rq#synchronous-mode",
-    "title": "GitHub - rq/django-rq: A simple app that provides django integration for RQ (Redis Queue)",
-    "latest": "2023-01-02T15:29:36+00:00",
-    "last_post": {
-      "url": "https://indieweb.social/@adamghill/109620322414780912",
-      "content": "<p>I tried out django-db-queue for devmarks.io, but I decided to switch back to django-rq for fediview.com.</p><p>django-rq uses redis to store jobs while django-db-queue uses the database. Both are easier to reason about &amp; lighter weight than celery IMO.</p><p><a href=\"https://github.com/rq/django-rq#synchronous-mode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rq/django-rq#synchr</span><span class=\"invisible\">onous-mode</span></a> is a game-changer for local development with django-rq.</p><p><a href=\"https://github.com/rq/django-rq\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rq/django-rq</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/dabapps/django-db-queue\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dabapps/django-db-q</span><span class=\"invisible\">ueue</span></a></p><p><a href=\"https://indieweb.social/tags/django\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>django</span></a> <a href=\"https://indieweb.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      }
-    ],
-    "first": "2023-01-02T15:29:36+00:00"
   }
 ]
