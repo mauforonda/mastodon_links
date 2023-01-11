@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://github.com/JamesHWade/gpttools",
+    "title": "GitHub - JamesHWade/gpttools: gpttools extends gptstudio for package development to help you document code, write tests, or even explain code",
+    "latest": "2023-01-11T02:29:38+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@jameshwade/109668131312370873",
+      "content": "<p>Do you want feedback on your <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> code but are too \ud83d\ude48 shy \ud83d\ude48 to ask?</p><p>\ud83e\udd16 gpttools \ud83d\udce6 can now suggest code improvements and explains what it did \ud83e\udd2f! <a href=\"https://fosstodon.org/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a> </p><p>It's almost like a modern-day rubber \ud83e\udd86 that talks back</p><p><a href=\"https://github.com/JamesHWade/gpttools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/JamesHWade/gpttools</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      }
+    ],
+    "first": "2022-12-29T13:18:02+00:00"
+  },
+  {
+    "link": "https://github.com/freelawproject/recap-chrome/releases/tag/2.0.0",
+    "title": "Release RECAP 2.0: Appellate Support! \u00b7 freelawproject/recap-chrome",
+    "latest": "2023-01-11T01:23:25+00:00",
+    "first": "2023-01-11T01:23:25+00:00",
+    "last_post": {
+      "url": "https://law.builders/@flp/109667818894948649",
+      "content": "<p>RECAP 2.0 is out! The headline? Appellate support! We know this was a LONG time coming, and we are so appreciative of all your support and patience waiting for this feature. Look for it in your browser in the coming days! More notes here: <a href=\"https://github.com/freelawproject/recap-chrome/releases/tag/2.0.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/freelawproject/reca</span><span class=\"invisible\">p-chrome/releases/tag/2.0.0</span></a></p><p>This work was sponsored by Justia and an anonymous donor. Thank you both!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/kieler/semantics/wiki",
     "title": "Home \u00b7 kieler/semantics Wiki",
     "latest": "2023-01-10T22:50:33+00:00",
@@ -3370,37 +3406,5 @@
       }
     ],
     "first": "2023-01-01T19:43:41+00:00"
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues/1685",
-    "title": "Give users feedback about reports \u00b7 Issue #1685 \u00b7 mastodon/mastodon",
-    "latest": "2023-01-01T19:26:12+00:00",
-    "last_post": {
-      "url": "https://sauropods.win/@futurebird/109615559718493003",
-      "content": "<p><span class=\"h-card\"><a href=\"https://sfba.social/@cd24\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cd24</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.scot/@simon_brooke\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon_brooke</span></a></span> </p><p>Some of the issues I care about have been raised in the past:</p><p>Give users feedback from reports:<br><a href=\"https://github.com/mastodon/mastodon/issues/1685\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/1685</span></a></p><p>When looking at the database tables for mastodon there are some of the bones for a ticket system in place there are table for Reports, AccountWarning and appeals. </p><p>What if servers could share reports? (but take different actions on them)</p><p><a href=\"https://sauropods.win/tags/mastodonSuggestions\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodonSuggestions</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sauropods.win/@futurebird",
-        "display_name": "myrmepropagandist"
-      }
-    ],
-    "first": "2023-01-01T19:26:12+00:00"
-  },
-  {
-    "link": "https://github.com/slavingia/askmybook",
-    "title": "GitHub - slavingia/askmybook",
-    "latest": "2023-01-01T18:28:03+00:00",
-    "last_post": {
-      "url": "https://toolsforthought.rocks/@absamma/109615212967059156",
-      "content": "<p>Books that can be queried via natural language chat should be a thing.</p><p><a href=\"https://github.com/slavingia/askmybook\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/slavingia/askmybook</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toolsforthought.rocks/@billseitz",
-        "display_name": "Bill Seitz"
-      }
-    ],
-    "first": "2023-01-01T18:28:03+00:00"
   }
 ]
