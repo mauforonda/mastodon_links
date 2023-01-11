@@ -372,6 +372,62 @@
     ]
   },
   {
+    "link": "https://maria-antoniak.github.io/teaching/2023-nlp-ca",
+    "title": "maria-antoniak.github.io/teach...",
+    "latest": "2023-01-11T09:40:30+00:00",
+    "first": "2023-01-10T22:48:15+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@maria_antoniak/109667076071190476",
+      "content": "<p>I'm teaching \"NLP for Cultural Analytics\" at UW Linguistics this quarter, and I thought I'd share my reading list for the course. </p><p><a href=\"https://maria-antoniak.github.io/teaching/2023-nlp-ca\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">maria-antoniak.github.io/teach</span><span class=\"invisible\">ing/2023-nlp-ca</span></a></p><p>Lots of usual suspects from the Journal of Cultural Analytics, but also pieces from NLP and computational social science. Thinking back to an earlier thread on \"what even is cultural analytics,\" you can see from this list my perception of the field (or maybe just what I'm in the mood to read right now).</p><p><a href=\"https://sigmoid.social/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> <a href=\"https://sigmoid.social/tags/CulturalAnalytics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CulturalAnalytics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jose_eduardo",
+        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
+      },
+      {
+        "url": "https://sigmoid.social/@maria_antoniak",
+        "display_name": "Maria Antoniak"
+      },
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot"
+      },
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      }
+    ]
+  },
+  {
+    "link": "https://joinmastodon.org/careers",
+    "title": "Careers at Mastodon",
+    "latest": "2023-01-11T10:35:35+00:00",
+    "first": "2023-01-10T21:15:49+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Mastodon/109666972987872161",
+      "content": "<p><a href=\"https://mastodon.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> is hiring!</p><p>\u203a Remote-only<br>\u203a Full-time</p><p>Looking for:</p><p>\u203a DevOps Engineer<br>\u203a Product Designer</p><p>It could be you! Apply now:</p><p><a href=\"https://joinmastodon.org/careers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">joinmastodon.org/careers</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Gargron",
+        "display_name": "Eugen Rochko"
+      },
+      {
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
+      },
+      {
+        "url": "https://hachyderm.io/@mikiobraun",
+        "display_name": "Mikio Braun \ud83d\udc33"
+      },
+      {
+        "url": "https://vis.social/@maarten",
+        "display_name": "Maarten Lambrechts"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/sponsors/threepointone",
     "title": "Sponsor @threepointone on GitHub Sponsors",
     "latest": "2023-01-09T10:34:33+00:00",
@@ -828,110 +884,26 @@
     ]
   },
   {
-    "link": "https://maria-antoniak.github.io/teaching/2023-nlp-ca",
-    "title": "maria-antoniak.github.io/teach...",
-    "latest": "2023-01-11T02:00:34+00:00",
-    "first": "2023-01-10T22:48:15+00:00",
+    "link": "https://pmbaumgartner.github.io/text-reflow-pyscript/",
+    "title": "pmbaumgartner.github.io/text-r...",
+    "latest": "2023-01-11T09:33:40+00:00",
+    "first": "2023-01-10T20:33:39+00:00",
     "last_post": {
-      "url": "https://sigmoid.social/@maria_antoniak/109667076071190476",
-      "content": "<p>I'm teaching \"NLP for Cultural Analytics\" at UW Linguistics this quarter, and I thought I'd share my reading list for the course. </p><p><a href=\"https://maria-antoniak.github.io/teaching/2023-nlp-ca\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">maria-antoniak.github.io/teach</span><span class=\"invisible\">ing/2023-nlp-ca</span></a></p><p>Lots of usual suspects from the Journal of Cultural Analytics, but also pieces from NLP and computational social science. Thinking back to an earlier thread on \"what even is cultural analytics,\" you can see from this list my perception of the field (or maybe just what I'm in the mood to read right now).</p><p><a href=\"https://sigmoid.social/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> <a href=\"https://sigmoid.social/tags/CulturalAnalytics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CulturalAnalytics</span></a></p>"
+      "url": "https://fosstodon.org/@pbaumgartner/109666742738007398",
+      "content": "<p>Finally had some time to play around with PyScript. I made a small app to reflow text to have a specified width and indentation level. Super helpful for reformatting text for docstrings! </p><p>Use it here: <a href=\"https://pmbaumgartner.github.io/text-reflow-pyscript/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pmbaumgartner.github.io/text-r</span><span class=\"invisible\">eflow-pyscript/</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@jose_eduardo",
-        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
       },
       {
-        "url": "https://sigmoid.social/@maria_antoniak",
-        "display_name": "Maria Antoniak"
+        "url": "https://jawns.club/@vicki",
+        "display_name": "Vicki Boykis"
       },
       {
-        "url": "https://hcommons.social/@scott_bot",
-        "display_name": "@scott_bot"
-      }
-    ]
-  },
-  {
-    "link": "https://joinmastodon.org/careers",
-    "title": "Careers at Mastodon",
-    "latest": "2023-01-11T07:20:11.878000+00:00",
-    "first": "2023-01-10T21:15:49+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@Mastodon/109666972987872161",
-      "content": "<p><a href=\"https://mastodon.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> is hiring!</p><p>\u203a Remote-only<br>\u203a Full-time</p><p>Looking for:</p><p>\u203a DevOps Engineer<br>\u203a Product Designer</p><p>It could be you! Apply now:</p><p><a href=\"https://joinmastodon.org/careers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">joinmastodon.org/careers</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Gargron",
-        "display_name": "Eugen Rochko"
-      },
-      {
-        "url": "https://infosec.exchange/@hacks4pancakes",
-        "display_name": "Lesley Carhart :unverified:"
-      },
-      {
-        "url": "https://hachyderm.io/@mikiobraun",
-        "display_name": "Mikio Braun \ud83d\udc33"
-      }
-    ]
-  },
-  {
-    "link": "https://neuromatch.social/@jonny/109552710007394939",
-    "title": "Jonny (@jonny@neuromatch.social)",
-    "latest": "2023-01-08T21:20:59+00:00",
-    "first": "2023-01-08T12:04:21+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@jonny/109653489200126362",
-      "content": "<p><span class=\"h-card\"><a href=\"https://neuromatch.social/@LeonDLotter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>LeonDLotter</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/neuroscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>neuroscience</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/cognition\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cognition</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/psychology\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>psychology</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/phdstudents\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>phdstudents</span></a></span> </p><p>So check this out: this would be pretty simple to do with a bot and I have one as a WIP. </p><p><a href=\"https://neuromatch.social/@jonny/109552710007394939\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">neuromatch.social/@jonny/10955</span><span class=\"invisible\">2710007394939</span></a></p><p>Detect mentions of papers, create root post for that paper, link back all times it is mentioned. Mentioning the paper gets you a link back to the root post. </p><p>So: Underneath that root post you can have \"canonical\" discussion. but all other times paper is mentioned are also indexed from the root post, so you can also talk about it anywhere and have it archived back.</p><p>lmk if ya wanna work on this together, have talked about it a bit in the discord (see the announcement top of your home feed) :)</p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@jonny",
-        "display_name": "Jonny"
-      },
-      {
-        "url": "https://neuromatch.social/@LeonDLotter",
-        "display_name": "Leon Lotter"
-      }
-    ]
-  },
-  {
-    "link": "https://www.theinformation.com/articles/ghost-writer-microsoft-looks-to-add-openais-chatbot-technology-to-word-email",
-    "title": "Ghost Writer: Microsoft Looks to Add OpenAI\u2019s Chatbot Technology to Word, Email",
-    "latest": "2023-01-09T09:27:01+00:00",
-    "first": "2023-01-08T10:48:24+00:00",
-    "last_post": {
-      "url": "https://someone.elses.computer/@mikarv/109658532872150374",
-      "content": "<p>UK universities to subsidise language-model\u2013based plagiarism through their huge Office 365 contracts. <a href=\"https://www.theinformation.com/articles/ghost-writer-microsoft-looks-to-add-openais-chatbot-technology-to-word-email\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theinformation.com/articles/gh</span><span class=\"invisible\">ost-writer-microsoft-looks-to-add-openais-chatbot-technology-to-word-email</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@gregeganSF",
-        "display_name": "Greg Egan"
-      },
-      {
-        "url": "https://someone.elses.computer/@mikarv",
-        "display_name": "Michael Veale"
-      }
-    ]
-  },
-  {
-    "link": "https://danluu.com/bimodal-compensation/#appendix-b-why-are-programmers-well-paid",
-    "title": "Is dev compensation bimodal?",
-    "latest": "2023-01-08T21:56:17.353000+00:00",
-    "first": "2023-01-08T11:08:24+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@danluu/109653269177102842",
-      "content": "<p>I've compared notes with folks across industries and tech seems to be, on average, the least bad non-niche industry (discussed in <a href=\"https://danluu.com/bimodal-compensation/#appendix-b-why-are-programmers-well-paid\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">danluu.com/bimodal-compensatio</span><span class=\"invisible\">n/#appendix-b-why-are-programmers-well-paid</span></a> w.r.t. comp, but I think more generally true), but there's still an unreasonably high human toll if you look at, e.g., how many people have severely burnt out by 40.</p><p>It's amazing/horrifying that an industry that's so relatively good is so absolutely bad, i.e., <a href=\"https://danluu.com/p95-skill/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">danluu.com/p95-skill/</span><span class=\"invisible\"></span></a>, but for careers instead of individual skill.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@danluu",
-        "display_name": "Dan Luu"
-      },
-      {
-        "url": "https://hachyderm.io/@hazelweakly",
-        "display_name": "Hazel Weakly :verified_trans:"
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
       }
     ]
   },
@@ -2436,6 +2408,46 @@
     ]
   },
   {
+    "link": "https://mail.securecms.com/mailman/listinfo/ccneuro-announce",
+    "title": "CCNeuro-Announce Info Page",
+    "latest": "2023-01-11T10:57:38+00:00",
+    "first": "2023-01-10T13:02:43+00:00",
+    "last_post": {
+      "url": "https://qoto.org/@CogCompNeuro/109664068539755291",
+      "content": "<p>We are excited to announce that Cognitive Computational Neuroscience (CCN) 2023 will take place this year in Oxford from August 24 - 27, 2023. The conference will take place at the Examination Schools \u2013 more information can be found here:<br>www.venues.ox.ac.uk/our-venues/examination-schools/.</p><p>\u2013<br>Confirmed speakers for this year's CCN include Stan Dehaene, Helen Barron, Cate Hartley, Jay McClelland and Tim Kietzmann TimKietzmann@neuromatch.social</p><p>\u2013</p><p>We also want to note that the paper submission period will be earlier this year than in previous years: abstract submissions will open end of January, and will close March 31. </p><p>\u2014</p><p>For the most up-to-date information about CCN 2023, including reminders about deadlines, join our mailing list (<a href=\"https://mail.securecms.com/mailman/listinfo/ccneuro-announce\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mail.securecms.com/mailman/lis</span><span class=\"invisible\">tinfo/ccneuro-announce</span></a>) and also follow us here on Twitter (<a href=\"https://twitter.com/CogCompNeuro\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/CogCompNeuro</span><span class=\"invisible\"></span></a>) or Mastodon (<a href=\"https://mastodon.social/@CogCompNeuro@qoto.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@CogCompNeuro@</span><span class=\"invisible\">qoto.org</span></a>)</p><p>Please boost!!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@Neurograce",
+        "display_name": "Grace Lindsay"
+      },
+      {
+        "url": "https://fediscience.org/@gershbrain",
+        "display_name": "Sam Gershman"
+      }
+    ]
+  },
+  {
+    "link": "https://mastodon.social/@CogCompNeuro@qoto.org",
+    "title": "mastodon.social/@CogCompNeuro@...",
+    "latest": "2023-01-11T10:57:38+00:00",
+    "first": "2023-01-10T13:02:43+00:00",
+    "last_post": {
+      "url": "https://qoto.org/@CogCompNeuro/109664068539755291",
+      "content": "<p>We are excited to announce that Cognitive Computational Neuroscience (CCN) 2023 will take place this year in Oxford from August 24 - 27, 2023. The conference will take place at the Examination Schools \u2013 more information can be found here:<br>www.venues.ox.ac.uk/our-venues/examination-schools/.</p><p>\u2013<br>Confirmed speakers for this year's CCN include Stan Dehaene, Helen Barron, Cate Hartley, Jay McClelland and Tim Kietzmann TimKietzmann@neuromatch.social</p><p>\u2013</p><p>We also want to note that the paper submission period will be earlier this year than in previous years: abstract submissions will open end of January, and will close March 31. </p><p>\u2014</p><p>For the most up-to-date information about CCN 2023, including reminders about deadlines, join our mailing list (<a href=\"https://mail.securecms.com/mailman/listinfo/ccneuro-announce\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mail.securecms.com/mailman/lis</span><span class=\"invisible\">tinfo/ccneuro-announce</span></a>) and also follow us here on Twitter (<a href=\"https://twitter.com/CogCompNeuro\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/CogCompNeuro</span><span class=\"invisible\"></span></a>) or Mastodon (<a href=\"https://mastodon.social/@CogCompNeuro@qoto.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@CogCompNeuro@</span><span class=\"invisible\">qoto.org</span></a>)</p><p>Please boost!!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@Neurograce",
+        "display_name": "Grace Lindsay"
+      },
+      {
+        "url": "https://fediscience.org/@gershbrain",
+        "display_name": "Sam Gershman"
+      }
+    ]
+  },
+  {
     "link": "https://lynnandtonic.com/thoughts/entries/some-things-i-worked-on-at-netlify/",
     "title": "Some things I worked on at Netlify",
     "latest": "2023-01-10T15:58:21+00:00",
@@ -2492,26 +2504,6 @@
       {
         "url": "https://status.kinlan.me/@paul",
         "display_name": "Paul Kinlan"
-      }
-    ]
-  },
-  {
-    "link": "https://pmbaumgartner.github.io/text-reflow-pyscript/",
-    "title": "pmbaumgartner.github.io/text-r...",
-    "latest": "2023-01-11T02:18:38+00:00",
-    "first": "2023-01-10T20:33:39+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@pbaumgartner/109666742738007398",
-      "content": "<p>Finally had some time to play around with PyScript. I made a small app to reflow text to have a specified width and indentation level. Super helpful for reformatting text for docstrings! </p><p>Use it here: <a href=\"https://pmbaumgartner.github.io/text-reflow-pyscript/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pmbaumgartner.github.io/text-r</span><span class=\"invisible\">eflow-pyscript/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ogrisel",
-        "display_name": "Olivier Grisel"
-      },
-      {
-        "url": "https://jawns.club/@vicki",
-        "display_name": "Vicki Boykis"
       }
     ]
   },
