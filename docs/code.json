@@ -1,5 +1,57 @@
 [
   {
+    "link": "https://github.com/kieler/semantics/wiki",
+    "title": "Home \u00b7 kieler/semantics Wiki",
+    "latest": "2023-01-10T22:50:33+00:00",
+    "first": "2023-01-10T22:50:33+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@chrisshank/109667354748526742",
+      "content": "<p>Sequentially Constructive Charts (SCCharts), a successor of SyncCharts that is also synchronous state chart dialect but with sequentially constructive semantics.</p><p><a href=\"https://github.com/kieler/semantics/wiki\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/kieler/semantics/wi</span><span class=\"invisible\">ki</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chrisshank",
+        "display_name": "\ud835\udd6e"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/blasty/lexmark",
+    "title": "GitHub - blasty/lexmark",
+    "latest": "2023-01-10T21:23:18+00:00",
+    "first": "2023-01-10T21:23:18+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@blasty/109664511258765435",
+      "content": "<p>Decided to publish the Lexmark printer exploit + writeup + tools instead of sell it for peanuts. 0day at the time of writing: <a href=\"https://github.com/blasty/lexmark\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/blasty/lexmark</span><span class=\"invisible\"></span></a> -- enjoy!</p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cboettig/quarto-hugo-material-dashboard/",
+    "title": "GitHub - cboettig/quarto-hugo-material-dashboard: Adapting material-dashboard to Quarto and Hugo",
+    "latest": "2023-01-10T21:09:44+00:00",
+    "first": "2023-01-11T00:00:03+00:00",
+    "last_post": {
+      "url": "https://ecoevo.social/@cboettig/109666958330817210",
+      "content": "<p>Have been enjoying <span class=\"h-card\"><a href=\"https://fosstodon.org/@Posit\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Posit</span></a></span> <a href=\"https://ecoevo.social/tags/quarto\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quarto</span></a> but wanting more flexible layout /aesthetics for dashboards etc.</p><p>The hugo output format is great for this -- a bit more manual but much more flexible!</p><p>A sketch using custom elements below.  Draft theme at <a href=\"https://github.com/cboettig/quarto-hugo-material-dashboard/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cboettig/quarto-hug</span><span class=\"invisible\">o-material-dashboard/</span></a> , feedback or suggestions welcome!</p><p>layout in quarto files uses {bslib} with ggplot/ggiraph charts.</p><p><a href=\"https://ecoevo.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://ecoevo.social/tags/QuartoPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QuartoPub</span></a> <a href=\"https://ecoevo.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@CedScherer",
+        "display_name": "C\u00e9dric Scherer"
+      },
+      {
+        "url": "https://ecoevo.social/@cboettig",
+        "display_name": "Carl Boettiger"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/bvaughn/react-resizable-panels/pull/76",
     "title": "Panel and PanelGroup callbacks always called after mount by bvaughn \u00b7 Pull Request #76 \u00b7 bvaughn/react-resizable-panels",
     "latest": "2023-01-10T20:47:42+00:00",
@@ -3350,53 +3402,5 @@
       }
     ],
     "first": "2023-01-01T18:28:03+00:00"
-  },
-  {
-    "link": "https://github.com/astrowonk/mastodon_reader",
-    "title": "GitHub - astrowonk/mastodon_reader: Dash based Mastodon Link List from bookmarks and favorites",
-    "latest": "2023-01-01T17:33:52+00:00",
-    "last_post": {
-      "url": "https://vmst.io/@marcoshuerta/109615148715530834",
-      "content": "<p>New in <a href=\"https://vmst.io/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a>: a new <a href=\"https://vmst.io/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> web app from me that collects and presents links from your favorites and bookmarks:</p><p>Repo: <a href=\"https://github.com/astrowonk/mastodon_reader\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/astrowonk/mastodon_</span><span class=\"invisible\">reader</span></a></p><p>Live: <a href=\"https://marcoshuerta.com/dash/mastodon_reader/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marcoshuerta.com/dash/mastodon</span><span class=\"invisible\">_reader/</span></a></p><p>Instance API Tokens are stored in HTML 5 storage but encrypted with a server-side key (Fernet.) Nothing is stored on the server.</p><p>If anyone tries this let me know. It was really just me learning to do the OAuth dance in <a href=\"https://vmst.io/tags/plotly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>plotly</span></a> Dash; this was my first idea for what do with the API.</p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      }
-    ],
-    "first": "2023-01-01T17:33:52+00:00"
-  },
-  {
-    "link": "https://github.com/TodePond/ThingsIWantToMake",
-    "title": "GitHub - TodePond/ThingsIWantToMake: things I wanna make (updated for 2023)",
-    "latest": "2023-01-01T16:25:08+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@TodePond/109614878463205224",
-      "content": "<p>Ok fine I'll do it!</p><p>I've now updated my todo list for 2023. What do you think? (warning: spoilers for future videos) \ud83d\udc1f\ud83d\udc0d</p><p><a href=\"https://github.com/TodePond/ThingsIWantToMake\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TodePond/ThingsIWan</span><span class=\"invisible\">tToMake</span></a></p><p><a href=\"https://mastodon.social/tags/creativecoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>creativecoding</span></a> + <a href=\"https://mastodon.social/tags/cellularautomata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cellularautomata</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@TodePond",
-        "display_name": "Lu Wilson"
-      }
-    ],
-    "first": "2023-01-01T16:25:08+00:00"
-  },
-  {
-    "link": "https://github.com/chrisbarrett/nursery",
-    "title": "GitHub - chrisbarrett/nursery: Programs and libs that I haven't gotten around to formally packaging",
-    "latest": "2023-01-01T16:22:02+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@credmp/109614638842658054",
-      "content": "<p>If you use <a href=\"https://fosstodon.org/tags/org\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>org</span></a> <a href=\"https://fosstodon.org/tags/roam\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>roam</span></a> in <a href=\"https://fosstodon.org/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> be sure to check out <a href=\"https://github.com/chrisbarrett/nursery\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/chrisbarrett/nurser</span><span class=\"invisible\">y</span></a> there are some jewels there!</p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
-      }
-    ],
-    "first": "2023-01-01T16:22:02+00:00"
   }
 ]
