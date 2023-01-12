@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://link.springer.com/article/10.1007/s10334-022-01059-7",
+    "title": "Towards functional spin-echo BOLD line-scanning in humans at 7T - Magnetic Resonance Materials in Physics, Biology and Medicine",
+    "latest": "2023-01-12T09:51:47+00:00",
+    "first": "2023-01-12T09:51:47+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@dumoulin/109675581241781028",
+      "content": "<p>Null-findings are important, but  more difficult to prove and publish. Here is a null-finding <a href=\"https://neuromatch.social/tags/NewPaper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NewPaper</span></a> / <a href=\"https://neuromatch.social/tags/NeuroNewPaper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeuroNewPaper</span></a>. </p><p>Line-scanning functional <a href=\"https://neuromatch.social/tags/MRI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MRI</span></a> has both high spatial and high temporal resolutions, about 200 micrometers and 200 milliseconds. This is achieved by sacrificing spatial coverage, akin to a virtual BOLD electrode through the brain. Previously, we implemented a human line-scanning sequence using gradient-echo <a href=\"https://neuromatch.social/tags/BOLD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BOLD</span></a> <a href=\"https://neuromatch.social/tags/fMRI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fMRI</span></a> at 7T.</p><p>Spin-echo MRI sequences offer several advantages over gradient-echo MRI sequences, for example much improved spatial line-selection and microvascular specificity. However, despite many efforts, especially from the lead-author Luisa Raimondo, spin-echo line-scanning currently lacks adequate sensitivity for <a href=\"https://neuromatch.social/tags/neuroscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuroscience</span></a> applications.</p><p><a href=\"https://link.springer.com/article/10.1007/s10334-022-01059-7\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/article/10.1</span><span class=\"invisible\">007/s10334-022-01059-7</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@jonny",
+        "display_name": "Jonny"
+      }
+    ]
+  },
+  {
     "link": "https://osf.io/preprints/metaarxiv/rcews/",
     "title": "osf.io/preprints/metaarxiv/rce...",
     "latest": "2023-01-12T09:01:40+00:00",
@@ -3382,21 +3398,5 @@
       }
     ],
     "first": "2023-01-03T20:45:42+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.00243",
-    "title": "Approaching Peak Ground Truth",
-    "latest": "2023-01-03T20:40:52+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@at/109626860627521747",
-      "content": "<p>Approaching Peak Ground Truth<br>Florian Kofler et al. (+17)</p><p>tl;dr: if annotations are unreliable, maximizing similarity w/ those annotations leads to models != represent real world predictions. Presents Peak Ground Truth, \" PGT marks the point beyond which an increase in similarity with the reference annotation stops translating to better Real World Model Performance.\" </p><p>Would like to know how deep learners feel about this one.</p><p><a href=\"https://sigmoid.social/tags/arXiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arXiv</span></a> <a href=\"https://sigmoid.social/tags/AmyPostsPapers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AmyPostsPapers</span></a> </p><p>abs: <a href=\"https://arxiv.org/abs/2301.00243\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.00243</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@nsaphra",
-        "display_name": "Naomi Saphra"
-      }
-    ],
-    "first": "2023-01-03T20:40:52+00:00"
   }
 ]
