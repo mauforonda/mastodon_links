@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/w3c/mlreq/issues/30#issuecomment-1379093581",
+    "title": "Todo hyphen \u00b7 Issue #30 \u00b7 w3c/mlreq",
+    "latest": "2023-01-12T01:16:13+00:00",
+    "first": "2023-01-12T01:16:13+00:00",
+    "last_post": {
+      "url": "https://w3c.social/@webi18n/109672123052005258",
+      "content": "<p>Question for Mongolian experts/users:<br>How do in-word line breaks work in Traditional Mongolian script used for Mongolian?<br>See <a href=\"https://github.com/w3c/mlreq/issues/30#issuecomment-1379093581\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/w3c/mlreq/issues/30</span><span class=\"invisible\">#issuecomment-1379093581</span></a><br>(Please send comments there, rather than here.)</p>"
+    },
+    "people": [
+      {
+        "url": "https://front-end.social/@jensimmons",
+        "display_name": "Jen Simmons"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/hometown-fork/hometown/issues/1274#issuecomment-1379647384",
     "title": "Allow optional Markdown and/or ReStructuredText interpolation \u00b7 Issue #1274 \u00b7 hometown-fork/hometown",
     "latest": "2023-01-12T00:22:12+00:00",
@@ -3394,21 +3410,5 @@
       }
     ],
     "first": "2023-01-02T21:45:43+00:00"
-  },
-  {
-    "link": "https://github.com/acowley/mastodon_digest/tree/nix",
-    "title": "github.com/acowley/mastodon_di...",
-    "latest": "2023-01-02T21:02:31+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@acowley/109621620707219357",
-      "content": "<p>Here's a neat thing: an algorithmically-generated <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> daily digest <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a> by <span class=\"h-card\"><a href=\"https://mastodon.social/@MattHodges\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MattHodges</span></a></span>. I've packaged it as a <a href=\"https://mastodon.social/tags/nix\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nix</span></a> flake <a href=\"https://github.com/acowley/mastodon_digest/tree/nix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/acowley/mastodon_di</span><span class=\"invisible\">gest/tree/nix</span></a>, so that if you are in a directory with a `.env` file in it (following the README instructions), you can do,</p><p>`nix run github:acowley/mastodon_digest/nix -- -o $PWD`</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      }
-    ],
-    "first": "2023-01-02T21:02:31+00:00"
   }
 ]
