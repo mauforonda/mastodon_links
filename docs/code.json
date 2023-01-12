@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://github.com/hometown-fork/hometown/issues/1274#issuecomment-1379647384",
+    "title": "Allow optional Markdown and/or ReStructuredText interpolation \u00b7 Issue #1274 \u00b7 hometown-fork/hometown",
+    "latest": "2023-01-12T00:22:12+00:00",
+    "first": "2023-01-12T00:22:12+00:00",
+    "last_post": {
+      "url": "https://friend.camp/@darius/109673377456950391",
+      "content": "<p>I keep getting asked to support writing rich-text-formatted posts in <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> (we already read them just fine). I finally wrote down, in this comment on this Github issue, a short essay outlining all my concerns with doing so:</p><p><a href=\"https://github.com/hometown-fork/hometown/issues/1274#issuecomment-1379647384\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hometown-fork/homet</span><span class=\"invisible\">own/issues/1274#issuecomment-1379647384</span></a></p><p>Some of this is problems with Markdown, while some of this is problems with interoperability regarding any rich text rendering at all.</p>"
+    },
+    "people": [
+      {
+        "url": "https://friend.camp/@darius",
+        "display_name": "Darius Kazemi"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/friendica/friendica/issues/12654",
+    "title": "DM about Fedilab is shared publicly on Mastodon \u00b7 Issue #12654 \u00b7 friendica/friendica",
+    "latest": "2023-01-11T22:42:41+00:00",
+    "first": "2023-01-11T22:42:41+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@feditips/109672967608693269",
+      "content": "<p>:friendica: Important note for <a href=\"https://mstdn.social/tags/Friendica\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Friendica</span></a> users! There's a bug that affects visibility of Friendica replies.</p><p>This bug only affects Friendica! MASTODON USERS ARE NOT AFFECTED.</p><p><a href=\"https://github.com/friendica/friendica/issues/12654\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/friendica/friendica</span><span class=\"invisible\">/issues/12654</span></a></p><p>Basically, replies by Friendica accounts using direct/mentions visibility in apps that rely on the Mastodon API will actually be public.</p><p>The linked issue mentions Fedilab as an example, but apparently this bug affects any Friendica-compatible app which relies on the Mastodon API.</p><p>(via <span class=\"h-card\"><a href=\"https://toot.fedilab.app/@apps\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>apps</span></a></span> )</p>"
+    },
+    "people": [
+      {
+        "url": "https://toot.fedilab.app/@apps",
+        "display_name": "Fedilab Apps"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Shinmera/talks/blob/master/gic2021-highly-dynamic/paper.pdf",
+    "title": "github.com/Shinmera/talks/blob...",
+    "latest": "2023-01-11T21:28:18+00:00",
+    "first": "2023-01-11T21:28:18+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109672693653858400",
+      "content": "<p>Some great resources for Common Lisp based gamedev discussed in <a href=\"https://reader.tymoon.eu/article/413\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">reader.tymoon.eu/article/413</span><span class=\"invisible\"></span></a> as well as <a href=\"https://github.com/Shinmera/talks/blob/master/gic2021-highly-dynamic/paper.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Shinmera/talks/blob</span><span class=\"invisible\">/master/gic2021-highly-dynamic/paper.pdf</span></a> and provided at <a href=\"https://github.com/shirakumo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/shirakumo</span><span class=\"invisible\"></span></a> <a href=\"https://emacs.ch/tags/lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lisp</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/shirakumo",
+    "title": "https://github.com/shirakumo",
+    "latest": "2023-01-11T21:28:18+00:00",
+    "first": "2023-01-11T21:28:18+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109672693653858400",
+      "content": "<p>Some great resources for Common Lisp based gamedev discussed in <a href=\"https://reader.tymoon.eu/article/413\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">reader.tymoon.eu/article/413</span><span class=\"invisible\"></span></a> as well as <a href=\"https://github.com/Shinmera/talks/blob/master/gic2021-highly-dynamic/paper.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Shinmera/talks/blob</span><span class=\"invisible\">/master/gic2021-highly-dynamic/paper.pdf</span></a> and provided at <a href=\"https://github.com/shirakumo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/shirakumo</span><span class=\"invisible\"></span></a> <a href=\"https://emacs.ch/tags/lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lisp</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/tropy/tropy-plugin-omeka",
     "title": "GitHub - tropy/tropy-plugin-omeka: Tropy plugin for exporting items into Omeka",
     "latest": "2023-01-11T19:57:49+00:00",
@@ -3346,77 +3410,5 @@
       }
     ],
     "first": "2023-01-02T21:02:31+00:00"
-  },
-  {
-    "link": "https://github.com/corkami/pics/blob/master/binary/README.md#images",
-    "title": "pics/README.md at master \u00b7 corkami/pics",
-    "latest": "2023-01-02T20:04:20+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@Ange/109581237243116686",
-      "content": "<p>My file formats dissection repo should be now up-to-date.<br><a href=\"https://github.com/corkami/pics/blob/master/binary/README.md#images\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/corkami/pics/blob/m</span><span class=\"invisible\">aster/binary/README.md#images</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://recurse.social/@ballingt",
-        "display_name": "Tom Ballinger"
-      },
-      {
-        "url": "https://hachyderm.io/@ramonpage",
-        "display_name": "Ramon :verified_paw:"
-      },
-      {
-        "url": "https://vis.social/@jhilden",
-        "display_name": "Jonatan Hild\u00e9n"
-      }
-    ],
-    "first": "2023-01-02T20:04:20+00:00"
-  },
-  {
-    "link": "https://github.com/placemark/figma-plugin",
-    "title": "GitHub - placemark/figma-plugin: Create maps with Figma",
-    "latest": "2023-01-02T19:58:55+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@tmcw/109621381384636190",
-      "content": "<p>got this into a releasable minimal state! it's in the figma community approval queue right now, but it's open sourced already: <a href=\"https://github.com/placemark/figma-plugin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/placemark/figma-plu</span><span class=\"invisible\">gin</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@tmcw",
-        "display_name": "Tom MacWright"
-      }
-    ],
-    "first": "2023-01-02T19:58:55+00:00"
-  },
-  {
-    "link": "https://github.com/nolanlawson/open-stylable/issues/1",
-    "title": "Use constructable stylesheets \u00b7 Issue #1 \u00b7 nolanlawson/open-stylable",
-    "latest": "2023-01-02T19:07:02+00:00",
-    "last_post": {
-      "url": "https://toot.cafe/@nolan/109621177401396332",
-      "content": "<p>Basically the idea is to copy styles from the global level to the shadow root, with MutationObserver watching for updates. Has a bit of perf overhead, but it works! <a href=\"https://github.com/nolanlawson/open-stylable/issues/1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nolanlawson/open-st</span><span class=\"invisible\">ylable/issues/1</span></a></p><p>In any case, this does demonstrate that \"open-stylable\" shadow roots are polyfillable.</p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@nolan",
-        "display_name": "Nolan"
-      }
-    ],
-    "first": "2023-01-02T19:07:02+00:00"
-  },
-  {
-    "link": "https://github.com/nolanlawson/open-stylable",
-    "title": "GitHub - nolanlawson/open-stylable: Web component where styles leak in, but they don't leak out",
-    "latest": "2023-01-02T19:05:23+00:00",
-    "last_post": {
-      "url": "https://toot.cafe/@nolan/109621170874013105",
-      "content": "<p>Put together a little <a href=\"https://toot.cafe/tags/WebComponents\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WebComponents</span></a> experiment: a component that can be styled from the global &lt;head&gt;, even though it uses shadow DOM: <a href=\"https://github.com/nolanlawson/open-stylable\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nolanlawson/open-st</span><span class=\"invisible\">ylable</span></a></p><p>This proof-of-concept is based on a proposal for an \"open-stylable\" option for shadow roots: <a href=\"https://github.com/WICG/webcomponents/issues/909\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/WICG/webcomponents/</span><span class=\"invisible\">issues/909</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@nolan",
-        "display_name": "Nolan"
-      }
-    ],
-    "first": "2023-01-02T19:05:23+00:00"
   }
 ]
