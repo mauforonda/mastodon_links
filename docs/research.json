@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://arxiv.org/abs/2211.01324",
+    "title": "eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers",
+    "latest": "2023-01-12T21:09:31+00:00",
+    "first": "2023-01-12T21:09:31+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@gowthami/109677111409955588",
+      "content": "<p>eDiff-I: A new text-to-image <a href=\"https://sigmoid.social/tags/diffusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>diffusion</span></a> model. Uses T5 and both CLIP encoders for conditioning. Instead of using the same denoising model for all steps, they propose using multiple specialized ones. A \ud83e\uddf5</p><p>Paper: <a href=\"https://arxiv.org/abs/2211.01324\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.01324</span><span class=\"invisible\"></span></a></p><p>Day 11 <a href=\"https://sigmoid.social/tags/30daysofDiffusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>30daysofDiffusion</span></a> <a href=\"https://sigmoid.social/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@andrey",
+        "display_name": "Andrey Kurenkov"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/s41562-022-01487-4",
+    "title": "A 2 million-person, campaign-wide field experiment shows how digital advertising affects voter turnout - Nature Human Behaviour",
+    "latest": "2023-01-12T20:52:29+00:00",
+    "first": "2023-01-12T19:44:07+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@brendannyhan/109678215152806433",
+      "content": "<p>Important new work by an all-star team (and a reminder that it is *hard* to move votes) <a href=\"https://www.nature.com/articles/s41562-022-01487-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41562-022</span><span class=\"invisible\">-01487-4</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      },
+      {
+        "url": "https://mastodon.social/@brendannyhan",
+        "display_name": "Brendan Nyhan"
+      }
+    ]
+  },
+  {
     "link": "https://www.nature.com/articles/d41586-023-00053-w",
     "title": "Hunting for the best bioscience software tool? Check this database",
     "latest": "2023-01-12T19:50:38+00:00",
@@ -13,22 +49,6 @@
         "url": "https://fosstodon.org/@danielskatz",
         "display_name": "Daniel S. Katz"
       },
-      {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/s41562-022-01487-4",
-    "title": "A 2 million-person, campaign-wide field experiment shows how digital advertising affects voter turnout - Nature Human Behaviour",
-    "latest": "2023-01-12T19:44:07+00:00",
-    "first": "2023-01-12T19:44:07+00:00",
-    "last_post": {
-      "url": "https://techhub.social/@Drand/109677361556192168",
-      "content": "<p>RT @SolomonMg<br>\ud83d\udea8MASSIVE NEW STUDY ON DIGITAL/FB POLITICAL AD EFFECTS \ud83d\udea8 in @NatureHumBehav from Minali Aggarwal, @_JenAllen, @aecoppock, @dfrankow, Kelly Zhang, @jimmyeatcarbs, Andrew Beasly, Harry Hantman, Sylvan Zheng! </p><p><a href=\"https://www.nature.com/articles/s41562-022-01487-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41562-022</span><span class=\"invisible\">-01487-4</span></a>  </p><p>Ungated: <a href=\"https://solomonmg.github.io/pdf/acronymNHB.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">solomonmg.github.io/pdf/acrony</span><span class=\"invisible\">mNHB.pdf</span></a></p>"
-    },
-    "people": [
       {
         "url": "https://social.cwts.nl/@vtraag",
         "display_name": "Vincent Traag"
@@ -3370,21 +3390,5 @@
       }
     ],
     "first": "2023-01-04T06:55:32+00:00"
-  },
-  {
-    "link": "https://doi.org/10.26434/chemrxiv-2023-tjt21",
-    "title": "doi.org/10.26434/chemrxiv-2023...",
-    "latest": "2023-01-04T06:29:57+00:00",
-    "last_post": {
-      "url": "https://berlin.social/@pkraus/109629525054474401",
-      "content": "<p>Interested in <a href=\"https://berlin.social/tags/DFT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DFT</span></a> modelling of  perovskites? Or in <a href=\"https://berlin.social/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a> <a href=\"https://berlin.social/tags/CompChem\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CompChem</span></a> workflows in used in <a href=\"https://berlin.social/tags/MaterialsScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MaterialsScience</span></a>? \ud83d\udcbb \u269b\ufe0f </p><p>Then read our latest <a href=\"https://berlin.social/tags/Preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Preprint</span></a>, where we discuss getting reasonable starting structures, choosing an appropriate DFA using <a href=\"https://berlin.social/tags/benchmarking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>benchmarking</span></a>, and finally look at the defect-induced phase transition in LaMnO3!  </p><p><a href=\"https://doi.org/10.26434/chemrxiv-2023-tjt21\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.26434/chemrxiv-2023</span><span class=\"invisible\">-tjt21</span></a></p><p><a href=\"https://berlin.social/tags/CompChem\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CompChem</span></a> <a href=\"https://berlin.social/tags/Chemiverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Chemiverse</span></a>  <a href=\"https://berlin.social/tags/ChemToots\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChemToots</span></a>  <span class=\"h-card\"><a href=\"https://a.gup.pe/u/chemistry\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chemistry</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://berlin.social/@pkraus",
-        "display_name": "Peter Kraus"
-      }
-    ],
-    "first": "2023-01-04T06:29:57+00:00"
   }
 ]
