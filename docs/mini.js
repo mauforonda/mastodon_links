@@ -1,6 +1,6 @@
 const digests = {
     popular: {filename: 'popular.json', id: 'popular', title: 'popular', subtitle: 'new and shared 2 or more times in the past 3 days'},
-    rising: {filename: 'rising.json', id: 'popular', title: 'popular', subtitle: 'new and shared 2 or more times in the past 24 hours'},
+    rising: {filename: 'rising.json', id: 'rising', title: 'rising', subtitle: 'new and shared 2 or more times in the past 24 hours'},
     latest: {filename: 'latest.json', id: 'latest', title: 'latest', subtitle: '200 links'},
     code: {filename: 'code.json', id: 'code', title: 'code', subtitle: 'latest'},
     research: {filename: 'research.json', id: 'research', title: 'research', subtitle: 'latest'},
