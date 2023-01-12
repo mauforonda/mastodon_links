@@ -271,10 +271,12 @@ ignorelist = read_ignorelist()
 for post in reversed(newposts): # Update the list with links from new posts
     process_post(post)
 
-digest_date = make_digest_date(catalog) # Latest links
-save_digest(digest_date, 'latest.json')
-digest_shared = make_digest_newpopular(catalog, 2, 72) # Links that appeared in the past 3 days and were shared at least twice 
-save_digest(digest_shared,'shared.json')
+digest_latest = make_digest_date(catalog) # Latest links
+save_digest(digest_latest, 'latest.json')
+digest_popular = make_digest_newpopular(catalog, 2, 72) # Links that appeared in the past 3 days and were shared at least twice 
+save_digest(digest_popular,'popular.json')
+digest_rising = make_digest_newpopular(catalog, 2, 24) # Links that appeared today and were shared at least twice 
+save_digest(digest_rising,'rising.json')
 for list_name in os.listdir(LIST_DIRECTORY): # A feed for every topic list defined in the LIST_DIRECTORY
     digest_list = make_digest_list(catalog, list_name)
     save_digest(digest_list, f'{list_name}.json')
