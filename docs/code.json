@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/loomio/loomio/issues/9382",
+    "title": "Implementation of Mastodon OAuth \u00b7 Issue #9382 \u00b7 loomio/loomio",
+    "latest": "2023-01-12T19:45:12+00:00",
+    "first": "2023-01-12T19:45:12+00:00",
+    "last_post": {
+      "url": "https://ecoevo.social/@alxsim/109677903498149826",
+      "content": "<p><span class=\"h-card\"><a href=\"https://neuromatch.social/@jonny\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jonny</span></a></span> I was asking the same question this morning <a href=\"https://github.com/loomio/loomio/issues/9382\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/loomio/loomio/issue</span><span class=\"invisible\">s/9382</span></a><br>Looking forward to see the answers</p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@jonny",
+        "display_name": "Jonny"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ramsey/uuid/issues/487",
+    "title": "Bad tag for 4.7.2 ? \u00b7 Issue #487 \u00b7 ramsey/uuid",
+    "latest": "2023-01-12T18:49:05+00:00",
+    "first": "2023-01-12T18:49:05+00:00",
+    "last_post": {
+      "url": "https://phpc.social/@ramsey/109677629094062931",
+      "content": "<p>So, while we're on the subject of royally screwing up an open source project...</p><p>Yesterday, I tagged 4.7.2 of ramsey/uuid, but I WAS IN THE WRONG BRANCH!!!</p><p>Ugh. \ud83e\udd26\u200d\u2642\ufe0f \ud83d\ude33 \ud83d\ude2d </p><p>Thanks, <span class=\"h-card\"><a href=\"https://phpc.social/@remi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>remi</span></a></span>, for catching that.</p><p><a href=\"https://github.com/ramsey/uuid/issues/487\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ramsey/uuid/issues/</span><span class=\"invisible\">487</span></a></p><p><a href=\"https://phpc.social/tags/PHP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PHP</span></a> <a href=\"https://phpc.social/tags/UUID\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UUID</span></a> <a href=\"https://phpc.social/tags/OSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OSS</span></a> <a href=\"https://phpc.social/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ctietze",
+        "display_name": "Christian Tietze"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/bshepherdson/athens-export",
     "title": "GitHub - bshepherdson/athens-export: Standalone tool that converts an Athens Research database into a logseq directory",
     "latest": "2023-01-12T18:11:29+00:00",
@@ -3402,37 +3434,5 @@
       }
     ],
     "first": "2023-01-03T13:53:46+00:00"
-  },
-  {
-    "link": "https://github.com/pmndrs/drei#html",
-    "title": "https://github.com/pmndrs/drei#html",
-    "latest": "2023-01-03T13:44:02+00:00",
-    "last_post": {
-      "url": "https://mas.to/@steveruizok/109625569584407209",
-      "content": "<p>RT @CantBeFaraz@twitter.com</p><p>Released drei v9.50.0 with updates to &lt;HTML /&gt;<br>\u2705 Correct Occlusion <br>\u2705 HTML casts/recieves shadows<br>\u2705 Give HTML materials properties <br>\u2705 Works with Bloom and PP <br>\u2705 Fully Opt-in</p><p>Enable by using `occlude=\"blending\"`</p><p>Demo: <a href=\"https://codesandbox.io/s/occluded-html-qrw20v\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codesandbox.io/s/occluded-html</span><span class=\"invisible\">-qrw20v</span></a><br>Docs: <a href=\"https://github.com/pmndrs/drei#html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/pmndrs/drei#html</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/CantBeFaraz/status/1609975262862577665\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/CantBeFaraz/status</span><span class=\"invisible\">/1609975262862577665</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@steveruizok",
-        "display_name": "Steve Ruiz"
-      }
-    ],
-    "first": "2023-01-03T13:44:02+00:00"
-  },
-  {
-    "link": "https://github.com/pymc-devs/pytensor/issues/161",
-    "title": "Add missing numba ops \u00b7 Issue #161 \u00b7 pymc-devs/pytensor",
-    "latest": "2023-01-03T12:55:47+00:00",
-    "last_post": {
-      "url": "https://bayes.club/@pymc/109625303948059906",
-      "content": "<p>We're in the process of adding a new NUTS sampler to PyMC that is written in Rust and hooks into PyTensor's numba backend. The speed-ups are \ud83e\udd2f.<br>However, there are still a few Ops missing to support all PyMC models. We need your help to add them: <a href=\"https://github.com/pymc-devs/pytensor/issues/161\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pymc-devs/pytensor/</span><span class=\"invisible\">issues/161</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://bayes.club/@twiecki",
-        "display_name": "Thomas Wiecki"
-      }
-    ],
-    "first": "2023-01-03T12:55:47+00:00"
   }
 ]
