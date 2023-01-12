@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://github.com/hometown-fork/hometown/issues/1274#issuecomment-1379647384",
+    "title": "Allow optional Markdown and/or ReStructuredText interpolation \u00b7 Issue #1274 \u00b7 hometown-fork/hometown",
+    "latest": "2023-01-12T13:43:32+00:00",
+    "first": "2023-01-12T00:22:12+00:00",
+    "last_post": {
+      "url": "https://friend.camp/@darius/109673377456950391",
+      "content": "<p>I keep getting asked to support writing rich-text-formatted posts in <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> (we already read them just fine). I finally wrote down, in this comment on this Github issue, a short essay outlining all my concerns with doing so:</p><p><a href=\"https://github.com/hometown-fork/hometown/issues/1274#issuecomment-1379647384\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hometown-fork/homet</span><span class=\"invisible\">own/issues/1274#issuecomment-1379647384</span></a></p><p>Some of this is problems with Markdown, while some of this is problems with interoperability regarding any rich text rendering at all.</p>"
+    },
+    "people": [
+      {
+        "url": "https://friend.camp/@darius",
+        "display_name": "Darius Kazemi"
+      },
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2618\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ezyang/expecttest",
+    "title": "GitHub - ezyang/expecttest",
+    "latest": "2023-01-12T12:57:27+00:00",
+    "first": "2023-01-12T12:57:27+00:00",
+    "last_post": {
+      "url": "https://discuss.systems/@yminsky/109676347224703077",
+      "content": "<p>TIL: there's an expect test library in Python (when by the great @ezyang), modeled on Jane Street's expect test system.</p><p><a href=\"https://github.com/ezyang/expecttest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ezyang/expecttest</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://discuss.systems/@yminsky",
+        "display_name": "Yaron Minsky"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/elk-zone/elk",
+    "title": "GitHub - elk-zone/elk: A nimble Mastodon web client",
+    "latest": "2023-01-12T12:27:30+00:00",
+    "first": "2023-01-12T11:14:07+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@elk/109675624059635076",
+      "content": "<p>After two months of the first commit, the <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span> repository is now open to everyone! We're grateful to all the amazing folks that joined during the closed alpha and worked with us to get here. 250+ devs joined the Early Preview team, and 65 of them sent a PR to the repo \ud83d\ude4f</p><p>Get involved! Help us with testing, triaging, providing ideas, and contribute to Elk. Let's build a delightful user experience together :elk:</p><p>With \ud83e\udde1 from the Team: <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@antfu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antfu</span></a></span>, <span class=\"h-card\"><a href=\"https://mastodon.roe.dev/@daniel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daniel</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@sxzz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sxzz</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>patak</span></a></span>, and the Elk contributors: <a href=\"https://github.com/elk-zone/elk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/elk-zone/elk</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Gargron",
+        "display_name": "Eugen Rochko"
+      },
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      },
+      {
+        "url": "https://chaos.social/@janl",
+        "display_name": "Jan Lehnardt \ud83d\udecb\ufe0f"
+      },
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/ngagesdk/wordle",
     "title": "GitHub - ngagesdk/wordle: A portable clone of Wordle designed for the Nokia N-Gage.",
     "latest": "2023-01-12T12:13:09+00:00",
@@ -80,30 +144,6 @@
       {
         "url": "https://mstdn.social/@arnicas",
         "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/elk-zone/elk",
-    "title": "GitHub - elk-zone/elk: A nimble Mastodon web client",
-    "latest": "2023-01-12T09:58:17+00:00",
-    "first": "2023-01-12T11:14:07+00:00",
-    "last_post": {
-      "url": "https://m.webtoo.ls/@elk/109675624059635076",
-      "content": "<p>After two months of the first commit, the <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span> repository is now open to everyone! We're grateful to all the amazing folks that joined during the closed alpha and worked with us to get here. 250+ devs joined the Early Preview team, and 65 of them sent a PR to the repo \ud83d\ude4f</p><p>Get involved! Help us with testing, triaging, providing ideas, and contribute to Elk. Let's build a delightful user experience together :elk:</p><p>With \ud83e\udde1 from the Team: <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@antfu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antfu</span></a></span>, <span class=\"h-card\"><a href=\"https://mastodon.roe.dev/@daniel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daniel</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@sxzz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sxzz</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>patak</span></a></span>, and the Elk contributors: <a href=\"https://github.com/elk-zone/elk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/elk-zone/elk</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Gargron",
-        "display_name": "Eugen Rochko"
-      },
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      },
-      {
-        "url": "https://chaos.social/@janl",
-        "display_name": "Jan Lehnardt \ud83d\udecb\ufe0f"
       }
     ]
   },
@@ -204,22 +244,6 @@
       {
         "url": "https://front-end.social/@jensimmons",
         "display_name": "Jen Simmons"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hometown-fork/hometown/issues/1274#issuecomment-1379647384",
-    "title": "Allow optional Markdown and/or ReStructuredText interpolation \u00b7 Issue #1274 \u00b7 hometown-fork/hometown",
-    "latest": "2023-01-12T00:22:12+00:00",
-    "first": "2023-01-12T00:22:12+00:00",
-    "last_post": {
-      "url": "https://friend.camp/@darius/109673377456950391",
-      "content": "<p>I keep getting asked to support writing rich-text-formatted posts in <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> (we already read them just fine). I finally wrote down, in this comment on this Github issue, a short essay outlining all my concerns with doing so:</p><p><a href=\"https://github.com/hometown-fork/hometown/issues/1274#issuecomment-1379647384\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hometown-fork/homet</span><span class=\"invisible\">own/issues/1274#issuecomment-1379647384</span></a></p><p>Some of this is problems with Markdown, while some of this is problems with interoperability regarding any rich text rendering at all.</p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
       }
     ]
   },
@@ -3406,21 +3430,5 @@
       }
     ],
     "first": "2023-01-03T03:38:47+00:00"
-  },
-  {
-    "link": "https://github.com/facebookresearch/ConvNeXt-V2",
-    "title": "github.com/facebookresearch/Co...",
-    "latest": "2023-01-03T03:35:12+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@akhaliq/109622877050467864",
-      "content": "<p>ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders<br>abs: <a href=\"https://arxiv.org/abs/2301.00808\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.00808</span><span class=\"invisible\"></span></a> <br>github: <a href=\"https://github.com/facebookresearch/ConvNeXt-V2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/Co</span><span class=\"invisible\">nvNeXt-V2</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
-      }
-    ],
-    "first": "2023-01-03T03:35:12+00:00"
   }
 ]
