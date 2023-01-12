@@ -1,5 +1,57 @@
 [
   {
+    "link": "https://github.com/eramdam/tokimeki-mastodon",
+    "title": "github.com/eramdam/tokimeki-ma...",
+    "latest": "2023-01-12T05:37:53+00:00",
+    "first": "2023-01-10T18:31:53+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@Eramdam/109663455265127820",
+      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      },
+      {
+        "url": "https://vis.social/@Luca",
+        "display_name": "Luca Hammer"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jerryjliu/gpt_index",
+    "title": "GitHub - jerryjliu/gpt_index: An index created by GPT to organize external information and answer queries!",
+    "latest": "2023-01-12T03:19:25+00:00",
+    "first": "2023-01-12T03:19:25+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@danbri/109674074322402925",
+      "content": "<p><a href=\"https://github.com/jerryjliu/gpt_index\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jerryjliu/gpt_index</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@danbri",
+        "display_name": "danbri"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/google/belief-localization",
+    "title": "github.com/google/belief-local...",
+    "latest": "2023-01-12T03:17:59+00:00",
+    "first": "2023-01-12T03:17:59+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@akhaliq/109673693172406930",
+      "content": "<p>Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models <br>abs: <a href=\"https://arxiv.org/abs/2301.04213\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.04213</span><span class=\"invisible\"></span></a> <br>github: <a href=\"https://github.com/google/belief-localization\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/google/belief-local</span><span class=\"invisible\">ization</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@lucidrains",
+        "display_name": "Ice Cream"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/w3c/mlreq/issues/30#issuecomment-1379093581",
     "title": "Todo hyphen \u00b7 Issue #30 \u00b7 w3c/mlreq",
     "latest": "2023-01-12T01:16:13+00:00",
@@ -496,22 +548,6 @@
       {
         "url": "https://fosstodon.org/@fgazzelloni",
         "display_name": "Federica Gazzelloni"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/eramdam/tokimeki-mastodon",
-    "title": "github.com/eramdam/tokimeki-ma...",
-    "latest": "2023-01-10T18:31:53+00:00",
-    "first": "2023-01-10T18:31:53+00:00",
-    "last_post": {
-      "url": "https://octodon.social/@Eramdam/109663455265127820",
-      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
       }
     ]
   },
@@ -3378,37 +3414,5 @@
       }
     ],
     "first": "2023-01-02T23:21:29+00:00"
-  },
-  {
-    "link": "https://github.com/bvaughn/react-resizable-panels/commit/7a81c3977e546467178e799031fca830fc5a3928",
-    "title": "Add container query to collapsible demo \u00b7 bvaughn/react-resizable-panels@7a81c39",
-    "latest": "2023-01-02T22:33:33+00:00",
-    "last_post": {
-      "url": "https://mas.to/@bvaughn/109621989435506429",
-      "content": "<p>\u269b\ufe0f Can't find the tweet, but someone asked if react-resizable-panels could show different content at different sizes.<br>This commit that shows two ways to do this (data attribute and container query):<br><a href=\"https://github.com/bvaughn/react-resizable-panels/commit/7a81c3977e546467178e799031fca830fc5a3928\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bvaughn/react-resiz</span><span class=\"invisible\">able-panels/commit/7a81c3977e546467178e799031fca830fc5a3928</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@bvaughn",
-        "display_name": "Brian Vaughn"
-      }
-    ],
-    "first": "2023-01-02T22:33:33+00:00"
-  },
-  {
-    "link": "https://gist.github.com/nicklockwood/ff51117ac8139248507ecc84a1ed7fed",
-    "title": "PolymorphicCoding.swift ",
-    "latest": "2023-01-02T21:45:43+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@nicklockwood/109609829731772644",
-      "content": "<p>I learned something new about Swift's Codable protocol today that I wish I'd known years ago.</p><p>You can open multiple different containers on the same en/decoder instance in order to read/write different subsets of the data.</p><p>That means you can compose a single output dictionary from multiple source objects, instead of having serialization-specific fields in your model objects, or creating intermediate types purely for the purposes of serialization.</p><p>Here's an example: <a href=\"https://gist.github.com/nicklockwood/ff51117ac8139248507ecc84a1ed7fed\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/nicklockwood/f</span><span class=\"invisible\">f51117ac8139248507ecc84a1ed7fed</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ctietze",
-        "display_name": "Christian Tietze"
-      }
-    ],
-    "first": "2023-01-02T21:45:43+00:00"
   }
 ]
