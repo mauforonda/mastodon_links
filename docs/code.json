@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-12_Tessellation",
+    "title": "github.com/paezha/genuary2023/...",
+    "latest": "2023-01-13T02:04:14+00:00",
+    "first": "2023-01-13T02:04:14+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@paezha/109679196409590710",
+      "content": "<p><a href=\"https://mastodon.online/tags/genuary12\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genuary12</span></a> <a href=\"https://mastodon.online/tags/Genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary</span></a> </p><p>This is a homage to <span class=\"h-card\"><a href=\"https://fosstodon.org/@terence\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>terence</span></a></span> whose shattered tessellations I've long admired:</p><p><a href=\"https://twitter.com/researchremora/status/1473134507918245894\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/researchremora/sta</span><span class=\"invisible\">tus/1473134507918245894</span></a></p><p><a href=\"https://twitter.com/researchremora/status/1470505155120480258\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/researchremora/sta</span><span class=\"invisible\">tus/1470505155120480258</span></a></p><p>I haven't figured out how he creates the cracks. Here, I borrowed an L-system from A. Sanchez Chinchon to smash a Voronoi tessellation.</p><p>Coded in <a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> using <a href=\"https://mastodon.online/tags/SimpleFeatures\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SimpleFeatures</span></a> and <a href=\"https://mastodon.online/tags/rayverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayverse</span></a> </p><p><a href=\"https://github.com/paezha/genuary2023/tree/master/2022-01-12_Tessellation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paezha/genuary2023/</span><span class=\"invisible\">tree/master/2022-01-12_Tessellation</span></a> </p><p><span class=\"h-card\"><a href=\"https://fosstodon.org/@tylermorganwall\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tylermorganwall</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jacquietran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jacquietran</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@meghansharris\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meghansharris</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@terence",
+        "display_name": "terence"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/socketsupply/socket-repl",
     "title": "GitHub - socketsupply/socket-repl: A JavaScript REPL interface for the Socket Runtime",
     "latest": "2023-01-13T00:10:12+00:00",
@@ -3390,25 +3406,5 @@
       }
     ],
     "first": "2023-01-03T19:26:18+00:00"
-  },
-  {
-    "link": "https://github.com/hometown-fork/hometown/releases/tag/v4.0.2%2Bhometown-1.1.0",
-    "title": "Release Hometown v1.1.0 (Mastodon 4.0.2) \u00b7 hometown-fork/hometown",
-    "latest": "2023-01-03T18:33:03+00:00",
-    "last_post": {
-      "url": "https://friend.camp/@darius/109626615702163766",
-      "content": "<p>Okay, <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> v1.1.0 is now released!</p><p>Massive release notes here:</p><p><a href=\"https://github.com/hometown-fork/hometown/releases/tag/v4.0.2%2Bhometown-1.1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hometown-fork/homet</span><span class=\"invisible\">own/releases/tag/v4.0.2%2Bhometown-1.1.0</span></a></p><p>Admins, please let me know if you run into trouble on the upgrade. This is a tricky one, mostly due to Mastodon v3 -&gt; v4 stuff. You'll get a lot of mileage searching the Mastodon issues repo for production errors you run into on the upgrade.</p><p>I'll repeat what I said on the release notes: if your installation is customized in any way (sidekiq setup, etc) you NEED to be careful.</p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      },
-      {
-        "url": "https://friend.camp/@aparrish",
-        "display_name": "allison"
-      }
-    ],
-    "first": "2023-01-03T18:33:03+00:00"
   }
 ]
