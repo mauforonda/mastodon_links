@@ -1,5 +1,85 @@
 [
   {
+    "link": "https://github.com/aws-samples/aws-net-guides/tree/master/Serverless/Serverless%20App%20with%20Dynamic%20Step%20Functions",
+    "title": "aws-net-guides/Serverless/Serverless App with Dynamic Step Functions at master \u00b7 aws-samples/aws-net-guides",
+    "latest": "2023-01-13T17:30:54+00:00",
+    "first": "2023-01-13T17:30:54+00:00",
+    "last_post": {
+      "url": "https://awscommunity.social/@jeffbarr/109683084798482859",
+      "content": "<p>Cool Serverless AWS . NET Sample: </p><p>comparefaces - The purpose and narrative of this .NET sample app on <a href=\"https://awscommunity.social/tags/AWS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AWS</span></a>, is to demonstrate how we can compare an photo image against several other photos images. </p><p><a href=\"https://github.com/aws-samples/aws-net-guides/tree/master/Serverless/Serverless%20App%20with%20Dynamic%20Step%20Functions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/aws-samples/aws-net</span><span class=\"invisible\">-guides/tree/master/Serverless/Serverless%20App%20with%20Dynamic%20Step%20Functions</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://awscommunity.social/@jeffbarr",
+        "display_name": "Jeff Barr"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rotki/rotki/releases",
+    "title": "Releases \u00b7 rotki/rotki",
+    "latest": "2023-01-13T16:57:34+00:00",
+    "last_post": {
+      "url": "https://cryptodon.lol/@lefteris/109682953693855359",
+      "content": "<p>\ud83d\udc26With @rotkiapp you can get graphs of your net worth per asset and how that's been evolving through time in terms of amount owned and value in fiat</p><p>$KSM example in screenshot</p><p>\u23ecTry it: <a href=\"https://github.com/rotki/rotki/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rotki/rotki/release</span><span class=\"invisible\">s</span></a><br>\ud83d\udcc8Buy premium, unlock limits and support us: <a href=\"https://rotki.com/products\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">rotki.com/products</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://cryptodon.lol/@lefteris",
+        "display_name": "lefterisjp"
+      }
+    ],
+    "first": "2022-12-30T19:28:07+00:00"
+  },
+  {
+    "link": "https://github.com/bvaughn/react-resizable-panels/pull/83",
+    "title": "e2e test cleanup by bvaughn \u00b7 Pull Request #83 \u00b7 bvaughn/react-resizable-panels",
+    "latest": "2023-01-13T15:44:21+00:00",
+    "first": "2023-01-13T15:44:21+00:00",
+    "last_post": {
+      "url": "https://mas.to/@bvaughn/109682665802637050",
+      "content": "<p>\u269b\ufe0f Took the e2e testing idea I had a bit further and cleaned up the rest of my e2e tests to use the dynamic route I wrote for testing purposes. Pretty powerful/flexible approach.</p><p><a href=\"https://github.com/bvaughn/react-resizable-panels/pull/83\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bvaughn/react-resiz</span><span class=\"invisible\">able-panels/pull/83</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@bvaughn",
+        "display_name": "Brian Vaughn"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/MilesCranmer/pysr_interactive",
+    "title": "GitHub - MilesCranmer/pysr_interactive: Experiments in creating a PySR web app",
+    "latest": "2023-01-13T15:44:18+00:00",
+    "first": "2023-01-13T15:44:18+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MilesCranmer/109682665611108320",
+      "content": "<p>Source code: <a href=\"https://github.com/MilesCranmer/pysr_interactive\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MilesCranmer/pysr_i</span><span class=\"invisible\">nteractive</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MilesCranmer",
+        "display_name": "Miles Cranmer"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rmcelreath/stat_rethinking_2023#calendar--topical-outline",
+    "title": "GitHub - rmcelreath/stat_rethinking_2023: Statistical Rethinking Course for Jan-Mar 2023",
+    "latest": "2023-01-13T15:18:54+00:00",
+    "first": "2023-01-13T15:18:54+00:00",
+    "last_post": {
+      "url": "https://nerdculture.de/@rlmcelreath/109682565741405049",
+      "content": "<p>Week 2 of Statistical Rethinking 2023 is done. This week focused on using linear models to answer simple causal questions in absence of confounding. Next week we tour Confound City. <a href=\"https://github.com/rmcelreath/stat_rethinking_2023#calendar--topical-outline\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rmcelreath/stat_ret</span><span class=\"invisible\">hinking_2023#calendar--topical-outline</span></a></p><p>No new memes in the lectures this week, so here's one I made just for you. Happy weekend.</p>"
+    },
+    "people": [
+      {
+        "url": "https://nerdculture.de/@rlmcelreath",
+        "display_name": "Richard McElreath \ud83e\udd94"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/bitcoin/bitcoin/pull/26691",
     "title": "Update secp256k1 subtree to libsecp256k1 version 0.2.0 by sipa \u00b7 Pull Request #26691 \u00b7 bitcoin/bitcoin",
     "latest": "2023-01-13T14:14:18+00:00",
@@ -3334,85 +3414,5 @@
       }
     ],
     "first": "2023-01-04T11:10:16+00:00"
-  },
-  {
-    "link": "https://observablehq.com/@neocartocnrs/clementines",
-    "title": "How many wedges are there in clementines?",
-    "latest": "2023-01-04T10:40:15+00:00",
-    "last_post": {
-      "url": "https://vis.social/@neocarto/109630509232101273",
-      "content": "<p>Find here a scientific question of the highest importance. How many segments do the clementines we ate at Christmas have? An funny study based on an idea by Cecile Duflot 's niece\ud83d\ude01<br><span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> <a href=\"https://observablehq.com/@neocartocnrs/clementines\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/clementines</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@neocarto",
-        "display_name": "Nicolas Lambert \ud83c\udf0f"
-      }
-    ],
-    "first": "2023-01-04T10:40:15+00:00"
-  },
-  {
-    "link": "https://gist.github.com/cutiful/4f36da3ed37b24f9a7106064393f5e7f",
-    "title": "Detecting the real IP of a Cloudflare'd Mastodon instance",
-    "latest": "2023-01-04T07:26:46+00:00",
-    "last_post": {
-      "url": "https://puddle.town/@null/109629335585309558",
-      "content": "<p>It's trivial to determine the real IP of a Mastodon server behind Cloudflare. All it takes is one well-crafted request:</p><p><a href=\"https://gist.github.com/cutiful/4f36da3ed37b24f9a7106064393f5e7f\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/cutiful/4f36da</span><span class=\"invisible\">3ed37b24f9a7106064393f5e7f</span></a></p><p>I wonder how many instance admins using Cloudflare know about this? My hunch is most do not, because the primary justification I see for using Cloudflare here is DDoS protection.</p><p>Cloudflare won't help if the attacker knows your origin IP, and you can't hide that with Cloudflare alone, due to the nature of ActivityPub.</p><p><a href=\"https://puddle.town/tags/MastoAdmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoAdmin</span></a> <a href=\"https://puddle.town/tags/InfoSec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>InfoSec</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://infosec.exchange/@thegrugq",
-        "display_name": "the grugq"
-      }
-    ],
-    "first": "2023-01-04T07:26:46+00:00"
-  },
-  {
-    "link": "https://gist.github.com/jackrusher/6722751",
-    "title": "gist.github.com/jackrusher/672...",
-    "latest": "2023-01-04T05:03:05+00:00",
-    "last_post": {
-      "url": "https://berlin.social/@jack/109626697921333639",
-      "content": "<p>Hooked up a custom Streamdeck interface to manipulate the Superformula, which is Johan Gielis' generalization of Piet Hein's superellipse.</p><p>Details:<br><a href=\"https://en.m.wikipedia.org/wiki/Superformula\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.m.wikipedia.org/wiki/Superf</span><span class=\"invisible\">ormula</span></a><br>... and a gist showing how to calculate it in Clojure:<br><a href=\"https://gist.github.com/jackrusher/6722751\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/jackrusher/672</span><span class=\"invisible\">2751</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://pkm.social/@just_be",
-        "display_name": "Justin"
-      }
-    ],
-    "first": "2023-01-04T05:03:05+00:00"
-  },
-  {
-    "link": "https://github.com/go-gitea/gitea/issues/18240",
-    "title": "Gitea2Gitea Federation State \u00b7 Issue #18240 \u00b7 go-gitea/gitea",
-    "latest": "2023-01-04T04:55:36+00:00",
-    "last_post": {
-      "url": "https://social.bitfolk.com/@grifferz/109629122486453772",
-      "content": "<p>Interested to read there are efforts to federate bug trackers so that</p><p>- they can be decentralised;<br>- you could report and comment on bugs between multiple projects without having to do it in X different ways;<br>- you don't have to maintain X different identities (username/pass/MFA) to do so, </p><p>etc.</p><p><a href=\"https://social.bitfolk.com/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> <a href=\"https://social.bitfolk.com/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> </p><p><a href=\"https://github.com/go-gitea/gitea/issues/18240\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/go-gitea/gitea/issu</span><span class=\"invisible\">es/18240</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      }
-    ],
-    "first": "2023-01-04T04:55:36+00:00"
-  },
-  {
-    "link": "https://github.com/anticomputer/ovpn-mode/",
-    "title": "GitHub - anticomputer/ovpn-mode: OpenVPN management mode for Emacs",
-    "latest": "2023-01-04T03:19:12+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@anticomputer/109628774991532288",
-      "content": "<p>K next on the \"rid myself of overcomplicated crypto\" list is rewriting my old openvpn namespace management mode to support wireguard ... I wrote <a href=\"https://github.com/anticomputer/ovpn-mode/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anticomputer/ovpn-m</span><span class=\"invisible\">ode/</span></a> to be able to spawn processes inside namespaced openvpn connections from Emacs and I depend on it quite heavily for segmenting certain kinds of application traffic ... *cough* rtorrent *cough* ... I used to also depend on it for stuff like \"only THIS browser process can talk to work services\" so its pretty handy but quite stale</p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
-      }
-    ],
-    "first": "2023-01-04T03:19:12+00:00"
   }
 ]
