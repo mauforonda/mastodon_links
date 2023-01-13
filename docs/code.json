@@ -1,5 +1,57 @@
 [
   {
+    "link": "https://github.com/cloudflare/wildebeest/",
+    "title": "GitHub - cloudflare/wildebeest: Wildebeest is an ActivityPub and Mastodon-compatible server",
+    "latest": "2023-01-13T05:14:24+00:00",
+    "first": "2023-01-13T05:14:24+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@joschi/109676483166973603",
+      "content": "<p>Wildebeest: <a href=\"https://github.com/cloudflare/wildebeest/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudflare/wildebee</span><span class=\"invisible\">st/</span></a></p><p><a href=\"https://mastodon.social/tags/Cloudflare\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Cloudflare</span></a> created an <a href=\"https://mastodon.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a>/#Mastodon-compatible server running on their platform. Some people cry wolf but I think it's interesting as a tech demo of what's possible on their platform.</p><p>Now waiting for <a href=\"https://mastodon.social/tags/AWS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AWS</span></a> to follow suit. \ud83d\ude09</p><p>People on the <a href=\"https://mastodon.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> are concerned this could mean an \"Embrace, extend, and extinguish\" (EEE) move on their side, but I see a reduced risk in this if _a lot of big players_ are joining and keep up the competition. \ud83d\ude09</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ummjackson",
+        "display_name": "Jackson Palmer"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/akkartik/mu",
+    "title": "GitHub - akkartik/mu: Soul of a tiny new machine. More thorough tests \u2192 More comprehensible and rewrite-friendly software \u2192 More resilient society.",
+    "latest": "2023-01-13T05:09:03+00:00",
+    "first": "2023-01-13T05:09:03+00:00",
+    "last_post": {
+      "url": "https://recurse.social/@bert/109680017782484096",
+      "content": "<p>The Art of Computer Programming is written in an imaginary assembly language (MIX). I think it\u2019d be kind of artful to try and implement it in <span class=\"h-card\"><a href=\"https://merveilles.town/@akkartik\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>akkartik</span></a></span> \u2019s Mu or SubX</p><p><a href=\"https://github.com/akkartik/mu\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/akkartik/mu</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@akkartik",
+        "display_name": "Kartik Agaram"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cloudflare/wildebeest",
+    "title": "GitHub - cloudflare/wildebeest: Wildebeest is an ActivityPub and Mastodon-compatible server",
+    "latest": "2023-01-13T03:37:38+00:00",
+    "first": "2023-01-13T05:41:19+00:00",
+    "last_post": {
+      "url": "https://prodromou.pub/@evan/109679722715761507",
+      "content": "<p>This looks so cool.</p><p><a href=\"https://github.com/cloudflare/wildebeest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudflare/wildebee</span><span class=\"invisible\">st</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ummjackson",
+        "display_name": "Jackson Palmer"
+      },
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2618\ufe0f"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-12_Tessellation",
     "title": "github.com/paezha/genuary2023/...",
     "latest": "2023-01-13T02:04:14+00:00",
@@ -3358,53 +3410,5 @@
       }
     ],
     "first": "2023-01-03T20:22:01+00:00"
-  },
-  {
-    "link": "https://github.com/fwupd/fwupd/releases/tag/1.8.9",
-    "title": "Release 1.8.9 \u00b7 fwupd/fwupd",
-    "latest": "2023-01-03T19:59:57+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hughsie/109625296073998260",
-      "content": "<p>I've just tagged <a href=\"https://mastodon.social/tags/fwupd\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fwupd</span></a> 1.8.9 with the usual smattering of bugfixes and enhancement, including lots of new hardware support: <a href=\"https://github.com/fwupd/fwupd/releases/tag/1.8.9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/fwupd/fwupd/release</span><span class=\"invisible\">s/tag/1.8.9</span></a></p><p>I've also included quite a bit of profiling work too, so the new release is actually faster to start, smaller on-disk and using less resident RSS even with the additional two new plugins added.</p>"
-    },
-    "people": [
-      {
-        "url": "https://sre.masto.host/@jinxos",
-        "display_name": "Dimitrios Psychogios"
-      }
-    ],
-    "first": "2023-01-03T19:59:57+00:00"
-  },
-  {
-    "link": "https://github.com/jeremiak/noaa-cpc-map-scraper",
-    "title": "GitHub - jeremiak/noaa-cpc-map-scraper: Archive of map images from NOAA's Climate Prediction Center",
-    "latest": "2023-01-03T19:44:42+00:00",
-    "last_post": {
-      "url": "https://journa.host/@jeremiak/109626987816530701",
-      "content": "<p>More <a href=\"https://journa.host/tags/rain\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rain</span></a> in the forecast with tons of talk about how wet the ground inspired this quick animation I made of every day's calculated soil <a href=\"https://journa.host/tags/moisture\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>moisture</span></a> image published by <a href=\"https://journa.host/tags/NOAA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NOAA</span></a></p><p>_Finally_ this scraper is useful!</p><p><a href=\"https://github.com/jeremiak/noaa-cpc-map-scraper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jeremiak/noaa-cpc-m</span><span class=\"invisible\">ap-scraper</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://journa.host/@jeremiak",
-        "display_name": "Jeremia Kimelman"
-      }
-    ],
-    "first": "2023-01-03T19:44:42+00:00"
-  },
-  {
-    "link": "https://github.com/web-padawan/webcomponents.today",
-    "title": "GitHub - web-padawan/webcomponents.today: A curated collection of Web Components resources.",
-    "latest": "2023-01-03T19:26:18+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@kulykov/109587049191271986",
-      "content": "<p>\ud83d\udce2 The webcomponents.today is now <a href=\"https://fosstodon.org/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a>! \ud83c\udf89 </p><p>- A good old static website built with <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>eleventy</span></a></span> \u26a1 <br>- Only <a href=\"https://fosstodon.org/tags/html\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>html</span></a> and <a href=\"https://fosstodon.org/tags/css\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>css</span></a> so far, no <a href=\"https://fosstodon.org/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a> \ud83d\ude0e </p><p>Using <a href=\"https://fosstodon.org/tags/WebComponents\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WebComponents</span></a>, <a href=\"https://fosstodon.org/tags/CustomElements\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CustomElements</span></a> and <a href=\"https://fosstodon.org/tags/ShadowDOM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ShadowDOM</span></a>?<br>Do check it out! PRs are welcome! \u270d\ufe0f </p><p>Please <a href=\"https://fosstodon.org/tags/boost\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>boost</span></a> for more visibility \ud83d\ude4f  and give it a star on <a href=\"https://fosstodon.org/tags/GitHub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GitHub</span></a>! \u2b50 </p><p><a href=\"https://github.com/web-padawan/webcomponents.today\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/web-padawan/webcomp</span><span class=\"invisible\">onents.today</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
-      }
-    ],
-    "first": "2023-01-03T19:26:18+00:00"
   }
 ]
