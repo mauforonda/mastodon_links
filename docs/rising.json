@@ -1,89 +1,33 @@
 [
   {
-    "link": "https://en.wikipedia.org/wiki/J._Robert_Atkinson",
-    "title": "J. Robert Atkinson - Wikipedia",
-    "latest": "2023-01-13T15:31:04+00:00",
-    "first": "2023-01-12T19:11:45+00:00",
+    "link": "https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/",
+    "title": "Examples of floating point problems",
+    "latest": "2023-01-13T18:26:42.600000+00:00",
+    "first": "2023-01-13T14:48:01+00:00",
     "last_post": {
-      "url": "https://mastodon.online/@hildabast/109668740975613049",
-      "content": "<p>This is fascinating! The Braille Institute has developed a font - free to download - that's designed to be clearer for readers with lower vision.</p><p>An example of one of the aspects of low legibility that they tackled attached.</p><p>It's named Atkinson Hyperlegible. Atkinson was the Institute's founder - <a href=\"https://en.wikipedia.org/wiki/J._Robert_Atkinson\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/J._Rober</span><span class=\"invisible\">t_Atkinson</span></a></p><p>Here's where you can read about the font and download it: <a href=\"https://brailleinstitute.org/freefont\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">brailleinstitute.org/freefont</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.online/tags/Accessibility\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Accessibility</span></a> </p><p>Via <span class=\"h-card\"><a href=\"https://voidwood.online/@tombofnull\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tombofnull</span></a></span></p>"
+      "url": "https://mastodon.social/@b0rk/109682444323226969",
+      "content": "<p>examples of floating point problems <a href=\"https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jvns.ca/blog/2023/01/13/exampl</span><span class=\"invisible\">es-of-floating-point-problems/</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@zsteinmetz",
-        "display_name": "Zacharias Steinmetz"
+        "url": "https://mastodon.social/@b0rk",
+        "display_name": "Julia Evans"
       },
       {
-        "url": "https://vis.social/@maarten",
-        "display_name": "Maarten Lambrechts"
+        "url": "https://mastodon.gamedev.place/@aras",
+        "display_name": "Aras Pranckevi\u010dius"
       },
       {
-        "url": "https://fosstodon.org/@smach",
-        "display_name": "Sharon Machlis"
+        "url": "https://mastodon.social/@Migueldeicaza",
+        "display_name": "Miguel de Icaza"
       },
       {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
       },
       {
-        "url": "https://hachyderm.io/@devdevcharlie",
-        "display_name": "Charlie Gerard"
-      },
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
-      },
-      {
-        "url": "https://xoxo.zone/@lauraehall",
-        "display_name": "Laura E. Hall"
-      },
-      {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
-      }
-    ]
-  },
-  {
-    "link": "https://brailleinstitute.org/freefont",
-    "title": "https://brailleinstitute.org/freefont",
-    "latest": "2023-01-13T15:31:04+00:00",
-    "first": "2023-01-12T19:11:45+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@hildabast/109668740975613049",
-      "content": "<p>This is fascinating! The Braille Institute has developed a font - free to download - that's designed to be clearer for readers with lower vision.</p><p>An example of one of the aspects of low legibility that they tackled attached.</p><p>It's named Atkinson Hyperlegible. Atkinson was the Institute's founder - <a href=\"https://en.wikipedia.org/wiki/J._Robert_Atkinson\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/J._Rober</span><span class=\"invisible\">t_Atkinson</span></a></p><p>Here's where you can read about the font and download it: <a href=\"https://brailleinstitute.org/freefont\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">brailleinstitute.org/freefont</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.online/tags/Accessibility\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Accessibility</span></a> </p><p>Via <span class=\"h-card\"><a href=\"https://voidwood.online/@tombofnull\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tombofnull</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@zsteinmetz",
-        "display_name": "Zacharias Steinmetz"
-      },
-      {
-        "url": "https://vis.social/@maarten",
-        "display_name": "Maarten Lambrechts"
-      },
-      {
-        "url": "https://fosstodon.org/@smach",
-        "display_name": "Sharon Machlis"
-      },
-      {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
-      },
-      {
-        "url": "https://hachyderm.io/@devdevcharlie",
-        "display_name": "Charlie Gerard"
-      },
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
-      },
-      {
-        "url": "https://xoxo.zone/@lauraehall",
-        "display_name": "Laura E. Hall"
-      },
-      {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
+        "url": "https://hachyderm.io/@nedbat",
+        "display_name": "Ned Batchelder"
       }
     ]
   },
@@ -172,34 +116,6 @@
     ]
   },
   {
-    "link": "https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/",
-    "title": "Examples of floating point problems",
-    "latest": "2023-01-13T15:20:37+00:00",
-    "first": "2023-01-13T14:48:01+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@b0rk/109682444323226969",
-      "content": "<p>examples of floating point problems <a href=\"https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jvns.ca/blog/2023/01/13/exampl</span><span class=\"invisible\">es-of-floating-point-problems/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@b0rk",
-        "display_name": "Julia Evans"
-      },
-      {
-        "url": "https://mastodon.gamedev.place/@aras",
-        "display_name": "Aras Pranckevi\u010dius"
-      },
-      {
-        "url": "https://mastodon.social/@Migueldeicaza",
-        "display_name": "Miguel de Icaza"
-      },
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      }
-    ]
-  },
-  {
     "link": "https://brave.com/tor-bridges/",
     "title": "Brave Adds Support for Bridges in Private Windows with Tor | Brave Browser",
     "latest": "2023-01-13T02:40:38+00:00",
@@ -224,182 +140,50 @@
     ]
   },
   {
-    "link": "https://clivethompson.medium.com/list/writing-hacks-614c44bed913",
-    "title": "clivethompson.medium.com/list/...",
-    "latest": "2023-01-12T19:44:48+00:00",
-    "first": "2023-01-12T18:13:31+00:00",
+    "link": "https://slideslive.com/neurips-2022",
+    "title": "NeurIPS 2022",
+    "latest": "2023-01-13T19:16:04+00:00",
+    "first": "2023-01-13T11:31:11+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@jonkeegan/109677590061332269",
-      "content": "<p>Ahhh! There are so many good writing / researching tips here in this collection of posts by <span class=\"h-card\"><a href=\"https://saturation.social/@clive\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>clive</span></a></span> <a href=\"https://clivethompson.medium.com/list/writing-hacks-614c44bed913\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clivethompson.medium.com/list/</span><span class=\"invisible\">writing-hacks-614c44bed913</span></a></p>"
+      "url": "https://mastodon.social/@NeuripsConf/109681549790622472",
+      "content": "<p>You can now watch the recorded material from <a href=\"https://mastodon.social/tags/NeurIPS2022\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeurIPS2022</span></a> online without registration at:</p><p><a href=\"https://slideslive.com/neurips-2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">slideslive.com/neurips-2022</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
+        "url": "https://jawns.club/@vicki",
+        "display_name": "Vicki Boykis"
       },
       {
-        "url": "https://saturation.social/@clive",
-        "display_name": "Clive Thompson"
+        "url": "https://mastodon.social/@rbhar90",
+        "display_name": "Bharath"
+      },
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
       }
     ]
   },
   {
-    "link": "https://blog.medium.com/medium-embraces-mastodon-19dcb873eb11",
-    "title": "Medium embraces Mastodon - 3 Min Read",
-    "latest": "2023-01-12T18:29:02+00:00",
-    "first": "2023-01-12T20:15:56+00:00",
+    "link": "https://dhdebates.gc.cuny.edu/projects/global-debates-in-the-digital-humanities",
+    "title": "Global Debates in the Digital Humanities | Debates in the Digital Humanities",
+    "latest": "2023-01-13T19:57:42+00:00",
+    "first": "2023-01-13T17:40:56+00:00",
     "last_post": {
-      "url": "https://mastodon.online/@mastodonmigration/109677435247383619",
-      "content": "<p>Let's just step back and take stock of how phenomenal it is that <span class=\"h-card\"><a href=\"https://me.dm/@medium\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>medium</span></a></span> has created the me.dm instance, for their users on Mastodon (<a href=\"https://blog.medium.com/medium-embraces-mastodon-19dcb873eb11\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.medium.com/medium-embrace</span><span class=\"invisible\">s-mastodon-19dcb873eb11</span></a>).</p><p>Medium is a commercial online publishing platform. Rather than see Mastodon as competition, Medium is offering their users me.dm, a Mastodon instance, as a benefit. Something which will make Medium more attractive.</p><p>Mastodon is a now a Medium feature.</p><p>This is new and revolutionary.</p><p><a href=\"https://mastodon.online/tags/twittermigration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>twittermigration</span></a></p>"
+      "url": "https://fedihum.org/@alizhorvathaliz/109682658063197746",
+      "content": "<p>Our edited volume, Global Debates in the <a href=\"https://fedihum.org/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a>  is now available open access on Manifold Scholar</p><p><a href=\"https://dhdebates.gc.cuny.edu/projects/global-debates-in-the-digital-humanities\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dhdebates.gc.cuny.edu/projects</span><span class=\"invisible\">/global-debates-in-the-digital-humanities</span></a></p><p>The volume is part of the Debates in the Digital Humanities series from University of Minnesota Press. A free account also allows readers to annotate and highlight the volume publicly or privately, and they can also use reading groups to annotate collaboratively. <a href=\"https://fedihum.org/tags/dh\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dh</span></a> <a href=\"https://fedihum.org/tags/multilingualdh\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>multilingualdh</span></a> <a href=\"https://fedihum.org/tags/multilingal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>multilingal</span></a> <a href=\"https://fedihum.org/tags/global\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>global</span></a> <a href=\"https://fedihum.org/tags/digitalhistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digitalhistory</span></a></p>"
     },
     "people": [
       {
-        "url": "https://econtwitter.net/@TradingPlacesResearch",
-        "display_name": "Trading Places Research"
+        "url": "https://mstdn.social/@quinnanya",
+        "display_name": "Quinn Dombrowski"
       },
       {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      }
-    ]
-  },
-  {
-    "link": "https://www.annualreviews.org/page/top-2022",
-    "title": "annualreviews.org/page/top-202...",
-    "latest": "2023-01-12T20:48:25+00:00",
-    "first": "2023-01-12T19:43:50+00:00",
-    "last_post": {
-      "url": "https://nerdculture.de/@briannosek/109677945210655398",
-      "content": "<p>Our Annual Review piece \"Replicability, Robustness, and Reproducibility in Psychological Science\" was the 4th most downloaded article across Annual Review journals in 2022 (<a href=\"https://www.annualreviews.org/page/top-2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">annualreviews.org/page/top-202</span><span class=\"invisible\">2</span></a>).</p><p>Because of that, they have made the formatted version openly accessible for a limited time (<a href=\"https://www.annualreviews.org/doi/10.1146/annurev-psych-020821-114157\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">annualreviews.org/doi/10.1146/</span><span class=\"invisible\">annurev-psych-020821-114157</span></a>).</p><p>And, the Green OA version is always open: <a href=\"https://psyarxiv.com/ksfvq/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">psyarxiv.com/ksfvq/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://nerdculture.de/@briannosek",
-        "display_name": "Brian Nosek"
-      },
-      {
-        "url": "https://sciences.social/@per",
-        "display_name": "Per Engzell"
-      }
-    ]
-  },
-  {
-    "link": "https://www.annualreviews.org/doi/10.1146/annurev-psych-020821-114157",
-    "title": "annualreviews.org/doi/10.1146/...",
-    "latest": "2023-01-12T20:48:25+00:00",
-    "first": "2023-01-12T19:43:50+00:00",
-    "last_post": {
-      "url": "https://nerdculture.de/@briannosek/109677945210655398",
-      "content": "<p>Our Annual Review piece \"Replicability, Robustness, and Reproducibility in Psychological Science\" was the 4th most downloaded article across Annual Review journals in 2022 (<a href=\"https://www.annualreviews.org/page/top-2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">annualreviews.org/page/top-202</span><span class=\"invisible\">2</span></a>).</p><p>Because of that, they have made the formatted version openly accessible for a limited time (<a href=\"https://www.annualreviews.org/doi/10.1146/annurev-psych-020821-114157\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">annualreviews.org/doi/10.1146/</span><span class=\"invisible\">annurev-psych-020821-114157</span></a>).</p><p>And, the Green OA version is always open: <a href=\"https://psyarxiv.com/ksfvq/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">psyarxiv.com/ksfvq/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://nerdculture.de/@briannosek",
-        "display_name": "Brian Nosek"
-      },
-      {
-        "url": "https://sciences.social/@per",
-        "display_name": "Per Engzell"
-      }
-    ]
-  },
-  {
-    "link": "https://psyarxiv.com/ksfvq/",
-    "title": "https://psyarxiv.com/ksfvq/",
-    "latest": "2023-01-12T20:48:25+00:00",
-    "first": "2023-01-12T19:43:50+00:00",
-    "last_post": {
-      "url": "https://nerdculture.de/@briannosek/109677945210655398",
-      "content": "<p>Our Annual Review piece \"Replicability, Robustness, and Reproducibility in Psychological Science\" was the 4th most downloaded article across Annual Review journals in 2022 (<a href=\"https://www.annualreviews.org/page/top-2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">annualreviews.org/page/top-202</span><span class=\"invisible\">2</span></a>).</p><p>Because of that, they have made the formatted version openly accessible for a limited time (<a href=\"https://www.annualreviews.org/doi/10.1146/annurev-psych-020821-114157\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">annualreviews.org/doi/10.1146/</span><span class=\"invisible\">annurev-psych-020821-114157</span></a>).</p><p>And, the Green OA version is always open: <a href=\"https://psyarxiv.com/ksfvq/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">psyarxiv.com/ksfvq/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://nerdculture.de/@briannosek",
-        "display_name": "Brian Nosek"
-      },
-      {
-        "url": "https://sciences.social/@per",
-        "display_name": "Per Engzell"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/s41562-022-01487-4",
-    "title": "A 2 million-person, campaign-wide field experiment shows how digital advertising affects voter turnout - Nature Human Behaviour",
-    "latest": "2023-01-12T20:52:29+00:00",
-    "first": "2023-01-12T19:44:07+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@brendannyhan/109678215152806433",
-      "content": "<p>Important new work by an all-star team (and a reminder that it is *hard* to move votes) <a href=\"https://www.nature.com/articles/s41562-022-01487-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41562-022</span><span class=\"invisible\">-01487-4</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      },
-      {
-        "url": "https://mastodon.social/@brendannyhan",
-        "display_name": "Brendan Nyhan"
-      }
-    ]
-  },
-  {
-    "link": "https://chriscoyier.net/2023/01/12/the-great-divide-was-indeed-divisive/",
-    "title": "chriscoyier.net/2023/01/12/the...",
-    "latest": "2023-01-12T20:48:49+00:00",
-    "first": "2023-01-12T19:28:11+00:00",
-    "last_post": {
-      "url": "https://fediverse.zachleat.com/@zachleat/109677570612047513",
-      "content": "<p>Looks like <span class=\"h-card\"><a href=\"https://front-end.social/@chriscoyier\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chriscoyier</span></a></span> responded in blog post form (blog post response to a blog post\u2014I am so happy \ud83c\udfc6)</p><p><a href=\"https://chriscoyier.net/2023/01/12/the-great-divide-was-indeed-divisive/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">chriscoyier.net/2023/01/12/the</span><span class=\"invisible\">-great-divide-was-indeed-divisive/</span></a></p><p>(via <span class=\"h-card\"><a href=\"https://hachyderm.io/@hi_mayank\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hi_mayank</span></a></span>)</p>"
-    },
-    "people": [
-      {
-        "url": "https://bell.bz/@andy",
-        "display_name": "Andy Bell"
-      },
-      {
-        "url": "https://mastodon.social/@brad_frost",
-        "display_name": "brad_frost"
-      }
-    ]
-  },
-  {
-    "link": "https://www.theguardian.com/world/video/2023/jan/11/german-police-evict-climate-activists-trying-to-stop-coalmine-expansion-video-report?CMP=Share_iOSApp_Other",
-    "title": "German police evict climate activists trying to stop coalmine expansion \u2013 video report",
-    "latest": "2023-01-12T20:38:32+00:00",
-    "first": "2023-01-12T18:49:30+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@rahmstorf/109675469900368816",
-      "content": "<p>I am ashamed for my country using massive police force to enforce a coal mine expansion. The claim that this coal is needed for energy security has been firmly rejected in a statement by over 500 scientists, including leading energy &amp; climate experts.  <a href=\"https://www.theguardian.com/world/video/2023/jan/11/german-police-evict-climate-activists-trying-to-stop-coalmine-expansion-video-report?CMP=Share_iOSApp_Other\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theguardian.com/world/video/20</span><span class=\"invisible\">23/jan/11/german-police-evict-climate-activists-trying-to-stop-coalmine-expansion-video-report?CMP=Share_iOSApp_Other</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.nz/@christinahood",
-        "display_name": "Christina Hood"
+        "url": "https://fedihum.org/@alizhorvathaliz",
+        "display_name": "Al\u00edz Horv\u00e1th"
       },
       {
         "url": "https://fedihum.org/@christof",
         "display_name": "Christof Sch\u00f6ch (moderator)"
-      }
-    ]
-  },
-  {
-    "link": "https://open-access.network/vernetzen/digitale-fokusgruppen/fokusgruppe-kommunikation",
-    "title": "open-access.network: Fokusgruppe \"Kommunikation\"",
-    "latest": "2023-01-13T11:43:53+00:00",
-    "first": "2023-01-12T18:31:05+00:00",
-    "last_post": {
-      "url": "https://bildung.social/@c_hornung/109676680359531986",
-      "content": "<p><a href=\"https://bildung.social/tags/Kommunikation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Kommunikation</span></a> mit versch. Zielgruppen ist ein wesentlicher Teil bei der Arbeit mit <a href=\"https://bildung.social/tags/OpenAccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenAccess</span></a>. Dar\u00fcber sprechen wir in der Fokusgruppe \"Open Access Kommunikation\" des <span class=\"h-card\"><a href=\"https://openbiblio.social/@openaccessnetwork\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>openaccessnetwork</span></a></span>. </p><p>Auch das Setting an der eigenen Institution bestimmt das Vorgehen wesentlich mit. Dar\u00fcber spricht am 19.1. unser Gast <span class=\"h-card\"><a href=\"https://berlin.social/@benkaden\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>benkaden</span></a></span> von <span class=\"h-card\"><a href=\"https://openbiblio.social/@openaccessbrandenburg\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>openaccessbrandenburg</span></a></span>. Wir freuen uns sehr auf seine Erfahrungen!</p><p>Wer sich der <a href=\"https://bildung.social/tags/Fokusgruppe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fokusgruppe</span></a> anschlie\u00dfen m\u00f6chte, kann sich gerne melden!</p><p>Weitere Infos: <a href=\"https://open-access.network/vernetzen/digitale-fokusgruppen/fokusgruppe-kommunikation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">open-access.network/vernetzen/</span><span class=\"invisible\">digitale-fokusgruppen/fokusgruppe-kommunikation</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      },
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
       }
     ]
   },
@@ -460,6 +244,26 @@
       {
         "url": "https://social.cwts.nl/@vtraag",
         "display_name": "Vincent Traag"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-023-00056-7",
+    "title": "nature.com/articles/d41586-023...",
+    "latest": "2023-01-13T20:25:20+00:00",
+    "first": "2023-01-13T02:06:46+00:00",
+    "last_post": {
+      "url": "https://aus.social/@MicrobialLife/109683727456687728",
+      "content": "<p>...and more still on <a href=\"https://aus.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a>  - this time on its ability to write a scientific article abstract.</p><p>- See news article in Nature and link to article therein on:</p><p><a href=\"https://www.nature.com/articles/d41586-023-00056-7\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00056-7</span></a></p><p><a href=\"https://aus.social/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@MarisOzols",
+        "display_name": "M\u0101ris Ozols"
+      },
+      {
+        "url": "https://berlin.social/@psm_os",
+        "display_name": "Paul Schultze-Motel"
       }
     ]
   },
@@ -544,22 +348,22 @@
     ]
   },
   {
-    "link": "https://slideslive.com/neurips-2022",
-    "title": "NeurIPS 2022",
-    "latest": "2023-01-13T15:07:05+00:00",
-    "first": "2023-01-13T11:31:11+00:00",
+    "link": "https://interconnected.org/home/2023/01/12/next",
+    "title": "Looking for new projects or even a long-term something for 2023",
+    "latest": "2023-01-13T21:04:12+00:00",
+    "first": "2023-01-13T10:27:06+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@NeuripsConf/109681549790622472",
-      "content": "<p>You can now watch the recorded material from <a href=\"https://mastodon.social/tags/NeurIPS2022\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeurIPS2022</span></a> online without registration at:</p><p><a href=\"https://slideslive.com/neurips-2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">slideslive.com/neurips-2022</span><span class=\"invisible\"></span></a></p>"
+      "url": "https://mastodon.social/@genmon/109681418306778324",
+      "content": "<p>I'm looking for new projects and potentially even something long-term for 2023</p><p>Background/interests/etc all in this new blog post. Please do share with friends if you read something that would resonate with them. Thanks!</p><p><a href=\"https://interconnected.org/home/2023/01/12/next\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">interconnected.org/home/2023/0</span><span class=\"invisible\">1/12/next</span></a></p>"
     },
     "people": [
       {
-        "url": "https://jawns.club/@vicki",
-        "display_name": "Vicki Boykis"
+        "url": "https://mastodon.social/@genmon",
+        "display_name": "Matt Webb"
       },
       {
-        "url": "https://mastodon.social/@rbhar90",
-        "display_name": "Bharath"
+        "url": "https://mastodon.social/@philgyford",
+        "display_name": "Phil Gyford"
       }
     ]
   },
@@ -624,22 +428,62 @@
     ]
   },
   {
-    "link": "https://dhdebates.gc.cuny.edu/projects/global-debates-in-the-digital-humanities",
-    "title": "Global Debates in the Digital Humanities | Debates in the Digital Humanities",
-    "latest": "2023-01-13T15:42:23+00:00",
-    "first": "2023-01-13T17:40:56+00:00",
+    "link": "https://forms.gle/Y14qdMuNLCJPJYuU8",
+    "title": "https://forms.gle/Y14qdMuNLCJPJYuU8",
+    "latest": "2023-01-13T18:45:33+00:00",
+    "first": "2023-01-13T18:04:37+00:00",
     "last_post": {
-      "url": "https://fedihum.org/@alizhorvathaliz/109682658063197746",
-      "content": "<p>Our edited volume, Global Debates in the <a href=\"https://fedihum.org/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a>  is now available open access on Manifold Scholar</p><p><a href=\"https://dhdebates.gc.cuny.edu/projects/global-debates-in-the-digital-humanities\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dhdebates.gc.cuny.edu/projects</span><span class=\"invisible\">/global-debates-in-the-digital-humanities</span></a></p><p>The volume is part of the Debates in the Digital Humanities series from University of Minnesota Press. A free account also allows readers to annotate and highlight the volume publicly or privately, and they can also use reading groups to annotate collaboratively. <a href=\"https://fedihum.org/tags/dh\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dh</span></a> <a href=\"https://fedihum.org/tags/multilingualdh\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>multilingualdh</span></a> <a href=\"https://fedihum.org/tags/multilingal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>multilingal</span></a> <a href=\"https://fedihum.org/tags/global\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>global</span></a> <a href=\"https://fedihum.org/tags/digitalhistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digitalhistory</span></a></p>"
+      "url": "https://sigmoid.social/@thegradient/109683217354425742",
+      "content": "<p>The mascot contest entries are in, now it's time to vote!</p><p><a href=\"https://forms.gle/Y14qdMuNLCJPJYuU8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">forms.gle/Y14qdMuNLCJPJYuU8</span><span class=\"invisible\"></span></a></p><p>Help us find a mascot for our instance! \ud83e\udd16</p>"
     },
     "people": [
       {
-        "url": "https://mstdn.social/@quinnanya",
-        "display_name": "Quinn Dombrowski"
+        "url": "https://sigmoid.social/@thegradient",
+        "display_name": "The Gradient"
       },
       {
-        "url": "https://fedihum.org/@alizhorvathaliz",
-        "display_name": "Al\u00edz Horv\u00e1th"
+        "url": "https://sigmoid.social/@Adverb",
+        "display_name": "Advadnoun"
+      }
+    ]
+  },
+  {
+    "link": "https://testflight.apple.com/join/HiTBauI3",
+    "title": "testflight.apple.com/join/HiTB...",
+    "latest": "2023-01-13T19:00:27+00:00",
+    "first": "2023-01-13T18:07:16+00:00",
+    "last_post": {
+      "url": "https://tapbots.social/@ivory/109683219720510229",
+      "content": "<p>As some of you may have heard, Tweetbot is currently unable to authenticate with Twitter which currently has a huge impact on our business. Only mentioning this because we are going to be busy putting out fires and trying to get Ivory on the App Store ASAP. So it will be harder to answer your questions. However you can read our current roadmap for Ivory here: <a href=\"https://tapbots.com/ivory/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tapbots.com/ivory/</span><span class=\"invisible\"></span></a></p><p>Also, here are 1000 more testflight openings for now. Thanks for all of your support! \ud83d\ude4f</p><p><a href=\"https://testflight.apple.com/join/HiTBauI3\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testflight.apple.com/join/HiTB</span><span class=\"invisible\">auI3</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@skuwamoto",
+        "display_name": "Sho Kuwamoto"
+      },
+      {
+        "url": "https://me.dm/@buster",
+        "display_name": "Buster Benson"
+      }
+    ]
+  },
+  {
+    "link": "https://link.springer.com/article/10.1007/s11192-022-04622-0",
+    "title": "Correlating article citedness and journal impact: an empirical investigation by field on a large-scale dataset - Scientometrics",
+    "latest": "2023-01-13T19:41:31+00:00",
+    "first": "2023-01-13T20:56:17+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@petersuber/109683598419966861",
+      "content": "<p>New study: Article citation counts and journal citation counts correlate better in some fields than others. But \"overall\" the correlation is \"weak\".<br><a href=\"https://link.springer.com/article/10.1007/s11192-022-04622-0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/article/10.1</span><span class=\"invisible\">007/s11192-022-04622-0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@philipncohen",
+        "display_name": "Philip N Cohen"
+      },
+      {
+        "url": "https://fediscience.org/@petersuber",
+        "display_name": "petersuber"
       }
     ]
   }
