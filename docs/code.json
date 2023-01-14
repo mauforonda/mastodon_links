@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/olivierdalang/django-toosimple-q",
+    "title": "GitHub - olivierdalang/django-toosimple-q: Simplistic task queue and cron-like scheduler for Django",
+    "latest": "2023-01-14T03:39:14+00:00",
+    "first": "2023-01-14T03:39:14+00:00",
+    "last_post": {
+      "url": "https://framapiaf.org/@pvergain/109682354311246952",
+      "content": "<p><a href=\"https://framapiaf.org/tags/django\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>django</span></a> <a href=\"https://framapiaf.org/tags/web\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>web</span></a> <a href=\"https://framapiaf.org/tags/cron\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cron</span></a> </p><p>- <a href=\"https://github.com/olivierdalang/django-toosimple-q\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/olivierdalang/djang</span><span class=\"invisible\">o-toosimple-q</span></a></p><p>This packages provides a simplistic task queue and scheduler for Django.</p><p>It is geared towards basic apps, where simplicity primes. The package offers simple decorator syntax, including cron-like schedules.</p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/elk-zone/elk",
     "title": "GitHub - elk-zone/elk: A nimble Mastodon web client",
     "latest": "2023-01-14T03:09:55+00:00",
@@ -3386,21 +3402,5 @@
       }
     ],
     "first": "2023-01-04T17:19:09+00:00"
-  },
-  {
-    "link": "https://github.com/cmock/WifiMulti_rs",
-    "title": "GitHub - cmock/WifiMulti_rs: Like WifiMulti for Arduino, but for Rust on ESP32",
-    "latest": "2023-01-04T16:31:28+00:00",
-    "last_post": {
-      "url": "https://chaos.social/@cm/109631890276639434",
-      "content": "<p>Another one of my <a href=\"https://chaos.social/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a> is finished: a library for Rust on ESP32 that tries to work like WifiMulti on Arduino, to save you the hassle of setting everything up yourself. Still not sure whether to publish on crates.io, but here's the github: <a href=\"https://github.com/cmock/WifiMulti_rs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cmock/WifiMulti_rs</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://chaos.social/@cm",
-        "display_name": "christian mock"
-      }
-    ],
-    "first": "2023-01-04T16:31:28+00:00"
   }
 ]
