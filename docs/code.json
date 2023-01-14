@@ -1,28 +1,12 @@
 [
   {
-    "link": "https://github.com/RSS-Bridge/rss-bridge/blob/master/bridges/TwitterBridge.php#L504",
-    "title": "rss-bridge/TwitterBridge.php at master \u00b7 RSS-Bridge/rss-bridge",
-    "latest": "2023-01-13T21:28:01+00:00",
-    "first": "2023-01-13T21:28:01+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ummjackson/109684017137770527",
-      "content": "<p>Fun fact: Birdsite has an undocumented \"guest\" API token that some tools make use of to avoid requiring any form of authentication. </p><p>Here's an example of how RSS Bridge does it: <a href=\"https://github.com/RSS-Bridge/rss-bridge/blob/master/bridges/TwitterBridge.php#L504\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/RSS-Bridge/rss-brid</span><span class=\"invisible\">ge/blob/master/bridges/TwitterBridge.php#L504</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ummjackson",
-        "display_name": "Jackson Palmer"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/elk-zone/elk",
     "title": "GitHub - elk-zone/elk: A nimble Mastodon web client",
-    "latest": "2023-01-13T21:15:55+00:00",
+    "latest": "2023-01-14T03:09:55+00:00",
     "first": "2023-01-12T11:14:07+00:00",
     "last_post": {
-      "url": "https://mstdn.social/@feditips/109683621088883073",
-      "content": "<p>Elk is a new third party web interface for <a href=\"https://mstdn.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a>. It's still in alpha testing, which means it's not yet ready for prime time, but it seems to be making good progress.</p><p>If you want to have a look or find out more, the official Elk website is at:</p><p>\u27a1\ufe0f <a href=\"https://elk.zone\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">elk.zone</span><span class=\"invisible\"></span></a></p><p>You can follow them for news about the project at:</p><p>\u27a1\ufe0f <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span> </p><p>It's free and open source, the source code is at <a href=\"https://github.com/elk-zone/elk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/elk-zone/elk</span><span class=\"invisible\"></span></a></p>"
+      "url": "https://vis.social/@llimllib/109685361591557992",
+      "content": "<p>Testing out the elk client locally, and wow it's beautiful. Might have to go to the trouble to set this up for myself somewhere.</p><p><a href=\"https://github.com/elk-zone/elk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/elk-zone/elk</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
@@ -48,6 +32,42 @@
       {
         "url": "https://mastodon.social/@kidehen",
         "display_name": "Kingsley Uyi Idehen"
+      },
+      {
+        "url": "https://vis.social/@llimllib",
+        "display_name": "llimllib"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hometown-fork/hometown/releases/tag/v4.0.2%2Bhometown-1.1.1",
+    "title": "Release Hometown v1.1.1 (Mastodon 4.0.2) \u00b7 hometown-fork/hometown",
+    "latest": "2023-01-14T01:10:02+00:00",
+    "first": "2023-01-14T01:10:02+00:00",
+    "last_post": {
+      "url": "https://friend.camp/@darius/109684890196655540",
+      "content": "<p>This is embarrassing, but about an hour ago I was alerted to an issue where edited, local-only posts in <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> were being federated. Please update your Hometown servers ASAP.</p><p>More info at the security patch link:</p><p><a href=\"https://github.com/hometown-fork/hometown/releases/tag/v4.0.2%2Bhometown-1.1.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hometown-fork/homet</span><span class=\"invisible\">own/releases/tag/v4.0.2%2Bhometown-1.1.1</span></a></p><p>Most servers ignore or throw away the leaked data because it's an edit to something that it never received (the original post).</p><p>Still, unacceptable, and I'm sorry for this trouble, esp on a Friday night. I will do my best to contact admins individually.</p>"
+    },
+    "people": [
+      {
+        "url": "https://friend.camp/@darius",
+        "display_name": "Darius Kazemi"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/RSS-Bridge/rss-bridge/blob/master/bridges/TwitterBridge.php#L504",
+    "title": "rss-bridge/TwitterBridge.php at master \u00b7 RSS-Bridge/rss-bridge",
+    "latest": "2023-01-13T21:28:01+00:00",
+    "first": "2023-01-13T21:28:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ummjackson/109684017137770527",
+      "content": "<p>Fun fact: Birdsite has an undocumented \"guest\" API token that some tools make use of to avoid requiring any form of authentication. </p><p>Here's an example of how RSS Bridge does it: <a href=\"https://github.com/RSS-Bridge/rss-bridge/blob/master/bridges/TwitterBridge.php#L504\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/RSS-Bridge/rss-brid</span><span class=\"invisible\">ge/blob/master/bridges/TwitterBridge.php#L504</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ummjackson",
+        "display_name": "Jackson Palmer"
       }
     ]
   },
@@ -3382,33 +3402,5 @@
       }
     ],
     "first": "2023-01-04T16:31:28+00:00"
-  },
-  {
-    "link": "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9",
-    "title": "LLMs.md",
-    "latest": "2023-01-04T16:29:43+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@ogrisel/109631883437742220",
-      "content": "<p>Yoav Goldberg on <a href=\"https://sigmoid.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a> <a href=\"https://sigmoid.social/tags/LLMs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLMs</span></a> <a href=\"https://sigmoid.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> and <a href=\"https://sigmoid.social/tags/ArtificialIntelligence\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ArtificialIntelligence</span></a>:</p><p><a href=\"https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/yoavg/59d17460</span><span class=\"invisible\">8e92e845c8994ac2e234c8a9</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jacobeisenstein",
-        "display_name": "Jacob Eisenstein"
-      },
-      {
-        "url": "https://masto.ai/@brenocon",
-        "display_name": "brendan"
-      },
-      {
-        "url": "https://mastodon.social/@rrwilliams",
-        "display_name": "Ryan Williams"
-      },
-      {
-        "url": "https://sigmoid.social/@ogrisel",
-        "display_name": "Olivier Grisel"
-      }
-    ],
-    "first": "2023-01-04T16:29:43+00:00"
   }
 ]
