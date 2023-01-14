@@ -1,5 +1,61 @@
 [
   {
+    "link": "https://dl.acm.org/doi/fullHtml/10.1145/3491102.3517653",
+    "title": "Great Chain of Agents: The Role of Metaphorical Representation of Agents in Conversational Crowdsourcing",
+    "latest": "2023-01-14T14:09:07+00:00",
+    "first": "2023-01-14T14:09:07+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@wattenberg/109687953655280077",
+      "content": "<p>Forget human metaphors for software agents. Why not God metaphors? </p><p>Here's a paper that actually tested this! (Jung et al, CHI 22, <a href=\"https://dl.acm.org/doi/fullHtml/10.1145/3491102.3517653\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/fullHtml/10.114</span><span class=\"invisible\">5/3491102.3517653</span></a> )</p><p>Sample dialog from their protocol: \"Greetings, I am the lord thy god. You shall help researchers at a university by participating in this research.\"</p><p>Their deadpan conclusion:<br>\"an agent metaphor that locates higher than Human in the Great Chain of Being framework may disappoint workers in the system's ability due to high expectations\"</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@wattenberg",
+        "display_name": "Martin Wattenberg"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-023-00016-1",
+    "title": "Unearned authorship pervades science",
+    "latest": "2023-01-14T14:01:30+00:00",
+    "first": "2023-01-08T20:35:18+00:00",
+    "last_post": {
+      "url": "https://sciences.social/@gav/109675196567124821",
+      "content": "<p>Our research integrity study reported on Nature news <a href=\"https://www.nature.com/articles/d41586-023-00016-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00016-1</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@zsteinmetz",
+        "display_name": "Zacharias Steinmetz"
+      },
+      {
+        "url": "https://mastodon.social/@fgusmao",
+        "display_name": "Prof Felipe Gusmao"
+      },
+      {
+        "url": "https://datasci.social/@estebanmoro",
+        "display_name": "Esteban Moro"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/s41598-022-25303-1/metrics",
+    "title": "Article Metrics - Higher-order interactions shape microbial interactions as microbial community complexity increases | Scientific Reports",
+    "latest": "2023-01-14T13:43:06+00:00",
+    "first": "2023-01-14T13:43:06+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@vivek_mutalik/109687820958120716",
+      "content": "<p>Higher-order interactions shape microbial interactions as microbial community complexity increases |<br><a href=\"https://fediscience.org/tags/microbialcommunities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>microbialcommunities</span></a> <a href=\"https://fediscience.org/tags/microbiome\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>microbiome</span></a> <br><a href=\"https://www.nature.com/articles/s41598-022-25303-1/metrics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41598-022</span><span class=\"invisible\">-25303-1/metrics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.science/@contaminatedsci",
+        "display_name": "Tami Lieberman"
+      }
+    ]
+  },
+  {
     "link": "https://www.nature.com/articles/d41586-023-00056-7",
     "title": "nature.com/articles/d41586-023...",
     "latest": "2023-01-14T09:22:45+00:00",
@@ -540,26 +596,6 @@
       {
         "url": "https://fosstodon.org/@danielskatz",
         "display_name": "Daniel S. Katz"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-023-00016-1",
-    "title": "Unearned authorship pervades science",
-    "latest": "2023-01-12T13:25:54+00:00",
-    "first": "2023-01-08T20:35:18+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@davdittrich/109675644291170824",
-      "content": "<p>Unearned <a href=\"https://fediscience.org/tags/authorship\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>authorship</span></a> pervades <a href=\"https://fediscience.org/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a><br><a href=\"https://www.nature.com/articles/d41586-023-00016-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00016-1</span></a><br>A recent survey of US &amp; European researchers shows that 48% have experienced questionable research practices, such as gift authorship. US researchers have higher levels of confidence that they are meeting high integrity standards than those in Europe, however, there is a lower level of awareness of research integrity in the US.<br><a href=\"https://fediscience.org/tags/ResearchIntegrity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ResearchIntegrity</span></a> <a href=\"https://fediscience.org/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a> <a href=\"https://fediscience.org/tags/ethics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethics</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@zsteinmetz",
-        "display_name": "Zacharias Steinmetz"
-      },
-      {
-        "url": "https://mastodon.social/@fgusmao",
-        "display_name": "Prof Felipe Gusmao"
       }
     ]
   },
@@ -3378,37 +3414,5 @@
       }
     ],
     "first": "2023-01-04T18:00:51+00:00"
-  },
-  {
-    "link": "http://arxiv.org/abs/1106.1791",
-    "title": "http://arxiv.org/abs/1106.1791",
-    "latest": "2023-01-04T17:44:07+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@MarisOzols/109632175937866382",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@michael_nielsen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>michael_nielsen</span></a></span> This paper by <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@johncarlosbaez\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>johncarlosbaez</span></a></span>, Fritz and Leinster is also effectively discovery fiction: <br><a href=\"http://arxiv.org/abs/1106.1791\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/1106.1791</span><span class=\"invisible\"></span></a></p><p>They consider a natural notion of information loss of a measure-preserving function, which has a simple and linear-looking definition. However, it turns out to coincide with the difference of entropies!</p><p>I find this much more satisfying that simply accepting the definition of entropy or trying to explain Shannon's source coding theorem to motivate it.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@MarisOzols",
-        "display_name": "M\u0101ris Ozols"
-      }
-    ],
-    "first": "2023-01-04T17:44:07+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.01259",
-    "title": "Higher categorical symmetries and gauging in two-dimensional spin systems",
-    "latest": "2023-01-04T17:33:27+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@johncarlosbaez/109632134016045109",
-      "content": "<p>The most exciting thing I ever realized was that physics in n dimensions is governed by n-categories.</p><p>The reason is that you can use an n-category to describe what happens when you glue together chunks of n-dimensional space, or spacetime.    </p><p>I got this idea around 1994 thanks to the work of Louis Crane and conversations with James Dolan.   It's taking a long time for people to work out the consequences, but it really warms my heart to see progress like this:</p><p><a href=\"https://arxiv.org/abs/2301.01259\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.01259</span><span class=\"invisible\"></span></a></p><p>(1/n)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@johncarlosbaez",
-        "display_name": "John Carlos Baez"
-      }
-    ],
-    "first": "2023-01-04T17:33:27+00:00"
   }
 ]

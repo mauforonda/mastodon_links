@@ -1,5 +1,109 @@
 [
   {
+    "link": "https://github.com/datascisocial/datascisocial.github.io/commit/9bbbbaebfd8d9329f5734be4ebe5388a18405e46",
+    "title": "Remove ORCID requirement in sign-up rule \u00b7 datascisocial/datascisocial.github.io@9bbbbae",
+    "latest": "2023-01-14T14:30:55+00:00",
+    "first": "2023-01-14T14:30:55+00:00",
+    "last_post": {
+      "url": "https://datasci.social/@mszll/109688039398346469",
+      "content": "<p>Small update on datasci.social, 2 days after registrations opened. First: Welcome new people! -We are now growing steadily. <a href=\"https://datasci.social/tags/dataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataScience</span></a>++</p><p>We have removed the request at sign-up of stating your ORCID (for now), to not have any unneeded, potential friction in the registration process: <a href=\"https://github.com/datascisocial/datascisocial.github.io/commit/9bbbbaebfd8d9329f5734be4ebe5388a18405e46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/datascisocial/datas</span><span class=\"invisible\">cisocial.github.io/commit/9bbbbaebfd8d9329f5734be4ebe5388a18405e46</span></a> <a href=\"https://datasci.social/tags/serverinfo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>serverinfo</span></a> <a href=\"https://datasci.social/tags/mastoadmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastoadmin</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/elk-zone/elk",
+    "title": "GitHub - elk-zone/elk: A nimble Mastodon web client",
+    "latest": "2023-01-14T13:58:45+00:00",
+    "first": "2023-01-12T11:14:07+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@elk/109687770734037982",
+      "content": "<p>1.5K stars now! Elk is trending across all GitHub repositories today \ud83d\udd25</p><p>Thanks for your support \ud83c\udf1f<br><a href=\"https://github.com/elk-zone/elk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/elk-zone/elk</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Gargron",
+        "display_name": "Eugen Rochko"
+      },
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      },
+      {
+        "url": "https://chaos.social/@janl",
+        "display_name": "Jan Lehnardt \ud83d\udecb\ufe0f"
+      },
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      },
+      {
+        "url": "https://typo.social/@jasonsantamaria",
+        "display_name": "Jason Santa Maria"
+      },
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      },
+      {
+        "url": "https://vis.social/@llimllib",
+        "display_name": "llimllib"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sponsors/elk-zone",
+    "title": "Sponsor @elk-zone on GitHub Sponsors",
+    "latest": "2023-01-14T13:16:39+00:00",
+    "first": "2023-01-14T13:16:39+00:00",
+    "last_post": {
+      "url": "https://tech.lgbt/@nic/109687487284869202",
+      "content": "<p>You can now sponsor <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span> on GitHub! \ud83d\udc96:github:</p><p>All the maintainers already had individual GitHub sponsors enabled, but by sponsoring the project as a whole you can let them choose how to manage/split the money, rather than making the decision for them :)</p><p><a href=\"https://github.com/sponsors/elk-zone\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sponsors/elk-zone</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Lisa-Ho/30-day-map-challenge/blob/main/2022/Day12/london-gridmaps.ipynb",
+    "title": "30-day-map-challenge/london-gridmaps.ipynb at main \u00b7 Lisa-Ho/30-day-map-challenge",
+    "latest": "2023-01-14T13:14:02+00:00",
+    "first": "2023-01-14T13:14:02+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@LisaHornung/109687737088027110",
+      "content": "<p>FIgured out how to do geospatial grids in <a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> matplotlib and now I can't stop \ud83d\ude05 Latest map shows art and culture venues in London per 1 square km (source OpenStreetMap). Unsurprisingly high density in the center ... might play around a bit more and colour by type (museum, theatre, gallery).</p><p>Code on Github <a href=\"https://github.com/Lisa-Ho/30-day-map-challenge/blob/main/2022/Day12/london-gridmaps.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Lisa-Ho/30-day-map-</span><span class=\"invisible\">challenge/blob/main/2022/Day12/london-gridmaps.ipynb</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fosstodon.org/tags/gischat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gischat</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@LisaHornung",
+        "display_name": "Lisa Hornung"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/OSGeo/grass/pulls?q=is%3Aopen+is%3Apr",
+    "title": "Pull requests \u00b7 OSGeo/grass",
+    "latest": "2023-01-14T12:58:44+00:00",
+    "first": "2023-01-14T12:58:44+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@neteler/109684530528352397",
+      "content": "<p>RT @GRASSGIS@twitter.com</p><p>Dear <a href=\"https://mastodon.social/tags/grassgis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>grassgis</span></a> friends,</p><p>We have 124 open pull requests in the GRASS repo:\u200b<a href=\"https://github.com/OSGeo/grass/pulls?q=is%3Aopen+is%3Apr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/OSGeo/grass/pulls?q</span><span class=\"invisible\">=is%3Aopen+is%3Apr</span></a></p><p>Help us reduce this list by reviewing and testing the changes proposed, so new stuff can arrive much faster to all!! \ud83d\ude80\ud83d\ude4c</p><p>@OSGeo@twitter.com <a href=\"https://mastodon.social/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a> <a href=\"https://mastodon.social/tags/community\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>community</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/GRASSGIS/status/1613526123081617409\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/GRASSGIS/status/16</span><span class=\"invisible\">13526123081617409</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/Dimillian/IceCubesApp",
     "title": "Discussions \u00b7 Dimillian/IceCubesApp",
     "latest": "2023-01-14T11:31:16+00:00",
@@ -108,46 +212,6 @@
       {
         "url": "https://indieweb.social/@adamghill",
         "display_name": "adamghill"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/elk-zone/elk",
-    "title": "GitHub - elk-zone/elk: A nimble Mastodon web client",
-    "latest": "2023-01-14T03:09:55+00:00",
-    "first": "2023-01-12T11:14:07+00:00",
-    "last_post": {
-      "url": "https://vis.social/@llimllib/109685361591557992",
-      "content": "<p>Testing out the elk client locally, and wow it's beautiful. Might have to go to the trouble to set this up for myself somewhere.</p><p><a href=\"https://github.com/elk-zone/elk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/elk-zone/elk</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Gargron",
-        "display_name": "Eugen Rochko"
-      },
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      },
-      {
-        "url": "https://chaos.social/@janl",
-        "display_name": "Jan Lehnardt \ud83d\udecb\ufe0f"
-      },
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      },
-      {
-        "url": "https://typo.social/@jasonsantamaria",
-        "display_name": "Jason Santa Maria"
-      },
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      },
-      {
-        "url": "https://vis.social/@llimllib",
-        "display_name": "llimllib"
       }
     ]
   },
@@ -3338,69 +3402,5 @@
       }
     ],
     "first": "2023-01-04T23:04:23+00:00"
-  },
-  {
-    "link": "https://github.com/hodgesmr/mastodon_digest/commit/f70a01896e9b69e05803f6be1cd863e1ffc630b8",
-    "title": "Filter out posts from users who have #nobot or #noinde in their bio. \u2026 \u00b7 hodgesmr/mastodon_digest@f70a018",
-    "latest": "2023-01-04T22:41:17+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@MattHodges/109633344497501020",
-      "content": "<p>The latest commit\u00b9 to Mastodon Digest hard-codes filters to ignore posts from accounts that have <a href=\"https://mastodon.social/tags/nobot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nobot</span></a> or <a href=\"https://mastodon.social/tags/noindex\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>noindex</span></a> in their bio. I learned about this convention from <span class=\"h-card\"><a href=\"https://mastodon.social/@Colarusso\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Colarusso</span></a></span>'s post\u00b2 outlining the algorithm powering <span class=\"h-card\"><a href=\"https://esq.social/@icymi_law\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>icymi_law</span></a></span></p><p>\u00b9 <a href=\"https://github.com/hodgesmr/mastodon_digest/commit/f70a01896e9b69e05803f6be1cd863e1ffc630b8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest/commit/f70a01896e9b69e05803f6be1cd863e1ffc630b8</span></a><br>\u00b2 <a href=\"https://icymilaw.org/about/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">icymilaw.org/about/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      }
-    ],
-    "first": "2023-01-04T22:41:17+00:00"
-  },
-  {
-    "link": "https://github.com/MichalBryxi/foun",
-    "title": "GitHub - MichalBryxi/foun: Automated invoice splitting for Czech phone carrier operators",
-    "latest": "2023-01-04T22:12:14+00:00",
-    "last_post": {
-      "url": "https://mastodon.coffee/@MichalBryxi/109633230259388967",
-      "content": "<p>This year I decided to contribute to <a href=\"https://mastodon.coffee/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a> more.<br>So I just published a code for a project for splitting invoices for \ud83c\udde8\ud83c\uddff <a href=\"https://mastodon.coffee/tags/Vodafone\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Vodafone</span></a> corporate customers.</p><p>It uses (among others): <a href=\"https://mastodon.coffee/tags/RoR\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RoR</span></a>, <a href=\"https://mastodon.coffee/tags/EmberJS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EmberJS</span></a>, <a href=\"https://mastodon.coffee/tags/TailwindCSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TailwindCSS</span></a>, <a href=\"https://mastodon.coffee/tags/Docker\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Docker</span></a></p><p>Feel free to copy: <a href=\"https://github.com/MichalBryxi/foun\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/MichalBryxi/foun</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.coffee/@MichalBryxi",
-        "display_name": "Michal Bryx\u00ed"
-      }
-    ],
-    "first": "2023-01-04T22:12:14+00:00"
-  },
-  {
-    "link": "https://github.com/zeux/volk",
-    "title": "GitHub - zeux/volk: Meta loader for Vulkan API",
-    "latest": "2023-01-04T21:32:47+00:00",
-    "last_post": {
-      "url": "https://mastodon.gamedev.place/@zeux/109632754061688302",
-      "content": "<p>A toot from yesterday that lamented the need to wrangle with Vulkan extensions reminded me that I haven't plugged volk here yet!</p><p>If you use Vulkan in C/C++ (unless you use Vulkan-Hpp which I advise against), you should be using <a href=\"https://github.com/zeux/volk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/zeux/volk</span><span class=\"invisible\"></span></a>.</p><p>volk always supports the most recent Vulkan extensions (it is updated on the day new extensions get released), and it's just a couple lines to integrate. It also ships with Vulkan SDK these days!</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@doppioslash",
-        "display_name": "Claudia Doppioslash/ShaderCat"
-      }
-    ],
-    "first": "2023-01-04T21:32:47+00:00"
-  },
-  {
-    "link": "https://github.com/bryangraham/Harvard_Ec2147/blob/master/Lecture_Notes/4_Lecture_Partially_Linear_Regression.pdf",
-    "title": "Harvard_Ec2147/4_Lecture_Partially_Linear_Regression.pdf at master \u00b7 bryangraham/Harvard_Ec2147",
-    "latest": "2023-01-04T20:39:17+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@apoorvalal/109632718234506954",
-      "content": "<p>Today in everything is IV [cc <span class=\"h-card\"><a href=\"https://econtwitter.net/@instrumenthull\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>instrumenthull</span></a></span> ]<br>Hadn't seen this before; anyone got a sense of how it compares to partially linear regression / AIPW style estimators for multi-valued treatments? </p><p>[<a href=\"https://github.com/bryangraham/Harvard_Ec2147/blob/master/Lecture_Notes/4_Lecture_Partially_Linear_Regression.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bryangraham/Harvard</span><span class=\"invisible\">_Ec2147/blob/master/Lecture_Notes/4_Lecture_Partially_Linear_Regression.pdf</span></a>]</p><p>cc <span class=\"h-card\"><a href=\"https://econtwitter.net/@kevin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kevin</span></a></span> <span class=\"h-card\"><a href=\"https://econtwitter.net/@paulgp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>paulgp</span></a></span> </p><p><a href=\"https://econtwitter.net/tags/xp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xp</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@paulgp",
-        "display_name": "Paul Goldsmith-Pinkham"
-      }
-    ],
-    "first": "2023-01-04T20:39:17+00:00"
   }
 ]
