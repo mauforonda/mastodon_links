@@ -1,8 +1,24 @@
 [
   {
+    "link": "https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb",
+    "title": "openai-cookbook/Question_answering_using_embeddings.ipynb at main \u00b7 openai/openai-cookbook",
+    "latest": "2023-01-14T17:38:58+00:00",
+    "first": "2023-01-14T17:38:58+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109688778828992790",
+      "content": "<p>It turns out OpenAI have an example of this exact pattern in their cookbook! <a href=\"https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openai/openai-cookb</span><span class=\"invisible\">ook/blob/main/examples/Question_answering_using_embeddings.ipynb</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/datascisocial/datascisocial.github.io/commit/9bbbbaebfd8d9329f5734be4ebe5388a18405e46",
     "title": "Remove ORCID requirement in sign-up rule \u00b7 datascisocial/datascisocial.github.io@9bbbbae",
-    "latest": "2023-01-14T14:30:55+00:00",
+    "latest": "2023-01-14T16:35:30+00:00",
     "first": "2023-01-14T14:30:55+00:00",
     "last_post": {
       "url": "https://datasci.social/@mszll/109688039398346469",
@@ -12,6 +28,26 @@
       {
         "url": "https://datasci.social/@mszll",
         "display_name": "Michael Szell"
+      },
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/paulgp/applied-methods-phd",
+    "title": "GitHub - paulgp/applied-methods-phd: Repo for Yale Applied Empirical Methods PHD Course",
+    "latest": "2023-01-14T16:00:46+00:00",
+    "first": "2023-01-14T16:00:46+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@paulgp/109688392680464903",
+      "content": "<p>Hopefully materials will all be here! </p><p><a href=\"https://github.com/paulgp/applied-methods-phd\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paulgp/applied-meth</span><span class=\"invisible\">ods-phd</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
       }
     ]
   },
@@ -3370,37 +3406,5 @@
       }
     ],
     "first": "2023-01-05T05:10:42+00:00"
-  },
-  {
-    "link": "https://github.com/davecheney/pub",
-    "title": "GitHub - davecheney/pub: pub, a tiny ActivityPub to Mastodon bridge",
-    "latest": "2023-01-05T00:45:58.918000+00:00",
-    "last_post": {
-      "url": "https://coredump.social/@shep/109631795216889521",
-      "content": "<p>ActivityPub mini-server (intended for a single actor) in <a href=\"https://coredump.social/tags/golang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>golang</span></a>.  </p><p>Implements the Mastodon API so you should be able to use it with Mastodon clients.</p><p><a href=\"https://coredump.social/tags/Golang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Golang</span></a> <a href=\"https://coredump.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> <a href=\"https://coredump.social/tags/Go\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Go</span></a></p><p><a href=\"https://github.com/davecheney/pub\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/davecheney/pub</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@kvnweb",
-        "display_name": "Kevin Webb"
-      }
-    ],
-    "first": "2023-01-05T00:45:58.918000+00:00"
-  },
-  {
-    "link": "https://github.com/jonathandinu/awesome-ai-art",
-    "title": "GitHub - jonathandinu/awesome-ai-art: A list of AI Art courses, tools, libraries, people, and places.",
-    "latest": "2023-01-04T23:04:23+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@golan/109633435283674436",
-      "content": "<p>RT @jonathandinu@twitter.com</p><p>`Awesome AI art` now has unconditional and conditional image synthesis, GAN inversion (and editing), and interpretable latent space methods \ud83d\ude4c</p><p>(and of course the latest diffusion and NeRF updates)</p><p><a href=\"https://github.com/jonathandinu/awesome-ai-art\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jonathandinu/awesom</span><span class=\"invisible\">e-ai-art</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/jonathandinu/status/1610771154549047297\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/jonathandinu/statu</span><span class=\"invisible\">s/1610771154549047297</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@golan",
-        "display_name": "Golan Levin"
-      }
-    ],
-    "first": "2023-01-04T23:04:23+00:00"
   }
 ]
