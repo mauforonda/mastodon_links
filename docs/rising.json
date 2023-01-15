@@ -66,11 +66,11 @@
   {
     "link": "https://daringfireball.net/linked/2023/01/14/information-twitter-slack-confirmation",
     "title": "If You Needed Any More Confirmation, Internal Slack Messages at Twitter Show That Cutting Off Third-Party Clients Was \u2018Intentional\u2019",
-    "latest": "2023-01-15T07:25:57+00:00",
+    "latest": "2023-01-15T19:42:48+00:00",
     "first": "2023-01-15T00:47:41+00:00",
     "last_post": {
-      "url": "https://tapbots.social/@paul/109690459325958983",
-      "content": "<p>DF has a good summation of this latest revelation.</p><p><a href=\"https://daringfireball.net/linked/2023/01/14/information-twitter-slack-confirmation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">daringfireball.net/linked/2023</span><span class=\"invisible\">/01/14/information-twitter-slack-confirmation</span></a></p><p>Even without these leaks if you add up the lack of communication, only impacting the top 25-50 Twitter API clients and clients showing up as suspended in the dev. dashboard. The only conclusion at this point is that it was intentional and not any kind of bug.</p><p>For the record, still no official or even unofficial communication from anyone within Twitter.</p>"
+      "url": "https://nerdculture.de/@gisiger/109694637881972287",
+      "content": "<p>So, the bird site intentionally cut off third-party clients? I'm not surprised at all, and it has (almost) nothing to do with <a href=\"https://nerdculture.de/tags/Elon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Elon</span></a> </p><p><a href=\"https://nerdculture.de/tags/Twitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Twitter</span></a> has a long history of killing off third-party services. Remember photo repositories like <a href=\"https://nerdculture.de/tags/Photobucket\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Photobucket</span></a> , url shorteners, heck, even <a href=\"https://nerdculture.de/tags/Periscope\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Periscope</span></a>  ?</p><p>Luckily, almost none of these shenanigans will happen in the <a href=\"https://nerdculture.de/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a></p><p><a href=\"https://daringfireball.net/linked/2023/01/14/information-twitter-slack-confirmation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">daringfireball.net/linked/2023</span><span class=\"invisible\">/01/14/information-twitter-slack-confirmation</span></a></p>"
     },
     "people": [
       {
@@ -84,6 +84,34 @@
       {
         "url": "https://bell.bz/@andy",
         "display_name": "Andy Bell"
+      },
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      }
+    ]
+  },
+  {
+    "link": "https://www.apa.org/monitor/2023/01/trends-faculty-exiting-academia",
+    "title": "apa.org/monitor/2023/01/trends...",
+    "latest": "2023-01-15T19:56:32+00:00",
+    "first": "2023-01-15T00:50:21+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@erinnacland/109690475055108922",
+      "content": "<p>Is academia facing a massive burnout crisis?</p><p>Academics are increasingly \"reevaluating whether their jobs are worth the high cost to their personal well-being. They are less willing to continue in positions with oversized workloads, salaries that do not keep up with inflation, and inflexible policies.\"</p><p>48% of universities report that faculty turnover increased in 2022 and &gt;70% of academics reported mental health difficulties in 2021</p><p>via <a href=\"https://www.apa.org/monitor/2023/01/trends-faculty-exiting-academia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">apa.org/monitor/2023/01/trends</span><span class=\"invisible\">-faculty-exiting-academia</span></a><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> <a href=\"https://fediscience.org/tags/AcademicChatter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AcademicChatter</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@erinnacland",
+        "display_name": "Erinn Acland, PhD"
+      },
+      {
+        "url": "https://hci.social/@barik",
+        "display_name": "Titus Barik"
+      },
+      {
+        "url": "https://fosstodon.org/@HeidiSeibold",
+        "display_name": "Heidi Seibold"
       }
     ]
   },
@@ -112,82 +140,26 @@
     ]
   },
   {
-    "link": "https://www.complexityexplorer.org/courses/162-foundations-applications-of-humanities-analytics",
-    "title": "Complexity Explorer",
-    "latest": "2023-01-14T20:50:15+00:00",
-    "first": "2023-01-14T20:51:17+00:00",
+    "link": "https://www.macstories.net/stories/twitter-intentionally-ends-third-party-app-developer-access-to-its-apis/",
+    "title": "Twitter Intentionally Ends Third-Party App Developer Access to Its APIs",
+    "latest": "2023-01-15T19:25:55+00:00",
+    "first": "2023-01-15T17:51:27+00:00",
     "last_post": {
-      "url": "https://boffosocko.com/2023/01/14/55813762/",
-      "content": "<p></p><p>@natalie, Thanks for the recommendation, this looks great! It looks like it may be a good companion to the Santa Fe Institute\u2019s (free) Foundations &amp; Applications of Humanities Analytics&nbsp;<a href=\"https://www.complexityexplorer.org/courses/162-foundations-applications-of-humanities-analytics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://www.complexityexplorer.org/courses/162-foundations-applications-of-humanities-analytics</a> which starts on Jan 17. #DigitalHumanities&nbsp;</p>\n<p>&nbsp;</p>\n<p></p><p><a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/corpus-linguistics/\" target=\"_blank\">#corpus-linguistics</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/digital-humanities/\" target=\"_blank\">#digital-humanities</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/future-learn/\" target=\"_blank\">#future-learn</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/jupyter/\" target=\"_blank\">#jupyter</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/python/\" target=\"_blank\">#python</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/santafeinstitute/\" target=\"_blank\">#santafeinstitute</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/textual-analysis/\" target=\"_blank\">#textual-analysis</a></p><p><a href=\"https://boffosocko.com/2023/01/14/55813762/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/2023/01/14/55813762/</a></p>"
+      "url": "https://mastodon.macstories.net/@viticci/109694037374667176",
+      "content": "<p>Let's pour one out for third-party Twitter clients: </p><p>Apps that shaped UI conventions, pioneered a market, and in many ways reinvented how we communicate online \u2013 unceremoniously killed off by a clown who thinks he's the smartest guy around because he has money.</p><p>These apps didn't deserve to end up like this.</p><p><a href=\"https://www.macstories.net/stories/twitter-intentionally-ends-third-party-app-developer-access-to-its-apis/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">macstories.net/stories/twitter</span><span class=\"invisible\">-intentionally-ends-third-party-app-developer-access-to-its-apis/</span></a></p>"
     },
     "people": [
       {
-        "url": "https://hcommons.social/@chrisaldrich",
-        "display_name": "Chris Aldrich"
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
       },
       {
-        "url": "https://boffosocko.com/author/chrisaldrich/",
-        "display_name": "Chris Aldrich"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/danqing/Pinch",
-    "title": "GitHub - danqing/Pinch: One-click fix for Mac trackpad pinch to zoom gesture",
-    "latest": "2023-01-15T07:42:07+00:00",
-    "first": "2023-01-14T20:55:44+00:00",
-    "last_post": {
-      "url": "https://mas.to/@steveruizok/109689552549944301",
-      "content": "<p>RT @danqing_liu@twitter.com</p><p>Do you use a Mac with a trackpad? If so, you may have noticed that the pinch to zoom gesture can randomly stop working.</p><p>I've been bothered by it enough that I made a small menubar tool that can fix the problem with one click.</p><p>Download it here: <a href=\"https://github.com/danqing/Pinch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/danqing/Pinch</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/danqing_liu/status/1614308997653499905\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/danqing_liu/status</span><span class=\"invisible\">/1614308997653499905</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@steveruizok",
-        "display_name": "Steve Ruiz"
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
       },
       {
-        "url": "https://mastodon.social/@skuwamoto",
-        "display_name": "Sho Kuwamoto"
-      }
-    ]
-  },
-  {
-    "link": "https://faculty.washington.edu/ebender/stochasticparrots/",
-    "title": "Emily M. Bender",
-    "latest": "2023-01-15T14:13:21+00:00",
-    "first": "2023-01-14T19:27:50.710000+00:00",
-    "last_post": {
-      "url": "https://dair-community.social/@emilymbender/109689195282138854",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mathstodon.xyz/@Scmbradley\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Scmbradley</span></a></span> <span class=\"h-card\"><a href=\"https://hachyderm.io/@mnl\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mnl</span></a></span> <span class=\"h-card\"><a href=\"https://dair-community.social/@timnitGebru\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>timnitGebru</span></a></span> Here's a collection of some of the better stories in the media storm around the paper &amp; Google firing Drs. Gebru and Mitchell.</p><p><a href=\"https://faculty.washington.edu/ebender/stochasticparrots/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">faculty.washington.edu/ebender</span><span class=\"invisible\">/stochasticparrots/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@mnl",
-        "display_name": "mnml mnl (he/him)"
-      },
-      {
-        "url": "https://dair-community.social/@emilymbender",
-        "display_name": "Emily M. Bender (she/her)"
-      }
-    ]
-  },
-  {
-    "link": "https://www.apa.org/monitor/2023/01/trends-faculty-exiting-academia",
-    "title": "apa.org/monitor/2023/01/trends...",
-    "latest": "2023-01-15T17:47:00+00:00",
-    "first": "2023-01-15T00:50:21+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@erinnacland/109690475055108922",
-      "content": "<p>Is academia facing a massive burnout crisis?</p><p>Academics are increasingly \"reevaluating whether their jobs are worth the high cost to their personal well-being. They are less willing to continue in positions with oversized workloads, salaries that do not keep up with inflation, and inflexible policies.\"</p><p>48% of universities report that faculty turnover increased in 2022 and &gt;70% of academics reported mental health difficulties in 2021</p><p>via <a href=\"https://www.apa.org/monitor/2023/01/trends-faculty-exiting-academia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">apa.org/monitor/2023/01/trends</span><span class=\"invisible\">-faculty-exiting-academia</span></a><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> <a href=\"https://fediscience.org/tags/AcademicChatter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AcademicChatter</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@erinnacland",
-        "display_name": "Erinn Acland, PhD"
-      },
-      {
-        "url": "https://hci.social/@barik",
-        "display_name": "Titus Barik"
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
       }
     ]
   },
@@ -272,6 +244,26 @@
     ]
   },
   {
+    "link": "https://handandmachine.org/index.php/residency/",
+    "title": "handandmachine.org/index.php/r...",
+    "latest": "2023-01-15T20:15:33+00:00",
+    "first": "2023-01-15T01:20:39+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@golan/109690594232283219",
+      "content": "<p>RT @leahbuechley@twitter.com</p><p>Our Experimental Clay Residency Deadline is tomorrow! Image: Computationally generated 3D printed ceramic bowl with a squiggly print path. <a href=\"https://handandmachine.org/index.php/residency/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">handandmachine.org/index.php/r</span><span class=\"invisible\">esidency/</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/leahbuechley/status/1614328106252390401\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/leahbuechley/statu</span><span class=\"invisible\">s/1614328106252390401</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@golan",
+        "display_name": "Golan Levin"
+      },
+      {
+        "url": "https://hci.social/@jsquare",
+        "display_name": "Jennifer Jacobs"
+      }
+    ]
+  },
+  {
     "link": "https://boffosocko.com/2023/01/14/s-d-goiteins-card-index-or-zettelkasten/",
     "title": "S.D. Goitein\u2019s Card Index (or Zettelkasten)",
     "latest": "2023-01-15T06:06:57+00:00",
@@ -288,6 +280,46 @@
       {
         "url": "https://boffosocko.com/author/chrisaldrich/",
         "display_name": "Chris Aldrich"
+      }
+    ]
+  },
+  {
+    "link": "https://w3c.social/@tag/109682533903910546",
+    "title": "Technical Architecture Group (@tag@w3c.social)",
+    "latest": "2023-01-15T19:37:09+00:00",
+    "first": "2023-01-15T07:52:02+00:00",
+    "last_post": {
+      "url": "https://someone.elses.computer/@mikarv/109692133201807102",
+      "content": "<p><span class=\"h-card\"><a href=\"https://w3c.social/@w3c\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>w3c</span></a></span> <span class=\"h-card\"><a href=\"https://w3c.social/@tag\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tag</span></a></span> reject Google\u2019s in-browser ad-targeting system Topics again. (minutes: <a href=\"https://w3c.social/@tag/109682533903910546\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">w3c.social/@tag/10968253390391</span><span class=\"invisible\">0546</span></a>) <span class=\"h-card\"><a href=\"https://mastodon.social/@robin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>robin</span></a></span> notes Topics has \u2018little chance of a credible future\u2019. Now Google say they will ignore standard-setting; they are \u201ccommitted to Topics\u201d and \u201cmoving forward\u201d <a href=\"https://www.businessinsider.com/web-standards-body-w3c-rejects-googles-ad-targeting-proposal-2023-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">businessinsider.com/web-standa</span><span class=\"invisible\">rds-body-w3c-rejects-googles-ad-targeting-proposal-2023-1</span></a>. Chromium\u2019s dominance makes standards a convenient charade for G\u2019s power.</p>"
+    },
+    "people": [
+      {
+        "url": "https://someone.elses.computer/@mikarv",
+        "display_name": "Michael Veale"
+      },
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      }
+    ]
+  },
+  {
+    "link": "https://www.businessinsider.com/web-standards-body-w3c-rejects-googles-ad-targeting-proposal-2023-1",
+    "title": "businessinsider.com/web-standa...",
+    "latest": "2023-01-15T19:37:09+00:00",
+    "first": "2023-01-15T07:52:02+00:00",
+    "last_post": {
+      "url": "https://someone.elses.computer/@mikarv/109692133201807102",
+      "content": "<p><span class=\"h-card\"><a href=\"https://w3c.social/@w3c\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>w3c</span></a></span> <span class=\"h-card\"><a href=\"https://w3c.social/@tag\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tag</span></a></span> reject Google\u2019s in-browser ad-targeting system Topics again. (minutes: <a href=\"https://w3c.social/@tag/109682533903910546\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">w3c.social/@tag/10968253390391</span><span class=\"invisible\">0546</span></a>) <span class=\"h-card\"><a href=\"https://mastodon.social/@robin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>robin</span></a></span> notes Topics has \u2018little chance of a credible future\u2019. Now Google say they will ignore standard-setting; they are \u201ccommitted to Topics\u201d and \u201cmoving forward\u201d <a href=\"https://www.businessinsider.com/web-standards-body-w3c-rejects-googles-ad-targeting-proposal-2023-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">businessinsider.com/web-standa</span><span class=\"invisible\">rds-body-w3c-rejects-googles-ad-targeting-proposal-2023-1</span></a>. Chromium\u2019s dominance makes standards a convenient charade for G\u2019s power.</p>"
+    },
+    "people": [
+      {
+        "url": "https://someone.elses.computer/@mikarv",
+        "display_name": "Michael Veale"
+      },
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
       }
     ]
   },
@@ -332,22 +364,62 @@
     ]
   },
   {
-    "link": "https://www.macstories.net/stories/twitter-intentionally-ends-third-party-app-developer-access-to-its-apis/",
-    "title": "Twitter Intentionally Ends Third-Party App Developer Access to Its APIs",
-    "latest": "2023-01-15T17:38:35+00:00",
-    "first": "2023-01-15T17:51:27+00:00",
+    "link": "https://furbo.org/2023/01/15/the-shit-show/",
+    "title": "The Shit Show \u2022 furbo.org",
+    "latest": "2023-01-15T20:50:41+00:00",
+    "first": "2023-01-15T21:01:35+00:00",
     "last_post": {
-      "url": "https://mastodon.macstories.net/@viticci/109694037374667176",
-      "content": "<p>Let's pour one out for third-party Twitter clients: </p><p>Apps that shaped UI conventions, pioneered a market, and in many ways reinvented how we communicate online \u2013 unceremoniously killed off by a clown who thinks he's the smartest guy around because he has money.</p><p>These apps didn't deserve to end up like this.</p><p><a href=\"https://www.macstories.net/stories/twitter-intentionally-ends-third-party-app-developer-access-to-its-apis/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">macstories.net/stories/twitter</span><span class=\"invisible\">-intentionally-ends-third-party-app-developer-access-to-its-apis/</span></a></p>"
+      "url": "https://mastodon.social/@chockenberry/109695112387770838",
+      "content": "<p>You want to know how I really feel?</p><p><a href=\"https://furbo.org/2023/01/15/the-shit-show/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">furbo.org/2023/01/15/the-shit-</span><span class=\"invisible\">show/</span></a></p><p>P.S. That's the tame version.</p>"
     },
     "people": [
       {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2618\ufe0f"
       },
       {
-        "url": "https://infosec.exchange/@hacks4pancakes",
-        "display_name": "Lesley Carhart :unverified:"
+        "url": "https://econtwitter.net/@TradingPlacesResearch",
+        "display_name": "Trading Places Research"
+      }
+    ]
+  },
+  {
+    "link": "https://www.theguardian.com/science/2023/jan/15/scientists-ukraine-war-cern-physics-large-hadron-collider",
+    "title": "Splitting the atomic scientists: how the Ukraine war ruined physics",
+    "latest": "2023-01-15T18:33:39+00:00",
+    "first": "2023-01-15T20:29:34+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@petersuber/109694656127875624",
+      "content": "<p>\"In March 2022, the number of new research papers by the <a href=\"https://fediscience.org/tags/LHC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LHC</span></a> [Large Hadron Collider] experiments fell to zero. The reason: a lack of agreement on how to list Russian and Belarusian scientists and institutes, if at all. The temporary compromise, in place up to now, is not to publish.\"<br><a href=\"https://www.theguardian.com/science/2023/jan/15/scientists-ukraine-war-cern-physics-large-hadron-collider\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theguardian.com/science/2023/j</span><span class=\"invisible\">an/15/scientists-ukraine-war-cern-physics-large-hadron-collider</span></a></p><p>h/t <span class=\"h-card\"><a href=\"https://scicomm.xyz/@jocelyn_etienne\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jocelyn_etienne</span></a></span></p><p><a href=\"https://fediscience.org/tags/cern\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cern</span></a> <a href=\"https://fediscience.org/tags/physics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>physics</span></a> <a href=\"https://fediscience.org/tags/war\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>war</span></a> <a href=\"https://fediscience.org/tags/ukraine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ukraine</span></a> <a href=\"https://fediscience.org/tags/russia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>russia</span></a> <a href=\"https://fediscience.org/tags/belarus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>belarus</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.cwts.nl/@LudoWaltman",
+        "display_name": "Ludo Waltman"
+      },
+      {
+        "url": "https://fediscience.org/@petersuber",
+        "display_name": "petersuber"
+      }
+    ]
+  },
+  {
+    "link": "https://thoughts.hnr.fyi/2023-01-15.html",
+    "title": "remembering horse_ebooks in the age of GPT3 - honor ash",
+    "latest": "2023-01-15T18:30:29+00:00",
+    "first": "2023-01-15T18:15:13+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/109694643687688197",
+      "content": "<p>\u201cso.. where was the charm? why was it better to consider a poetic attachment to something written by a bot, than cynically crafted by a human curator specifically for the purpose of having viral potential? why did we feel cheated, when we learnt that for just over two years, it had been the latter?\u201d \u2014 a great post from <span class=\"h-card\"><a href=\"https://post.lurk.org/@h\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>h</span></a></span> \u2014 remembering horse_ebooks in the age of <a href=\"https://mastodon.social/tags/GPT3\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GPT3</span></a></p><p><a href=\"https://thoughts.hnr.fyi/2023-01-15.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thoughts.hnr.fyi/2023-01-15.ht</span><span class=\"invisible\">ml</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://post.lurk.org/@liza",
+        "display_name": "Liza Daly"
+      },
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
       }
     ]
   }
