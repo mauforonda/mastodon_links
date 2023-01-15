@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9",
+    "title": "Extracting and summarizing text with youtube-dl and GPT-3",
+    "latest": "2023-01-15T06:04:14+00:00",
+    "first": "2023-01-15T06:04:14+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109691709342708157",
+      "content": "<p>Since a few people have asked, here's what I did and the summary I got out of it: <a href=\"https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/simonw/9932c6f</span><span class=\"invisible\">10e241cfa6b19a4e08b283ca9</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/yairchu/awesome-structure-editors",
     "title": "github.com/yairchu/awesome-str...",
     "latest": "2023-01-15T01:32:47+00:00",
@@ -3390,21 +3406,5 @@
       }
     ],
     "first": "2023-01-05T17:12:06+00:00"
-  },
-  {
-    "link": "https://github.com/cyberphone/json-canonicalization",
-    "title": "github.com/cyberphone/json-can...",
-    "latest": "2023-01-05T16:55:54+00:00",
-    "last_post": {
-      "url": "https://merveilles.town/@makeworld/109637509899147993",
-      "content": "<p>If you cryptographically sign JSON, you might be interested in RFC 8785: JSON Canonicalization Scheme (JCS)</p><p>See <a href=\"https://www.rfc-editor.org/rfc/rfc8785\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">rfc-editor.org/rfc/rfc8785</span><span class=\"invisible\"></span></a> and <a href=\"https://github.com/cyberphone/json-canonicalization\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cyberphone/json-can</span><span class=\"invisible\">onicalization</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@cblgh",
-        "display_name": "Alexander Cobleigh"
-      }
-    ],
-    "first": "2023-01-05T16:55:54+00:00"
   }
 ]
