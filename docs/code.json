@@ -1,5 +1,57 @@
 [
   {
+    "link": "https://github.com/flathub/com.calibre_ebook.calibre/issues/153",
+    "title": "Windows missing borders and mouse pointer too small \u00b7 Issue #153 \u00b7 flathub/com.calibre_ebook.calibre",
+    "latest": "2023-01-15T08:02:01+00:00",
+    "first": "2023-01-15T08:02:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Edent/109692172460086576",
+      "content": "<p>Any <a href=\"https://mastodon.social/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a> nerds able to help me with an irritating <a href=\"https://mastodon.social/tags/Flatpak\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flatpak</span></a> problem?</p><p><a href=\"https://github.com/flathub/com.calibre_ebook.calibre/issues/153\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/flathub/com.calibre</span><span class=\"invisible\">_ebook.calibre/issues/153</span></a></p><p>For some reason, <a href=\"https://mastodon.social/tags/Calibre\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Calibre</span></a> doesn't have any window decorations and my mouse cursor is the wrong size. This is the only Flatpak which acts this way.  Any clues on what incantation I need to fix it?</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Edent",
+        "display_name": "Terence Eden"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/danqing/Pinch",
+    "title": "GitHub - danqing/Pinch: One-click fix for Mac trackpad pinch to zoom gesture",
+    "latest": "2023-01-15T07:42:07+00:00",
+    "first": "2023-01-14T20:55:44+00:00",
+    "last_post": {
+      "url": "https://mas.to/@steveruizok/109689552549944301",
+      "content": "<p>RT @danqing_liu@twitter.com</p><p>Do you use a Mac with a trackpad? If so, you may have noticed that the pinch to zoom gesture can randomly stop working.</p><p>I've been bothered by it enough that I made a small menubar tool that can fix the problem with one click.</p><p>Download it here: <a href=\"https://github.com/danqing/Pinch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/danqing/Pinch</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/danqing_liu/status/1614308997653499905\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/danqing_liu/status</span><span class=\"invisible\">/1614308997653499905</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@steveruizok",
+        "display_name": "Steve Ruiz"
+      },
+      {
+        "url": "https://mastodon.social/@skuwamoto",
+        "display_name": "Sho Kuwamoto"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9?permalink_comment_id=4437411#gistcomment-4437411",
+    "title": "Extracting and summarizing text with youtube-dl and GPT-3",
+    "latest": "2023-01-15T06:32:29+00:00",
+    "first": "2023-01-15T06:32:29+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109691820404202295",
+      "content": "<p>I also pasted the second half of the transcript into ChatGPT so I could ask it some follow up questions, which proved to be a neat alternative way of consuming the summarized content: <a href=\"https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9?permalink_comment_id=4437411#gistcomment-4437411\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/simonw/9932c6f</span><span class=\"invisible\">10e241cfa6b19a4e08b283ca9?permalink_comment_id=4437411#gistcomment-4437411</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9",
     "title": "Extracting and summarizing text with youtube-dl and GPT-3",
     "latest": "2023-01-15T06:04:14+00:00",
@@ -124,22 +176,6 @@
       {
         "url": "https://mastodon.social/@Colarusso",
         "display_name": "David Colarusso"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/danqing/Pinch",
-    "title": "GitHub - danqing/Pinch: One-click fix for Mac trackpad pinch to zoom gesture",
-    "latest": "2023-01-14T20:55:44+00:00",
-    "first": "2023-01-14T20:55:44+00:00",
-    "last_post": {
-      "url": "https://mas.to/@steveruizok/109689552549944301",
-      "content": "<p>RT @danqing_liu@twitter.com</p><p>Do you use a Mac with a trackpad? If so, you may have noticed that the pinch to zoom gesture can randomly stop working.</p><p>I've been bothered by it enough that I made a small menubar tool that can fix the problem with one click.</p><p>Download it here: <a href=\"https://github.com/danqing/Pinch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/danqing/Pinch</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/danqing_liu/status/1614308997653499905\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/danqing_liu/status</span><span class=\"invisible\">/1614308997653499905</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@steveruizok",
-        "display_name": "Steve Ruiz"
       }
     ]
   },
@@ -3374,37 +3410,5 @@
       }
     ],
     "first": "2023-01-05T18:24:30+00:00"
-  },
-  {
-    "link": "https://observablehq.com/@mauforonda/who-to-follow-on-mastodon?collection=@observablehq/mastodon-visualizations",
-    "title": "Who to follow on mastodon",
-    "latest": "2023-01-05T18:24:30+00:00",
-    "last_post": {
-      "url": "https://vis.social/@waynesutton/109627148173475179",
-      "content": "<p>There's a new who to follow on <a href=\"https://vis.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a>  notebook on <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> <a href=\"https://observablehq.com/@mauforonda/who-to-follow-on-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@mauforonda/w</span><span class=\"invisible\">ho-to-follow-on-mastodon</span></a> more mastodon notebooks in the collection here <a href=\"https://observablehq.com/@mauforonda/who-to-follow-on-mastodon?collection=@observablehq/mastodon-visualizations\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@mauforonda/w</span><span class=\"invisible\">ho-to-follow-on-mastodon?collection=@observablehq/mastodon-visualizations</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@observablehq",
-        "display_name": ""
-      }
-    ],
-    "first": "2023-01-05T18:24:30+00:00"
-  },
-  {
-    "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion",
-    "title": "Textual Inversion \u00b7 AUTOMATIC1111/stable-diffusion-webui Wiki",
-    "latest": "2023-01-05T17:12:06+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109637625698226053",
-      "content": "<p>Automatic1111 is back on GitHub after removing Embedding Links - <a href=\"https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AUTOMATIC1111/stabl</span><span class=\"invisible\">e-diffusion-webui/wiki/Textual-Inversion</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      }
-    ],
-    "first": "2023-01-05T17:12:06+00:00"
   }
 ]

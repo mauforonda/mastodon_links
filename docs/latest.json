@@ -1,5 +1,453 @@
 [
   {
+    "link": "https://mstdn.social/@DocOnDev/109688455326009892",
+    "title": "Doc Norton (@DocOnDev@mstdn.social)",
+    "latest": "2023-01-15T08:52:19+00:00",
+    "first": "2023-01-15T08:52:19+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@dahukanna/109692370224406240",
+      "content": "<p>Related - <a href=\"https://mstdn.social/@DocOnDev/109688455326009892\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mstdn.social/@DocOnDev/1096884</span><span class=\"invisible\">55326009892</span></a></p><p>\u201cOptimism is an occupational hazard of programming: feedback is the treatment.<br>- @KentBeck@twitter.com\u201d</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@dahukanna",
+        "display_name": "Dawn Ahukanna"
+      }
+    ]
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Louis_Le_Prince",
+    "title": "Louis Le Prince - Wikipedia",
+    "latest": "2023-01-15T08:43:12+00:00",
+    "first": "2023-01-15T08:43:12+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@jalefkowit/109692228543138387",
+      "content": "<p>Every schoolchild knows that Thomas Edison invented the motion picture camera. Right?</p><p>Not so fast. Edison first publicly exhibited his motion picture system (actually designed by an employee of his, William Kennedy Dickson) in 1891. But three years before that, in 1888, a Frenchman, Louis Le Prince, shot what is now believed to be the oldest surviving motion picture \u2014 a scene of his family in the garden of their house in Leeds, England. Le Prince got a British patent for his work that same year.</p><p>So why doesn\u2019t the world remember Louis Le Prince as the inventor of the motion picture? Because on September 16, 1890, while preparing for the first public exhibition of his system, Louis Le Prince got on a train\u2026 and vanished. </p><p>The inventor was never seen again. In the 132 years that followed, no one has ever been able to establish what happened to him.</p><p><a href=\"https://en.wikipedia.org/wiki/Louis_Le_Prince\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Louis_Le</span><span class=\"invisible\">_Prince</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Edent",
+        "display_name": "Terence Eden"
+      }
+    ]
+  },
+  {
+    "link": "https://medium.com/@ricraftis/how-to-transcribe-youtube-podcasts-or-videos-for-obsidian-notes-ad81335102bf",
+    "title": "How to Transcribe YouTube Podcasts or Videos for Obsidian Notes",
+    "latest": "2023-01-15T08:30:05+00:00",
+    "first": "2023-01-15T08:30:05+00:00",
+    "last_post": {
+      "url": "https://pkm.social/@ricraftis/109691225464354586",
+      "content": "<p>Forget the pen and paper. This is an easy way to generate notes from a Youtube video or podcast and even get a summary from ChatGPT. <a href=\"https://pkm.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://pkm.social/tags/obsidian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>obsidian</span></a> <a href=\"https://pkm.social/tags/notetaking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>notetaking</span></a> <a href=\"https://pkm.social/tags/transcription\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transcription</span></a> <a href=\"https://medium.com/@ricraftis/how-to-transcribe-youtube-podcasts-or-videos-for-obsidian-notes-ad81335102bf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">medium.com/@ricraftis/how-to-t</span><span class=\"invisible\">ranscribe-youtube-podcasts-or-videos-for-obsidian-notes-ad81335102bf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://pkm.social/@eleanorkonik",
+        "display_name": "Eleanor Konik"
+      }
+    ]
+  },
+  {
+    "link": "https://www.themarginalian.org/2022/07/13/avocado/",
+    "title": "Chance, Choice, and the Avocado: The Strange Evolutionary and Creative History of Earth\u2019s Most Nutritious Fruit",
+    "latest": "2023-01-15T08:27:37+00:00",
+    "first": "2023-01-15T08:27:37+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@mariapopova/109690333587434765",
+      "content": "<p>Chance, choice, and the avocado \u2013 the strange evolutionary and creative history of Earth's most nutritious fruit <a href=\"https://www.themarginalian.org/2022/07/13/avocado/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">themarginalian.org/2022/07/13/</span><span class=\"invisible\">avocado/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ctietze",
+        "display_name": "Christian Tietze"
+      }
+    ]
+  },
+  {
+    "link": "https://www.bram.us/2021/07/23/prevent-unwanted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/",
+    "title": "Prevent unwanted Layout Shifts caused by Scrollbars with the scrollbar-gutter CSS property",
+    "latest": "2023-01-15T08:25:17+00:00",
+    "first": "2023-01-13T11:19:51+00:00",
+    "last_post": {
+      "url": "https://typo.social/@pixelambacht/109681625740703602",
+      "content": "<p>TIL you can prevent layout shift when changing from</p><p>overflow: hidden;</p><p>to </p><p>overflow: auto; /* or scroll */</p><p>by adding</p><p>scrollbar-gutter: stable;</p><p>to the container \ud83e\udd2f</p><p>No more hacky padding-and-JavaScript shenanigans! Thanks <span class=\"h-card\"><a href=\"https://front-end.social/@bramus\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bramus</span></a></span> for sharing!</p><p><a href=\"https://www.bram.us/2021/07/23/prevent-unwanted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bram.us/2021/07/23/prevent-unw</span><span class=\"invisible\">anted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://typo.social/@pixelambacht",
+        "display_name": "Roel Nieskens"
+      },
+      {
+        "url": "https://toot.cafe/@oliverturner",
+        "display_name": "Oliver"
+      },
+      {
+        "url": "https://front-end.social/@saneef",
+        "display_name": "Saneef H. Ansari"
+      }
+    ]
+  },
+  {
+    "link": "https://heidiseibold.ck.page/",
+    "title": "Heidi's newsletter",
+    "latest": "2023-01-15T08:22:40+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@HeidiSeibold/109692253698992882",
+      "content": "<p>Here's my newsletter btw \ud83e\udd13 </p><p><a href=\"https://heidiseibold.ck.page/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">heidiseibold.ck.page/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@HeidiSeibold",
+        "display_name": "Heidi Seibold"
+      }
+    ],
+    "first": "2023-01-02T10:52:35+00:00"
+  },
+  {
+    "link": "https://heidiseibold.ck.page/products/tip-jar",
+    "title": "Tip Jar",
+    "latest": "2023-01-15T08:21:25+00:00",
+    "first": "2023-01-15T08:21:25+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@HeidiSeibold/109692248782254505",
+      "content": "<p>\ud83e\udd29 \ud83c\udf89 \ud83c\udf89 \ud83c\udf89  OMG people put 60\u20ac into my tip jar \ud83e\udd29 \ud83c\udf89 \ud83c\udf89 \ud83c\udf89 </p><p>I hand out lots of free content about <a href=\"https://fosstodon.org/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> and reproducible data science and in my last newsletter I gave people the option to leave a tip.</p><p>I got 60\u20ac so far. Incredible! I am so happy, thanks friends \u2728 </p><p>\ud83e\udd29 \ud83c\udf89 \ud83c\udf89 \ud83c\udf89 </p><p><a href=\"https://heidiseibold.ck.page/products/tip-jar\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">heidiseibold.ck.page/products/</span><span class=\"invisible\">tip-jar</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@HeidiSeibold",
+        "display_name": "Heidi Seibold"
+      }
+    ]
+  },
+  {
+    "link": "https://www.tomshardware.com/news/amd-discloses-31-new-cpu-vulnerabilities",
+    "title": "AMD Discloses 31 New CPU Vulnerabilities, Issues Patch Guidance",
+    "latest": "2023-01-15T08:20:54+00:00",
+    "first": "2023-01-15T08:20:54+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@pauldokas/109691827667446220",
+      "content": "<p>\u201cAMD quietly divulged 31 new CPU vulnerabilities in a January update, spanning its Ryzen chips for consumers and the EPYC data center processors. The vulnerability update also includes a list of AGESA versions, with mitigations for the impacted processors.\u201d<br><a href=\"https://www.tomshardware.com/news/amd-discloses-31-new-cpu-vulnerabilities\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tomshardware.com/news/amd-disc</span><span class=\"invisible\">loses-31-new-cpu-vulnerabilities</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "https://www.alltrails.com/explore/recording/point-reyes-overnight-extended-loop-548f45b",
+    "title": "alltrails.com/explore/recordin...",
+    "latest": "2023-01-15T08:19:31+00:00",
+    "first": "2023-01-15T08:19:31+00:00",
+    "last_post": {
+      "url": "https://vis.social/@idan/109692241266325575",
+      "content": "<p>This is \"less ambitious\" because last time I did an overnight 53k/1.5k, and it felt glorious but hard.</p><p><a href=\"https://www.alltrails.com/explore/recording/point-reyes-overnight-extended-loop-548f45b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">alltrails.com/explore/recordin</span><span class=\"invisible\">g/point-reyes-overnight-extended-loop-548f45b</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@idan",
+        "display_name": "Idan Gazit"
+      }
+    ]
+  },
+  {
+    "link": "https://commoncog.com/shape-of-technological-window/",
+    "title": "The Shape of a Technological Window",
+    "latest": "2023-01-15T08:13:30+00:00",
+    "first": "2023-01-15T08:13:30+00:00",
+    "last_post": {
+      "url": "https://toolsforthought.rocks/@andric/109692217618302651",
+      "content": "<p>Google\u2019s positioning when it comes to LLMs brings to mind the idea of a \u201ctechnological window\u201d.</p><p>Google is not \"missing the boat\", the window is simply not yet open (but possibly might open very soon)</p><p>Great article by @ejames_c@twitter.com here: <a href=\"https://commoncog.com/shape-of-technological-window/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">commoncog.com/shape-of-technol</span><span class=\"invisible\">ogical-window/</span></a></p><p>RT @cwolferesearch@twitter.com</p><p>Are large language models (LLMs) going to kill Google? Probably not. Here\u2019s why\u2026 \ud83e\uddf5[1/7]</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/cwolferesearch/status/1614296676340232193\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/cwolferesearch/sta</span><span class=\"invisible\">tus/1614296676340232193</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toolsforthought.rocks/@andric",
+        "display_name": "Andric Tham"
+      }
+    ]
+  },
+  {
+    "link": "https://www.preprintclub.com/",
+    "title": "Preprint Journal Club",
+    "latest": "2023-01-15T08:09:15+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@erinnacland/109665844855391471",
+      "content": "<p>If we shift from publishing in journals to posting preprints...how do we get feedback on our work?</p><p>One group's solution is to create \"Preprint Clubs\", where communities of academics host regular journal clubs where they review and then post their reviews online: <a href=\"https://www.preprintclub.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">preprintclub.com</span><span class=\"invisible\"></span></a> </p><p>Preprints rated most favourably by the group are then featured in a participating journal. </p><p>via <a href=\"https://doi.org/10.1101/2023.01.04.522570\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1101/2023.01.04.522</span><span class=\"invisible\">570</span></a><br><a href=\"https://fediscience.org/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> <a href=\"https://fediscience.org/tags/AcademicPublishing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AcademicPublishing</span></a> <a href=\"https://fediscience.org/tags/ResearchIntegrity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ResearchIntegrity</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://tooting.ch/@DdelAlamo",
+        "display_name": "Diego del Alamo"
+      },
+      {
+        "url": "https://fediscience.org/@erinnacland",
+        "display_name": "Erinn Acland, PhD"
+      },
+      {
+        "url": "https://fediscience.org/@salonium",
+        "display_name": "Saloni \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      }
+    ],
+    "first": "2023-01-06T07:10:03+00:00"
+  },
+  {
+    "link": "https://doi.org/10.1101/2023.01.04.522570",
+    "title": "doi.org/10.1101/2023.01.04.522...",
+    "latest": "2023-01-15T08:09:15+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@erinnacland/109665844855391471",
+      "content": "<p>If we shift from publishing in journals to posting preprints...how do we get feedback on our work?</p><p>One group's solution is to create \"Preprint Clubs\", where communities of academics host regular journal clubs where they review and then post their reviews online: <a href=\"https://www.preprintclub.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">preprintclub.com</span><span class=\"invisible\"></span></a> </p><p>Preprints rated most favourably by the group are then featured in a participating journal. </p><p>via <a href=\"https://doi.org/10.1101/2023.01.04.522570\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1101/2023.01.04.522</span><span class=\"invisible\">570</span></a><br><a href=\"https://fediscience.org/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> <a href=\"https://fediscience.org/tags/AcademicPublishing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AcademicPublishing</span></a> <a href=\"https://fediscience.org/tags/ResearchIntegrity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ResearchIntegrity</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://berlin.social/@psm_os",
+        "display_name": "Paul Schultze-Motel"
+      },
+      {
+        "url": "https://fediscience.org/@erinnacland",
+        "display_name": "Erinn Acland, PhD"
+      },
+      {
+        "url": "https://fediscience.org/@salonium",
+        "display_name": "Saloni \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      }
+    ],
+    "first": "2023-01-06T12:22:48+00:00"
+  },
+  {
+    "link": "http://www.kamranrastegar.com/",
+    "title": "http://www.kamranrastegar.com",
+    "latest": "2023-01-15T08:05:09+00:00",
+    "first": "2023-01-15T08:05:09+00:00",
+    "last_post": {
+      "url": "https://hcommons.social/@krastegar/109691994607379121",
+      "content": "<p><a href=\"https://hcommons.social/tags/introductions\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>introductions</span></a>: I just switched instances, am happy to be joining the h-commons community. I\u2019m a professor of comparative literature at Tufts University, specializing in modern Arabic, Persian, English and French literatures and film studies. My work generally is concerned with conflict and post-conflict memory studies, cultural discourses of colonialism, translation studies, and cultural history. More on all of this at <a href=\"http://www.kamranrastegar.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"\">kamranrastegar.com</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/flathub/com.calibre_ebook.calibre/issues/153",
+    "title": "Windows missing borders and mouse pointer too small \u00b7 Issue #153 \u00b7 flathub/com.calibre_ebook.calibre",
+    "latest": "2023-01-15T08:02:01+00:00",
+    "first": "2023-01-15T08:02:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Edent/109692172460086576",
+      "content": "<p>Any <a href=\"https://mastodon.social/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a> nerds able to help me with an irritating <a href=\"https://mastodon.social/tags/Flatpak\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flatpak</span></a> problem?</p><p><a href=\"https://github.com/flathub/com.calibre_ebook.calibre/issues/153\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/flathub/com.calibre</span><span class=\"invisible\">_ebook.calibre/issues/153</span></a></p><p>For some reason, <a href=\"https://mastodon.social/tags/Calibre\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Calibre</span></a> doesn't have any window decorations and my mouse cursor is the wrong size. This is the only Flatpak which acts this way.  Any clues on what incantation I need to fix it?</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Edent",
+        "display_name": "Terence Eden"
+      }
+    ]
+  },
+  {
+    "link": "https://w3c.social/@tag/109682533903910546",
+    "title": "Technical Architecture Group (@tag@w3c.social)",
+    "latest": "2023-01-15T07:52:02+00:00",
+    "first": "2023-01-15T07:52:02+00:00",
+    "last_post": {
+      "url": "https://someone.elses.computer/@mikarv/109692133201807102",
+      "content": "<p><span class=\"h-card\"><a href=\"https://w3c.social/@w3c\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>w3c</span></a></span> <span class=\"h-card\"><a href=\"https://w3c.social/@tag\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tag</span></a></span> reject Google\u2019s in-browser ad-targeting system Topics again. (minutes: <a href=\"https://w3c.social/@tag/109682533903910546\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">w3c.social/@tag/10968253390391</span><span class=\"invisible\">0546</span></a>) <span class=\"h-card\"><a href=\"https://mastodon.social/@robin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>robin</span></a></span> notes Topics has \u2018little chance of a credible future\u2019. Now Google say they will ignore standard-setting; they are \u201ccommitted to Topics\u201d and \u201cmoving forward\u201d <a href=\"https://www.businessinsider.com/web-standards-body-w3c-rejects-googles-ad-targeting-proposal-2023-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">businessinsider.com/web-standa</span><span class=\"invisible\">rds-body-w3c-rejects-googles-ad-targeting-proposal-2023-1</span></a>. Chromium\u2019s dominance makes standards a convenient charade for G\u2019s power.</p>"
+    },
+    "people": [
+      {
+        "url": "https://someone.elses.computer/@mikarv",
+        "display_name": "Michael Veale"
+      }
+    ]
+  },
+  {
+    "link": "https://www.businessinsider.com/web-standards-body-w3c-rejects-googles-ad-targeting-proposal-2023-1",
+    "title": "businessinsider.com/web-standa...",
+    "latest": "2023-01-15T07:52:02+00:00",
+    "first": "2023-01-15T07:52:02+00:00",
+    "last_post": {
+      "url": "https://someone.elses.computer/@mikarv/109692133201807102",
+      "content": "<p><span class=\"h-card\"><a href=\"https://w3c.social/@w3c\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>w3c</span></a></span> <span class=\"h-card\"><a href=\"https://w3c.social/@tag\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tag</span></a></span> reject Google\u2019s in-browser ad-targeting system Topics again. (minutes: <a href=\"https://w3c.social/@tag/109682533903910546\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">w3c.social/@tag/10968253390391</span><span class=\"invisible\">0546</span></a>) <span class=\"h-card\"><a href=\"https://mastodon.social/@robin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>robin</span></a></span> notes Topics has \u2018little chance of a credible future\u2019. Now Google say they will ignore standard-setting; they are \u201ccommitted to Topics\u201d and \u201cmoving forward\u201d <a href=\"https://www.businessinsider.com/web-standards-body-w3c-rejects-googles-ad-targeting-proposal-2023-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">businessinsider.com/web-standa</span><span class=\"invisible\">rds-body-w3c-rejects-googles-ad-targeting-proposal-2023-1</span></a>. Chromium\u2019s dominance makes standards a convenient charade for G\u2019s power.</p>"
+    },
+    "people": [
+      {
+        "url": "https://someone.elses.computer/@mikarv",
+        "display_name": "Michael Veale"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/danqing/Pinch",
+    "title": "GitHub - danqing/Pinch: One-click fix for Mac trackpad pinch to zoom gesture",
+    "latest": "2023-01-15T07:42:07+00:00",
+    "first": "2023-01-14T20:55:44+00:00",
+    "last_post": {
+      "url": "https://mas.to/@steveruizok/109689552549944301",
+      "content": "<p>RT @danqing_liu@twitter.com</p><p>Do you use a Mac with a trackpad? If so, you may have noticed that the pinch to zoom gesture can randomly stop working.</p><p>I've been bothered by it enough that I made a small menubar tool that can fix the problem with one click.</p><p>Download it here: <a href=\"https://github.com/danqing/Pinch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/danqing/Pinch</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/danqing_liu/status/1614308997653499905\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/danqing_liu/status</span><span class=\"invisible\">/1614308997653499905</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@steveruizok",
+        "display_name": "Steve Ruiz"
+      },
+      {
+        "url": "https://mastodon.social/@skuwamoto",
+        "display_name": "Sho Kuwamoto"
+      }
+    ]
+  },
+  {
+    "link": "https://bysusanlin.com/working-together/",
+    "title": "Susan Lin \u2013 Working Together",
+    "latest": "2023-01-15T07:41:29+00:00",
+    "first": "2023-01-14T23:18:04+00:00",
+    "last_post": {
+      "url": "https://xoxo.zone/@sonder/109689202113344001",
+      "content": "<p>Hi Fediverse,</p><p>I'm looking for part-time freelance work!</p><p>Available for Product Design work, Front-end Design Systems, Operations, or a combination thereof. Anything I'm able to offer from my tech career plus what I've learned running a company.</p><p>If we've worked together in the past, I'd love to do it again. </p><p>More info: <a href=\"https://bysusanlin.com/working-together/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bysusanlin.com/working-togethe</span><span class=\"invisible\">r/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      },
+      {
+        "url": "https://bell.bz/@andy",
+        "display_name": "Andy Bell"
+      }
+    ]
+  },
+  {
+    "link": "https://thesphinxblog.com/2023/01/14/nothing-even-matters/",
+    "title": "Nothing Even Matters",
+    "latest": "2023-01-15T07:33:52+00:00",
+    "first": "2023-01-15T07:33:52+00:00",
+    "last_post": {
+      "url": "https://fedihum.org/@christof/109692061762596676",
+      "content": "<p>Good post on <a href=\"https://fedihum.org/tags/blogs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>blogs</span></a>, peer review and scholarly prestige in the context of <a href=\"https://fedihum.org/tags/receptiogate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>receptiogate</span></a> by Neville Morley: \"Nothing Even Matters\", <a href=\"https://thesphinxblog.com/2023/01/14/nothing-even-matters/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thesphinxblog.com/2023/01/14/n</span><span class=\"invisible\">othing-even-matters/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      }
+    ]
+  },
+  {
+    "link": "https://daringfireball.net/linked/2023/01/14/information-twitter-slack-confirmation",
+    "title": "If You Needed Any More Confirmation, Internal Slack Messages at Twitter Show That Cutting Off Third-Party Clients Was \u2018Intentional\u2019",
+    "latest": "2023-01-15T07:25:57+00:00",
+    "first": "2023-01-15T00:47:41+00:00",
+    "last_post": {
+      "url": "https://tapbots.social/@paul/109690459325958983",
+      "content": "<p>DF has a good summation of this latest revelation.</p><p><a href=\"https://daringfireball.net/linked/2023/01/14/information-twitter-slack-confirmation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">daringfireball.net/linked/2023</span><span class=\"invisible\">/01/14/information-twitter-slack-confirmation</span></a></p><p>Even without these leaks if you add up the lack of communication, only impacting the top 25-50 Twitter API clients and clients showing up as suspended in the dev. dashboard. The only conclusion at this point is that it was intentional and not any kind of bug.</p><p>For the record, still no official or even unofficial communication from anyone within Twitter.</p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      },
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2618\ufe0f"
+      },
+      {
+        "url": "https://bell.bz/@andy",
+        "display_name": "Andy Bell"
+      }
+    ]
+  },
+  {
+    "link": "https://aiguide.substack.com/p/response-to-on-analogy-making-in",
+    "title": "Response to \"On Analogy-Making in Large Language Models\"",
+    "latest": "2023-01-15T07:23:41+00:00",
+    "first": "2023-01-11T21:08:47+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@judell/109692021745961981",
+      "content": "<p>See also: </p><p><a href=\"https://aiguide.substack.com/p/on-analogy-making-in-large-language\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">aiguide.substack.com/p/on-anal</span><span class=\"invisible\">ogy-making-in-large-language</span></a></p><p><a href=\"https://aiguide.substack.com/p/response-to-on-analogy-making-in\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">aiguide.substack.com/p/respons</span><span class=\"invisible\">e-to-on-analogy-making-in</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@melaniemitchell",
+        "display_name": "Melanie Mitchell"
+      },
+      {
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
+      }
+    ]
+  },
+  {
+    "link": "https://aiguide.substack.com/p/on-analogy-making-in-large-language",
+    "title": "On Analogy-Making in Large Language Models",
+    "latest": "2023-01-15T07:23:41+00:00",
+    "first": "2023-01-15T07:23:41+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@judell/109692021745961981",
+      "content": "<p>See also: </p><p><a href=\"https://aiguide.substack.com/p/on-analogy-making-in-large-language\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">aiguide.substack.com/p/on-anal</span><span class=\"invisible\">ogy-making-in-large-language</span></a></p><p><a href=\"https://aiguide.substack.com/p/response-to-on-analogy-making-in\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">aiguide.substack.com/p/respons</span><span class=\"invisible\">e-to-on-analogy-making-in</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
+      }
+    ]
+  },
+  {
+    "link": "https://web.archive.org/web/20070204023018/https://www.byte.com/art/9503/sec6/art2.htm",
+    "title": "BYTE.com",
+    "latest": "2023-01-15T07:09:14+00:00",
+    "first": "2023-01-15T07:09:14+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@judell/109691964911224299",
+      "content": "<p>Both Douglas Hofstadter and Geoffrey Hinton put analogical thinking at the core of human intelligence. Hinton thinks AIs like ChatGPT are particularly good at creative analogies too.</p><p>So I tried the CopyCat test. ChatGPT gets the simple analogy, but fails -- even when prompted -- to find the subtler one.</p><p><a href=\"https://mastodon.social/tags/FluidConceptsAndCreativeAnalogies\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FluidConceptsAndCreativeAnalogies</span></a></p><p><a href=\"https://mastodon.social/tags/Copycat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Copycat</span></a> </p><p><a href=\"https://mastodon.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a></p><p><span class=\"h-card\"><a href=\"https://sigmoid.social/@melaniemitchell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>melaniemitchell</span></a></span>, <span class=\"h-card\"><a href=\"https://sigmoid.social/@cigitalgem\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cigitalgem</span></a></span> </p><p>1995 BYTE review of Fluid Concepts and Creative Analogies: <a href=\"https://web.archive.org/web/20070204023018/https://www.byte.com/art/9503/sec6/art2.htm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">web.archive.org/web/2007020402</span><span class=\"invisible\">3018/https://www.byte.com/art/9503/sec6/art2.htm</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
+      }
+    ]
+  },
+  {
+    "link": "https://boffosocko.com/2023/01/14/a-note-about-my-article-on-goitein-with-respect-to-zettelkasten-output-processes/",
+    "title": "A note about my article on Goitein with respect to Zettelkasten Output Processes",
+    "latest": "2023-01-15T07:04:57+00:00",
+    "first": "2023-01-15T07:05:04+00:00",
+    "last_post": {
+      "url": "https://boffosocko.com/2023/01/14/a-note-about-my-article-on-goitein-with-respect-to-zettelkasten-output-processes/",
+      "content": "<p><a href=\"https://boffosocko.com/2023/01/14/a-note-about-my-article-on-goitein-with-respect-to-zettelkasten-output-processes/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">boffosocko.com/2023/01/14/a-no</span><span class=\"invisible\">te-about-my-article-on-goitein-with-respect-to-zettelkasten-output-processes/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chrisaldrich",
+        "display_name": "Chris Aldrich"
+      },
+      {
+        "url": "https://boffosocko.com/author/chrisaldrich/",
+        "display_name": "Chris Aldrich"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9?permalink_comment_id=4437411#gistcomment-4437411",
+    "title": "Extracting and summarizing text with youtube-dl and GPT-3",
+    "latest": "2023-01-15T06:32:29+00:00",
+    "first": "2023-01-15T06:32:29+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109691820404202295",
+      "content": "<p>I also pasted the second half of the transcript into ChatGPT so I could ask it some follow up questions, which proved to be a neat alternative way of consuming the summarized content: <a href=\"https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9?permalink_comment_id=4437411#gistcomment-4437411\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/simonw/9932c6f</span><span class=\"invisible\">10e241cfa6b19a4e08b283ca9?permalink_comment_id=4437411#gistcomment-4437411</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://boffosocko.com/2023/01/14/s-d-goiteins-card-index-or-zettelkasten/",
     "title": "S.D. Goitein\u2019s Card Index (or Zettelkasten)",
     "latest": "2023-01-15T06:06:57+00:00",
@@ -720,26 +1168,6 @@
     ]
   },
   {
-    "link": "https://daringfireball.net/linked/2023/01/14/information-twitter-slack-confirmation",
-    "title": "If You Needed Any More Confirmation, Internal Slack Messages at Twitter Show That Cutting Off Third-Party Clients Was \u2018Intentional\u2019",
-    "latest": "2023-01-15T01:29:26+00:00",
-    "first": "2023-01-15T00:47:41+00:00",
-    "last_post": {
-      "url": "https://social.masto.land/@dave/109690531166687752",
-      "content": "<p>Internal Slack Messages at Twitter Show That Cutting Off Third-Party Clients Was Intentional.</p><p><a href=\"https://daringfireball.net/linked/2023/01/14/information-twitter-slack-confirmation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">daringfireball.net/linked/2023</span><span class=\"invisible\">/01/14/information-twitter-slack-confirmation</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
-      },
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2618\ufe0f"
-      }
-    ]
-  },
-  {
     "link": "https://youtu.be/TLL8jARrdTQ",
     "title": "https://youtu.be/TLL8jARrdTQ",
     "latest": "2023-01-15T01:23:36+00:00",
@@ -1276,22 +1704,6 @@
       {
         "url": "https://vis.social/@idan",
         "display_name": "Idan Gazit"
-      }
-    ]
-  },
-  {
-    "link": "https://bysusanlin.com/working-together/",
-    "title": "Susan Lin \u2013 Working Together",
-    "latest": "2023-01-14T23:18:04+00:00",
-    "first": "2023-01-14T23:18:04+00:00",
-    "last_post": {
-      "url": "https://xoxo.zone/@sonder/109689202113344001",
-      "content": "<p>Hi Fediverse,</p><p>I'm looking for part-time freelance work!</p><p>Available for Product Design work, Front-end Design Systems, Operations, or a combination thereof. Anything I'm able to offer from my tech career plus what I've learned running a company.</p><p>If we've worked together in the past, I'd love to do it again. </p><p>More info: <a href=\"https://bysusanlin.com/working-together/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bysusanlin.com/working-togethe</span><span class=\"invisible\">r/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
       }
     ]
   },
@@ -1936,26 +2348,6 @@
     ]
   },
   {
-    "link": "https://www.bram.us/2021/07/23/prevent-unwanted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/",
-    "title": "Prevent unwanted Layout Shifts caused by Scrollbars with the scrollbar-gutter CSS property",
-    "latest": "2023-01-14T21:14:59+00:00",
-    "first": "2023-01-13T11:19:51+00:00",
-    "last_post": {
-      "url": "https://typo.social/@pixelambacht/109681625740703602",
-      "content": "<p>TIL you can prevent layout shift when changing from</p><p>overflow: hidden;</p><p>to </p><p>overflow: auto; /* or scroll */</p><p>by adding</p><p>scrollbar-gutter: stable;</p><p>to the container \ud83e\udd2f</p><p>No more hacky padding-and-JavaScript shenanigans! Thanks <span class=\"h-card\"><a href=\"https://front-end.social/@bramus\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bramus</span></a></span> for sharing!</p><p><a href=\"https://www.bram.us/2021/07/23/prevent-unwanted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bram.us/2021/07/23/prevent-unw</span><span class=\"invisible\">anted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://typo.social/@pixelambacht",
-        "display_name": "Roel Nieskens"
-      },
-      {
-        "url": "https://toot.cafe/@oliverturner",
-        "display_name": "Oliver"
-      }
-    ]
-  },
-  {
     "link": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
     "title": "Semantic search answers: Q&A against documentation with GPT3 + OpenAI embeddings",
     "latest": "2023-01-14T21:13:08+00:00",
@@ -2016,22 +2408,6 @@
       {
         "url": "https://sciences.social/@mjb",
         "display_name": "mark"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/danqing/Pinch",
-    "title": "GitHub - danqing/Pinch: One-click fix for Mac trackpad pinch to zoom gesture",
-    "latest": "2023-01-14T20:55:44+00:00",
-    "first": "2023-01-14T20:55:44+00:00",
-    "last_post": {
-      "url": "https://mas.to/@steveruizok/109689552549944301",
-      "content": "<p>RT @danqing_liu@twitter.com</p><p>Do you use a Mac with a trackpad? If so, you may have noticed that the pinch to zoom gesture can randomly stop working.</p><p>I've been bothered by it enough that I made a small menubar tool that can fix the problem with one click.</p><p>Download it here: <a href=\"https://github.com/danqing/Pinch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/danqing/Pinch</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/danqing_liu/status/1614308997653499905\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/danqing_liu/status</span><span class=\"invisible\">/1614308997653499905</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@steveruizok",
-        "display_name": "Steve Ruiz"
       }
     ]
   },
@@ -3288,366 +3664,6 @@
       {
         "url": "https://mastodon.social/@bruces",
         "display_name": "Bruce Sterling @bruces"
-      }
-    ]
-  },
-  {
-    "link": "https://thetyee.ca/Analysis/2023/01/11/Revolution-Clean-Indoor-Air/",
-    "title": "We Need a Revolution in Clean Indoor Air | The Tyee",
-    "latest": "2023-01-14T18:29:29+00:00",
-    "first": "2023-01-12T03:44:36+00:00",
-    "last_post": {
-      "url": "https://peoplemaking.games/@eniko/109688658317266976",
-      "content": "<p>\u201cSafe air, provided by technologies developed and implemented by mechanical engineers, will stop COVID-19 and its mutations, as well as colds, flus, and other airborne diseases,\u201d Forsberg wrote. \u201cBut first we will have to make a conscious decision to build them.\u201d</p><p>Until then, don\u2019t expect this pandemic to end, let alone fade away.<br><a href=\"https://thetyee.ca/Analysis/2023/01/11/Revolution-Clean-Indoor-Air/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thetyee.ca/Analysis/2023/01/11</span><span class=\"invisible\">/Revolution-Clean-Indoor-Air/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.ca/@dupuisj",
-        "display_name": "John Dupuis"
-      },
-      {
-        "url": "https://mathstodon.xyz/@gregeganSF",
-        "display_name": "Greg Egan"
-      },
-      {
-        "url": "https://social.treehouse.systems/@ariadne",
-        "display_name": "Ariadne Conill \ud83d\udc30"
-      },
-      {
-        "url": "https://hcommons.social/@p3palazzo",
-        "display_name": "Pedro P. Palazzo"
-      },
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
-      }
-    ]
-  },
-  {
-    "link": "http://gokrazy.org/",
-    "title": "http://gokrazy.org/",
-    "latest": "2023-01-14T18:26:23+00:00",
-    "first": "2023-01-14T18:26:23+00:00",
-    "last_post": {
-      "url": "https://mas.to/@zekjur/109686883685523522",
-      "content": "<p>My <a href=\"https://mas.to/tags/golang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>golang</span></a> appliance platform <a href=\"http://gokrazy.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">gokrazy.org/</span><span class=\"invisible\"></span></a> now has a re-designed configuration and \u201cgok\u201d CLI tool! \ud83c\udf89</p><p>See <a href=\"https://gokrazy.org/quickstart/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gokrazy.org/quickstart/</span><span class=\"invisible\"></span></a> for installation and usage instructions</p><p>See <a href=\"https://gokrazy.org/userguide/instance-config/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gokrazy.org/userguide/instance</span><span class=\"invisible\">-config/</span></a> for the config reference</p><p>See <a href=\"https://gokrazy.org/userguide/migration-guide/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gokrazy.org/userguide/migratio</span><span class=\"invisible\">n-guide/</span></a> for the migration guide from gokr-packer to gok</p>"
-    },
-    "people": [
-      {
-        "url": "https://sre.masto.host/@jinxos",
-        "display_name": "Dimitrios Psychogios"
-      }
-    ]
-  },
-  {
-    "link": "https://gokrazy.org/quickstart/",
-    "title": "gokrazy :: gokrazy",
-    "latest": "2023-01-14T18:26:23+00:00",
-    "first": "2023-01-14T18:26:23+00:00",
-    "last_post": {
-      "url": "https://mas.to/@zekjur/109686883685523522",
-      "content": "<p>My <a href=\"https://mas.to/tags/golang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>golang</span></a> appliance platform <a href=\"http://gokrazy.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">gokrazy.org/</span><span class=\"invisible\"></span></a> now has a re-designed configuration and \u201cgok\u201d CLI tool! \ud83c\udf89</p><p>See <a href=\"https://gokrazy.org/quickstart/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gokrazy.org/quickstart/</span><span class=\"invisible\"></span></a> for installation and usage instructions</p><p>See <a href=\"https://gokrazy.org/userguide/instance-config/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gokrazy.org/userguide/instance</span><span class=\"invisible\">-config/</span></a> for the config reference</p><p>See <a href=\"https://gokrazy.org/userguide/migration-guide/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gokrazy.org/userguide/migratio</span><span class=\"invisible\">n-guide/</span></a> for the migration guide from gokr-packer to gok</p>"
-    },
-    "people": [
-      {
-        "url": "https://sre.masto.host/@jinxos",
-        "display_name": "Dimitrios Psychogios"
-      }
-    ]
-  },
-  {
-    "link": "https://gokrazy.org/userguide/instance-config/",
-    "title": "gokrazy :: gokrazy",
-    "latest": "2023-01-14T18:26:23+00:00",
-    "first": "2023-01-14T18:26:23+00:00",
-    "last_post": {
-      "url": "https://mas.to/@zekjur/109686883685523522",
-      "content": "<p>My <a href=\"https://mas.to/tags/golang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>golang</span></a> appliance platform <a href=\"http://gokrazy.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">gokrazy.org/</span><span class=\"invisible\"></span></a> now has a re-designed configuration and \u201cgok\u201d CLI tool! \ud83c\udf89</p><p>See <a href=\"https://gokrazy.org/quickstart/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gokrazy.org/quickstart/</span><span class=\"invisible\"></span></a> for installation and usage instructions</p><p>See <a href=\"https://gokrazy.org/userguide/instance-config/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gokrazy.org/userguide/instance</span><span class=\"invisible\">-config/</span></a> for the config reference</p><p>See <a href=\"https://gokrazy.org/userguide/migration-guide/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gokrazy.org/userguide/migratio</span><span class=\"invisible\">n-guide/</span></a> for the migration guide from gokr-packer to gok</p>"
-    },
-    "people": [
-      {
-        "url": "https://sre.masto.host/@jinxos",
-        "display_name": "Dimitrios Psychogios"
-      }
-    ]
-  },
-  {
-    "link": "https://gokrazy.org/userguide/migration-guide/",
-    "title": "gokrazy :: gokrazy",
-    "latest": "2023-01-14T18:26:23+00:00",
-    "first": "2023-01-14T18:26:23+00:00",
-    "last_post": {
-      "url": "https://mas.to/@zekjur/109686883685523522",
-      "content": "<p>My <a href=\"https://mas.to/tags/golang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>golang</span></a> appliance platform <a href=\"http://gokrazy.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">gokrazy.org/</span><span class=\"invisible\"></span></a> now has a re-designed configuration and \u201cgok\u201d CLI tool! \ud83c\udf89</p><p>See <a href=\"https://gokrazy.org/quickstart/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gokrazy.org/quickstart/</span><span class=\"invisible\"></span></a> for installation and usage instructions</p><p>See <a href=\"https://gokrazy.org/userguide/instance-config/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gokrazy.org/userguide/instance</span><span class=\"invisible\">-config/</span></a> for the config reference</p><p>See <a href=\"https://gokrazy.org/userguide/migration-guide/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gokrazy.org/userguide/migratio</span><span class=\"invisible\">n-guide/</span></a> for the migration guide from gokr-packer to gok</p>"
-    },
-    "people": [
-      {
-        "url": "https://sre.masto.host/@jinxos",
-        "display_name": "Dimitrios Psychogios"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youthvoices.live/assesstexthom/",
-    "title": "youthvoices.live/assesstexthom...",
-    "latest": "2023-01-14T18:19:46.098000+00:00",
-    "first": "2023-01-14T18:19:46.098000+00:00",
-    "last_post": {
-      "url": "https://zirk.us/@paulallison/109688939114667558",
-      "content": "<p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/dh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dh</span></a></span> <span class=\"h-card\"><a href=\"https://sigmoid.social/@TedUnderwood\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>TedUnderwood</span></a></span> With a much smaller lens, we are experimenting with a similar approach, perhaps? <a href=\"https://www.youthvoices.live/assesstexthom/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youthvoices.live/assesstexthom</span><span class=\"invisible\">/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://a.gup.pe/u/dh",
-        "display_name": "dh group"
-      }
-    ]
-  },
-  {
-    "link": "http://algonauts.csail.mit.edu/",
-    "title": "http://algonauts.csail.mit.edu",
-    "latest": "2023-01-14T18:02:32+00:00",
-    "first": "2023-01-14T18:02:32+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@martinagvilas/109688871514342667",
-      "content": "<p>The Algonauts Project 2023 Challenge is now live!<br><a href=\"http://algonauts.csail.mit.edu\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">algonauts.csail.mit.edu</span><span class=\"invisible\"></span></a></p><p>Join and build a computational model that best predicts how the human brain responds to complex natural scenes \ud83e\udde0\ud83d\udcbb </p><p>\u23f2\ufe0f Submission deadline: 26th of July</p><p>The top-3 entries will receive monetary prizes and be invited to present their work at the Cognitive Computational Neuroscience (CCN) conference</p><p><a href=\"https://sigmoid.social/tags/cognitiveneuroscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cognitiveneuroscience</span></a> <a href=\"https://sigmoid.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://sigmoid.social/tags/CV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CV</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@martinagvilas",
-        "display_name": "Martina Vilas"
-      }
-    ]
-  },
-  {
-    "link": "https://www.carbonbrief.org/factcheck-no-global-warming-has-not-paused-over-the-past-eight-years/",
-    "title": "Factcheck: No, global warming has not \u2018paused\u2019 over the past eight years - Carbon Brief",
-    "latest": "2023-01-14T18:01:53+00:00",
-    "first": "2023-01-14T18:01:53+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@hausfath/109688868943276953",
-      "content": "<p>A few year back we were joking that climate skeptics would soon be saying \u201cno warming since 2016\u201d. Now they actually are.</p><p>In reality, short term variability can make you over interpret pauses or accelerations in what\u2019s a pretty clear trend: <a href=\"https://www.carbonbrief.org/factcheck-no-global-warming-has-not-paused-over-the-past-eight-years/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">carbonbrief.org/factcheck-no-g</span><span class=\"invisible\">lobal-warming-has-not-paused-over-the-past-eight-years/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@hausfath",
-        "display_name": "Zeke Hausfather"
-      }
-    ]
-  },
-  {
-    "link": "https://mastodon.social/@dahukanna/109655958246129373",
-    "title": "Dawn Ahukanna (@dahukanna@mastodon.social)",
-    "latest": "2023-01-14T17:58:19+00:00",
-    "first": "2023-01-14T17:58:19+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@dahukanna/109688854881670507",
-      "content": "<p>Related - <a href=\"https://mastodon.social/@dahukanna/109655958246129373\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@dahukanna/109</span><span class=\"invisible\">655958246129373</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@dahukanna",
-        "display_name": "Dawn Ahukanna"
-      }
-    ]
-  },
-  {
-    "link": "https://cfiesler.medium.com/tenured-professor-rogers-talks-about-imposter-syndrome-229e0a546ac1",
-    "title": "Tenured Professor Rogers Talks About: Imposter Syndrome",
-    "latest": "2023-01-14T17:57:01+00:00",
-    "first": "2023-01-14T17:57:01+00:00",
-    "last_post": {
-      "url": "https://hci.social/@cfiesler/109688838600409423",
-      "content": "<p>I haven't had an opportunity to share this on Mastodon yet, so in honor of <a href=\"https://hci.social/tags/chi2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chi2023</span></a> paper decisions coming out yesterday, here is my Mister Rogers fanfiction about academic rejection. :) <a href=\"https://cfiesler.medium.com/tenured-professor-rogers-talks-about-imposter-syndrome-229e0a546ac1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cfiesler.medium.com/tenured-pr</span><span class=\"invisible\">ofessor-rogers-talks-about-imposter-syndrome-229e0a546ac1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@natematias",
-        "display_name": "J. Nathan Matias \ud83e\udda3"
-      }
-    ]
-  },
-  {
-    "link": "https://mastodon.social/@dahukanna/109688532906533169",
-    "title": "Dawn Ahukanna (@dahukanna@mastodon.social)",
-    "latest": "2023-01-14T17:55:25+00:00",
-    "first": "2023-01-14T17:55:25+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@dahukanna/109688843515953425",
-      "content": "<p>Related - <a href=\"https://mastodon.social/@dahukanna/109688532906533169\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@dahukanna/109</span><span class=\"invisible\">688532906533169</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@dahukanna",
-        "display_name": "Dawn Ahukanna"
-      }
-    ]
-  },
-  {
-    "link": "https://post.news/article/2KKGktxwvyyONGXTS6Rc55AQFgm",
-    "title": "Alexander Hamilton Ignored Congress's Debt Limits And It Worked Just Fine / Post.",
-    "latest": "2023-01-14T17:53:15+00:00",
-    "first": "2023-01-14T17:53:15+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@maxkennerly/109688654894205262",
-      "content": "<p>As we careen towards another needless debt ceiling crisis, it's worth noting that the whole concept of a debt ceiling can't be squared with the U.S. Constitution. Just ask Alexander Hamilton, who as Treasury Secretary blatantly violated Congress's debt limits, said it was his job to do so, and prevailed.</p><p><a href=\"https://post.news/article/2KKGktxwvyyONGXTS6Rc55AQFgm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">post.news/article/2KKGktxwvyyO</span><span class=\"invisible\">NGXTS6Rc55AQFgm</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      }
-    ]
-  },
-  {
-    "link": "https://nnw.ranchero.com/2023/01/14/how-to-subscribe.html",
-    "title": " NetNewsWire - How to Subscribe to a Twitter List in NetNewsWire ",
-    "latest": "2023-01-14T17:48:36+00:00",
-    "first": "2023-01-14T17:48:36+00:00",
-    "last_post": {
-      "url": "https://micro.inessential.com/2023/01/14/on-the-netnewswire.html",
-      "content": "<p>On the NetNewsWire blog \u2014&nbsp;<a href=\"https://nnw.ranchero.com/2023/01/14/how-to-subscribe.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">How to Subscribe to a Twitter List in NetNewsWire</a>.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ctietze",
-        "display_name": "Christian Tietze"
-      }
-    ]
-  },
-  {
-    "link": "https://ift.tt/Xbi0NVT",
-    "title": "https://ift.tt/Xbi0NVT",
-    "latest": "2023-01-14T17:43:41+00:00",
-    "first": "2023-01-14T17:43:41+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@oatp/109688797340500781",
-      "content": "<p>MetaArXiv Preprints | Reproducible research practices and transparency across linguistics <a href=\"https://ift.tt/Xbi0NVT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ift.tt/Xbi0NVT</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@oatp",
-        "display_name": "Open Access Tracking Project"
-      }
-    ]
-  },
-  {
-    "link": "https://www.wsj.com/articles/3-d-printing-iceland-fish-supply-chains-desktop-metal-11673642250",
-    "title": "This 3-D Printed Icelandic Fish-Gutting Machine Contains the Secret of a Future, Less-Globalized Economy",
-    "latest": "2023-01-14T17:43:31+00:00",
-    "first": "2023-01-14T17:43:31+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@mimsical/109688587346855372",
-      "content": "<p>This 3-D Printed Icelandic Fish-Gutting Machine Contains the Secret of a Future, Less-Globalized Economy</p><p>My latest for The Wall Street Journal</p><p><a href=\"https://mastodon.social/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tech</span></a> <a href=\"https://mastodon.social/tags/keywordscolumn\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>keywordscolumn</span></a> <a href=\"https://mastodon.social/tags/wsj\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wsj</span></a> <a href=\"https://mastodon.social/tags/3dprinting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>3dprinting</span></a> </p><p><a href=\"https://www.wsj.com/articles/3-d-printing-iceland-fish-supply-chains-desktop-metal-11673642250\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/articles/3-d-printing-</span><span class=\"invisible\">iceland-fish-supply-chains-desktop-metal-11673642250</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
-      }
-    ]
-  },
-  {
-    "link": "https://libreddit.strongthany.cc/r/mathmemes/comments/y3215w/i_dont_know_who_proved_fermats_last_theorem_all_i/",
-    "title": "I don't know who proved Fermat's Last Theorem. All I know is, it wasn't Fermat. - r/mathmemes",
-    "latest": "2023-01-14T17:42:29+00:00",
-    "first": "2023-01-13T22:02:11+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@SylviaFysica/109680955147226558",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mathstodon.xyz/@jmw150\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jmw150</span></a></span> Repost of THE D&amp;D ALIGNMENT CHART OF \u201cHOW TO GET A THEOREM NAMED AFTER YOU\u201d with image description.</p><p>Possible source of the image with some discussion: <a href=\"https://libreddit.strongthany.cc/r/mathmemes/comments/y3215w/i_dont_know_who_proved_fermats_last_theorem_all_i/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">libreddit.strongthany.cc/r/mat</span><span class=\"invisible\">hmemes/comments/y3215w/i_dont_know_who_proved_fermats_last_theorem_all_i/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hci.social/@karger",
-        "display_name": "David Karger"
-      },
-      {
-        "url": "https://econtwitter.net/@paulgp",
-        "display_name": "Paul Goldsmith-Pinkham"
-      },
-      {
-        "url": "https://mastodon.acm.org/@topher_batty",
-        "display_name": "Christopher Batty"
-      }
-    ]
-  },
-  {
-    "link": "https://ncatlab.org/nlab/show/compact+symplectic+group",
-    "title": "ncatlab.org/nlab/show/compact+...",
-    "latest": "2023-01-14T17:42:16+00:00",
-    "first": "2023-01-14T17:42:16+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@johncarlosbaez/109688791783615294",
-      "content": "<p>So,  \u03a9\u2084(n) is diffeomorphic to the space of quaternion-unitary maps \u210d\u2071 \u2295 {0} \u2192 {0} \u2295\u210d\u2071, or simply quaternion-unitary maps \u210d\u2071 \u2192 \u210d\u2071.   Quaternion-unitary maps are the obvious generalization of unitary maps from \u2102 to \u210d.   The quaternion-unitary maps \u210d\u2071 \u2192 \u210d\u2071 form a compact Lie group called the 'quaternionic unitary group' or 'compact symplectic group' Sp(i):</p><p><a href=\"https://ncatlab.org/nlab/show/compact+symplectic+group\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ncatlab.org/nlab/show/compact+</span><span class=\"invisible\">symplectic+group</span></a><br><a href=\"https://en.wikipedia.org/wiki/Symplectic_group#Sp(n)\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Symplect</span><span class=\"invisible\">ic_group#Sp(n)</span></a></p><p>So, \u03a9\u2084(n) is diffeomorphic to this group!</p><p>(13/n)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@johncarlosbaez",
-        "display_name": "John Carlos Baez"
-      }
-    ]
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Symplectic_group#Sp(n)",
-    "title": "en.wikipedia.org/wiki/Symplect...",
-    "latest": "2023-01-14T17:42:16+00:00",
-    "first": "2023-01-14T17:42:16+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@johncarlosbaez/109688791783615294",
-      "content": "<p>So,  \u03a9\u2084(n) is diffeomorphic to the space of quaternion-unitary maps \u210d\u2071 \u2295 {0} \u2192 {0} \u2295\u210d\u2071, or simply quaternion-unitary maps \u210d\u2071 \u2192 \u210d\u2071.   Quaternion-unitary maps are the obvious generalization of unitary maps from \u2102 to \u210d.   The quaternion-unitary maps \u210d\u2071 \u2192 \u210d\u2071 form a compact Lie group called the 'quaternionic unitary group' or 'compact symplectic group' Sp(i):</p><p><a href=\"https://ncatlab.org/nlab/show/compact+symplectic+group\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ncatlab.org/nlab/show/compact+</span><span class=\"invisible\">symplectic+group</span></a><br><a href=\"https://en.wikipedia.org/wiki/Symplectic_group#Sp(n)\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Symplect</span><span class=\"invisible\">ic_group#Sp(n)</span></a></p><p>So, \u03a9\u2084(n) is diffeomorphic to this group!</p><p>(13/n)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@johncarlosbaez",
-        "display_name": "John Carlos Baez"
-      }
-    ]
-  },
-  {
-    "link": "https://alexanderobenauer.com/membership/",
-    "title": "Join the Little Lab",
-    "latest": "2023-01-14T17:40:20+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@alexobenauer/109688784190885720",
-      "content": "<p>I'll continue to share what comes from this project in the lab notes.</p><p>And the demos- &amp; experiments-in-progress will be in member updates first, then land in public spheres once they're more complete. </p><p><a href=\"https://alexanderobenauer.com/membership/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">alexanderobenauer.com/membersh</span><span class=\"invisible\">ip/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@alexobenauer",
-        "display_name": "Alexander Obenauer"
-      }
-    ],
-    "first": "2023-01-05T15:50:15+00:00"
-  },
-  {
-    "link": "https://alexanderobenauer.com/labnotes/000/",
-    "title": "LN 000: The Lab Notes",
-    "latest": "2023-01-14T17:39:55+00:00",
-    "first": "2023-01-14T17:39:55+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@alexobenauer/109688782574848463",
-      "content": "<p>Living inside these environments has produced odd and interesting insights. They continue to unfold the ideas I share in my lab notes.</p><p>The lab notes from the last several months are all from living in these environments (\"itemized interfaces\" list):</p><p><a href=\"https://alexanderobenauer.com/labnotes/000/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">alexanderobenauer.com/labnotes</span><span class=\"invisible\">/000/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@alexobenauer",
-        "display_name": "Alexander Obenauer"
-      }
-    ]
-  },
-  {
-    "link": "http://wonderos.org/hello/",
-    "title": "http://WonderOS.org/hello/",
-    "latest": "2023-01-14T17:39:30+00:00",
-    "first": "2023-01-14T17:39:30+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@alexobenauer/109688780943674845",
-      "content": "<p>Hello, Operator! is the guide to WonderOS. </p><p>It's an exercise in exploring how computer literacy is attained, and how people might learn to evolve itemized, malleable systems.</p><p><a href=\"http://WonderOS.org/hello/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">WonderOS.org/hello/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@alexobenauer",
-        "display_name": "Alexander Obenauer"
       }
     ]
   }
