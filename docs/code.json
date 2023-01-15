@@ -1,5 +1,85 @@
 [
   {
+    "link": "https://github.com/swaldman/untemplate-doc#readme",
+    "title": "GitHub - swaldman/untemplate-doc: Documentation to swaldman/untemplate, produced by untemplate",
+    "latest": "2023-01-15T17:53:24+00:00",
+    "first": "2023-01-15T17:53:24+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@interfluidity/109694497862029739",
+      "content": "<p>A bit randomly, I've spent the last couple of weeks working on a Scala 3 templating engine, kind of a cross between Twirl and Java Server Pages.</p><p>I'd love any comment, critique, calumny. It's called <a href=\"https://fosstodon.org/tags/Untemplate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Untemplate</span></a>.</p><p><a href=\"https://github.com/swaldman/untemplate-doc#readme\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/swaldman/untemplate</span><span class=\"invisible\">-doc#readme</span></a></p><p><a href=\"https://fosstodon.org/tags/Scala\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Scala</span></a> <a href=\"https://fosstodon.org/tags/Scala3\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Scala3</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@interfluidity",
+        "display_name": "Steve Randy Waldman"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/IERC721.sol#L15",
+    "title": "openzeppelin-contracts/IERC721.sol at master \u00b7 OpenZeppelin/openzeppelin-contracts",
+    "latest": "2023-01-15T16:10:14+00:00",
+    "first": "2023-01-15T16:10:14+00:00",
+    "last_post": {
+      "url": "https://cryptodon.lol/@neiman/109694092209842160",
+      "content": "<p>Follow-up! Why only one account can be approved to transfer a token? What's wrong with approving many accounts?</p><p>From ERC-721 of @OpenZeppelin:</p><p>\"Only a single account can be approved at a time, so approving the zero address clears previous approvals.\"</p><p><a href=\"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/IERC721.sol#L15\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/OpenZeppelin/openze</span><span class=\"invisible\">ppelin-contracts/blob/master/contracts/token/ERC721/IERC721.sol#L15</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://cryptodon.lol/@neiman",
+        "display_name": "Neiman"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/elk-zone/elk/pull/788",
+    "title": "fix: sanitize HTML from Mastodon servers by jviide \u00b7 Pull Request #788 \u00b7 elk-zone/elk",
+    "latest": "2023-01-15T16:02:16+00:00",
+    "first": "2023-01-15T16:02:16+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@jviide/109694034848600730",
+      "content": "<p>Elk, the Mastodon client built in the open, looks and feels great. Check it out at <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span>.</p><p>It's so nice I also want to use it. So I recently took a look at the code and opened some pull requests dealing fixing some security issues:</p><p>Sanitize HTML from Mastodon servers: <a href=\"https://github.com/elk-zone/elk/pull/788\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/7</span><span class=\"invisible\">88</span></a><br>Prevent HTML injections to code blocks: <a href=\"https://github.com/elk-zone/elk/pull/1165\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">165</span></a></p><p>Thanks to the crew (<span class=\"h-card\"><a href=\"https://m.webtoo.ls/@antfu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antfu</span></a></span>, <span class=\"h-card\"><a href=\"https://mastodon.roe.dev/@daniel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daniel</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@sxzz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sxzz</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>patak</span></a></span> et al.) for being super responsive and encouraging. They've dealt with the issues in an exemplary way, and gotten the patches out really fast.</p><p>Some technical background: The Mastodon API returns the post contents (among other things) as raw HTML. The default Mastodon server implementation does sanitize the HTML. But sometimes <a href=\"https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">server-side sanitation lets things slip through</a>, or the server itself could be in malicious hands.</p><p>If the client accepts the incoming raw HTML as-is, it can lead to <a href=\"https://en.wikipedia.org/wiki/Cross-site_scripting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Cross-Site Scripting</a> (XSS) vulnerabilities. Let's say a server returns a post with HTML content like &lt;script&gt;...&lt;/script&gt;. If the client just trusts the server and injects that content to the page, the server can effectively execute arbitrary code in the client context - for example to steal the client's login information. Or to take over the whole page like in the attached demo video \ud83d\ude42</p><p>Therefore, it's best to also sanitize the HTML on the client side. This can be tricky. Doubly so if the client wants implement features like rendering source code blocks with syntax highlighting, or turning Twitter mentions into links.</p><p>The linked pull requests fortify a couple of places where Elk prepares HTML content for display. I sincerely hope other people in the infosec scene find Elk's UI intriguing, maybe enough to even take a look at the code. It's a great chance to make a cool up-and-coming tool better!</p><p><a href=\"https://infosec.exchange/tags/elk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>elk</span></a> <a href=\"https://infosec.exchange/tags/vuejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vuejs</span></a> <a href=\"https://infosec.exchange/tags/vue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vue</span></a> <a href=\"https://infosec.exchange/tags/xss\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xss</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/elk-zone/elk/pull/1165",
+    "title": "github.com/elk-zone/elk/pull/1...",
+    "latest": "2023-01-15T16:02:16+00:00",
+    "first": "2023-01-15T16:02:16+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@jviide/109694034848600730",
+      "content": "<p>Elk, the Mastodon client built in the open, looks and feels great. Check it out at <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span>.</p><p>It's so nice I also want to use it. So I recently took a look at the code and opened some pull requests dealing fixing some security issues:</p><p>Sanitize HTML from Mastodon servers: <a href=\"https://github.com/elk-zone/elk/pull/788\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/7</span><span class=\"invisible\">88</span></a><br>Prevent HTML injections to code blocks: <a href=\"https://github.com/elk-zone/elk/pull/1165\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">165</span></a></p><p>Thanks to the crew (<span class=\"h-card\"><a href=\"https://m.webtoo.ls/@antfu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antfu</span></a></span>, <span class=\"h-card\"><a href=\"https://mastodon.roe.dev/@daniel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daniel</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@sxzz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sxzz</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>patak</span></a></span> et al.) for being super responsive and encouraging. They've dealt with the issues in an exemplary way, and gotten the patches out really fast.</p><p>Some technical background: The Mastodon API returns the post contents (among other things) as raw HTML. The default Mastodon server implementation does sanitize the HTML. But sometimes <a href=\"https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">server-side sanitation lets things slip through</a>, or the server itself could be in malicious hands.</p><p>If the client accepts the incoming raw HTML as-is, it can lead to <a href=\"https://en.wikipedia.org/wiki/Cross-site_scripting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Cross-Site Scripting</a> (XSS) vulnerabilities. Let's say a server returns a post with HTML content like &lt;script&gt;...&lt;/script&gt;. If the client just trusts the server and injects that content to the page, the server can effectively execute arbitrary code in the client context - for example to steal the client's login information. Or to take over the whole page like in the attached demo video \ud83d\ude42</p><p>Therefore, it's best to also sanitize the HTML on the client side. This can be tricky. Doubly so if the client wants implement features like rendering source code blocks with syntax highlighting, or turning Twitter mentions into links.</p><p>The linked pull requests fortify a couple of places where Elk prepares HTML content for display. I sincerely hope other people in the infosec scene find Elk's UI intriguing, maybe enough to even take a look at the code. It's a great chance to make a cool up-and-coming tool better!</p><p><a href=\"https://infosec.exchange/tags/elk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>elk</span></a> <a href=\"https://infosec.exchange/tags/vuejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vuejs</span></a> <a href=\"https://infosec.exchange/tags/vue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vue</span></a> <a href=\"https://infosec.exchange/tags/xss\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xss</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@asg017/introducing-sqlite-xsv",
+    "title": "Introducing sqlite-xsv: The Fastest CSV Parser for SQLite",
+    "latest": "2023-01-15T15:42:23+00:00",
+    "first": "2023-01-15T15:42:23+00:00",
+    "last_post": {
+      "url": "https://data-folks.masto.host/@alexgarciaxyz/109683350255059133",
+      "content": "<p>Introducing sqlite-xsv - a new, incredibly fast SQLite extension for working with CSVs</p><p>- The fastest CSV parser for SQLite, even faster reading than DuckDB/datafusion/clickhouse!<br>- Works with gzip'ed or zstd CSVs directly!<br>- Read CSVs from blobs or from multiple files!</p><p><a href=\"https://observablehq.com/@asg017/introducing-sqlite-xsv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@asg017/intro</span><span class=\"invisible\">ducing-sqlite-xsv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/elk-zone/elk/releases",
     "title": "Releases \u00b7 elk-zone/elk",
     "latest": "2023-01-15T13:59:56+00:00",
@@ -3318,89 +3398,5 @@
       }
     ],
     "first": "2023-01-06T03:50:54+00:00"
-  },
-  {
-    "link": "https://github.com/anticomputer/with-wireguard.el",
-    "title": "GitHub - anticomputer/with-wireguard.el: Network namespace wireguard configuration management for Emacs.",
-    "latest": "2023-01-06T01:59:45+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@anticomputer/109638800724794012",
-      "content": "<p>In case someone else finds it useful, here's today's lunch project for juggling wireguard network namespaces from emacs <a href=\"https://github.com/anticomputer/with-wireguard.el\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anticomputer/with-w</span><span class=\"invisible\">ireguard.el</span></a> <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://emacs.ch/tags/lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lisp</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
-      },
-      {
-        "url": "https://emacs.ch/@sachac",
-        "display_name": "Sacha Chua"
-      }
-    ],
-    "first": "2023-01-06T01:59:45+00:00"
-  },
-  {
-    "link": "https://github.com/facebookresearch/paco",
-    "title": "github.com/facebookresearch/pa...",
-    "latest": "2023-01-06T01:41:53+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109639716928339635",
-      "content": "<p>PACO: Parts and Attributes of Common Objects</p><p>Presents PACO, a dataset of object masks that contains 641K part masks annotated across 260K object boxes. </p><p>proj: <a href=\"https://paco.metademolab.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">paco.metademolab.com/</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/facebookresearch/paco\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/pa</span><span class=\"invisible\">co</span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.01795\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.01795</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ],
-    "first": "2023-01-06T01:41:53+00:00"
-  },
-  {
-    "link": "https://github.com/TypeStrong/typedoc/issues/1606#issuecomment-1353688993",
-    "title": "OOM on large monorepo project \u00b7 Issue #1606 \u00b7 TypeStrong/typedoc",
-    "latest": "2023-01-05T23:12:59+00:00",
-    "last_post": {
-      "url": "https://mastodon.thi.ng/@toxi/109624548332989947",
-      "content": "<p>Typedoc is the de-facto standard doc generator for <a href=\"https://mastodon.thi.ng/tags/TypeScript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TypeScript</span></a>, but sadly doesn't really support monorepos. In practice it launches N instances of the TS compiler at once, then quickly runs out of memory... N is number of packages in the repo, in my case N=176 (w/ 3300+ source files). So to improve the <a href=\"https://mastodon.thi.ng/tags/ThingUmbrella\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ThingUmbrella</span></a> docs and provide better x-referencing &amp; discoverability and other useful additions, I started working on a new experimental doc gen, still early days, but already v.promising. Really wonder how owners of other large TS projects are dealing with this, other than allocating &gt;200GB(!) of RAM... \ud83e\udd2f</p><p><a href=\"https://github.com/TypeStrong/typedoc/issues/1606#issuecomment-1353688993\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TypeStrong/typedoc/</span><span class=\"invisible\">issues/1606#issuecomment-1353688993</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@gka",
-        "display_name": "gka"
-      }
-    ],
-    "first": "2023-01-05T23:12:59+00:00"
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/pull/22956",
-    "title": "Make autosuggest for mentions return followed accounts first by dariusk \u00b7 Pull Request #22956 \u00b7 mastodon/mastodon",
-    "latest": "2023-01-05T21:03:04+00:00",
-    "last_post": {
-      "url": "https://friend.camp/@darius/109638620551117788",
-      "content": "<p>Made a Mastodon pull request.</p><p>In v4, there is an issue on servers that don't have elasticsearch: when a user types @ in the compose box and starts to type a name, the results they get are ordered by a popularity ranking algorithm. This is fine if you were only searching accounts you don't follow, but to me it makes more sense to FIRST return matches for accounts you DO follow as a suggestion, and then return popular accounts that you don't follow</p><p><a href=\"https://github.com/mastodon/mastodon/pull/22956\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/22956</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      }
-    ],
-    "first": "2023-01-05T21:03:04+00:00"
-  },
-  {
-    "link": "https://github.com/WhatsApp/proxy",
-    "title": "https://github.com/WhatsApp/proxy",
-    "latest": "2023-01-05T19:49:13+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@ngleicher/109638314546486234",
-      "content": "<p>This is great work by the WA team to help ensure people around the world can communicate freely and privately through volunteer-run proxy servers. <a href=\"https://twitter.com/wcathcart/status/1611031956044795904?s=46&amp;t=ldjj15FqC77Q_QS7C8k80Q\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/wcathcart/status/1</span><span class=\"invisible\">611031956044795904?s=46&amp;t=ldjj15FqC77Q_QS7C8k80Q</span></a></p><p>More on how to setup/run a proxy server here: <a href=\"https://github.com/WhatsApp/proxy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/WhatsApp/proxy</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@katestarbird",
-        "display_name": "Kate Starbird"
-      }
-    ],
-    "first": "2023-01-05T19:49:13+00:00"
   }
 ]
