@@ -1,5 +1,101 @@
 [
   {
+    "link": "https://github.com/jimkring/python-sandbox-wasm",
+    "title": "Actions \u00b7 jimkring/python-sandbox-wasm",
+    "latest": "2023-01-15T00:06:22+00:00",
+    "first": "2023-01-14T19:10:07+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@jimkring/109690300155293978",
+      "content": "<p>How Best to Sandbox Python Code?</p><p>I created a <a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> project to explore* calling \u201cuntrusted\u201d python code (from python) by running it in a python web assembly (<a href=\"https://fosstodon.org/tags/wasm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wasm</span></a>).</p><p>*This exploration started from a great question/idea posted by <span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> about how to do this.</p><p>I\u2019m curious if there are other approaches people can think of that would work well.</p><p><a href=\"https://github.com/jimkring/python-sandbox-wasm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jimkring/python-san</span><span class=\"invisible\">dbox-wasm</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/timelyportfolio/listviewer/tree/update\u2026",
+    "title": "github.com/timelyportfolio/lis...",
+    "latest": "2023-01-14T23:41:00+00:00",
+    "first": "2023-01-14T23:41:00+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@smach/109690202358179441",
+      "content": "<p>From timelyportfolio on Twitter:</p><p>\u201cUpdated listviewer <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> htmlwidget <a href=\"https://github.com/timelyportfolio/listviewer/tree/update\u2026\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/timelyportfolio/lis</span><span class=\"invisible\">tviewer/tree/update\u2026</span></a> to use new svelte-jsoneditor <a href=\"https://github.com/josdejong/svelte-jsoneditor\u2026\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/josdejong/svelte-js</span><span class=\"invisible\">oneditor\u2026</span></a></p><p>not fully tested but seems to mostly work if anyone wants to try with remotes::install_github(\"timelyportfolio/listviewer@update\") \u201c</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/josdejong/svelte-jsoneditor\u2026",
+    "title": "github.com/josdejong/svelte-js...",
+    "latest": "2023-01-14T23:41:00+00:00",
+    "first": "2023-01-14T23:41:00+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@smach/109690202358179441",
+      "content": "<p>From timelyportfolio on Twitter:</p><p>\u201cUpdated listviewer <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> htmlwidget <a href=\"https://github.com/timelyportfolio/listviewer/tree/update\u2026\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/timelyportfolio/lis</span><span class=\"invisible\">tviewer/tree/update\u2026</span></a> to use new svelte-jsoneditor <a href=\"https://github.com/josdejong/svelte-jsoneditor\u2026\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/josdejong/svelte-js</span><span class=\"invisible\">oneditor\u2026</span></a></p><p>not fully tested but seems to mostly work if anyone wants to try with remotes::install_github(\"timelyportfolio/listviewer@update\") \u201c</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rotki/rotki/releases",
+    "title": "Releases \u00b7 rotki/rotki",
+    "latest": "2023-01-14T22:52:20+00:00",
+    "last_post": {
+      "url": "https://cryptodon.lol/@lefteris/109690011043298371",
+      "content": "<p>\ud83d\udc26With @rotkiapp you can zoom into all of the graphs and explore the details of your portfolio!</p><p>Demo below zooms in a specific time period and checks net worth change.</p><p>\u23ecTry it: <a href=\"https://github.com/rotki/rotki/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rotki/rotki/release</span><span class=\"invisible\">s</span></a><br>\ud83d\udcc8Buy premium, unlock all features and support us: <a href=\"https://rotki.com/products\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">rotki.com/products</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://cryptodon.lol/@lefteris",
+        "display_name": "lefterisjp"
+      }
+    ],
+    "first": "2022-12-30T19:28:07+00:00"
+  },
+  {
+    "link": "https://github.com/colarusso/text2label",
+    "title": "github.com/colarusso/text2labe...",
+    "latest": "2023-01-14T21:25:16+00:00",
+    "first": "2023-01-14T21:25:16+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Colarusso/109689668682544311",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> Yep. It takes a while to load in a browser, but works nicely, and best of all it's super straightforward (word = number; add them up; and average). Here's an earlier project where I let folks choose how much of the word2vec library to load (bigger = better but slower). <a href=\"https://colarusso.github.io/text2label/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">colarusso.github.io/text2label</span><span class=\"invisible\">/</span></a> And here's the repo: <a href=\"https://github.com/colarusso/text2label\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/colarusso/text2labe</span><span class=\"invisible\">l</span></a></p><p>I garbed the word2vec representations from here: <a href=\"https://github.com/turbomaze/word2vecjson\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/turbomaze/word2vecj</span><span class=\"invisible\">son</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/turbomaze/word2vecjson",
+    "title": "github.com/turbomaze/word2vecj...",
+    "latest": "2023-01-14T21:25:16+00:00",
+    "first": "2023-01-14T21:25:16+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Colarusso/109689668682544311",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> Yep. It takes a while to load in a browser, but works nicely, and best of all it's super straightforward (word = number; add them up; and average). Here's an earlier project where I let folks choose how much of the word2vec library to load (bigger = better but slower). <a href=\"https://colarusso.github.io/text2label/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">colarusso.github.io/text2label</span><span class=\"invisible\">/</span></a> And here's the repo: <a href=\"https://github.com/colarusso/text2label\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/colarusso/text2labe</span><span class=\"invisible\">l</span></a></p><p>I garbed the word2vec representations from here: <a href=\"https://github.com/turbomaze/word2vecjson\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/turbomaze/word2vecj</span><span class=\"invisible\">son</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/danqing/Pinch",
     "title": "GitHub - danqing/Pinch: One-click fix for Mac trackpad pinch to zoom gesture",
     "latest": "2023-01-14T20:55:44+00:00",
@@ -44,22 +140,6 @@
       {
         "url": "https://mastodon.social/@Colarusso",
         "display_name": "David Colarusso"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jimkring/python-sandbox-wasm",
-    "title": "Actions \u00b7 jimkring/python-sandbox-wasm",
-    "latest": "2023-01-14T19:10:07+00:00",
-    "first": "2023-01-14T19:10:07+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@jimkring/109689120002761538",
-      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@brettcannon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>brettcannon</span></a></span> <span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> here's something I duct-taped together: <a href=\"https://github.com/jimkring/python-sandbox-wasm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jimkring/python-san</span><span class=\"invisible\">dbox-wasm</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
       }
     ]
   },
@@ -398,22 +478,6 @@
         "display_name": "Jeff Barr"
       }
     ]
-  },
-  {
-    "link": "https://github.com/rotki/rotki/releases",
-    "title": "Releases \u00b7 rotki/rotki",
-    "latest": "2023-01-13T16:57:34+00:00",
-    "last_post": {
-      "url": "https://cryptodon.lol/@lefteris/109682953693855359",
-      "content": "<p>\ud83d\udc26With @rotkiapp you can get graphs of your net worth per asset and how that's been evolving through time in terms of amount owned and value in fiat</p><p>$KSM example in screenshot</p><p>\u23ecTry it: <a href=\"https://github.com/rotki/rotki/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rotki/rotki/release</span><span class=\"invisible\">s</span></a><br>\ud83d\udcc8Buy premium, unlock limits and support us: <a href=\"https://rotki.com/products\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">rotki.com/products</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://cryptodon.lol/@lefteris",
-        "display_name": "lefterisjp"
-      }
-    ],
-    "first": "2022-12-30T19:28:07+00:00"
   },
   {
     "link": "https://github.com/bvaughn/react-resizable-panels/pull/83",
@@ -3342,73 +3406,5 @@
       }
     ],
     "first": "2023-01-05T15:47:43+00:00"
-  },
-  {
-    "link": "https://github.com/idoerg/papertooter",
-    "title": "GitHub - idoerg/papertooter: A script to post manuscripts from biorxiv to Mastodon using a unique hashtag based on the manuscript DOI.",
-    "latest": "2023-01-05T15:26:03+00:00",
-    "last_post": {
-      "url": "https://genomic.social/@iddux/109508666118095649",
-      "content": "<p>Announcing papertooter. Papertooter is a simple script that takes the URL of a biorxiv preprint, and posts the title and link to the paper on Mastodon using the Mastodon Python API. It also posts a unique hashtag it generates from the paper's DOI.  Good for paper posting bots, or just for your own paper posting fun.</p><p>Feature requests and bug reports welcome.</p><p><a href=\"https://github.com/idoerg/papertooter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/idoerg/papertooter</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@dmikeando",
-        "display_name": "Mike Ando"
-      }
-    ],
-    "first": "2023-01-05T15:26:03+00:00"
-  },
-  {
-    "link": "https://github.com/adhocteam/pushup",
-    "title": "GitHub - adhocteam/pushup: Pushup is for making modern, page-oriented web apps in Go",
-    "latest": "2023-01-05T15:07:32+00:00",
-    "last_post": {
-      "url": "https://changelog.social/@gotime/109637167800017809",
-      "content": "<p>A page-oriented web framework for Go: <a href=\"https://github.com/adhocteam/pushup\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/adhocteam/pushup</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@llimllib",
-        "display_name": "llimllib"
-      }
-    ],
-    "first": "2023-01-05T15:07:32+00:00"
-  },
-  {
-    "link": "https://github.com/NeuromatchAcademy/mastodon/blob/a209c1b0b43760a3915263d3e57c8140f0849acd/app/javascript/flavours/glitch/actions/statuses.js#L230-L257",
-    "title": "mastodon/statuses.js at a209c1b0b43760a3915263d3e57c8140f0849acd \u00b7 NeuromatchAcademy/mastodon",
-    "latest": "2023-01-05T10:41:21+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@jonny/109635610739208981",
-      "content": "<p><span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> <br>1) it uses the search API, so it should follow the same rules. A very vague test just now trying to search for a user and post on an instance our server is defederated from says it shouldn't work, but i'll have to double check and write tests for if an account has blocked someone. good question. had been on my mind and part of the reason why I haven't tried to pull upstream yet</p><p>2) It likely will be in the list of peer servers, but I don't know that masto uses this in any meaningful way, another thing i should check out</p><p>3) yes, unfortunately, this is something that would require the instance admin to apply</p><p>4) I tried to write something like this just using clientside javascript for eg. a bookmarklet, but the CORS rules prevented me from making the fetch to the OP server. I believe a browser extension would be able to overcome that problem, and it also looks like the search API doesn't require login (which seems bad actually) and so it might not even need to have you approve it with eg. OAuth or something like that. I have only written one extremely simple browser extension before, but this is ultimately extremely simple, basically this (and then refresh the page):</p><p>fetch(&lt;other_instance&gt;/api/&lt;context_endpoint&gt;<br>  ).then( (response) =&gt; {<br>  response.json().descendants<br>    .forEach( (status) =&gt; {<br>      fetch(&lt;search_api&gt;/&lt;status.url&gt;);<br>  }<br>});<br></p><p>in pseudo-javascript<br><a href=\"https://github.com/NeuromatchAcademy/mastodon/blob/a209c1b0b43760a3915263d3e57c8140f0849acd/app/javascript/flavours/glitch/actions/statuses.js#L230-L257\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/NeuromatchAcademy/m</span><span class=\"invisible\">astodon/blob/a209c1b0b43760a3915263d3e57c8140f0849acd/app/javascript/flavours/glitch/actions/statuses.js#L230-L257</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@jonny",
-        "display_name": "Jonny"
-      },
-      {
-        "url": "https://sauropods.win/@futurebird",
-        "display_name": "myrmepropagandist"
-      }
-    ],
-    "first": "2023-01-05T10:41:21+00:00"
-  },
-  {
-    "link": "https://github.com/TIBHannover/optimetaCitations/",
-    "title": "github.com/TIBHannover/optimet...",
-    "latest": "2023-01-05T09:39:27+00:00",
-    "last_post": {
-      "url": "https://mstdn.science/@serhii/109635932495907682",
-      "content": "<p>New interesting <a href=\"https://mstdn.science/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> about The OPTIMETA project <a href=\"https://projects.tib.eu/optimeta/en/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">projects.tib.eu/optimeta/en/</span><span class=\"invisible\"></span></a> from <span class=\"h-card\"><a href=\"https://openbiblio.social/@tibhannover\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tibhannover</span></a></span> &amp; Ko:</p><p> \ud83d\udcc4  <a href=\"https://arxiv.org/abs/2301.01502\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.01502</span><span class=\"invisible\"></span></a></p><p>Results: 2 open plugins for <a href=\"https://mstdn.science/tags/OJS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OJS</span></a> that collect, enrich, and automatically deliver <a href=\"https://mstdn.science/tags/citation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>citation</span></a> metadata and spatio-temporal <a href=\"https://mstdn.science/tags/metadata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>metadata</span></a> for articles:</p><p>\ud83d\udc49 <a href=\"https://github.com/TIBHannover/optimetaCitations/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TIBHannover/optimet</span><span class=\"invisible\">aCitations/</span></a><br>\ud83d\udc49 <a href=\"https://github.com/TIBHannover/optimetaGeo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TIBHannover/optimet</span><span class=\"invisible\">aGeo</span></a></p><p><a href=\"https://mstdn.science/tags/OpenAccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenAccess</span></a> <a href=\"https://mstdn.science/tags/publishing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>publishing</span></a> <a href=\"https://mstdn.science/tags/assessment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>assessment</span></a> <a href=\"https://mstdn.science/tags/discovery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>discovery</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.science/@serhii",
-        "display_name": "Serhii Nazarovets"
-      }
-    ],
-    "first": "2023-01-05T09:39:27+00:00"
   }
 ]

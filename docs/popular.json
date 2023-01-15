@@ -2,11 +2,11 @@
   {
     "link": "https://absolutelymaybe.plos.org/2023/01/12/quote-tweeting-over-30-studies-dispel-some-myths/",
     "title": "Quote Tweeting: Over 30 Studies Dispel Some Myths - Absolutely Maybe",
-    "latest": "2023-01-14T21:06:01+00:00",
+    "latest": "2023-01-14T21:43:33+00:00",
     "first": "2023-01-12T11:18:54+00:00",
     "last_post": {
-      "url": "https://universeodon.com/@philcowans/109689046927505903",
-      "content": "<p>Really interesting articles from <span class=\"h-card\"><a href=\"https://mastodon.online/@hildabast\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hildabast</span></a></span> on <a href=\"https://universeodon.com/tags/qt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>qt</span></a>. I do hope that the <a href=\"https://universeodon.com/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> becomes a place where more research can be done into which features enable communities to thrive.</p><p><a href=\"https://absolutelymaybe.plos.org/2022/12/01/reflecting-on-twitter-white-flight-quote-tweet-tensions-at-mastodon/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">absolutelymaybe.plos.org/2022/</span><span class=\"invisible\">12/01/reflecting-on-twitter-white-flight-quote-tweet-tensions-at-mastodon/</span></a></p><p><a href=\"https://absolutelymaybe.plos.org/2023/01/12/quote-tweeting-over-30-studies-dispel-some-myths/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">absolutelymaybe.plos.org/2023/</span><span class=\"invisible\">01/12/quote-tweeting-over-30-studies-dispel-some-myths/</span></a></p>"
+      "url": "https://social.skewed.de/@tiago/109689740579469393",
+      "content": "<p>Quote Tweeting: Over 30 Studies Dispel Some Myths - Absolutely Maybe<br><a href=\"https://absolutelymaybe.plos.org/2023/01/12/quote-tweeting-over-30-studies-dispel-some-myths/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">absolutelymaybe.plos.org/2023/</span><span class=\"invisible\">01/12/quote-tweeting-over-30-studies-dispel-some-myths/</span></a></p>"
     },
     "people": [
       {
@@ -56,6 +56,10 @@
       {
         "url": "https://mastodon.social/@Colarusso",
         "display_name": "David Colarusso"
+      },
+      {
+        "url": "https://social.skewed.de/@tiago",
+        "display_name": "Tiago Peixoto"
       }
     ]
   },
@@ -200,6 +204,42 @@
       {
         "url": "https://vis.social/@llimllib",
         "display_name": "llimllib"
+      }
+    ]
+  },
+  {
+    "link": "https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/",
+    "title": "Examples of floating point problems",
+    "latest": "2023-01-14T21:22:50+00:00",
+    "first": "2023-01-13T14:48:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@b0rk/109682444323226969",
+      "content": "<p>examples of floating point problems <a href=\"https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jvns.ca/blog/2023/01/13/exampl</span><span class=\"invisible\">es-of-floating-point-problems/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@b0rk",
+        "display_name": "Julia Evans"
+      },
+      {
+        "url": "https://mastodon.gamedev.place/@aras",
+        "display_name": "Aras Pranckevi\u010dius"
+      },
+      {
+        "url": "https://mastodon.social/@Migueldeicaza",
+        "display_name": "Miguel de Icaza"
+      },
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      },
+      {
+        "url": "https://hachyderm.io/@nedbat",
+        "display_name": "Ned Batchelder"
+      },
+      {
+        "url": "https://nondeterministic.computer/@martin",
+        "display_name": "Martin Kleppmann"
       }
     ]
   },
@@ -396,34 +436,34 @@
     ]
   },
   {
-    "link": "https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/",
-    "title": "Examples of floating point problems",
-    "latest": "2023-01-13T18:26:42.600000+00:00",
-    "first": "2023-01-13T14:48:01+00:00",
+    "link": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
+    "title": "Semantic search answers: Q&A against documentation with GPT3 + OpenAI embeddings",
+    "latest": "2023-01-14T21:13:08+00:00",
+    "first": "2023-01-13T23:53:31+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@b0rk/109682444323226969",
-      "content": "<p>examples of floating point problems <a href=\"https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jvns.ca/blog/2023/01/13/exampl</span><span class=\"invisible\">es-of-floating-point-problems/</span></a></p>"
+      "url": "https://mastodon.social/@judell/109689620957469947",
+      "content": "<p>\"What we want here is semantic search\u2014we want to find documents that match the meaning of the user\u2019s search term, even if the matching keywords are not present.\"</p><p><a href=\"https://simonwillison.net/2023/Jan/13/semantic-search-answers/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">simonwillison.net/2023/Jan/13/</span><span class=\"invisible\">semantic-search-answers/</span></a></p><p><a href=\"https://mastodon.social/tags/SemanticSearch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SemanticSearch</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@b0rk",
-        "display_name": "Julia Evans"
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
       },
       {
-        "url": "https://mastodon.gamedev.place/@aras",
-        "display_name": "Aras Pranckevi\u010dius"
+        "url": "https://status.kinlan.me/@paul",
+        "display_name": "Paul Kinlan"
       },
       {
-        "url": "https://mastodon.social/@Migueldeicaza",
-        "display_name": "Miguel de Icaza"
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
       },
       {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
       },
       {
-        "url": "https://hachyderm.io/@nedbat",
-        "display_name": "Ned Batchelder"
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
       }
     ]
   },
@@ -592,34 +632,6 @@
       {
         "url": "https://fosstodon.org/@interfluidity",
         "display_name": "Steve Randy Waldman"
-      }
-    ]
-  },
-  {
-    "link": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
-    "title": "Semantic search answers: Q&A against documentation with GPT3 + OpenAI embeddings",
-    "latest": "2023-01-14T18:16:41+00:00",
-    "first": "2023-01-13T23:53:31+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@TedUnderwood/109688927129428024",
-      "content": "<p>Simon Willison explaining how to use embeddings + prompt engineering to turn GPT-3 into a utility that answers questions about your own set of documents. He has software documentation in mind, but I can imagine academic use cases. E.g., suppose you had a dataset of journal articles by historians 1900-2016. <span class=\"h-card\"><a href=\"https://a.gup.pe/u/dh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dh</span></a></span> <a href=\"https://sigmoid.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> <a href=\"https://simonwillison.net/2023/Jan/13/semantic-search-answers/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">simonwillison.net/2023/Jan/13/</span><span class=\"invisible\">semantic-search-answers/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
-      },
-      {
-        "url": "https://mastodon.social/@Colarusso",
-        "display_name": "David Colarusso"
-      },
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
       }
     ]
   },
@@ -1128,166 +1140,6 @@
       {
         "url": "https://datasci.social/@estebanmoro",
         "display_name": "Esteban Moro"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hometown-fork/hometown/issues/1274#issuecomment-1379647384",
-    "title": "Allow optional Markdown and/or ReStructuredText interpolation \u00b7 Issue #1274 \u00b7 hometown-fork/hometown",
-    "latest": "2023-01-12T13:43:32+00:00",
-    "first": "2023-01-12T00:22:12+00:00",
-    "last_post": {
-      "url": "https://friend.camp/@darius/109673377456950391",
-      "content": "<p>I keep getting asked to support writing rich-text-formatted posts in <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> (we already read them just fine). I finally wrote down, in this comment on this Github issue, a short essay outlining all my concerns with doing so:</p><p><a href=\"https://github.com/hometown-fork/hometown/issues/1274#issuecomment-1379647384\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hometown-fork/homet</span><span class=\"invisible\">own/issues/1274#issuecomment-1379647384</span></a></p><p>Some of this is problems with Markdown, while some of this is problems with interoperability regarding any rich text rendering at all.</p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      },
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2618\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://blog.quintarelli.it/2023/01/iran-says-face-recognition-will-id-women-breaking-hijab-laws-wired/",
-    "title": "Iran Says Face Recognition Will ID Women Breaking Hijab Laws | WIRED \u2013 Quinta\u2019s weblog",
-    "latest": "2023-01-12T07:34:48+00:00",
-    "first": "2023-01-11T23:49:36+00:00",
-    "last_post": {
-      "url": "https://mastodon.uno/@quinta/109670964841911969",
-      "content": "<p>Iran Says Face Recognition Will ID Women Breaking Hijab Laws | WIRED <br> <a href=\"https://blog.quintarelli.it/2023/01/iran-says-face-recognition-will-id-women-breaking-hijab-laws-wired/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.quintarelli.it/2023/01/ir</span><span class=\"invisible\">an-says-face-recognition-will-id-women-breaking-hijab-laws-wired/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.world/@lucianofloridi",
-        "display_name": "Luciano Floridi"
-      },
-      {
-        "url": "https://mastodon.uno/@MorelliSal",
-        "display_name": "Salvatore Morelli"
-      }
-    ]
-  },
-  {
-    "link": "https://www.dazeddigital.com/life-culture/article/57878/1/the-era-of-military-funded-e-girl-warfare-army-influencers-tiktok",
-    "title": "E-girl influencers are trying to get Gen Z into the military",
-    "latest": "2023-01-11T21:59:31+00:00",
-    "first": "2023-01-12T00:14:17+00:00",
-    "last_post": {
-      "url": "https://dan.mastohon.com/@danhon/109672816435866084",
-      "content": "<p>G\u00fcnseli Yalcinkaya's piece on E-girl psy-ops (via today's tabs <span class=\"h-card\"><a href=\"https://mstdn.social/@fka_tabs\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fka_tabs</span></a></span>) is a full-on William Gibson novel, or at least 1,200 words worth of one:</p><p>\"Here, cosplay commandos post nationalist thirst traps to mobilise the SIMPs, attracting the sort of impressionable reply guys and 4chan lostbois who message \u201cOMG DM me\ud83d\udd25\u201d on every post?\"</p><p><a href=\"https://www.dazeddigital.com/life-culture/article/57878/1/the-era-of-military-funded-e-girl-warfare-army-influencers-tiktok\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dazeddigital.com/life-culture/</span><span class=\"invisible\">article/57878/1/the-era-of-military-funded-e-girl-warfare-army-influencers-tiktok</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://assemblag.es/@emma",
-        "display_name": "Emma Stamm"
-      },
-      {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
-      }
-    ]
-  },
-  {
-    "link": "https://brm.us/css-sibling-scope",
-    "title": "https://brm.us/css-sibling-scope",
-    "latest": "2023-01-12T13:34:28+00:00",
-    "first": "2023-01-12T00:15:11+00:00",
-    "last_post": {
-      "url": "https://front-end.social/@bramus/109673332547141803",
-      "content": "<p>So, you want to style all siblings sitting between a `.upper` and `.lower` element in CSS?</p><p>That\u2019s possible \u2026 thanks to the almighty `:has()` selector!</p><p>```css<br>.upper ~ :has(~ .lower) {<br>\toutline: 1px solid red;<br>}<br>```</p><p>Details on my blog: <a href=\"https://brm.us/css-sibling-scope\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">brm.us/css-sibling-scope</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@oliverturner",
-        "display_name": "Oliver"
-      },
-      {
-        "url": "https://front-end.social/@jensimmons",
-        "display_name": "Jen Simmons"
-      }
-    ]
-  },
-  {
-    "link": "https://paul.kinlan.me/training-the-button-detector-ml-model/",
-    "title": "Training the Button detector ML model",
-    "latest": "2023-01-12T10:24:27+00:00",
-    "first": "2023-01-11T23:32:10+00:00",
-    "last_post": {
-      "url": "https://status.kinlan.me/@paul/109675745629930296",
-      "content": "<p>I wrote up a post about how I trained an ML model to detect buttons and links.</p><p>The goal is to have a tool that looks at anchor tags and if they are styled like a button then let the developer know.</p><p>If you have experience building ML models, I'd love your feedback.</p><p><a href=\"https://paul.kinlan.me/training-the-button-detector-ml-model/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">paul.kinlan.me/training-the-bu</span><span class=\"invisible\">tton-detector-ml-model/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://bell.bz/@andy",
-        "display_name": "Andy Bell"
-      },
-      {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
-      }
-    ]
-  },
-  {
-    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/changes-to-aws-billing-cost-management-and-account-consoles-permissions/",
-    "title": "Changes to AWS Billing, Cost Management, and Account Consoles Permissions | Amazon Web Services",
-    "latest": "2023-01-11T22:23:15+00:00",
-    "first": "2023-01-11T23:02:34+00:00",
-    "last_post": {
-      "url": "https://awscommunity.social/@jeffbarr/109672909730591476",
-      "content": "<p>We will be making some very important changes to the AWS IAM permissions that govern access to the <a href=\"https://awscommunity.social/tags/AWS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AWS</span></a> Billing, Cost Management, and Account Consoles, with the goal of giving you a set of fine-grained permissions for additional control. We are adding new permissions, and will retire others, so you need to pay attention!</p><p>To learn more, read Changes to AWS Billing, Cost Management, and Account Consoles Permissions at <a href=\"https://aws.amazon.com/blogs/aws-cloud-financial-management/changes-to-aws-billing-cost-management-and-account-consoles-permissions/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">aws.amazon.com/blogs/aws-cloud</span><span class=\"invisible\">-financial-management/changes-to-aws-billing-cost-management-and-account-consoles-permissions/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://awscommunity.social/@esh",
-        "display_name": "Eric Hammond"
-      },
-      {
-        "url": "https://awscommunity.social/@jeffbarr",
-        "display_name": "Jeff Barr"
-      }
-    ]
-  },
-  {
-    "link": "https://www.biorxiv.org/content/10.1101/2022.10.24.513337v2",
-    "title": "The causal role of the inferior temporal cortex in visual perception",
-    "latest": "2023-01-14T01:46:17+00:00",
-    "first": "2023-01-11T22:38:48+00:00",
-    "last_post": {
-      "url": "https://nerdculture.de/@KathaSchmack/109672970863330336",
-      "content": "<p>How does neural activity relate to <a href=\"https://nerdculture.de/tags/perception\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>perception</span></a>? </p><p>Perceptography combines clever machine learning with <a href=\"https://nerdculture.de/tags/optogenetics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>optogenetics</span></a> to generate the pictures that are likely to be experienced during neural stimulation. Fascinating <a href=\"https://nerdculture.de/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> by Elia Shahbazi &amp; <br>Afraz Arash!</p><p><a href=\"https://nerdculture.de/tags/neuroscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuroscience</span></a> <a href=\"https://nerdculture.de/tags/vision\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vision</span></a> <a href=\"https://nerdculture.de/tags/consciousness\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>consciousness</span></a> </p><p><a href=\"https://www.biorxiv.org/content/10.1101/2022.10.24.513337v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">biorxiv.org/content/10.1101/20</span><span class=\"invisible\">22.10.24.513337v2</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://nerdculture.de/@KathaSchmack",
-        "display_name": "Katharina Schmack"
-      },
-      {
-        "url": "https://mstdn.social/@karinamendoza",
-        "display_name": "Karina Mendoza"
-      }
-    ]
-  },
-  {
-    "link": "https://erictopol.substack.com/p/the-bivalent-vaccine-booster-outperforms",
-    "title": "The bivalent vaccine booster outperforms",
-    "latest": "2023-01-12T01:41:52+00:00",
-    "first": "2023-01-11T22:07:55+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@erictopol/109672847631293322",
-      "content": "<p>The Covid bivalent vaccine booster works better than expected. <br>I've reviewed the cumulative data<br><a href=\"https://erictopol.substack.com/p/the-bivalent-vaccine-booster-outperforms\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">erictopol.substack.com/p/the-b</span><span class=\"invisible\">ivalent-vaccine-booster-outperforms</span></a></p><p>That's in contrast to a <br>NEJM essay today and 2 lab studies that used a pseudovirus assay without assessing the XBB variants</p>"
-    },
-    "people": [
-      {
-        "url": "https://sfba.social/@pmorelli",
-        "display_name": "pmorelli"
-      },
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
       }
     ]
   },
@@ -1992,6 +1844,26 @@
     ]
   },
   {
+    "link": "https://www.bram.us/2021/07/23/prevent-unwanted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/",
+    "title": "Prevent unwanted Layout Shifts caused by Scrollbars with the scrollbar-gutter CSS property",
+    "latest": "2023-01-14T21:14:59+00:00",
+    "first": "2023-01-13T11:19:51+00:00",
+    "last_post": {
+      "url": "https://typo.social/@pixelambacht/109681625740703602",
+      "content": "<p>TIL you can prevent layout shift when changing from</p><p>overflow: hidden;</p><p>to </p><p>overflow: auto; /* or scroll */</p><p>by adding</p><p>scrollbar-gutter: stable;</p><p>to the container \ud83e\udd2f</p><p>No more hacky padding-and-JavaScript shenanigans! Thanks <span class=\"h-card\"><a href=\"https://front-end.social/@bramus\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bramus</span></a></span> for sharing!</p><p><a href=\"https://www.bram.us/2021/07/23/prevent-unwanted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bram.us/2021/07/23/prevent-unw</span><span class=\"invisible\">anted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://typo.social/@pixelambacht",
+        "display_name": "Roel Nieskens"
+      },
+      {
+        "url": "https://toot.cafe/@oliverturner",
+        "display_name": "Oliver"
+      }
+    ]
+  },
+  {
     "link": "https://interconnected.org/home/2023/01/12/next",
     "title": "Looking for new projects or even a long-term something for 2023",
     "latest": "2023-01-13T21:04:12+00:00",
@@ -2372,6 +2244,26 @@
     ]
   },
   {
+    "link": "https://stablediffusionlitigation.com/",
+    "title": "https://stablediffusionlitigation.com",
+    "latest": "2023-01-14T23:09:22+00:00",
+    "first": "2023-01-14T08:59:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@matthiasott/109689975810564042",
+      "content": "<p>TIL that Matthew Butterick is not only a type designer and typographer who wrote the excellent Butterick\u2019s Practical Typography (<a href=\"https://practicaltypography.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">practicaltypography.com</span><span class=\"invisible\"></span></a>), but he\u2019s also a lawyer who filed class-action lawsuits against GitHub Copilot and, just now, Stable Diffusion (&gt; Sta\u00adbil\u00adity AI, DeviantArt, and Mid\u00adjour\u00adney).</p><p>\u201cBecause AI needs to be fair &amp; eth\u00adi\u00adcal for every\u00adone.\u201d</p><p>\ud83d\udc47<br><a href=\"https://stablediffusionlitigation.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">stablediffusionlitigation.com</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://mastodon.social/tags/ethics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethics</span></a> <a href=\"https://mastodon.social/tags/copyright\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>copyright</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@jhilden",
+        "display_name": "Jonatan Hild\u00e9n"
+      },
+      {
+        "url": "https://toot.cafe/@oliverturner",
+        "display_name": "Oliver"
+      }
+    ]
+  },
+  {
     "link": "https://www.econometricsociety.org/regional-activities/schedule/2023/06/22/2023-North-American-Summer-Meeting-NASM",
     "title": "econometricsociety.org/regiona...",
     "latest": "2023-01-14T16:59:32+00:00",
@@ -2472,6 +2364,26 @@
     ]
   },
   {
+    "link": "https://link.springer.com/article/10.3758/s13428-020-01462-9",
+    "title": "Development of an Offline-Friend Addiction Questionnaire (O-FAQ): Are most people really social addicts? - Behavior Research Methods",
+    "latest": "2023-01-14T22:12:05+00:00",
+    "first": "2023-01-14T16:49:47+00:00",
+    "last_post": {
+      "url": "https://mas.to/@sanjaysrivastava/109688553588695673",
+      "content": "<p>A fantastic way to make an important point. Researchers took items from widely-used scales of \"social media addiction,\" and reworded them to be about spending time offline with friends. Using parallel criteria, they discovered that 69% of people are addicted to spending time with friends. </p><p>\"Readers should approach our measure with a level of skepticism that should be afforded to current social media addiction measures.\"</p><p>(h/t <span class=\"h-card\"><a href=\"https://fediscience.org/@cconrymurray\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cconrymurray</span></a></span>)</p><p><a href=\"https://link.springer.com/article/10.3758/s13428-020-01462-9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/article/10.3</span><span class=\"invisible\">758/s13428-020-01462-9</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
+      },
+      {
+        "url": "https://econtwitter.net/@NicVdSijpe",
+        "display_name": "Nicolas Van de Sijpe"
+      }
+    ]
+  },
+  {
     "link": "https://www.complexityexplorer.org/courses/162-foundations-applications-of-humanities-analytics",
     "title": "Complexity Explorer",
     "latest": "2023-01-14T20:50:15+00:00",
@@ -2488,6 +2400,86 @@
       {
         "url": "https://boffosocko.com/author/chrisaldrich/",
         "display_name": "Chris Aldrich"
+      }
+    ]
+  },
+  {
+    "link": "https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting/",
+    "title": "Stop feeding the hype and start&nbsp;resisting",
+    "latest": "2023-01-15T00:01:34+00:00",
+    "first": "2023-01-15T00:46:11+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@Iris/109690229083830339",
+      "content": "<p><span class=\"h-card\"><a href=\"https://dair-community.social/@emilymbender\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>emilymbender</span></a></span> a follow up blogpost below, which I felt was sadly needed, given what I am observing locally in The Netherlands. Maybe of interest. In any case, thank you for all your (and your collaborators) work in this area, it is very useful to be able to build on that at this time <a href=\"https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">irisvanrooijcogsci.com/2023/01</span><span class=\"invisible\">/14/stop-feeding-the-hype-and-start-resisting/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      },
+      {
+        "url": "https://dair-community.social/@emilymbender",
+        "display_name": "Emily M. Bender (she/her)"
+      }
+    ]
+  },
+  {
+    "link": "https://www.theinformation.com/articles/musks-twitter-intentionally-suspended-tweet-bot-third-party-apps-messages-show",
+    "title": "Musk\u2019s Twitter Intentionally Suspended Tweetbot, Third-Party Apps, Messages Show",
+    "latest": "2023-01-15T00:09:05+00:00",
+    "first": "2023-01-15T00:19:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@JoeUchill/109690249120932894",
+      "content": "<p>Well, fuck. </p><p>\"The mysterious outage of Tweetbot and other third-party Twitter clients that began Thursday night was an intentional suspension, according to internal messages viewed by The Information. The suspension cut off the ability of people to use Twitter on outside apps, forcing them to go to Twitter\u2019s own app.\"</p><p><a href=\"https://www.theinformation.com/articles/musks-twitter-intentionally-suspended-tweet-bot-third-party-apps-messages-show\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theinformation.com/articles/mu</span><span class=\"invisible\">sks-twitter-intentionally-suspended-tweet-bot-third-party-apps-messages-show</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      },
+      {
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
+      }
+    ]
+  },
+  {
+    "link": "https://9to5google.com/2023/01/14/twitter-third-party-app-intentional-block/",
+    "title": "9to5google.com/2023/01/14/twit...",
+    "latest": "2023-01-15T00:39:22+00:00",
+    "first": "2023-01-15T00:19:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@jaredwsmith/109690401193465997",
+      "content": "<p>There\u2019s no reason to build anything new on Twitter. <a href=\"https://9to5google.com/2023/01/14/twitter-third-party-app-intentional-block/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">9to5google.com/2023/01/14/twit</span><span class=\"invisible\">ter-third-party-app-intentional-block/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      },
+      {
+        "url": "https://mastodon.online/@jaspar",
+        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      }
+    ]
+  },
+  {
+    "link": "https://bcf.princeton.edu/wp-content/uploads/2022/10/Combined-Slides.pdf",
+    "title": "bcf.princeton.edu/wp-content/u...",
+    "latest": "2023-01-14T23:37:42+00:00",
+    "first": "2023-01-15T00:36:05+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@arindube/109690189410665186",
+      "content": "<p>What's amazing is how the current environment looks diametrically opposite to all this.</p><p>Today young non-college workers have the fastest wage growth, driven by rapid job changing in a vigorous job ladder which collapsed following the Great Recession.</p><p><a href=\"https://bcf.princeton.edu/wp-content/uploads/2022/10/Combined-Slides.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bcf.princeton.edu/wp-content/u</span><span class=\"invisible\">ploads/2022/10/Combined-Slides.pdf</span></a><br>5/</p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@ckrafftc",
+        "display_name": "Caroline Krafft"
+      },
+      {
+        "url": "https://econtwitter.net/@arindube",
+        "display_name": "Arin Dube"
       }
     ]
   }
