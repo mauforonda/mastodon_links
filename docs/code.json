@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/ggerganov/whisper.cpp",
+    "title": "GitHub - ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++",
+    "latest": "2023-01-16T17:29:03+00:00",
+    "first": "2023-01-16T17:29:03+00:00",
+    "last_post": {
+      "url": "https://vmst.io/@marcoshuerta/109700064417456767",
+      "content": "<p>Doing some testing of whisper.cpp, a C++ command line implementation of OpenAI's whisper. Medium.en model. 4m5s mp3 file. (cpp time includes .wav conversion)</p><p>M1 Mac Mini with 8 threads:</p><p>whisper.cpp : 1m52s, ~2X realtime. <br>python whisper interface 3m20s, ~1.3x realtime.</p><p>And just for contrast Windows with a 3070 Nvidia GPU took 21.5s, or about ~12x:</p><p><a href=\"https://github.com/ggerganov/whisper.cpp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ggerganov/whisper.c</span><span class=\"invisible\">pp</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/h2020-riskgone/",
+    "title": "H2020 RiskGONE",
+    "latest": "2023-01-16T16:06:10+00:00",
+    "first": "2023-01-16T16:06:10+00:00",
+    "last_post": {
+      "url": "https://akademienl.social/@egonw/109692571311027920",
+      "content": "<p><a href=\"https://akademienl.social/tags/OpenScienceChallenge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScienceChallenge</span></a> Day #3</p><p>The first task is a sub challenge: \"Write down all of your projects\"</p><p>Yeah, that's not going to work. I'll make a subset, taking the second task/question in mind. Actually, let's make two.</p><p>List 1: funded <a href=\"https://akademienl.social/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> projects</p><p>Bigger funding of ongoing projects where <a href=\"https://akademienl.social/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> has a key role:</p><p>- RiskGONE: FAIRification with open standards. See <a href=\"https://github.com/h2020-riskgone/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/h2020-riskgone/</span><span class=\"invisible\"></span></a><br>- NanoSolveIT: same *and* open data (and some open source). See <a href=\"https://github.com/nanosolveIT/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/nanosolveIT/</span><span class=\"invisible\"></span></a></p><p>[..]</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@HeidiSeibold",
+        "display_name": "Heidi Seibold"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/nanosolveIT/",
+    "title": "https://github.com/nanosolveIT/",
+    "latest": "2023-01-16T16:06:10+00:00",
+    "first": "2023-01-16T16:06:10+00:00",
+    "last_post": {
+      "url": "https://akademienl.social/@egonw/109692571311027920",
+      "content": "<p><a href=\"https://akademienl.social/tags/OpenScienceChallenge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScienceChallenge</span></a> Day #3</p><p>The first task is a sub challenge: \"Write down all of your projects\"</p><p>Yeah, that's not going to work. I'll make a subset, taking the second task/question in mind. Actually, let's make two.</p><p>List 1: funded <a href=\"https://akademienl.social/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> projects</p><p>Bigger funding of ongoing projects where <a href=\"https://akademienl.social/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> has a key role:</p><p>- RiskGONE: FAIRification with open standards. See <a href=\"https://github.com/h2020-riskgone/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/h2020-riskgone/</span><span class=\"invisible\"></span></a><br>- NanoSolveIT: same *and* open data (and some open source). See <a href=\"https://github.com/nanosolveIT/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/nanosolveIT/</span><span class=\"invisible\"></span></a></p><p>[..]</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@HeidiSeibold",
+        "display_name": "Heidi Seibold"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/hollandstam1/thesis/blob/main/_book/Quantifying-Art-Historical-Narratives.pdf",
     "title": "github.com/hollandstam1/thesis...",
     "latest": "2023-01-16T15:04:44+00:00",
@@ -3354,53 +3402,5 @@
       }
     ],
     "first": "2023-01-06T16:46:47.992000+00:00"
-  },
-  {
-    "link": "https://github.com/facebook/react/blob/main/packages/react-devtools-shared/src/__tests__/store-test.js",
-    "title": "github.com/facebook/react/blob...",
-    "latest": "2023-01-06T16:06:11+00:00",
-    "last_post": {
-      "url": "https://mas.to/@bvaughn/109643115473631681",
-      "content": "<p>Going a bit further back, another example of this was unit tests for React DevTools. Those tests needed to verify that \u269b\ufe0f\ud83d\udee0\ufe0f correctly parsed a React tree. Lots of complicated edge cases to test there so writing (and reading) these tests needs to be easy!<br><a href=\"https://github.com/facebook/react/blob/main/packages/react-devtools-shared/src/__tests__/store-test.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebook/react/blob</span><span class=\"invisible\">/main/packages/react-devtools-shared/src/__tests__/store-test.js</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@bvaughn",
-        "display_name": "Brian Vaughn"
-      }
-    ],
-    "first": "2023-01-06T16:06:11+00:00"
-  },
-  {
-    "link": "https://github.com/replayio/devtools/blob/main/packages/replay-next/components/sources/utils/getExpressionFromString.test.ts",
-    "title": "devtools/getExpressionFromString.test.ts at main \u00b7 replayio/devtools",
-    "latest": "2023-01-06T16:05:51+00:00",
-    "last_post": {
-      "url": "https://mas.to/@bvaughn/109643114180321214",
-      "content": "<p>This came to mind while writing tests this morning. In this case, the tests verify that hovering over certain characters in a string extract the correct substring tokens for evaluating. Writing tests like this could be verbose\u2013 or it could be easy!<br><a href=\"https://github.com/replayio/devtools/blob/main/packages/replay-next/components/sources/utils/getExpressionFromString.test.ts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/replayio/devtools/b</span><span class=\"invisible\">lob/main/packages/replay-next/components/sources/utils/getExpressionFromString.test.ts</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@bvaughn",
-        "display_name": "Brian Vaughn"
-      }
-    ],
-    "first": "2023-01-06T16:05:51+00:00"
-  },
-  {
-    "link": "https://github.com/HelgeKrueger/mastodon_recommender/blob/replies_visualization/fediverse_selection.ipynb",
-    "title": "mastodon_recommender/fediverse_selection.ipynb at replies_visualization \u00b7 HelgeKrueger/mastodon_recommender",
-    "latest": "2023-01-06T16:04:25+00:00",
-    "last_post": {
-      "url": "https://mas.to/@helgek/109643108576169797",
-      "content": "<p>Github cannot render the interactive element, unfortunately. But if you are looking for odd Mastodon instances. Look up the ones with notably different \"Federation Index Deviations\".</p><p><a href=\"https://github.com/HelgeKrueger/mastodon_recommender/blob/replies_visualization/fediverse_selection.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/HelgeKrueger/mastod</span><span class=\"invisible\">on_recommender/blob/replies_visualization/fediverse_selection.ipynb</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@helgek",
-        "display_name": "helge"
-      }
-    ],
-    "first": "2023-01-06T16:04:25+00:00"
   }
 ]
