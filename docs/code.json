@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://github.com/giswqs/geospatial-data-catalogs",
+    "title": "GitHub - giswqs/geospatial-data-catalogs: A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, and STAC Index",
+    "latest": "2023-01-16T06:06:36+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@giswqs/109563365598813281",
+      "content": "<p>A comprehensive list of open <a href=\"https://fosstodon.org/tags/geospatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geospatial</span></a> datasets on major cloud computing platforms (<a href=\"https://fosstodon.org/tags/AWS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AWS</span></a>, <a href=\"https://fosstodon.org/tags/EarthEngine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EarthEngine</span></a>, <a href=\"https://fosstodon.org/tags/PlanetaryComputer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PlanetaryComputer</span></a>) and STAC Index. The lists are provided in TSV and JSON formats, making it easier to find and use them programmatically. The list is updated daily. </p><p>GitHub: <a href=\"https://github.com/giswqs/geospatial-data-catalogs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/giswqs/geospatial-d</span><span class=\"invisible\">ata-catalogs</span></a> </p><p><a href=\"https://fosstodon.org/tags/opendata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opendata</span></a> <a href=\"https://fosstodon.org/tags/datascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datascience</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://ecoevo.social/@cboettig",
+        "display_name": "Carl Boettiger"
+      },
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      }
+    ],
+    "first": "2023-01-04T00:27:27+00:00"
+  },
+  {
+    "link": "https://github.com/rakkasjs/deno-template",
+    "title": "GitHub - rakkasjs/deno-template: Rakkas running natively on Deno",
+    "latest": "2023-01-16T05:42:15+00:00",
+    "first": "2023-01-16T05:42:15+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@cyco130/109695758824886153",
+      "content": "<p>Rakkas running on <span class=\"h-card\"><a href=\"https://fosstodon.org/@deno_land\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>deno_land</span></a></span>\ud83d\udc83</p><p>You still need `node_modules` and there are a few ugly workarounds in the repo for now but you can:</p><p>- run the development server<br>- build and run the prod server<br>- deploy to Deno Deploy</p><p>Not a bad start I think \ud83e\udd73</p><p><a href=\"https://github.com/rakkasjs/deno-template\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rakkasjs/deno-templ</span><span class=\"invisible\">ate</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/eramdam/tokimeki-mastodon",
+    "title": "github.com/eramdam/tokimeki-ma...",
+    "latest": "2023-01-16T04:07:48+00:00",
+    "first": "2023-01-10T18:31:53+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@Eramdam/109663455265127820",
+      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      },
+      {
+        "url": "https://vis.social/@Luca",
+        "display_name": "Luca Hammer"
+      },
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/IABTechLab/uid2docs/pull/16",
     "title": "Preserve Gmail Privacy by edent \u00b7 Pull Request #16 \u00b7 IABTechLab/uid2docs",
     "latest": "2023-01-15T22:49:26+00:00",
@@ -1316,26 +1376,6 @@
       {
         "url": "https://econtwitter.net/@undercoverhistorian",
         "display_name": "Beatrice Cherrier"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/eramdam/tokimeki-mastodon",
-    "title": "github.com/eramdam/tokimeki-ma...",
-    "latest": "2023-01-12T05:37:53+00:00",
-    "first": "2023-01-10T18:31:53+00:00",
-    "last_post": {
-      "url": "https://octodon.social/@Eramdam/109663455265127820",
-      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
-      },
-      {
-        "url": "https://vis.social/@Luca",
-        "display_name": "Luca Hammer"
       }
     ]
   },
@@ -3354,38 +3394,6 @@
   {
     "link": "https://github.com/jart/sectorlisp",
     "title": "GitHub - jart/sectorlisp: Bootstrapping LISP in a Boot Sector",
-    "latest": "2023-01-06T11:31:44+00:00",
-    "last_post": {
-      "url": "https://bsd.network/@cynicalsecurity/109641302759587674",
-      "content": "<p>I was looking at the 'Blinkenlights' project by Justine Tunney which is \"a virtual machine that runs statically-compiled x86-64-linux programs on different operating systems and hardware architectures\" (might as well let Justine describe it!) motivated by research on APE (\"Actually Portable Executable\")\u00b9 \u00b2. <a href=\"https://bsd.network/tags/ActuallyPortableExecutable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyPortableExecutable</span></a></p><p>After appreciating blink I looked at Justine's other repos, as one does, and\u2026 here's what I already bookmarked:</p><p>* \"sectorlisp is a 512-byte implementation of LISP that's able to bootstrap John McCarthy's meta-circular evaluator on bare metal.\" - <a href=\"https://github.com/jart/sectorlisp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/sectorlisp</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Lisp</span></a></p><p>* \"Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. Instead, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS with the best possible performance and the tiniest footprint imaginable.\" - <a href=\"https://github.com/jart/cosmopolitan\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/cosmopolitan</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Libc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Libc</span></a> <a href=\"https://bsd.network/tags/VirtualMachine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VirtualMachine</span></a> <a href=\"https://bsd.network/tags/Polyglot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Polyglot</span></a> (you should also look at the work by <span class=\"h-card\"><a href=\"https://mastodon.social/@Ange\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Ange</span></a></span>  on the vast subject of polyglots)</p><p>* \"Disaster lets you press C-c d to see the compiled assembly code for the C, C++ or Fortran file you're currently editing. It even jumps to and highlights the line of assembly corresponding to the line beneath your cursor.\" - <a href=\"https://github.com/jart/disaster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/disaster</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> <a href=\"https://bsd.network/tags/EmacsLisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EmacsLisp</span></a> <a href=\"https://bsd.network/tags/Disassembler\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Disassembler</span></a> ( <span class=\"h-card\"><a href=\"https://emacs.ch/@anticomputer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>anticomputer</span></a></span> this one is for you\u2026)</p><p>No apologies for sending you down this Github hole :flan_molotov:\u200b as it is more fun to go spelunking with friends!</p><p>__<br>\u00b9 <a href=\"https://justine.lol/ape.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">justine.lol/ape.html</span><span class=\"invisible\"></span></a><br>\u00b2 <a href=\"https://github.com/jart/blink\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/blink</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
-      }
-    ],
-    "first": "2023-01-06T11:31:44+00:00"
-  },
-  {
-    "link": "https://github.com/jart/cosmopolitan",
-    "title": "https://github.com/jart/cosmopolitan",
-    "latest": "2023-01-06T11:31:44+00:00",
-    "last_post": {
-      "url": "https://bsd.network/@cynicalsecurity/109641302759587674",
-      "content": "<p>I was looking at the 'Blinkenlights' project by Justine Tunney which is \"a virtual machine that runs statically-compiled x86-64-linux programs on different operating systems and hardware architectures\" (might as well let Justine describe it!) motivated by research on APE (\"Actually Portable Executable\")\u00b9 \u00b2. <a href=\"https://bsd.network/tags/ActuallyPortableExecutable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyPortableExecutable</span></a></p><p>After appreciating blink I looked at Justine's other repos, as one does, and\u2026 here's what I already bookmarked:</p><p>* \"sectorlisp is a 512-byte implementation of LISP that's able to bootstrap John McCarthy's meta-circular evaluator on bare metal.\" - <a href=\"https://github.com/jart/sectorlisp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/sectorlisp</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Lisp</span></a></p><p>* \"Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. Instead, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS with the best possible performance and the tiniest footprint imaginable.\" - <a href=\"https://github.com/jart/cosmopolitan\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/cosmopolitan</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Libc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Libc</span></a> <a href=\"https://bsd.network/tags/VirtualMachine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VirtualMachine</span></a> <a href=\"https://bsd.network/tags/Polyglot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Polyglot</span></a> (you should also look at the work by <span class=\"h-card\"><a href=\"https://mastodon.social/@Ange\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Ange</span></a></span>  on the vast subject of polyglots)</p><p>* \"Disaster lets you press C-c d to see the compiled assembly code for the C, C++ or Fortran file you're currently editing. It even jumps to and highlights the line of assembly corresponding to the line beneath your cursor.\" - <a href=\"https://github.com/jart/disaster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/disaster</span><span class=\"invisible\"></span></a> <a href=\"https://bsd.network/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> <a href=\"https://bsd.network/tags/EmacsLisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EmacsLisp</span></a> <a href=\"https://bsd.network/tags/Disassembler\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Disassembler</span></a> ( <span class=\"h-card\"><a href=\"https://emacs.ch/@anticomputer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>anticomputer</span></a></span> this one is for you\u2026)</p><p>No apologies for sending you down this Github hole :flan_molotov:\u200b as it is more fun to go spelunking with friends!</p><p>__<br>\u00b9 <a href=\"https://justine.lol/ape.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">justine.lol/ape.html</span><span class=\"invisible\"></span></a><br>\u00b2 <a href=\"https://github.com/jart/blink\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jart/blink</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
-      }
-    ],
-    "first": "2023-01-06T11:31:44+00:00"
-  },
-  {
-    "link": "https://github.com/jart/disaster",
-    "title": "https://github.com/jart/disaster",
     "latest": "2023-01-06T11:31:44+00:00",
     "last_post": {
       "url": "https://bsd.network/@cynicalsecurity/109641302759587674",

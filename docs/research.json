@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://arxiv.org/abs/2301.05062",
+    "title": "Tracr: Compiled Transformers as a Laboratory for Interpretability",
+    "latest": "2023-01-16T05:41:47+00:00",
+    "first": "2023-01-16T05:41:47+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@akhaliq/109679428350597063",
+      "content": "<p>Tracr: Compiled Transformers as a Laboratory for Interpretability<br>abs: <a href=\"https://arxiv.org/abs/2301.05062\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.05062</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      }
+    ]
+  },
+  {
+    "link": "https://dl.acm.org/doi/10.1145/310889.310900",
+    "title": "dl.acm.org/doi/10.1145/310889....",
+    "latest": "2023-01-16T05:27:54+00:00",
+    "first": "2023-01-16T05:27:54+00:00",
+    "last_post": {
+      "url": "https://ioc.exchange/@againsthimself/109696644157195062",
+      "content": "<p>Given that the invention of attack trees is commonly attributed to Schneier's 1999 article, I was surprised to see the idea described in a 1991 paper by J.D. Weiss of Bell Labs [1].<br>Even more surprising is that I found it because it was cited in another paper co-authored by Schneier in 1998 [2].</p><p>[1]J.D. Weiss, \"A System Security Engineering Process,\" Proceedings of the 14th National<br>Computer Security Conference, 1991.<br><a href=\"https://csrc.nist.gov/CSRC/media/Publications/conference-paper/1991/10/01/proceedings-14th-national-computer-security-conference-1991/documents/1991-14th-NCSC-proceedings-vol-2.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">csrc.nist.gov/CSRC/media/Publi</span><span class=\"invisible\">cations/conference-paper/1991/10/01/proceedings-14th-national-computer-security-conference-1991/documents/1991-14th-NCSC-proceedings-vol-2.pdf</span></a></p><p>[2] Chris Salter, O. Sami Saydjari, Bruce Schneier, Jim Wallner, \"Toward a secure system engineering methodology,\" NSPW '98: Proceedings of the 1998 workshop on New security paradigms<br><a href=\"https://dl.acm.org/doi/10.1145/310889.310900\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/10.1145/310889.</span><span class=\"invisible\">310900</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@thegrugq",
+        "display_name": "the grugq"
+      }
+    ]
+  },
+  {
     "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.22790",
     "title": "onlinelibrary.wiley.com/doi/ab...",
     "latest": "2023-01-16T02:43:07+00:00",
@@ -3386,41 +3418,5 @@
       }
     ],
     "first": "2023-01-05T05:26:42+00:00"
-  },
-  {
-    "link": "http://arxiv.org/abs/1903.06961",
-    "title": "http://arxiv.org/abs/1903.06961",
-    "latest": "2023-01-05T05:20:49+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@MarisOzols/109632075109867769",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@michael_nielsen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>michael_nielsen</span></a></span> Btw, I consider any type of axiomatic characterization in mathematics as a form of discovery fiction.</p><p>For example, Shannon entropy was characterized by Faddeev as the only continuous function from probability distributions to real numbers that satisfies a very natural chain rule.</p><p>This is a simple way to motivate the entropy. The well-known formula with a logarithm then pops out of it by itself.</p><p>I first learned about this from a nice paper by Leinster:<br><a href=\"http://arxiv.org/abs/1903.06961\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/1903.06961</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@MarisOzols",
-        "display_name": "M\u0101ris Ozols"
-      },
-      {
-        "url": "https://mastodon.social/@michael_nielsen",
-        "display_name": "Michael Nielsen"
-      }
-    ],
-    "first": "2023-01-05T05:20:49+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.01320",
-    "title": "Towards Deployable RL - What's Broken with RL Research and a Potential Fix",
-    "latest": "2023-01-05T02:13:18+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@gershbrain/109634178132984330",
-      "content": "<p>Interesting perspective on \"deployable reinforcement learning\":<br><a href=\"https://arxiv.org/abs/2301.01320\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.01320</span><span class=\"invisible\"></span></a><br>The authors suggest that there should be \"weight classes\" based on available compute. This struck me as unintuitive. Don't we want to just know the correct/best result regardless of compute? They seem to be implying that a lot of compute can somehow produce spurious results (make bad algorithms look good), but I'm not sure I understand why.</p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@gershbrain",
-        "display_name": "Sam Gershman"
-      }
-    ],
-    "first": "2023-01-05T02:13:18+00:00"
   }
 ]

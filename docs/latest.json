@@ -1,17 +1,573 @@
 [
   {
+    "link": "https://github.com/giswqs/geospatial-data-catalogs",
+    "title": "GitHub - giswqs/geospatial-data-catalogs: A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, and STAC Index",
+    "latest": "2023-01-16T06:06:36+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@giswqs/109563365598813281",
+      "content": "<p>A comprehensive list of open <a href=\"https://fosstodon.org/tags/geospatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geospatial</span></a> datasets on major cloud computing platforms (<a href=\"https://fosstodon.org/tags/AWS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AWS</span></a>, <a href=\"https://fosstodon.org/tags/EarthEngine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EarthEngine</span></a>, <a href=\"https://fosstodon.org/tags/PlanetaryComputer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PlanetaryComputer</span></a>) and STAC Index. The lists are provided in TSV and JSON formats, making it easier to find and use them programmatically. The list is updated daily. </p><p>GitHub: <a href=\"https://github.com/giswqs/geospatial-data-catalogs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/giswqs/geospatial-d</span><span class=\"invisible\">ata-catalogs</span></a> </p><p><a href=\"https://fosstodon.org/tags/opendata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opendata</span></a> <a href=\"https://fosstodon.org/tags/datascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datascience</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://ecoevo.social/@cboettig",
+        "display_name": "Carl Boettiger"
+      },
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      }
+    ],
+    "first": "2023-01-04T00:27:27+00:00"
+  },
+  {
+    "link": "http://tilde.club/",
+    "title": "http://tilde.club",
+    "latest": "2023-01-16T05:47:51+00:00",
+    "first": "2023-01-16T00:12:40+00:00",
+    "last_post": {
+      "url": "https://eigenmagic.net/@vampiress/109695295698724468",
+      "content": "<p>On the subject of young people being nostalgic for things they never experienced, something I learned about recently that I found particularly interesting was this:</p><p>Some gen Z'ers learned that back in the day we had small web sites which tended to end in ~myusername.</p><p>They re-created some of those spaces, and refer to them as 'tilde clubs' (after the first one). Tiny little self-contained social spaces, often using minimal HTML and terminal access.</p><p><a href=\"http://tilde.club\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">tilde.club</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mefi.social/@melissaekline",
+        "display_name": "Melissa Kline Struhl"
+      },
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://sfba.social/@pmorelli",
+        "display_name": "pmorelli"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rakkasjs/deno-template",
+    "title": "GitHub - rakkasjs/deno-template: Rakkas running natively on Deno",
+    "latest": "2023-01-16T05:42:15+00:00",
+    "first": "2023-01-16T05:42:15+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@cyco130/109695758824886153",
+      "content": "<p>Rakkas running on <span class=\"h-card\"><a href=\"https://fosstodon.org/@deno_land\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>deno_land</span></a></span>\ud83d\udc83</p><p>You still need `node_modules` and there are a few ugly workarounds in the repo for now but you can:</p><p>- run the development server<br>- build and run the prod server<br>- deploy to Deno Deploy</p><p>Not a bad start I think \ud83e\udd73</p><p><a href=\"https://github.com/rakkasjs/deno-template\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rakkasjs/deno-templ</span><span class=\"invisible\">ate</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.05062",
+    "title": "Tracr: Compiled Transformers as a Laboratory for Interpretability",
+    "latest": "2023-01-16T05:41:47+00:00",
+    "first": "2023-01-16T05:41:47+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@akhaliq/109679428350597063",
+      "content": "<p>Tracr: Compiled Transformers as a Laboratory for Interpretability<br>abs: <a href=\"https://arxiv.org/abs/2301.05062\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.05062</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      }
+    ]
+  },
+  {
     "link": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/",
     "title": "Speeding up the JavaScript ecosystem - module resolution",
-    "latest": "2023-01-16T03:04:27+00:00",
+    "latest": "2023-01-16T05:37:14+00:00",
     "first": "2023-01-16T03:04:27+00:00",
     "last_post": {
-      "url": "https://toot.cafe/@nolan/109696664726653876",
-      "content": "<p>\"Speeding up the JavaScript ecosystem - module resolution\" by Marvin Hagemeister <a href=\"https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marvinh.dev/blog/speeding-up-j</span><span class=\"invisible\">avascript-ecosystem-part-2/</span></a></p><p>\"The slowness in our tooling wasn\u2019t caused by JavaScript the language, but by things just not being optimized at all.\"</p>"
+      "url": "https://infosec.exchange/@jviide/109697236869739597",
+      "content": "<p>\"The slowness in our tooling wasn\u2019t caused by JavaScript the language, but by things just not being optimized at all.\"</p><p>In part 2 of \"Speeding up the JavaScript ecosystem\" series <span class=\"h-card\"><a href=\"https://infosec.exchange/@marvinh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>marvinh</span></a></span> dives into <a href=\"https://infosec.exchange/tags/JavaScript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JavaScript</span></a> module resolution libraries... and ends up speeding resolution-intensive tasks by 30%. Great stuff!</p><p><a href=\"https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marvinh.dev/blog/speeding-up-j</span><span class=\"invisible\">avascript-ecosystem-part-2/</span></a></p>"
     },
     "people": [
       {
         "url": "https://toot.cafe/@nolan",
         "display_name": "Nolan"
+      },
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://mastodon.social/@Gargron/109691895296829891",
+    "title": "Eugen Rochko (@Gargron@mastodon.social)",
+    "latest": "2023-01-16T05:33:36+00:00",
+    "first": "2023-01-16T05:33:36+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@hildabast/109697251189880151",
+      "content": "<p>Developing the option to have an exclusion list for home feeds is now in progress.</p><p>That would mean you could filter people you don't want to unfollow, but don't want in your feed. (So you could still have them on other lists to view their posts.)</p><p>Ref: Updated Mastodon development roadmap posted <a href=\"https://mastodon.social/@Gargron/109691895296829891\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@Gargron/10969</span><span class=\"invisible\">1895296829891</span></a></p><p>None of the developments I highlighted in my previous post has changed status: <a href=\"https://mastodon.online/@hildabast/109610986824867198\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.online/@hildabast/109</span><span class=\"invisible\">610986824867198</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@hildabast",
+        "display_name": "Hilda Bastian"
+      }
+    ]
+  },
+  {
+    "link": "https://mastodon.online/@hildabast/109610986824867198",
+    "title": "mastodon.online/@hildabast/109...",
+    "latest": "2023-01-16T05:33:36+00:00",
+    "first": "2023-01-16T05:33:36+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@hildabast/109697251189880151",
+      "content": "<p>Developing the option to have an exclusion list for home feeds is now in progress.</p><p>That would mean you could filter people you don't want to unfollow, but don't want in your feed. (So you could still have them on other lists to view their posts.)</p><p>Ref: Updated Mastodon development roadmap posted <a href=\"https://mastodon.social/@Gargron/109691895296829891\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@Gargron/10969</span><span class=\"invisible\">1895296829891</span></a></p><p>None of the developments I highlighted in my previous post has changed status: <a href=\"https://mastodon.online/@hildabast/109610986824867198\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.online/@hildabast/109</span><span class=\"invisible\">610986824867198</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@hildabast",
+        "display_name": "Hilda Bastian"
+      }
+    ]
+  },
+  {
+    "link": "https://csrc.nist.gov/CSRC/media/Publications/conference-paper/1991/10/01/proceedings-14th-national-computer-security-conference-1991/documents/1991-14th-NCSC-proceedings-vol-2.pdf",
+    "title": "csrc.nist.gov/CSRC/media/Publi...",
+    "latest": "2023-01-16T05:27:54+00:00",
+    "first": "2023-01-16T05:27:54+00:00",
+    "last_post": {
+      "url": "https://ioc.exchange/@againsthimself/109696644157195062",
+      "content": "<p>Given that the invention of attack trees is commonly attributed to Schneier's 1999 article, I was surprised to see the idea described in a 1991 paper by J.D. Weiss of Bell Labs [1].<br>Even more surprising is that I found it because it was cited in another paper co-authored by Schneier in 1998 [2].</p><p>[1]J.D. Weiss, \"A System Security Engineering Process,\" Proceedings of the 14th National<br>Computer Security Conference, 1991.<br><a href=\"https://csrc.nist.gov/CSRC/media/Publications/conference-paper/1991/10/01/proceedings-14th-national-computer-security-conference-1991/documents/1991-14th-NCSC-proceedings-vol-2.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">csrc.nist.gov/CSRC/media/Publi</span><span class=\"invisible\">cations/conference-paper/1991/10/01/proceedings-14th-national-computer-security-conference-1991/documents/1991-14th-NCSC-proceedings-vol-2.pdf</span></a></p><p>[2] Chris Salter, O. Sami Saydjari, Bruce Schneier, Jim Wallner, \"Toward a secure system engineering methodology,\" NSPW '98: Proceedings of the 1998 workshop on New security paradigms<br><a href=\"https://dl.acm.org/doi/10.1145/310889.310900\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/10.1145/310889.</span><span class=\"invisible\">310900</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@thegrugq",
+        "display_name": "the grugq"
+      }
+    ]
+  },
+  {
+    "link": "https://dl.acm.org/doi/10.1145/310889.310900",
+    "title": "dl.acm.org/doi/10.1145/310889....",
+    "latest": "2023-01-16T05:27:54+00:00",
+    "first": "2023-01-16T05:27:54+00:00",
+    "last_post": {
+      "url": "https://ioc.exchange/@againsthimself/109696644157195062",
+      "content": "<p>Given that the invention of attack trees is commonly attributed to Schneier's 1999 article, I was surprised to see the idea described in a 1991 paper by J.D. Weiss of Bell Labs [1].<br>Even more surprising is that I found it because it was cited in another paper co-authored by Schneier in 1998 [2].</p><p>[1]J.D. Weiss, \"A System Security Engineering Process,\" Proceedings of the 14th National<br>Computer Security Conference, 1991.<br><a href=\"https://csrc.nist.gov/CSRC/media/Publications/conference-paper/1991/10/01/proceedings-14th-national-computer-security-conference-1991/documents/1991-14th-NCSC-proceedings-vol-2.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">csrc.nist.gov/CSRC/media/Publi</span><span class=\"invisible\">cations/conference-paper/1991/10/01/proceedings-14th-national-computer-security-conference-1991/documents/1991-14th-NCSC-proceedings-vol-2.pdf</span></a></p><p>[2] Chris Salter, O. Sami Saydjari, Bruce Schneier, Jim Wallner, \"Toward a secure system engineering methodology,\" NSPW '98: Proceedings of the 1998 workshop on New security paradigms<br><a href=\"https://dl.acm.org/doi/10.1145/310889.310900\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/10.1145/310889.</span><span class=\"invisible\">310900</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@thegrugq",
+        "display_name": "the grugq"
+      }
+    ]
+  },
+  {
+    "link": "https://bid.hgpauction.com/auctions/8421/herita10194?page=1&amp;pageSize=60",
+    "title": "bid.hgpauction.com/auctions/84...",
+    "latest": "2023-01-16T05:26:25+00:00",
+    "first": "2023-01-16T05:26:25+00:00",
+    "last_post": {
+      "url": "https://defcon.social/@deviantollam/109696908722922213",
+      "content": "<p>Reported by kevinweil on Twitter...</p><p>\"Wild to see the Twitter office on auction.  Board room tables, phone booths, chairs, monitors... even the Twitter bird statue.\"</p><p><a href=\"https://bid.hgpauction.com/auctions/8421/herita10194?page=1&amp;pageSize=60\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bid.hgpauction.com/auctions/84</span><span class=\"invisible\">21/herita10194?page=1&amp;pageSize=60</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@thegrugq",
+        "display_name": "the grugq"
+      }
+    ]
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/MU_puzzle",
+    "title": "MU puzzle - Wikipedia",
+    "latest": "2023-01-16T05:15:11+00:00",
+    "first": "2023-01-16T05:15:11+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/109697178748048985",
+      "content": "<p>I gave Hofstadter's MU puzzle\u00b9 to <a href=\"https://mastodon.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a> to see how quickly its ability to reason fell apart. I hoped this would show something interesting about its robustness at the syntactic level of symbols versus on the semantic level of meaning. I changed \"M\", \"I\", and \"U\" to \"A\", \"B\", and \"C\", respectively, just in case that helped thwart popular training data. The results were disappointing: it failed at the syntactic level, violating string state, puzzle rules, or both.</p><p>\u00b9 <a href=\"https://en.wikipedia.org/wiki/MU_puzzle\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/MU_puzzl</span><span class=\"invisible\">e</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ]
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost",
+    "title": "Wikipedia:Wikipedia Signpost - Wikipedia",
+    "latest": "2023-01-16T05:01:21+00:00",
+    "last_post": {
+      "url": "https://wikis.world/@WikiSignpost/109697124344969217",
+      "content": "<p>The new Signpost is out (yes, already! We're switching from monthly to biweekly)<br> \u2022 Special report: Saudi Arabia jailed two Wikipedians for 32 and 8 years, respectively<br> \u2022 French court orders Wikimedia Foundation to hand over editor's data<br>and more: <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Wikipedi</span><span class=\"invisible\">a:Wikipedia_Signpost</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://wikis.world/@WikiSignpost",
+        "display_name": "The Signpost"
+      }
+    ],
+    "first": "2023-01-01T11:20:38+00:00"
+  },
+  {
+    "link": "https://furbo.org/2023/01/15/the-shit-show/",
+    "title": "The Shit Show \u2022 furbo.org",
+    "latest": "2023-01-16T04:47:33+00:00",
+    "first": "2023-01-15T21:01:35+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@shoq/109696210752571715",
+      "content": "<p>Twitterific dev speaks out about Musk\u2019s latest\u2026  Shit Show \u2022 <a href=\"http://furbo.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">furbo.org</span><span class=\"invisible\"></span></a></p><p><a href=\"https://furbo.org/2023/01/15/the-shit-show/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">furbo.org/2023/01/15/the-shit-</span><span class=\"invisible\">show/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2618\ufe0f"
+      },
+      {
+        "url": "https://econtwitter.net/@TradingPlacesResearch",
+        "display_name": "Trading Places Research"
+      },
+      {
+        "url": "https://macaw.social/@dml",
+        "display_name": "Dave LaMacchia"
+      },
+      {
+        "url": "https://hachyderm.io/@mitsuhiko",
+        "display_name": "Armin Ronacher"
+      },
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      },
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      },
+      {
+        "url": "https://mefi.social/@melissaekline",
+        "display_name": "Melissa Kline Struhl"
+      },
+      {
+        "url": "https://social.librem.one/@vincent",
+        "display_name": "Vincent Cloutier"
+      },
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
+      },
+      {
+        "url": "https://mastodon.gamedev.place/@aras",
+        "display_name": "Aras Pranckevi\u010dius"
+      }
+    ]
+  },
+  {
+    "link": "http://furbo.org/",
+    "title": "http://furbo.org",
+    "latest": "2023-01-16T04:47:33+00:00",
+    "first": "2023-01-16T04:47:33+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@shoq/109696210752571715",
+      "content": "<p>Twitterific dev speaks out about Musk\u2019s latest\u2026  Shit Show \u2022 <a href=\"http://furbo.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">furbo.org</span><span class=\"invisible\"></span></a></p><p><a href=\"https://furbo.org/2023/01/15/the-shit-show/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">furbo.org/2023/01/15/the-shit-</span><span class=\"invisible\">show/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@aras",
+        "display_name": "Aras Pranckevi\u010dius"
+      }
+    ]
+  },
+  {
+    "link": "https://box2d.org/posts/2023/01/starting-box2d-3.0/",
+    "title": "\n        \n            Starting Box2D 3.0 :: Box2D \n        \n    ",
+    "latest": "2023-01-16T04:42:06+00:00",
+    "first": "2023-01-16T04:42:06+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@erin_catto/109695598031040050",
+      "content": "<p>More details on the Box2D version 3.0 plans:<br><a href=\"https://box2d.org/posts/2023/01/starting-box2d-3.0/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">box2d.org/posts/2023/01/starti</span><span class=\"invisible\">ng-box2d-3.0/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@aras",
+        "display_name": "Aras Pranckevi\u010dius"
+      }
+    ]
+  },
+  {
+    "link": "https://heathercoxrichardson.substack.com/p/january-15-2023?utm_source=post-email-title&amp;publication_id=20533&amp;post_id=96978272&amp;isFreemail=true&amp;utm_medium=email",
+    "title": "January 15, 2023",
+    "latest": "2023-01-16T04:35:12+00:00",
+    "first": "2023-01-16T04:35:12+00:00",
+    "last_post": {
+      "url": "https://social.masto.land/@dave/109697020525343529",
+      "content": "<p>[Heroism] means writing in your diary that you \u201cstill believe that people are really good at heart,\u201d even while you are hiding in an attic from the men who are soon going to kill you, as Anne Frank did.</p><p><a href=\"https://heathercoxrichardson.substack.com/p/january-15-2023?utm_source=post-email-title&amp;publication_id=20533&amp;post_id=96978272&amp;isFreemail=true&amp;utm_medium=email\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">heathercoxrichardson.substack.</span><span class=\"invisible\">com/p/january-15-2023?utm_source=post-email-title&amp;publication_id=20533&amp;post_id=96978272&amp;isFreemail=true&amp;utm_medium=email</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2618\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://pudding.cool/2022/12/yard-sale/",
+    "title": "Why the super rich are inevitable",
+    "latest": "2023-01-16T04:28:26+00:00",
+    "last_post": {
+      "url": "https://vis.social/@thepudding/109553527795781301",
+      "content": "<p>Why do the rich get richer?\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0 Our latest project with Alvin Chang uses simulations and interactivity to guide us through one answer from the field of econophysics.</p><p><a href=\"https://pudding.cool/2022/12/yard-sale/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pudding.cool/2022/12/yard-sale</span><span class=\"invisible\">/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@nsaphra",
+        "display_name": "Naomi Saphra"
+      },
+      {
+        "url": "https://chaos.social/@mahibi",
+        "display_name": "mahibi"
+      },
+      {
+        "url": "https://vis.social/@scott",
+        "display_name": "Scott Murray"
+      }
+    ],
+    "first": "2023-01-03T21:14:56+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2019/10/24/science/ant-zombies-fungus.html",
+    "title": "After This Fungus Turns Ants Into Zombies, Their Bodies Explode",
+    "latest": "2023-01-16T04:22:09+00:00",
+    "first": "2023-01-16T04:22:09+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Carl_Zimmer/109696970196022060",
+      "content": "<p>If The Last of Us is making you curious about the real Cordyceps\u2026 <a href=\"https://www.nytimes.com/2019/10/24/science/ant-zombies-fungus.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2019/10/24/science</span><span class=\"invisible\">/ant-zombies-fungus.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Carl_Zimmer",
+        "display_name": "Carl Zimmer"
+      }
+    ]
+  },
+  {
+    "link": "https://www.csuchico.edu/iege/_assets/documents/susi-letter-from-birmingham-jail.pdf",
+    "title": "csuchico.edu/iege/_assets/docu...",
+    "latest": "2023-01-16T04:20:59+00:00",
+    "first": "2023-01-16T04:20:59+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@danielschuman/109695549557644570",
+      "content": "<p>In anticipation of MLK day, it's good to start with a rereading of Letter from a Birmingham Jail. </p><p>The section on \"white moderates\" is particularly instructive.</p><p><a href=\"https://www.csuchico.edu/iege/_assets/documents/susi-letter-from-birmingham-jail.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">csuchico.edu/iege/_assets/docu</span><span class=\"invisible\">ments/susi-letter-from-birmingham-jail.pdf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      }
+    ]
+  },
+  {
+    "link": "https://fs.blog/stop-reading-news/",
+    "title": "Why You Should Stop Reading News",
+    "latest": "2023-01-16T04:17:55+00:00",
+    "first": "2023-01-16T04:17:55+00:00",
+    "last_post": {
+      "url": "https://vis.social/@scott/109696953576571119",
+      "content": "<p>I am very much pro-journalism and especially pro-journalist, and yet\u2026 <a href=\"https://fs.blog/stop-reading-news/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fs.blog/stop-reading-news/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@scott",
+        "display_name": "Scott Murray"
+      }
+    ]
+  },
+  {
+    "link": "https://chi-trait.github.io/",
+    "title": "TRAIT: CHI'22 Workshop on Trust and Reliance in AI-Human Teams",
+    "latest": "2023-01-16T04:10:36+00:00",
+    "first": "2023-01-16T04:10:36+00:00",
+    "last_post": {
+      "url": "https://hci.social/@zbucinca/109684770515625239",
+      "content": "<p>Working on tools that involve AI and humans? Want to make sure users trust and rely on AI appropriately? Or, simply interested in AI, HCI, and how they come together? If so, check out our *hybrid* CHI workshop w/ keynote by Carrie Cai and Michael Terry (Google Research). Submissions are due February 23rd. <a href=\"https://chi-trait.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">chi-trait.github.io/</span><span class=\"invisible\"></span></a></p><p>The 2nd workshop on Trust &amp; Reliance in AI-Human Teams (TRAIT) will be held in conjunction with the ACM CHI on April 23, 2023 in Hamburg, Germany.</p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@andresmh",
+        "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
+      }
+    ]
+  },
+  {
+    "link": "https://tokimeki-mastodon.vercel.app/",
+    "title": "https://tokimeki-mastodon.vercel.app",
+    "latest": "2023-01-16T04:07:48+00:00",
+    "first": "2023-01-10T18:31:53+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@Eramdam/109663455265127820",
+      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      },
+      {
+        "url": "https://vis.social/@Luca",
+        "display_name": "Luca Hammer"
+      },
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/eramdam/tokimeki-mastodon",
+    "title": "github.com/eramdam/tokimeki-ma...",
+    "latest": "2023-01-16T04:07:48+00:00",
+    "first": "2023-01-10T18:31:53+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@Eramdam/109663455265127820",
+      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      },
+      {
+        "url": "https://vis.social/@Luca",
+        "display_name": "Luca Hammer"
+      },
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      }
+    ]
+  },
+  {
+    "link": "https://youtu.be/1z_VeN54f0M",
+    "title": "https://youtu.be/1z_VeN54f0M",
+    "latest": "2023-01-16T03:58:01+00:00",
+    "first": "2023-01-16T03:58:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.lol/@evacide/109696337780117734",
+      "content": "<p>My favorite use of AI art is the creation of stills from movies that never existed. Please enjoy 1988's Chrome Lords, a ripoff of Terminator and Robocop that never happened but absolutely could have: </p><p><a href=\"https://youtu.be/1z_VeN54f0M\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/1z_VeN54f0M</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://stareinto.space/@kat",
+        "display_name": "Kat"
+      }
+    ]
+  },
+  {
+    "link": "https://narrascope.org/pages/call.html",
+    "title": "Call for Proposals",
+    "latest": "2023-01-16T03:56:57+00:00",
+    "first": "2023-01-16T03:56:57+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@IFTF/109696589233574704",
+      "content": "<p>A quick note that we're still looking for talks for NarraScope 2023! Anything to do with narrative games and interactive fiction. Discussions, analysis, storytelling technology, connections to other storytelling communities -- whatever you've got, we want to hear about it.</p><p>The submission deadline is the 20th; this is your final-week reminder! See our Call For Proposals page for more info and the submission form:</p><p><a href=\"https://narrascope.org/pages/call.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">narrascope.org/pages/call.html</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.gamedev.place/tags/InteractiveFiction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>InteractiveFiction</span></a> <a href=\"https://mastodon.gamedev.place/tags/NarraScope\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NarraScope</span></a> <a href=\"https://mastodon.gamedev.place/tags/Conference\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Conference</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://xoxo.zone/@lauraehall",
+        "display_name": "Laura E. Hall"
+      }
+    ]
+  },
+  {
+    "link": "https://youtube.com/watch?v=ZBOHGzE6TNY",
+    "title": "youtube.com/watch?v=ZBOHGzE6TN...",
+    "latest": "2023-01-16T03:39:40+00:00",
+    "first": "2023-01-16T03:39:40+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@timonus/109696694073207121",
+      "content": "<p>I remember being so in awe of this demo when Tweetbot first came out \ud83e\udee1\ud83e\udd16 <a href=\"https://youtube.com/watch?v=ZBOHGzE6TNY\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">youtube.com/watch?v=ZBOHGzE6TN</span><span class=\"invisible\">Y</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@delong",
+        "display_name": "delong"
+      }
+    ]
+  },
+  {
+    "link": "https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html",
+    "title": "For your next side project, make a browser extension",
+    "latest": "2023-01-16T03:23:59.434000+00:00",
+    "first": "2023-01-15T17:17:19+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@geoffreylitt/109694355997337499",
+      "content": "<p>Some reflections on my experience building the Twemex browser extension, and why tweaking existing software can be nice:</p><p><a href=\"https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">geoffreylitt.com/2023/01/08/fo</span><span class=\"invisible\">r-your-next-side-project-make-a-browser-extension.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@geoffreylitt",
+        "display_name": "Geoffrey Litt"
+      },
+      {
+        "url": "https://hachyderm.io/@allafarce",
+        "display_name": "Dave Guarino"
+      }
+    ]
+  },
+  {
+    "link": "https://erictopol.substack.com/p/when-md-is-a-machine-doctor",
+    "title": "When M.D. is a Machine Doctor",
+    "latest": "2023-01-16T03:21:04+00:00",
+    "first": "2023-01-16T03:21:04+00:00",
+    "last_post": {
+      "url": "https://med-mastodon.com/@bertgold/109696245818430828",
+      "content": "<p>I have watched AI carefully since I was in my 20s.  I think <span class=\"h-card\"><a href=\"https://mstdn.social/@erictopol\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>erictopol</span></a></span> is correct in his assessment here.  This is an important article.  It should be widely read. <a href=\"https://erictopol.substack.com/p/when-md-is-a-machine-doctor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">erictopol.substack.com/p/when-</span><span class=\"invisible\">md-is-a-machine-doctor</span></a> <a href=\"https://med-mastodon.com/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://med-mastodon.com/tags/EricTopol\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EricTopol</span></a> <a href=\"https://med-mastodon.com/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a> <a href=\"https://med-mastodon.com/tags/BigData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BigData</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@mattmight",
+        "display_name": "Matt Might"
+      }
+    ]
+  },
+  {
+    "link": "https://www.comeetie.fr/galerie/mapstodon/",
+    "title": "Mapstodon",
+    "latest": "2023-01-16T03:14:01+00:00",
+    "first": "2023-01-12T14:03:39+00:00",
+    "last_post": {
+      "url": "https://dobbs.town/@onan/109693667508903289",
+      "content": "<p><a href=\"https://Dobbs.Town\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">Dobbs.Town</span><span class=\"invisible\"></span></a> at Mapstodon...</p><p><a href=\"https://www.comeetie.fr/galerie/mapstodon/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">comeetie.fr/galerie/mapstodon/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.world/@h_thoreson",
+        "display_name": "hannah"
+      },
+      {
+        "url": "https://techhub.social/@ruthpozuelo",
+        "display_name": "Ruth Pozuelo Martinez"
+      },
+      {
+        "url": "https://mastodon.social/@dahukanna",
+        "display_name": "Dawn Ahukanna"
+      },
+      {
+        "url": "https://mastodon.social/@danbri",
+        "display_name": "danbri"
+      }
+    ]
+  },
+  {
+    "link": "https://dobbs.town/",
+    "title": "https://Dobbs.Town",
+    "latest": "2023-01-16T03:14:01+00:00",
+    "first": "2023-01-16T03:14:01+00:00",
+    "last_post": {
+      "url": "https://dobbs.town/@onan/109693667508903289",
+      "content": "<p><a href=\"https://Dobbs.Town\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">Dobbs.Town</span><span class=\"invisible\"></span></a> at Mapstodon...</p><p><a href=\"https://www.comeetie.fr/galerie/mapstodon/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">comeetie.fr/galerie/mapstodon/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@danbri",
+        "display_name": "danbri"
       }
     ]
   },
@@ -304,50 +860,6 @@
       {
         "url": "https://sigmoid.social/@R4_Unit",
         "display_name": "R4_Unit"
-      }
-    ]
-  },
-  {
-    "link": "https://furbo.org/2023/01/15/the-shit-show/",
-    "title": "The Shit Show \u2022 furbo.org",
-    "latest": "2023-01-16T01:44:11+00:00",
-    "first": "2023-01-15T21:01:35+00:00",
-    "last_post": {
-      "url": "https://mastodon.lol/@evacide/109696252399203858",
-      "content": "<p>I don't want Mastodon to be a place where all I talk about is the continuing demise of Twitter, but...Twitter pulled the plug on all of the top third-party Twitter clients and Twitterrific's Craig Hockenberry has some things to say about it:</p><p><a href=\"https://furbo.org/2023/01/15/the-shit-show/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">furbo.org/2023/01/15/the-shit-</span><span class=\"invisible\">show/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2618\ufe0f"
-      },
-      {
-        "url": "https://econtwitter.net/@TradingPlacesResearch",
-        "display_name": "Trading Places Research"
-      },
-      {
-        "url": "https://macaw.social/@dml",
-        "display_name": "Dave LaMacchia"
-      },
-      {
-        "url": "https://hachyderm.io/@mitsuhiko",
-        "display_name": "Armin Ronacher"
-      },
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      },
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      },
-      {
-        "url": "https://mefi.social/@melissaekline",
-        "display_name": "Melissa Kline Struhl"
-      },
-      {
-        "url": "https://social.librem.one/@vincent",
-        "display_name": "Vincent Cloutier"
       }
     ]
   },
@@ -1096,26 +1608,6 @@
       {
         "url": "https://hci.social/@andresmh",
         "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
-      }
-    ]
-  },
-  {
-    "link": "http://tilde.club/",
-    "title": "http://tilde.club",
-    "latest": "2023-01-15T22:14:00+00:00",
-    "first": "2023-01-16T00:12:40+00:00",
-    "last_post": {
-      "url": "https://eigenmagic.net/@vampiress/109695295698724468",
-      "content": "<p>On the subject of young people being nostalgic for things they never experienced, something I learned about recently that I found particularly interesting was this:</p><p>Some gen Z'ers learned that back in the day we had small web sites which tended to end in ~myusername.</p><p>They re-created some of those spaces, and refer to them as 'tilde clubs' (after the first one). Tiny little self-contained social spaces, often using minimal HTML and terminal access.</p><p><a href=\"http://tilde.club\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">tilde.club</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mefi.social/@melissaekline",
-        "display_name": "Melissa Kline Struhl"
-      },
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
       }
     ]
   },
@@ -2976,22 +3468,6 @@
     ]
   },
   {
-    "link": "https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html",
-    "title": "For your next side project, make a browser extension",
-    "latest": "2023-01-15T17:17:19+00:00",
-    "first": "2023-01-15T17:17:19+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@geoffreylitt/109694355997337499",
-      "content": "<p>Some reflections on my experience building the Twemex browser extension, and why tweaking existing software can be nice:</p><p><a href=\"https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">geoffreylitt.com/2023/01/08/fo</span><span class=\"invisible\">r-your-next-side-project-make-a-browser-extension.html</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@geoffreylitt",
-        "display_name": "Geoffrey Litt"
-      }
-    ]
-  },
-  {
     "link": "https://fedi.foundation/2022/09/social-networking-reimagined",
     "title": "fedi.foundation/2022/09/social...",
     "latest": "2023-01-15T17:15:48+00:00",
@@ -3148,434 +3624,6 @@
       {
         "url": "https://writing.exchange/@bryankam",
         "display_name": "Bryan Kam"
-      }
-    ]
-  },
-  {
-    "link": "https://pca.st/episode/538fd818-a116-458e-b1ce-14e70ecba9ac",
-    "title": "pca.st/episode/538fd818-a116-4...",
-    "latest": "2023-01-15T16:41:23+00:00",
-    "first": "2023-01-15T16:41:23+00:00",
-    "last_post": {
-      "url": "https://kolektiva.social/@pivic/109693820255777590",
-      "content": "<p><a href=\"https://pca.st/episode/538fd818-a116-458e-b1ce-14e70ecba9ac\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pca.st/episode/538fd818-a116-4</span><span class=\"invisible\">58e-b1ce-14e70ecba9ac</span></a></p><p>Finally, the philosophy podcast 'History of Philosophy Without any Gaps' reaches Michel de Montaigne, one of my favourites.</p><p>Don't miss out on Sarah Bakewell's brilliant book about Montaigne: <a href=\"https://sarahbakewell.com/books-3/how-to-live-a-life-of-montaigne/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sarahbakewell.com/books-3/how-</span><span class=\"invisible\">to-live-a-life-of-montaigne/</span></a></p><p><a href=\"https://kolektiva.social/tags/MichelDeMontaigne\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MichelDeMontaigne</span></a> <a href=\"https://kolektiva.social/tags/SarahBakewell\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SarahBakewell</span></a> <a href=\"https://kolektiva.social/tags/philosophy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>philosophy</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://writing.exchange/@bryankam",
-        "display_name": "Bryan Kam"
-      }
-    ]
-  },
-  {
-    "link": "https://sarahbakewell.com/books-3/how-to-live-a-life-of-montaigne/",
-    "title": "sarahbakewell.com/books-3/how-...",
-    "latest": "2023-01-15T16:41:23+00:00",
-    "first": "2023-01-15T16:41:23+00:00",
-    "last_post": {
-      "url": "https://kolektiva.social/@pivic/109693820255777590",
-      "content": "<p><a href=\"https://pca.st/episode/538fd818-a116-458e-b1ce-14e70ecba9ac\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pca.st/episode/538fd818-a116-4</span><span class=\"invisible\">58e-b1ce-14e70ecba9ac</span></a></p><p>Finally, the philosophy podcast 'History of Philosophy Without any Gaps' reaches Michel de Montaigne, one of my favourites.</p><p>Don't miss out on Sarah Bakewell's brilliant book about Montaigne: <a href=\"https://sarahbakewell.com/books-3/how-to-live-a-life-of-montaigne/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sarahbakewell.com/books-3/how-</span><span class=\"invisible\">to-live-a-life-of-montaigne/</span></a></p><p><a href=\"https://kolektiva.social/tags/MichelDeMontaigne\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MichelDeMontaigne</span></a> <a href=\"https://kolektiva.social/tags/SarahBakewell\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SarahBakewell</span></a> <a href=\"https://kolektiva.social/tags/philosophy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>philosophy</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://writing.exchange/@bryankam",
-        "display_name": "Bryan Kam"
-      }
-    ]
-  },
-  {
-    "link": "https://sebastianraschka.com/blog/2023/xgboost-gpu.html",
-    "title": "\n      Training an XGBoost Classifier Using Cloud GPUs Without Worrying About Infrastructure\n    ",
-    "latest": "2023-01-15T16:40:18+00:00",
-    "first": "2023-01-15T16:40:18+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@SebRaschka/109694210414372021",
-      "content": "<p>Woke up and felt like writing a blog post on how to train an XGBoost Classifier with cloud GPUs, avoiding infrastructure headaches.<br>Happy Sunday! \ud83d\ude0a</p><p><a href=\"https://sebastianraschka.com/blog/2023/xgboost-gpu.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sebastianraschka.com/blog/2023</span><span class=\"invisible\">/xgboost-gpu.html</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@SebRaschka",
-        "display_name": "Sebastian Raschka"
-      }
-    ]
-  },
-  {
-    "link": "https://www.oodaloop.com/archive/2021/09/24/inmans-rules-the-enduring-principles-of-operational-intelligence/",
-    "title": "Inman\u2019s Rules: The Enduring Principles of Operational Intelligence",
-    "latest": "2023-01-15T16:35:56+00:00",
-    "first": "2023-01-15T16:35:56+00:00",
-    "last_post": {
-      "url": "https://defcon.social/@BobGourley/109693888115840966",
-      "content": "<p>Inman's Rules were written long ago but still so relevant to intelligence. Get context from Admiral Inman here:  <a href=\"https://www.oodaloop.com/archive/2021/09/24/inmans-rules-the-enduring-principles-of-operational-intelligence/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">oodaloop.com/archive/2021/09/2</span><span class=\"invisible\">4/inmans-rules-the-enduring-principles-of-operational-intelligence/</span></a> <br><a href=\"https://defcon.social/tags/OSINT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OSINT</span></a> <a href=\"https://defcon.social/tags/Infosec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Infosec</span></a> <a href=\"https://defcon.social/tags/intelligence\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>intelligence</span></a> <a href=\"https://defcon.social/tags/ooda\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ooda</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@mikeolson",
-        "display_name": "Mike Olson"
-      }
-    ]
-  },
-  {
-    "link": "https://www.patreon.com/birddotmakeup",
-    "title": "bird.makeup | Creating a bridge from twitter to the fediverse | Patreon",
-    "latest": "2023-01-15T16:32:47+00:00",
-    "first": "2023-01-14T19:14:24+00:00",
-    "last_post": {
-      "url": "https://social.librem.one/@vincent/109689154096752443",
-      "content": "<p>So since users of bird.makeup keep increasing like crazy, I've setup a Patreon: <br><a href=\"https://www.patreon.com/birddotmakeup\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">patreon.com/birddotmakeup</span><span class=\"invisible\"></span></a> </p><p>Please help me grow a free and open source service in a sustainable way. Thank you! \ud83d\ude04</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.librem.one/@vincent",
-        "display_name": "Vincent Cloutier"
-      }
-    ]
-  },
-  {
-    "link": "https://berthub.eu/articles/posts/reactie-consultatie-nota-van-wijziging-tijdelijke-cyberwet/",
-    "title": "Reactie consultatie Nota van wijziging Tijdelijke Cyberwet AIVD en MIVD - Bert Hubert's writings",
-    "latest": "2023-01-15T16:22:36+00:00",
-    "first": "2023-01-15T16:22:36+00:00",
-    "last_post": {
-      "url": "https://mastodon.nl/@bert_hubert/109694022969838877",
-      "content": "<p>Er kan vandaag en morgen nog gereageerd worden op de internetconsultatie op de nota van wijziging van de nieuwe AIVD/MIVD cyberwet. Hier mijn inzending, met links naar die van de TIB, <span class=\"h-card\"><a href=\"https://mastodon.nl/@collegevoorderechtenvandemens\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>collegevoorderechtenvandemens</span></a></span> en <span class=\"h-card\"><a href=\"https://chaos.social/@bitsoffreedom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bitsoffreedom</span></a></span>: <a href=\"https://berthub.eu/articles/posts/reactie-consultatie-nota-van-wijziging-tijdelijke-cyberwet/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">berthub.eu/articles/posts/reac</span><span class=\"invisible\">tie-consultatie-nota-van-wijziging-tijdelijke-cyberwet/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@mikeolson",
-        "display_name": "Mike Olson"
-      }
-    ]
-  },
-  {
-    "link": "https://link.medium.com/oSoJH1HnBwb",
-    "title": "https://link.medium.com/oSoJH1HnBwb",
-    "latest": "2023-01-15T16:21:09+00:00",
-    "first": "2023-01-15T16:21:09+00:00",
-    "last_post": {
-      "url": "https://techhub.social/@ankurkumar/109691829819317660",
-      "content": "<p>I finally had time to summarize key takeaways from AWS reInvent 2022 from an architect's perspective. </p><p>If you also attended AWS reInvent, share your experience as well.</p><p><a href=\"https://link.medium.com/oSoJH1HnBwb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">link.medium.com/oSoJH1HnBwb</span><span class=\"invisible\"></span></a></p><p><a href=\"https://techhub.social/tags/aws\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aws</span></a> <a href=\"https://techhub.social/tags/reinvent\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reinvent</span></a> <a href=\"https://techhub.social/tags/cloudnative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cloudnative</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://awscommunity.social/@esh",
-        "display_name": "Eric Hammond"
-      }
-    ]
-  },
-  {
-    "link": "https://boards.greenhouse.io/deepmind/jobs/4806396?gh_src=d39b99f31",
-    "title": "International Public Policy Manager",
-    "latest": "2023-01-15T16:19:58+00:00",
-    "first": "2023-01-15T16:19:58+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@jmateosg/109694130519247331",
-      "content": "<p>RT @sebkrier@twitter.com</p><p>Come with with me :) We're hiring a US focused international public policy manager! \ud83d\udca5 <a href=\"https://boards.greenhouse.io/deepmind/jobs/4806396?gh_src=d39b99f31\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">boards.greenhouse.io/deepmind/</span><span class=\"invisible\">jobs/4806396?gh_src=d39b99f31</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/sebkrier/status/1614623982124240896\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/sebkrier/status/16</span><span class=\"invisible\">14623982124240896</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@jmateosg",
-        "display_name": "Juan Mateos-Garcia"
-      }
-    ]
-  },
-  {
-    "link": "https://merrysky.net/",
-    "title": "Merry Sky",
-    "latest": "2023-01-15T16:18:52+00:00",
-    "last_post": {
-      "url": "https://status.kinlan.me/@paul/109693319581023802",
-      "content": "<p><a href=\"https://merrysky.net/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">merrysky.net/</span><span class=\"invisible\"></span></a> is a very good weather web app and also a very very good PWA</p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@jonny",
-        "display_name": "Jonny"
-      },
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      },
-      {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
-      },
-      {
-        "url": "https://bell.bz/@andy",
-        "display_name": "Andy Bell"
-      }
-    ],
-    "first": "2023-01-04T02:51:49+00:00"
-  },
-  {
-    "link": "https://www.motaitalic.com/product/lini/",
-    "title": "https://www.motaitalic.com/product/lini/",
-    "latest": "2023-01-15T16:17:36+00:00",
-    "first": "2023-01-15T16:17:36+00:00",
-    "last_post": {
-      "url": "https://sfba.social/@fonts/109694121148929786",
-      "content": "<p>good morning to no one else except this beautiful lowercase \u201ca\u201d from Lini by Kimya Gandhi <a href=\"https://www.motaitalic.com/product/lini/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">motaitalic.com/product/lini/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sfba.social/@fonts",
-        "display_name": "Robin Rendle"
-      }
-    ]
-  },
-  {
-    "link": "https://dev.to/aws-heroes/the-best-aws-reinvent-ever-looking-back-at-eleven-editions-2mpg",
-    "title": "The Best AWS re:Invent Ever? Looking Back at Eleven Editions",
-    "latest": "2023-01-15T16:15:50+00:00",
-    "first": "2023-01-15T16:15:50+00:00",
-    "last_post": {
-      "url": "https://awscommunity.social/@renato/109681827942155998",
-      "content": "<p>The Best AWS re:Invent Ever? Looking Back at Eleven Editions </p><p><a href=\"https://awscommunity.social/tags/aws\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aws</span></a> <a href=\"https://awscommunity.social/tags/reinvent\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reinvent</span></a> </p><p><a href=\"https://dev.to/aws-heroes/the-best-aws-reinvent-ever-looking-back-at-eleven-editions-2mpg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dev.to/aws-heroes/the-best-aws</span><span class=\"invisible\">-reinvent-ever-looking-back-at-eleven-editions-2mpg</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://awscommunity.social/@esh",
-        "display_name": "Eric Hammond"
-      }
-    ]
-  },
-  {
-    "link": "https://www.theguardian.com/environment/2023/jan/15/gas-stoves-pollution-alternatives",
-    "title": "Are gas stoves really dangerous? What we know about the science",
-    "latest": "2023-01-15T16:14:33+00:00",
-    "first": "2023-01-15T16:14:33+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@dawnnafus/109694109180613311",
-      "content": "<p>Living with a gas stove has similar effects on your body as living with a smoker. I switched to electric recently  and couldn't be happier. If you can,  go for it. You won't regret it. The new ones are nothing like the coils you grew up with. <a href=\"https://www.theguardian.com/environment/2023/jan/15/gas-stoves-pollution-alternatives\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theguardian.com/environment/20</span><span class=\"invisible\">23/jan/15/gas-stoves-pollution-alternatives</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@dawnnafus",
-        "display_name": "Dawn Nafus"
-      }
-    ]
-  },
-  {
-    "link": "https://www.goldencheetah.org/",
-    "title": "GoldenCheetah",
-    "latest": "2023-01-15T16:11:24+00:00",
-    "first": "2023-01-15T16:11:24+00:00",
-    "last_post": {
-      "url": "https://social.coop/@natematias/109694096819988630",
-      "content": "<p>For folks who want to analyze your cycling or triathlon data without paying for a corporate service that you can't trust, I suggest GoldenCheetah, a Free Software program that also allows you to opt-in to contribute your fitness data to science.</p><p>I've been using GoldenCheetah for 2 years now, and it's saved me.... oh right, I don't know because Strava doesn't disclose its prices!</p><p><a href=\"https://www.goldencheetah.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">goldencheetah.org/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@natematias",
-        "display_name": "J. Nathan Matias \ud83e\udda3"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/IERC721.sol#L15",
-    "title": "openzeppelin-contracts/IERC721.sol at master \u00b7 OpenZeppelin/openzeppelin-contracts",
-    "latest": "2023-01-15T16:10:14+00:00",
-    "first": "2023-01-15T16:10:14+00:00",
-    "last_post": {
-      "url": "https://cryptodon.lol/@neiman/109694092209842160",
-      "content": "<p>Follow-up! Why only one account can be approved to transfer a token? What's wrong with approving many accounts?</p><p>From ERC-721 of @OpenZeppelin:</p><p>\"Only a single account can be approved at a time, so approving the zero address clears previous approvals.\"</p><p><a href=\"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/IERC721.sol#L15\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/OpenZeppelin/openze</span><span class=\"invisible\">ppelin-contracts/blob/master/contracts/token/ERC721/IERC721.sol#L15</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://cryptodon.lol/@neiman",
-        "display_name": "Neiman"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=s3szJ67iM1E",
-    "title": "Strava Doubles Its Price, But Refuses To Tell You",
-    "latest": "2023-01-15T16:07:51+00:00",
-    "first": "2023-01-15T16:07:51+00:00",
-    "last_post": {
-      "url": "https://social.coop/@natematias/109694082859653772",
-      "content": "<p>As layoffs &amp; cuts spread through the tech industry, the cycling app Strava has started raising people's monthly/annual fees by unpredictable rates up to 2x, without disclosing prices publicly, and just auto-billing them.</p><p>I expect we'll see more of this kind of Dark Pattern behavior on other platforms going forward.</p><p><a href=\"https://www.youtube.com/watch?v=s3szJ67iM1E\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=s3szJ67iM1</span><span class=\"invisible\">E</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@natematias",
-        "display_name": "J. Nathan Matias \ud83e\udda3"
-      }
-    ]
-  },
-  {
-    "link": "https://ddosecrets.charity/",
-    "title": "https://DDoSecrets.Charity",
-    "latest": "2023-01-15T16:07:36+00:00",
-    "last_post": {
-      "url": "https://kolektiva.social/@ddosecrets/109684924177620652",
-      "content": "<p>RELEASE: Leaked phone forensics software and documentation from Cellebrite (1.7 TB) and MSAB (103 GB). <a href=\"https://ddosecrets.com/wiki/Cellebrite_and_MSAB\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ddosecrets.com/wiki/Cellebrite</span><span class=\"invisible\">_and_MSAB</span></a></p><p>These companies sell to police and governments around the world who use it to collect information from the phones of journalists, activists, and dissidents. Both companies' software is well documented as being used in human rights abuses.</p><p>If you find this interesting, you might also be interesting in our past releases related to Cellebrite:<br><a href=\"https://ddosecrets.com/wiki/Cellebrite_Team_Foundation_Server\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ddosecrets.com/wiki/Cellebrite</span><span class=\"invisible\">_Team_Foundation_Server</span></a> and <a href=\"https://ddosecrets.com/wiki/Cellebrite_Mobilogy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ddosecrets.com/wiki/Cellebrite</span><span class=\"invisible\">_Mobilogy</span></a></p><p>Help keep DDoSecrets operating in 2023 with a $15 donation: <a href=\"https://DDoSecrets.Charity\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">DDoSecrets.Charity</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://kolektiva.social/@ddosecrets",
-        "display_name": "Distributed Denial of Secrets"
-      }
-    ],
-    "first": "2022-12-30T22:50:54+00:00"
-  },
-  {
-    "link": "https://ddosecrets.com/wiki/Cellebrite_and_MSAB",
-    "title": "Cellebrite and MSAB - Distributed Denial of Secrets",
-    "latest": "2023-01-15T16:07:36+00:00",
-    "first": "2023-01-14T01:18:41+00:00",
-    "last_post": {
-      "url": "https://kolektiva.social/@ddosecrets/109684924177620652",
-      "content": "<p>RELEASE: Leaked phone forensics software and documentation from Cellebrite (1.7 TB) and MSAB (103 GB). <a href=\"https://ddosecrets.com/wiki/Cellebrite_and_MSAB\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ddosecrets.com/wiki/Cellebrite</span><span class=\"invisible\">_and_MSAB</span></a></p><p>These companies sell to police and governments around the world who use it to collect information from the phones of journalists, activists, and dissidents. Both companies' software is well documented as being used in human rights abuses.</p><p>If you find this interesting, you might also be interesting in our past releases related to Cellebrite:<br><a href=\"https://ddosecrets.com/wiki/Cellebrite_Team_Foundation_Server\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ddosecrets.com/wiki/Cellebrite</span><span class=\"invisible\">_Team_Foundation_Server</span></a> and <a href=\"https://ddosecrets.com/wiki/Cellebrite_Mobilogy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ddosecrets.com/wiki/Cellebrite</span><span class=\"invisible\">_Mobilogy</span></a></p><p>Help keep DDoSecrets operating in 2023 with a $15 donation: <a href=\"https://DDoSecrets.Charity\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">DDoSecrets.Charity</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://kolektiva.social/@ddosecrets",
-        "display_name": "Distributed Denial of Secrets"
-      }
-    ]
-  },
-  {
-    "link": "https://ddosecrets.com/wiki/Cellebrite_Team_Foundation_Server",
-    "title": "ddosecrets.com/wiki/Cellebrite...",
-    "latest": "2023-01-15T16:07:36+00:00",
-    "first": "2023-01-14T01:18:41+00:00",
-    "last_post": {
-      "url": "https://kolektiva.social/@ddosecrets/109684924177620652",
-      "content": "<p>RELEASE: Leaked phone forensics software and documentation from Cellebrite (1.7 TB) and MSAB (103 GB). <a href=\"https://ddosecrets.com/wiki/Cellebrite_and_MSAB\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ddosecrets.com/wiki/Cellebrite</span><span class=\"invisible\">_and_MSAB</span></a></p><p>These companies sell to police and governments around the world who use it to collect information from the phones of journalists, activists, and dissidents. Both companies' software is well documented as being used in human rights abuses.</p><p>If you find this interesting, you might also be interesting in our past releases related to Cellebrite:<br><a href=\"https://ddosecrets.com/wiki/Cellebrite_Team_Foundation_Server\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ddosecrets.com/wiki/Cellebrite</span><span class=\"invisible\">_Team_Foundation_Server</span></a> and <a href=\"https://ddosecrets.com/wiki/Cellebrite_Mobilogy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ddosecrets.com/wiki/Cellebrite</span><span class=\"invisible\">_Mobilogy</span></a></p><p>Help keep DDoSecrets operating in 2023 with a $15 donation: <a href=\"https://DDoSecrets.Charity\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">DDoSecrets.Charity</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://kolektiva.social/@ddosecrets",
-        "display_name": "Distributed Denial of Secrets"
-      }
-    ]
-  },
-  {
-    "link": "https://ddosecrets.com/wiki/Cellebrite_Mobilogy",
-    "title": "ddosecrets.com/wiki/Cellebrite...",
-    "latest": "2023-01-15T16:07:36+00:00",
-    "first": "2023-01-14T01:18:41+00:00",
-    "last_post": {
-      "url": "https://kolektiva.social/@ddosecrets/109684924177620652",
-      "content": "<p>RELEASE: Leaked phone forensics software and documentation from Cellebrite (1.7 TB) and MSAB (103 GB). <a href=\"https://ddosecrets.com/wiki/Cellebrite_and_MSAB\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ddosecrets.com/wiki/Cellebrite</span><span class=\"invisible\">_and_MSAB</span></a></p><p>These companies sell to police and governments around the world who use it to collect information from the phones of journalists, activists, and dissidents. Both companies' software is well documented as being used in human rights abuses.</p><p>If you find this interesting, you might also be interesting in our past releases related to Cellebrite:<br><a href=\"https://ddosecrets.com/wiki/Cellebrite_Team_Foundation_Server\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ddosecrets.com/wiki/Cellebrite</span><span class=\"invisible\">_Team_Foundation_Server</span></a> and <a href=\"https://ddosecrets.com/wiki/Cellebrite_Mobilogy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ddosecrets.com/wiki/Cellebrite</span><span class=\"invisible\">_Mobilogy</span></a></p><p>Help keep DDoSecrets operating in 2023 with a $15 donation: <a href=\"https://DDoSecrets.Charity\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">DDoSecrets.Charity</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://kolektiva.social/@ddosecrets",
-        "display_name": "Distributed Denial of Secrets"
-      }
-    ]
-  },
-  {
-    "link": "https://ppg.report/",
-    "title": "https://ppg.report",
-    "latest": "2023-01-15T16:05:31+00:00",
-    "first": "2023-01-15T16:05:31+00:00",
-    "last_post": {
-      "url": "https://social.harding.dev/@alex/109694057946590906",
-      "content": "<p><span class=\"h-card\"><a href=\"https://paul.kinlan.me/paul\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>paul</span></a></span> Thanks, bookmarked! I love good wx PWAs! I\u2019ve been working on <a href=\"https://ppg.report\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ppg.report</span><span class=\"invisible\"></span></a>, which is specifically for paramotor pilots (and 24hr short term). USA only due to winds aloft weather model from NOAA ATM.</p>"
-    },
-    "people": [
-      {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/elk-zone/elk/pull/788",
-    "title": "fix: sanitize HTML from Mastodon servers by jviide \u00b7 Pull Request #788 \u00b7 elk-zone/elk",
-    "latest": "2023-01-15T16:02:16+00:00",
-    "first": "2023-01-15T16:02:16+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@jviide/109694034848600730",
-      "content": "<p>Elk, the Mastodon client built in the open, looks and feels great. Check it out at <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span>.</p><p>It's so nice I also want to use it. So I recently took a look at the code and opened some pull requests dealing fixing some security issues:</p><p>Sanitize HTML from Mastodon servers: <a href=\"https://github.com/elk-zone/elk/pull/788\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/7</span><span class=\"invisible\">88</span></a><br>Prevent HTML injections to code blocks: <a href=\"https://github.com/elk-zone/elk/pull/1165\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">165</span></a></p><p>Thanks to the crew (<span class=\"h-card\"><a href=\"https://m.webtoo.ls/@antfu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antfu</span></a></span>, <span class=\"h-card\"><a href=\"https://mastodon.roe.dev/@daniel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daniel</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@sxzz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sxzz</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>patak</span></a></span> et al.) for being super responsive and encouraging. They've dealt with the issues in an exemplary way, and gotten the patches out really fast.</p><p>Some technical background: The Mastodon API returns the post contents (among other things) as raw HTML. The default Mastodon server implementation does sanitize the HTML. But sometimes <a href=\"https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">server-side sanitation lets things slip through</a>, or the server itself could be in malicious hands.</p><p>If the client accepts the incoming raw HTML as-is, it can lead to <a href=\"https://en.wikipedia.org/wiki/Cross-site_scripting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Cross-Site Scripting</a> (XSS) vulnerabilities. Let's say a server returns a post with HTML content like &lt;script&gt;...&lt;/script&gt;. If the client just trusts the server and injects that content to the page, the server can effectively execute arbitrary code in the client context - for example to steal the client's login information. Or to take over the whole page like in the attached demo video \ud83d\ude42</p><p>Therefore, it's best to also sanitize the HTML on the client side. This can be tricky. Doubly so if the client wants implement features like rendering source code blocks with syntax highlighting, or turning Twitter mentions into links.</p><p>The linked pull requests fortify a couple of places where Elk prepares HTML content for display. I sincerely hope other people in the infosec scene find Elk's UI intriguing, maybe enough to even take a look at the code. It's a great chance to make a cool up-and-coming tool better!</p><p><a href=\"https://infosec.exchange/tags/elk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>elk</span></a> <a href=\"https://infosec.exchange/tags/vuejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vuejs</span></a> <a href=\"https://infosec.exchange/tags/vue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vue</span></a> <a href=\"https://infosec.exchange/tags/xss\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xss</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/elk-zone/elk/pull/1165",
-    "title": "github.com/elk-zone/elk/pull/1...",
-    "latest": "2023-01-15T16:02:16+00:00",
-    "first": "2023-01-15T16:02:16+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@jviide/109694034848600730",
-      "content": "<p>Elk, the Mastodon client built in the open, looks and feels great. Check it out at <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span>.</p><p>It's so nice I also want to use it. So I recently took a look at the code and opened some pull requests dealing fixing some security issues:</p><p>Sanitize HTML from Mastodon servers: <a href=\"https://github.com/elk-zone/elk/pull/788\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/7</span><span class=\"invisible\">88</span></a><br>Prevent HTML injections to code blocks: <a href=\"https://github.com/elk-zone/elk/pull/1165\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">165</span></a></p><p>Thanks to the crew (<span class=\"h-card\"><a href=\"https://m.webtoo.ls/@antfu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antfu</span></a></span>, <span class=\"h-card\"><a href=\"https://mastodon.roe.dev/@daniel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daniel</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@sxzz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sxzz</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>patak</span></a></span> et al.) for being super responsive and encouraging. They've dealt with the issues in an exemplary way, and gotten the patches out really fast.</p><p>Some technical background: The Mastodon API returns the post contents (among other things) as raw HTML. The default Mastodon server implementation does sanitize the HTML. But sometimes <a href=\"https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">server-side sanitation lets things slip through</a>, or the server itself could be in malicious hands.</p><p>If the client accepts the incoming raw HTML as-is, it can lead to <a href=\"https://en.wikipedia.org/wiki/Cross-site_scripting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Cross-Site Scripting</a> (XSS) vulnerabilities. Let's say a server returns a post with HTML content like &lt;script&gt;...&lt;/script&gt;. If the client just trusts the server and injects that content to the page, the server can effectively execute arbitrary code in the client context - for example to steal the client's login information. Or to take over the whole page like in the attached demo video \ud83d\ude42</p><p>Therefore, it's best to also sanitize the HTML on the client side. This can be tricky. Doubly so if the client wants implement features like rendering source code blocks with syntax highlighting, or turning Twitter mentions into links.</p><p>The linked pull requests fortify a couple of places where Elk prepares HTML content for display. I sincerely hope other people in the infosec scene find Elk's UI intriguing, maybe enough to even take a look at the code. It's a great chance to make a cool up-and-coming tool better!</p><p><a href=\"https://infosec.exchange/tags/elk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>elk</span></a> <a href=\"https://infosec.exchange/tags/vuejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vuejs</span></a> <a href=\"https://infosec.exchange/tags/vue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vue</span></a> <a href=\"https://infosec.exchange/tags/xss\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xss</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp",
-    "title": "https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp",
-    "latest": "2023-01-15T16:02:16+00:00",
-    "first": "2023-01-15T16:02:16+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@jviide/109694034848600730",
-      "content": "<p>Elk, the Mastodon client built in the open, looks and feels great. Check it out at <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span>.</p><p>It's so nice I also want to use it. So I recently took a look at the code and opened some pull requests dealing fixing some security issues:</p><p>Sanitize HTML from Mastodon servers: <a href=\"https://github.com/elk-zone/elk/pull/788\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/7</span><span class=\"invisible\">88</span></a><br>Prevent HTML injections to code blocks: <a href=\"https://github.com/elk-zone/elk/pull/1165\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">165</span></a></p><p>Thanks to the crew (<span class=\"h-card\"><a href=\"https://m.webtoo.ls/@antfu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antfu</span></a></span>, <span class=\"h-card\"><a href=\"https://mastodon.roe.dev/@daniel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daniel</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@sxzz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sxzz</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>patak</span></a></span> et al.) for being super responsive and encouraging. They've dealt with the issues in an exemplary way, and gotten the patches out really fast.</p><p>Some technical background: The Mastodon API returns the post contents (among other things) as raw HTML. The default Mastodon server implementation does sanitize the HTML. But sometimes <a href=\"https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">server-side sanitation lets things slip through</a>, or the server itself could be in malicious hands.</p><p>If the client accepts the incoming raw HTML as-is, it can lead to <a href=\"https://en.wikipedia.org/wiki/Cross-site_scripting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Cross-Site Scripting</a> (XSS) vulnerabilities. Let's say a server returns a post with HTML content like &lt;script&gt;...&lt;/script&gt;. If the client just trusts the server and injects that content to the page, the server can effectively execute arbitrary code in the client context - for example to steal the client's login information. Or to take over the whole page like in the attached demo video \ud83d\ude42</p><p>Therefore, it's best to also sanitize the HTML on the client side. This can be tricky. Doubly so if the client wants implement features like rendering source code blocks with syntax highlighting, or turning Twitter mentions into links.</p><p>The linked pull requests fortify a couple of places where Elk prepares HTML content for display. I sincerely hope other people in the infosec scene find Elk's UI intriguing, maybe enough to even take a look at the code. It's a great chance to make a cool up-and-coming tool better!</p><p><a href=\"https://infosec.exchange/tags/elk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>elk</span></a> <a href=\"https://infosec.exchange/tags/vuejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vuejs</span></a> <a href=\"https://infosec.exchange/tags/vue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vue</span></a> <a href=\"https://infosec.exchange/tags/xss\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xss</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Cross-site_scripting",
-    "title": "https://en.wikipedia.org/wiki/Cross-site_scripting",
-    "latest": "2023-01-15T16:02:16+00:00",
-    "first": "2023-01-15T16:02:16+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@jviide/109694034848600730",
-      "content": "<p>Elk, the Mastodon client built in the open, looks and feels great. Check it out at <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span>.</p><p>It's so nice I also want to use it. So I recently took a look at the code and opened some pull requests dealing fixing some security issues:</p><p>Sanitize HTML from Mastodon servers: <a href=\"https://github.com/elk-zone/elk/pull/788\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/7</span><span class=\"invisible\">88</span></a><br>Prevent HTML injections to code blocks: <a href=\"https://github.com/elk-zone/elk/pull/1165\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">165</span></a></p><p>Thanks to the crew (<span class=\"h-card\"><a href=\"https://m.webtoo.ls/@antfu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antfu</span></a></span>, <span class=\"h-card\"><a href=\"https://mastodon.roe.dev/@daniel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daniel</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@sxzz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sxzz</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>patak</span></a></span> et al.) for being super responsive and encouraging. They've dealt with the issues in an exemplary way, and gotten the patches out really fast.</p><p>Some technical background: The Mastodon API returns the post contents (among other things) as raw HTML. The default Mastodon server implementation does sanitize the HTML. But sometimes <a href=\"https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">server-side sanitation lets things slip through</a>, or the server itself could be in malicious hands.</p><p>If the client accepts the incoming raw HTML as-is, it can lead to <a href=\"https://en.wikipedia.org/wiki/Cross-site_scripting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Cross-Site Scripting</a> (XSS) vulnerabilities. Let's say a server returns a post with HTML content like &lt;script&gt;...&lt;/script&gt;. If the client just trusts the server and injects that content to the page, the server can effectively execute arbitrary code in the client context - for example to steal the client's login information. Or to take over the whole page like in the attached demo video \ud83d\ude42</p><p>Therefore, it's best to also sanitize the HTML on the client side. This can be tricky. Doubly so if the client wants implement features like rendering source code blocks with syntax highlighting, or turning Twitter mentions into links.</p><p>The linked pull requests fortify a couple of places where Elk prepares HTML content for display. I sincerely hope other people in the infosec scene find Elk's UI intriguing, maybe enough to even take a look at the code. It's a great chance to make a cool up-and-coming tool better!</p><p><a href=\"https://infosec.exchange/tags/elk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>elk</span></a> <a href=\"https://infosec.exchange/tags/vuejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vuejs</span></a> <a href=\"https://infosec.exchange/tags/vue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vue</span></a> <a href=\"https://infosec.exchange/tags/xss\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xss</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://eips.ethereum.org/EIPS/eip-721",
-    "title": "EIP-721: Non-Fungible Token Standard",
-    "latest": "2023-01-15T15:57:10+00:00",
-    "first": "2023-01-15T15:57:10+00:00",
-    "last_post": {
-      "url": "https://cryptodon.lol/@neiman/109694040861484853",
-      "content": "<p>Does anyone know why `transfeFrom` in ERC-721 has a `_from` address?</p><p>`function transferFrom(address _from, address _to, uint256 _tokenId)`</p><p>Like, the `_from` must be the owner of the token, right? what's the reason for specifying it in a parameter?</p><p><a href=\"https://eips.ethereum.org/EIPS/eip-721\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">eips.ethereum.org/EIPS/eip-721</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://cryptodon.lol/@neiman",
-        "display_name": "Neiman"
-      }
-    ]
-  },
-  {
-    "link": "https://youtu.be/VDvfFIZQIuQ",
-    "title": "https://youtu.be/VDvfFIZQIuQ",
-    "latest": "2023-01-15T15:45:30+00:00",
-    "first": "2023-01-15T15:45:30+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@TradingPlacesResearch/109693994971848998",
-      "content": "<p>OK, the skewering of the very wealthy as stupid and banal continues\u2026</p><p>Succession<br>White Lotus<br>Glass Onion<br>The Menu</p><p>and now Triangle of Sadness<br><a href=\"https://youtu.be/VDvfFIZQIuQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/VDvfFIZQIuQ</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@TradingPlacesResearch",
-        "display_name": "Trading Places Research"
       }
     ]
   }
