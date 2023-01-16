@@ -80,6 +80,30 @@
     ]
   },
   {
+    "link": "https://okfnlabs.org/reconcile-csv/",
+    "title": "https://okfnlabs.org/reconcile-csv/",
+    "latest": "2023-01-16T07:28:46+00:00",
+    "first": "2023-01-15T18:52:58+00:00",
+    "last_post": {
+      "url": "https://mastodon.lol/@lavaeolus/109694732130634519",
+      "content": "<p>For all you lovely data-wranglers:</p><p>Maybe you already know about reconciling in <a href=\"https://mastodon.lol/tags/OpenRefine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenRefine</span></a> - but did you know that it's very easy to run a local reconciliation-API?</p><p>\"CSV-Reconcile helps you to join datasets that are messy, contain data about the same things but no unique identifiers by which you could join them.\"<br><a href=\"https://okfnlabs.org/reconcile-csv/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">okfnlabs.org/reconcile-csv/</span><span class=\"invisible\"></span></a></p><p>This just saved me uncountable hours of work :heart_cyber: </p><p><a href=\"https://mastodon.lol/tags/Data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Data</span></a> <a href=\"https://mastodon.lol/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> <a href=\"https://mastodon.lol/tags/DigitalHistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHistory</span></a>  <a href=\"https://mastodon.lol/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://mastodon.lol/tags/DataVis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataVis</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.lol/@lavaeolus",
+        "display_name": "Henrik Sch\u00f6nemann"
+      },
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot \ud83e\udd39"
+      },
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      }
+    ]
+  },
+  {
     "link": "http://tilde.club/",
     "title": "http://tilde.club",
     "latest": "2023-01-16T05:47:51+00:00",
@@ -104,62 +128,26 @@
     ]
   },
   {
-    "link": "https://w3c.social/@tag/109682533903910546",
-    "title": "Technical Architecture Group (@tag@w3c.social)",
-    "latest": "2023-01-15T19:37:09+00:00",
-    "first": "2023-01-15T07:52:02+00:00",
+    "link": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/",
+    "title": "Speeding up the JavaScript ecosystem - module resolution",
+    "latest": "2023-01-16T07:08:36+00:00",
+    "first": "2023-01-16T03:04:27+00:00",
     "last_post": {
-      "url": "https://someone.elses.computer/@mikarv/109692133201807102",
-      "content": "<p><span class=\"h-card\"><a href=\"https://w3c.social/@w3c\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>w3c</span></a></span> <span class=\"h-card\"><a href=\"https://w3c.social/@tag\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tag</span></a></span> reject Google\u2019s in-browser ad-targeting system Topics again. (minutes: <a href=\"https://w3c.social/@tag/109682533903910546\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">w3c.social/@tag/10968253390391</span><span class=\"invisible\">0546</span></a>) <span class=\"h-card\"><a href=\"https://mastodon.social/@robin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>robin</span></a></span> notes Topics has \u2018little chance of a credible future\u2019. Now Google say they will ignore standard-setting; they are \u201ccommitted to Topics\u201d and \u201cmoving forward\u201d <a href=\"https://www.businessinsider.com/web-standards-body-w3c-rejects-googles-ad-targeting-proposal-2023-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">businessinsider.com/web-standa</span><span class=\"invisible\">rds-body-w3c-rejects-googles-ad-targeting-proposal-2023-1</span></a>. Chromium\u2019s dominance makes standards a convenient charade for G\u2019s power.</p>"
+      "url": "https://toot.cafe/@nolan/109696664726653876",
+      "content": "<p>\"Speeding up the JavaScript ecosystem - module resolution\" by Marvin Hagemeister <a href=\"https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marvinh.dev/blog/speeding-up-j</span><span class=\"invisible\">avascript-ecosystem-part-2/</span></a></p><p>\"The slowness in our tooling wasn\u2019t caused by JavaScript the language, but by things just not being optimized at all.\"</p>"
     },
     "people": [
       {
-        "url": "https://someone.elses.computer/@mikarv",
-        "display_name": "Michael Veale"
+        "url": "https://toot.cafe/@nolan",
+        "display_name": "Nolan"
       },
       {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      }
-    ]
-  },
-  {
-    "link": "https://www.businessinsider.com/web-standards-body-w3c-rejects-googles-ad-targeting-proposal-2023-1",
-    "title": "businessinsider.com/web-standa...",
-    "latest": "2023-01-15T19:37:09+00:00",
-    "first": "2023-01-15T07:52:02+00:00",
-    "last_post": {
-      "url": "https://someone.elses.computer/@mikarv/109692133201807102",
-      "content": "<p><span class=\"h-card\"><a href=\"https://w3c.social/@w3c\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>w3c</span></a></span> <span class=\"h-card\"><a href=\"https://w3c.social/@tag\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tag</span></a></span> reject Google\u2019s in-browser ad-targeting system Topics again. (minutes: <a href=\"https://w3c.social/@tag/109682533903910546\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">w3c.social/@tag/10968253390391</span><span class=\"invisible\">0546</span></a>) <span class=\"h-card\"><a href=\"https://mastodon.social/@robin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>robin</span></a></span> notes Topics has \u2018little chance of a credible future\u2019. Now Google say they will ignore standard-setting; they are \u201ccommitted to Topics\u201d and \u201cmoving forward\u201d <a href=\"https://www.businessinsider.com/web-standards-body-w3c-rejects-googles-ad-targeting-proposal-2023-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">businessinsider.com/web-standa</span><span class=\"invisible\">rds-body-w3c-rejects-googles-ad-targeting-proposal-2023-1</span></a>. Chromium\u2019s dominance makes standards a convenient charade for G\u2019s power.</p>"
-    },
-    "people": [
-      {
-        "url": "https://someone.elses.computer/@mikarv",
-        "display_name": "Michael Veale"
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
       },
       {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      }
-    ]
-  },
-  {
-    "link": "https://boffosocko.com/2023/01/14/a-note-about-my-article-on-goitein-with-respect-to-zettelkasten-output-processes/",
-    "title": "A note about my article on Goitein with respect to Zettelkasten Output Processes",
-    "latest": "2023-01-15T07:04:57+00:00",
-    "first": "2023-01-15T07:05:04+00:00",
-    "last_post": {
-      "url": "https://boffosocko.com/2023/01/14/a-note-about-my-article-on-goitein-with-respect-to-zettelkasten-output-processes/",
-      "content": "<p><a href=\"https://boffosocko.com/2023/01/14/a-note-about-my-article-on-goitein-with-respect-to-zettelkasten-output-processes/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">boffosocko.com/2023/01/14/a-no</span><span class=\"invisible\">te-about-my-article-on-goitein-with-respect-to-zettelkasten-output-processes/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@chrisaldrich",
-        "display_name": "Chris Aldrich"
-      },
-      {
-        "url": "https://boffosocko.com/author/chrisaldrich/",
-        "display_name": "Chris Aldrich"
+        "url": "https://status.kinlan.me/@paul",
+        "display_name": "Paul Kinlan"
       }
     ]
   },
@@ -224,22 +212,22 @@
     ]
   },
   {
-    "link": "https://okfnlabs.org/reconcile-csv/",
-    "title": "https://okfnlabs.org/reconcile-csv/",
-    "latest": "2023-01-16T00:28:42+00:00",
-    "first": "2023-01-15T18:52:58+00:00",
+    "link": "https://chpollin.github.io/InfoVisDHGraz/",
+    "title": "chpollin.github.io/InfoVisDHGr...",
+    "latest": "2023-01-16T08:17:40+00:00",
+    "first": "2023-01-15T18:52:36+00:00",
     "last_post": {
-      "url": "https://mastodon.lol/@lavaeolus/109694732130634519",
-      "content": "<p>For all you lovely data-wranglers:</p><p>Maybe you already know about reconciling in <a href=\"https://mastodon.lol/tags/OpenRefine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenRefine</span></a> - but did you know that it's very easy to run a local reconciliation-API?</p><p>\"CSV-Reconcile helps you to join datasets that are messy, contain data about the same things but no unique identifiers by which you could join them.\"<br><a href=\"https://okfnlabs.org/reconcile-csv/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">okfnlabs.org/reconcile-csv/</span><span class=\"invisible\"></span></a></p><p>This just saved me uncountable hours of work :heart_cyber: </p><p><a href=\"https://mastodon.lol/tags/Data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Data</span></a> <a href=\"https://mastodon.lol/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> <a href=\"https://mastodon.lol/tags/DigitalHistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHistory</span></a>  <a href=\"https://mastodon.lol/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://mastodon.lol/tags/DataVis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataVis</span></a></p>"
+      "url": "https://ausglam.space/@ingridbmason/109697896342328727",
+      "content": "<p>Workshop on Information Visualization in the (Digital) Humanities</p><p>From the 27th to the 28th of October in 2022, a workshop on \u201cInformation Visualization in the (Digital) Humanities\u201d took place at the Centre for Information Modelling at the University of Graz. </p><p><a href=\"https://chpollin.github.io/InfoVisDHGraz/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">chpollin.github.io/InfoVisDHGr</span><span class=\"invisible\">az/</span></a></p><p>HT Christopher Pollin <a href=\"https://ausglam.space/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> <a href=\"https://ausglam.space/tags/Visualisation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Visualisation</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.lol/@lavaeolus",
-        "display_name": "Henrik Sch\u00f6nemann"
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
       },
       {
-        "url": "https://hcommons.social/@scott_bot",
-        "display_name": "@scott_bot \ud83e\udd39"
+        "url": "https://ausglam.space/@ingridbmason",
+        "display_name": "Ingrid Mason"
       }
     ]
   },
@@ -304,26 +292,6 @@
     ]
   },
   {
-    "link": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/",
-    "title": "Speeding up the JavaScript ecosystem - module resolution",
-    "latest": "2023-01-16T05:37:14+00:00",
-    "first": "2023-01-16T03:04:27+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@jviide/109697236869739597",
-      "content": "<p>\"The slowness in our tooling wasn\u2019t caused by JavaScript the language, but by things just not being optimized at all.\"</p><p>In part 2 of \"Speeding up the JavaScript ecosystem\" series <span class=\"h-card\"><a href=\"https://infosec.exchange/@marvinh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>marvinh</span></a></span> dives into <a href=\"https://infosec.exchange/tags/JavaScript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JavaScript</span></a> module resolution libraries... and ends up speeding resolution-intensive tasks by 30%. Great stuff!</p><p><a href=\"https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marvinh.dev/blog/speeding-up-j</span><span class=\"invisible\">avascript-ecosystem-part-2/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@nolan",
-        "display_name": "Nolan"
-      },
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
     "link": "https://berjon.com/internet-transition/",
     "title": "The Internet Transition",
     "latest": "2023-01-16T01:30:15+00:00",
@@ -340,6 +308,26 @@
       {
         "url": "https://social.coop/@bmann",
         "display_name": "Boris Mann"
+      }
+    ]
+  },
+  {
+    "link": "https://youtube.com/watch?v=ZBOHGzE6TNY",
+    "title": "youtube.com/watch?v=ZBOHGzE6TN...",
+    "latest": "2023-01-16T09:02:02+00:00",
+    "first": "2023-01-16T03:39:40+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@timonus/109696694073207121",
+      "content": "<p>I remember being so in awe of this demo when Tweetbot first came out \ud83e\udee1\ud83e\udd16 <a href=\"https://youtube.com/watch?v=ZBOHGzE6TNY\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">youtube.com/watch?v=ZBOHGzE6TN</span><span class=\"invisible\">Y</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@delong",
+        "display_name": "delong"
+      },
+      {
+        "url": "https://bell.bz/@andy",
+        "display_name": "Andy Bell"
       }
     ]
   }
