@@ -97,12 +97,17 @@ def read_ignorelist():
 
 def filter_links(links):
     """
-    Filter out links in domains I want to ignore
+    Filter out links bad links and links in domains I want to ignore
     """
-    if ignorelist:
-        return [link for link in links if URL.from_text(link).host not in ignorelist]
-    else:
-        return links
+
+    filtered = []
+    for link in links:
+        try:
+            if URL.from_text(link).host not in ignorelist:
+                filtered.append(link)
+        except Exception:
+            print(f'bad url: {link}')
+    return filtered
 
 def title_in_card(link, post):
     """
