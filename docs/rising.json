@@ -1,93 +1,5 @@
 [
   {
-    "link": "https://furbo.org/2023/01/15/the-shit-show/",
-    "title": "The Shit Show \u2022 furbo.org",
-    "latest": "2023-01-16T15:50:47+00:00",
-    "first": "2023-01-15T21:01:35+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@atomicpoet/109696821693092661",
-      "content": "<p>See these words from <span class=\"h-card\"><a href=\"https://mastodon.social/@chockenberry\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chockenberry</span></a></span>, developer of Twitterific?</p><p>Exactly what I said would happen when Elon Musk screwed over 3rd Party developers.</p><p>Twitter didn't create broad adoption of Twitter. It was 3rd party developers. </p><p>Now devs are pissed\u2014much more than they were before. </p><p>What will they do next?</p><p>Drive broad adoption of the Fediverse. </p><p>Not only former Twitter developer making these moves. <span class=\"h-card\"><a href=\"https://tapbots.social/@tapbots\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tapbots</span></a></span> is also making an app for the Fediverse.</p><p>Bad move, Twitter!</p><p><a href=\"https://furbo.org/2023/01/15/the-shit-show/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">furbo.org/2023/01/15/the-shit-</span><span class=\"invisible\">show/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2618\ufe0f"
-      },
-      {
-        "url": "https://econtwitter.net/@TradingPlacesResearch",
-        "display_name": "Trading Places Research"
-      },
-      {
-        "url": "https://macaw.social/@dml",
-        "display_name": "Dave LaMacchia"
-      },
-      {
-        "url": "https://hachyderm.io/@mitsuhiko",
-        "display_name": "Armin Ronacher"
-      },
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      },
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      },
-      {
-        "url": "https://mefi.social/@melissaekline",
-        "display_name": "Melissa Kline Struhl"
-      },
-      {
-        "url": "https://social.librem.one/@vincent",
-        "display_name": "Vincent Cloutier"
-      },
-      {
-        "url": "https://social.coop/@bmann",
-        "display_name": "Boris Mann"
-      },
-      {
-        "url": "https://mastodon.gamedev.place/@aras",
-        "display_name": "Aras Pranckevi\u010dius"
-      },
-      {
-        "url": "https://mastodon.social/@danbri",
-        "display_name": "danbri"
-      },
-      {
-        "url": "https://mastodon.social/@Gargron",
-        "display_name": "Eugen Rochko"
-      },
-      {
-        "url": "https://saturation.social/@clive",
-        "display_name": "Clive Thompson"
-      }
-    ]
-  },
-  {
-    "link": "https://okfnlabs.org/reconcile-csv/",
-    "title": "https://okfnlabs.org/reconcile-csv/",
-    "latest": "2023-01-16T07:28:46+00:00",
-    "first": "2023-01-15T18:52:58+00:00",
-    "last_post": {
-      "url": "https://mastodon.lol/@lavaeolus/109694732130634519",
-      "content": "<p>For all you lovely data-wranglers:</p><p>Maybe you already know about reconciling in <a href=\"https://mastodon.lol/tags/OpenRefine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenRefine</span></a> - but did you know that it's very easy to run a local reconciliation-API?</p><p>\"CSV-Reconcile helps you to join datasets that are messy, contain data about the same things but no unique identifiers by which you could join them.\"<br><a href=\"https://okfnlabs.org/reconcile-csv/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">okfnlabs.org/reconcile-csv/</span><span class=\"invisible\"></span></a></p><p>This just saved me uncountable hours of work :heart_cyber: </p><p><a href=\"https://mastodon.lol/tags/Data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Data</span></a> <a href=\"https://mastodon.lol/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> <a href=\"https://mastodon.lol/tags/DigitalHistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHistory</span></a>  <a href=\"https://mastodon.lol/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://mastodon.lol/tags/DataVis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataVis</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.lol/@lavaeolus",
-        "display_name": "Henrik Sch\u00f6nemann"
-      },
-      {
-        "url": "https://hcommons.social/@scott_bot",
-        "display_name": "@scott_bot \ud83e\udd39"
-      },
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      }
-    ]
-  },
-  {
     "link": "https://post.news/article/2KNv9uat3nL8CF6tIpA7eIpVGOg",
     "title": "The h-index as UI hack / Post.",
     "latest": "2023-01-16T15:55:27+00:00",
@@ -208,6 +120,30 @@
     ]
   },
   {
+    "link": "https://searchtodon.social/Adventures-in-Mastoland.html",
+    "title": "searchtodon.social/Adventures-...",
+    "latest": "2023-01-16T19:22:57+00:00",
+    "first": "2023-01-16T11:39:58+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@eckles/109700512349301489",
+      "content": "<p>Interesting to think about how typical users would respond to this whole thing... I hope Mastodon has functional search at some point</p><p><a href=\"https://searchtodon.social/Adventures-in-Mastoland.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">searchtodon.social/Adventures-</span><span class=\"invisible\">in-Mastoland.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      },
+      {
+        "url": "https://hachyderm.io/@mikiobraun",
+        "display_name": "Mikio Braun \ud83d\udc33"
+      },
+      {
+        "url": "https://mastodon.social/@eckles",
+        "display_name": "Dean Eckles"
+      }
+    ]
+  },
+  {
     "link": "https://www.uu.nl/organisatie/werken-bij-de-universiteit-utrecht/vacatures/adviseur-open-access-met-hart-voor-open-science-08-fte",
     "title": "Adviseur Open Access met hart voor open science (0,8 fte)",
     "latest": "2023-01-16T15:55:27+00:00",
@@ -232,82 +168,26 @@
     ]
   },
   {
-    "link": "https://www.theguardian.com/science/2023/jan/15/scientists-ukraine-war-cern-physics-large-hadron-collider",
-    "title": "Splitting the atomic scientists: how the Ukraine war ruined physics",
-    "latest": "2023-01-15T18:33:39+00:00",
-    "first": "2023-01-15T20:29:34+00:00",
+    "link": "https://servo.org/blog/2023/01/16/servo-2023/",
+    "title": "Servo to Advance in 2023",
+    "latest": "2023-01-16T19:01:45.060000+00:00",
+    "first": "2023-01-16T14:02:54+00:00",
     "last_post": {
-      "url": "https://fediscience.org/@petersuber/109694656127875624",
-      "content": "<p>\"In March 2022, the number of new research papers by the <a href=\"https://fediscience.org/tags/LHC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LHC</span></a> [Large Hadron Collider] experiments fell to zero. The reason: a lack of agreement on how to list Russian and Belarusian scientists and institutes, if at all. The temporary compromise, in place up to now, is not to publish.\"<br><a href=\"https://www.theguardian.com/science/2023/jan/15/scientists-ukraine-war-cern-physics-large-hadron-collider\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theguardian.com/science/2023/j</span><span class=\"invisible\">an/15/scientists-ukraine-war-cern-physics-large-hadron-collider</span></a></p><p>h/t <span class=\"h-card\"><a href=\"https://scicomm.xyz/@jocelyn_etienne\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jocelyn_etienne</span></a></span></p><p><a href=\"https://fediscience.org/tags/cern\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cern</span></a> <a href=\"https://fediscience.org/tags/physics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>physics</span></a> <a href=\"https://fediscience.org/tags/war\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>war</span></a> <a href=\"https://fediscience.org/tags/ukraine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ukraine</span></a> <a href=\"https://fediscience.org/tags/russia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>russia</span></a> <a href=\"https://fediscience.org/tags/belarus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>belarus</span></a></p>"
+      "url": "https://fedi.simonwillison.net/@simon/109699932325028839",
+      "content": "<p>Just saw Servo is getting full time developers again in 2023! <a href=\"https://servo.org/blog/2023/01/16/servo-2023/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">servo.org/blog/2023/01/16/serv</span><span class=\"invisible\">o-2023/</span></a></p><p>Servo is the \"write a browser in Rust\" project Mozilla started in 2012 (and which created the whole Rust language as part of the work) - they stopped working on it a few years ago</p><p>The new development looks like it's backed by Igalia - \"a private, worker-owned, employee-run cooperative model consultancy focused on open source software\" based in Spain: <a href=\"https://en.m.wikipedia.org/wiki/Igalia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">en.m.wikipedia.org/wiki/Igalia</span><span class=\"invisible\"></span></a></p><p>More: <a href=\"https://people.igalia.com/mrego/servo/igalia-servo-tsc-2022/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">people.igalia.com/mrego/servo/</span><span class=\"invisible\">igalia-servo-tsc-2022/</span></a></p>"
     },
     "people": [
       {
-        "url": "https://social.cwts.nl/@LudoWaltman",
-        "display_name": "Ludo Waltman"
+        "url": "https://status.kinlan.me/@paul",
+        "display_name": "Paul Kinlan"
       },
       {
-        "url": "https://fediscience.org/@petersuber",
-        "display_name": "petersuber"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nytimes.com/2023/01/15/opinion/ai-chatgpt-lobbying-democracy.html",
-    "title": "Opinion | How ChatGPT Hijacks Democracy",
-    "latest": "2023-01-16T15:19:28+00:00",
-    "first": "2023-01-15T19:11:47+00:00",
-    "last_post": {
-      "url": "https://dair-community.social/@emilymbender/109699554911416811",
-      "content": "<p>As noted by <span class=\"h-card\"><a href=\"https://mastodon.social/@CriticalAI\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>CriticalAI</span></a></span> (over on Twitter), this op-ed is weirdly misinformed <a href=\"https://dair-community.social/tags/AIHype\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AIHype</span></a>. Cheap text synthesis is definitely a threat, but it is one because *people* could use it to (further) gum up the communication processes in our government. </p><p><a href=\"https://www.nytimes.com/2023/01/15/opinion/ai-chatgpt-lobbying-democracy.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2023/01/15/opinion</span><span class=\"invisible\">/ai-chatgpt-lobbying-democracy.html</span></a></p><p>But that's not what these authors seem to be saying.<br>&gt;&gt;</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@henryfarrell",
-        "display_name": "Henry Farrell"
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
       },
       {
-        "url": "https://dair-community.social/@emilymbender",
-        "display_name": "Emily M. Bender (she/her)"
-      }
-    ]
-  },
-  {
-    "link": "https://chpollin.github.io/InfoVisDHGraz/",
-    "title": "chpollin.github.io/InfoVisDHGr...",
-    "latest": "2023-01-16T08:17:40+00:00",
-    "first": "2023-01-15T18:52:36+00:00",
-    "last_post": {
-      "url": "https://ausglam.space/@ingridbmason/109697896342328727",
-      "content": "<p>Workshop on Information Visualization in the (Digital) Humanities</p><p>From the 27th to the 28th of October in 2022, a workshop on \u201cInformation Visualization in the (Digital) Humanities\u201d took place at the Centre for Information Modelling at the University of Graz. </p><p><a href=\"https://chpollin.github.io/InfoVisDHGraz/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">chpollin.github.io/InfoVisDHGr</span><span class=\"invisible\">az/</span></a></p><p>HT Christopher Pollin <a href=\"https://ausglam.space/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> <a href=\"https://ausglam.space/tags/Visualisation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Visualisation</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      },
-      {
-        "url": "https://ausglam.space/@ingridbmason",
-        "display_name": "Ingrid Mason"
-      }
-    ]
-  },
-  {
-    "link": "https://thoughts.hnr.fyi/2023-01-15.html",
-    "title": "remembering horse_ebooks in the age of GPT3 - honor ash",
-    "latest": "2023-01-15T18:30:29+00:00",
-    "first": "2023-01-15T18:15:13+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@MattHodges/109694643687688197",
-      "content": "<p>\u201cso.. where was the charm? why was it better to consider a poetic attachment to something written by a bot, than cynically crafted by a human curator specifically for the purpose of having viral potential? why did we feel cheated, when we learnt that for just over two years, it had been the latter?\u201d \u2014 a great post from <span class=\"h-card\"><a href=\"https://post.lurk.org/@h\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>h</span></a></span> \u2014 remembering horse_ebooks in the age of <a href=\"https://mastodon.social/tags/GPT3\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GPT3</span></a></p><p><a href=\"https://thoughts.hnr.fyi/2023-01-15.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thoughts.hnr.fyi/2023-01-15.ht</span><span class=\"invisible\">ml</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://post.lurk.org/@liza",
-        "display_name": "Liza Daly"
-      },
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
+        "url": "https://hachyderm.io/@evanw",
+        "display_name": "Evan Wallace"
       }
     ]
   },
@@ -492,26 +372,6 @@
     ]
   },
   {
-    "link": "https://searchtodon.social/Adventures-in-Mastoland.html",
-    "title": "searchtodon.social/Adventures-...",
-    "latest": "2023-01-16T14:29:56.164000+00:00",
-    "first": "2023-01-16T11:39:58+00:00",
-    "last_post": {
-      "url": "https://chaos.social/@janl/109698597934836246",
-      "content": "<p>And finally, the big Searchtodon Retrospective: <a href=\"https://searchtodon.social/Adventures-in-Mastoland.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">searchtodon.social/Adventures-</span><span class=\"invisible\">in-Mastoland.html</span></a></p><p>I erred on the side of including more rather than less and take you through:</p><p>- My background and the motivation for creating Searchtodon.<br>- The initial design and research.<br>- Recap of *the experiment*, including results and commentary.<br>  - tl;dr: 2 our of 3 hypotheses came back positive.<br>- Recap of the feedback received (the juicy bits).<br>- A (somewhat hopeful) look at the way forward.</p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      },
-      {
-        "url": "https://hachyderm.io/@mikiobraun",
-        "display_name": "Mikio Braun \ud83d\udc33"
-      }
-    ]
-  },
-  {
     "link": "https://www.newyorker.com/magazine/2023/01/23/has-academia-ruined-literary-criticism-professing-criticism-john-guillory",
     "title": "newyorker.com/magazine/2023/01...",
     "latest": "2023-01-16T16:20:43+00:00",
@@ -532,22 +392,82 @@
     ]
   },
   {
-    "link": "https://servo.org/blog/2023/01/16/servo-2023/",
-    "title": "Servo to Advance in 2023",
-    "latest": "2023-01-16T16:55:27+00:00",
-    "first": "2023-01-16T14:02:54+00:00",
+    "link": "https://en.m.wikipedia.org/wiki/Igalia",
+    "title": "https://en.m.wikipedia.org/wiki/Igalia",
+    "latest": "2023-01-16T19:01:45.060000+00:00",
+    "first": "2023-01-16T16:55:27+00:00",
     "last_post": {
       "url": "https://fedi.simonwillison.net/@simon/109699932325028839",
       "content": "<p>Just saw Servo is getting full time developers again in 2023! <a href=\"https://servo.org/blog/2023/01/16/servo-2023/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">servo.org/blog/2023/01/16/serv</span><span class=\"invisible\">o-2023/</span></a></p><p>Servo is the \"write a browser in Rust\" project Mozilla started in 2012 (and which created the whole Rust language as part of the work) - they stopped working on it a few years ago</p><p>The new development looks like it's backed by Igalia - \"a private, worker-owned, employee-run cooperative model consultancy focused on open source software\" based in Spain: <a href=\"https://en.m.wikipedia.org/wiki/Igalia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">en.m.wikipedia.org/wiki/Igalia</span><span class=\"invisible\"></span></a></p><p>More: <a href=\"https://people.igalia.com/mrego/servo/igalia-servo-tsc-2022/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">people.igalia.com/mrego/servo/</span><span class=\"invisible\">igalia-servo-tsc-2022/</span></a></p>"
     },
     "people": [
       {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
       },
+      {
+        "url": "https://hachyderm.io/@evanw",
+        "display_name": "Evan Wallace"
+      }
+    ]
+  },
+  {
+    "link": "https://people.igalia.com/mrego/servo/igalia-servo-tsc-2022/",
+    "title": "people.igalia.com/mrego/servo/...",
+    "latest": "2023-01-16T19:01:45.060000+00:00",
+    "first": "2023-01-16T16:55:27+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109699932325028839",
+      "content": "<p>Just saw Servo is getting full time developers again in 2023! <a href=\"https://servo.org/blog/2023/01/16/servo-2023/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">servo.org/blog/2023/01/16/serv</span><span class=\"invisible\">o-2023/</span></a></p><p>Servo is the \"write a browser in Rust\" project Mozilla started in 2012 (and which created the whole Rust language as part of the work) - they stopped working on it a few years ago</p><p>The new development looks like it's backed by Igalia - \"a private, worker-owned, employee-run cooperative model consultancy focused on open source software\" based in Spain: <a href=\"https://en.m.wikipedia.org/wiki/Igalia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">en.m.wikipedia.org/wiki/Igalia</span><span class=\"invisible\"></span></a></p><p>More: <a href=\"https://people.igalia.com/mrego/servo/igalia-servo-tsc-2022/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">people.igalia.com/mrego/servo/</span><span class=\"invisible\">igalia-servo-tsc-2022/</span></a></p>"
+    },
+    "people": [
       {
         "url": "https://fedi.simonwillison.net/@simon",
         "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://hachyderm.io/@evanw",
+        "display_name": "Evan Wallace"
+      }
+    ]
+  },
+  {
+    "link": "https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence",
+    "title": "The Exploited Labor Behind Artificial Intelligence | NOEMA",
+    "latest": "2023-01-16T18:36:47+00:00",
+    "first": "2023-01-16T17:10:38+00:00",
+    "last_post": {
+      "url": "https://dair-community.social/@RuthStarkman/109699981571206315",
+      "content": "<p>Students loving this great article by <span class=\"h-card\"><a href=\"https://dair-community.social/@adrienneandgp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>adrienneandgp</span></a></span> <span class=\"h-card\"><a href=\"https://dair-community.social/@milamiceli\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>milamiceli</span></a></span>  <span class=\"h-card\"><a href=\"https://dair-community.social/@timnitGebru\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>timnitGebru</span></a></span>   \u201cData labeling jobs are often performed far from the Silicon Valley headquarters of \u201cAI first\u201d multinational corporations\" <a href=\"https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">noemamag.com/the-exploited-lab</span><span class=\"invisible\">or-behind-artificial-intelligence</span></a> via @NoemaMag</p>"
+    },
+    "people": [
+      {
+        "url": "https://dair-community.social/@emilymbender",
+        "display_name": "Emily M. Bender (she/her)"
+      },
+      {
+        "url": "https://vis.social/@amelia",
+        "display_name": "Amelia McNamara"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-023-00023-2",
+    "title": "The reproducibility issues that haunt health-care AI",
+    "latest": "2023-01-16T18:35:15+00:00",
+    "first": "2023-01-16T19:51:38+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@garymarcus/109669054202705890",
+      "content": "<p>Yet another AI reproducibility / reliability / generalizability crisis, this time in medicine</p><p><a href=\"https://www.nature.com/articles/d41586-023-00023-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00023-2</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@natematias",
+        "display_name": "J. Nathan Matias \ud83e\udda3"
+      },
+      {
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
       }
     ]
   }

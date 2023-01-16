@@ -1,5 +1,73 @@
 [
   {
+    "link": "https://github.com/mastodon/mastodon/pull/19059",
+    "title": "Add groups support by ClearlyClaire \u00b7 Pull Request #19059 \u00b7 mastodon/mastodon",
+    "latest": "2023-01-16T20:44:53+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@sqncs/109700825089071042",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@elipariser\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elipariser</span></a></span> </p><p><a href=\"https://github.com/mastodon/mastodon/pull/19059\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/19059</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@hildabast",
+        "display_name": "Hilda Bastian"
+      },
+      {
+        "url": "https://mastodon.social/@elipariser",
+        "display_name": "Eli Pariser"
+      }
+    ],
+    "first": "2023-01-01T03:57:02+00:00"
+  },
+  {
+    "link": "https://github.com/geocompx/geocompr-fr/issues",
+    "title": "github.com/geocompx/geocompr-f...",
+    "latest": "2023-01-16T20:28:31+00:00",
+    "first": "2023-01-16T20:28:31+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@robinlovelace/109700481835886125",
+      "content": "<p>RT @BranchTwigLeaf<br>@jakub_nowosad <span class=\"h-card\"><a href=\"https://fosstodon.org/@robinlovelace\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>robinlovelace</span></a></span> @jannes_mu <span class=\"h-card\"><a href=\"https://fosstodon.org/@michaeldorman84\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>michaeldorman84</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@underdarkGIS\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>underdarkGIS</span></a></span> @mireiacamacho75 Shameless plug here! The french translation of geocomputation is here (<a href=\"https://r.geocompx.org/fr/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">r.geocompx.org/fr/</span><span class=\"invisible\"></span></a>) and always welcome hands or issues (<a href=\"https://github.com/geocompx/geocompr-fr/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/geocompx/geocompr-f</span><span class=\"invisible\">r/issues</span></a>)!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/devongovett/glob-match",
+    "title": "GitHub - devongovett/glob-match: An extremely fast glob matching library in Rust.",
+    "latest": "2023-01-16T20:10:26+00:00",
+    "first": "2023-01-16T20:10:26+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@devongovett/109700564036192891",
+      "content": "<p>Accidentally wrote an extremely fast glob matcher. \ud83d\ude05\ud83e\udd80</p><p>Linear time matching, zero allocations, no regex compilation. &lt; 300 lines of code.</p><p><a href=\"https://github.com/devongovett/glob-match\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/devongovett/glob-ma</span><span class=\"invisible\">tch</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Anthchirp/mastodon-defederate",
+    "title": "GitHub - Anthchirp/mastodon-defederate: Aiding small Mastodon instance admins by tracking larger instances' server blocklists",
+    "latest": "2023-01-16T18:45:16+00:00",
+    "first": "2023-01-16T18:45:16+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@mastodonmigration/109700344492318505",
+      "content": "<p><a href=\"https://mastodon.online/tags/MastodonTools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastodonTools</span></a> Jan 16, 2022</p><p>Markus Gerstel <span class=\"h-card\"><a href=\"https://mast.uxp.de/@markus\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>markus</span></a></span> has created a tool to help administrators of small Mastodon instances.</p><p>Authchirp: Load server blocklists from larger instances so you don't have to do all the moderating yourself &gt;&gt;&gt; <a href=\"https://github.com/Anthchirp/mastodon-defederate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Anthchirp/mastodon-</span><span class=\"invisible\">defederate</span></a></p><p><a href=\"https://mastodon.online/tags/twittermigration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>twittermigration</span></a> <a href=\"https://mastodon.online/tags/mastodontips\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodontips</span></a> <a href=\"https://mastodon.online/tags/MastoAdmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoAdmin</span></a><br>More Tools &gt;&gt;&gt; <a href=\"https://medium.com/@mastodonmigration/sharing-advice-and-assisting-with-the-great-mastodon-migration-53c1a286b805#fb8c\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">medium.com/@mastodonmigration/</span><span class=\"invisible\">sharing-advice-and-assisting-with-the-great-mastodon-migration-53c1a286b805#fb8c</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/ggerganov/whisper.cpp",
     "title": "GitHub - ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++",
     "latest": "2023-01-16T17:29:03+00:00",
@@ -3322,85 +3390,5 @@
       }
     ],
     "first": "2023-01-06T17:42:34+00:00"
-  },
-  {
-    "link": "https://github.com/ml729/org-habit-stats",
-    "title": "GitHub - ml729/org-habit-stats: Stats and visuals for Emacs org-mode habits",
-    "latest": "2023-01-06T17:34:02+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@sqrtminusone/109643409877618007",
-      "content": "<p><span class=\"h-card\"><a href=\"https://emacs.ch/@sachac\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sachac</span></a></span> <span class=\"h-card\"><a href=\"https://indieweb.social/@xenodium\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>xenodium</span></a></span> <span class=\"h-card\"><a href=\"https://toot.aquilenet.fr/@rougier\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rougier</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@ctietze\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ctietze</span></a></span> A few days ago someone pointed me to this awesome package: <a href=\"https://github.com/ml729/org-habit-stats\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ml729/org-habit-sta</span><span class=\"invisible\">ts</span></a><br>Which uses calendar.el to display dates for org-habit records.</p><p>l myself tried to use calendar.el to make something like this, and that felt like a nightmare :D Who would have thought that such a package could be that complicated.</p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@sachac",
-        "display_name": "Sacha Chua"
-      }
-    ],
-    "first": "2023-01-06T17:34:02+00:00"
-  },
-  {
-    "link": "https://gitlab.com/sasanidas/emacs-c64-basic-ide",
-    "title": "Fermin / Emacs C64-Basic IDE \u00b7 GitLab",
-    "latest": "2023-01-06T17:15:34+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@lorenzocabrini/109643278885089475",
-      "content": "<p>Not given this a try (yet), but if you're one of those people who remember the Commodore 64 years as the best years of your life (like I do), this may be of interest:</p><p><a href=\"https://gitlab.com/sasanidas/emacs-c64-basic-ide\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/sasanidas/emacs-c64</span><span class=\"invisible\">-basic-ide</span></a></p><p>I'm surprised that I'm surprised. Of course I should have known there was something like this for Emacs.</p><p><a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://emacs.ch/tags/retro\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>retro</span></a> <a href=\"https://emacs.ch/tags/c64\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>c64</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
-      }
-    ],
-    "first": "2023-01-06T17:15:34+00:00"
-  },
-  {
-    "link": "https://github.com/mauforonda/mastodon_digest",
-    "title": "github.com/mauforonda/mastodon...",
-    "latest": "2023-01-06T16:46:47.992000+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@zsteinmetz/109641493392170696",
-      "content": "<p>Look at these great tools by <span class=\"h-card\"><a href=\"https://mastodon.social/@MattHodges\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MattHodges</span></a></span> and <span class=\"h-card\"><a href=\"https://hachyderm.io/@mauforonda\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mauforonda</span></a></span>. They generate regular <a href=\"https://mastodon.social/tags/digests\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digests</span></a> of popular <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> posts from your timeline in case you missed anything. Looking forward to trying them out! \ud83d\ude0d</p><p>- <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> code base: <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a><br>- personal digest page: <a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a><br>- email digest: <a href=\"https://github.com/mauforonda/mastodon_email_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_email_digest</span></a><br>- link collector: <a href=\"https://github.com/mauforonda/mastodon_links\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_links</span></a></p><p>Examples are available from the respective github.io pages.</p><p>From: <a href=\"https://hachyderm.io/@mauforonda/109637594948983877\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">hachyderm.io/@mauforonda/10963</span><span class=\"invisible\">7594948983877</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://sigmoid.social/@maria_antoniak",
-        "display_name": "Maria Antoniak"
-      },
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      },
-      {
-        "url": "https://hachyderm.io/@mnl",
-        "display_name": "mnml mnl (he/him)"
-      }
-    ],
-    "first": "2023-01-06T16:46:47.992000+00:00"
-  },
-  {
-    "link": "https://github.com/mauforonda/mastodon_links",
-    "title": "github.com/mauforonda/mastodon...",
-    "latest": "2023-01-06T16:46:47.992000+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@zsteinmetz/109641493392170696",
-      "content": "<p>Look at these great tools by <span class=\"h-card\"><a href=\"https://mastodon.social/@MattHodges\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MattHodges</span></a></span> and <span class=\"h-card\"><a href=\"https://hachyderm.io/@mauforonda\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mauforonda</span></a></span>. They generate regular <a href=\"https://mastodon.social/tags/digests\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digests</span></a> of popular <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> posts from your timeline in case you missed anything. Looking forward to trying them out! \ud83d\ude0d</p><p>- <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> code base: <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a><br>- personal digest page: <a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a><br>- email digest: <a href=\"https://github.com/mauforonda/mastodon_email_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_email_digest</span></a><br>- link collector: <a href=\"https://github.com/mauforonda/mastodon_links\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_links</span></a></p><p>Examples are available from the respective github.io pages.</p><p>From: <a href=\"https://hachyderm.io/@mauforonda/109637594948983877\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">hachyderm.io/@mauforonda/10963</span><span class=\"invisible\">7594948983877</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      },
-      {
-        "url": "https://hachyderm.io/@mnl",
-        "display_name": "mnml mnl (he/him)"
-      }
-    ],
-    "first": "2023-01-06T16:46:47.992000+00:00"
   }
 ]
