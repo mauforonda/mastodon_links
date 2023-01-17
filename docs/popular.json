@@ -2,11 +2,11 @@
   {
     "link": "https://furbo.org/2023/01/15/the-shit-show/",
     "title": "The Shit Show \u2022 furbo.org",
-    "latest": "2023-01-16T21:19:12+00:00",
+    "latest": "2023-01-17T13:36:35+00:00",
     "first": "2023-01-15T21:01:35+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@chockenberry/109695112387770838",
-      "content": "<p>You want to know how I really feel?</p><p><a href=\"https://furbo.org/2023/01/15/the-shit-show/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">furbo.org/2023/01/15/the-shit-</span><span class=\"invisible\">show/</span></a></p><p>P.S. That's the tame version.</p>"
+      "url": "https://octodon.social/@ethanz/109704812691046905",
+      "content": "<p>\"It feels like the time is right for a truly universal timeline\" <a href=\"https://furbo.org/2023/01/15/the-shit-show/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">furbo.org/2023/01/15/the-shit-</span><span class=\"invisible\">show/</span></a><br>Yep. That's what we're aiming for with gobo.social. But it's hard, and it got harder now that Twitter is disabling/crippling their API.</p>"
     },
     "people": [
       {
@@ -72,6 +72,10 @@
       {
         "url": "https://fireplace.cafe/@jedmund",
         "display_name": "jedmund"
+      },
+      {
+        "url": "https://octodon.social/@ethanz",
+        "display_name": "Ethan Zuckerman"
       }
     ]
   },
@@ -344,50 +348,30 @@
     ]
   },
   {
-    "link": "https://themarkup.org/hello-world/2023/01/14/will-europes-privacy-bill-of-rights-ever-truly-be-enforced",
-    "title": "Will Europe\u2019s Privacy Bill of Rights Ever Truly Be Enforced? \u2013 The Markup",
-    "latest": "2023-01-14T16:29:33+00:00",
-    "first": "2023-01-14T14:20:13+00:00",
+    "link": "https://anildash.com/2023/01/16/a-fediverse-search/",
+    "title": "How you could build a search that the fediverse would welcome - Anil Dash",
+    "latest": "2023-01-17T12:35:42.830000+00:00",
+    "first": "2023-01-17T03:26:53+00:00",
     "last_post": {
-      "url": "https://mstdn.social/@katestarbird/109688505846232829",
-      "content": "<p>Europe\u2019s landmark privacy law looks good on paper, but enforcement has been spotty. That\u2019s why activist Tanya O\u2019Carroll is taking Meta to court in the U.K. to assert her right to object to personalized advertising under Europe\u2019s <a href=\"https://mstdn.social/tags/GDPR\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GDPR</span></a>.<br> <br>\u201cIf the European gold standard data protection legislation doesn\u2019t apply to data profiling and ad targeting by one of the biggest tech companies on Earth, then what does it apply to?\u201d O\u2019Carroll asks in today\u2019s newsletter from <span class=\"h-card\"><a href=\"https://journa.host/@Julia\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Julia</span></a></span>.<br> <br><a href=\"https://themarkup.org/hello-world/2023/01/14/will-europes-privacy-bill-of-rights-ever-truly-be-enforced\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">themarkup.org/hello-world/2023</span><span class=\"invisible\">/01/14/will-europes-privacy-bill-of-rights-ever-truly-be-enforced</span></a></p>"
+      "url": "https://me.dm/@anildash/109702394084557850",
+      "content": "<p>Okay, here's a fun one for everybody: How you could build a fediverse search that people would actually *welcome*. <a href=\"https://anildash.com/2023/01/16/a-fediverse-search/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">anildash.com/2023/01/16/a-fedi</span><span class=\"invisible\">verse-search/</span></a> (No surprise, the key word is \"consent\".) Let me know what you love or hate about the idea!</p>"
     },
     "people": [
       {
-        "url": "https://infosec.exchange/@thegrugq",
-        "display_name": "the grugq"
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
       },
       {
-        "url": "https://newsie.social/@themarkup",
-        "display_name": "The Markup"
+        "url": "https://mastodon.social/@Migueldeicaza",
+        "display_name": "Miguel de Icaza"
       },
       {
-        "url": "https://mstdn.social/@katestarbird",
-        "display_name": "Kate Starbird"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/datascisocial/datascisocial.github.io/commit/9bbbbaebfd8d9329f5734be4ebe5388a18405e46",
-    "title": "Remove ORCID requirement in sign-up rule \u00b7 datascisocial/datascisocial.github.io@9bbbbae",
-    "latest": "2023-01-14T18:58:49+00:00",
-    "first": "2023-01-14T14:30:55+00:00",
-    "last_post": {
-      "url": "https://datasci.social/@mszll/109688039398346469",
-      "content": "<p>Small update on datasci.social, 2 days after registrations opened. First: Welcome new people! -We are now growing steadily. <a href=\"https://datasci.social/tags/dataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataScience</span></a>++</p><p>We have removed the request at sign-up of stating your ORCID (for now), to not have any unneeded, potential friction in the registration process: <a href=\"https://github.com/datascisocial/datascisocial.github.io/commit/9bbbbaebfd8d9329f5734be4ebe5388a18405e46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/datascisocial/datas</span><span class=\"invisible\">cisocial.github.io/commit/9bbbbaebfd8d9329f5734be4ebe5388a18405e46</span></a> <a href=\"https://datasci.social/tags/serverinfo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>serverinfo</span></a> <a href=\"https://datasci.social/tags/mastoadmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastoadmin</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@mszll",
-        "display_name": "Michael Szell"
+        "url": "https://bell.bz/@andy",
+        "display_name": "Andy Bell"
       },
       {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      },
-      {
-        "url": "https://datasci.social/@estebanmoro",
-        "display_name": "Esteban Moro"
+        "url": "https://hachyderm.io/@kvnweb",
+        "display_name": "Kevin Webb"
       }
     ]
   },
@@ -728,102 +712,26 @@
     ]
   },
   {
-    "link": "https://www.texasobserver.org/texas-legislature-preview-2023/",
-    "title": "Catastrophe #88: The Texas Legislature Returns for a Brutal Year",
-    "latest": "2023-01-14T15:07:36+00:00",
-    "first": "2023-01-14T15:08:28+00:00",
+    "link": "https://css-irl.info/disentangling-frameworks/",
+    "title": "CSS { In Real Life } | Disentangling Frameworks",
+    "latest": "2023-01-17T12:36:41+00:00",
+    "first": "2023-01-17T14:16:21+00:00",
     "last_post": {
-      "url": "https://kolektiva.social/@kitoconnell/109661806176783048",
-      "content": "<p>Other bills attempt to capitalize on the moral panic around <a href=\"https://kolektiva.social/tags/drag\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>drag</span></a> queens, simultaneously using it as a way to attack both <a href=\"https://kolektiva.social/tags/LGBTQIA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LGBTQIA</span></a> culture as a whole and the ability of <a href=\"https://kolektiva.social/tags/transgender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transgender</span></a> people to participate in public life. HB 643 from Representative Jared Patterson broadly seeks to ban anyone from \u201cperforming\u201d in public when <a href=\"https://kolektiva.social/tags/children\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>children</span></a> are present if the performer\u2019s clothing doesn\u2019t match conservative norms for their assigned <a href=\"https://kolektiva.social/tags/gender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gender</span></a> at birth. It\u2019s so broadly written, in fact, that experts are concerned it could even ban <a href=\"https://kolektiva.social/tags/trans\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>trans</span></a> people from performing at major league sporting events or all-ages concerts. Venues found to be in violation would face misdemeanor charges.&nbsp;</p><p>\u201cThat could literally mean a trans person doing standup at a comedy show would then turn it into a sexually oriented business,\u201d <span class=\"h-card\"><a href=\"https://mastodon.social/@esqueer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>esqueer</span></a></span> said. </p><p>From \u201cCatastrophe 88\u201d at <span class=\"h-card\"><a href=\"https://texasobserver.social/@TexasObserver\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>TexasObserver</span></a></span> <a href=\"https://www.texasobserver.org/texas-legislature-preview-2023/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">texasobserver.org/texas-legisl</span><span class=\"invisible\">ature-preview-2023/</span></a></p><p><a href=\"https://kolektiva.social/tags/txlege\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>txlege</span></a> <a href=\"https://kolektiva.social/tags/Texas\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Texas</span></a> <a href=\"https://kolektiva.social/tags/news\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>news</span></a> <a href=\"https://kolektiva.social/tags/politics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politics</span></a> <a href=\"https://kolektiva.social/tags/Fascism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fascism</span></a></p>"
+      "url": "https://bell.bz/@andy/109704577096596884",
+      "content": "<p>I just read: Disentangling Frameworks <a href=\"https://css-irl.info/disentangling-frameworks/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">css-irl.info/disentangling-fra</span><span class=\"invisible\">meworks/</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+        "url": "https://front-end.social/@mxbck",
+        "display_name": "Max B\u00f6ck"
       },
       {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
-      }
-    ]
-  },
-  {
-    "link": "https://www.eventbrite.com/e/2023-sadie-tm-alexander-conference-for-economics-and-related-fields-tickets-445153565297?aff=Website",
-    "title": "2023 Sadie T.M. Alexander Conference for Economics and Related Fields",
-    "latest": "2023-01-15T01:34:12+00:00",
-    "first": "2023-01-14T14:38:37+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@itsafronomics/109687844472718669",
-      "content": "<p>Hello <a href=\"https://econtwitter.net/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a>, if you know a Black woman student (HS/College/Grad School) or early career, I am going need you to lend me your ears.</p><p>The Sadie Collective, a nonprofit for Black women in quant and social science fields, is hosting their first in-person conference since 2020 from February 16 - 19, 2023.</p><p>Sponsor a student you know to go: <a href=\"https://www.eventbrite.com/e/2023-sadie-tm-alexander-conference-for-economics-and-related-fields-tickets-445153565297?aff=Website\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">eventbrite.com/e/2023-sadie-tm</span><span class=\"invisible\">-alexander-conference-for-economics-and-related-fields-tickets-445153565297?aff=Website</span></a>.</p><p>Please share widely! </p><p><a href=\"https://econtwitter.net/tags/econtwitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>econtwitter</span></a> <a href=\"https://econtwitter.net/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://econtwitter.net/tags/sociology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sociology</span></a> <a href=\"https://econtwitter.net/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a> <a href=\"https://econtwitter.net/tags/academia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>academia</span></a> <a href=\"https://econtwitter.net/tags/academic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>academic</span></a> <a href=\"https://econtwitter.net/tags/BlackMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BlackMastodon</span></a> <a href=\"https://econtwitter.net/tags/Blacktwitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Blacktwitter</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@ckrafftc",
-        "display_name": "Caroline Krafft"
+        "url": "https://toot.cafe/@oliverturner",
+        "display_name": "Oliver"
       },
       {
-        "url": "https://econtwitter.net/@m_clem",
-        "display_name": "Michael Clemens"
-      }
-    ]
-  },
-  {
-    "link": "https://www.igorletina.com/conferences.html",
-    "title": "Igor Letina | Conferences",
-    "latest": "2023-01-15T20:09:57+00:00",
-    "first": "2023-01-14T15:04:35+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@IgorLetina/109687716148821046",
-      "content": "<p>I've updated my list of interesting <a href=\"https://econtwitter.net/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://econtwitter.net/tags/conferences\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>conferences</span></a> for 2023. The purpose is to have all submission deadlines, conference dates, locations and websites in one place.</p><p>It's focused on general interest, <a href=\"https://econtwitter.net/tags/IndustrialOrganization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndustrialOrganization</span></a> and <a href=\"https://econtwitter.net/tags/theory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>theory</span></a> conferences. </p><p>Link: <a href=\"https://www.igorletina.com/conferences.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">igorletina.com/conferences.htm</span><span class=\"invisible\">l</span></a></p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/industrialorganization\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>industrialorganization</span></a></span> <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/mechanismdesign\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mechanismdesign</span></a></span> <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/contests\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>contests</span></a></span> <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/gametheory\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gametheory</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@paulgp",
-        "display_name": "Paul Goldsmith-Pinkham"
-      },
-      {
-        "url": "https://econtwitter.net/@m_clem",
-        "display_name": "Michael Clemens"
-      }
-    ]
-  },
-  {
-    "link": "https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/",
-    "title": "FAA says computer failure that grounded thousands of flights was caused by 2 contractors who introduced data errors into NOTAM system",
-    "latest": "2023-01-14T15:19:38+00:00",
-    "first": "2023-01-14T14:20:25+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@jimeharrisjr/109687713149385566",
-      "content": "<p>\"Agency officials are attempting to determine whether the two people made the changes accidentally or intentionally, and if there was any malicious intent,\"<br><a href=\"https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fortune.com/2023/01/13/faa-com</span><span class=\"invisible\">puter-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://infosec.exchange/@thegrugq",
-        "display_name": "the grugq"
-      },
-      {
-        "url": "https://mastodon.social/@mikeolson",
-        "display_name": "Mike Olson"
-      }
-    ]
-  },
-  {
-    "link": "https://dlm-econometrics.blogspot.com/2023/01/heckman-schmeckman.html",
-    "title": "Heckman, Schmeckman!",
-    "latest": "2023-01-14T16:08:38+00:00",
-    "first": "2023-01-14T13:30:03+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@dlmillimet/109684253949180256",
-      "content": "<p><a href=\"https://econtwitter.net/tags/EconTwitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EconTwitter</span></a> </p><p>Two weeks in and my new year's resolution is still intact. A new post of <a href=\"https://econtwitter.net/tags/EconometricSausage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EconometricSausage</span></a> is available, called </p><p>\"Heckman, Schmeckman!\"</p><p>Inspired by all those practicing self-care. </p><p><a href=\"https://dlm-econometrics.blogspot.com/2023/01/heckman-schmeckman.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dlm-econometrics.blogspot.com/</span><span class=\"invisible\">2023/01/heckman-schmeckman.html</span></a></p><p>Thanks for reading! Happy Friday!</p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@paulgp",
-        "display_name": "Paul Goldsmith-Pinkham"
-      },
-      {
-        "url": "https://econtwitter.net/@NicVdSijpe",
-        "display_name": "Nicolas Van de Sijpe"
+        "url": "https://bell.bz/@andy",
+        "display_name": "Andy Bell"
       }
     ]
   },
@@ -1300,6 +1208,26 @@
       {
         "url": "https://social.cwts.nl/@LudoWaltman",
         "display_name": "Ludo Waltman"
+      },
+      {
+        "url": "https://fediscience.org/@petersuber",
+        "display_name": "petersuber"
+      }
+    ]
+  },
+  {
+    "link": "https://www.thestar.com/opinion/contributors/2023/01/15/interminable-pause-government-must-address-harm-caused-by-extension-to-copyright-term.html",
+    "title": "Opinion | Interminable pause: Government must address harm caused by extension to copyright term",
+    "latest": "2023-01-17T14:39:52+00:00",
+    "first": "2023-01-15T19:32:48+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@petersuber/109705061494278587",
+      "content": "<p>Update. Good analysis from <span class=\"h-card\"><a href=\"https://hcommons.social/@markswartz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>markswartz</span></a></span>: \"A minuscule percentage of copyright owners will benefit from the extra 20 years of protection, while the rest of us lose, unless balancing measures are taken.\"<br><a href=\"https://www.thestar.com/opinion/contributors/2023/01/15/interminable-pause-government-must-address-harm-caused-by-extension-to-copyright-term.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thestar.com/opinion/contributo</span><span class=\"invisible\">rs/2023/01/15/interminable-pause-government-must-address-harm-caused-by-extension-to-copyright-term.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@mgeist",
+        "display_name": "Michael Geist"
       },
       {
         "url": "https://fediscience.org/@petersuber",
@@ -1788,6 +1716,26 @@
     ]
   },
   {
+    "link": "https://www.abqjournal.com/2565117/solomon-pena-arrested-in-shootings-targeting-new-mexico-democratic-politicians-homes.html",
+    "title": "Former Republican candidate arrested in shootings targeting Democratic politicians' homes",
+    "latest": "2023-01-17T12:57:03+00:00",
+    "first": "2023-01-17T02:06:42+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/109704657187571088",
+      "content": "<p>Solomon Pena \u2014 the unsuccessful Republican candidate in New Mexico \u2014 has been arrested for hiring men to shoot at the homes of two county commissioners and two state legislators.</p><p><a href=\"https://www.abqjournal.com/2565117/solomon-pena-arrested-in-shootings-targeting-new-mexico-democratic-politicians-homes.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">abqjournal.com/2565117/solomon</span><span class=\"invisible\">-pena-arrested-in-shootings-targeting-new-mexico-democratic-politicians-homes.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
+      },
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ]
+  },
+  {
     "link": "http://www.stablediffusionfrivolous.com/",
     "title": "http://www.stablediffusionfrivolous.com",
     "latest": "2023-01-17T12:14:26+00:00",
@@ -1804,6 +1752,26 @@
       {
         "url": "https://sigmoid.social/@TedUnderwood",
         "display_name": "Ted Underwood"
+      }
+    ]
+  },
+  {
+    "link": "https://museumsandsociety.net/de/research/digital-image-worlds/weltbilder",
+    "title": "Weltbilder ( - Museums and Society",
+    "latest": "2023-01-17T14:21:42+00:00",
+    "first": "2023-01-17T08:28:12+00:00",
+    "last_post": {
+      "url": "https://chaos.social/@lukasfx/109704990061792685",
+      "content": "<p>Im Seminar \"Weltbilder. Konstruktion von Fremd- und Andersheit in der Kunst des langen 19. Jhdts.\" hatten wir urspr\u00fcnglich vor, Gem\u00e4lde mit Meta-Daten zu kontextualisieren. </p><p>Die Studierenden schlugen allerdings vor, die Bilder aktiver zu \"st\u00f6ren\", durch bildliche Annotationen, Hashtags und Kommentare. Ich bin freue mich sehr \u00fcber das Ergebnis:</p><p><a href=\"https://museumsandsociety.net/de/research/digital-image-worlds/weltbilder\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">museumsandsociety.net/de/resea</span><span class=\"invisible\">rch/digital-image-worlds/weltbilder</span></a></p><p><a href=\"https://chaos.social/tags/dekolonialisierung\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dekolonialisierung</span></a> <a href=\"https://chaos.social/tags/museen\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>museen</span></a> <a href=\"https://chaos.social/tags/zoo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>zoo</span></a> <a href=\"https://chaos.social/tags/kunstgeschichte\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>kunstgeschichte</span></a> <a href=\"https://chaos.social/tags/landschaft\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>landschaft</span></a> <a href=\"https://chaos.social/tags/malerei\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>malerei</span></a> <a href=\"https://chaos.social/tags/gem%C3%A4lde\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gem\u00e4lde</span></a> <a href=\"https://chaos.social/tags/kunst\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>kunst</span></a> <a href=\"https://chaos.social/tags/kolonialismus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>kolonialismus</span></a> <a href=\"https://chaos.social/tags/arthistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arthistory</span></a> <a href=\"https://chaos.social/tags/decolonize\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>decolonize</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@nullmuseum",
+        "display_name": "Nullmuseum"
+      },
+      {
+        "url": "https://chaos.social/@lukasfx",
+        "display_name": "Lukas Fuchsgruber"
       }
     ]
   },
@@ -1868,6 +1836,26 @@
     ]
   },
   {
+    "link": "https://fonts.google.com/specimen/Atkinson+Hyperlegible",
+    "title": "Google Fonts: Atkinson Hyperlegible",
+    "latest": "2023-01-17T13:23:00+00:00",
+    "first": "2023-01-17T12:05:55+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@nrennie/109704005734424178",
+      "content": "<p>These visualisations use the Atkinson Hyperlegible font - developed by the Braille institute to improve readability for low vision readers.</p><p>It's available as a Google Font, so if you want to use it in <a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a>, you can load it with the font_add_google() function.</p><p><a href=\"https://fonts.google.com/specimen/Atkinson+Hyperlegible\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fonts.google.com/specimen/Atki</span><span class=\"invisible\">nson+Hyperlegible</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      },
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
     "link": "https://lakens.github.io/statistical_inferences/errorcontrol.html#optionalstopping",
     "title": "Chapter 2 Error control | Improving Your Statistical Inferences",
     "latest": "2023-01-17T09:38:19+00:00",
@@ -1924,6 +1912,46 @@
       {
         "url": "https://sigmoid.social/@Adverb",
         "display_name": "Advadnoun"
+      }
+    ]
+  },
+  {
+    "link": "http://un.org/en/library/os23",
+    "title": "http://un.org/en/library/os23",
+    "latest": "2023-01-17T14:04:06+00:00",
+    "first": "2023-01-17T11:54:38+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@rmounce/109704395551964595",
+      "content": "<p>At a time that misinformation and disinformation about science is rampant on the internet, peer-reviewed, publicly-funded research must not remain behind online paywalls. Attend the 3rd UN Open Science Conference, 8-10 Feb 2023. Info &amp; registration: <a href=\"http://un.org/en/library/os23\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">un.org/en/library/os23</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://berlin.social/@psm_os",
+        "display_name": "Paul Schultze-Motel"
+      },
+      {
+        "url": "https://mastodon.social/@philipncohen",
+        "display_name": "Philip N Cohen"
+      }
+    ]
+  },
+  {
+    "link": "https://geocompx.org/",
+    "title": "geocompx",
+    "latest": "2023-01-17T12:37:14+00:00",
+    "first": "2023-01-17T14:19:24+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@nowosad/109704505247628785",
+      "content": "<p>\ud83d\udd25Major Announcement\ud83d\udd25</p><p>We created a new home for all of our resources on reproducible geographic data analysis, modeling, and visualization with open source software!</p><p>Visit <a href=\"https://geocompx.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">geocompx.org/</span><span class=\"invisible\"></span></a>.</p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/rspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatial</span></a> <a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://fosstodon.org/tags/geopython\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geopython</span></a> <a href=\"https://fosstodon.org/tags/geocompx\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geocompx</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@hadleywickham",
+        "display_name": "Hadley Wickham"
+      },
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
       }
     ]
   }
