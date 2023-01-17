@@ -1,5 +1,73 @@
 [
   {
+    "link": "https://github.com/jvns/mastodon-threaded-replies",
+    "title": "GitHub - jvns/mastodon-threaded-replies",
+    "latest": "2023-01-16T23:46:08+00:00",
+    "first": "2023-01-16T23:46:08+00:00",
+    "last_post": {
+      "url": "https://social.jvns.ca/@b0rk/109701547178828461",
+      "content": "<p>I think it's fun to build tiny specialized Mastodon clients for myself, that do a subset of what a normal Mastodon client does, but in a slightly different way.</p><p>the source for this one is here: <a href=\"https://github.com/jvns/mastodon-threaded-replies\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jvns/mastodon-threa</span><span class=\"invisible\">ded-replies</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.jvns.ca/@b0rk",
+        "display_name": "Julia Evans"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sammorrisdesign/interactive-feed",
+    "title": "GitHub - sammorrisdesign/interactive-feed",
+    "latest": "2023-01-16T23:00:36+00:00",
+    "first": "2023-01-16T23:49:08+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@sammorris/109701222528290164",
+      "content": "<p>I've just updated <br><span class=\"h-card\"><a href=\"https://botsin.space/@Interactives\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Interactives</span></a></span>  to support multiple sources for a single publication. Thanks to <br><span class=\"h-card\"><a href=\"https://mastodon.palewi.re/@palewire\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>palewire</span></a></span> for the suggestion.</p><p>Know of a structured source of interactive journalism? The documentation on how to get involved has also been updated: <a href=\"https://github.com/sammorrisdesign/interactive-feed\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sammorrisdesign/int</span><span class=\"invisible\">eractive-feed</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.palewi.re/@palewire",
+        "display_name": "Ben Welsh"
+      },
+      {
+        "url": "https://vis.social/@maarten",
+        "display_name": "Maarten Lambrechts"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/processing/processing4/releases",
+    "title": "Releases \u00b7 processing/processing4",
+    "latest": "2023-01-16T21:40:31+00:00",
+    "first": "2023-01-16T21:40:31+00:00",
+    "last_post": {
+      "url": "https://information.garden/@benfry/109701053283080302",
+      "content": "<p>Happy MLK Day! </p><p>Processing 4.1.2 now posted: <a href=\"https://github.com/processing/processing4/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/processing/processi</span><span class=\"invisible\">ng4/releases</span></a></p><p>\ud83e\uddd1\u200d\ud83d\udcbc Updates to the Contribution Manager<br>\ud83d\udcd3 Eliminating quirks from the Preprocessor <br>\ud83e\udeb2 Bug fixes and more bug fixes</p><p>Give it a try / share with your friends / and your enemies too / spread the good news far and wide\u2026 \ud83c\udf99 \ud83d\udde3 \ud83d\udcec \ud83d\ude49</p>"
+    },
+    "people": [
+      {
+        "url": "https://information.garden/@benfry",
+        "display_name": "Ben Fry"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/RamiKrispin/coronavirus",
+    "title": "GitHub - RamiKrispin/coronavirus: The coronavirus dataset",
+    "latest": "2023-01-16T21:35:45+00:00",
+    "first": "2023-01-16T21:35:45+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@ramikrispin/109701034498624643",
+      "content": "<p>Second weekend working on fixing issues and updating the coronavirus package. Last week finished updating the data pipeline and the package Docker. Most of the changes are available on the main branch:</p><p><a href=\"https://github.com/RamiKrispin/coronavirus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/RamiKrispin/coronav</span><span class=\"invisible\">irus</span></a></p><p>This weekend focusing on updating the package documentation, vignettes, and fun data visualization  \ud83d\udc47\ud83c\udffc</p><p><a href=\"https://mstdn.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://mstdn.social/tags/data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>data</span></a> <a href=\"https://mstdn.social/tags/datavisualization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datavisualization</span></a> <a href=\"https://mstdn.social/tags/datascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datascience</span></a> <a href=\"https://mstdn.social/tags/docker\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>docker</span></a> <a href=\"https://mstdn.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@ramikrispin",
+        "display_name": "Rami Krispin :unverified:"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/mastodon/mastodon/pull/19059",
     "title": "Add groups support by ClearlyClaire \u00b7 Pull Request #19059 \u00b7 mastodon/mastodon",
     "latest": "2023-01-16T20:44:53+00:00",
@@ -3326,69 +3394,5 @@
         "display_name": "networkscience group"
       }
     ]
-  },
-  {
-    "link": "https://github.com/upenndigitalscholarship/collections-as-data-notebooks",
-    "title": "GitHub - upenndigitalscholarship/collections-as-data-notebooks: Tutorials and examples to help you work with Colenda data from Penn Libraries",
-    "latest": "2023-01-06T20:13:43+00:00",
-    "first": "2023-01-06T20:13:43+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@quinnanya/109644088841925530",
-      "content": "<p><span class=\"h-card\"><a href=\"https://hcommons.social/@estene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>estene</span></a></span> shares Jupyter notebooks developed for minimally-technical audience to work with collections. One for accessing things in digital repository w/ focus on metadata. Another looking at items over time, creating timelines/visualizations of dates. Thinking w/ students about different kinds of temporal ranges (e.g. Jewish date system). <a href=\"https://mstdn.social/tags/MLA23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MLA23</span></a> <a href=\"https://mstdn.social/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a>  <a href=\"https://github.com/upenndigitalscholarship/collections-as-data-notebooks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/upenndigitalscholar</span><span class=\"invisible\">ship/collections-as-data-notebooks</span></a>.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@quinnanya",
-        "display_name": "Quinn Dombrowski"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/suborbital/e2core",
-    "title": "GitHub - suborbital/e2core: Server for sandboxed third-party plugins, powered by WebAssembly",
-    "latest": "2023-01-06T19:14:38+00:00",
-    "first": "2023-01-06T19:14:38+00:00",
-    "last_post": {
-      "url": "https://vis.social/@idan/109643856519132695",
-      "content": "<p>Have you seen <a href=\"https://github.com/suborbital/e2core\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/suborbital/e2core</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@idan",
-        "display_name": "Idan Gazit"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/blog/favorite-data-visualizations-of-2022",
-    "title": "Top Data Visualizations, 2022",
-    "latest": "2023-01-06T19:10:51+00:00",
-    "first": "2023-01-06T19:10:51+00:00",
-    "last_post": {
-      "url": "https://vis.social/@observablehq/109643841646492925",
-      "content": "<p>\u2734\ufe0f The Observable team, also known as \u2018Observables\u2019, shared their favorite notebooks for the year 2022 and their reasons for choosing them. </p><p>\ud83e\udd14 What was your favorite notebook for 2022? </p><p>\u27a1\ufe0f<a href=\"https://observablehq.com/blog/favorite-data-visualizations-of-2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/blog/favorite</span><span class=\"invisible\">-data-visualizations-of-2022</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@observablehq",
-        "display_name": ""
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/molpopgen/text2qti_example",
-    "title": "GitHub - molpopgen/text2qti_example: text2qti_example",
-    "latest": "2023-01-06T17:42:34+00:00",
-    "last_post": {
-      "url": "https://ecoevo.social/@kevinrthornton/109564650686913768",
-      "content": "<p>If anyone has to generate a bunch of Canvas quizzes for next term, you may be interested in knowing that you can do it outside of Canvas! I have gotten a lot of questions about this lately from colleagues, so I made an example to share: <a href=\"https://github.com/molpopgen/text2qti_example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/molpopgen/text2qti_</span><span class=\"invisible\">example</span></a>.</p><p>The final question shows how to use interactive content (JavaScript via Observable notebooks) in Canvas.</p><p><a href=\"https://ecoevo.social/tags/Canvas\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Canvas</span></a> <a href=\"https://ecoevo.social/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.science/@contaminatedsci",
-        "display_name": "Tami Lieberman"
-      }
-    ],
-    "first": "2023-01-06T17:42:34+00:00"
   }
 ]
