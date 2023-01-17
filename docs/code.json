@@ -1,5 +1,61 @@
 [
   {
+    "link": "https://github.com/elk-zone/elk",
+    "title": "GitHub - elk-zone/elk: A nimble Mastodon web client",
+    "latest": "2023-01-17T08:26:52+00:00",
+    "first": "2023-01-12T11:14:07+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@elk/109703573464941363",
+      "content": "<p>One hundred contributors have now improved Elk! <br>Thanks for being part of this story \ud83e\udde1<br><a href=\"https://github.com/elk-zone/elk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/elk-zone/elk</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Gargron",
+        "display_name": "Eugen Rochko"
+      },
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      },
+      {
+        "url": "https://chaos.social/@janl",
+        "display_name": "Jan Lehnardt \ud83d\udecb\ufe0f"
+      },
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      },
+      {
+        "url": "https://typo.social/@jasonsantamaria",
+        "display_name": "Jason Santa Maria"
+      },
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      },
+      {
+        "url": "https://vis.social/@llimllib",
+        "display_name": "llimllib"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/openai/whisper",
+    "title": "GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision",
+    "latest": "2023-01-17T06:24:27+00:00",
+    "first": "2023-01-17T06:24:27+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@_Davidsmith/109692085062009330",
+      "content": "<p>I'm working on reviving my old podcast searching system using OpenAI's Whisper engine (<a href=\"https://github.com/openai/whisper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/openai/whisper</span><span class=\"invisible\"></span></a>).</p><p>The results so far are amazing.  I can run the transcription right on my Mac at roughly 5X realtime, and the accuracy is super impressive. It even gets brand names and weird words right nearly every time.</p><p>For example, this segment from The Talk Show where <span class=\"h-card\"><a href=\"https://mastodon.social/@marcoarment\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>marcoarment</span></a></span> and <span class=\"h-card\"><a href=\"https://mastodon.social/@gruber\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gruber</span></a></span> argue about how to pronounce databases was perfectly transcribed, down the even the mispronunciations. \ud83e\udd2f</p>"
+    },
+    "people": [
+      {
+        "url": "https://status.kinlan.me/@paul",
+        "display_name": "Paul Kinlan"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/eramdam/tokimeki-mastodon",
     "title": "github.com/eramdam/tokimeki-ma...",
     "latest": "2023-01-17T05:42:42+00:00",
@@ -900,46 +956,6 @@
       {
         "url": "https://econtwitter.net/@paulgp",
         "display_name": "Paul Goldsmith-Pinkham"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/elk-zone/elk",
-    "title": "GitHub - elk-zone/elk: A nimble Mastodon web client",
-    "latest": "2023-01-14T13:58:45+00:00",
-    "first": "2023-01-12T11:14:07+00:00",
-    "last_post": {
-      "url": "https://m.webtoo.ls/@elk/109687770734037982",
-      "content": "<p>1.5K stars now! Elk is trending across all GitHub repositories today \ud83d\udd25</p><p>Thanks for your support \ud83c\udf1f<br><a href=\"https://github.com/elk-zone/elk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/elk-zone/elk</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Gargron",
-        "display_name": "Eugen Rochko"
-      },
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      },
-      {
-        "url": "https://chaos.social/@janl",
-        "display_name": "Jan Lehnardt \ud83d\udecb\ufe0f"
-      },
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      },
-      {
-        "url": "https://typo.social/@jasonsantamaria",
-        "display_name": "Jason Santa Maria"
-      },
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      },
-      {
-        "url": "https://vis.social/@llimllib",
-        "display_name": "llimllib"
       }
     ]
   },
@@ -3376,22 +3392,6 @@
       {
         "url": "https://fosstodon.org/@smach",
         "display_name": "Sharon Machlis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/CeeYaa/GENUARY2023",
-    "title": "https://github.com/CeeYaa/GENUARY2023",
-    "latest": "2023-01-06T23:09:06+00:00",
-    "first": "2023-01-06T23:09:06+00:00",
-    "last_post": {
-      "url": "https://pixelfed.social/p/CeeYaa/517009982073669255",
-      "content": "06_StealLikeAnArtist VIDEO (no audio)<br>\nwww.genuary.art 2023<br>\nVVVVGAMMA <a href=\"https://visualprogramming.net\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://visualprogramming.net</a><br>\nGITHUB <a href=\"https://github.com/CeeYaa/GENUARY2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/CeeYaa/GENUARY2023</a> <br>\n<a href=\"https://pixelfed.social/discover/tags/genuary?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#genuary</a> <a href=\"https://pixelfed.social/discover/tags/genuary6?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#genuary6</a> <a href=\"https://pixelfed.social/discover/tags/StealLikeAnArtist?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#StealLikeAnArtist</a> <a href=\"https://pixelfed.social/discover/tags/vvvv?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#vvvv</a> <a href=\"https://pixelfed.social/discover/tags/madewithvvvv?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#madewithvvvv</a> <a href=\"https://pixelfed.social/discover/tags/visualprogramming?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#visualprogramming</a>  <a href=\"https://pixelfed.social/discover/tags/creativecoding?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#creativecoding</a> <a href=\"https://pixelfed.social/discover/tags/csharp?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#csharp</a> <a href=\"https://pixelfed.social/discover/tags/dotnet?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#dotnet</a> <a href=\"https://pixelfed.social/discover/tags/badaboomberlin?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#badaboomberlin</a>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@liquidx",
-        "display_name": "Alastair Tse"
       }
     ]
   }
