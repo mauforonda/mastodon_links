@@ -1,5 +1,61 @@
 [
   {
+    "link": "https://github.com/eramdam/tokimeki-mastodon",
+    "title": "github.com/eramdam/tokimeki-ma...",
+    "latest": "2023-01-17T05:42:42+00:00",
+    "first": "2023-01-10T18:31:53+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@Eramdam/109663455265127820",
+      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      },
+      {
+        "url": "https://vis.social/@Luca",
+        "display_name": "Luca Hammer"
+      },
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rmp135/sql-ts",
+    "title": "GitHub - rmp135/sql-ts: Generate TypeScript interfaces from a SQL database.",
+    "latest": "2023-01-17T04:59:21.873000+00:00",
+    "first": "2023-01-17T04:59:21.873000+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@linesofcode/109702290707246037",
+      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@mnl\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mnl</span></a></span> I can totally relate to this having been burnt by ORMs in the past.</p><p>I'm a big fan of just generating static types for my database with <a href=\"https://github.com/rmp135/sql-ts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rmp135/sql-ts</span><span class=\"invisible\"></span></a> and then using those generated types to add some loose type-safety to my sql queries.</p><p>For example: typing the result sets or referencing table/column names through an enum.</p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@mnl",
+        "display_name": "mnml mnl (he/him)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/vuejs/petite-vue",
+    "title": "https://github.com/vuejs/petite-vue",
+    "latest": "2023-01-17T03:13:51+00:00",
+    "first": "2023-01-17T03:13:51+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@adamghill/109702363991455601",
+      "content": "<p>Other options for small-ish JS libraries I looked into:<br>- <a href=\"https://alpinejs.dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">alpinejs.dev/</span><span class=\"invisible\"></span></a>: the major player in this space<br>- <a href=\"https://htmx.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">htmx.org/</span><span class=\"invisible\"></span></a>: also well-loved, but solves a slightly different use-case<br>- <a href=\"https://github.com/vuejs/petite-vue\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vuejs/petite-vue</span><span class=\"invisible\"></span></a></p><p>More details about each and some other lesser-known options at: <a href=\"https://unsuckjs.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">unsuckjs.com/</span><span class=\"invisible\"></span></a>.</p><p><a href=\"https://indieweb.social/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a> <a href=\"https://indieweb.social/tags/html\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/mardix/litedom",
     "title": "https://github.com/mardix/litedom",
     "latest": "2023-01-17T03:03:42+00:00",
@@ -392,30 +448,6 @@
       {
         "url": "https://m.webtoo.ls/@patak",
         "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/eramdam/tokimeki-mastodon",
-    "title": "github.com/eramdam/tokimeki-ma...",
-    "latest": "2023-01-16T04:07:48+00:00",
-    "first": "2023-01-10T18:31:53+00:00",
-    "last_post": {
-      "url": "https://octodon.social/@Eramdam/109663455265127820",
-      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
-      },
-      {
-        "url": "https://vis.social/@Luca",
-        "display_name": "Luca Hammer"
-      },
-      {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
       }
     ]
   },
@@ -3360,38 +3392,6 @@
       {
         "url": "https://mastodon.social/@liquidx",
         "display_name": "Alastair Tse"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/AgregoreWeb/agregore-browser/issues/217",
-    "title": "Publish to major package managers \u00b7 Issue #217 \u00b7 AgregoreWeb/agregore-browser",
-    "latest": "2023-01-06T22:25:24+00:00",
-    "first": "2023-01-06T22:25:24+00:00",
-    "last_post": {
-      "url": "https://mastodon.mauve.moe/@mauve/109644577668625246",
-      "content": "<p>BTW, if anyone is looking for a <a href=\"https://mastodon.mauve.moe/tags/gig\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gig</span></a> to get <span class=\"h-card\"><a href=\"https://mastodon.mauve.moe/@agregore\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>agregore</span></a></span> published across some of the major platforms, I'd love to chat.</p><p>Ideally you'll have published an Electron app to either Windows/Mac OS/Ubuntu/AUR.</p><p>Boosts appreciated.</p><p><a href=\"https://github.com/AgregoreWeb/agregore-browser/issues/217\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AgregoreWeb/agregor</span><span class=\"invisible\">e-browser/issues/217</span></a></p><p><a href=\"https://mastodon.mauve.moe/tags/jobs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>jobs</span></a> <a href=\"https://mastodon.mauve.moe/tags/windows\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>windows</span></a> <a href=\"https://mastodon.mauve.moe/tags/mac\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mac</span></a> <a href=\"https://mastodon.mauve.moe/tags/ubuntu\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ubuntu</span></a> <a href=\"https://mastodon.mauve.moe/tags/aur\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aur</span></a> <a href=\"https://mastodon.mauve.moe/tags/electron\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>electron</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@cblgh",
-        "display_name": "Alexander Cobleigh"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/executablebooks/mystjs",
-    "title": "GitHub - executablebooks/mystjs: Parser and CLI for MyST Markdown, built in Javascript",
-    "latest": "2023-01-06T22:13:09+00:00",
-    "first": "2023-01-06T22:13:09+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@jonny/109644558461993830",
-      "content": "<p><span class=\"h-card\"><a href=\"https://scicomm.xyz/@rowan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rowan</span></a></span> just showed me how you can do bidirectional <a href=\"https://neuromatch.social/tags/LaTeX\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LaTeX</span></a> &lt;-&gt; <a href=\"https://neuromatch.social/tags/MyST\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MyST</span></a> <a href=\"https://neuromatch.social/tags/Markdown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Markdown</span></a> rendering to web and PDF and it fucked me up. I am never writing in LaTeX again.<br><a href=\"https://github.com/executablebooks/mystjs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/executablebooks/mys</span><span class=\"invisible\">tjs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@jonny",
-        "display_name": "Jonny"
       }
     ]
   }

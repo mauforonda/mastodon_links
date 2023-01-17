@@ -1,5 +1,461 @@
 [
   {
+    "link": "https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html",
+    "title": "\n    Laurence Tratt: Compiled and Interpreted Languages: Two Ways of Saying Tomato\n",
+    "latest": "2023-01-17T05:53:41+00:00",
+    "first": "2023-01-10T14:34:38+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@akkartik/109702992464047127",
+      "content": "<p>Inspired by <span class=\"h-card\"><a href=\"https://mastodon.social/@ltratt\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ltratt</span></a></span>'s <a href=\"https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tratt.net/laurie/blog/2023/com</span><span class=\"invisible\">piled_and_interpreted_languages_two_ways_of_saying_tomato.html</span></a>, I spent some time kicking the wheels on my code map based programming environment by building a BF interpreter.</p><p>Next up: reproducing in Lua Laurence's results regarding the compiler-interpreter spectrum.</p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@akkartik",
+        "display_name": "Kartik Agaram"
+      }
+    ]
+  },
+  {
+    "link": "https://blog.gitter.im/2023/01/16/gitter-is-going-fully-native-matrix-in-feb-2023/",
+    "title": "Gitter is going fully native Matrix in Feb. 2023",
+    "latest": "2023-01-17T05:45:51+00:00",
+    "first": "2023-01-17T05:45:51+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@hywan/109702955848344086",
+      "content": "<p>Gitter is going fully native Matrix in Feb. 2023, <a href=\"https://blog.gitter.im/2023/01/16/gitter-is-going-fully-native-matrix-in-feb-2023/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.gitter.im/2023/01/16/gitt</span><span class=\"invisible\">er-is-going-fully-native-matrix-in-feb-2023/</span></a>.</p><p><a href=\"https://fosstodon.org/tags/chat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chat</span></a> <a href=\"https://fosstodon.org/tags/gitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gitter</span></a> <a href=\"https://fosstodon.org/tags/matrix\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>matrix</span></a> <a href=\"https://fosstodon.org/tags/element\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>element</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
+      }
+    ]
+  },
+  {
+    "link": "https://tokimeki-mastodon.vercel.app/",
+    "title": "https://tokimeki-mastodon.vercel.app",
+    "latest": "2023-01-17T05:42:42+00:00",
+    "first": "2023-01-10T18:31:53+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@Eramdam/109663455265127820",
+      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      },
+      {
+        "url": "https://vis.social/@Luca",
+        "display_name": "Luca Hammer"
+      },
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/eramdam/tokimeki-mastodon",
+    "title": "github.com/eramdam/tokimeki-ma...",
+    "latest": "2023-01-17T05:42:42+00:00",
+    "first": "2023-01-10T18:31:53+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@Eramdam/109663455265127820",
+      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      },
+      {
+        "url": "https://vis.social/@Luca",
+        "display_name": "Luca Hammer"
+      },
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      }
+    ]
+  },
+  {
+    "link": "https://medium.com/@clivethompson/the-disappearance-of-the-ashtray-4badc1be9e3b",
+    "title": "medium.com/@clivethompson/the-...",
+    "latest": "2023-01-17T05:10:20+00:00",
+    "first": "2023-01-17T05:10:20+00:00",
+    "last_post": {
+      "url": "https://saturation.social/@clive/109702822030619533",
+      "content": "<p>\"The Disappearance of the Ashtray\"</p><p>When I was a kid in the 70s and early 80s, you were essentially *never* in a room that didn't have at least one -- and usually multiple -- ashtrays</p><p>Some of them were pieces of *furniture*. Many were gorgeously designed!</p><p>Now when I show one to my kids, they have no idea what this strange artifact could be</p><p>My essay, for Medium subscribers: <a href=\"https://medium.com/@clivethompson/the-disappearance-of-the-ashtray-4badc1be9e3b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">medium.com/@clivethompson/the-</span><span class=\"invisible\">disappearance-of-the-ashtray-4badc1be9e3b</span></a></p><p>If you're not a Medium subscriber, here's a \"friend\" link: <a href=\"https://clivethompson.medium.com/the-disappearance-of-the-ashtray-4badc1be9e3b?sk=af07683752cbce61571abf26ad35ca69\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clivethompson.medium.com/the-d</span><span class=\"invisible\">isappearance-of-the-ashtray-4badc1be9e3b?sk=af07683752cbce61571abf26ad35ca69</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://saturation.social/@clive",
+        "display_name": "Clive Thompson"
+      }
+    ]
+  },
+  {
+    "link": "https://clivethompson.medium.com/the-disappearance-of-the-ashtray-4badc1be9e3b?sk=af07683752cbce61571abf26ad35ca69",
+    "title": "The Disappearance of the Ashtray - Clive Thompson - Medium",
+    "latest": "2023-01-17T05:10:20+00:00",
+    "first": "2023-01-17T05:10:20+00:00",
+    "last_post": {
+      "url": "https://saturation.social/@clive/109702822030619533",
+      "content": "<p>\"The Disappearance of the Ashtray\"</p><p>When I was a kid in the 70s and early 80s, you were essentially *never* in a room that didn't have at least one -- and usually multiple -- ashtrays</p><p>Some of them were pieces of *furniture*. Many were gorgeously designed!</p><p>Now when I show one to my kids, they have no idea what this strange artifact could be</p><p>My essay, for Medium subscribers: <a href=\"https://medium.com/@clivethompson/the-disappearance-of-the-ashtray-4badc1be9e3b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">medium.com/@clivethompson/the-</span><span class=\"invisible\">disappearance-of-the-ashtray-4badc1be9e3b</span></a></p><p>If you're not a Medium subscriber, here's a \"friend\" link: <a href=\"https://clivethompson.medium.com/the-disappearance-of-the-ashtray-4badc1be9e3b?sk=af07683752cbce61571abf26ad35ca69\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clivethompson.medium.com/the-d</span><span class=\"invisible\">isappearance-of-the-ashtray-4badc1be9e3b?sk=af07683752cbce61571abf26ad35ca69</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://saturation.social/@clive",
+        "display_name": "Clive Thompson"
+      }
+    ]
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=2WUWpTIs8Ts",
+    "title": "Since Then Book Trailer",
+    "latest": "2023-01-17T05:07:47+00:00",
+    "first": "2023-01-17T05:07:47+00:00",
+    "last_post": {
+      "url": "https://zirk.us/@WritingItReal/109702761110956575",
+      "content": "<p>We have just finished a book trailer for Since Then: Poems and Short Prose. In the 90-second video, I read one of the poems from my book, \"Who Lives on the Other Side.\" The photos are by my husband Kurt, the book cover is by my daughter @emilymbender@dair- community.social and the score is by her son Toby entering his senior year soon at UCLA's music composition program. Please feel free to share the video.  </p><p><a href=\"https://www.youtube.com/watch?v=2WUWpTIs8Ts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=2WUWpTIs8T</span><span class=\"invisible\">s</span></a></p><p><a href=\"https://zirk.us/tags/creativewriting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>creativewriting</span></a> <a href=\"https://zirk.us/tags/grief\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>grief</span></a>  <a href=\"https://zirk.us/tags/poetryreading\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>poetryreading</span></a> <a href=\"https://zirk.us/tags/poetry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>poetry</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://dair-community.social/@emilymbender",
+        "display_name": "Emily M. Bender (she/her)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rmp135/sql-ts",
+    "title": "GitHub - rmp135/sql-ts: Generate TypeScript interfaces from a SQL database.",
+    "latest": "2023-01-17T04:59:21.873000+00:00",
+    "first": "2023-01-17T04:59:21.873000+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@linesofcode/109702290707246037",
+      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@mnl\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mnl</span></a></span> I can totally relate to this having been burnt by ORMs in the past.</p><p>I'm a big fan of just generating static types for my database with <a href=\"https://github.com/rmp135/sql-ts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rmp135/sql-ts</span><span class=\"invisible\"></span></a> and then using those generated types to add some loose type-safety to my sql queries.</p><p>For example: typing the result sets or referencing table/column names through an enum.</p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@mnl",
+        "display_name": "mnml mnl (he/him)"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2212.12249",
+    "title": "Do DALL-E and Flamingo Understand Each Other?",
+    "latest": "2023-01-17T04:49:32+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@gowthami/109701344761282707",
+      "content": "<p>Do T2I and I2T models understand each other? The answer is, they do, to a certain extent. The authors analyze the fidelity of image and text tasks when BLIP and Stable <a href=\"https://sigmoid.social/tags/Diffusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Diffusion</span></a> talk to each other.<br>A \ud83e\uddf6</p><p>Paper: <a href=\"https://arxiv.org/abs/2212.12249\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.12249</span><span class=\"invisible\"></span></a></p><p>Day 15 <a href=\"https://sigmoid.social/tags/30daysofDiffusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>30daysofDiffusion</span></a> <a href=\"https://sigmoid.social/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@andrey",
+        "display_name": "Andrey Kurenkov"
+      }
+    ],
+    "first": "2022-12-26T01:41:39+00:00"
+  },
+  {
+    "link": "https://citizensandtech.org/research/n-of-one-trials/",
+    "title": "Testing Technology Concerns with N-of-One Trials",
+    "latest": "2023-01-17T04:21:49+00:00",
+    "first": "2023-01-17T04:21:49+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@hildabast/109702631238285531",
+      "content": "<p>...Here's the team's website for this: <a href=\"https://citizensandtech.org/research/n-of-one-trials/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">citizensandtech.org/research/n</span><span class=\"invisible\">-of-one-trials/</span></a></p><p>New publication: <a href=\"https://dl.acm.org/doi/abs/10.1145/3531146.3533227\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/abs/10.1145/353</span><span class=\"invisible\">1146.3533227</span></a></p><p>Preprint for it: <a href=\"https://osf.io/jtdng\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">osf.io/jtdng</span><span class=\"invisible\"></span></a></p><p>And my old Statistically Funny post on n-of-1 trials in medicine: <a href=\"https://statistically-funny.blogspot.com/2012/11/the-one-about-ship-wrecked.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">statistically-funny.blogspot.c</span><span class=\"invisible\">om/2012/11/the-one-about-ship-wrecked.html</span></a></p><p>2/2</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@hildabast",
+        "display_name": "Hilda Bastian"
+      }
+    ]
+  },
+  {
+    "link": "https://dl.acm.org/doi/abs/10.1145/3531146.3533227",
+    "title": "dl.acm.org/doi/abs/10.1145/353...",
+    "latest": "2023-01-17T04:21:49+00:00",
+    "first": "2023-01-17T04:21:49+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@hildabast/109702631238285531",
+      "content": "<p>...Here's the team's website for this: <a href=\"https://citizensandtech.org/research/n-of-one-trials/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">citizensandtech.org/research/n</span><span class=\"invisible\">-of-one-trials/</span></a></p><p>New publication: <a href=\"https://dl.acm.org/doi/abs/10.1145/3531146.3533227\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/abs/10.1145/353</span><span class=\"invisible\">1146.3533227</span></a></p><p>Preprint for it: <a href=\"https://osf.io/jtdng\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">osf.io/jtdng</span><span class=\"invisible\"></span></a></p><p>And my old Statistically Funny post on n-of-1 trials in medicine: <a href=\"https://statistically-funny.blogspot.com/2012/11/the-one-about-ship-wrecked.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">statistically-funny.blogspot.c</span><span class=\"invisible\">om/2012/11/the-one-about-ship-wrecked.html</span></a></p><p>2/2</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@hildabast",
+        "display_name": "Hilda Bastian"
+      }
+    ]
+  },
+  {
+    "link": "https://osf.io/jtdng",
+    "title": "https://osf.io/jtdng",
+    "latest": "2023-01-17T04:21:49+00:00",
+    "first": "2023-01-17T04:21:49+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@hildabast/109702631238285531",
+      "content": "<p>...Here's the team's website for this: <a href=\"https://citizensandtech.org/research/n-of-one-trials/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">citizensandtech.org/research/n</span><span class=\"invisible\">-of-one-trials/</span></a></p><p>New publication: <a href=\"https://dl.acm.org/doi/abs/10.1145/3531146.3533227\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/abs/10.1145/353</span><span class=\"invisible\">1146.3533227</span></a></p><p>Preprint for it: <a href=\"https://osf.io/jtdng\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">osf.io/jtdng</span><span class=\"invisible\"></span></a></p><p>And my old Statistically Funny post on n-of-1 trials in medicine: <a href=\"https://statistically-funny.blogspot.com/2012/11/the-one-about-ship-wrecked.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">statistically-funny.blogspot.c</span><span class=\"invisible\">om/2012/11/the-one-about-ship-wrecked.html</span></a></p><p>2/2</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@hildabast",
+        "display_name": "Hilda Bastian"
+      }
+    ]
+  },
+  {
+    "link": "https://statistically-funny.blogspot.com/2012/11/the-one-about-ship-wrecked.html",
+    "title": "statistically-funny.blogspot.c...",
+    "latest": "2023-01-17T04:21:49+00:00",
+    "first": "2023-01-17T04:21:49+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@hildabast/109702631238285531",
+      "content": "<p>...Here's the team's website for this: <a href=\"https://citizensandtech.org/research/n-of-one-trials/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">citizensandtech.org/research/n</span><span class=\"invisible\">-of-one-trials/</span></a></p><p>New publication: <a href=\"https://dl.acm.org/doi/abs/10.1145/3531146.3533227\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/abs/10.1145/353</span><span class=\"invisible\">1146.3533227</span></a></p><p>Preprint for it: <a href=\"https://osf.io/jtdng\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">osf.io/jtdng</span><span class=\"invisible\"></span></a></p><p>And my old Statistically Funny post on n-of-1 trials in medicine: <a href=\"https://statistically-funny.blogspot.com/2012/11/the-one-about-ship-wrecked.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">statistically-funny.blogspot.c</span><span class=\"invisible\">om/2012/11/the-one-about-ship-wrecked.html</span></a></p><p>2/2</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@hildabast",
+        "display_name": "Hilda Bastian"
+      }
+    ]
+  },
+  {
+    "link": "https://pewtrusts.wd5.myworkdayjobs.com/en-US/CenterExternal/job/Washington-DC-Pew-Research-Center/Research-Director--Internet-and-Technology_R002016",
+    "title": "pewtrusts.wd5.myworkdayjobs.co...",
+    "latest": "2023-01-17T04:16:56+00:00",
+    "first": "2023-01-15T23:57:58+00:00",
+    "last_post": {
+      "url": "https://hci.social/@bkeegan/109695671325110002",
+      "content": "<p>\ud83d\udea8 Dream job alert \ud83d\udea8</p><p>Lee Rainie is retiring from the Pew Research Center, so they are looking to hire a new Research Director of Internet and Technology. <a href=\"https://pewtrusts.wd5.myworkdayjobs.com/en-US/CenterExternal/job/Washington-DC-Pew-Research-Center/Research-Director--Internet-and-Technology_R002016\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pewtrusts.wd5.myworkdayjobs.co</span><span class=\"invisible\">m/en-US/CenterExternal/job/Washington-DC-Pew-Research-Center/Research-Director--Internet-and-Technology_R002016</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@natematias",
+        "display_name": "J. Nathan Matias \ud83e\udda3"
+      },
+      {
+        "url": "https://mastodon.social/@elipariser",
+        "display_name": "Eli Pariser"
+      }
+    ]
+  },
+  {
+    "link": "https://www.washingtonpost.com/outlook/2021/06/07/china-three-child-feminism/",
+    "title": "China\u2019s government wants families to have more children. Chinese women don\u2019t.",
+    "latest": "2023-01-17T04:10:49+00:00",
+    "first": "2023-01-17T04:10:49+00:00",
+    "last_post": {
+      "url": "https://mastodon.world/@LetaHong/109702447593502277",
+      "content": "<p>More and more young women in China are refusing to give in to unwanted pressure to marry or have babies. Re-upping my <br>Washington Post piece in light of news that China's population has begun to shrink: <a href=\"https://www.washingtonpost.com/outlook/2021/06/07/china-three-child-feminism/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/outlook/202</span><span class=\"invisible\">1/06/07/china-three-child-feminism/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@philipncohen",
+        "display_name": "Philip N Cohen"
+      }
+    ]
+  },
+  {
+    "link": "https://www.meetup.com/observablehq/events/290337181/",
+    "title": "Data Visualization Predictions for 2023, Wed, Jan 18, 2023, 9:00 AM   | Meetup",
+    "latest": "2023-01-17T03:57:50+00:00",
+    "first": "2023-01-17T03:57:50+00:00",
+    "last_post": {
+      "url": "https://vis.social/@kristinHenry/109702536915091627",
+      "content": "<p>I've been asked to participate in an online panel event on \"Predictions in Data Visualizations in 2023\", hosted by <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> this coming Wednesday morning. </p><p>I think there are some spots left, but not sure.</p><p>It's certainly got me thinking about my hopes more than predictions.</p><p><a href=\"https://www.meetup.com/observablehq/events/290337181/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">meetup.com/observablehq/events</span><span class=\"invisible\">/290337181/</span></a></p><p><a href=\"https://vis.social/tags/DataVis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataVis</span></a> <a href=\"https://vis.social/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://vis.social/tags/DataVisualization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataVisualization</span></a> <a href=\"https://vis.social/tags/observable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>observable</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@kristinHenry",
+        "display_name": "Kristin Henry"
+      }
+    ]
+  },
+  {
+    "link": "https://cmt3.research.microsoft.com/GenAICHI2023",
+    "title": "cmt3.research.microsoft.com/Ge...",
+    "latest": "2023-01-17T03:49:47+00:00",
+    "first": "2023-01-17T03:49:47+00:00",
+    "last_post": {
+      "url": "https://hci.social/@michael/109701972268211854",
+      "content": "<p>Updated Call for Participation - GenAICHI - Generative AI workshop at CHI 2023</p><p>We announce our submission website at <a href=\"https://cmt3.research.microsoft.com/GenAICHI2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cmt3.research.microsoft.com/Ge</span><span class=\"invisible\">nAICHI2023</span></a></p><p>For more about HCI &amp; Generative AI, please see the workshop website, <a href=\"https://generativeaiandhci.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">generativeaiandhci.github.io/</span><span class=\"invisible\"></span></a></p><p>We are excited to learn about your work!</p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@andresmh",
+        "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
+      }
+    ]
+  },
+  {
+    "link": "https://generativeaiandhci.github.io/",
+    "title": "https://generativeaiandhci.github.io/",
+    "latest": "2023-01-17T03:49:47+00:00",
+    "first": "2023-01-17T03:49:47+00:00",
+    "last_post": {
+      "url": "https://hci.social/@michael/109701972268211854",
+      "content": "<p>Updated Call for Participation - GenAICHI - Generative AI workshop at CHI 2023</p><p>We announce our submission website at <a href=\"https://cmt3.research.microsoft.com/GenAICHI2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cmt3.research.microsoft.com/Ge</span><span class=\"invisible\">nAICHI2023</span></a></p><p>For more about HCI &amp; Generative AI, please see the workshop website, <a href=\"https://generativeaiandhci.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">generativeaiandhci.github.io/</span><span class=\"invisible\"></span></a></p><p>We are excited to learn about your work!</p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@andresmh",
+        "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
+      }
+    ]
+  },
+  {
+    "link": "https://www.steventhomson.co.uk/post/hpc_guide/",
+    "title": "steventhomson.co.uk/post/hpc_g...",
+    "latest": "2023-01-17T03:34:05+00:00",
+    "first": "2023-01-17T03:34:05+00:00",
+    "last_post": {
+      "url": "https://sciencemastodon.com/@physicssteve/109700506043951060",
+      "content": "<p>Had a chat earlier about finding an introduction to the command line in Linux, so I thought that was a good excuse to share my cheat sheet of useful commands for anyone getting started with command lines, clusters and high performance computing. \ud83d\ude05 <br><a href=\"https://www.steventhomson.co.uk/post/hpc_guide/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">steventhomson.co.uk/post/hpc_g</span><span class=\"invisible\">uide/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@elichertkov",
+        "display_name": "elichertkov"
+      }
+    ]
+  },
+  {
+    "link": "https://www.upjohn.org/about/grants-awards/grant-opportunities",
+    "title": "Grant Opportunities | Upjohn Institute",
+    "latest": "2023-01-17T03:30:40+00:00",
+    "first": "2023-01-17T03:30:40+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@aaronsojourner/109702428846000680",
+      "content": "<p>Know a researcher who's earned a Ph.D. within the last 6 years? </p><p>They can apply for an Early Career Research Award <span class=\"h-card\"><a href=\"https://econtwitter.net/@UpjohnInstitute\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>UpjohnInstitute</span></a></span> =&gt; up to $7,500 to carry out policy-related employment research.</p><p>Deadline: January 22.<br><a href=\"https://www.upjohn.org/about/grants-awards/grant-opportunities\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">upjohn.org/about/grants-awards</span><span class=\"invisible\">/grant-opportunities</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
+      }
+    ]
+  },
+  {
+    "link": "https://anildash.com/2023/01/16/a-fediverse-search/",
+    "title": "How you could build a search that the fediverse would welcome - Anil Dash",
+    "latest": "2023-01-17T03:26:53+00:00",
+    "first": "2023-01-17T03:26:53+00:00",
+    "last_post": {
+      "url": "https://me.dm/@anildash/109702394084557850",
+      "content": "<p>Okay, here's a fun one for everybody: How you could build a fediverse search that people would actually *welcome*. <a href=\"https://anildash.com/2023/01/16/a-fediverse-search/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">anildash.com/2023/01/16/a-fedi</span><span class=\"invisible\">verse-search/</span></a> (No surprise, the key word is \"consent\".) Let me know what you love or hate about the idea!</p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      }
+    ]
+  },
+  {
+    "link": "https://www.amazon.com/dp/2365680313",
+    "title": "Amazon.com",
+    "latest": "2023-01-17T03:25:42+00:00",
+    "first": "2023-01-17T03:25:42+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109702410597278988",
+      "content": "<p>Thanks to <span class=\"h-card\"><a href=\"https://infosec.exchange/@metlstorm\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>metlstorm</span></a></span> for finding this little gem: <a href=\"https://www.amazon.com/dp/2365680313\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">amazon.com/dp/2365680313</span><span class=\"invisible\"></span></a> ... definitely needed one for my own bookcase as well</p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
+    "link": "http://logicmazes.com/",
+    "title": "Logic Mazes",
+    "latest": "2023-01-17T03:19:16+00:00",
+    "first": "2023-01-17T03:19:16+00:00",
+    "last_post": {
+      "url": "https://puz.fun/@dave/109702344642289875",
+      "content": "<p>Puzzle folk! Lest I forget to ask anyone/everyone again: does anyone have contact info for the next of kin or publishing rights holder of Robert Abbott of Logic Mazes? I am looking to provide minimally-invasive edits for <a href=\"http://logicmazes.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">logicmazes.com/</span><span class=\"invisible\"></span></a> to allow the interactive puzzles to be played in modern browsers. Leads appreciated! <a href=\"https://puz.fun/tags/WebPreservation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WebPreservation</span></a> <a href=\"https://puz.fun/tags/PuzzlePreservation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PuzzlePreservation</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://xoxo.zone/@lauraehall",
+        "display_name": "Laura E. Hall"
+      }
+    ]
+  },
+  {
+    "link": "https://alpinejs.dev/",
+    "title": "Alpine.js",
+    "latest": "2023-01-17T03:13:51+00:00",
+    "first": "2023-01-17T03:13:51+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@adamghill/109702363991455601",
+      "content": "<p>Other options for small-ish JS libraries I looked into:<br>- <a href=\"https://alpinejs.dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">alpinejs.dev/</span><span class=\"invisible\"></span></a>: the major player in this space<br>- <a href=\"https://htmx.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">htmx.org/</span><span class=\"invisible\"></span></a>: also well-loved, but solves a slightly different use-case<br>- <a href=\"https://github.com/vuejs/petite-vue\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vuejs/petite-vue</span><span class=\"invisible\"></span></a></p><p>More details about each and some other lesser-known options at: <a href=\"https://unsuckjs.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">unsuckjs.com/</span><span class=\"invisible\"></span></a>.</p><p><a href=\"https://indieweb.social/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a> <a href=\"https://indieweb.social/tags/html\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
+    "link": "https://htmx.org/",
+    "title": "https://htmx.org/",
+    "latest": "2023-01-17T03:13:51+00:00",
+    "first": "2023-01-17T03:13:51+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@adamghill/109702363991455601",
+      "content": "<p>Other options for small-ish JS libraries I looked into:<br>- <a href=\"https://alpinejs.dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">alpinejs.dev/</span><span class=\"invisible\"></span></a>: the major player in this space<br>- <a href=\"https://htmx.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">htmx.org/</span><span class=\"invisible\"></span></a>: also well-loved, but solves a slightly different use-case<br>- <a href=\"https://github.com/vuejs/petite-vue\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vuejs/petite-vue</span><span class=\"invisible\"></span></a></p><p>More details about each and some other lesser-known options at: <a href=\"https://unsuckjs.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">unsuckjs.com/</span><span class=\"invisible\"></span></a>.</p><p><a href=\"https://indieweb.social/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a> <a href=\"https://indieweb.social/tags/html\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/vuejs/petite-vue",
+    "title": "https://github.com/vuejs/petite-vue",
+    "latest": "2023-01-17T03:13:51+00:00",
+    "first": "2023-01-17T03:13:51+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@adamghill/109702363991455601",
+      "content": "<p>Other options for small-ish JS libraries I looked into:<br>- <a href=\"https://alpinejs.dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">alpinejs.dev/</span><span class=\"invisible\"></span></a>: the major player in this space<br>- <a href=\"https://htmx.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">htmx.org/</span><span class=\"invisible\"></span></a>: also well-loved, but solves a slightly different use-case<br>- <a href=\"https://github.com/vuejs/petite-vue\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vuejs/petite-vue</span><span class=\"invisible\"></span></a></p><p>More details about each and some other lesser-known options at: <a href=\"https://unsuckjs.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">unsuckjs.com/</span><span class=\"invisible\"></span></a>.</p><p><a href=\"https://indieweb.social/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a> <a href=\"https://indieweb.social/tags/html\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
+    "link": "https://unsuckjs.com/",
+    "title": "https://unsuckjs.com/",
+    "latest": "2023-01-17T03:13:51+00:00",
+    "first": "2023-01-17T03:13:51+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@adamghill/109702363991455601",
+      "content": "<p>Other options for small-ish JS libraries I looked into:<br>- <a href=\"https://alpinejs.dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">alpinejs.dev/</span><span class=\"invisible\"></span></a>: the major player in this space<br>- <a href=\"https://htmx.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">htmx.org/</span><span class=\"invisible\"></span></a>: also well-loved, but solves a slightly different use-case<br>- <a href=\"https://github.com/vuejs/petite-vue\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vuejs/petite-vue</span><span class=\"invisible\"></span></a></p><p>More details about each and some other lesser-known options at: <a href=\"https://unsuckjs.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">unsuckjs.com/</span><span class=\"invisible\"></span></a>.</p><p><a href=\"https://indieweb.social/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a> <a href=\"https://indieweb.social/tags/html\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
     "link": "https://isitwebscale.adamghill.com/",
     "title": "https://isitwebscale.adamghill.com/",
     "latest": "2023-01-17T03:03:42+00:00",
@@ -3046,453 +3502,5 @@
       }
     ],
     "first": "2023-01-03T16:30:59+00:00"
-  },
-  {
-    "link": "https://blog.jonudell.net/2023/01/16/mastodon-relationship-graphs/",
-    "title": "Mastodon relationship graphs",
-    "latest": "2023-01-16T18:39:37+00:00",
-    "first": "2023-01-16T18:39:37+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@judell/109700341929384019",
-      "content": "<p>\"We\u2019ve seen how SQL can unify access to APIs. Now it can also help us see relationships among the data we extract from those APIs.\"</p><p><a href=\"https://blog.jonudell.net/2023/01/16/mastodon-relationship-graphs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.jonudell.net/2023/01/16/m</span><span class=\"invisible\">astodon-relationship-graphs/</span></a></p><p><a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://mastodon.social/tags/steampipe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>steampipe</span></a> <a href=\"https://mastodon.social/tags/sql\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sql</span></a> <a href=\"https://mastodon.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://mastodon.social/tags/relationships\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>relationships</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@judell",
-        "display_name": "Jon Udell"
-      }
-    ]
-  },
-  {
-    "link": "http://www.eecs.harvard.edu/~kgajos/papers/2020/arnold20predictcive.shtml",
-    "title": "Predictive Text Encourages Predictable Writing",
-    "latest": "2023-01-16T18:36:51+00:00",
-    "first": "2023-01-16T18:36:51+00:00",
-    "last_post": {
-      "url": "https://hci.social/@kgajos/109700218611774224",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@elipariser\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elipariser</span></a></span> <span class=\"h-card\"><a href=\"https://social.coop/@natematias\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>natematias</span></a></span> And more broadly, *any* predictive text system impacts the content of what people write. Smart keyboards and text prediction systems are not just tools for improving the efficiency of text entry. They inevitably alter the content of what people write.</p><p><a href=\"http://www.eecs.harvard.edu/~kgajos/papers/2020/arnold20predictcive.shtml\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">eecs.harvard.edu/~kgajos/paper</span><span class=\"invisible\">s/2020/arnold20predictcive.shtml</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@elipariser",
-        "display_name": "Eli Pariser"
-      }
-    ]
-  },
-  {
-    "link": "https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence",
-    "title": "The Exploited Labor Behind Artificial Intelligence | NOEMA",
-    "latest": "2023-01-16T18:36:47+00:00",
-    "first": "2023-01-16T17:10:38+00:00",
-    "last_post": {
-      "url": "https://dair-community.social/@RuthStarkman/109699981571206315",
-      "content": "<p>Students loving this great article by <span class=\"h-card\"><a href=\"https://dair-community.social/@adrienneandgp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>adrienneandgp</span></a></span> <span class=\"h-card\"><a href=\"https://dair-community.social/@milamiceli\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>milamiceli</span></a></span>  <span class=\"h-card\"><a href=\"https://dair-community.social/@timnitGebru\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>timnitGebru</span></a></span>   \u201cData labeling jobs are often performed far from the Silicon Valley headquarters of \u201cAI first\u201d multinational corporations\" <a href=\"https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">noemamag.com/the-exploited-lab</span><span class=\"invisible\">or-behind-artificial-intelligence</span></a> via @NoemaMag</p>"
-    },
-    "people": [
-      {
-        "url": "https://dair-community.social/@emilymbender",
-        "display_name": "Emily M. Bender (she/her)"
-      },
-      {
-        "url": "https://vis.social/@amelia",
-        "display_name": "Amelia McNamara"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-023-00023-2",
-    "title": "The reproducibility issues that haunt health-care AI",
-    "latest": "2023-01-16T18:35:15+00:00",
-    "first": "2023-01-16T19:51:38+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@garymarcus/109669054202705890",
-      "content": "<p>Yet another AI reproducibility / reliability / generalizability crisis, this time in medicine</p><p><a href=\"https://www.nature.com/articles/d41586-023-00023-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00023-2</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@natematias",
-        "display_name": "J. Nathan Matias \ud83e\udda3"
-      },
-      {
-        "url": "https://mastodon.gamedev.place/@doppioslash",
-        "display_name": "Claudia Doppioslash/ShaderCat"
-      }
-    ]
-  },
-  {
-    "link": "https://blog.cjdb.xyz/applied-modern-cxx-01.html",
-    "title": "Applied Modern C++",
-    "latest": "2023-01-16T18:34:45+00:00",
-    "first": "2023-01-16T18:34:45+00:00",
-    "last_post": {
-      "url": "https://mastodon.art/@sybren/109697833982953270",
-      "content": "<p>Want to be a <a href=\"https://mastodon.art/tags/Blender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Blender</span></a> <a href=\"https://mastodon.art/tags/developer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>developer</span></a> and learn C++? 'Applied Modern C++' is a how-to-C++ book in blog form. Seems like a nice resource!</p><p>Chapters will be released on a semiregular basis.</p><p><a href=\"https://blog.cjdb.xyz/applied-modern-cxx-01.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.cjdb.xyz/applied-modern-c</span><span class=\"invisible\">xx-01.html</span></a></p><p><a href=\"https://mastodon.art/tags/cpp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cpp</span></a> <a href=\"https://mastodon.art/tags/cplusplus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cplusplus</span></a> <a href=\"https://mastodon.art/tags/b3d\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>b3d</span></a> <a href=\"https://mastodon.art/tags/development\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>development</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@doppioslash",
-        "display_name": "Claudia Doppioslash/ShaderCat"
-      }
-    ]
-  },
-  {
-    "link": "https://mlu-explain.github.io/reinforcement-learning/",
-    "title": "Reinforcement Learning",
-    "latest": "2023-01-16T18:22:54+00:00",
-    "first": "2023-01-16T18:22:54+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@ramikrispin/109700276189712856",
-      "content": "<p>I love the work of MLU-Explain - part of Amazon Machine Learning University, and their brilliant usage of data visualization to explain data science concepts \u2764\ufe0f. Last week they released a new article explaining Reinforcement Learning \ud83d\udc47\ud83c\udffc<br><a href=\"https://mlu-explain.github.io/reinforcement-learning/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mlu-explain.github.io/reinforc</span><span class=\"invisible\">ement-learning/</span></a></p><p>I highly recommend checking other articles available on the MLU-Explain:<br><a href=\"https://mlu-explain.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mlu-explain.github.io/</span><span class=\"invisible\"></span></a></p><p>Great work Jared Wilber, Erin Bugbee, and Anand Kamat! \ud83d\ude4f\ud83c\udffc</p><p><a href=\"https://mstdn.social/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://mstdn.social/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a> <a href=\"https://mstdn.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://mstdn.social/tags/infographic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>infographic</span></a> <a href=\"https://mstdn.social/tags/reinforcementlearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reinforcementlearning</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@ramikrispin",
-        "display_name": "Rami Krispin :unverified:"
-      }
-    ]
-  },
-  {
-    "link": "https://mlu-explain.github.io/",
-    "title": "https://mlu-explain.github.io/",
-    "latest": "2023-01-16T18:22:54+00:00",
-    "first": "2023-01-16T18:22:54+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@ramikrispin/109700276189712856",
-      "content": "<p>I love the work of MLU-Explain - part of Amazon Machine Learning University, and their brilliant usage of data visualization to explain data science concepts \u2764\ufe0f. Last week they released a new article explaining Reinforcement Learning \ud83d\udc47\ud83c\udffc<br><a href=\"https://mlu-explain.github.io/reinforcement-learning/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mlu-explain.github.io/reinforc</span><span class=\"invisible\">ement-learning/</span></a></p><p>I highly recommend checking other articles available on the MLU-Explain:<br><a href=\"https://mlu-explain.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mlu-explain.github.io/</span><span class=\"invisible\"></span></a></p><p>Great work Jared Wilber, Erin Bugbee, and Anand Kamat! \ud83d\ude4f\ud83c\udffc</p><p><a href=\"https://mstdn.social/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://mstdn.social/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a> <a href=\"https://mstdn.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://mstdn.social/tags/infographic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>infographic</span></a> <a href=\"https://mstdn.social/tags/reinforcementlearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reinforcementlearning</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@ramikrispin",
-        "display_name": "Rami Krispin :unverified:"
-      }
-    ]
-  },
-  {
-    "link": "https://visakanv.substack.com/",
-    "title": "https://visakanv.substack.com",
-    "latest": "2023-01-16T18:22:12+00:00",
-    "first": "2023-01-16T18:22:12+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@visakanv/109700273425405941",
-      "content": "<p>periodic check in toot</p><p>mainly focused on my substack rn: <a href=\"https://visakanv.substack.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">visakanv.substack.com</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@visakanv",
-        "display_name": "visakanv"
-      }
-    ]
-  },
-  {
-    "link": "https://www.politico.eu/article/greta-thunberg-removed-by-german-police-from-lutzerath-protest-site/",
-    "title": "Greta Thunberg removed by German police from coal mine protest site",
-    "latest": "2023-01-16T18:21:41+00:00",
-    "first": "2023-01-16T18:21:41+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@hausfath/109700271429934168",
-      "content": "<p>Come on Germany, this is not how a self-described \"climate leader\" should behave. There is no excuse for rich countries to be digging more coal mines... \ud83d\ude44 <a href=\"https://www.politico.eu/article/greta-thunberg-removed-by-german-police-from-lutzerath-protest-site/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">politico.eu/article/greta-thun</span><span class=\"invisible\">berg-removed-by-german-police-from-lutzerath-protest-site/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@hausfath",
-        "display_name": "Zeke Hausfather"
-      }
-    ]
-  },
-  {
-    "link": "https://www.npr.org/sections/goatsandsoda/2022/12/22/1139781319/can-dogs-smell-time-just-ask-donut-the-dog",
-    "title": "Can dogs smell time? Just ask Donut the dog",
-    "latest": "2023-01-16T18:20:06+00:00",
-    "last_post": {
-      "url": "https://toot.cafe/@baldur/109700220169416782",
-      "content": "<p>\u201cCan dogs smell time?\u201d <a href=\"https://www.npr.org/sections/goatsandsoda/2022/12/22/1139781319/can-dogs-smell-time-just-ask-donut-the-dog\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">npr.org/sections/goatsandsoda/</span><span class=\"invisible\">2022/12/22/1139781319/can-dogs-smell-time-just-ask-donut-the-dog</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://assemblag.es/@CyberneticForests",
-        "display_name": "Eryk Salvaggio"
-      },
-      {
-        "url": "https://chaos.social/@lukasfx",
-        "display_name": "Lukas Fuchsgruber"
-      }
-    ],
-    "first": "2022-12-28T14:40:18+00:00"
-  },
-  {
-    "link": "https://buff.ly/3GNxlc5",
-    "title": "https://buff.ly/3GNxlc5",
-    "latest": "2023-01-16T18:15:55+00:00",
-    "first": "2023-01-16T18:15:55+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@AllisonPugh/109700248689217647",
-      "content": "<p>This reads like a postcard from the future </p><p>Scottsdale cuts off Rio Verde Foothills water supply amid drought - The Washington Post <a href=\"https://buff.ly/3GNxlc5\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buff.ly/3GNxlc5</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@AllisonPugh",
-        "display_name": "Allison Pugh"
-      }
-    ]
-  },
-  {
-    "link": "https://bit.ly/3vTz9en",
-    "title": "https://bit.ly/3vTz9en",
-    "latest": "2023-01-16T18:07:11+00:00",
-    "first": "2023-01-16T18:07:11+00:00",
-    "last_post": {
-      "url": "https://mastodon.world/@CEE/109671116351850796",
-      "content": "<p>Looking for a <a href=\"https://mastodon.world/tags/Masters\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Masters</span></a> programme to set you up for a career in <a href=\"https://mastodon.world/tags/Energy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Energy</span></a> policy, industry or research?</p><p>Check out our MSc in Energy Ethics!</p><p>Taught by experts from the Centre for Energy Ethics at the top-ranked University of St Andrews, this one-year course emphasises the development of skills that open up new and diverse career trajectories in the field of energy. </p><p>Flexible part-time options for study. Scholarships available. </p><p><a href=\"https://mastodon.world/tags/EnergyEthicsMSc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EnergyEthicsMSc</span></a></p><p>Apply now: <a href=\"https://bit.ly/3vTz9en\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3vTz9en</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@fgusmao",
-        "display_name": "Prof Felipe Gusmao"
-      }
-    ]
-  },
-  {
-    "link": "https://bit.ly/3WiV7SK",
-    "title": "https://bit.ly/3WiV7SK",
-    "latest": "2023-01-16T18:06:48+00:00",
-    "first": "2023-01-16T18:06:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.world/@CEE/109699361198583882",
-      "content": "<p>Energy Ethics 2023: Financing the Future<br>6 - 8 June 2023<br>Registration Open Now!</p><p>We are excited to announce that registrations to attend EE2023 virtually or in-person are now open.</p><p>In addition to a full 3-day programme of exciting panels and papers, we are proud to present a range of additional programming including the conference dinner, ceilidh, Pibroch, Song of the Ice, and local tours.</p><p>Register here: <a href=\"https://bit.ly/3WiV7SK\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3WiV7SK</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@fgusmao",
-        "display_name": "Prof Felipe Gusmao"
-      }
-    ]
-  },
-  {
-    "link": "https://elk.vmst.io/",
-    "title": "https://elk.vmst.io",
-    "latest": "2023-01-16T18:04:27+00:00",
-    "first": "2023-01-16T18:04:27+00:00",
-    "last_post": {
-      "url": "https://vmst.io/@vmstan/109699942946848118",
-      "content": "<p>About 5% of active vmst.io members are financial contributors. We are well into the black month to month with this amount, but we can do more.</p><p>Servers ain\u2019t cheap.</p><p>Signing up for just $2/month would help guarantee our core service offerings can be supplemented by things like <a href=\"https://elk.vmst.io\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">elk.vmst.io</span><span class=\"invisible\"></span></a>.</p><p>We could offer other fediverse technologies like Matrix messaging or long form blogging with WriteFreely, integrated with your vmst.io account.</p><p><a href=\"https://docs.vmst.io/funding\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">docs.vmst.io/funding</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      }
-    ]
-  },
-  {
-    "link": "https://docs.vmst.io/funding",
-    "title": "https://docs.vmst.io/funding",
-    "latest": "2023-01-16T18:04:27+00:00",
-    "first": "2023-01-16T18:04:27+00:00",
-    "last_post": {
-      "url": "https://vmst.io/@vmstan/109699942946848118",
-      "content": "<p>About 5% of active vmst.io members are financial contributors. We are well into the black month to month with this amount, but we can do more.</p><p>Servers ain\u2019t cheap.</p><p>Signing up for just $2/month would help guarantee our core service offerings can be supplemented by things like <a href=\"https://elk.vmst.io\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">elk.vmst.io</span><span class=\"invisible\"></span></a>.</p><p>We could offer other fediverse technologies like Matrix messaging or long form blogging with WriteFreely, integrated with your vmst.io account.</p><p><a href=\"https://docs.vmst.io/funding\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">docs.vmst.io/funding</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      }
-    ]
-  },
-  {
-    "link": "https://read.dukeupress.edu/books/book/2413/Bodyminds-Reimagined-Dis-ability-Race-and-Gender",
-    "title": "Bodyminds Reimagined: (Dis)ability, Race, and Gender in Black Women's Speculative Fiction",
-    "latest": "2023-01-16T17:58:07+00:00",
-    "first": "2023-01-16T17:58:07+00:00",
-    "last_post": {
-      "url": "https://ourislandgeorgia.net/@Wolven/109700167287695589",
-      "content": "<p>Holy crap, i just learned some important amazing news: Dr. Sami Schalk's book 'Bodyminds Reimagined: (Dis)ability, Race, and Gender in Black Women's Speculative Fiction' is now free and open access, FOREVER.</p><p>As someone whose been trying to build my syllabi so my students have all open access everything so they don't need to buy books because college is already expensive enough, this kind of accessibility from such a great author with a major academic press is truly amazing.</p><p>If you're teaching ANYTHING on ANY intersections of race, disability, gender, technology, popular culture, or social imagination\u2014 Hell, if you're just INTERESTED in those things\u2014 then Go Put This Book On Your Reading List. Like RIGHT now.<br><a href=\"https://read.dukeupress.edu/books/book/2413/Bodyminds-Reimagined-Dis-ability-Race-and-Gender\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">read.dukeupress.edu/books/book</span><span class=\"invisible\">/2413/Bodyminds-Reimagined-Dis-ability-Race-and-Gender</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      }
-    ]
-  },
-  {
-    "link": "https://www.medischcontact.nl/nieuws/laatste-nieuws/nieuwsartikel/baanbrekend-onderzoek-bestaat-dat-nog.htm",
-    "title": "Baanbrekend onderzoek: bestaat dat nog?",
-    "latest": "2023-01-16T17:56:22+00:00",
-    "first": "2023-01-16T17:56:22+00:00",
-    "last_post": {
-      "url": "https://social.cwts.nl/@LudoWaltman/109700171870457141",
-      "content": "<p>Baanbrekend onderzoek: bestaat dat nog? <a href=\"https://www.medischcontact.nl/nieuws/laatste-nieuws/nieuwsartikel/baanbrekend-onderzoek-bestaat-dat-nog.htm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">medischcontact.nl/nieuws/laats</span><span class=\"invisible\">te-nieuws/nieuwsartikel/baanbrekend-onderzoek-bestaat-dat-nog.htm</span></a></p><p>Mijn commentaar in Medisch Contact op het artikel 'Papers and patents are becoming less disruptive over time' van Michael Park en collega's <a href=\"https://doi.org/10.1038/s41586-022-05543-x\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1038/s41586-022-055</span><span class=\"invisible\">43-x</span></a>.</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.cwts.nl/@LudoWaltman",
-        "display_name": "Ludo Waltman"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1038/s41586-022-05543-x",
-    "title": "doi.org/10.1038/s41586-022-055...",
-    "latest": "2023-01-16T17:56:22+00:00",
-    "first": "2023-01-16T17:56:22+00:00",
-    "last_post": {
-      "url": "https://social.cwts.nl/@LudoWaltman/109700171870457141",
-      "content": "<p>Baanbrekend onderzoek: bestaat dat nog? <a href=\"https://www.medischcontact.nl/nieuws/laatste-nieuws/nieuwsartikel/baanbrekend-onderzoek-bestaat-dat-nog.htm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">medischcontact.nl/nieuws/laats</span><span class=\"invisible\">te-nieuws/nieuwsartikel/baanbrekend-onderzoek-bestaat-dat-nog.htm</span></a></p><p>Mijn commentaar in Medisch Contact op het artikel 'Papers and patents are becoming less disruptive over time' van Michael Park en collega's <a href=\"https://doi.org/10.1038/s41586-022-05543-x\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1038/s41586-022-055</span><span class=\"invisible\">43-x</span></a>.</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.cwts.nl/@LudoWaltman",
-        "display_name": "Ludo Waltman"
-      }
-    ]
-  },
-  {
-    "link": "https://tinyurl.com/yckyf6v3",
-    "title": "https://tinyurl.com/yckyf6v3",
-    "latest": "2023-01-16T17:53:39+00:00",
-    "first": "2023-01-16T17:53:39+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@kidehen/109700161178252264",
-      "content": "<p>When watching <a href=\"https://mastodon.social/tags/NFL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NFL</span></a> games I always ponder about those Nigerian names that I see on the back of player jerseys. Naturally, it got me wondering about the number of current NFL players that are of Nigerian descent.</p><p><a href=\"https://mastodon.social/tags/SPARQL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SPARQL</span></a> Query Results Page:<br><a href=\"https://tinyurl.com/yckyf6v3\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/yckyf6v3</span><span class=\"invisible\"></span></a></p><p>SPARQL Query Editor Page.</p><p><a href=\"https://tinyurl.com/yc65vycy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/yc65vycy</span><span class=\"invisible\"></span></a></p><p>Courtesy of <span class=\"h-card\"><a href=\"https://mastodon.social/@datasniff\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>datasniff</span></a></span>, I can go directly from query results page to query definition page. </p><p><a href=\"https://mastodon.social/tags/DBpedia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DBpedia</span></a> <a href=\"https://mastodon.social/tags/Wikiddata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wikiddata</span></a> <a href=\"https://mastodon.social/tags/LinkedData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinkedData</span></a> <a href=\"https://mastodon.social/tags/SemanticWeb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SemanticWeb</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      }
-    ]
-  },
-  {
-    "link": "https://tinyurl.com/yc65vycy",
-    "title": "https://tinyurl.com/yc65vycy",
-    "latest": "2023-01-16T17:53:39+00:00",
-    "first": "2023-01-16T17:53:39+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@kidehen/109700161178252264",
-      "content": "<p>When watching <a href=\"https://mastodon.social/tags/NFL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NFL</span></a> games I always ponder about those Nigerian names that I see on the back of player jerseys. Naturally, it got me wondering about the number of current NFL players that are of Nigerian descent.</p><p><a href=\"https://mastodon.social/tags/SPARQL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SPARQL</span></a> Query Results Page:<br><a href=\"https://tinyurl.com/yckyf6v3\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/yckyf6v3</span><span class=\"invisible\"></span></a></p><p>SPARQL Query Editor Page.</p><p><a href=\"https://tinyurl.com/yc65vycy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/yc65vycy</span><span class=\"invisible\"></span></a></p><p>Courtesy of <span class=\"h-card\"><a href=\"https://mastodon.social/@datasniff\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>datasniff</span></a></span>, I can go directly from query results page to query definition page. </p><p><a href=\"https://mastodon.social/tags/DBpedia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DBpedia</span></a> <a href=\"https://mastodon.social/tags/Wikiddata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wikiddata</span></a> <a href=\"https://mastodon.social/tags/LinkedData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinkedData</span></a> <a href=\"https://mastodon.social/tags/SemanticWeb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SemanticWeb</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      }
-    ]
-  },
-  {
-    "link": "https://www.bls.gov/lau/stalt.htm",
-    "title": "Alternative Measures of Labor Underutilization for States :  U.S. Bureau of Labor Statistics",
-    "latest": "2023-01-16T17:52:30+00:00",
-    "first": "2023-01-16T17:52:30+00:00",
-    "last_post": {
-      "url": "https://vis.social/@benmschmidt/109700156685812663",
-      "content": "<p><span class=\"h-card\"><a href=\"https://hcommons.social/@scott_bot\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>scott_bot</span></a></span> <span class=\"h-card\"><a href=\"https://fediscience.org/@ct_bergstrom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ct_bergstrom</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@asociologist\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>asociologist</span></a></span> Did they create statistical measures... I struggle to think of any wholly new metrics in the 1890-1910 censuses that weren't in the 1870 or 1880 ones. Another thing in this category of one heuristic coming to dominate despite might be the way U3 became the 'unemployment rate' or the role of the Dow Jones average. <a href=\"https://www.bls.gov/lau/stalt.htm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bls.gov/lau/stalt.htm</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@benmschmidt",
-        "display_name": "Ben Schmidt"
-      }
-    ]
-  },
-  {
-    "link": "https://ctlj.colorado.edu/wp-content/uploads/2018/09/4-Shostack-8.7.18-FINAL.pdf",
-    "title": "ctlj.colorado.edu/wp-content/u...",
-    "latest": "2023-01-16T17:52:24+00:00",
-    "first": "2023-01-16T17:52:24+00:00",
-    "last_post": {
-      "url": "https://mastodon.lawprofs.org/@SteveBellovin/109699926864234913",
-      "content": "<p><span class=\"h-card\"><a href=\"https://infosec.exchange/@TindrasGrove\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>TindrasGrove</span></a></span> <span class=\"h-card\"><a href=\"https://infosec.exchange/@thegrugq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>thegrugq</span></a></span> For a detailed look at the (U.S.) legal and policy aspects of such a thing, see <a href=\"https://ctlj.colorado.edu/wp-content/uploads/2018/09/4-Shostack-8.7.18-FINAL.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ctlj.colorado.edu/wp-content/u</span><span class=\"invisible\">ploads/2018/09/4-Shostack-8.7.18-FINAL.pdf</span></a>, by myself, <span class=\"h-card\"><a href=\"https://infosec.exchange/@adamshostack\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>adamshostack</span></a></span>, <span class=\"h-card\"><a href=\"https://mastodon.lawprofs.org/@blakereid\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>blakereid</span></a></span>, Jonathan Bair, and Andrew Manley.</p>"
-    },
-    "people": [
-      {
-        "url": "https://infosec.exchange/@thegrugq",
-        "display_name": "the grugq"
-      }
-    ]
-  },
-  {
-    "link": "https://uebermedien.de/80788/im-dschungelcamp-geraet-die-scheisse-ausser-kontrolle/",
-    "title": "Im Dschungelcamp ger\u00e4t die Schei\u00dfe au\u00dfer Kontrolle | \u00dcbermedien",
-    "latest": "2023-01-16T17:51:26+00:00",
-    "first": "2023-01-16T17:51:26+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@niggi/109700152427057243",
-      "content": "<p>Ich hab \u00fcber diese Schei\u00dfe bei <a href=\"https://mastodon.social/tags/IBES\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IBES</span></a> geschrieben.</p><p>(Okay, im Ernst: Ich fand es faszinierend, wie sich RTL gestern pl\u00f6tzlich beim Filmen filmte.)  </p><p><a href=\"https://uebermedien.de/80788/im-dschungelcamp-geraet-die-scheisse-ausser-kontrolle/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">uebermedien.de/80788/im-dschun</span><span class=\"invisible\">gelcamp-geraet-die-scheisse-ausser-kontrolle/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@niggi",
-        "display_name": "Stefan Niggemeier"
-      }
-    ]
-  },
-  {
-    "link": "https://adactio.com/journal/19831",
-    "title": "Mars distracts",
-    "latest": "2023-01-16T17:50:29+00:00",
-    "first": "2023-01-16T17:50:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@adactio/109700148727144565",
-      "content": "<p>Mars distracts</p><p>\ud83d\udd17 <a href=\"https://adactio.com/journal/19831\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">adactio.com/journal/19831</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@adactio",
-        "display_name": "Jeremy Keith"
-      }
-    ]
-  },
-  {
-    "link": "https://ias.edu/pcmi/pcmi-2023-research-program",
-    "title": "ias.edu/pcmi/pcmi-2023-researc...",
-    "latest": "2023-01-16T17:43:15+00:00",
-    "first": "2023-01-16T17:43:15+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@BooleanAnalysis/109699834221501840",
-      "content": "<p>Quantum faculty/researchers: </p><p>Want to spend a week this summer at the QC workshop below, org'd by PCMI w/ David Gosset, Aram Harrow, Stacey Jeffery, &amp; Thomas Vidick? </p><p>Apply within the next 2 weeks: <a href=\"https://ias.edu/pcmi/pcmi-2023-research-program\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ias.edu/pcmi/pcmi-2023-researc</span><span class=\"invisible\">h-program</span></a></p><p>\u2203 lodging/meal support and spouse/family options.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@MarisOzols",
-        "display_name": "M\u0101ris Ozols"
-      }
-    ]
-  },
-  {
-    "link": "https://www.washingtonpost.com/lifestyle/2022/10/17/jess-wade-scientist-wikiepdia-women/",
-    "title": "She\u2019s made 1,750 Wikipedia bios for female scientists who haven\u2019t gotten their due",
-    "latest": "2023-01-16T17:42:38+00:00",
-    "first": "2023-01-15T03:05:27+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@carrieann9000/109690945127018384",
-      "content": "<p>She\u2019s made 1,750 Wikipedia bios for female scientists who haven\u2019t gotten their due<br><a href=\"https://www.washingtonpost.com/lifestyle/2022/10/17/jess-wade-scientist-wikiepdia-women/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/lifestyle/2</span><span class=\"invisible\">022/10/17/jess-wade-scientist-wikiepdia-women/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://saturation.social/@clive",
-        "display_name": "Clive Thompson"
-      },
-      {
-        "url": "https://mastodon.social/@danbri",
-        "display_name": "danbri"
-      }
-    ]
-  },
-  {
-    "link": "https://www.techspot.com/news/97242-someone-invented-voice-muting-vr-microphone-you-strap.html",
-    "title": "This $200 VR muzzle lets you strap a second bulky device to your head",
-    "latest": "2023-01-16T17:42:28+00:00",
-    "first": "2023-01-16T17:42:28+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@danbri/109700117177949345",
-      "content": "<p>Welcome To The Office Of The Futureeeee....<br> <a href=\"https://www.techspot.com/news/97242-someone-invented-voice-muting-vr-microphone-you-strap.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">techspot.com/news/97242-someon</span><span class=\"invisible\">e-invented-voice-muting-vr-microphone-you-strap.html</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@danbri",
-        "display_name": "danbri"
-      }
-    ]
   }
 ]
