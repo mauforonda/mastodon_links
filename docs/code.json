@@ -1,5 +1,85 @@
 [
   {
+    "link": "https://codeberg.org/snowka/mastodon_bot",
+    "title": "codeberg.org/snowka/mastodon_b...",
+    "latest": "2023-01-17T17:58:06+00:00",
+    "first": "2023-01-17T17:58:06+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@snowka/109705840986206462",
+      "content": "<p>Are you a fan of <a href=\"https://scholar.social/tags/18thcentury\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>18thcentury</span></a> English literature? Enjoy literary snark? Then follow my Charles Gildon Snarkbot (<span class=\"h-card\"><a href=\"https://botsin.space/@gildon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gildon</span></a></span>) to hear what this lesser-known writer and critic had to say about Aphra Behn, Alexander Pope, Daniel Defoe, and Delia Manley. (And what they had to say about him.)<br>This was an experiment to see if I could code a bot in Python related to my <a href=\"https://scholar.social/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> project on Gildon (<a href=\"http://di.salemstate.edu/snowka/index.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">di.salemstate.edu/snowka/index</span><span class=\"invisible\">.html</span></a>). Want to make your own bot? See the code here: <a href=\"https://codeberg.org/snowka/mastodon_bot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/snowka/mastodon_b</span><span class=\"invisible\">ot</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://scholar.social/@snowka",
+        "display_name": "snowka"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/pull/22330",
+    "title": "Add `tootctl accounts migrate` by ClearlyClaire \u00b7 Pull Request #22330 \u00b7 mastodon/mastodon",
+    "latest": "2023-01-17T17:02:43+00:00",
+    "first": "2023-01-17T17:02:43+00:00",
+    "last_post": {
+      "url": "https://social.jvns.ca/@b0rk/109705623188588123",
+      "content": "<p>I think (thanks to a mastodon instance admin for looking at their logs!) that what happened is that my instance got slow, so some of the HTTP requests to my server timed out and failed. I think 3 possible fixes are:</p><p>1. wait 30 days &amp; rerun the migration myself<br>2. ask my old instance to retry the migration, once it's running a release with this code <a href=\"https://github.com/mastodon/mastodon/pull/22330\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/22330</span></a><br>3. instance admins can maybe manually retry failed jobs (seems like a lot to ask though)</p><p>h/t <span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nova</span></a></span> for her work on this</p>"
+    },
+    "people": [
+      {
+        "url": "https://social.jvns.ca/@b0rk",
+        "display_name": "Julia Evans"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/BuzzFeedNews/nics-firearm-background-checks",
+    "title": "GitHub - BuzzFeedNews/nics-firearm-background-checks: Monthly data from the FBI's National Instant Criminal Background Check System, converted from PDF to CSV.",
+    "latest": "2023-01-17T16:22:05+00:00",
+    "first": "2023-01-17T16:22:05+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@DarrinLRogers/109705463458757190",
+      "content": "<p>This was interesting. FBI NCIS data from 1998 to 2022. These are considered (I guess) good proxy data for total gun sales. I plotted just handgun estimated sales nationwide over that time span.</p><p>Noting things:<br>1. (Average) dip over Trump presidency<br>2. Strong increase in 2020 (pandemic?), continuing through 1/6/21 insurrection</p><p>Data source: <a href=\"https://github.com/BuzzFeedNews/nics-firearm-background-checks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BuzzFeedNews/nics-f</span><span class=\"invisible\">irearm-background-checks</span></a></p><p><a href=\"https://fediscience.org/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://fediscience.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fediscience.org/tags/guns\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>guns</span></a> <a href=\"https://fediscience.org/tags/usa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>usa</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@DarrinLRogers",
+        "display_name": "Darrin L Rogers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/KittJonathan/tidytuesday/blob/master/R/2023_03_art_history.R",
+    "title": "tidytuesday/2023_03_art_history.R at master \u00b7 KittJonathan/tidytuesday",
+    "latest": "2023-01-17T15:38:45+00:00",
+    "first": "2023-01-17T15:38:45+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@jonathankitt/109705293044237752",
+      "content": "<p>Week 3 of the 2023 <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> challenge. 10 artists have made it into all 16 editions of Gardner's Art Through the Ages. How much space is devoted to those artists in each edition ?</p><p>Code : <a href=\"https://github.com/KittJonathan/tidytuesday/blob/master/R/2023_03_art_history.R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/KittJonathan/tidytu</span><span class=\"invisible\">esday/blob/master/R/2023_03_art_history.R</span></a></p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>data</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fosstodon.org/tags/art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>art</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@jonathankitt",
+        "display_name": "Jonathan Kitt :rstats:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/elk-zone/elk-native/releases/tag/v0.1.0",
+    "title": "Release v0.1.0 \u00b7 elk-zone/elk-native",
+    "latest": "2023-01-17T15:36:12+00:00",
+    "first": "2023-01-17T15:36:12+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@appelgriebsch/109705267781332750",
+      "content": "<p>Just installed v.0.1.0 of elk-native from&nbsp;<span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span>&nbsp;\u2026. build on <span class=\"h-card\"><a href=\"https://fosstodon.org/@TauriApps\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>TauriApps</span></a></span>&nbsp;its really light and fast. Love it\u2026&nbsp;<a href=\"https://github.com/elk-zone/elk-native/releases/tag/v0.1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk-native</span><span class=\"invisible\">/releases/tag/v0.1.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/emory-qtm/2023-quant-lit/blob/main/docs/schedule.md",
     "title": "2023-quant-lit/schedule.md at main \u00b7 emory-qtm/2023-quant-lit",
     "latest": "2023-01-17T14:30:09+00:00",
@@ -3298,97 +3378,5 @@
       }
     ],
     "first": "2023-01-06T16:46:47.992000+00:00"
-  },
-  {
-    "link": "https://github.com/mauforonda/mastodon_email_digest",
-    "title": "github.com/mauforonda/mastodon...",
-    "latest": "2023-01-08T09:56:42+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@LeonDLotter/109652987258533188",
-      "content": "<p>Furthermore, in my first post, many very cool projects were mentioned, aiming to bring \"algorithm-curation\" to <a href=\"https://neuromatch.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a>. Here are some links!</p><p>A discussion on algorithmic feeds for Mastodon: <a href=\"https://talkpython.fm/episodes/show/390/mastodon-for-python-devs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">talkpython.fm/episodes/show/39</span><span class=\"invisible\">0/mastodon-for-python-devs</span></a> <span class=\"h-card\"><a href=\"https://ecoevo.social/@ryneches\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ryneches</span></a></span> </p><p>An <a href=\"https://neuromatch.social/tags/algorithm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>algorithm</span></a> project on Github: <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a> <span class=\"h-card\"><a href=\"https://ruhr.social/@x1l3f\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>x1l3f</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@MattHodges\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MattHodges</span></a></span> </p><p>Cool projects by <span class=\"h-card\"><a href=\"https://hachyderm.io/@mauforonda\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mauforonda</span></a></span>: <a href=\"https://mauforonda.github.io/mastodon_digest/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mauforonda.github.io/mastodon_</span><span class=\"invisible\">digest/</span></a> <a href=\"https://github.com/mauforonda/mastodon_email_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_email_digest</span></a></p><p><span class=\"h-card\"><a href=\"https://esq.social/@icymi_law\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>icymi_law</span></a></span>, a bot that acts as an algorithm, maintained by <span class=\"h-card\"><a href=\"https://mastodon.social/@Colarusso\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Colarusso</span></a></span></p><p>And finally, a working app that creates a curated version of your timeline: <a href=\"https://fediview.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com/</span><span class=\"invisible\"></span></a> <span class=\"h-card\"><a href=\"https://home.social/@Sho_Ishiguro\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Sho_Ishiguro</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      },
-      {
-        "url": "https://hachyderm.io/@mnl",
-        "display_name": "mnml mnl (he/him)"
-      },
-      {
-        "url": "https://neuromatch.social/@LeonDLotter",
-        "display_name": "Leon Lotter"
-      }
-    ],
-    "first": "2023-01-06T16:46:47.992000+00:00"
-  },
-  {
-    "link": "https://github.com/ocornut/imgui",
-    "title": "Software using dear imgui \u00b7 ocornut/imgui Wiki",
-    "latest": "2023-01-08T07:58:45+00:00",
-    "first": "2023-01-07T20:12:09.311000+00:00",
-    "last_post": {
-      "url": "https://mastodon.gamedev.place/@grumpygamer/109649551292289759",
-      "content": "<p>Although Return to Monkey Island didn't ship with Dear ImGui, we used it extensively during development. Without a doubt the single greatest debug tool/lib I have used. </p><p>/cc <span class=\"h-card\"><a href=\"https://mastodon.gamedev.place/@ocornut\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ocornut</span></a></span> </p><p><a href=\"https://github.com/ocornut/imgui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ocornut/imgui</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@mnl",
-        "display_name": "mnml mnl (he/him)"
-      },
-      {
-        "url": "https://mastodon.gamedev.place/@aras",
-        "display_name": "Aras Pranckevi\u010dius"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/m-clare/pmDemo",
-    "title": "GitHub - m-clare/pmDemo: Small demo of Protomaps in a React component",
-    "latest": "2023-01-08T03:54:22+00:00",
-    "first": "2023-01-08T03:54:22+00:00",
-    "last_post": {
-      "url": "https://recurse.social/@mclare/109651562528147409",
-      "content": "<p>Needed a self-contained \"small-win\" project for the day, so I worked on getting a small <a href=\"https://recurse.social/tags/react\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>react</span></a> app using <a href=\"https://recurse.social/tags/protomaps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>protomaps</span></a> set up.</p><p><a href=\"https://github.com/m-clare/pmDemo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/m-clare/pmDemo</span><span class=\"invisible\"></span></a></p><p><a href=\"https://recurse.social/tags/maps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>maps</span></a> <a href=\"https://recurse.social/tags/mapstodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mapstodon</span></a> <a href=\"https://recurse.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://recurse.social/@mclare",
-        "display_name": "Maryanne Wachter"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/raphlinus/raphlinus.github.io/blob/11661dc57f8b83510f108924443cffcd3135146d/_posts/2022-12-12-requiem-piet-gpu-hal.md",
-    "title": "raphlinus.github.io/2022-12-12-requiem-piet-gpu-hal.md at 11661dc57f8b83510f108924443cffcd3135146d \u00b7 raphlinus/raphlinus.github.io",
-    "latest": "2023-01-07T20:54:13+00:00",
-    "first": "2023-01-07T20:54:13+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@raph/109649839879614450",
-      "content": "<p>I just posted a first draft of \"Requiem for piet-gpu-hal\": <a href=\"https://github.com/raphlinus/raphlinus.github.io/blob/11661dc57f8b83510f108924443cffcd3135146d/_posts/2022-12-12-requiem-piet-gpu-hal.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/raphlinus/raphlinus</span><span class=\"invisible\">.github.io/blob/11661dc57f8b83510f108924443cffcd3135146d/_posts/2022-12-12-requiem-piet-gpu-hal.md</span></a></p><p>It's about the choice to switch to <a href=\"https://mastodon.online/tags/WebGPU\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WebGPU</span></a> and <a href=\"https://mastodon.online/tags/WGSL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WGSL</span></a>, and will be interesting reading for anyone who cares about portable GPU compute infrastructure. For others, probably less so.</p><p>Comments welcome. I'll probably try to publish it soon, it's been sitting in the queue for a while.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@doppioslash",
-        "display_name": "Claudia Doppioslash/ShaderCat"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/openjournals/joss-reviews/issues/5055#issuecomment-1374536517",
-    "title": "[PRE REVIEW]: MultilayerGraphs.jl: Multilayer Network Science in Julia \u00b7 Issue #5055 \u00b7 openjournals/joss-reviews",
-    "latest": "2023-01-07T20:40:39.683000+00:00",
-    "first": "2023-01-07T20:40:39.683000+00:00",
-    "last_post": {
-      "url": "https://bayes.club/@PietroMonticone/109649856988521672",
-      "content": "<p>Saturday night update. </p><p>\u2022 \"JOSS\": submitted the paper. Here is the issue associated with the open pre-review <a href=\"https://github.com/openjournals/joss-reviews/issues/5055#issuecomment-1374536517\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openjournals/joss-r</span><span class=\"invisible\">eviews/issues/5055#issuecomment-1374536517</span></a>. Ops, it looks like it's a bit too long. Let's see how to synthesise it without ruining it too much...</p><p>\u2022 \"minor_fixes\": merged the PR and registered the new version (1.1.1) of MultilayerGraphs.jl :julia:! <a href=\"https://github.com/JuliaGraphs/MultilayerGraphs.jl/releases/tag/v1.1.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaGraphs/Multila</span><span class=\"invisible\">yerGraphs.jl/releases/tag/v1.1.1</span></a></p><p><a href=\"https://bayes.club/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://bayes.club/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://bayes.club/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://bayes.club/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://bayes.club/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://bayes.club/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://bayes.club/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a></p><p><span class=\"h-card\"><a href=\"https://fosstodon.org/@InPhyT\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>InPhyT</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://a.gup.pe/u/networkscience",
-        "display_name": "networkscience group"
-      }
-    ]
   }
 ]
