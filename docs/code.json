@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/mardix/litedom",
+    "title": "https://github.com/mardix/litedom",
+    "latest": "2023-01-17T03:03:42+00:00",
+    "first": "2023-01-17T03:03:42+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@adamghill/109702324037265660",
+      "content": "<p>I re-wrote the vanilla JS of <a href=\"https://isitwebscale.adamghill.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">isitwebscale.adamghill.com</span><span class=\"invisible\"></span></a> using <a href=\"https://github.com/mardix/litedom\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mardix/litedom</span><span class=\"invisible\"></span></a> and it. is. awesome!</p><p>No build tool needed and it uses regular HTML. litedom is a tiny library and feels very Vue-esque with 2-way binding and element attributes. \ud83d\ude0d</p><p>My only issue is that it doesn't seem to be actively maintained (no commits since 2019). But, for a silly static page that's probably fine.</p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bvaughn/react-resizable-panels/pull/84",
+    "title": "Panels should re-expand to initial size during drag when drag reversed by bvaughn \u00b7 Pull Request #84 \u00b7 bvaughn/react-resizable-panels",
+    "latest": "2023-01-17T03:03:00+00:00",
+    "first": "2023-01-17T03:03:00+00:00",
+    "last_post": {
+      "url": "https://mas.to/@bvaughn/109702321279676480",
+      "content": "<p>\u269b\ufe0f Got the kinks worked out of that spring UX on the flight back to NY today. I think this is a nice UX tweak. Wondering if anyone would complain it if was just always-on (rather than configurable)</p><p>Code is here if anyone would like to see:<br><a href=\"https://github.com/bvaughn/react-resizable-panels/pull/84\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bvaughn/react-resiz</span><span class=\"invisible\">able-panels/pull/84</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@bvaughn",
+        "display_name": "Brian Vaughn"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/jvns/mastodon-threaded-replies",
     "title": "GitHub - jvns/mastodon-threaded-replies",
     "latest": "2023-01-16T23:46:08+00:00",
@@ -3360,38 +3392,6 @@
       {
         "url": "https://neuromatch.social/@jonny",
         "display_name": "Jonny"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/JuliaGraphs/MultilayerGraphs.jl/blob/JOSS/paper/paper.pdf",
-    "title": "MultilayerGraphs.jl/paper.pdf at JOSS \u00b7 JuliaGraphs/MultilayerGraphs.jl",
-    "latest": "2023-01-06T21:34:27.574000+00:00",
-    "first": "2023-01-06T21:34:27.574000+00:00",
-    "last_post": {
-      "url": "https://bayes.club/@PietroMonticone/109644406162433193",
-      "content": "<p>It's Friday night, which means lots of <a href=\"https://bayes.club/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> development at <span class=\"h-card\"><a href=\"https://fosstodon.org/@InPhyT\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>InPhyT</span></a></span>! </p><p>Currently jumping back and forth between the following branches of MultilayerGraphs.jl :julia: : </p><p>\u2022 \"JOSS\": almost finished writing the draft of the paper to be submitted to <a href=\"https://bayes.club/tags/JOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JOSS</span></a> <a href=\"https://github.com/JuliaGraphs/MultilayerGraphs.jl/blob/JOSS/paper/paper.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaGraphs/Multila</span><span class=\"invisible\">yerGraphs.jl/blob/JOSS/paper/paper.pdf</span></a></p><p>\u2022 \"minor_fixes\": its PR will fix a few bugs, extend docs and update README soon <a href=\"https://github.com/JuliaGraphs/MultilayerGraphs.jl/tree/minor_fixes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaGraphs/Multila</span><span class=\"invisible\">yerGraphs.jl/tree/minor_fixes</span></a> </p><p><a href=\"https://bayes.club/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://bayes.club/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://bayes.club/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://bayes.club/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://bayes.club/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://bayes.club/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span> <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://a.gup.pe/u/networkscience",
-        "display_name": "networkscience group"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/JuliaGraphs/MultilayerGraphs.jl/tree/minor_fixes",
-    "title": "github.com/JuliaGraphs/Multila...",
-    "latest": "2023-01-06T21:34:27.574000+00:00",
-    "first": "2023-01-06T21:34:27.574000+00:00",
-    "last_post": {
-      "url": "https://bayes.club/@PietroMonticone/109644406162433193",
-      "content": "<p>It's Friday night, which means lots of <a href=\"https://bayes.club/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> development at <span class=\"h-card\"><a href=\"https://fosstodon.org/@InPhyT\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>InPhyT</span></a></span>! </p><p>Currently jumping back and forth between the following branches of MultilayerGraphs.jl :julia: : </p><p>\u2022 \"JOSS\": almost finished writing the draft of the paper to be submitted to <a href=\"https://bayes.club/tags/JOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JOSS</span></a> <a href=\"https://github.com/JuliaGraphs/MultilayerGraphs.jl/blob/JOSS/paper/paper.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaGraphs/Multila</span><span class=\"invisible\">yerGraphs.jl/blob/JOSS/paper/paper.pdf</span></a></p><p>\u2022 \"minor_fixes\": its PR will fix a few bugs, extend docs and update README soon <a href=\"https://github.com/JuliaGraphs/MultilayerGraphs.jl/tree/minor_fixes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaGraphs/Multila</span><span class=\"invisible\">yerGraphs.jl/tree/minor_fixes</span></a> </p><p><a href=\"https://bayes.club/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://bayes.club/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://bayes.club/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://bayes.club/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://bayes.club/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://bayes.club/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span> <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://a.gup.pe/u/networkscience",
-        "display_name": "networkscience group"
       }
     ]
   }

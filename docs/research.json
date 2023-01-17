@@ -1,24 +1,8 @@
 [
   {
-    "link": "https://arxiv.org/abs/2211.05102",
-    "title": "Efficiently Scaling Transformer Inference",
-    "latest": "2023-01-17T00:45:03+00:00",
-    "first": "2023-01-17T00:45:03+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109701778873783328",
-      "content": "<p>Decoding of PaLM is only ~2x as costly as that of encoding seqs (in terms of per-token TPU-hours). </p><p>Kinda neat autoregressive decoding isn't as inefficient as people think. While latency can be improved further, humans can't read too fast anyways lol</p><p><a href=\"https://arxiv.org/abs/2211.05102\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.05102</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
     "link": "https://www.nature.com/articles/s41562-022-01498-1",
     "title": "Gender inequality and self-publication are common among academic editors - Nature Human Behaviour",
-    "latest": "2023-01-16T23:12:14+00:00",
+    "latest": "2023-01-17T01:53:42+00:00",
     "first": "2023-01-16T19:08:35+00:00",
     "last_post": {
       "url": "https://datasci.social/@pholme/109700324804441523",
@@ -36,6 +20,26 @@
       {
         "url": "https://social.cwts.nl/@vtraag",
         "display_name": "Vincent Traag"
+      },
+      {
+        "url": "https://econtwitter.net/@ckrafftc",
+        "display_name": "Caroline Krafft"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2211.05102",
+    "title": "Efficiently Scaling Transformer Inference",
+    "latest": "2023-01-17T00:45:03+00:00",
+    "first": "2023-01-17T00:45:03+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109701778873783328",
+      "content": "<p>Decoding of PaLM is only ~2x as costly as that of encoding seqs (in terms of per-token TPU-hours). </p><p>Kinda neat autoregressive decoding isn't as inefficient as people think. While latency can be improved further, humans can't read too fast anyways lol</p><p><a href=\"https://arxiv.org/abs/2211.05102\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.05102</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
       }
     ]
   },
