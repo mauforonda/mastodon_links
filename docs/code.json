@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/dginev/ar5iv-css/pull/4",
+    "title": "github.com/dginev/ar5iv-css/pu...",
+    "latest": "2023-01-17T23:17:15+00:00",
+    "first": "2023-01-17T23:17:15+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@dginev/109707095920326884",
+      "content": "<p>Why isn't ar5iv a solved problem yet, edition 873499:</p><p>\"Recognize that some papers have used {quote} for {abstract}\"</p><p><a href=\"https://github.com/dginev/ar5iv-css/pull/4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dginev/ar5iv-css/pu</span><span class=\"invisible\">ll/4</span></a></p><p>At least it was a fun experience in learning how to use the new :has selector. Hope it reaches Firefox soon too!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@dginev",
+        "display_name": "Deyan Ginev"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/bvaughn/react-resizable-panels/blob/main/packages/react-resizable-panels/CHANGELOG.md#0034",
     "title": "react-resizable-panels/CHANGELOG.md at main \u00b7 bvaughn/react-resizable-panels",
     "latest": "2023-01-17T20:32:36+00:00",
@@ -3334,21 +3350,5 @@
       }
     ],
     "first": "2023-01-04T13:36:44+00:00"
-  },
-  {
-    "link": "https://github.com/fluent-vue/fluent-vue",
-    "title": "GitHub - fluent-vue/fluent-vue: Internationalization plugin for Vue.js",
-    "latest": "2023-01-08T11:55:24+00:00",
-    "first": "2023-01-08T11:55:24+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@demivan/109653419270689962",
-      "content": "<p>Finally deleted my Twitter account. So I think it is time for my <a href=\"https://fosstodon.org/tags/introduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>introduction</span></a> here.</p><p>Hi all, I'm Ivan. I'm a full stack <a href=\"https://fosstodon.org/tags/csharp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>csharp</span></a> <a href=\"https://fosstodon.org/tags/vuejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vuejs</span></a> developer and a tech lead from Lviv, <a href=\"https://fosstodon.org/tags/Ukraine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ukraine</span></a>.</p><p>I'm very interested in <a href=\"https://fosstodon.org/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a> development. I'm trying to contribute to tools that I use every day like <a href=\"https://fosstodon.org/tags/vite\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vite</span></a>, <a href=\"https://fosstodon.org/tags/vitest\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vitest</span></a>. Right now I'm improving <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span> - <a href=\"https://fosstodon.org/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> client that I'm using.</p><p>I have created a <a href=\"https://fosstodon.org/tags/vue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vue</span></a> <a href=\"https://fosstodon.org/tags/i18n\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>i18n</span></a> library called fluent-vue <a href=\"https://github.com/fluent-vue/fluent-vue\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/fluent-vue/fluent-v</span><span class=\"invisible\">ue</span></a></p><p>I like reading fantasy books and play chess.</p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
   }
 ]

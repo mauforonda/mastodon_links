@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://arxiv.org/abs/2301.04584",
+    "title": "Continual Few-Shot Learning Using HyperTransformers",
+    "latest": "2023-01-17T21:43:25+00:00",
+    "first": "2023-01-17T21:43:25+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@mxv/109706260147200796",
+      "content": "<p>ML algorithms need lots of data and are prone to catastrophic forgetting. We present a new method for continual few-shot learning, bringing us closer to the way humans learn: sample efficient, while maintaining long-term retention.<br>\ud83d\udcdc<a href=\"https://arxiv.org/abs/2301.04584\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.04584</span><span class=\"invisible\"></span></a><br>\ud83e\uddf5 below:</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      }
+    ]
+  },
+  {
+    "link": "https://dl.acm.org/doi/abs/10.1145/3498366.3505816",
+    "title": "dl.acm.org/doi/abs/10.1145/349...",
+    "latest": "2023-01-17T21:41:20+00:00",
+    "first": "2023-01-17T23:05:36+00:00",
+    "last_post": {
+      "url": "https://dair-community.social/@timnitGebru/109706713732928428",
+      "content": "<p>Its time to recommend this paper by Chirag Shah &amp; <span class=\"h-card\"><a href=\"https://dair-community.social/@emilymbender\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>emilymbender</span></a></span> again: <br>   <br>\"The notions of relevance, usefulness, &amp; trustworthiness with respect to information were already overloaded &amp; often difficult to articulate, study, or implement. Newly surfaced proposals that aim to use large language models to generate relevant information for a user\u2019s needs pose even greater threat to transparency, provenance, &amp; user interactions in a search system.\"</p><p><a href=\"https://dl.acm.org/doi/abs/10.1145/3498366.3505816\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/abs/10.1145/349</span><span class=\"invisible\">8366.3505816</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@katestarbird",
+        "display_name": "Kate Starbird"
+      },
+      {
+        "url": "https://dair-community.social/@emilymbender",
+        "display_name": "Emily M. Bender (she/her)"
+      }
+    ]
+  },
+  {
     "link": "https://www.nature.com/articles/d41586-023-00085-2",
     "title": "Preprint review should form part of PhD programmes and postdoc training",
     "latest": "2023-01-17T19:40:06+00:00",
@@ -3418,37 +3454,5 @@
       }
     ],
     "first": "2023-01-06T11:14:27+00:00"
-  },
-  {
-    "link": "https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0040",
-    "title": "Liquid brains, solid brains | Philosophical Transactions of the Royal Society B: Biological Sciences",
-    "latest": "2023-01-06T10:35:08+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@manlius/109641813768350919",
-      "content": "<p>How does system wide information arise from local communication?</p><p>How does long-distance communication contribute to information integration?</p><p>How do environmental feedbacks enhance information integration?</p><p>Linking the above paper to a recent special issue on liquid and solid brains for context: <a href=\"https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0040\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">royalsocietypublishing.org/doi</span><span class=\"invisible\">/10.1098/rstb.2019.0040</span></a></p><p><span class=\"h-card\"><a href=\"https://neuromatch.social/@PessoaBrain\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PessoaBrain</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.world/@ricard_sole\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ricard_sole</span></a></span> <span class=\"h-card\"><a href=\"https://ecoevo.social/@mikha_ehl\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mikha_ehl</span></a></span> <span class=\"h-card\"><a href=\"https://fediscience.org/@drmichaellevin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>drmichaellevin</span></a></span> <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@c4computation\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>c4computation</span></a></span> </p><p><a href=\"https://mathstodon.xyz/tags/ComplexSystems\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComplexSystems</span></a> <a href=\"https://mathstodon.xyz/tags/InformationFlow\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>InformationFlow</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/complexsystems\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>complexsystems</span></a></span> </p><p><a href=\"https://www.cambridge.org/core/journals/quantitative-plant-biology/article/embodiment-in-distributed-information-processing-solid-plants-versus-liquid-ant-colonies/E166C1C573A99449448067D15B0859D0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cambridge.org/core/journals/qu</span><span class=\"invisible\">antitative-plant-biology/article/embodiment-in-distributed-information-processing-solid-plants-versus-liquid-ant-colonies/E166C1C573A99449448067D15B0859D0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@manlius",
-        "display_name": "Manlio De Domenico"
-      }
-    ],
-    "first": "2023-01-06T10:35:08+00:00"
-  },
-  {
-    "link": "https://doi.org/10.31234/osf.io/jqw35",
-    "title": "https://doi.org/10.31234/osf.io/jqw35",
-    "latest": "2023-01-06T10:23:15+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@tomstafford/109641767050713871",
-      "content": "<p>Updated my (work in progress) \"Experiment Design Checklist\" <a href=\"https://tomstafford.github.io/psy-checklist/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tomstafford.github.io/psy-chec</span><span class=\"invisible\">klist/</span></a> with a link to <span class=\"h-card\"><a href=\"https://sigmoid.social/@talyarkoni\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>talyarkoni</span></a></span>'s Generalisability Crisis paper <a href=\"https://doi.org/10.31234/osf.io/jqw35\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.31234/osf.io/jqw35</span><span class=\"invisible\"></span></a></p><p>Advice on this (very slow-burn) project always welcome</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@tomstafford",
-        "display_name": "tomstafford"
-      }
-    ],
-    "first": "2023-01-06T10:23:15+00:00"
   }
 ]
