@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://github.com/cleanlab/cleanlab/",
+    "title": "GitHub - cleanlab/cleanlab: The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.",
+    "latest": "2023-01-18T06:07:59+00:00",
+    "first": "2023-01-18T06:07:59+00:00",
+    "last_post": {
+      "url": "https://social.skewed.de/@tiago/109708710970481124",
+      "content": "<p>Oh noes, the \u201cground truth\u201d is wrong... Who could have thought?! \ud83e\udd37\u200d\u2642\ufe0f</p><p>RT @svpino@twitter.com</p><p>There are several label mistakes in the MNIST dataset.</p><p>Look at the attached picture. No wonder we can't get a 100% accurate model!</p><p>Here is the best part:</p><p>We discovered these mistakes using an open-source Python library: Cleanlab.</p><p><a href=\"https://github.com/cleanlab/cleanlab/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cleanlab/cleanlab/</span><span class=\"invisible\"></span></a></p><p>2 of 5</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/svpino/status/1615333149793452032\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/svpino/status/1615</span><span class=\"invisible\">333149793452032</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.skewed.de/@tiago",
+        "display_name": "Tiago Peixoto"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/emory-qtm/2023-quant-lit/blob/main/docs/schedule.md",
+    "title": "2023-quant-lit/schedule.md at main \u00b7 emory-qtm/2023-quant-lit",
+    "latest": "2023-01-18T05:15:03+00:00",
+    "first": "2023-01-17T14:30:09+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@laurenfklein/109704918269281306",
+      "content": "<p>Pretty pleased with the schedule for this year's grad seminar in quantitative literary analysis, centered around the uses and limits of LLMs in a humanities context (co-schemed by <span class=\"h-card\"><a href=\"https://mastodon.online/@intransitive\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>intransitive</span></a></span>): </p><p><a href=\"https://github.com/emory-qtm/2023-quant-lit/blob/main/docs/schedule.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/emory-qtm/2023-quan</span><span class=\"invisible\">t-lit/blob/main/docs/schedule.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      },
+      {
+        "url": "https://mstdn.social/@quinnanya",
+        "display_name": "Quinn Dombrowski"
+      },
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot \ud83e\udd39"
+      },
+      {
+        "url": "https://sigmoid.social/@maria_antoniak",
+        "display_name": "Maria Antoniak"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/ummjackson/5f19a2c4b58616566a0a6660c9dfde11",
+    "title": "why is this breaking some mastodon clients?",
+    "latest": "2023-01-18T05:09:29+00:00",
+    "first": "2023-01-18T05:09:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ummjackson/109708480960473431",
+      "content": "<p>Can anyone with a keen eye for Mastodon API stuff help me figure out why this JSON from a timeline response (eg. /api/v1/timelines/public) would throw errors on Mastodon clients like Metatext, Toot, etc? Loads fine in Pinafore. </p><p><a href=\"https://gist.github.com/ummjackson/5f19a2c4b58616566a0a6660c9dfde11\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/ummjackson/5f1</span><span class=\"invisible\">9a2c4b58616566a0a6660c9dfde11</span></a></p><p><a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://mastodon.social/tags/development\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>development</span></a> <a href=\"https://mastodon.social/tags/mastodev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodev</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ummjackson",
+        "display_name": "Jackson Palmer"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/analogdevicesinc/plutosdr-fw/issues/19",
     "title": "Does the ADC sampling affect by the the RF frequency switch? \u00b7 Issue #19 \u00b7 analogdevicesinc/plutosdr-fw",
     "latest": "2023-01-18T01:10:03+00:00",
@@ -44,30 +104,6 @@
       {
         "url": "https://mas.to/@bvaughn",
         "display_name": "Brian Vaughn"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/emory-qtm/2023-quant-lit/blob/main/docs/schedule.md",
-    "title": "2023-quant-lit/schedule.md at main \u00b7 emory-qtm/2023-quant-lit",
-    "latest": "2023-01-17T18:48:35+00:00",
-    "first": "2023-01-17T14:30:09+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@laurenfklein/109704918269281306",
-      "content": "<p>Pretty pleased with the schedule for this year's grad seminar in quantitative literary analysis, centered around the uses and limits of LLMs in a humanities context (co-schemed by <span class=\"h-card\"><a href=\"https://mastodon.online/@intransitive\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>intransitive</span></a></span>): </p><p><a href=\"https://github.com/emory-qtm/2023-quant-lit/blob/main/docs/schedule.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/emory-qtm/2023-quan</span><span class=\"invisible\">t-lit/blob/main/docs/schedule.md</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
-      },
-      {
-        "url": "https://mstdn.social/@quinnanya",
-        "display_name": "Quinn Dombrowski"
-      },
-      {
-        "url": "https://hcommons.social/@scott_bot",
-        "display_name": "@scott_bot \ud83e\udd39"
       }
     ]
   },
@@ -3298,53 +3334,5 @@
         "display_name": "Dave Winer \u2618\ufe0f"
       }
     ]
-  },
-  {
-    "link": "https://github.com/NVlabs/instant-ngp/releases/",
-    "title": "github.com/NVlabs/instant-ngp/...",
-    "latest": "2023-01-08T16:42:17+00:00",
-    "first": "2023-01-08T16:42:17+00:00",
-    "last_post": {
-      "url": "https://sauropods.win/@PeterFalkingham/109654106547562056",
-      "content": "<p>Good news everyone, Nvidia's Instant-NGP <a href=\"https://sauropods.win/tags/NERF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NERF</span></a> software is now available as precompiled binary, meaning all the BS at the start of this old blog post is now irrelevant: <a href=\"https://peterfalkingham.com/2022/04/26/neural-radiance-fields-nerf-and-instant-ngp-future-of-photogrammetry/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">peterfalkingham.com/2022/04/26</span><span class=\"invisible\">/neural-radiance-fields-nerf-and-instant-ngp-future-of-photogrammetry/</span></a></p><p>Binary available here: <a href=\"https://github.com/NVlabs/instant-ngp/releases/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/NVlabs/instant-ngp/</span><span class=\"invisible\">releases/</span></a></p><p>You still need COLMAP + Nvidia card (obviously)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@doppioslash",
-        "display_name": "Claudia Doppioslash/ShaderCat"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md",
-    "title": "beaker/archive-notice.md at master \u00b7 beakerbrowser/beaker",
-    "latest": "2023-01-08T16:37:37+00:00",
-    "last_post": {
-      "url": "https://mas.to/@adamwiggins/109654563743018090",
-      "content": "<p>Excellent post-mortem of the Beaker Browser project: <a href=\"https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/beakerbrowser/beake</span><span class=\"invisible\">r/blob/master/archive-notice.md</span></a></p><p>I loved the Beaker vision when I first saw it, which I would describe as bringing some of the values of 2000s era FTP web development together with local-first, IPFS, and the modern web.</p><p>My takeaway here is that it's hard to combine \"big vision + values for the future of computing\" with \"solve and immediate problem for people.\"</p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      },
-      {
-        "url": "https://merveilles.town/@cblgh",
-        "display_name": "Alexander Cobleigh"
-      },
-      {
-        "url": "https://nondeterministic.computer/@martin",
-        "display_name": "Martin Kleppmann"
-      },
-      {
-        "url": "https://mstdn.social/@adamwulf",
-        "display_name": "Adam Wulf"
-      },
-      {
-        "url": "https://mas.to/@adamwiggins",
-        "display_name": "Adam Wiggins"
-      }
-    ],
-    "first": "2022-12-28T10:43:17+00:00"
   }
 ]
