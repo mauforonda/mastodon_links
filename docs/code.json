@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/koalaman/shellcheck",
+    "title": "GitHub - koalaman/shellcheck: ShellCheck, a static analysis tool for shell scripts",
+    "latest": "2023-01-18T20:45:20+00:00",
+    "first": "2023-01-18T20:45:20+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@mpiedrav/109712139789656083",
+      "content": "<p>\u00abShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts\u00bb</p><p>Implemented in Haskell \ud83d\ude0a</p><p>It's indeed a convincing language for working on code in other languages \ud83d\ude32</p><p><a href=\"https://github.com/koalaman/shellcheck\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/koalaman/shellcheck</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/processing/processing4/releases",
+    "title": "Releases \u00b7 processing/processing4",
+    "latest": "2023-01-18T18:45:27+00:00",
+    "first": "2023-01-16T21:40:31+00:00",
+    "last_post": {
+      "url": "https://information.garden/@benfry/109701053283080302",
+      "content": "<p>Happy MLK Day! </p><p>Processing 4.1.2 now posted: <a href=\"https://github.com/processing/processing4/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/processing/processi</span><span class=\"invisible\">ng4/releases</span></a></p><p>\ud83e\uddd1\u200d\ud83d\udcbc Updates to the Contribution Manager<br>\ud83d\udcd3 Eliminating quirks from the Preprocessor <br>\ud83e\udeb2 Bug fixes and more bug fixes</p><p>Give it a try / share with your friends / and your enemies too / spread the good news far and wide\u2026 \ud83c\udf99 \ud83d\udde3 \ud83d\udcec \ud83d\ude49</p>"
+    },
+    "people": [
+      {
+        "url": "https://information.garden/@benfry",
+        "display_name": "Ben Fry"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/WICG/scheduling-apis/blob/main/misc/userspace-schedulers.md",
     "title": "scheduling-apis/userspace-schedulers.md at main \u00b7 WICG/scheduling-apis",
     "latest": "2023-01-18T17:17:26+00:00",
@@ -584,22 +616,6 @@
       {
         "url": "https://vis.social/@maarten",
         "display_name": "Maarten Lambrechts"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/processing/processing4/releases",
-    "title": "Releases \u00b7 processing/processing4",
-    "latest": "2023-01-16T21:40:31+00:00",
-    "first": "2023-01-16T21:40:31+00:00",
-    "last_post": {
-      "url": "https://information.garden/@benfry/109701053283080302",
-      "content": "<p>Happy MLK Day! </p><p>Processing 4.1.2 now posted: <a href=\"https://github.com/processing/processing4/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/processing/processi</span><span class=\"invisible\">ng4/releases</span></a></p><p>\ud83e\uddd1\u200d\ud83d\udcbc Updates to the Contribution Manager<br>\ud83d\udcd3 Eliminating quirks from the Preprocessor <br>\ud83e\udeb2 Bug fixes and more bug fixes</p><p>Give it a try / share with your friends / and your enemies too / spread the good news far and wide\u2026 \ud83c\udf99 \ud83d\udde3 \ud83d\udcec \ud83d\ude49</p>"
-    },
-    "people": [
-      {
-        "url": "https://information.garden/@benfry",
-        "display_name": "Ben Fry"
       }
     ]
   },
@@ -3322,21 +3338,5 @@
       }
     ],
     "first": "2023-01-04T17:39:51+00:00"
-  },
-  {
-    "link": "https://github.com/cmod/websters-1913",
-    "title": "GitHub - cmod/websters-1913: Styling of Webster's 1913 Dictionary for macOS",
-    "latest": "2023-01-09T04:42:48+00:00",
-    "first": "2023-01-09T04:42:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@craigmod/109657415235583672",
-      "content": "<p>start your year off right, install the Webster's 1913 dictionary into your macOS dictionaries and live in a richer lexical plane:</p><p><a href=\"https://github.com/cmod/websters-1913\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cmod/websters-1913</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@craigmod",
-        "display_name": "Craig Mod"
-      }
-    ]
   }
 ]
