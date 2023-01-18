@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/WICG/scheduling-apis/blob/main/misc/userspace-schedulers.md",
+    "title": "scheduling-apis/userspace-schedulers.md at main \u00b7 WICG/scheduling-apis",
+    "latest": "2023-01-18T17:17:26+00:00",
+    "first": "2023-01-18T17:17:26+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@geoffreylitt/109711343377227366",
+      "content": "<p>TIL that Google Maps implements a scheduler in the browser main thread, similar to React!</p><p>Wild how much work it takes to get amazing perf for complex apps on web</p><p><a href=\"https://github.com/WICG/scheduling-apis/blob/main/misc/userspace-schedulers.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/WICG/scheduling-api</span><span class=\"invisible\">s/blob/main/misc/userspace-schedulers.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@geoffreylitt",
+        "display_name": "Geoffrey Litt"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tylergaw/wax/issues",
+    "title": "Issues \u00b7 tylergaw/wax",
+    "latest": "2023-01-18T15:16:56+00:00",
+    "first": "2023-01-18T15:16:56+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@tylergaw/109710833145332201",
+      "content": "<p>Working on a new side project that's been on my mind forever. To keep moving it forward, I'm doing an exercise that's worked in the past for me. It's; \"do at least one thing a day on it, no matter how small\". Helping myself by putting in issues <a href=\"https://github.com/tylergaw/wax/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tylergaw/wax/issues</span><span class=\"invisible\"></span></a> beforehand, because it's also helpful to do the one thing in the morning before the day wears me out.</p><p>Building a fun viewer for my records using Astro and the Discogs API.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/antoine3000/iot-gardening-station",
     "title": "GitHub - antoine3000/iot-gardening-station: A smart device connected to a plant, which measures the soil moisture level, the ambient temperature and humidity and based on the data collected it waters the plant to meet its needs. The data is published online and a web interface allows direct interaction with the gardening station.",
     "latest": "2023-01-18T15:01:12+00:00",
@@ -3304,38 +3336,6 @@
       {
         "url": "https://mastodon.social/@craigmod",
         "display_name": "Craig Mod"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/akkartik/driver.love",
-    "title": "codeberg.org/akkartik/driver.l...",
-    "latest": "2023-01-09T00:53:20+00:00",
-    "first": "2023-01-09T00:53:20+00:00",
-    "last_post": {
-      "url": "https://merveilles.town/@akkartik/109656512985323270",
-      "content": "<p>A map for code</p><p>In this video, I start up in quick succession:</p><p>* a simple test app<br>* the 'driver' programming environment showing the map for the app's code<br>* the 'meta-driver' programming environment showing the map for the driver's code</p><p>On initial load the driver (glitchily) zooms out over the whole codebase before zooming back in to the previous session.</p><p><a href=\"https://codeberg.org/akkartik/driver.love\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/akkartik/driver.l</span><span class=\"invisible\">ove</span></a></p><p>(Inspiration: early side-scrolling videogames that would often start a new level by panning across all of it.)</p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@akkartik",
-        "display_name": "Kartik Agaram"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rotki/rotki/pull/5364/files",
-    "title": "EVM Chain genesis, and ruff to 0.0.215 with many more checks. by LefterisJP \u00b7 Pull Request #5364 \u00b7 rotki/rotki",
-    "latest": "2023-01-09T00:49:35+00:00",
-    "first": "2023-01-09T00:49:35+00:00",
-    "last_post": {
-      "url": "https://cryptodon.lol/@lefteris/109656498195695127",
-      "content": "<p>And here is a PR with all the changes: <a href=\"https://github.com/rotki/rotki/pull/5364/files\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rotki/rotki/pull/53</span><span class=\"invisible\">64/files</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://cryptodon.lol/@lefteris",
-        "display_name": "lefterisjp"
       }
     ]
   }
