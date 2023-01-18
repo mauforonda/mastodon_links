@@ -1,5 +1,73 @@
 [
   {
+    "link": "https://arxiv.org/abs/2301.05728",
+    "title": "A plane defect in the 3d O$(N)$ model",
+    "latest": "2023-01-18T15:08:20+00:00",
+    "first": "2023-01-18T15:08:20+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@JoshuahHeath/109710835738493263",
+      "content": "<p>Today's <a href=\"https://mathstodon.xyz/tags/arXivsummary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arXivsummary</span></a>: <a href=\"https://arxiv.org/abs/2301.05728\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.05728</span><span class=\"invisible\"></span></a> by Krishnan &amp; Metlitski. Authors extend the idea of an \"extraordinary-log\" boundary universality class to the 3D O(N) model in infinite geometry with a plane defect. Extraordinary-log universality class is present for any finite N\u22652; evidence that, at N=Nc, the extraordinary and special fixed points annihilate and only the ordinary fixed point is left for N&gt;N. <a href=\"https://mathstodon.xyz/tags/CondMat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CondMat</span></a> <a href=\"https://mathstodon.xyz/tags/StrEl\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StrEl</span></a> <a href=\"https://mathstodon.xyz/tags/arXiv_2301_05728\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arXiv_2301_05728</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@JoshuahHeath",
+        "display_name": "|\u00d0r\u27e9\u2295|J\u03b8\u03a3\u0127\u03bc\u03b1\u0127\u27e9\u2297|H\u03b5\u03b1\u03c4\u0127\u27e9"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2110.10819",
+    "title": "Shaking the foundations: delusions in sequence models for interaction and control",
+    "latest": "2023-01-18T14:49:42+00:00",
+    "last_post": {
+      "url": "https://masto.ai/@cheng/109636051288526158",
+      "content": "<p>If you are learning from a sequence of observations and actions, and using a probabilistic model, you should be treating the agent's actions as <a href=\"https://masto.ai/tags/causal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>causal</span></a> interventions. The authors attribute the lack of causal interventions as the reason for <a href=\"https://masto.ai/tags/delusions\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>delusions</span></a>, and also propose a way to do <a href=\"https://masto.ai/tags/MetaLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MetaLearning</span></a>. <a href=\"https://masto.ai/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a> <a href=\"https://masto.ai/tags/Causality\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Causality</span></a> <a href=\"https://masto.ai/tags/ReinforcementLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ReinforcementLearning</span></a></p><p><a href=\"https://arxiv.org/abs/2110.10819\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2110.10819</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://chaos.social/@zx",
+        "display_name": "Zx"
+      },
+      {
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
+      }
+    ],
+    "first": "2023-01-05T10:36:53+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.04655",
+    "title": "https://arxiv.org/abs/2301.04655",
+    "latest": "2023-01-18T13:52:36+00:00",
+    "first": "2023-01-18T13:52:36+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@dougholton/109710525247725789",
+      "content": "<p>Competitors/successors to <a href=\"https://mastodon.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a> will be emerging this year:<br>* Claude (from former OpenAI employees) <a href=\"https://scale.com/blog/chatgpt-vs-claude\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">scale.com/blog/chatgpt-vs-clau</span><span class=\"invisible\">de</span></a><br>* Sparrow (from Google) <a href=\"https://www.techradar.com/news/googles-deepmind-promises-chatgpt-rival-soon-and-it-could-be-better-in-one-key-way\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">techradar.com/news/googles-dee</span><span class=\"invisible\">pmind-promises-chatgpt-rival-soon-and-it-could-be-better-in-one-key-way</span></a><br>* Others <a href=\"https://medium.com/geekculture/5-free-chatgpt-competitors-you-should-know-about-for-2023-ff5fc48d0430\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">medium.com/geekculture/5-free-</span><span class=\"invisible\">chatgpt-competitors-you-should-know-about-for-2023-ff5fc48d0430</span></a></p><p>* Here's a review of recent generative <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> models <a href=\"https://arxiv.org/abs/2301.04655\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.04655</span><span class=\"invisible\"></span></a><br>* Videos <a href=\"https://karpathy.ai/zero-to-hero.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">karpathy.ai/zero-to-hero.html</span><span class=\"invisible\"></span></a> &amp; sample code to learn how they work <a href=\"https://github.com/karpathy/nanoGPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/karpathy/nanoGPT</span><span class=\"invisible\"></span></a><br>* And a directory of over 600 AI tools that have emerged <a href=\"https://www.futurepedia.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">futurepedia.io/</span><span class=\"invisible\"></span></a><br><a href=\"https://mastodon.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> <a href=\"https://mastodon.social/tags/AIED\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AIED</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      }
+    ]
+  },
+  {
+    "link": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad014/6989621",
+    "title": "Protein-to-genome alignment with miniprot",
+    "latest": "2023-01-18T13:08:58+00:00",
+    "first": "2023-01-18T13:08:58+00:00",
+    "last_post": {
+      "url": "https://genomic.social/@danieltamarit/109709598124733804",
+      "content": "<p>RT @lh3lh3@twitter.com</p><p>\"Protein-to-genome alignment with miniprot\" published online in Bioinformatics. The title says it all. I would like to thank @thesteinegger@twitter.com and two other anonymous reviewers for their constructive suggestions. <a href=\"https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad014/6989621\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">academic.oup.com/bioinformatic</span><span class=\"invisible\">s/advance-article/doi/10.1093/bioinformatics/btad014/6989621</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/lh3lh3/status/1615362652594651136\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/lh3lh3/status/1615</span><span class=\"invisible\">362652594651136</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.science/@contaminatedsci",
+        "display_name": "Tami Lieberman"
+      }
+    ]
+  },
+  {
     "link": "https://doi.org/10.1186/s12936-022-04409-x",
     "title": "doi.org/10.1186/s12936-022-044...",
     "latest": "2023-01-18T10:53:22+00:00",
@@ -3390,69 +3458,5 @@
       }
     ],
     "first": "2023-01-06T15:15:49+00:00"
-  },
-  {
-    "link": "https://doi.org/10.1111/pops.12875",
-    "title": "https://doi.org/10.1111/pops.12875",
-    "latest": "2023-01-06T20:19:53+00:00",
-    "first": "2023-01-06T20:19:53+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@MarkRubin/109641540078876526",
-      "content": "<p>Reducing Political Dehumanization:</p><p>\u201cAcross four studies in two countries, we show that journalists, and citizens on social media sites, can share facts about contentious political issues (gun and climate policy), while simultaneously increasing tolerance and reducing dehumanization of political opponents.\u201d</p><p>Open access: <a href=\"https://doi.org/10.1111/pops.12875\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.1111/pops.12875</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://fediscience.org/tags/SocialPsychology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialPsychology</span></a><br><a href=\"https://fediscience.org/tags/SocialScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialScience</span></a><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/socialpsych\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>socialpsych</span></a></span><br><a href=\"https://fediscience.org/tags/PolPsych\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PolPsych</span></a><br><a href=\"https://fediscience.org/tags/PoliticalScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PoliticalScience</span></a><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/politicalscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>politicalscience</span></a></span><br><a href=\"https://fediscience.org/tags/Dehumanization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Dehumanization</span></a><br><a href=\"https://fediscience.org/tags/Journalism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Journalism</span></a><br><a href=\"https://fediscience.org/tags/SocialMedia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialMedia</span></a><br><a href=\"https://fediscience.org/tags/Tolerance\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tolerance</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sciences.social/@mjb",
-        "display_name": "mark"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2212.11149",
-    "title": "New presences of $\u03c0$ and $e$ in Pascal's triangle",
-    "latest": "2023-01-06T19:12:53+00:00",
-    "first": "2023-01-06T19:12:53+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@dpiponi/109643631481798642",
-      "content": "<p>A cute little identity I learnt from this paper <a href=\"https://arxiv.org/abs/2212.11149\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.11149</span><span class=\"invisible\"></span></a></p><p>(It's not deep, in fact it feels like a bit of a swiz when you prove it.)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@johncarlosbaez",
-        "display_name": "John Carlos Baez"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1016/j.telpol.2022.102477",
-    "title": "doi.org/10.1016/j.telpol.2022....",
-    "latest": "2023-01-06T18:57:48+00:00",
-    "first": "2023-01-06T18:57:48+00:00",
-    "last_post": {
-      "url": "https://hci.social/@manoel/109643790312392303",
-      "content": "<p>RT @AUrman21@twitter.com</p><p>Ever wanted to know how transparency reports of online platforms are different from each other? What's included and what's not? We analyzed 13 transparency reports to answer these and other questions, read our new paper open access here! <a href=\"https://doi.org/10.1016/j.telpol.2022.102477\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.telpol.2022.</span><span class=\"invisible\">102477</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/AUrman21/status/1611350199250653189\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/AUrman21/status/16</span><span class=\"invisible\">11350199250653189</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hci.social/@manoel",
-        "display_name": "Manoel Horta Ribeiro"
-      }
-    ]
-  },
-  {
-    "link": "https://journals.sagepub.com/doi/10.1177/01461672221143022",
-    "title": "journals.sagepub.com/doi/10.11...",
-    "latest": "2023-01-06T18:48:02+00:00",
-    "first": "2023-01-06T18:48:02+00:00",
-    "last_post": {
-      "url": "https://sciences.social/@benruisch/109643719833155757",
-      "content": "<p>Our new paper in PSPB! Whether a person is (im)moral is among the most consequential judgments we make. But when someone misbehaves, what do we expect next? Here, we find that a person who commits even a single bad act is expected to follow a slippery slope of ever-worse behavior <a href=\"https://journals.sagepub.com/doi/10.1177/01461672221143022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.sagepub.com/doi/10.11</span><span class=\"invisible\">77/01461672221143022</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sciences.social/@mjb",
-        "display_name": "mark"
-      }
-    ]
   }
 ]
