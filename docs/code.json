@@ -1,5 +1,57 @@
 [
   {
+    "link": "https://github.com/papers-we-love/papers-we-love/blob/master/languages-paradigms/functional_programming/why-functional-programming-matters.pdf",
+    "title": "github.com/papers-we-love/pape...",
+    "latest": "2023-01-19T00:41:21+00:00",
+    "first": "2023-01-19T00:41:21+00:00",
+    "last_post": {
+      "url": "https://mstdn.io/@paperswelove/109713088926530807",
+      "content": "<p>\ud83d\udcdc Why Functional Programming Matters [1989]</p><p>By: John Hughes</p><p>\ud83d\udcd6 <a href=\"https://github.com/papers-we-love/papers-we-love/blob/master/languages-paradigms/functional_programming/why-functional-programming-matters.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/papers-we-love/pape</span><span class=\"invisible\">rs-we-love/blob/master/languages-paradigms/functional_programming/why-functional-programming-matters.pdf</span></a><br>\ud83d\udd0d <a href=\"https://www.semanticscholar.org/paper/06f9010f117a4a80173ff0bc96ffc71d16645eff\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semanticscholar.org/paper/06f9</span><span class=\"invisible\">010f117a4a80173ff0bc96ffc71d16645eff</span></a></p><p><a href=\"https://mstdn.io/tags/semanticScholar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>semanticScholar</span></a> <a href=\"https://mstdn.io/tags/paperswelove\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperswelove</span></a> <a href=\"https://mstdn.io/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a> <a href=\"https://mstdn.io/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.io/@paperswelove",
+        "display_name": "Papers We Love"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jgm/pandoc/releases/tag/3.0",
+    "title": "Release pandoc 3.0 \u00b7 jgm/pandoc",
+    "latest": "2023-01-18T22:25:12+00:00",
+    "first": "2023-01-18T22:16:29+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@tarleb/109712510427975566",
+      "content": "<p><a href=\"https://scholar.social/tags/Pandoc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pandoc</span></a> 3 is finally out! It's been in the works for five months. I'm very excited about the many new features that we built and can't wait to hear what people think about it.<br><a href=\"https://github.com/jgm/pandoc/releases/tag/3.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jgm/pandoc/releases</span><span class=\"invisible\">/tag/3.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@kjhealy",
+        "display_name": "Kieran Healy"
+      },
+      {
+        "url": "https://mathstodon.xyz/@dginev",
+        "display_name": "Deyan Ginev"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@observablehq/plot-raster",
+    "title": "Raster Mark / Observable Plot",
+    "latest": "2023-01-18T22:00:18+00:00",
+    "first": "2023-01-18T22:00:18+00:00",
+    "last_post": {
+      "url": "https://vis.social/@fil/109712455674472955",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mathstodon.xyz/@keenancrane\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>keenancrane</span></a></span> happy to say that we implemented walk-on-spheres as a spatial interpolation method in Observable Plot. Thank you for all the tutorials, videos you shared, they were the main source of inspiration for this feature<br><a href=\"https://observablehq.com/@observablehq/plot-raster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/plot-raster</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@fil",
+        "display_name": "Fil"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/koalaman/shellcheck",
     "title": "GitHub - koalaman/shellcheck: ShellCheck, a static analysis tool for shell scripts",
     "latest": "2023-01-18T20:45:20+00:00",
@@ -3274,69 +3326,5 @@
         "display_name": "Christian Tietze"
       }
     ]
-  },
-  {
-    "link": "https://gist.github.com/ummjackson/c82b0b0c41a33161e0688ebdc6641c09",
-    "title": "fedistream - filter the Mastodon firehose with a single HTML file (work in progress!)",
-    "latest": "2023-01-09T09:11:10+00:00",
-    "first": "2023-01-09T00:47:40+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ummjackson/109656309575177408",
-      "content": "<p>OK here it is - fedistream. Filter the streaming Mastodon firehose on your local machine with a single HTML file. It's a work in progress so there may be bugs. </p><p>You should be able to just download the .zip, extract it and double click the \"fedistream.html\" file to get started. Feedback welcome. <a href=\"https://mastodon.social/tags/development\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>development</span></a> <a href=\"https://mastodon.social/tags/mastodev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodev</span></a> <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://mastodon.social/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a> <a href=\"https://mastodon.social/tags/streaming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>streaming</span></a> </p><p><a href=\"https://gist.github.com/ummjackson/c82b0b0c41a33161e0688ebdc6641c09\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/ummjackson/c82</span><span class=\"invisible\">b0b0c41a33161e0688ebdc6641c09</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@smach",
-        "display_name": "Sharon Machlis"
-      },
-      {
-        "url": "https://mastodon.social/@johnkellden",
-        "display_name": "John Kellden"
-      },
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/ADHDefy/delightful-creative-tools",
-    "title": "delightful-creative-tools",
-    "latest": "2023-01-09T09:04:33+00:00",
-    "first": "2023-01-09T09:04:33+00:00",
-    "last_post": {
-      "url": "https://im-in.space/@ADHDefy/109657063805570299",
-      "content": "<p>Hey creatives of the Fediverse: I have been maintaining a <a href=\"https://im-in.space/tags/delightful\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>delightful</span></a> list of free and open source creative tools/software for several months. I hadn't updated in some time, but I just expanded it with new creative commons resources you can use in your projects, more audio plugins, and a couple other miscellaneous tools. Give it a look! You might find some cool new stuff and it's all ffffrrreeeeeeeeeee (thanks to a hardworking community of talented developers and artists)!</p><p>Check it out:<br><a href=\"https://codeberg.org/ADHDefy/delightful-creative-tools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/ADHDefy/delightfu</span><span class=\"invisible\">l-creative-tools</span></a></p><p>Also, feel free to contribute if you find that I'm missing anything! Anyone can pitch in. :kirby_happy:\u200b</p><p><a href=\"https://im-in.space/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> <a href=\"https://im-in.space/tags/freesoftware\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>freesoftware</span></a> <a href=\"https://im-in.space/tags/free\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>free</span></a> <a href=\"https://im-in.space/tags/creativecommons\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>creativecommons</span></a> <a href=\"https://im-in.space/tags/creative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>creative</span></a> <a href=\"https://im-in.space/tags/digitalart\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digitalart</span></a> <a href=\"https://im-in.space/tags/artists\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artists</span></a> <a href=\"https://im-in.space/tags/3dmodeling\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>3dmodeling</span></a> <a href=\"https://im-in.space/tags/videoeditor\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>videoeditor</span></a> <a href=\"https://im-in.space/tags/musicproduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>musicproduction</span></a> <a href=\"https://im-in.space/tags/sound\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sound</span></a> <a href=\"https://im-in.space/tags/filmmaking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>filmmaking</span></a> <a href=\"https://im-in.space/tags/gamedev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gamedev</span></a> <a href=\"https://im-in.space/tags/softwaredevelopment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>softwaredevelopment</span></a> <a href=\"https://im-in.space/tags/writer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>writer</span></a> <a href=\"https://im-in.space/tags/uxdesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>uxdesign</span></a> <a href=\"https://im-in.space/tags/uidesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>uidesign</span></a> <a href=\"https://im-in.space/tags/animators\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>animators</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/collection/@cartographie/cours",
-    "title": "Cours",
-    "latest": "2023-01-09T07:43:18+00:00",
-    "last_post": {
-      "url": "https://vis.social/@neocarto/109630115382471579",
-      "content": "<p>Projection, generalization, discretizations... Find here some resources (in French), used in the 1st semester for teaching cartography at the university with <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> Everything is freely available. Feel free to use it, fork and modify it if needed. <a href=\"https://observablehq.com/collection/@cartographie/cours\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/collection/@c</span><span class=\"invisible\">artographie/cours</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@neocarto",
-        "display_name": "Nicolas Lambert \ud83c\udf0f"
-      },
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      },
-      {
-        "url": "https://vis.social/@fil",
-        "display_name": "Fil"
-      }
-    ],
-    "first": "2023-01-04T17:39:51+00:00"
   }
 ]
