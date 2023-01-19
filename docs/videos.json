@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=U93bUQ1roiw",
+    "title": "youtube.com/watch?v=U93bUQ1roi...",
+    "latest": "2023-01-19T05:06:15+00:00",
+    "first": "2023-01-19T01:36:43+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109713306640366542",
+      "content": "<p>Human-Timescale Adaptation in an Open-Ended Task Space</p><p>Shows that training an RL agent at scale leads to a general in-context learning algo that can adapt to open-ended novel embodied 3D problems as quickly as humans.</p><p>abs: <a href=\"https://arxiv.org/abs/2301.07608\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07608</span><span class=\"invisible\"></span></a><br>video: <a href=\"https://www.youtube.com/watch?v=U93bUQ1roiw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=U93bUQ1roi</span><span class=\"invisible\">w</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      }
+    ]
+  },
+  {
     "link": "https://www.youtube.com/watch?v=L-TJVyBdF2M",
     "title": "Top 3 things you need to change in 2023",
     "latest": "2023-01-19T02:58:56+00:00",
@@ -64,22 +84,6 @@
       {
         "url": "https://mastodon.social/@argimenes",
         "display_name": "Codex OS"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=U93bUQ1roiw",
-    "title": "youtube.com/watch?v=U93bUQ1roi...",
-    "latest": "2023-01-19T01:36:43+00:00",
-    "first": "2023-01-19T01:36:43+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109713306640366542",
-      "content": "<p>Human-Timescale Adaptation in an Open-Ended Task Space</p><p>Shows that training an RL agent at scale leads to a general in-context learning algo that can adapt to open-ended novel embodied 3D problems as quickly as humans.</p><p>abs: <a href=\"https://arxiv.org/abs/2301.07608\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07608</span><span class=\"invisible\"></span></a><br>video: <a href=\"https://www.youtube.com/watch?v=U93bUQ1roiw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=U93bUQ1roi</span><span class=\"invisible\">w</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
       }
     ]
   },

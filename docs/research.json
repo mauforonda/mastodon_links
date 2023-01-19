@@ -1,5 +1,57 @@
 [
   {
+    "link": "https://arxiv.org/abs/2301.07608",
+    "title": "Human-Timescale Adaptation in an Open-Ended Task Space",
+    "latest": "2023-01-19T05:06:15+00:00",
+    "first": "2023-01-19T01:36:43+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109713306640366542",
+      "content": "<p>Human-Timescale Adaptation in an Open-Ended Task Space</p><p>Shows that training an RL agent at scale leads to a general in-context learning algo that can adapt to open-ended novel embodied 3D problems as quickly as humans.</p><p>abs: <a href=\"https://arxiv.org/abs/2301.07608\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07608</span><span class=\"invisible\"></span></a><br>video: <a href=\"https://www.youtube.com/watch?v=U93bUQ1roiw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=U93bUQ1roi</span><span class=\"invisible\">w</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      }
+    ]
+  },
+  {
+    "link": "https://dl.acm.org/doi/10.1145/3577213",
+    "title": "Spotlight Tweets: A Lens for Exploring Attention Dynamics within Online Sensemaking during Crisis Events | ACM Transactions on Social Computing",
+    "latest": "2023-01-19T04:27:28+00:00",
+    "first": "2023-01-19T04:27:28+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@katestarbird/109713978053090761",
+      "content": "<p>Excited for the publications of our paper (w/ Kaitlyn Zhou and Emma Spiro): Spotlight Tweets: A Lens for Exploring Attention Dynamics within Online Sensemaking during Crisis Events. The paper, which looks at sensemaking during the 2018 Hawaii missile crisis, makes several contributions, including: presenting the concept of \u201cspotlighting\u201d and introducing our cumulative graph technique, which reveals how audience exposure affects the propagation of social media posts. <br><a href=\"https://dl.acm.org/doi/10.1145/3577213\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dl.acm.org/doi/10.1145/3577213</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@katestarbird",
+        "display_name": "Kate Starbird"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.07114",
+    "title": "Multifield Ultralight Dark Matter",
+    "latest": "2023-01-19T04:06:38+00:00",
+    "first": "2023-01-19T04:06:38+00:00",
+    "last_post": {
+      "url": "https://mastodon.nz/@rjme/109713766044893838",
+      "content": "<p>New paper -- and a fun piece of work across three continents (Zealandia FTW!), multiple timezones, and the long reach of cosmic history... <a href=\"https://arxiv.org/abs/2301.07114\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07114</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      }
+    ]
+  },
+  {
     "link": "https://doi.org/10.1093/gigascience/giac124",
     "title": "doi.org/10.1093/gigascience/gi...",
     "latest": "2023-01-19T02:41:40+00:00",
@@ -39,22 +91,6 @@
     "last_post": {
       "url": "https://sigmoid.social/@aran/109713363787696430",
       "content": "<p>Towards Models that Can See and Read</p><p>Presents UniTNT, which leads to the first single model that successfully handles both \"seeing\" and \"reading\" images to solve VQA problems.</p><p><a href=\"https://arxiv.org/abs/2301.07389\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07389</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.07608",
-    "title": "Human-Timescale Adaptation in an Open-Ended Task Space",
-    "latest": "2023-01-19T01:36:43+00:00",
-    "first": "2023-01-19T01:36:43+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109713306640366542",
-      "content": "<p>Human-Timescale Adaptation in an Open-Ended Task Space</p><p>Shows that training an RL agent at scale leads to a general in-context learning algo that can adapt to open-ended novel embodied 3D problems as quickly as humans.</p><p>abs: <a href=\"https://arxiv.org/abs/2301.07608\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07608</span><span class=\"invisible\"></span></a><br>video: <a href=\"https://www.youtube.com/watch?v=U93bUQ1roiw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=U93bUQ1roi</span><span class=\"invisible\">w</span></a></p>"
     },
     "people": [
       {
@@ -3424,38 +3460,6 @@
       {
         "url": "https://mastodon.social/@PavelASamsonov",
         "display_name": "Pavel A. Samsonov"
-      }
-    ]
-  },
-  {
-    "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3185",
-    "title": "onlinelibrary.wiley.com/doi/ab...",
-    "latest": "2023-01-08T14:16:19+00:00",
-    "first": "2023-01-08T14:16:19+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@vb/109622008785507201",
-      "content": "<p>The most popular websites since 1993: <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:7011736478699409408\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">linkedin.com/feed/update/urn:l</span><span class=\"invisible\">i:activity:7011736478699409408</span></a></p><p>The slowing down of the sorting while the magnitude of the gap between 1 and 2 increases looks a little bit like: <a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3185\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">onlinelibrary.wiley.com/doi/ab</span><span class=\"invisible\">s/10.1002/smj.3185</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@eckles",
-        "display_name": "Dean Eckles"
-      }
-    ]
-  },
-  {
-    "link": "https://onlinelibrary.wiley.com/doi/epdf/10.11",
-    "title": "onlinelibrary.wiley.com/doi/ep...",
-    "latest": "2023-01-08T11:55:33+00:00",
-    "first": "2023-01-08T11:55:33+00:00",
-    "last_post": {
-      "url": "https://sciences.social/@simonweschle/109653446016740292",
-      "content": "<p>In light of <a href=\"https://sciences.social/tags/westminsteraccounts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>westminsteraccounts</span></a>, here's links to my research, which shows that when MPs have second jobs, they change how they behave in office.</p><p>Short summary: <a href=\"https://ajps.org/2022/09/09/politicians-private-sector-jobs-and-parliamentary-behavior/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ajps.org/2022/09/09/politician</span><span class=\"invisible\">s-private-sector-jobs-and-parliamentary-behavior/</span></a></p><p>Full paper: <a href=\"https://onlinelibrary.wiley.com/doi/epdf/10.11\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">onlinelibrary.wiley.com/doi/ep</span><span class=\"invisible\">df/10.11</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sciences.social/@per",
-        "display_name": "Per Engzell"
       }
     ]
   }
