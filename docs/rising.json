@@ -2,7 +2,7 @@
   {
     "link": "https://www.coywolf.news/social/buffer-adds-mastodon/",
     "title": "Buffer adds Mastodon to its social media platform",
-    "latest": "2023-01-19T02:13:32+00:00",
+    "latest": "2023-01-19T16:11:38.045000+00:00",
     "first": "2023-01-18T20:13:36+00:00",
     "last_post": {
       "url": "https://mastodon.social/@dangillmor/109712839213475903",
@@ -28,78 +28,138 @@
       {
         "url": "https://mastodon.world/@h_thoreson",
         "display_name": "hannah"
+      },
+      {
+        "url": "https://hachyderm.io/@allafarce",
+        "display_name": "Dave Guarino"
       }
     ]
   },
   {
-    "link": "https://andy-bell.co.uk/front-end-is-so-much-more-than-building-designs/",
-    "title": "  Front-end is so much more than building designs | Andy Bell",
-    "latest": "2023-01-19T10:50:54+00:00",
-    "first": "2023-01-18T18:00:38+00:00",
+    "link": "https://xkcd.com/2726/",
+    "title": "Methodology Trial",
+    "latest": "2023-01-19T16:27:01+00:00",
+    "first": "2023-01-19T02:49:46+00:00",
     "last_post": {
-      "url": "https://front-end.social/@Robb/109715227906519074",
-      "content": "<p>This post by <span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andy</span></a></span> perfectly articulates how I see building for the web \u2013 particularly \"going slow is fast\".</p><p><a href=\"https://andy-bell.co.uk/front-end-is-so-much-more-than-building-designs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">andy-bell.co.uk/front-end-is-s</span><span class=\"invisible\">o-much-more-than-building-designs/</span></a></p><p>When starting a project I could start by throwing classes at HTML, but I'd rather spend my time breaking things down. Identifying commonalities, maybe do a little prototyping of specific components to identify gotchas, but most of all, I'll make a plan. That way, the building part isn't much to sweat about</p>"
+      "url": "https://mastodon.xyz/@xkcd/109713405890449766",
+      "content": "<p>If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.<br><a href=\"https://xkcd.com/2726/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">xkcd.com/2726/</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
-        "url": "https://bell.bz/@andy",
-        "display_name": "Andy Bell"
+        "url": "https://sciences.social/@markigra",
+        "display_name": "Mark Igra"
       },
       {
-        "url": "https://hachyderm.io/@mnl",
-        "display_name": "mnml mnl (he/him)"
+        "url": "https://fediscience.org/@biocs",
+        "display_name": "Michael Kuhn"
       },
-      {
-        "url": "https://front-end.social/@mxbck",
-        "display_name": "Max B\u00f6ck"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.06627",
-    "title": "Dissociating language and thought in large language models: a cognitive perspective",
-    "latest": "2023-01-18T18:25:19+00:00",
-    "first": "2023-01-18T17:23:33+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@NancyKanwisher/109711535198888700",
-      "content": "<p>Congrats to <br><span class=\"h-card\"><a href=\"https://mstdn.science/@neuranna\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>neuranna</span></a></span> <span class=\"h-card\"><a href=\"https://sigmoid.social/@kmahowald\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kmahowald</span></a></span><br>@IbanDlank<br><span class=\"h-card\"><a href=\"https://sigmoid.social/@kmahowald\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kmahowald</span></a></span><br><span class=\"h-card\"><a href=\"https://mstdn.science/@ev_fedorenko\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ev_fedorenko</span></a></span><br> on a fascinating analysis of large language models informed by the brain: don't blame LLMs for being unable to think; neither can the brain's language system!<br><a href=\"https://arxiv.org/abs/2301.06627\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.06627</span><span class=\"invisible\"></span></a></p><p><a href=\"https://twitter.com/neuranna/status/1615737072207400962\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/neuranna/status/16</span><span class=\"invisible\">15737072207400962</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.skewed.de/@tiago",
-        "display_name": "Tiago Peixoto"
-      },
-      {
-        "url": "https://sigmoid.social/@nsaphra",
-        "display_name": "Naomi Saphra"
-      },
-      {
-        "url": "https://mastodon.online/@Neurograce",
-        "display_name": "Grace Lindsay"
-      }
-    ]
-  },
-  {
-    "link": "https://www.neh.gov/news/national-endowment-humanities-appoints-scott-b-weingart-lead-agencys-new-office-data-and",
-    "title": "National Endowment for the Humanities Appoints Scott B. Weingart to Lead the Agency\u2019s New Office of Data and Evaluation",
-    "latest": "2023-01-19T14:18:58+00:00",
-    "first": "2023-01-18T17:28:27+00:00",
-    "last_post": {
-      "url": "https://hcommons.social/@scott_bot/109711386735720571",
-      "content": "<p>Hey this is neat! </p><p>\"National Endowment for the Humanities Appoints Scott B. Weingart to Lead the Agency\u2019s New Office of Data and Evaluation\"</p><p><a href=\"https://www.neh.gov/news/national-endowment-humanities-appoints-scott-b-weingart-lead-agencys-new-office-data-and\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">neh.gov/news/national-endowmen</span><span class=\"invisible\">t-humanities-appoints-scott-b-weingart-lead-agencys-new-office-data-and</span></a></p>"
-    },
-    "people": [
       {
         "url": "https://hcommons.social/@scott_bot",
         "display_name": "@scott_bot \ud83e\udd39"
       },
       {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
+        "url": "https://econtwitter.net/@NicVdSijpe",
+        "display_name": "Nicolas Van de Sijpe"
+      }
+    ]
+  },
+  {
+    "link": "https://berjon.com/internet-transition/#fn-12",
+    "title": "The Internet Transition",
+    "latest": "2023-01-19T16:33:27+00:00",
+    "first": "2023-01-19T07:44:19+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@blaine/109714752083868041",
+      "content": "<p>I've been reading and re-reading <span class=\"h-card\"><a href=\"https://mastodon.social/@robin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>robin</span></a></span>'s post, \"The Internet Transition,\" for days now, and it's stupendous.</p><p>It matches and extends every intuition I've had about this new world we're in, and puts it all to words in a seemingly effortless way. I know how much effort it took, because it's the post I've always wished I could have written on the topic. Anyone who cares about governance or structures in our complicated new world should absolutely give it a go.</p><p><a href=\"https://berjon.com/internet-transition/#fn-12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">berjon.com/internet-transition</span><span class=\"invisible\">/#fn-12</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@blaine",
+        "display_name": "blaine"
       },
       {
-        "url": "https://mastodon.social/@jose_eduardo",
-        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      },
+      {
+        "url": "https://toot.cafe/@oliverturner",
+        "display_name": "Oliver"
+      },
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      }
+    ]
+  },
+  {
+    "link": "https://worldwide.espacenet.com/patent/search?q=pn%3DGB1310990",
+    "title": "worldwide.espacenet.com/patent...",
+    "latest": "2023-01-19T15:43:22+00:00",
+    "first": "2023-01-18T20:44:32+00:00",
+    "last_post": {
+      "url": "https://tech.lgbt/@FediThing/109711938639795469",
+      "content": "<p>British Rail was the state-owned company which ran the UK's railway network from 1948 to 1997. It didn't do anything else, just trains and public transport.</p><p>Inexplicably, in 1973 it patented a nuclear fusion-powered flying saucer with an artificial gravity generator, creating a graviton field using high energy electrons.</p><p>Here's the patent:</p><p><a href=\"https://worldwide.espacenet.com/patent/search?q=pn%3DGB1310990\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">worldwide.espacenet.com/patent</span><span class=\"invisible\">/search?q=pn%3DGB1310990</span></a></p><p>Here's an in-depth look at the whole bizarre situation:</p><p><a href=\"https://allthatsinteresting.com/british-rail-flying-saucer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">allthatsinteresting.com/britis</span><span class=\"invisible\">h-rail-flying-saucer</span></a></p><p><a href=\"https://tech.lgbt/tags/Space\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Space</span></a> <a href=\"https://tech.lgbt/tags/Spaceflight\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Spaceflight</span></a> <a href=\"https://tech.lgbt/tags/Tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tech</span></a> <a href=\"https://tech.lgbt/tags/PublicTransport\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PublicTransport</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@ChrisWalter",
+        "display_name": "Chris Walter"
+      },
+      {
+        "url": "https://cryptodon.lol/@edmundedgar",
+        "display_name": "Edmund Edgar"
+      },
+      {
+        "url": "https://mathstodon.xyz/@johncarlosbaez",
+        "display_name": "John Carlos Baez"
+      }
+    ]
+  },
+  {
+    "link": "https://allthatsinteresting.com/british-rail-flying-saucer",
+    "title": "allthatsinteresting.com/britis...",
+    "latest": "2023-01-19T15:43:22+00:00",
+    "first": "2023-01-18T20:44:32+00:00",
+    "last_post": {
+      "url": "https://tech.lgbt/@FediThing/109711938639795469",
+      "content": "<p>British Rail was the state-owned company which ran the UK's railway network from 1948 to 1997. It didn't do anything else, just trains and public transport.</p><p>Inexplicably, in 1973 it patented a nuclear fusion-powered flying saucer with an artificial gravity generator, creating a graviton field using high energy electrons.</p><p>Here's the patent:</p><p><a href=\"https://worldwide.espacenet.com/patent/search?q=pn%3DGB1310990\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">worldwide.espacenet.com/patent</span><span class=\"invisible\">/search?q=pn%3DGB1310990</span></a></p><p>Here's an in-depth look at the whole bizarre situation:</p><p><a href=\"https://allthatsinteresting.com/british-rail-flying-saucer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">allthatsinteresting.com/britis</span><span class=\"invisible\">h-rail-flying-saucer</span></a></p><p><a href=\"https://tech.lgbt/tags/Space\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Space</span></a> <a href=\"https://tech.lgbt/tags/Spaceflight\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Spaceflight</span></a> <a href=\"https://tech.lgbt/tags/Tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tech</span></a> <a href=\"https://tech.lgbt/tags/PublicTransport\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PublicTransport</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@ChrisWalter",
+        "display_name": "Chris Walter"
+      },
+      {
+        "url": "https://cryptodon.lol/@edmundedgar",
+        "display_name": "Edmund Edgar"
+      },
+      {
+        "url": "https://mathstodon.xyz/@johncarlosbaez",
+        "display_name": "John Carlos Baez"
+      }
+    ]
+  },
+  {
+    "link": "https://vickiboykis.com/2023/01/17/welcome-to-the-jungle-we-got-fun-and-frames/",
+    "title": "Welcome to the jungle, we got fun and frames",
+    "latest": "2023-01-19T15:55:36.354000+00:00",
+    "first": "2023-01-18T19:03:26+00:00",
+    "last_post": {
+      "url": "https://data-folks.masto.host/@jwills/109714222189671074",
+      "content": "<p>I thoroughly enjoyed reading <span class=\"h-card\"><a href=\"https://jawns.club/@vicki\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vicki</span></a></span>'s journey of learning and discovery about <a href=\"https://data-folks.masto.host/tags/DuckDB\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DuckDB</span></a>:</p><p><a href=\"https://vickiboykis.com/2023/01/17/welcome-to-the-jungle-we-got-fun-and-frames/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">vickiboykis.com/2023/01/17/wel</span><span class=\"invisible\">come-to-the-jungle-we-got-fun-and-frames/</span></a></p><p>I made this image to illustrate my takeaway from her post:</p>"
+    },
+    "people": [
+      {
+        "url": "https://jawns.club/@vicki",
+        "display_name": "Vicki Boykis"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      },
+      {
+        "url": "https://hachyderm.io/@mikiobraun",
+        "display_name": "Mikio Braun \ud83d\udc33"
       }
     ]
   },
@@ -152,166 +212,74 @@
     ]
   },
   {
-    "link": "https://xkcd.com/2726/",
-    "title": "Methodology Trial",
-    "latest": "2023-01-19T13:37:32+00:00",
-    "first": "2023-01-19T02:49:46+00:00",
+    "link": "https://arxiv.org/abs/2301.07608",
+    "title": "Human-Timescale Adaptation in an Open-Ended Task Space",
+    "latest": "2023-01-19T16:14:55+00:00",
+    "first": "2023-01-19T01:36:43+00:00",
     "last_post": {
-      "url": "https://mastodon.xyz/@xkcd/109713405890449766",
-      "content": "<p>If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.<br><a href=\"https://xkcd.com/2726/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">xkcd.com/2726/</span><span class=\"invisible\"></span></a></p>"
+      "url": "https://sigmoid.social/@rockt/109716297488143454",
+      "content": "<p>Excited about the release of AdA, led by @FeryalMP@twitter.com &amp;&nbsp;@edwardfhughes@twitter.com, on training an adaptive agent capable of hypothesis-driven exploration to solve challenging unseen tasks in minutes. There is a wealth of insights in this paper\ud83d\udc47</p><p><a href=\"https://arxiv.org/abs/2301.07608\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07608</span><span class=\"invisible\"></span></a><br><a href=\"https://www.youtube.com/watch?v=U93bUQ1roiw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=U93bUQ1roi</span><span class=\"invisible\">w</span></a></p>"
     },
     "people": [
       {
-        "url": "https://sciences.social/@markigra",
-        "display_name": "Mark Igra"
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
       },
       {
-        "url": "https://fediscience.org/@biocs",
-        "display_name": "Michael Kuhn"
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
       },
       {
-        "url": "https://hcommons.social/@scott_bot",
-        "display_name": "@scott_bot \ud83e\udd39"
+        "url": "https://mathstodon.xyz/@dginev",
+        "display_name": "Deyan Ginev"
       }
     ]
   },
   {
-    "link": "https://usafacts.org/data-projects/disability-benefit-wait-time",
-    "title": "usafacts.org/data-projects/dis...",
-    "latest": "2023-01-18T22:13:25+00:00",
-    "first": "2023-01-18T17:52:28+00:00",
+    "link": "https://www.youtube.com/watch?v=U93bUQ1roiw",
+    "title": "youtube.com/watch?v=U93bUQ1roi...",
+    "latest": "2023-01-19T16:14:55+00:00",
+    "first": "2023-01-19T01:36:43+00:00",
     "last_post": {
-      "url": "https://vis.social/@amber/109711481143554175",
-      "content": "<p>I started playing with a new (to me) series of tooltip interactions in a hex map in my latest story for USAFacts.</p><p>You can trigger the tooltip on big screens by hovering with your mouse or accessing the map with your \"TAB\" key and then using arrow keys to navigate individual states.</p><p>On small screens, hitboxes are small, so I opted to trigger tooltips via a slider which lists states in alphabetical order. </p><p>Curious what <a href=\"https://vis.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> and <a href=\"https://vis.social/tags/a11y\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>a11y</span></a> folks may think!</p><p>Check it out: <a href=\"https://usafacts.org/data-projects/disability-benefit-wait-time\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">usafacts.org/data-projects/dis</span><span class=\"invisible\">ability-benefit-wait-time</span></a></p>"
+      "url": "https://sigmoid.social/@rockt/109716297488143454",
+      "content": "<p>Excited about the release of AdA, led by @FeryalMP@twitter.com &amp;&nbsp;@edwardfhughes@twitter.com, on training an adaptive agent capable of hypothesis-driven exploration to solve challenging unseen tasks in minutes. There is a wealth of insights in this paper\ud83d\udc47</p><p><a href=\"https://arxiv.org/abs/2301.07608\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07608</span><span class=\"invisible\"></span></a><br><a href=\"https://www.youtube.com/watch?v=U93bUQ1roiw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=U93bUQ1roi</span><span class=\"invisible\">w</span></a></p>"
     },
     "people": [
       {
-        "url": "https://vis.social/@amber",
-        "display_name": "Amber Thomas"
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
       },
       {
-        "url": "https://vis.social/@maarten",
-        "display_name": "Maarten Lambrechts"
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      },
+      {
+        "url": "https://mathstodon.xyz/@dginev",
+        "display_name": "Deyan Ginev"
       }
     ]
   },
   {
-    "link": "https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/",
-    "title": "The truth about CSS selector performance",
-    "latest": "2023-01-18T20:08:03+00:00",
-    "first": "2023-01-18T18:09:44+00:00",
+    "link": "https://www.amazon.com/Four-Battlegrounds-Power-Artificial-Intelligence/dp/0393866866/ref=sr_1_1?keywords=four+battlegrounds+power+in+the+age+of+artificial+intelligence&amp;qid=1674064954&amp;sprefix=four+battlegrounds%2Caps%2C78&amp;sr=8-1",
+    "title": "amazon.com/Four-Battlegrounds-...",
+    "latest": "2023-01-19T16:33:03+00:00",
+    "first": "2023-01-19T04:13:01.610000+00:00",
     "last_post": {
-      "url": "https://toot.cafe/@slightlyoff/109710770942691459",
-      "content": "<p>This excellent post by <span class=\"h-card\"><a href=\"https://mas.to/@patrickbrosset\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>patrickbrosset</span></a></span> covers issues we hit last year in major MSFT web apps (exacerbated by React + CSS-in-JS nonsense).</p><p>Super proud of the team for getting this into devtools where others can benefit in their investigations:</p><p><a href=\"https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.windows.com/msedgedev/20</span><span class=\"invisible\">23/01/17/the-truth-about-css-selector-performance/</span></a></p>"
+      "url": "https://infosec.exchange/@CommieGIR/109711131619634920",
+      "content": "<p>Marines tricked an Aai designed to detect humans by....not acting normal</p><p>This is an excerpt from Paul Scharre's upcoming book:</p><p><a href=\"https://www.amazon.com/Four-Battlegrounds-Power-Artificial-Intelligence/dp/0393866866/ref=sr_1_1?keywords=four+battlegrounds+power+in+the+age+of+artificial+intelligence&amp;qid=1674064954&amp;sprefix=four+battlegrounds%2Caps%2C78&amp;sr=8-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Four-Battlegrounds-</span><span class=\"invisible\">Power-Artificial-Intelligence/dp/0393866866/ref=sr_1_1?keywords=four+battlegrounds+power+in+the+age+of+artificial+intelligence&amp;qid=1674064954&amp;sprefix=four+battlegrounds%2Caps%2C78&amp;sr=8-1</span></a></p>"
     },
     "people": [
       {
-        "url": "https://toot.cafe/@oliverturner",
-        "display_name": "Oliver"
+        "url": "https://hachyderm.io/@tedivm",
+        "display_name": "Rob Hafner :verified_bi:"
       },
       {
-        "url": "https://mastodon.social/@dahukanna",
-        "display_name": "Dawn Ahukanna"
-      }
-    ]
-  },
-  {
-    "link": "https://szymonkaliski.com/newsletter/2023-01-02-q4-2022/#what's-next",
-    "title": "Q4 2022",
-    "latest": "2023-01-18T18:42:30+00:00",
-    "first": "2023-01-18T17:40:12+00:00",
-    "last_post": {
-      "url": "https://mas.to/@szymon_k/109711432882692577",
-      "content": "<p>\ud83d\udd2d I'm looking for a new long-term role!</p><p>I believe that there's a ton of untapped potential in computing, and that a lot of it is limited by (broadly understood) interfaces.</p><p>Background/interests/context here: <a href=\"https://szymonkaliski.com/newsletter/2023-01-02-q4-2022/#what's-next\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">szymonkaliski.com/newsletter/2</span><span class=\"invisible\">023-01-02-q4-2022/#what's-next</span></a>?</p><p>Let's chat: hi@szymonkaliski.com</p><p>RT=\u2764\ufe0f</p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@szymon_k",
-        "display_name": "Szymon Kaliski"
+        "url": "https://sigmoid.social/@nsaphra",
+        "display_name": "Naomi Saphra"
       },
       {
-        "url": "https://xoxo.zone/@forresto",
-        "display_name": ""
-      }
-    ]
-  },
-  {
-    "link": "https://press.princeton.edu/book-proposal-development-grants?utm_campaign=Colleen%27s%20campaigns&amp;utm_medium=email&amp;_hsmi=241616583&amp;_hsenc=p2ANqtz-84YpT9WSda8KZy0HRUqM7immvXCUJGrsf65UIDA69Wp8kTLZ4ZfRBNEIAfc9gsWurABPJHenaIaJ5wuTzxLxr4MXKgdw&amp;utm_content=241616583&amp;utm_source=hs_email",
-    "title": "Book Proposal Development Grants",
-    "latest": "2023-01-18T17:43:34+00:00",
-    "first": "2023-01-18T17:40:52+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@AllisonPugh/109711446161562342",
-      "content": "<p>RT @eshurd@twitter.com</p><p>Spread the word: @PrincetonUPress@twitter.com Supporting Diverse Voices grants offer historically excluded and underrepresented scholars the opportunity to develop a book proposal  with a partnering book coach.<br><a href=\"https://press.princeton.edu/book-proposal-development-grants?utm_campaign=Colleen%27s%20campaigns&amp;utm_medium=email&amp;_hsmi=241616583&amp;_hsenc=p2ANqtz-84YpT9WSda8KZy0HRUqM7immvXCUJGrsf65UIDA69Wp8kTLZ4ZfRBNEIAfc9gsWurABPJHenaIaJ5wuTzxLxr4MXKgdw&amp;utm_content=241616583&amp;utm_source=hs_email\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">press.princeton.edu/book-propo</span><span class=\"invisible\">sal-development-grants?utm_campaign=Colleen%27s%20campaigns&amp;utm_medium=email&amp;_hsmi=241616583&amp;_hsenc=p2ANqtz-84YpT9WSda8KZy0HRUqM7immvXCUJGrsf65UIDA69Wp8kTLZ4ZfRBNEIAfc9gsWurABPJHenaIaJ5wuTzxLxr4MXKgdw&amp;utm_content=241616583&amp;utm_source=hs_email</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/eshurd/status/1615401416809500672\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/eshurd/status/1615</span><span class=\"invisible\">401416809500672</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@seanmcarroll",
-        "display_name": "Sean Carroll"
-      },
-      {
-        "url": "https://mastodon.social/@AllisonPugh",
-        "display_name": "Allison Pugh"
-      }
-    ]
-  },
-  {
-    "link": "https://www.11ty.dev/blog/eleventy-v2-beta/",
-    "title": "The very first beta release of Eleventy v2.0",
-    "latest": "2023-01-18T19:40:58+00:00",
-    "first": "2023-01-18T17:45:48+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@eleventy/109711447318774161",
-      "content": "<p>\ud83c\udf88\ud83d\udc00\u26a1\ufe0f We are delighted to announce the very first beta release of Eleventy v2.0!</p><p><a href=\"https://www.11ty.dev/blog/eleventy-v2-beta/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">11ty.dev/blog/eleventy-v2-beta</span><span class=\"invisible\">/</span></a></p><p>\ud83e\udea2 Dependencies decreased by 32.1%<br>\ud83d\udd2c `node_modules` size decreased by 77.8%<br>\ud83d\ude84 30.5% faster npm install<br>\ud83c\udfe0 Incremental Builds<br>\ud83d\udcbb New Dev Server with DOM-diffing live reload<br>\ud83d\udd0c Plugins for Edge rendering, i18n, Vite<br>\ud83d\udee0 Support for WebC</p>"
-    },
-    "people": [
-      {
-        "url": "https://typo.social/@jasonsantamaria",
-        "display_name": "Jason Santa Maria"
-      },
-      {
-        "url": "https://bell.bz/@andy",
-        "display_name": "Andy Bell"
-      }
-    ]
-  },
-  {
-    "link": "https://www.jwz.org/doc/groupware.html",
-    "title": "https://www.jwz.org/doc/groupware.html",
-    "latest": "2023-01-18T20:27:19+00:00",
-    "first": "2023-01-18T17:33:55+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@Migueldeicaza/109711408227868860",
-      "content": "<p>What I love about this @gasappteam story is that <span class=\"h-card\"><a href=\"https://mastodon.social/@jwz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jwz</span></a></span> had explained this a long time ago.</p><p>I won\u2019t give away the punchline, so you need to read the whole piece: <a href=\"https://www.jwz.org/doc/groupware.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">jwz.org/doc/groupware.html</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Migueldeicaza",
-        "display_name": "Miguel de Icaza"
-      },
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2615\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nytimes.com/wirecutter/blog/what-are-passkeys-and-how-they-can-replace-passwords/",
-    "title": "RIP, Passwords. Here\u2019s What\u2019s Coming Next.",
-    "latest": "2023-01-18T20:49:05+00:00",
-    "first": "2023-01-18T15:57:53+00:00",
-    "last_post": {
-      "url": "https://front-end.social/@mxbck/109712175637780636",
-      "content": "<p>Is that the moon from Majora's Mask?</p><p><a href=\"https://www.nytimes.com/wirecutter/blog/what-are-passkeys-and-how-they-can-replace-passwords/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/wirecutter/blog/wh</span><span class=\"invisible\">at-are-passkeys-and-how-they-can-replace-passwords/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@judell",
-        "display_name": "Jon Udell"
-      },
-      {
-        "url": "https://front-end.social/@mxbck",
-        "display_name": "Max B\u00f6ck"
+        "url": "https://vis.social/@jhilden",
+        "display_name": "Jonatan Hild\u00e9n"
       }
     ]
   },
@@ -336,66 +304,6 @@
     ]
   },
   {
-    "link": "https://worldwide.espacenet.com/patent/search?q=pn%3DGB1310990",
-    "title": "worldwide.espacenet.com/patent...",
-    "latest": "2023-01-19T11:45:46+00:00",
-    "first": "2023-01-18T20:44:32+00:00",
-    "last_post": {
-      "url": "https://tech.lgbt/@FediThing/109711938639795469",
-      "content": "<p>British Rail was the state-owned company which ran the UK's railway network from 1948 to 1997. It didn't do anything else, just trains and public transport.</p><p>Inexplicably, in 1973 it patented a nuclear fusion-powered flying saucer with an artificial gravity generator, creating a graviton field using high energy electrons.</p><p>Here's the patent:</p><p><a href=\"https://worldwide.espacenet.com/patent/search?q=pn%3DGB1310990\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">worldwide.espacenet.com/patent</span><span class=\"invisible\">/search?q=pn%3DGB1310990</span></a></p><p>Here's an in-depth look at the whole bizarre situation:</p><p><a href=\"https://allthatsinteresting.com/british-rail-flying-saucer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">allthatsinteresting.com/britis</span><span class=\"invisible\">h-rail-flying-saucer</span></a></p><p><a href=\"https://tech.lgbt/tags/Space\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Space</span></a> <a href=\"https://tech.lgbt/tags/Spaceflight\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Spaceflight</span></a> <a href=\"https://tech.lgbt/tags/Tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tech</span></a> <a href=\"https://tech.lgbt/tags/PublicTransport\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PublicTransport</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@ChrisWalter",
-        "display_name": "Chris Walter"
-      },
-      {
-        "url": "https://cryptodon.lol/@edmundedgar",
-        "display_name": "Edmund Edgar"
-      }
-    ]
-  },
-  {
-    "link": "https://allthatsinteresting.com/british-rail-flying-saucer",
-    "title": "allthatsinteresting.com/britis...",
-    "latest": "2023-01-19T11:45:46+00:00",
-    "first": "2023-01-18T20:44:32+00:00",
-    "last_post": {
-      "url": "https://tech.lgbt/@FediThing/109711938639795469",
-      "content": "<p>British Rail was the state-owned company which ran the UK's railway network from 1948 to 1997. It didn't do anything else, just trains and public transport.</p><p>Inexplicably, in 1973 it patented a nuclear fusion-powered flying saucer with an artificial gravity generator, creating a graviton field using high energy electrons.</p><p>Here's the patent:</p><p><a href=\"https://worldwide.espacenet.com/patent/search?q=pn%3DGB1310990\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">worldwide.espacenet.com/patent</span><span class=\"invisible\">/search?q=pn%3DGB1310990</span></a></p><p>Here's an in-depth look at the whole bizarre situation:</p><p><a href=\"https://allthatsinteresting.com/british-rail-flying-saucer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">allthatsinteresting.com/britis</span><span class=\"invisible\">h-rail-flying-saucer</span></a></p><p><a href=\"https://tech.lgbt/tags/Space\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Space</span></a> <a href=\"https://tech.lgbt/tags/Spaceflight\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Spaceflight</span></a> <a href=\"https://tech.lgbt/tags/Tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tech</span></a> <a href=\"https://tech.lgbt/tags/PublicTransport\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PublicTransport</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@ChrisWalter",
-        "display_name": "Chris Walter"
-      },
-      {
-        "url": "https://cryptodon.lol/@edmundedgar",
-        "display_name": "Edmund Edgar"
-      }
-    ]
-  },
-  {
-    "link": "https://vickiboykis.com/2023/01/17/welcome-to-the-jungle-we-got-fun-and-frames/",
-    "title": "Welcome to the jungle, we got fun and frames",
-    "latest": "2023-01-19T08:17:19+00:00",
-    "first": "2023-01-18T19:03:26+00:00",
-    "last_post": {
-      "url": "https://data-folks.masto.host/@jwills/109714222189671074",
-      "content": "<p>I thoroughly enjoyed reading <span class=\"h-card\"><a href=\"https://jawns.club/@vicki\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vicki</span></a></span>'s journey of learning and discovery about <a href=\"https://data-folks.masto.host/tags/DuckDB\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DuckDB</span></a>:</p><p><a href=\"https://vickiboykis.com/2023/01/17/welcome-to-the-jungle-we-got-fun-and-frames/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">vickiboykis.com/2023/01/17/wel</span><span class=\"invisible\">come-to-the-jungle-we-got-fun-and-frames/</span></a></p><p>I made this image to illustrate my takeaway from her post:</p>"
-    },
-    "people": [
-      {
-        "url": "https://jawns.club/@vicki",
-        "display_name": "Vicki Boykis"
-      },
-      {
-        "url": "https://mastodon.social/@Cmastication",
-        "display_name": "JD Long \u2705"
-      }
-    ]
-  },
-  {
     "link": "https://www.youtube.com/watch?v=S21TYlzbxYc",
     "title": "The Secret To Learning More Complex Chords",
     "latest": "2023-01-19T02:13:25+00:00",
@@ -412,46 +320,6 @@
       {
         "url": "https://econtwitter.net/@paulgp",
         "display_name": "Paul Goldsmith-Pinkham"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.07608",
-    "title": "Human-Timescale Adaptation in an Open-Ended Task Space",
-    "latest": "2023-01-19T14:20:46+00:00",
-    "first": "2023-01-19T01:36:43+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@rockt/109716297488143454",
-      "content": "<p>Excited about the release of AdA, led by @FeryalMP@twitter.com &amp;&nbsp;@edwardfhughes@twitter.com, on training an adaptive agent capable of hypothesis-driven exploration to solve challenging unseen tasks in minutes. There is a wealth of insights in this paper\ud83d\udc47</p><p><a href=\"https://arxiv.org/abs/2301.07608\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07608</span><span class=\"invisible\"></span></a><br><a href=\"https://www.youtube.com/watch?v=U93bUQ1roiw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=U93bUQ1roi</span><span class=\"invisible\">w</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=U93bUQ1roiw",
-    "title": "youtube.com/watch?v=U93bUQ1roi...",
-    "latest": "2023-01-19T14:20:46+00:00",
-    "first": "2023-01-19T01:36:43+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@rockt/109716297488143454",
-      "content": "<p>Excited about the release of AdA, led by @FeryalMP@twitter.com &amp;&nbsp;@edwardfhughes@twitter.com, on training an adaptive agent capable of hypothesis-driven exploration to solve challenging unseen tasks in minutes. There is a wealth of insights in this paper\ud83d\udc47</p><p><a href=\"https://arxiv.org/abs/2301.07608\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07608</span><span class=\"invisible\"></span></a><br><a href=\"https://www.youtube.com/watch?v=U93bUQ1roiw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=U93bUQ1roi</span><span class=\"invisible\">w</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
       }
     ]
   },
@@ -476,6 +344,26 @@
     ]
   },
   {
+    "link": "https://sigchi.submittable.com/submit",
+    "title": "SIGCHI Submission Manager",
+    "latest": "2023-01-19T17:14:25+00:00",
+    "first": "2023-01-19T06:11:52+00:00",
+    "last_post": {
+      "url": "https://hci.social/@chat/109712084994998348",
+      "content": "<p>Gary Marsden Travel Awards committee added Februcary 9 deadline that fits the submission/notification process for <a href=\"https://hci.social/tags/CHI2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CHI2023</span></a> LBW, Student Competitions, Interactivity, and workshops!</p><p>Anyone can apply for a fund to attend <a href=\"https://hci.social/tags/CHI2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CHI2023</span></a>, even before or without a paper!</p><p>To apply, go to <a href=\"https://sigchi.submittable.com/submit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">sigchi.submittable.com/submit</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@axz",
+        "display_name": "Amy Zhang"
+      },
+      {
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
+      }
+    ]
+  },
+  {
     "link": "https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/",
     "title": "themockup.blog/posts/2020-09-0...",
     "latest": "2023-01-19T13:45:39+00:00",
@@ -492,46 +380,6 @@
       {
         "url": "https://mastodon.social/@zsteinmetz",
         "display_name": "Zacharias Steinmetz"
-      }
-    ]
-  },
-  {
-    "link": "https://www.amazon.com/Four-Battlegrounds-Power-Artificial-Intelligence/dp/0393866866/ref=sr_1_1?keywords=four+battlegrounds+power+in+the+age+of+artificial+intelligence&amp;qid=1674064954&amp;sprefix=four+battlegrounds%2Caps%2C78&amp;sr=8-1",
-    "title": "amazon.com/Four-Battlegrounds-...",
-    "latest": "2023-01-19T06:17:09+00:00",
-    "first": "2023-01-19T04:13:01.610000+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@CommieGIR/109711131619634920",
-      "content": "<p>Marines tricked an Aai designed to detect humans by....not acting normal</p><p>This is an excerpt from Paul Scharre's upcoming book:</p><p><a href=\"https://www.amazon.com/Four-Battlegrounds-Power-Artificial-Intelligence/dp/0393866866/ref=sr_1_1?keywords=four+battlegrounds+power+in+the+age+of+artificial+intelligence&amp;qid=1674064954&amp;sprefix=four+battlegrounds%2Caps%2C78&amp;sr=8-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Four-Battlegrounds-</span><span class=\"invisible\">Power-Artificial-Intelligence/dp/0393866866/ref=sr_1_1?keywords=four+battlegrounds+power+in+the+age+of+artificial+intelligence&amp;qid=1674064954&amp;sprefix=four+battlegrounds%2Caps%2C78&amp;sr=8-1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@tedivm",
-        "display_name": "Rob Hafner :verified_bi:"
-      },
-      {
-        "url": "https://sigmoid.social/@nsaphra",
-        "display_name": "Naomi Saphra"
-      }
-    ]
-  },
-  {
-    "link": "https://berjon.com/internet-transition/#fn-12",
-    "title": "The Internet Transition",
-    "latest": "2023-01-19T14:23:59+00:00",
-    "first": "2023-01-19T07:44:19+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@blaine/109714752083868041",
-      "content": "<p>I've been reading and re-reading <span class=\"h-card\"><a href=\"https://mastodon.social/@robin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>robin</span></a></span>'s post, \"The Internet Transition,\" for days now, and it's stupendous.</p><p>It matches and extends every intuition I've had about this new world we're in, and puts it all to words in a seemingly effortless way. I know how much effort it took, because it's the post I've always wished I could have written on the topic. Anyone who cares about governance or structures in our complicated new world should absolutely give it a go.</p><p><a href=\"https://berjon.com/internet-transition/#fn-12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">berjon.com/internet-transition</span><span class=\"invisible\">/#fn-12</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@blaine",
-        "display_name": "blaine"
-      },
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
       }
     ]
   },
@@ -558,7 +406,7 @@
   {
     "link": "https://adactio.com/journal/19842",
     "title": "Three attributes for better web forms",
-    "latest": "2023-01-19T12:14:20+00:00",
+    "latest": "2023-01-19T15:19:58+00:00",
     "first": "2023-01-19T11:50:50+00:00",
     "last_post": {
       "url": "https://mastodon.social/@Richr/109715704543211651",
@@ -612,6 +460,46 @@
       {
         "url": "https://front-end.social/@jensimmons",
         "display_name": "Jen Simmons"
+      }
+    ]
+  },
+  {
+    "link": "https://billypenn.com/2023/01/19/free-library-philadelphia-kanopy-movie-streaming-returns/",
+    "title": "Stream thousands of movies for free: Kanopy is back at the Free Library",
+    "latest": "2023-01-19T15:47:59+00:00",
+    "first": "2023-01-19T13:52:21+00:00",
+    "last_post": {
+      "url": "https://union.place/@nat/109715930433672531",
+      "content": "<p>The <a href=\"https://union.place/tags/Philly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Philly</span></a> Free Library reinstates Kanopy streaming service for all library users</p><p><a href=\"https://billypenn.com/2023/01/19/free-library-philadelphia-kanopy-movie-streaming-returns/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">billypenn.com/2023/01/19/free-</span><span class=\"invisible\">library-philadelphia-kanopy-movie-streaming-returns/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://jawns.club/@alexhillman",
+        "display_name": "Alex Hillman \u26a1\ufe0f"
+      },
+      {
+        "url": "https://typo.social/@jasonsantamaria",
+        "display_name": "Jason Santa Maria"
+      }
+    ]
+  },
+  {
+    "link": "https://cran.r-project.org/package=MexBrewer",
+    "title": "CRAN.R-project.org/package=Mex...",
+    "latest": "2023-01-19T16:05:10+00:00",
+    "first": "2023-01-19T17:18:08+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@paezha/109716721551636307",
+      "content": "<p>I am pleased to announce that package {MexBrewer} with color palettes inspired by the work of Mexican painters and muralists is now available to download from CRAN:</p><p><a href=\"https://CRAN.R-project.org/package=MexBrewer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">CRAN.R-project.org/package=Mex</span><span class=\"invisible\">Brewer</span></a> </p><p>The package can be installed like so:</p><p>install.packages(\"MexBrewer\")</p><p><a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://mastodon.online/tags/ColorPalettes\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ColorPalettes</span></a> <a href=\"https://mastodon.online/tags/Mexico\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mexico</span></a> <a href=\"https://mastodon.online/tags/Dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Dataviz</span></a> <a href=\"https://mastodon.online/tags/Rtistry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rtistry</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@hadleywickham",
+        "display_name": "Hadley Wickham"
+      },
+      {
+        "url": "https://mastodon.online/@paezha",
+        "display_name": "Antonio P\u00e1ez"
       }
     ]
   }

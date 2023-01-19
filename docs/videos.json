@@ -1,8 +1,24 @@
 [
   {
+    "link": "https://www.youtube.com/playlist?list=PLuAO-1XXEh0ZO-XC_uUYydL-qavIY3drK",
+    "title": "John Baez and James Dolan: math conversations",
+    "latest": "2023-01-19T17:59:54+00:00",
+    "first": "2023-01-19T17:59:54+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@johncarlosbaez/109717172687813784",
+      "content": "<p>Two hours a week I talk to James Dolan, mainly about algebraic geometry:</p><p><a href=\"https://www.youtube.com/playlist?list=PLuAO-1XXEh0ZO-XC_uUYydL-qavIY3drK\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/playlist?list=PLuA</span><span class=\"invisible\">O-1XXEh0ZO-XC_uUYydL-qavIY3drK</span></a></p><p>I don't expect this to turn into a paper anytime soon, though I do hope to write one of my AMS Notice column about how the moduli space of triangles is connected to the moduli space of elliptic curves... an idea he came up with, probably not completely new.</p><p>One hour a week I talk to my last remaining grad student, Christian Williams.  Logic and double categories!</p><p>(5/n)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@johncarlosbaez",
+        "display_name": "John Carlos Baez"
+      }
+    ]
+  },
+  {
     "link": "https://www.youtube.com/watch?v=U93bUQ1roiw",
     "title": "youtube.com/watch?v=U93bUQ1roi...",
-    "latest": "2023-01-19T14:20:46+00:00",
+    "latest": "2023-01-19T16:14:55+00:00",
     "first": "2023-01-19T01:36:43+00:00",
     "last_post": {
       "url": "https://sigmoid.social/@rockt/109716297488143454",
@@ -16,6 +32,10 @@
       {
         "url": "https://sigmoid.social/@TedUnderwood",
         "display_name": "Ted Underwood"
+      },
+      {
+        "url": "https://mathstodon.xyz/@dginev",
+        "display_name": "Deyan Ginev"
       }
     ]
   },
@@ -3202,21 +3222,5 @@
       }
     ],
     "first": "2023-01-06T17:40:00+00:00"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=KuoZEb7Zbn0",
-    "title": "How the Public Access Submission System is Ideally Suited to Address the New OSTP Memorandum",
-    "latest": "2023-01-06T17:30:04+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@eSayeed/109642883557615780",
-      "content": "<p>The Public Access Submission System (PASS) is an important opportunity for libraries to build a service that responds directly to the 2022 Holdren OSTP memo. This talk at the recent CNI conference provides info: <a href=\"https://www.youtube.com/watch?v=KuoZEb7Zbn0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=KuoZEb7Zbn</span><span class=\"invisible\">0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@petersuber",
-        "display_name": "petersuber"
-      }
-    ],
-    "first": "2023-01-06T17:30:04+00:00"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/bensheldon/good_job/issues/796",
+    "title": "Experiencing various database exceptions with Rails 7.1  \u00b7 Issue #796 \u00b7 bensheldon/good_job",
+    "latest": "2023-01-19T16:27:20.765000+00:00",
+    "first": "2023-01-19T16:27:20.765000+00:00",
+    "last_post": {
+      "url": "https://ruby.social/@bensheldon/109713725522981654",
+      "content": "<p>ok! let's look at some deadlocks. </p><p>I'm working through this issue: <a href=\"https://github.com/bensheldon/good_job/issues/796\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bensheldon/good_job</span><span class=\"invisible\">/issues/796</span></a></p><p>The deadlocks are coming from a deadlock hotspot in GoodJob: The Notifier. </p><p>The Notifier is responsible for both pg LISTEN, and registering/clearing a Process record (it uses a long-lived Advisory Lock). The Notifier uses a long-running thread and a dedicated database connection. So lots of dragons here!</p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@allafarce",
+        "display_name": "Dave Guarino"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/elk-zone/elk-native/releases/tag/elk-native-v0.2.0",
     "title": "Release Elk Native v0.2.0 \u00b7 elk-zone/elk-native",
     "latest": "2023-01-19T15:03:09+00:00",
@@ -3300,22 +3316,6 @@
       {
         "url": "https://sauropods.win/@futurebird",
         "display_name": "myrmepropagandist"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/facebook/react-native/releases/tag/v0.71.0-rc.6",
-    "title": "Release 0.71.0-RC.6 \u00b7 facebook/react-native",
-    "latest": "2023-01-09T17:14:32+00:00",
-    "first": "2023-01-09T17:14:32+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@kelset/109660371177668525",
-      "content": "<p>quick headsup - we just released 0.71.0-RC6 for <a href=\"https://mastodon.online/tags/reactnative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reactnative</span></a> \u269b\ufe0f.</p><p>It's just a technical release 'cause we needed to verify that all the post-CircleCI-incident stuff was taken care of correctly.</p><p>No changes from RC5.<br>Expected 0.71.0 soon\u2122\ufe0f</p><p><a href=\"https://github.com/facebook/react-native/releases/tag/v0.71.0-rc.6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebook/react-nati</span><span class=\"invisible\">ve/releases/tag/v0.71.0-rc.6</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@kelset",
-        "display_name": "Lorenzo \ud83c\uddfa\ud83c\udde6"
       }
     ]
   }
