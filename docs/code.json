@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/Hello-SimpleAI/chatgpt-comparison-detection",
+    "title": "github.com/Hello-SimpleAI/chat...",
+    "latest": "2023-01-19T01:36:40+00:00",
+    "first": "2023-01-19T01:36:40+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109713306462366194",
+      "content": "<p>How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection</p><p>Proposes the first Human vs. ChatGPT comparison corpus, named HC3.</p><p>abs: <a href=\"https://arxiv.org/abs/2301.07597\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07597</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/Hello-SimpleAI/chatgpt-comparison-detection\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Hello-SimpleAI/chat</span><span class=\"invisible\">gpt-comparison-detection</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/papers-we-love/papers-we-love/blob/master/languages-paradigms/functional_programming/why-functional-programming-matters.pdf",
     "title": "github.com/papers-we-love/pape...",
     "latest": "2023-01-19T00:41:21+00:00",
@@ -3304,26 +3320,6 @@
       {
         "url": "https://m.webtoo.ls/@patak",
         "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rougier/book-mode",
-    "title": "GitHub - rougier/book-mode: A clean interface for org files (Emacs)",
-    "latest": "2023-01-09T09:22:27+00:00",
-    "first": "2023-01-09T08:08:36+00:00",
-    "last_post": {
-      "url": "https://toot.aquilenet.fr/@rougier/109658190769199721",
-      "content": "<p><a href=\"https://toot.aquilenet.fr/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> Book mode is an attempt at offering an interface for reading org-mode files with a clean layout. It is based on the use of large margins, headline and mode-line, with leading stars and bullets in the left margin using right alignment and different symbols. All decorations are part of the header-line (including upper left colored part and right upper glyph) and messages are displayed in the mode-line. Code at <a href=\"https://github.com/rougier/book-mode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rougier/book-mode</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@r3rt0",
-        "display_name": "Roberto Toro"
-      },
-      {
-        "url": "https://mastodon.social/@ctietze",
-        "display_name": "Christian Tietze"
       }
     ]
   }

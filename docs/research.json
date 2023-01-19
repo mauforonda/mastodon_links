@@ -1,5 +1,85 @@
 [
   {
+    "link": "https://doi.org/10.1093/gigascience/giac124",
+    "title": "doi.org/10.1093/gigascience/gi...",
+    "latest": "2023-01-19T02:41:40+00:00",
+    "first": "2023-01-19T02:41:40+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@GigaScience/109713407048618246",
+      "content": "<p>1,600 plant extracts reveal their secrets. A plethora of plant molecules provides a ple\"flora\" of data, as a huge <a href=\"https://mastodon.social/tags/opendata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opendata</span></a> treasure trove is shared into the public domain characterizing around 10% of the plant extracts in the Pierre Fabre Laboratories collection. </p><p>Read more in the blog from @HansZauner <a href=\"http://gigasciencejournal.com/blog/1600-plant-extracts/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">gigasciencejournal.com/blog/16</span><span class=\"invisible\">00-plant-extracts/</span></a></p><p>Read the Data Note description in GigaScience <a href=\"https://doi.org/10.1093/gigascience/giac124\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1093/gigascience/gi</span><span class=\"invisible\">ac124</span></a> </p><p>And download the data in GigaDB <a href=\"http://dx.doi.org/10.5524/102323\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">dx.doi.org/10.5524/102323</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.07525",
+    "title": "https://arxiv.org/abs/2301.07525",
+    "latest": "2023-01-19T01:59:04+00:00",
+    "first": "2023-01-19T01:59:04+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109713394540177327",
+      "content": "<p>OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation</p><p>proj: <a href=\"https://omniobject3d.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">omniobject3d.github.io/</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.07525\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07525</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.07389",
+    "title": "Towards Models that Can See and Read",
+    "latest": "2023-01-19T01:51:15+00:00",
+    "first": "2023-01-19T01:51:15+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109713363787696430",
+      "content": "<p>Towards Models that Can See and Read</p><p>Presents UniTNT, which leads to the first single model that successfully handles both \"seeing\" and \"reading\" images to solve VQA problems.</p><p><a href=\"https://arxiv.org/abs/2301.07389\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07389</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.07608",
+    "title": "Human-Timescale Adaptation in an Open-Ended Task Space",
+    "latest": "2023-01-19T01:36:43+00:00",
+    "first": "2023-01-19T01:36:43+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109713306640366542",
+      "content": "<p>Human-Timescale Adaptation in an Open-Ended Task Space</p><p>Shows that training an RL agent at scale leads to a general in-context learning algo that can adapt to open-ended novel embodied 3D problems as quickly as humans.</p><p>abs: <a href=\"https://arxiv.org/abs/2301.07608\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07608</span><span class=\"invisible\"></span></a><br>video: <a href=\"https://www.youtube.com/watch?v=U93bUQ1roiw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=U93bUQ1roi</span><span class=\"invisible\">w</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.07597",
+    "title": "How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection",
+    "latest": "2023-01-19T01:36:40+00:00",
+    "first": "2023-01-19T01:36:40+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109713306462366194",
+      "content": "<p>How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection</p><p>Proposes the first Human vs. ChatGPT comparison corpus, named HC3.</p><p>abs: <a href=\"https://arxiv.org/abs/2301.07597\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07597</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/Hello-SimpleAI/chatgpt-comparison-detection\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Hello-SimpleAI/chat</span><span class=\"invisible\">gpt-comparison-detection</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
     "link": "https://www.nature.com/articles/s43016-022-00638-0",
     "title": "Making food transport data matter - Nature Food",
     "latest": "2023-01-18T21:52:38+00:00",
@@ -3376,86 +3456,6 @@
       {
         "url": "https://sciences.social/@per",
         "display_name": "Per Engzell"
-      }
-    ]
-  },
-  {
-    "link": "https://royalsocietypublishing.org/doi/full/10.1098/rstb.2018.0372",
-    "title": "royalsocietypublishing.org/doi...",
-    "latest": "2023-01-08T11:35:31+00:00",
-    "first": "2023-01-08T11:35:31+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@samim/109653375793204760",
-      "content": "<p>A brief history of liquid computers - by @adamatzky (2019): <a href=\"https://royalsocietypublishing.org/doi/full/10.1098/rstb.2018.0372\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">royalsocietypublishing.org/doi</span><span class=\"invisible\">/full/10.1098/rstb.2018.0372</span></a></p><p>The dry history of liquid computers - by @adamatzky  (2018): <a href=\"https://arxiv.org/pdf/1811.09989.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/1811.09989.pdf</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@samim",
-        "display_name": "samim"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/pdf/1811.09989.pdf",
-    "title": "https://arxiv.org/pdf/1811.09989.pdf",
-    "latest": "2023-01-08T11:35:31+00:00",
-    "first": "2023-01-08T11:35:31+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@samim/109653375793204760",
-      "content": "<p>A brief history of liquid computers - by @adamatzky (2019): <a href=\"https://royalsocietypublishing.org/doi/full/10.1098/rstb.2018.0372\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">royalsocietypublishing.org/doi</span><span class=\"invisible\">/full/10.1098/rstb.2018.0372</span></a></p><p>The dry history of liquid computers - by @adamatzky  (2018): <a href=\"https://arxiv.org/pdf/1811.09989.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/1811.09989.pdf</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@samim",
-        "display_name": "samim"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2212.05965",
-    "title": "Jumping over the paywall: Strategies and motivations for scholarly piracy and other alternatives",
-    "latest": "2023-01-08T10:40:11+00:00",
-    "first": "2023-01-08T10:40:11+00:00",
-    "last_post": {
-      "url": "https://mastodon.nu/@johank76/109652804981666035",
-      "content": "<p>\"Jumping over the paywall: Strategies and motivations for scholarly piracy and other alternatives\"<br><a href=\"https://arxiv.org/abs/2212.05965\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.05965</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sciences.social/@per",
-        "display_name": "Per Engzell"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/s41587-022-01586-7",
-    "title": "nature.com/articles/s41587-022...",
-    "latest": "2023-01-07T20:30:20+00:00",
-    "first": "2023-01-07T20:30:20+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@karinamendoza/109649816468643266",
-      "content": "<p>Amazing &amp; outstanding work by MIT Prof Ed Boyden &amp; team! Congrats!</p><p>\"What if living cells could record their own physiological histories, in digital form, inside themselves? We devised a way to record the timecourse of a biological signal, into a growing chain of proteins, inside a living cell. Then, the history of the signal can easily be read out later, via ordinary microscopy procedures. MIT News <a href=\"https://news.mit.edu/2023/self-assembling-proteins-can-store-cellular-memories-0102\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">news.mit.edu/2023/self-assembl</span><span class=\"invisible\">ing-proteins-can-store-cellular-memories-0102</span></a>, and open access article in Nature Biotech:  <a href=\"https://www.nature.com/articles/s41587-022-01586-7\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41587-022</span><span class=\"invisible\">-01586-7</span></a>\"</p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@karinamendoza",
-        "display_name": "Karina Mendoza"
-      }
-    ]
-  },
-  {
-    "link": "http://arxiv.org/abs/2207.04630",
-    "title": "http://arxiv.org/abs/2207.04630",
-    "latest": "2023-01-07T18:50:02.898000+00:00",
-    "first": "2023-01-07T18:50:02.898000+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@MolemanPeter/109649419271403734",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mathstodon.xyz/@manlius\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>manlius</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/neuroscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>neuroscience</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/complexsystems\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>complexsystems</span></a></span> <span class=\"h-card\"><a href=\"https://neuromatch.social/@PessoaBrain\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PessoaBrain</span></a></span> <span class=\"h-card\"><a href=\"https://mstdn.social/@WiringtheBrain\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>WiringtheBrain</span></a></span> <span class=\"h-card\"><a href=\"https://neuromatch.social/@kordinglab\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kordinglab</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.world/@ricard_sole\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ricard_sole</span></a></span> <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@albertcardona\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>albertcardona</span></a></span> <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@c4computation\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>c4computation</span></a></span> <br>Is this in line with hierarchical connectivity not being necessary according to <a href=\"http://arxiv.org/abs/2207.04630\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/2207.04630</span><span class=\"invisible\"></span></a>?</p>"
-    },
-    "people": [
-      {
-        "url": "https://a.gup.pe/u/networkscience",
-        "display_name": "networkscience group"
       }
     ]
   }
