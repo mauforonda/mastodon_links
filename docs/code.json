@@ -1,5 +1,61 @@
 [
   {
+    "link": "https://github.com/dirty-cat/dirty_cat/releases/tag/0.4.0b1",
+    "title": "github.com/dirty-cat/dirty_cat...",
+    "latest": "2023-01-19T09:03:24+00:00",
+    "first": "2023-01-19T09:03:24+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@Soda_Inria/109715059248006210",
+      "content": "<p>dirty_cat 0.4.0 beta version is out!</p><p>Some brand new features in this release:<br>- the fuzzy_join function to join tables on imprecise matches;<br>- the FeatureAugmenter, a scikit-learn Transformer for joining multiple tables with dirty categories;<br>- the deduplicate function can regroup dirty categories in your table.</p><p>You can install it:</p><p>pip install dirty-cat==0.4.0b1</p><p>Try it and give us feedback!</p><p>See all changes: <a href=\"https://github.com/dirty-cat/dirty_cat/releases/tag/0.4.0b1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dirty-cat/dirty_cat</span><span class=\"invisible\">/releases/tag/0.4.0b1</span></a></p><p>And check-out the examples on:<br><a href=\"https://dirty-cat.github.io/dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dirty-cat.github.io/dev/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@GaelVaroquaux",
+        "display_name": "Ga\u00ebl Varoquaux"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jgm/pandoc/releases/tag/3.0",
+    "title": "Release pandoc 3.0 \u00b7 jgm/pandoc",
+    "latest": "2023-01-19T09:01:34+00:00",
+    "first": "2023-01-18T22:16:29+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@tarleb/109712510427975566",
+      "content": "<p><a href=\"https://scholar.social/tags/Pandoc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pandoc</span></a> 3 is finally out! It's been in the works for five months. I'm very excited about the many new features that we built and can't wait to hear what people think about it.<br><a href=\"https://github.com/jgm/pandoc/releases/tag/3.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jgm/pandoc/releases</span><span class=\"invisible\">/tag/3.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@kjhealy",
+        "display_name": "Kieran Healy"
+      },
+      {
+        "url": "https://mathstodon.xyz/@dginev",
+        "display_name": "Deyan Ginev"
+      },
+      {
+        "url": "https://someone.elses.computer/@mikarv",
+        "display_name": "Michael Veale"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/timothybrooks/instruct-pix2pix",
+    "title": "GitHub - timothybrooks/instruct-pix2pix",
+    "latest": "2023-01-19T08:31:05+00:00",
+    "first": "2023-01-19T08:31:05+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@akhaliq/109714298864495126",
+      "content": "<p>InstructPix2Pix: Learning to Follow Image Editing Instructions code released with @Gradio@twitter.com Demo</p><p>Github: <a href=\"https://github.com/timothybrooks/instruct-pix2pix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/timothybrooks/instr</span><span class=\"invisible\">uct-pix2pix</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/Nalen98/GhidraEmu",
     "title": "GitHub - Nalen98/GhidraEmu: Native Pcode emulator",
     "latest": "2023-01-19T03:23:29+00:00",
@@ -44,26 +100,6 @@
       {
         "url": "https://mstdn.io/@paperswelove",
         "display_name": "Papers We Love"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jgm/pandoc/releases/tag/3.0",
-    "title": "Release pandoc 3.0 \u00b7 jgm/pandoc",
-    "latest": "2023-01-18T22:25:12+00:00",
-    "first": "2023-01-18T22:16:29+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@tarleb/109712510427975566",
-      "content": "<p><a href=\"https://scholar.social/tags/Pandoc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pandoc</span></a> 3 is finally out! It's been in the works for five months. I'm very excited about the many new features that we built and can't wait to hear what people think about it.<br><a href=\"https://github.com/jgm/pandoc/releases/tag/3.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jgm/pandoc/releases</span><span class=\"invisible\">/tag/3.0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@kjhealy",
-        "display_name": "Kieran Healy"
-      },
-      {
-        "url": "https://mathstodon.xyz/@dginev",
-        "display_name": "Deyan Ginev"
       }
     ]
   },
@@ -3280,38 +3316,6 @@
       {
         "url": "https://mapstodon.space/@jeremy",
         "display_name": "J\u00e9r\u00e9my Garniaux"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/wilkelab/ggridges/issues/57",
-    "title": "Feature Request: Trim Edges \u00b7 Issue #57 \u00b7 wilkelab/ggridges",
-    "latest": "2023-01-09T12:21:27+00:00",
-    "first": "2023-01-09T12:21:27+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@dingemansemark/109659218719054960",
-      "content": "<p>Okay folks how alive is the <a href=\"https://scholar.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://scholar.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> crowd here? I want to create ridgeline plots with ggridges::geom_density_ridges, but with the trim=T option of ggplot::geom_density. There's an open feature request at  <a href=\"https://github.com/wilkelab/ggridges/issues/57\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/wilkelab/ggridges/i</span><span class=\"invisible\">ssues/57</span></a> so I don't think <span class=\"h-card\"><a href=\"https://genart.social/@clauswilke\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>clauswilke</span></a></span> has been able to implement this </p><p>Interested in ideas! Main reason to want ridges instead of vanilla density plots is multifaceted data \u2014 see example plot.</p>"
-    },
-    "people": [
-      {
-        "url": "https://scholar.social/@dingemansemark",
-        "display_name": "Mark Dingemanse"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mpociot/chatgpt-vscode",
-    "title": "GitHub - mpociot/chatgpt-vscode: A VSCode extension that allows you to use ChatGPT",
-    "latest": "2023-01-09T10:46:26+00:00",
-    "first": "2023-01-09T10:46:26+00:00",
-    "last_post": {
-      "url": "https://toolsforthought.rocks/@andric/109658845111943720",
-      "content": "<p>I\u2019ve been trying it out in the browser so far, and copy-pasting code. </p><p>But might try this VSCode extension to see if it improves my experience.</p><p><a href=\"https://github.com/mpociot/chatgpt-vscode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mpociot/chatgpt-vsc</span><span class=\"invisible\">ode</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toolsforthought.rocks/@andric",
-        "display_name": "Andric Tham"
       }
     ]
   }
