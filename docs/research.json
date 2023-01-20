@@ -1,5 +1,101 @@
 [
   {
+    "link": "https://www.nature.com/articles/s41562-022-01498-1",
+    "title": "Gender inequality and self-publication are common among academic editors - Nature Human Behaviour",
+    "latest": "2023-01-20T03:03:52+00:00",
+    "first": "2023-01-16T19:08:35+00:00",
+    "last_post": {
+      "url": "https://mastodon.world/@OpenSexism/109700465426736422",
+      "content": "<p>\"although women are already underrepresented among scientists (26% of all unique scientists in MAG), they are even more underrepresented among editors and editors-in-chief (14% and 8%, respectively). Moreover, the gap remained stable over the past five decades; the proportion of female editors has consistently remained around half that of female scientists, although gender parity has been steadily increasing in science in general\" <a href=\"https://mastodon.world/tags/academia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>academia</span></a> <a href=\"https://mastodon.world/tags/sexism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sexism</span></a> <a href=\"https://mastodon.world/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a></p><p><a href=\"https://www.nature.com/articles/s41562-022-01498-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41562-022</span><span class=\"invisible\">-01498-1</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      },
+      {
+        "url": "https://mastodon.social/@philipncohen",
+        "display_name": "Philip N Cohen"
+      },
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      },
+      {
+        "url": "https://econtwitter.net/@ckrafftc",
+        "display_name": "Caroline Krafft"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.07836",
+    "title": "Self Supervision Does Not Help Natural Language Supervision at Scale",
+    "latest": "2023-01-20T01:57:08+00:00",
+    "first": "2023-01-20T01:57:08+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109719049250972514",
+      "content": "<p>Self Supervision Does Not Help Natural Language Supervision at Scale</p><p>Finds that a combination of CLIP + MAE provides a benefit over CLIP when trained on 11.3M image-text pairs, but little to no benefit over CLIP when trained on 1.4B images. </p><p><a href=\"https://arxiv.org/abs/2301.07836\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07836</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.08243",
+    "title": "Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture",
+    "latest": "2023-01-20T01:49:26+00:00",
+    "first": "2023-01-20T01:49:26+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109719018969433958",
+      "content": "<p>Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture</p><p><a href=\"https://arxiv.org/abs/2301.08243\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.08243</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/pdf/2301.08247.pdf",
+    "title": "https://arxiv.org/pdf/2301.08247.pdf",
+    "latest": "2023-01-20T01:42:04+00:00",
+    "first": "2023-01-20T01:42:04+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109718989968531601",
+      "content": "<p>Multiview Compressive Coding for 3D Reconstruction</p><p>MCC learns to compress the input appearance and geometry to predict the 3D structure by querying a 3D-aware decoder and substantially outperforms the SotA.</p><p>proj: <a href=\"https://mcc3d.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mcc3d.github.io/</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/pdf/2301.08247.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2301.08247.pdf</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://dl.acm.org/doi/10.1145/3577213",
+    "title": "Spotlight Tweets: A Lens for Exploring Attention Dynamics within Online Sensemaking during Crisis Events | ACM Transactions on Social Computing",
+    "latest": "2023-01-20T01:28:17+00:00",
+    "first": "2023-01-19T04:27:28+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@katestarbird/109713978053090761",
+      "content": "<p>Excited for the publications of our paper (w/ Kaitlyn Zhou and Emma Spiro): Spotlight Tweets: A Lens for Exploring Attention Dynamics within Online Sensemaking during Crisis Events. The paper, which looks at sensemaking during the 2018 Hawaii missile crisis, makes several contributions, including: presenting the concept of \u201cspotlighting\u201d and introducing our cumulative graph technique, which reveals how audience exposure affects the propagation of social media posts. <br><a href=\"https://dl.acm.org/doi/10.1145/3577213\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dl.acm.org/doi/10.1145/3577213</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@katestarbird",
+        "display_name": "Kate Starbird"
+      },
+      {
+        "url": "https://mastodon.social/@justinhendrix",
+        "display_name": "Justin Hendrix"
+      }
+    ]
+  },
+  {
     "link": "https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0570",
     "title": "A cultural evolutionary theory that explains both gradual and punctuated change | Journal of The Royal Society Interface",
     "latest": "2023-01-20T00:15:06+00:00",
@@ -256,22 +352,6 @@
       {
         "url": "https://fedihum.org/@christof",
         "display_name": "Christof Sch\u00f6ch (moderator)"
-      }
-    ]
-  },
-  {
-    "link": "https://dl.acm.org/doi/10.1145/3577213",
-    "title": "Spotlight Tweets: A Lens for Exploring Attention Dynamics within Online Sensemaking during Crisis Events | ACM Transactions on Social Computing",
-    "latest": "2023-01-19T04:27:28+00:00",
-    "first": "2023-01-19T04:27:28+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@katestarbird/109713978053090761",
-      "content": "<p>Excited for the publications of our paper (w/ Kaitlyn Zhou and Emma Spiro): Spotlight Tweets: A Lens for Exploring Attention Dynamics within Online Sensemaking during Crisis Events. The paper, which looks at sensemaking during the 2018 Hawaii missile crisis, makes several contributions, including: presenting the concept of \u201cspotlighting\u201d and introducing our cumulative graph technique, which reveals how audience exposure affects the propagation of social media posts. <br><a href=\"https://dl.acm.org/doi/10.1145/3577213\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dl.acm.org/doi/10.1145/3577213</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@katestarbird",
-        "display_name": "Kate Starbird"
       }
     ]
   },
@@ -1116,34 +1196,6 @@
       {
         "url": "https://mastodon.online/@hildabast",
         "display_name": "Hilda Bastian"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/s41562-022-01498-1",
-    "title": "Gender inequality and self-publication are common among academic editors - Nature Human Behaviour",
-    "latest": "2023-01-17T01:53:42+00:00",
-    "first": "2023-01-16T19:08:35+00:00",
-    "last_post": {
-      "url": "https://datasci.social/@pholme/109700324804441523",
-      "content": "<p>Our paper about the gender &amp; publication patterns of scientific editors out in Nature Human Behavior \ud83d\udcf0<br><a href=\"https://www.nature.com/articles/s41562-022-01498-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41562-022</span><span class=\"invisible\">-01498-1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@mszll",
-        "display_name": "Michael Szell"
-      },
-      {
-        "url": "https://mastodon.social/@philipncohen",
-        "display_name": "Philip N Cohen"
-      },
-      {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      },
-      {
-        "url": "https://econtwitter.net/@ckrafftc",
-        "display_name": "Caroline Krafft"
       }
     ]
   },
@@ -3408,54 +3460,6 @@
       {
         "url": "https://mathstodon.xyz/@JoshuahHeath",
         "display_name": "|\u00d0r\u27e9\u2295|J\u03b8\u03a3\u0127\u03bc\u03b1\u0127\u27e9\u2297|H\u03b5\u03b1\u03c4\u0127\u27e9"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1017/S0140525X22002874",
-    "title": "doi.org/10.1017/S0140525X22002...",
-    "latest": "2023-01-09T13:10:07+00:00",
-    "first": "2023-01-09T13:10:07+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jeffgreene/109659271012447292",
-      "content": "<p>I enjoyed this article on Integrative Experiment Design (IED). The authors argued that neither traditional nor \"reformed\" psychology will be able to leverage empirical work to advance theory and practice. Instead, they advanced IED as a better method. To me, IED seems to be a combination of natural history and design-based research. <a href=\"https://mastodon.social/tags/psychology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>psychology</span></a> <a href=\"https://mastodon.social/tags/education\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>education</span></a> <a href=\"https://mastodon.social/tags/educationalpsychology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>educationalpsychology</span></a> <span class=\"h-card\"><a href=\"https://mastodon.social/@psychology\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>psychology</span></a></span><br><a href=\"https://doi.org/10.1017/S0140525X22002874\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1017/S0140525X22002</span><span class=\"invisible\">874</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sciences.social/@mjb",
-        "display_name": "mark"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1038/s41467-022-35462-4",
-    "title": "doi.org/10.1038/s41467-022-354...",
-    "latest": "2023-01-09T13:04:44+00:00",
-    "first": "2023-01-09T13:04:44+00:00",
-    "last_post": {
-      "url": "https://mapstodon.space/@WorldPopProject/109659388928950183",
-      "content": "<p>New <a href=\"https://mapstodon.space/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a> using our <a href=\"https://mapstodon.space/tags/population\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>population</span></a> <a href=\"https://mapstodon.space/tags/opendata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opendata</span></a> - Temperature-related <a href=\"https://mapstodon.space/tags/mortality\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mortality</span></a> in <a href=\"https://mapstodon.space/tags/China\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>China</span></a> from specific injury - in <br>@NatureComms<br> <a href=\"https://mapstodon.space/tags/ClimateChange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateChange</span></a> <a href=\"https://mapstodon.space/tags/Health\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Health</span></a> <a href=\"https://doi.org/10.1038/s41467-022-35462-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1038/s41467-022-354</span><span class=\"invisible\">62-4</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mapstodon.space/@WorldPopProject",
-        "display_name": "WorldPopProject"
-      }
-    ]
-  },
-  {
-    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010820",
-    "title": "Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering",
-    "latest": "2023-01-09T12:30:27+00:00",
-    "first": "2023-01-09T12:30:27+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@BoulesteixLaure/109658519534124580",
-      "content": "<p>Do over-optimism and replication crisis in science only affect studies using testing &amp; p-values? Certainly not... Here is an illustration of how these problems can affect completely different types of studies, namely in the context of clustering and network analysis of microbiome data:</p><p>Happy to announce that Theresa Ullmann's paper \"Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering\" has appeared in PLOS Comp Biol</p><p><a href=\"https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010820\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.plos.org/ploscompbiol</span><span class=\"invisible\">/article?id=10.1371/journal.pcbi.1010820</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@NeuroStats",
-        "display_name": "Manjari Narayan"
       }
     ]
   }
