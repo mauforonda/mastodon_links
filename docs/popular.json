@@ -224,34 +224,6 @@
     ]
   },
   {
-    "link": "https://www.axios.com/newsletters/axios-media-trends-1f66ce7b-9a47-400c-ac21-1c4efa4d5eba.html",
-    "title": "axios.com/newsletters/axios-me...",
-    "latest": "2023-01-18T12:34:50+00:00",
-    "first": "2023-01-17T20:28:49+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@drewharwell/109705496095665151",
-      "content": "<p>\"The Washington Post continued to run Twitter ads to boost views to its branded content campaigns on the platform late last month, despite one of its reporters being banned a few weeks prior\"</p><p><a href=\"https://www.axios.com/newsletters/axios-media-trends-1f66ce7b-9a47-400c-ac21-1c4efa4d5eba.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/newsletters/axios-me</span><span class=\"invisible\">dia-trends-1f66ce7b-9a47-400c-ac21-1c4efa4d5eba.html</span></a></p><p>I'm that reporter. It's now been more than a month since I was suspended on Twitter for sharing factual journalism. I miss a few people there, but the website has been easily replaced.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@delong",
-        "display_name": "delong"
-      },
-      {
-        "url": "https://mastodon.social/@eckles",
-        "display_name": "Dean Eckles"
-      },
-      {
-        "url": "https://mstdn.social/@adamwulf",
-        "display_name": "Adam Wulf"
-      },
-      {
-        "url": "https://mastodon.online/@jaspar",
-        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-      }
-    ]
-  },
-  {
     "link": "https://reutersinstitute.politics.ox.ac.uk/blind-news-audiences-are-being-left-behind-data-visualisation-revolution-heres-how-we-fix",
     "title": "Blind news audiences are being left behind in the data visualisation revolution: here's how we fix that",
     "latest": "2023-01-18T17:52:32+00:00",
@@ -476,30 +448,6 @@
     ]
   },
   {
-    "link": "http://teaching.elotroalex.com/s23-intro-dh/",
-    "title": "Intro to DH \u2014 Home",
-    "latest": "2023-01-18T05:30:14+00:00",
-    "first": "2023-01-17T20:18:47+00:00",
-    "last_post": {
-      "url": "https://hcommons.social/@elotroalex/109706299833800881",
-      "content": "<p>Here's the first iteration of the syllabus for this semester's \" Introduction to Digital Humanities<br>Part II: Computational Approaches to Culture.\" Surprised that there aren't too many TBAs. You may find a few things of interest:</p><p>a) The final paper will be co-written with AI. <br>b) There's a midterm exam whose sole purpose in life is to use it as a tool to build vocab and understanding. <br>c) I set up a binary between Analysis and Poesis that, spoiler alert, I will undermine during the semester.<br>d) I barely teach coding. Instead I spend a lot of teaching energy on how to read tutorials and corpus analysis papers.</p><p>Tagging <span class=\"h-card\"><a href=\"https://mastodon.social/@laurenfklein\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>laurenfklein</span></a></span> and <span class=\"h-card\"><a href=\"https://hcommons.social/@zoeleblanc\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>zoeleblanc</span></a></span> who are going on a similar journey this semester too. </p><p><a href=\"http://teaching.elotroalex.com/s23-intro-dh/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">teaching.elotroalex.com/s23-in</span><span class=\"invisible\">tro-dh/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jose_eduardo",
-        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
-      },
-      {
-        "url": "https://hcommons.social/@scott_bot",
-        "display_name": "@scott_bot \ud83e\udd39"
-      },
-      {
-        "url": "https://sigmoid.social/@maria_antoniak",
-        "display_name": "Maria Antoniak"
-      }
-    ]
-  },
-  {
     "link": "https://andy-bell.co.uk/front-end-is-so-much-more-than-building-designs/",
     "title": "  Front-end is so much more than building designs | Andy Bell",
     "latest": "2023-01-19T18:12:28+00:00",
@@ -640,6 +588,30 @@
       {
         "url": "https://hachyderm.io/@mikiobraun",
         "display_name": "Mikio Braun \ud83d\udc33"
+      }
+    ]
+  },
+  {
+    "link": "https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118",
+    "title": "quantamagazine.org/finally-a-f...",
+    "latest": "2023-01-20T18:57:24+00:00",
+    "first": "2023-01-18T18:42:35+00:00",
+    "last_post": {
+      "url": "https://sciencemastodon.com/@benbenbrubaker/109711678192228524",
+      "content": "<p>After nearly 70 years, researchers have found a fast algorithm for finding shortest paths on negative-weight graphs \u2014 those in which traveling along one segment can offset the cost of traversing another. My latest for <span class=\"h-card\"><a href=\"https://mstdn.social/@QuantaMagazine\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>QuantaMagazine</span></a></span>:</p><p>1/3</p><p><a href=\"https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">quantamagazine.org/finally-a-f</span><span class=\"invisible\">ast-algorithm-for-shortest-paths-on-negative-graphs-20230118</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sciencemastodon.com/@benbenbrubaker",
+        "display_name": "Ben Brubaker"
+      },
+      {
+        "url": "https://newsie.social/@7homaslin",
+        "display_name": "Thomas Lin"
+      },
+      {
+        "url": "https://x0f.org/@pwuille",
+        "display_name": "Pieter Wuille"
       }
     ]
   },
@@ -932,102 +904,26 @@
     ]
   },
   {
-    "link": "https://press.uchicago.edu/ucp/books/book/chicago/O/bo185167017.html",
-    "title": "Oil Beach",
-    "latest": "2023-01-18T15:13:42+00:00",
-    "first": "2023-01-17T20:55:57+00:00",
+    "link": "https://tapbots.com/tweetbot/",
+    "title": "Tweetbot. April 2011 - January 2023",
+    "latest": "2023-01-20T18:56:09+00:00",
+    "first": "2023-01-20T20:15:55+00:00",
     "last_post": {
-      "url": "https://union.place/@inquiline/109706332895175301",
-      "content": "<p>OIL BEACH is officially out today!! New \ud83d\udcd9 by me about the recent history, present, &amp; future of Los Angeles, global capitalism, wildlife conservation, &amp; energy. Gonna thank a few folks in this \ud83e\uddf5, first up is <span class=\"h-card\"><a href=\"https://hcommons.social/@UChicagoPress\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>UChicagoPress</span></a></span> &amp; my simply wonderful editor there <span class=\"h-card\"><a href=\"https://mastodon.world/@josephcalamia\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>josephcalamia</span></a></span> </p><p>(Pls untag groups if you reply to this post so we don't spam them!) <br>Link: <a href=\"https://press.uchicago.edu/ucp/books/book/chicago/O/bo185167017.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">press.uchicago.edu/ucp/books/b</span><span class=\"invisible\">ook/chicago/O/bo185167017.html</span></a></p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/sts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sts</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/geography\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>geography</span></a></span> <a href=\"https://union.place/tags/EnvHist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EnvHist</span></a> <a href=\"https://union.place/tags/Energy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Energy</span></a> <a href=\"https://union.place/tags/Capitalism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Capitalism</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/ecologies\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ecologies</span></a></span> <a href=\"https://union.place/tags/NewBooks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NewBooks</span></a> <a href=\"https://union.place/tags/Nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nature</span></a> <a href=\"https://union.place/tags/STS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>STS</span></a> <a href=\"https://union.place/tags/Commodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Commodon</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/communicationscholars\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>communicationscholars</span></a></span> <a href=\"https://union.place/tags/ClimateChange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateChange</span></a></p>"
+      "url": "https://tapbots.social/@paul/109723024588560323",
+      "content": "<p>And now its officially official.<br><a href=\"https://tapbots.com/tweetbot/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tapbots.com/tweetbot/</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
       },
       {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
-      }
-    ]
-  },
-  {
-    "link": "http://windosill.com/",
-    "title": "http://windosill.com",
-    "latest": "2023-01-17T19:40:16+00:00",
-    "first": "2023-01-17T20:27:09+00:00",
-    "last_post": {
-      "url": "https://mastodon.gamedev.place/@eggplantshow/109706172690141743",
-      "content": "<p>On our next episode (rescheduled from December):</p><p>We're so psyched to be chatting with <span class=\"h-card\"><a href=\"https://mastodon.social/@vectorpark\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vectorpark</span></a></span> about the recent Switch release of Windosill and the rest of his incredibly inspiring oeuvre.</p><p>Send us your thoughts and questions for Patrick!<br><a href=\"http://windosill.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">windosill.com</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@helvetica",
-        "display_name": "Zach Gage"
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
       },
       {
-        "url": "https://xoxo.zone/@lauraehall",
-        "display_name": "Laura E. Hall"
-      }
-    ]
-  },
-  {
-    "link": "https://www.gov.uk/apply-for-photo-id-voter-authority-certificate",
-    "title": "gov.uk/apply-for-photo-id-vote...",
-    "latest": "2023-01-19T17:33:08+00:00",
-    "first": "2023-01-17T20:08:19+00:00",
-    "last_post": {
-      "url": "https://mastodon.me.uk/@theaardvark/109715992592253362",
-      "content": "<p>You will need photo ID to vote in person in this year's local elections on 4th May.<br>If you don't have a driving licence,  passport or other accepted ID you can apply for a free Citizen Card using the code FREEVOTERID<br><a href=\"https://mastodon.me.uk/tags/StopVoterSuppression\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StopVoterSuppression</span></a> <br><a href=\"https://www.citizencard.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">citizencard.com/</span><span class=\"invisible\"></span></a></p><p>ADDENDUM: There is also a Govt operated free card that you can apply for, for voting purposes only... <a href=\"https://www.gov.uk/apply-for-photo-id-voter-authority-certificate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">gov.uk/apply-for-photo-id-vote</span><span class=\"invisible\">r-authority-certificate</span></a> (h/t to <span class=\"h-card\"><a href=\"https://mastodon.me.uk/@symroe\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>symroe</span></a></span> for the pointer).</p>"
-    },
-    "people": [
-      {
-        "url": "https://assemblag.es/@rachelcoldicutt",
-        "display_name": "Rachel Coldicutt"
-      },
-      {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1038/d41586-023-00085-2",
-    "title": "doi.org/10.1038/d41586-023-000...",
-    "latest": "2023-01-17T19:19:07+00:00",
-    "first": "2023-01-17T19:30:59+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@clathrin/109706159555245399",
-      "content": "<p>In response to <span class=\"h-card\"><a href=\"https://mas.to/@richardsever\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>richardsever</span></a></span> World View piece, I discussed with folks <span class=\"h-card\"><a href=\"https://mstdn.science/@roylelab\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>roylelab</span></a></span> whether they would like to get involved in <a href=\"https://mastodon.social/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> <a href=\"https://mastodon.social/tags/PeerReview\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PeerReview</span></a>. There was a lot of enthusiasm. Wondering if other institutions are considering this opportunity.</p><p><a href=\"https://doi.org/10.1038/d41586-023-00085-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1038/d41586-023-000</span><span class=\"invisible\">85-2</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.cwts.nl/@LudoWaltman",
-        "display_name": "Ludo Waltman"
-      },
-      {
-        "url": "https://mastodon.social/@clathrin",
-        "display_name": "Stephen Royle"
-      }
-    ]
-  },
-  {
-    "link": "https://satrday-london-2023.jumpingrivers.com/",
-    "title": "satrday-london-2023.jumpingriv...",
-    "latest": "2023-01-17T18:15:36+00:00",
-    "first": "2023-01-17T19:25:27+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@jumpingrivers/109705182309384449",
-      "content": "<p>Our Keynote speaker for SatRdays London is <span class=\"h-card\"><a href=\"https://fosstodon.org/@juliasilge\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>juliasilge</span></a></span> from <span class=\"h-card\"><a href=\"https://fosstodon.org/@Posit\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Posit</span></a></span>, and her talk \"What is \"production\" anyway? MLOps for the curious\"</p><p>For more information on Julia and the conference, take a look at the website!</p><p><a href=\"https://satrday-london-2023.jumpingrivers.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">satrday-london-2023.jumpingriv</span><span class=\"invisible\">ers.com</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/MLops\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MLops</span></a> <a href=\"https://fosstodon.org/tags/satRdays\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>satRdays</span></a> <a href=\"https://fosstodon.org/tags/London\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>London</span></a> <a href=\"https://fosstodon.org/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://fosstodon.org/tags/Programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Programming</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@hadleywickham",
-        "display_name": "Hadley Wickham"
-      },
-      {
-        "url": "https://fosstodon.org/@jennybryan",
-        "display_name": "Jenny Bryan"
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
       }
     ]
   },
@@ -1568,26 +1464,6 @@
       {
         "url": "https://techhub.social/@ruthpozuelo",
         "display_name": "Ruth Pozuelo Martinez"
-      }
-    ]
-  },
-  {
-    "link": "https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118",
-    "title": "quantamagazine.org/finally-a-f...",
-    "latest": "2023-01-20T17:03:19+00:00",
-    "first": "2023-01-18T18:42:35+00:00",
-    "last_post": {
-      "url": "https://sciencemastodon.com/@benbenbrubaker/109711678192228524",
-      "content": "<p>After nearly 70 years, researchers have found a fast algorithm for finding shortest paths on negative-weight graphs \u2014 those in which traveling along one segment can offset the cost of traversing another. My latest for <span class=\"h-card\"><a href=\"https://mstdn.social/@QuantaMagazine\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>QuantaMagazine</span></a></span>:</p><p>1/3</p><p><a href=\"https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">quantamagazine.org/finally-a-f</span><span class=\"invisible\">ast-algorithm-for-shortest-paths-on-negative-graphs-20230118</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sciencemastodon.com/@benbenbrubaker",
-        "display_name": "Ben Brubaker"
-      },
-      {
-        "url": "https://newsie.social/@7homaslin",
-        "display_name": "Thomas Lin"
       }
     ]
   },
@@ -2192,6 +2068,26 @@
     ]
   },
   {
+    "link": "https://blogs.worldbank.org/impactevaluations/weekly-links-january-20-improving-traffic-safety-public-information-lads-and",
+    "title": "Weekly links January 20: improving traffic safety with public information, LADs and missing data, grandparents, post-docs, and more\u2026",
+    "latest": "2023-01-20T19:38:33+00:00",
+    "first": "2023-01-20T14:06:14+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@dmckenzie001/109721916208650592",
+      "content": "<p>This week's links include advice for those considering doing a post-doc, a new cartoon for your teaching of subgroup analysis, an experiment on different approaches to improving minibus safety in Kenya, the implications of more grandparents being around in the world, and more...<a href=\"https://blogs.worldbank.org/impactevaluations/weekly-links-january-20-improving-traffic-safety-public-information-lads-and\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.worldbank.org/impacteval</span><span class=\"invisible\">uations/weekly-links-january-20-improving-traffic-safety-public-information-lads-and</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@dmckenzie001",
+        "display_name": "David McKenzie"
+      },
+      {
+        "url": "https://econtwitter.net/@drodrik",
+        "display_name": "Dani Rodrik"
+      }
+    ]
+  },
+  {
     "link": "https://www.insidehighered.com/news/2023/01/20/academics-work-detect-chatgpt-and-other-ai-writing",
     "title": "Academics work to detect ChatGPT and other AI writing",
     "latest": "2023-01-20T13:31:46+00:00",
@@ -2308,6 +2204,26 @@
       {
         "url": "https://xoxo.zone/@lauraehall",
         "display_name": "Laura E. Hall"
+      }
+    ]
+  },
+  {
+    "link": "https://www.eff.org/deeplinks/2023/01/fair-use-creep-feature-not-bug",
+    "title": "Fair Use Creep Is A Feature, Not a Bug",
+    "latest": "2023-01-20T18:37:07+00:00",
+    "first": "2023-01-20T16:30:37+00:00",
+    "last_post": {
+      "url": "https://mastodon.archive.org/@brewsterkahle/109722483934968939",
+      "content": "<p>\"Fair Use Creep Is A Feature, Not a Bug\"   go EFF!</p><p>\"In Hachette v. Internet Archive, four of the biggest publishers in the world, are trying to shut down Controlled Digital Lending, which allows people to check out digital copies of books for two weeks or less...</p><p>Supported by authors, libraries, and scholars, the Internet Archive has explained that CDL is a lawful fair use that serves copyright\u2019s ultimate purpose: enriching our common culture.\"</p><p><a href=\"https://www.eff.org/deeplinks/2023/01/fair-use-creep-feature-not-bug\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">eff.org/deeplinks/2023/01/fair</span><span class=\"invisible\">-use-creep-feature-not-bug</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.archive.org/@brewsterkahle",
+        "display_name": "Brewster Kahle"
+      },
+      {
+        "url": "https://fediscience.org/@petersuber",
+        "display_name": "petersuber"
       }
     ]
   }
