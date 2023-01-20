@@ -1,5 +1,165 @@
 [
   {
+    "link": "https://github.com/Bleuje/variations-combinator",
+    "title": "GitHub - Bleuje/variations-combinator: real-time generative art tool with openFrameworks",
+    "latest": "2023-01-19T23:10:41+00:00",
+    "first": "2023-01-19T23:10:41+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@bleuje/109591343453827041",
+      "content": "<p>I'm releasing Variations Combinator on Github, it's a real-time generative art drawing tool. It's my main open source repo so far.</p><p><a href=\"https://github.com/Bleuje/variations-combinator\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Bleuje/variations-c</span><span class=\"invisible\">ombinator</span></a></p><p>You can check out some art made with it here : <a href=\"https://math-art-variations.tumblr.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">math-art-variations.tumblr.com</span><span class=\"invisible\">/</span></a></p><p>It is coded in openFrameworks.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@dahukanna",
+        "display_name": "Dawn Ahukanna"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hodgesmr/mastodon_digest",
+    "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
+    "latest": "2023-01-19T22:57:24+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/109451111674479285",
+      "content": "<p>Here it is! My algorithmic <a href=\"https://mastodon.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> Digest is now <a href=\"https://mastodon.social/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a>! It surfaces posts and boosts from your home timeline that you may have missed. You need a bit of comfort running <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a> but I tried to make it as turnkey as possible. Everything runs locally, and you can currently generate 288 different digests based on your preferred:<br>\u2022 Timeline history<br>\u2022 Scoring criteria<br>\u2022 Threshold criteria</p><p>Lots more to experiment with \u2014 please remember this is still a toy \ud83d\ude04</p><p><a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@samim",
+        "display_name": "samim"
+      },
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      },
+      {
+        "url": "https://mstdn.science/@contaminatedsci",
+        "display_name": "Tami Lieberman"
+      },
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      },
+      {
+        "url": "https://econtwitter.net/@fetzert",
+        "display_name": "Thiemo Fetzer"
+      },
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      },
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      },
+      {
+        "url": "https://hachyderm.io/@mnl",
+        "display_name": "mnml mnl (he/him)"
+      },
+      {
+        "url": "https://neuromatch.social/@LeonDLotter",
+        "display_name": "Leon Lotter"
+      },
+      {
+        "url": "https://mastodon.social/@ummjackson",
+        "display_name": "Jackson Palmer"
+      },
+      {
+        "url": "https://social.jvns.ca/@b0rk",
+        "display_name": "Julia Evans"
+      }
+    ],
+    "first": "2023-01-06T16:46:47.992000+00:00"
+  },
+  {
+    "link": "https://github.com/Dimillian/IceCubesApp",
+    "title": "Discussions \u00b7 Dimillian/IceCubesApp",
+    "latest": "2023-01-19T22:44:07+00:00",
+    "first": "2023-01-14T11:31:16+00:00",
+    "last_post": {
+      "url": "https://xoxo.zone/@andybaio/109718282971878688",
+      "content": "<p>If you're on iOS and not in the Ivory beta, or just want a free/open-source alternative, Ice Cubes is a great Mastodon client. After rejecting it from the App Store for nonsensical reasons, Apple finally approved the app today after <span class=\"h-card\"><a href=\"https://mastodon.social/@gruber\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gruber</span></a></span> wrote about it. It's definitely worth trying.</p><p>App Store: <a href=\"https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">apps.apple.com/us/app/ice-cube</span><span class=\"invisible\">s-for-mastodon/id6444915884</span></a><br>GitHub: <a href=\"https://github.com/Dimillian/IceCubesApp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Dimillian/IceCubesA</span><span class=\"invisible\">pp</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      },
+      {
+        "url": "https://mstdn.social/@jabronus",
+        "display_name": "Noah Jacobus"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/feditrends/trending-statuses",
+    "title": "github.com/feditrends/trending...",
+    "latest": "2023-01-19T22:38:33+00:00",
+    "first": "2023-01-19T22:38:33+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ummjackson/109718268409464190",
+      "content": "<p><span class=\"h-card\"><a href=\"https://social.jvns.ca/@b0rk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>b0rk</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@MattHodges\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MattHodges</span></a></span> I also built <a href=\"https://feditrends.com/statuses\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">feditrends.com/statuses</span><span class=\"invisible\"></span></a> which just ranks by reblogs across instances instead of your home timeline</p><p>Git: <a href=\"https://github.com/feditrends/trending-statuses\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/feditrends/trending</span><span class=\"invisible\">-statuses</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ummjackson",
+        "display_name": "Jackson Palmer"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/multilingual-dh/multilingual-dh-bibliography",
+    "title": "GitHub - multilingual-dh/multilingual-dh-bibliography: Articles, blog posts, etc. related to multilingual DH",
+    "latest": "2023-01-19T21:41:26+00:00",
+    "first": "2023-01-19T21:41:26+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@quinnanya/109718043810518312",
+      "content": "<p>Made some updates to the <a href=\"https://mstdn.social/tags/MultilingualDH\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilingualDH</span></a> bibliography with things published in the last year. What else is missing?<br><a href=\"https://github.com/multilingual-dh/multilingual-dh-bibliography\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/multilingual-dh/mul</span><span class=\"invisible\">tilingual-dh-bibliography</span></a></p><p>Pull requests welcome or drop a citation here and I'll get it added. <a href=\"https://mstdn.social/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@quinnanya",
+        "display_name": "Quinn Dombrowski"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/asg017/sqlite-regex",
+    "title": "GitHub - asg017/sqlite-regex: A fast regular expression SQLite extension, written in Rust",
+    "latest": "2023-01-19T21:40:32+00:00",
+    "first": "2023-01-19T21:40:32+00:00",
+    "last_post": {
+      "url": "https://data-folks.masto.host/@alexgarciaxyz/109717373814262438",
+      "content": "<p>Introducing sqlite-regex - the fastest and most complete SQLite extension for regular expressions, written in Rust!</p><p>- regexp(), finding, replacing, splitting <br>- Regex Set support!<br>- 2x faster than the official regexp extension, 6x faster than sqlean's</p><p>Repo: <a href=\"https://github.com/asg017/sqlite-regex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/asg017/sqlite-regex</span><span class=\"invisible\"></span></a></p><p>Blog post, including a live demo on Datasette: <a href=\"https://observablehq.com/@asg017/introducing-sqlite-regex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@asg017/intro</span><span class=\"invisible\">ducing-sqlite-regex</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@asg017/introducing-sqlite-regex",
+    "title": "observablehq.com/@asg017/intro...",
+    "latest": "2023-01-19T21:40:32+00:00",
+    "first": "2023-01-19T21:40:32+00:00",
+    "last_post": {
+      "url": "https://data-folks.masto.host/@alexgarciaxyz/109717373814262438",
+      "content": "<p>Introducing sqlite-regex - the fastest and most complete SQLite extension for regular expressions, written in Rust!</p><p>- regexp(), finding, replacing, splitting <br>- Regex Set support!<br>- 2x faster than the official regexp extension, 6x faster than sqlean's</p><p>Repo: <a href=\"https://github.com/asg017/sqlite-regex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/asg017/sqlite-regex</span><span class=\"invisible\"></span></a></p><p>Blog post, including a live demo on Datasette: <a href=\"https://observablehq.com/@asg017/introducing-sqlite-regex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@asg017/intro</span><span class=\"invisible\">ducing-sqlite-regex</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/giswqs/geemap",
     "title": "https://github.com/giswqs/geemap",
     "latest": "2023-01-19T20:08:13+00:00",
@@ -1664,22 +1824,6 @@
     ]
   },
   {
-    "link": "https://github.com/Dimillian/IceCubesApp",
-    "title": "Discussions \u00b7 Dimillian/IceCubesApp",
-    "latest": "2023-01-14T11:31:16+00:00",
-    "first": "2023-01-14T11:31:16+00:00",
-    "last_post": {
-      "url": "https://mastodon.cloud/@icecubesapp/109674993824705606",
-      "content": "<p><a href=\"https://mastodon.cloud/tags/introduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>introduction</span></a> Hello, I'm an open source, SwiftUI, Mastodon client for iOS devices made by <span class=\"h-card\"><a href=\"https://mastodon.social/@dimillian\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dimillian</span></a></span>. And a collaborative one too, anyone can send me their features requests or even commit and participate on the project repository here: <a href=\"https://github.com/Dimillian/IceCubesApp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Dimillian/IceCubesA</span><span class=\"invisible\">pp</span></a></p><p>Currently the app is in open beta on Testflight and can be downloaded here: <a href=\"https://testflight.apple.com/join/tqI3dK1u\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testflight.apple.com/join/tqI3</span><span class=\"invisible\">dK1u</span></a></p><p>Can't wait to see you in app!</p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      }
-    ]
-  },
-  {
     "link": "https://observablehq.com/@sigma-toulouse?tab=collections",
     "title": "Recent notebooks by Sigma",
     "latest": "2023-01-14T10:18:33+00:00",
@@ -3220,102 +3364,6 @@
       {
         "url": "https://sauropods.win/@futurebird",
         "display_name": "myrmepropagandist"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/superseriousbusiness/gotosocial",
-    "title": "Federation Issues \u00b7 superseriousbusiness/gotosocial",
-    "latest": "2023-01-09T21:19:16+00:00",
-    "first": "2023-01-09T21:19:16+00:00",
-    "last_post": {
-      "url": "https://toot.fedilab.app/@apps/109661333502079837",
-      "content": "<p>Do you know <span class=\"h-card\"><a href=\"https://gts.superseriousbusiness.org/@gotosocial\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gotosocial</span></a></span>? </p><p><a href=\"https://github.com/superseriousbusiness/gotosocial\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/superseriousbusines</span><span class=\"invisible\">s/gotosocial</span></a></p><p><a href=\"https://toot.fedilab.app/tags/GoToSocial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GoToSocial</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.fedilab.app/@apps",
-        "display_name": "Fedilab Apps"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/JuliaDynamics/Agents.jl",
-    "title": "GitHub - JuliaDynamics/Agents.jl: Agent-based modeling framework in Julia",
-    "latest": "2023-01-09T21:00:32.693000+00:00",
-    "first": "2023-01-09T21:00:32.693000+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@InPhyT/109661259754330996",
-      "content": "<p>\u2705 integrated the package within the <a href=\"https://fosstodon.org/tags/JuliaDynamics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaDynamics</span></a> ecosystem to make it compatible with <a href=\"https://fosstodon.org/tags/Agents\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Agents</span></a> allowing for agent-based modelling on general multilayer networks <a href=\"https://github.com/JuliaDynamics/Agents.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaDynamics/Agent</span><span class=\"invisible\">s.jl</span></a>; </p><p><a href=\"https://fosstodon.org/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://fosstodon.org/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://fosstodon.org/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://fosstodon.org/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://fosstodon.org/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://fosstodon.org/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://fosstodon.org/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://a.gup.pe/u/networkscience",
-        "display_name": "networkscience group"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/JuliaGraphs",
-    "title": "JuliaGraphs",
-    "latest": "2023-01-09T20:59:26.576000+00:00",
-    "first": "2023-01-09T20:59:26.576000+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@InPhyT/109661255439035212",
-      "content": "<p>Since the previous version of <a href=\"https://fosstodon.org/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> we have: </p><p>\u2705 integrated the package within the <a href=\"https://fosstodon.org/tags/JuliaGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaGraphs</span></a> ecosystem to guarantee methodological consistency and enrich the variety of possible graph structures underlying layers and interlayers <a href=\"https://github.com/JuliaGraphs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/JuliaGraphs</span><span class=\"invisible\"></span></a>; </p><p><a href=\"https://fosstodon.org/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://fosstodon.org/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://fosstodon.org/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://fosstodon.org/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://fosstodon.org/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://fosstodon.org/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://fosstodon.org/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://a.gup.pe/u/networkscience",
-        "display_name": "networkscience group"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/natemoo-re/tiny-decode",
-    "title": "GitHub - natemoo-re/tiny-decode: Decode HTML entities the browser-friendly way",
-    "latest": "2023-01-09T20:05:03+00:00",
-    "first": "2023-01-09T20:05:03+00:00",
-    "last_post": {
-      "url": "https://mas.to/@nmoo/109661005119004834",
-      "content": "<p>I just published \ud83e\udd0f `tiny-decode`!</p><p>Traditionally, decoding HTML named character references requires a large table to store entity names and the code points to which they refer. Unless you take extreme care, this data can easily end up in your JavaScript bundle.</p><p>Using export conditions, `tiny-decode` only includes a few bytes in your browser bundles. Server bundles include the full table as usual.</p><p>`entities` \ud83d\udc49 19.64 kB gzip<br>`tiny-decode` \ud83d\udc49 0.56 kB gzip</p><p><a href=\"https://github.com/natemoo-re/tiny-decode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/natemoo-re/tiny-dec</span><span class=\"invisible\">ode</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/reggi/std/tree/main/scripts",
-    "title": "std/scripts at main \u00b7 reggi/std",
-    "latest": "2023-01-09T20:04:07+00:00",
-    "first": "2023-01-09T20:04:07+00:00",
-    "last_post": {
-      "url": "https://indieweb.social/@thomasreggi/109661038016695018",
-      "content": "<p>I have too many repositories. Should I try to consolidate them? I recently found a folder of shell scripts (<a href=\"https://github.com/reggi/std/tree/main/scripts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/reggi/std/tree/main</span><span class=\"invisible\">/scripts</span></a>) this is one of many of these. I've always struggled to organize my smaller functions, bash scripts, and typescript, node/deno code into a single repository. It's overwhelming and I would like to have things organized and tested better.  <a href=\"https://indieweb.social/tags/code\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>code</span></a> <a href=\"https://indieweb.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://indieweb.social/tags/reusable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reusable</span></a> <a href=\"https://indieweb.social/tags/modular\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>modular</span></a> <a href=\"https://indieweb.social/tags/bash\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bash</span></a> <a href=\"https://indieweb.social/tags/unix\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>unix</span></a> <a href=\"https://indieweb.social/tags/shell\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>shell</span></a> <a href=\"https://indieweb.social/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a> <a href=\"https://indieweb.social/tags/deno\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deno</span></a> <a href=\"https://indieweb.social/tags/typescript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>typescript</span></a> <a href=\"https://indieweb.social/tags/nodejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nodejs</span></a> <a href=\"https://indieweb.social/tags/node\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>node</span></a> <a href=\"https://indieweb.social/tags/github\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>github</span></a> <a href=\"https://indieweb.social/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@thomasreggi",
-        "display_name": "thomas \ud83c\udf38"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/freedmand/textra",
-    "title": "GitHub - freedmand/textra: A command-line application to convert images, PDFs, and audio files to text using Apple's APIs",
-    "latest": "2023-01-09T19:26:04+00:00",
-    "first": "2023-01-09T19:26:04+00:00",
-    "last_post": {
-      "url": "https://vmst.io/@marcoshuerta/109660888415363068",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@siracusa\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>siracusa</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@atpfm\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>atpfm</span></a></span> <br>Whisper relies on pytorch but can\u2019t use the Metal version (MPS) so it is all cpu on a Mac.</p><p>My guess is they chose Whisper over Apple\u2019s framework bc it\u2019s more accurate &amp; doesn\u2019t require any changes to system settings to turn on. In my limited testing,  Whisper is a bit more cpu intensive.</p><p>The utility textra can  transcribe an mp3 file using Apple\u2019s framework. <a href=\"https://github.com/freedmand/textra\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/freedmand/textra</span><span class=\"invisible\"></span></a></p><p>I did a quick comparison and Apple\u2019s framework is noticeably less accurate than whisper.</p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
       }
     ]
   }
