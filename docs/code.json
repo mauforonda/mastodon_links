@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/thepassle/rollup-plugin-native-css-modules",
+    "title": "GitHub - thepassle/rollup-plugin-native-css-modules: Use native CSS modules with import assertions in Rollup.",
+    "latest": "2023-01-21T10:42:57+00:00",
+    "first": "2023-01-21T10:42:57+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@passle/109726750944292280",
+      "content": "<p>And published \ud83d\ude42</p><p>Use native CSS modules via import assertions in <a href=\"https://mastodon.social/tags/rollup\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rollup</span></a>, without transforming CSS to JS.</p><p>This plugin is useful if you want to use native CSS modules in your build *output*, for example when using es-module-shims.</p><p><a href=\"https://github.com/thepassle/rollup-plugin-native-css-modules\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/thepassle/rollup-pl</span><span class=\"invisible\">ugin-native-css-modules</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mikedewar/streamscope#21st-jan-2023",
+    "title": "GitHub - mikedewar/streamscope: visualise streams of data through a websocket",
+    "latest": "2023-01-21T09:49:40+00:00",
+    "first": "2023-01-21T09:49:40+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@mikedewar/109726173993148016",
+      "content": "<p>Gonna try making a dataviz tool for live streams of data following ideas i half remember from uni when we used to use oscilloscopes to investigate signals in basic control labs. Excitingly, I don't know how to actually make it, so I'm gonna learn a bunch of things en route. Going to try and blog into the project's README as I go, though this is also something I've never done before so might be crap might be fun! Today's notes <a href=\"https://github.com/mikedewar/streamscope#21st-jan-2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mikedewar/streamsco</span><span class=\"invisible\">pe#21st-jan-2023</span></a> cc <span class=\"h-card\"><a href=\"https://mastodon.online/@tomstafford\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tomstafford</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@tomstafford",
+        "display_name": "tomstafford"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/hodgesmr/mastodon_digest",
     "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
     "latest": "2023-01-21T08:28:42+00:00",
@@ -3400,38 +3432,6 @@
       {
         "url": "https://emacs.ch/@anticomputer",
         "display_name": "Bas Alberts :emacs:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Fgazzelloni/TidyTuesday",
-    "title": "GitHub - Fgazzelloni/TidyTuesday: several TidyTuesday interesting examples",
-    "latest": "2023-01-10T18:45:51+00:00",
-    "first": "2023-01-10T18:45:51+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@fgazzelloni/109666392542901491",
-      "content": "<p><a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> 2022 Week49 Elevators<br>Data is from EmilHvitfeldt/elevators package<br><span class=\"h-card\"><a href=\"https://fosstodon.org/@R4DSCommunity\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>R4DSCommunity</span></a></span> <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/rspatials\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatials</span></a> <a href=\"https://fosstodon.org/tags/datascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datascience</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fosstodon.org/tags/infographics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>infographics</span></a> <a href=\"https://fosstodon.org/tags/graphics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>graphics</span></a> <a href=\"https://fosstodon.org/tags/DataVisualization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataVisualization</span></a> <br>code: <a href=\"https://github.com/Fgazzelloni/TidyTuesday\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Fgazzelloni/TidyTue</span><span class=\"invisible\">sday</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@fgazzelloni",
-        "display_name": "Federica Gazzelloni"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/11ty/is-land/issues/13",
-    "title": "Declarative Shadow DOM / lit-ssr + is-land flicker \u00b7 Issue #13 \u00b7 11ty/is-land",
-    "latest": "2023-01-10T18:20:32+00:00",
-    "first": "2023-01-10T18:20:32+00:00",
-    "last_post": {
-      "url": "https://fediverse.zachleat.com/@zachleat/109328829198255413",
-      "content": "<p>Adding Declarative Shadow DOM support to &lt;is-land&gt; thanks to a collab with <span class=\"h-card\"><a href=\"https://mstdn.social/@techytacos\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>techytacos</span></a></span>!</p><p><a href=\"https://github.com/11ty/is-land/issues/13\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/is-land/issues</span><span class=\"invisible\">/13</span></a></p><p>Weeeeee!</p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@nickytonline",
-        "display_name": "Nick Taylor"
       }
     ]
   }
