@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://arxiv.org/abs/2301.07779",
+    "title": "Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection",
+    "latest": "2023-01-21T03:14:50+00:00",
+    "first": "2023-01-20T13:48:39+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/109724079076501394",
+      "content": "<p>RT @weijiavxu@twitter.com</p><p>[1/6] What is an NMT model \"thinking\" when it hallucinates?<br>Are there any internal symptoms that may flag a hallucination?</p><p>Our new paper \"Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection\" is out! <a href=\"https://arxiv.org/abs/2301.07779\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07779</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/weijiavxu/status/1616504852447694861\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/weijiavxu/status/1</span><span class=\"invisible\">616504852447694861</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      },
+      {
+        "url": "https://mastodon.social/@jacobeisenstein",
+        "display_name": "Jacob Eisenstein"
+      }
+    ]
+  },
+  {
     "link": "https://osf.io/wvq9f/",
     "title": "\n        Sociology PhD program exams and reading lists\n",
     "latest": "2023-01-21T00:47:50+00:00",
@@ -240,22 +260,6 @@
       {
         "url": "https://berlin.social/@psm_os",
         "display_name": "Paul Schultze-Motel"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.07779",
-    "title": "Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection",
-    "latest": "2023-01-20T13:48:39+00:00",
-    "first": "2023-01-20T13:48:39+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@gsarti/109720820210765619",
-      "content": "<p>Detecting hallucinations in machine translation using model internals is a hot topic! \ud83d\udd25 Very nice work by @weijiavxu@twitter.com, @swetaagrawal20@twitter.com et al. out on @arxiv@twitter.com today showing promising result in that direction: <a href=\"https://arxiv.org/abs/2301.07779\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07779</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
       }
     ]
   },
