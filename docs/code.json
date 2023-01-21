@@ -1,5 +1,57 @@
 [
   {
+    "link": "https://github.com/ObsidianTTRPGProject/ObsidianTTRPGShare/blob/main/Pathfinder/Second_Edition/TTRPG_Statblocks/Layouts/Third-Release-Statblock-Supreme-Plunkett.md",
+    "title": "ObsidianTTRPGShare/Third-Release-Statblock-Supreme-Plunkett.md at main \u00b7 ObsidianTTRPGProject/ObsidianTTRPGShare",
+    "latest": "2023-01-21T02:11:16+00:00",
+    "first": "2023-01-21T02:11:16+00:00",
+    "last_post": {
+      "url": "https://pkm.social/@nicole/109713231119629636",
+      "content": "<p><a href=\"https://pkm.social/tags/TIL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TIL</span></a> how to have <a href=\"https://pkm.social/tags/pathfinder\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pathfinder</span></a> statblocks in <a href=\"https://pkm.social/tags/obsidian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>obsidian</span></a> thanks to <span class=\"h-card\"><a href=\"https://pkm.social/@SlRvb\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SlRvb</span></a></span> and @sigrunixia using the TTRPG Statblocks plugin and the instructions here: <a href=\"https://github.com/ObsidianTTRPGProject/ObsidianTTRPGShare/blob/main/Pathfinder/Second_Edition/TTRPG_Statblocks/Layouts/Third-Release-Statblock-Supreme-Plunkett.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ObsidianTTRPGProjec</span><span class=\"invisible\">t/ObsidianTTRPGShare/blob/main/Pathfinder/Second_Edition/TTRPG_Statblocks/Layouts/Third-Release-Statblock-Supreme-Plunkett.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://pkm.social/@eleanorkonik",
+        "display_name": "Eleanor Konik"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/paulgp/applied-methods-phd/blob/main/lectures/02_randomization.pdf",
+    "title": "applied-methods-phd/02_randomization.pdf at main \u00b7 paulgp/applied-methods-phd",
+    "latest": "2023-01-21T02:04:17+00:00",
+    "first": "2023-01-20T01:49:39+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@asjadnaqvi/109718406105784299",
+      "content": "<p>These are really one of the best set of slides on causal design out there. <br>---<br>RT <span class=\"h-card\"><a href=\"https://econtwitter.net/@paulgp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>paulgp</span></a></span><br>Updated my \"research design\" slides slightly this year after spending a lot of time thinking about it. <a href=\"https://github.com/paulgp/applied-methods-phd/blob/main/lectures/02_randomization.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paulgp/applied-meth</span><span class=\"invisible\">ods-phd/blob/main/lectures/02_randomization.pdf</span></a> <br><a href=\"https://twitter.com/paulgp/status/1616187021160071171\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/paulgp/status/1616</span><span class=\"invisible\">187021160071171</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
+      },
+      {
+        "url": "https://econtwitter.net/@m_clem",
+        "display_name": "Michael Clemens"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tylermorganwall/rayshader",
+    "title": "GitHub - tylermorganwall/rayshader: R Package for 2D and 3D mapping and data visualization",
+    "latest": "2023-01-21T01:27:19+00:00",
+    "first": "2023-01-21T01:27:19+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@tylermorganwall/109724594282402388",
+      "content": "<p>New release of rayshader (v0.34.4)! This version brings the ability to specify a material for points and paths in `render_highquality()`, in case you wanted to build your data out of tinted glass, plastic, or metal! Also included are some new helper functions for easier window resizing and improvements to 3D paths and camera motion.</p><p>Github: <a href=\"https://github.com/tylermorganwall/rayshader\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tylermorganwall/ray</span><span class=\"invisible\">shader</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/rayshader\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayshader</span></a> <a href=\"https://fosstodon.org/tags/rayrender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayrender</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@tylermorganwall",
+        "display_name": "Tyler Morgan-Wall"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/hodgesmr/mastodon_digest",
     "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
     "latest": "2023-01-20T22:24:27+00:00",
@@ -396,22 +448,6 @@
       {
         "url": "https://indieweb.social/@adamghill",
         "display_name": "adamghill"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/paulgp/applied-methods-phd/blob/main/lectures/02_randomization.pdf",
-    "title": "applied-methods-phd/02_randomization.pdf at main \u00b7 paulgp/applied-methods-phd",
-    "latest": "2023-01-20T01:49:39+00:00",
-    "first": "2023-01-20T01:49:39+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@asjadnaqvi/109718406105784299",
-      "content": "<p>These are really one of the best set of slides on causal design out there. <br>---<br>RT <span class=\"h-card\"><a href=\"https://econtwitter.net/@paulgp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>paulgp</span></a></span><br>Updated my \"research design\" slides slightly this year after spending a lot of time thinking about it. <a href=\"https://github.com/paulgp/applied-methods-phd/blob/main/lectures/02_randomization.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paulgp/applied-meth</span><span class=\"invisible\">ods-phd/blob/main/lectures/02_randomization.pdf</span></a> <br><a href=\"https://twitter.com/paulgp/status/1616187021160071171\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/paulgp/status/1616</span><span class=\"invisible\">187021160071171</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@paulgp",
-        "display_name": "Paul Goldsmith-Pinkham"
       }
     ]
   },
@@ -3384,38 +3420,6 @@
       {
         "url": "https://front-end.social/@jensimmons",
         "display_name": "Jen Simmons"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/JuliaGraphs/MultilayerGraphs.jl",
-    "title": "GitHub - JuliaGraphs/MultilayerGraphs.jl: A Julia package for the creation, manipulation and analysis of the structure, dynamics and functions of multilayer graphs.",
-    "latest": "2023-01-10T17:17:42.067000+00:00",
-    "first": "2023-01-09T21:04:14.165000+00:00",
-    "last_post": {
-      "url": "https://bayes.club/@PietroMonticone/109666045862447984",
-      "content": "<p>\ud83d\udce2 MultilayerGraphs.jl v1.1 is out! </p><p>It features new subgraph interfaces, generalised graph generators, faster graph realisation methods, weight and metadata tensor types and more.</p><p>\ud83e\uddf5 Thread: <a href=\"https://fosstodon.org/@InPhyT/109661211540157933\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fosstodon.org/@InPhyT/10966121</span><span class=\"invisible\">1540157933</span></a></p><p>\ud83d\udce6 Repo: <a href=\"https://github.com/JuliaGraphs/MultilayerGraphs.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaGraphs/Multila</span><span class=\"invisible\">yerGraphs.jl</span></a></p><p>\ud83d\udcc1 Docs: <a href=\"https://juliagraphs.org/MultilayerGraphs.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">juliagraphs.org/MultilayerGrap</span><span class=\"invisible\">hs.jl</span></a></p><p><a href=\"https://bayes.club/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://bayes.club/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://bayes.club/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://bayes.club/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://bayes.club/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://bayes.club/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://bayes.club/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://a.gup.pe/u/networkscience",
-        "display_name": "networkscience group"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/RandomFractals/geo-data-viewer#support",
-    "title": "github.com/RandomFractals/geo-...",
-    "latest": "2023-01-10T16:07:28+00:00",
-    "first": "2023-01-10T16:07:28+00:00",
-    "last_post": {
-      "url": "https://vis.social/@dataSamurai/109665769785623587",
-      "content": "<p>\ud83d\udce2 Published <a href=\"https://vis.social/tags/GeoDataViewer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GeoDataViewer</span></a> \ud83d\uddfa\ufe0f v2.6.0 extension release with updated <a href=\"https://vis.social/tags/geoSpatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geoSpatial</span></a> data loading libraries, refined docs, patched map save options, new <a href=\"https://vis.social/tags/mapGallery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mapGallery</span></a> demo gif and support/sponsor info:</p><p>\ud83d\udce5 <a href=\"https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.geo-data-viewer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marketplace.visualstudio.com/i</span><span class=\"invisible\">tems?itemName=RandomFractalsInc.geo-data-viewer</span></a></p><p>\ud83d\udc96 <a href=\"https://github.com/RandomFractals/geo-data-viewer#support\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/RandomFractals/geo-</span><span class=\"invisible\">data-viewer#support</span></a></p><p><a href=\"https://vis.social/tags/VSCode\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VSCode</span></a> <a href=\"https://vis.social/tags/GIS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GIS</span></a> <a href=\"https://vis.social/tags/dataTools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataTools</span></a> \ud83d\udee0\ufe0f</p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@dataSamurai",
-        "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
       }
     ]
   }
