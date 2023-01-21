@@ -1,5 +1,81 @@
 [
   {
+    "link": "https://arxiv.org/abs/2212.07677",
+    "title": "https://arxiv.org/abs/2212.07677",
+    "latest": "2023-01-21T18:09:31+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@ShahabBakht/109541890846547494",
+      "content": "<p>In-context learning in <a href=\"https://neuromatch.social/tags/transformers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transformers</span></a>  is one of those mysterious <a href=\"https://neuromatch.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a>  phenomena that needs more attention (no pun intended) from <a href=\"https://neuromatch.social/tags/neuroscientists\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuroscientists</span></a>. </p><p>In-context learning is a phenomenon in large language models where the model \"learns\" a task just by observing some input-output examples, without updating any parameters. <br>\"Simply by adjusting a \u201cprompt\u201d, transformers can be adapted to do many useful things without re-training, such as translation, question-answering, arithmetic, and many other tasks. Using \u201cprompt engineering\u201d to leverage in-context learning became a popular topic of study and discussion.\" (<a href=\"https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">transformer-circuits.pub/2022/</span><span class=\"invisible\">in-context-learning-and-induction-heads/index.html</span></a>)</p><p>Interestingly, two recent works (H/T <span class=\"h-card\"><a href=\"https://sigmoid.social/@roydanroy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>roydanroy</span></a></span>)  showed that in-context learning (at least under certain conditions) match solutions found by gradient descent: <br>1) Transformers learn in-context by gradient descent: <a href=\"https://arxiv.org/abs/2212.07677\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.07677</span><span class=\"invisible\"></span></a><br>2) What learning algorithm is in-context learning? Investigations with linear models: <a href=\"https://arxiv.org/abs/2211.15661\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.15661</span><span class=\"invisible\"></span></a> </p><p>In <a href=\"https://neuromatch.social/tags/neuroscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuroscience</span></a>, synaptic plasticity is generally thought to be the mechanism underlying many of the behavioral improvements that are loosely referred to as learning. </p><p>Could in-context <a href=\"https://neuromatch.social/tags/learning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>learning</span></a> be an alternative mechanism underlying at least some behavioral improvements? Given the suggested similarities of the <a href=\"https://neuromatch.social/tags/hippocampus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hippocampus</span></a> representation learning and transformers (<a href=\"https://arxiv.org/abs/2112.04035\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2112.04035</span><span class=\"invisible\"></span></a>), it'd be interesting to see the implications of in-context learning for our understanding of <a href=\"https://neuromatch.social/tags/memory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>memory</span></a> formation in the hippocampus? <a href=\"https://neuromatch.social/tags/NeuroAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeuroAI</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
+      },
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      }
+    ],
+    "first": "2022-12-30T08:51:16+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2211.15661",
+    "title": "https://arxiv.org/abs/2211.15661",
+    "latest": "2023-01-21T18:09:31+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@ShahabBakht/109541890846547494",
+      "content": "<p>In-context learning in <a href=\"https://neuromatch.social/tags/transformers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transformers</span></a>  is one of those mysterious <a href=\"https://neuromatch.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a>  phenomena that needs more attention (no pun intended) from <a href=\"https://neuromatch.social/tags/neuroscientists\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuroscientists</span></a>. </p><p>In-context learning is a phenomenon in large language models where the model \"learns\" a task just by observing some input-output examples, without updating any parameters. <br>\"Simply by adjusting a \u201cprompt\u201d, transformers can be adapted to do many useful things without re-training, such as translation, question-answering, arithmetic, and many other tasks. Using \u201cprompt engineering\u201d to leverage in-context learning became a popular topic of study and discussion.\" (<a href=\"https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">transformer-circuits.pub/2022/</span><span class=\"invisible\">in-context-learning-and-induction-heads/index.html</span></a>)</p><p>Interestingly, two recent works (H/T <span class=\"h-card\"><a href=\"https://sigmoid.social/@roydanroy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>roydanroy</span></a></span>)  showed that in-context learning (at least under certain conditions) match solutions found by gradient descent: <br>1) Transformers learn in-context by gradient descent: <a href=\"https://arxiv.org/abs/2212.07677\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.07677</span><span class=\"invisible\"></span></a><br>2) What learning algorithm is in-context learning? Investigations with linear models: <a href=\"https://arxiv.org/abs/2211.15661\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.15661</span><span class=\"invisible\"></span></a> </p><p>In <a href=\"https://neuromatch.social/tags/neuroscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuroscience</span></a>, synaptic plasticity is generally thought to be the mechanism underlying many of the behavioral improvements that are loosely referred to as learning. </p><p>Could in-context <a href=\"https://neuromatch.social/tags/learning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>learning</span></a> be an alternative mechanism underlying at least some behavioral improvements? Given the suggested similarities of the <a href=\"https://neuromatch.social/tags/hippocampus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hippocampus</span></a> representation learning and transformers (<a href=\"https://arxiv.org/abs/2112.04035\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2112.04035</span><span class=\"invisible\"></span></a>), it'd be interesting to see the implications of in-context learning for our understanding of <a href=\"https://neuromatch.social/tags/memory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>memory</span></a> formation in the hippocampus? <a href=\"https://neuromatch.social/tags/NeuroAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeuroAI</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
+      },
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      }
+    ],
+    "first": "2022-12-30T08:51:16+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2112.04035",
+    "title": "https://arxiv.org/abs/2112.04035",
+    "latest": "2023-01-21T18:09:31+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@ShahabBakht/109541890846547494",
+      "content": "<p>In-context learning in <a href=\"https://neuromatch.social/tags/transformers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transformers</span></a>  is one of those mysterious <a href=\"https://neuromatch.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a>  phenomena that needs more attention (no pun intended) from <a href=\"https://neuromatch.social/tags/neuroscientists\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuroscientists</span></a>. </p><p>In-context learning is a phenomenon in large language models where the model \"learns\" a task just by observing some input-output examples, without updating any parameters. <br>\"Simply by adjusting a \u201cprompt\u201d, transformers can be adapted to do many useful things without re-training, such as translation, question-answering, arithmetic, and many other tasks. Using \u201cprompt engineering\u201d to leverage in-context learning became a popular topic of study and discussion.\" (<a href=\"https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">transformer-circuits.pub/2022/</span><span class=\"invisible\">in-context-learning-and-induction-heads/index.html</span></a>)</p><p>Interestingly, two recent works (H/T <span class=\"h-card\"><a href=\"https://sigmoid.social/@roydanroy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>roydanroy</span></a></span>)  showed that in-context learning (at least under certain conditions) match solutions found by gradient descent: <br>1) Transformers learn in-context by gradient descent: <a href=\"https://arxiv.org/abs/2212.07677\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.07677</span><span class=\"invisible\"></span></a><br>2) What learning algorithm is in-context learning? Investigations with linear models: <a href=\"https://arxiv.org/abs/2211.15661\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.15661</span><span class=\"invisible\"></span></a> </p><p>In <a href=\"https://neuromatch.social/tags/neuroscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuroscience</span></a>, synaptic plasticity is generally thought to be the mechanism underlying many of the behavioral improvements that are loosely referred to as learning. </p><p>Could in-context <a href=\"https://neuromatch.social/tags/learning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>learning</span></a> be an alternative mechanism underlying at least some behavioral improvements? Given the suggested similarities of the <a href=\"https://neuromatch.social/tags/hippocampus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hippocampus</span></a> representation learning and transformers (<a href=\"https://arxiv.org/abs/2112.04035\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2112.04035</span><span class=\"invisible\"></span></a>), it'd be interesting to see the implications of in-context learning for our understanding of <a href=\"https://neuromatch.social/tags/memory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>memory</span></a> formation in the hippocampus? <a href=\"https://neuromatch.social/tags/NeuroAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeuroAI</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
+      },
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      }
+    ],
+    "first": "2022-12-30T08:51:16+00:00"
+  },
+  {
+    "link": "https://doi.org/10.46430/phfr0004",
+    "title": "https://doi.org/10.46430/phfr0004",
+    "latest": "2023-01-21T17:07:48+00:00",
+    "first": "2023-01-21T17:07:48+00:00",
+    "last_post": {
+      "url": "https://hcommons.social/@proghist/109728292443598980",
+      "content": "<p>Ce tutoriel de @sethvanhooland @RubenVerborgh et Max De Wilde vous initie au nettoyage des donn\u00e9es avec Openrefine - <a href=\"https://doi.org/10.46430/phfr0004\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.46430/phfr0004</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@proghist",
+        "display_name": "Programming Historian"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2209.01175",
     "title": "The effect of in-person conferences on the diffusion of ideas",
     "latest": "2023-01-21T14:57:27+00:00",
@@ -3388,70 +3464,6 @@
       {
         "url": "https://econtwitter.net/@jorpppp",
         "display_name": "Jorge P\u00e9rez P\u00e9rez"
-      }
-    ]
-  },
-  {
-    "link": "https://osf.io/8m2cy/",
-    "title": "https://osf.io/8m2cy/",
-    "latest": "2023-01-10T18:14:58+00:00",
-    "first": "2023-01-10T18:14:58+00:00",
-    "last_post": {
-      "url": "https://datasci.social/@UrbanDemog/109666271132486540",
-      "content": "<p>2. We're now using <a href=\"https://datasci.social/tags/gtfs2gps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gtfs2gps</span></a> to estimate public transport emissions with the new <a href=\"https://datasci.social/tags/gtfs2emis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gtfs2emis</span></a> package in <a href=\"https://datasci.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a>.<br>\ud83d\udce6Package: <a href=\"https://ipeagit.github.io/gtfs2emis/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ipeagit.github.io/gtfs2emis/</span><span class=\"invisible\"></span></a><br>\ud83d\udd16Paper preprint:  <a href=\"https://osf.io/8m2cy/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">osf.io/8m2cy/</span><span class=\"invisible\"></span></a><br>\ud83c\udf10Blog post: <a href=\"https://transportpolicymatters.org/2022/12/12/measuring-public-transport-emissions/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">transportpolicymatters.org/202</span><span class=\"invisible\">2/12/12/measuring-public-transport-emissions/</span></a></p><p>What applications could gtfs2gps help you with?</p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@UrbanDemog",
-        "display_name": "Rafael H M Pereira"
-      }
-    ]
-  },
-  {
-    "link": "https://link.springer.com/referencework/10.1007/978-981-19-2080-6",
-    "title": "Handbook of Open, Distance and Digital Education",
-    "latest": "2023-01-10T17:10:52+00:00",
-    "first": "2023-01-10T17:10:52+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@geoffcain/109666011692313419",
-      "content": "<p>The Handbook of Open, Distance and Digital Education, a great (1400+ pages!) resource on elearning has been released as an openly licensed book. Great essays in here on learning theories - I will write more as I get through this, but it looks some of the most interesting writers/researchers on elearning are well represented here. Pay a lot for the print copy or download it free as a pdf. </p><p><a href=\"https://link.springer.com/referencework/10.1007/978-981-19-2080-6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/referencewor</span><span class=\"invisible\">k/10.1007/978-981-19-2080-6</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@chrisaldrich",
-        "display_name": "Chris Aldrich"
-      }
-    ]
-  },
-  {
-    "link": "https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.13126?campaign=wolearlyview",
-    "title": "onlinelibrary.wiley.com/doi/fu...",
-    "latest": "2023-01-10T16:51:13+00:00",
-    "first": "2023-01-10T16:51:13+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@NicVdSijpe/109665941820249094",
-      "content": "<p>Measuring the welfare costs of racial discrimination in the labor market <a href=\"https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.13126?campaign=wolearlyview\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">onlinelibrary.wiley.com/doi/fu</span><span class=\"invisible\">ll/10.1111/ecin.13126?campaign=wolearlyview</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@NicVdSijpe",
-        "display_name": "Nicolas Van de Sijpe"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/s41599-019-0366-y",
-    "title": "Statistical reliability analysis for a most dangerous occupation: Roman emperor - Humanities and Social Sciences Communications",
-    "latest": "2023-01-10T16:36:13+00:00",
-    "first": "2023-01-10T16:36:13+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@johncarlosbaez/109665882817777465",
-      "content": "<p>Being a Roman emperor was a very dangerous job: 62% of them met violent deaths!  But this paper digs in and studies this scientifically:</p><p>\u2022 Joseph Homer Saleh, Statistical reliability analysis for a most dangerous occupation: Roman emperor.  Available for free at <a href=\"https://www.nature.com/articles/s41599-019-0366-y\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41599-019</span><span class=\"invisible\">-0366-y</span></a></p><p>Is a product especially likely to break the first few times you use it?   Does it work for a while but then wear out?  Or does it have a constant failure rate?  Saleh studies this for Roman emperors.</p><p>(1/n)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@johncarlosbaez",
-        "display_name": "John Carlos Baez"
       }
     ]
   }
