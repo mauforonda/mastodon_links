@@ -1,37 +1,5 @@
 [
   {
-    "link": "https://hbr.org/2022/12/what-companies-still-get-wrong-about-layoffs",
-    "title": "What Companies Still Get Wrong About Layoffs",
-    "latest": "2023-01-21T09:01:59+00:00",
-    "first": "2023-01-20T12:33:00+00:00",
-    "last_post": {
-      "url": "https://social.coop/@natematias/109724013057434758",
-      "content": "<p>Layoffs:<br>- don't save money<br>- don't improve company performance<br>- don't increase stock pricess<br>- destroy trust<br>- have huge impacts on health, well-being, and income of employees</p><p>So why do layoffs? It's a network effect: execs lay people off because other companies are doing it</p><p>Stanford Biz School article: <a href=\"https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">news.stanford.edu/2022/12/05/e</span><span class=\"invisible\">xplains-recent-tech-layoffs-worried/</span></a></p><p>Harvard Biz Review:<br><a href=\"https://hbr.org/2022/12/what-companies-still-get-wrong-about-layoffs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">hbr.org/2022/12/what-companies</span><span class=\"invisible\">-still-get-wrong-about-layoffs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      },
-      {
-        "url": "https://social.coop/@natematias",
-        "display_name": "J. Nathan Matias \ud83e\udda3"
-      },
-      {
-        "url": "https://mastodon.social/@sladner",
-        "display_name": "sladner"
-      },
-      {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
-      },
-      {
-        "url": "https://infosec.exchange/@hacks4pancakes",
-        "display_name": "Lesley Carhart :unverified:"
-      }
-    ]
-  },
-  {
     "link": "https://tapbots.com/tweetbot/",
     "title": "Tweetbot. April 2011 - January 2023",
     "latest": "2023-01-21T07:50:56+00:00",
@@ -108,6 +76,30 @@
     ]
   },
   {
+    "link": "https://slate.com/technology/2023/01/davos-covid-precaution-uv-lights-air-filters.html",
+    "title": "Billionaires at Davos Don\u2019t Think COVID Is a Cold",
+    "latest": "2023-01-21T12:49:28+00:00",
+    "first": "2023-01-20T23:12:03+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@AmirAttaran/109725161106796912",
+      "content": "<p>The billionaires in Davos get filtered air, PCR tests, and masks in tight places.  It\u2019s just us plebs who governments lie to that \u201cCOVID is over\u201d.  Do not be a chump yourself.  <a href=\"https://slate.com/technology/2023/01/davos-covid-precaution-uv-lights-air-filters.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">slate.com/technology/2023/01/d</span><span class=\"invisible\">avos-covid-precaution-uv-lights-air-filters.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.ca/@dupuisj",
+        "display_name": "John Dupuis"
+      },
+      {
+        "url": "https://mastodon.social/@dawnnafus",
+        "display_name": "Dawn Nafus"
+      },
+      {
+        "url": "https://fosstodon.org/@danielskatz",
+        "display_name": "Daniel S. Katz"
+      }
+    ]
+  },
+  {
     "link": "https://www.si.edu/openaccess",
     "title": "Smithsonian Open Access | Smithsonian Institution",
     "latest": "2023-01-21T09:59:52+00:00",
@@ -132,106 +124,6 @@
     ]
   },
   {
-    "link": "https://blogs.worldbank.org/impactevaluations/weekly-links-january-20-improving-traffic-safety-public-information-lads-and",
-    "title": "Weekly links January 20: improving traffic safety with public information, LADs and missing data, grandparents, post-docs, and more\u2026",
-    "latest": "2023-01-20T19:38:33+00:00",
-    "first": "2023-01-20T14:06:14+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@dmckenzie001/109721916208650592",
-      "content": "<p>This week's links include advice for those considering doing a post-doc, a new cartoon for your teaching of subgroup analysis, an experiment on different approaches to improving minibus safety in Kenya, the implications of more grandparents being around in the world, and more...<a href=\"https://blogs.worldbank.org/impactevaluations/weekly-links-january-20-improving-traffic-safety-public-information-lads-and\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.worldbank.org/impacteval</span><span class=\"invisible\">uations/weekly-links-january-20-improving-traffic-safety-public-information-lads-and</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@dmckenzie001",
-        "display_name": "David McKenzie"
-      },
-      {
-        "url": "https://econtwitter.net/@drodrik",
-        "display_name": "Dani Rodrik"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.07779",
-    "title": "Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection",
-    "latest": "2023-01-21T03:14:50+00:00",
-    "first": "2023-01-20T13:48:39+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/109724079076501394",
-      "content": "<p>RT @weijiavxu@twitter.com</p><p>[1/6] What is an NMT model \"thinking\" when it hallucinates?<br>Are there any internal symptoms that may flag a hallucination?</p><p>Our new paper \"Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection\" is out! <a href=\"https://arxiv.org/abs/2301.07779\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07779</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/weijiavxu/status/1616504852447694861\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/weijiavxu/status/1</span><span class=\"invisible\">616504852447694861</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
-      },
-      {
-        "url": "https://mastodon.social/@jacobeisenstein",
-        "display_name": "Jacob Eisenstein"
-      }
-    ]
-  },
-  {
-    "link": "https://www.insidehighered.com/news/2023/01/20/academics-work-detect-chatgpt-and-other-ai-writing",
-    "title": "Academics work to detect ChatGPT and other AI writing",
-    "latest": "2023-01-20T13:31:46+00:00",
-    "first": "2023-01-20T13:53:03+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@susan_dagostino/109721777669592977",
-      "content": "<p>AI Writing Detection: A Losing Battle Worth Fighting</p><p>My @insidehighered story on: What makes prose human? Hint: Burstiness</p><p>\ud83d\ude4f godfather of <a href=\"https://mathstodon.xyz/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> Yoshua Bengio, @edward_the6, @Diyi_Yang @Stanford, @EnglishOER, @LehighU Pres Helble, Nestor Pereira</p><p><a href=\"https://mathstodon.xyz/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a><br><a href=\"https://www.insidehighered.com/news/2023/01/20/academics-work-detect-chatgpt-and-other-ai-writing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">insidehighered.com/news/2023/0</span><span class=\"invisible\">1/20/academics-work-detect-chatgpt-and-other-ai-writing</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MichaelErard",
-        "display_name": "Michael Erard"
-      },
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
-      }
-    ]
-  },
-  {
-    "link": "https://www.powertochange.org.uk/news/meet-the-makers-and-maintainers-in-community-tech/",
-    "title": "Meet the Makers and Maintainers in community tech - Power to Change",
-    "latest": "2023-01-20T16:53:29+00:00",
-    "first": "2023-01-20T12:57:25+00:00",
-    "last_post": {
-      "url": "https://assemblag.es/@rachelcoldicutt/109721645579628997",
-      "content": "<p>Sharing this here as so rare I get to be involved with actually handing out money, not just complaining that it's flowing to all the wrong things \ud83e\udd23. Feels like a real achievement to announce the first cohort of Community Tech Makers and Maintainers (all based in England for the time being), who've all been awarded money to maintain and sustain existing tech \ud83d\ude0d<a href=\"https://www.powertochange.org.uk/news/meet-the-makers-and-maintainers-in-community-tech/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">powertochange.org.uk/news/meet</span><span class=\"invisible\">-the-makers-and-maintainers-in-community-tech/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://assemblag.es/@rachelcoldicutt",
-        "display_name": "Rachel Coldicutt"
-      },
-      {
-        "url": "https://mastodon.social/@mrchrisadams",
-        "display_name": "Chris Adams"
-      }
-    ]
-  },
-  {
-    "link": "https://conftool.net/dhd2023/index.php?page=login",
-    "title": "conftool.net/dhd2023/index.php...",
-    "latest": "2023-01-20T15:58:32+00:00",
-    "first": "2023-01-20T13:13:04+00:00",
-    "last_post": {
-      "url": "https://fedihum.org/@DHdKonferenz/109721707113022296",
-      "content": "<p>Sichert Euch bis zum 31.01.2023 Early Bird Tickets f\u00fcr die <a href=\"https://fedihum.org/tags/DHd2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DHd2023</span></a> </p><p>Zur Anmeldung geht es hier entlang: <a href=\"https://conftool.net/dhd2023/index.php?page=login\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">conftool.net/dhd2023/index.php</span><span class=\"invisible\">?page=login</span></a></p><p>Wir freuen uns auf Euch! \ud83c\udf40<br><a href=\"https://fedihum.org/tags/DHd2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DHd2023</span></a> <a href=\"https://fedihum.org/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> <a href=\"https://fedihum.org/tags/Konferenz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Konferenz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedihum.org/@DHdKonferenz",
-        "display_name": "DHd2023"
-      },
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      }
-    ]
-  },
-  {
     "link": "https://www.zachleat.com/web/eleventy-version-two/",
     "title": "The Magical Eleventy v2.0.0-beta.1 Release\u2014zachleat.com",
     "latest": "2023-01-20T15:53:07+00:00",
@@ -248,6 +140,26 @@
       {
         "url": "https://bell.bz/@andy",
         "display_name": "Andy Bell"
+      }
+    ]
+  },
+  {
+    "link": "https://experimentology.io/",
+    "title": "https://experimentology.io",
+    "latest": "2023-01-21T12:36:32+00:00",
+    "first": "2023-01-20T17:28:18+00:00",
+    "last_post": {
+      "url": "https://nerdculture.de/@mcxfrank/109722674397733288",
+      "content": "<p>Do you want to do a psychology experiment while following best practices in open science? My collaborators and I have created Experimentology, a new open web textbook (to be published by MIT Press but free online forever).</p><p><a href=\"https://experimentology.io\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">experimentology.io</span><span class=\"invisible\"></span></a></p><p>Some highlights! \ud83e\uddf5</p>"
+    },
+    "people": [
+      {
+        "url": "https://mefi.social/@melissaekline",
+        "display_name": "Melissa Kline Struhl"
+      },
+      {
+        "url": "https://mastodon.online/@tomstafford",
+        "display_name": "tomstafford"
       }
     ]
   },
@@ -332,26 +244,6 @@
     ]
   },
   {
-    "link": "https://slate.com/technology/2023/01/davos-covid-precaution-uv-lights-air-filters.html",
-    "title": "Billionaires at Davos Don\u2019t Think COVID Is a Cold",
-    "latest": "2023-01-21T06:29:46+00:00",
-    "first": "2023-01-20T23:12:03+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@AmirAttaran/109725161106796912",
-      "content": "<p>The billionaires in Davos get filtered air, PCR tests, and masks in tight places.  It\u2019s just us plebs who governments lie to that \u201cCOVID is over\u201d.  Do not be a chump yourself.  <a href=\"https://slate.com/technology/2023/01/davos-covid-precaution-uv-lights-air-filters.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">slate.com/technology/2023/01/d</span><span class=\"invisible\">avos-covid-precaution-uv-lights-air-filters.html</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.ca/@dupuisj",
-        "display_name": "John Dupuis"
-      },
-      {
-        "url": "https://mastodon.social/@dawnnafus",
-        "display_name": "Dawn Nafus"
-      }
-    ]
-  },
-  {
     "link": "https://boffosocko.com/2023/01/20/on-the-jokerzettel/",
     "title": "On the Jokerzettel: An Apocalyptic Interpretation of Luhmann\u2019s note ZKII 9/8j",
     "latest": "2023-01-21T00:13:47+00:00",
@@ -368,6 +260,26 @@
       {
         "url": "https://boffosocko.com/author/chrisaldrich/",
         "display_name": "Chris Aldrich"
+      }
+    ]
+  },
+  {
+    "link": "https://www.chronicle.com/article/after-criticism-harvard-dean-reverses-course-on-fellowship-for-human-rights-leader",
+    "title": "After Criticism, Harvard Dean Reverses Course on Fellowship for Human-Rights Leader",
+    "latest": "2023-01-21T12:50:30+00:00",
+    "first": "2023-01-21T04:58:24+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@henryfarrell/109725424339947044",
+      "content": "<p><a href=\"https://www.chronicle.com/article/after-criticism-harvard-dean-reverses-course-on-fellowship-for-human-rights-leader\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">chronicle.com/article/after-cr</span><span class=\"invisible\">iticism-harvard-dean-reverses-course-on-fellowship-for-human-rights-leader</span></a> \"Elmendorf has emphasized that his decision was not made in an effort to limit debate at the Kennedy School. He said he plans to ask a faculty committee to develop a process to evaluate future appointments of fellows.\" They should have done this after the Chelsea Manning affair, and we'll see what the details of the putative committee arrangements are, but it's plausibly progress, and makes similar interventions much less likely in future.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@henryfarrell",
+        "display_name": "Henry Farrell"
+      },
+      {
+        "url": "https://sigmoid.social/@boazbaraktcs",
+        "display_name": "Boaz Barak"
       }
     ]
   }

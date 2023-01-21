@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/executablebooks/sphinx-autobuild",
+    "title": "GitHub - executablebooks/sphinx-autobuild: Watch a Sphinx directory and rebuild the documentation when a change is detected. Also includes a livereload enabled web server.",
+    "latest": "2023-01-21T15:00:55+00:00",
+    "first": "2023-01-21T15:00:55+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@adamghill/109727793526933314",
+      "content": "<p>It took me a long time to understand why people love <a href=\"https://indieweb.social/tags/sphinx\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sphinx</span></a> and to be honest reStructuredText was a big reason I kept avoiding it. I have a hate/love relationship with <a href=\"https://indieweb.social/tags/markdown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>markdown</span></a>, but I use it almost every day so I sort of understand it.</p><p>Pared with Myst, Sphinx is so awesome I don\u2019t want to write docs in anything else.</p><p>My go-to documentation stack (even for non-Python projects):<br><a href=\"https://github.com/executablebooks/sphinx-autobuild\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/executablebooks/sph</span><span class=\"invisible\">inx-autobuild</span></a><br><a href=\"https://myst-parser.readthedocs.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">myst-parser.readthedocs.io/</span><span class=\"invisible\"></span></a><br><a href=\"https://pradyunsg.me/furo/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pradyunsg.me/furo/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/thepassle/rollup-plugin-native-css-modules",
     "title": "GitHub - thepassle/rollup-plugin-native-css-modules: Use native CSS modules with import assertions in Rollup.",
     "latest": "2023-01-21T10:42:57+00:00",
@@ -3416,22 +3432,6 @@
       {
         "url": "https://mas.to/@bvaughn",
         "display_name": "Brian Vaughn"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/anticomputer",
-    "title": "anticomputer - Overview",
-    "latest": "2023-01-10T18:50:59+00:00",
-    "first": "2023-01-10T18:50:59+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@anticomputer/109666412780728058",
-      "content": "<p>Looks like this infection has subsided finally so that means less hobby programming and more jiu jitsu for a while :) hint: whenever you see me release a metric crapton of elisp it\u2019s usually because I\u2019m injured or otherwise incapacitated from training :P You can always find the latest versions of things at <a href=\"https://github.com/anticomputer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/anticomputer</span><span class=\"invisible\"></span></a> and since I use my own packages pretty heavily they\u2019re generally kept in a stable state \u2026 hope some of it was/is useful to y\u2019all! <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
       }
     ]
   }
