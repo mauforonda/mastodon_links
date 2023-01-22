@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://observablehq.com/@fil/cats-and-donkey",
+    "title": "Cats and Donkey",
+    "latest": "2023-01-22T10:42:54+00:00",
+    "first": "2023-01-22T10:42:54+00:00",
+    "last_post": {
+      "url": "https://vis.social/@fil/109732441286938857",
+      "content": "<p>Showing some love for the open data initiative from the Smithsonian<br><a href=\"https://observablehq.com/@fil/cats-and-donkey\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@fil/cats-and</span><span class=\"invisible\">-donkey</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@fil",
+        "display_name": "Fil"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/matloff/TidyverseSkeptic",
     "title": "GitHub - matloff/TidyverseSkeptic: An opinionated view of the Tidyverse \"dialect\" of the R language.",
     "latest": "2023-01-22T08:05:42+00:00",
@@ -3404,22 +3420,6 @@
       {
         "url": "https://chaos.social/@lukasfx",
         "display_name": "Lukas Fuchsgruber"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/deepshamenghani/tidytuesday/tree/master/2023/Week2_birdfeeder",
-    "title": "tidytuesday/2023/Week2_birdfeeder at master \u00b7 deepshamenghani/tidytuesday",
-    "latest": "2023-01-11T15:22:20+00:00",
-    "first": "2023-01-11T15:22:20+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@deepsha/109671254630899305",
-      "content": "<p>This week's <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> data is from FeederWatch, a citizen science program that asks participants to identify and count the birds that visit the area around their home. </p><p>code: <a href=\"https://github.com/deepshamenghani/tidytuesday/tree/master/2023/Week2_birdfeeder\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/deepshamenghani/tid</span><span class=\"invisible\">ytuesday/tree/master/2023/Week2_birdfeeder</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/RSpatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RSpatial</span></a> <a href=\"https://fosstodon.org/tags/Plotly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Plotly</span></a> <a href=\"https://fosstodon.org/tags/MapPromptMonday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MapPromptMonday</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@deepsha",
-        "display_name": "IandLoveandData"
       }
     ]
   }
