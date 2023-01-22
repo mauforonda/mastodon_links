@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/google-research/tuning_playbook/blob/main/README.md",
+    "title": "tuning_playbook/README.md at main \u00b7 google-research/tuning_playbook",
+    "latest": "2023-01-21T22:38:42+00:00",
+    "first": "2023-01-21T22:38:42+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109729593594932607",
+      "content": "<p>Just reading the Deep Learning Tuning Playbook (<a href=\"https://github.com/google-research/tuning_playbook/blob/main/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/google-research/tun</span><span class=\"invisible\">ing_playbook/blob/main/README.md</span></a>). </p><p>\"The batch size governs the training speed and shouldn't be used to directly tune the validation set performance. Often, the ideal batch size will be the largest batch size supported [...]\"</p><p>Good advice \ud83d\udc4c</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/deepshamenghani/tidytuesday/tree/master/2023",
+    "title": "tidytuesday/2023 at master \u00b7 deepshamenghani/tidytuesday",
+    "latest": "2023-01-21T22:30:12+00:00",
+    "first": "2023-01-21T22:30:12+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@deepsha/109729560172114822",
+      "content": "<p>Each week I set out to learn one new thing while participating in <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a>. This week for <a href=\"https://fosstodon.org/tags/ArHistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ArHistory</span></a> data I used <a href=\"https://fosstodon.org/tags/Magick\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Magick</span></a> for basic Image editing and superimposing. Can't wait to use it again.</p><p>Code: <a href=\"https://github.com/deepshamenghani/tidytuesday/tree/master/2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/deepshamenghani/tid</span><span class=\"invisible\">ytuesday/tree/master/2023</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/GGPlot2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GGPlot2</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@deepsha",
+        "display_name": "IandLoveandData"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/subconsciousnetwork/noosphere",
+    "title": "GitHub - subconsciousnetwork/noosphere: Noosphere is a protocol for thought; let's discover it together!",
+    "latest": "2023-01-21T21:40:01+00:00",
+    "first": "2023-01-21T21:40:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@gordon/109729362868699503",
+      "content": "<p>We're building it! It's called Noosphere, an open and decentralized protocol for thought.</p><p>GitHub: <a href=\"https://github.com/subconsciousnetwork/noosphere\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/subconsciousnetwork</span><span class=\"invisible\">/noosphere</span></a> <br>---<br>RT @davewiner<br>@TfTHacker Someone needs to put up an app with an open protocol that all tools can hook into regardless of their internal data structure. Not hard to do technically, but it requires competitors to work together for the benefit of the category.<br><a href=\"https://twitter.com/davewiner/status/1616613749351227392\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/davewiner/status/1</span><span class=\"invisible\">616613749351227392</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@gordon",
+        "display_name": "Gordon Brander"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/BlakeRMills/MetBrewer",
     "title": "GitHub - BlakeRMills/MetBrewer: Color palette package in R inspired by works at the Metropolitan Museum of Art in New York",
     "latest": "2023-01-21T17:40:28+00:00",
@@ -3382,53 +3430,5 @@
       }
     ],
     "first": "2022-12-29T13:18:02+00:00"
-  },
-  {
-    "link": "https://github.com/grtcdr/darkman.el",
-    "title": "GitHub - grtcdr/darkman.el: Darkman integration with Emacs.",
-    "latest": "2023-01-11T03:54:01+00:00",
-    "first": "2023-01-11T03:54:01+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@grtcdr/109667049918304043",
-      "content": "<p>If you're a darkman user, darkman.el[1] - released just now - is the package for you.</p><p>Special thanks to Ian Eure and his amazingly well-presented talk[2] on D-Bus during last year's EmacsConf, which helped a lot to in writing this package.</p><p>[1] <a href=\"https://github.com/grtcdr/darkman.el\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/grtcdr/darkman.el</span><span class=\"invisible\"></span></a><br>[2] <a href=\"https://emacsconf.org/2022/talks/dbus/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">emacsconf.org/2022/talks/dbus/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@sachac",
-        "display_name": "Sacha Chua"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/tef/b78ca1718c60c9a7606cc0a93b47e836",
-    "title": "diff.py",
-    "latest": "2023-01-11T03:32:22+00:00",
-    "first": "2023-01-11T03:32:22+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@tef/109668462912158056",
-      "content": "<p>in other news, i went back and cleaned up the \"how does myers diff work\" post </p><p><a href=\"https://gist.github.com/tef/b78ca1718c60c9a7606cc0a93b47e836\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/tef/b78ca1718c</span><span class=\"invisible\">60c9a7606cc0a93b47e836</span></a></p><p>the example code now has 400% less bugs</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@tef",
-        "display_name": "tef"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/freelawproject/recap-chrome/releases/tag/2.0.0",
-    "title": "Release RECAP 2.0: Appellate Support! \u00b7 freelawproject/recap-chrome",
-    "latest": "2023-01-11T01:23:25+00:00",
-    "first": "2023-01-11T01:23:25+00:00",
-    "last_post": {
-      "url": "https://law.builders/@flp/109667818894948649",
-      "content": "<p>RECAP 2.0 is out! The headline? Appellate support! We know this was a LONG time coming, and we are so appreciative of all your support and patience waiting for this feature. Look for it in your browser in the coming days! More notes here: <a href=\"https://github.com/freelawproject/recap-chrome/releases/tag/2.0.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/freelawproject/reca</span><span class=\"invisible\">p-chrome/releases/tag/2.0.0</span></a></p><p>This work was sponsored by Justia and an anonymous donor. Thank you both!</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Colarusso",
-        "display_name": "David Colarusso"
-      }
-    ]
   }
 ]
