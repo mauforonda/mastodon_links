@@ -572,46 +572,6 @@
     ]
   },
   {
-    "link": "https://authors.acm.org/open-access/plan-s-compliance",
-    "title": "Plan S Compliance",
-    "latest": "2023-01-19T21:36:40+00:00",
-    "first": "2023-01-19T14:58:47+00:00",
-    "last_post": {
-      "url": "https://vis.social/@elm/109716013904964622",
-      "content": "<p>Today I learned that my university (University of Maryland, College Park) now has an agreement with <span class=\"h-card\"><a href=\"https://mastodon.acm.org/@ACM\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ACM</span></a></span> to make our <a href=\"https://vis.social/tags/chi2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chi2023</span></a> (and all ACM papers) open access. I guess this is a direct effect of Plan S (see link), but I wonder from where the funding for is coming (presumably from my university). Regardless, this is a great improvement and obviously we will choose to make all ACM papers <a href=\"https://vis.social/tags/openaccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openaccess</span></a> from now on! <a href=\"https://authors.acm.org/open-access/plan-s-compliance\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">authors.acm.org/open-access/pl</span><span class=\"invisible\">an-s-compliance</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hci.social/@karger",
-        "display_name": "David Karger"
-      },
-      {
-        "url": "https://mastodon.acm.org/@ACM",
-        "display_name": "The Official ACM"
-      }
-    ]
-  },
-  {
-    "link": "https://billypenn.com/2023/01/19/free-library-philadelphia-kanopy-movie-streaming-returns/",
-    "title": "Stream thousands of movies for free: Kanopy is back at the Free Library",
-    "latest": "2023-01-19T15:47:59+00:00",
-    "first": "2023-01-19T13:52:21+00:00",
-    "last_post": {
-      "url": "https://union.place/@nat/109715930433672531",
-      "content": "<p>The <a href=\"https://union.place/tags/Philly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Philly</span></a> Free Library reinstates Kanopy streaming service for all library users</p><p><a href=\"https://billypenn.com/2023/01/19/free-library-philadelphia-kanopy-movie-streaming-returns/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">billypenn.com/2023/01/19/free-</span><span class=\"invisible\">library-philadelphia-kanopy-movie-streaming-returns/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://jawns.club/@alexhillman",
-        "display_name": "Alex Hillman \u26a1\ufe0f"
-      },
-      {
-        "url": "https://typo.social/@jasonsantamaria",
-        "display_name": "Jason Santa Maria"
-      }
-    ]
-  },
-  {
     "link": "https://cran.r-project.org/package=MexBrewer",
     "title": "CRAN.R-project.org/package=Mex...",
     "latest": "2023-01-19T16:05:10+00:00",
@@ -1328,6 +1288,26 @@
       {
         "url": "https://sigmoid.social/@AirmindedAI",
         "display_name": "Airminded AI"
+      }
+    ]
+  },
+  {
+    "link": "https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free",
+    "title": "Inside TurboTax\u2019s 20-Year Fight to Stop Americans From Filing Their Taxes for Free",
+    "latest": "2023-01-22T14:23:38+00:00",
+    "first": "2023-01-21T21:36:43+00:00",
+    "last_post": {
+      "url": "https://glasgow.social/@themorrancave/109729349213422429",
+      "content": "<p>Watching the NFL playoffs and seeing all this TurboTax sponsorship reminds me of how TurboTax's parent company spent decades lobbying to prevent free and easy e-filing of your tax returns.</p><p>Via <span class=\"h-card\"><a href=\"https://newsie.social/@ProPublica\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ProPublica</span></a></span> <br><a href=\"https://glasgow.social/tags/taxes\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>taxes</span></a> <a href=\"https://glasgow.social/tags/irs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>irs</span></a> <a href=\"https://glasgow.social/tags/turbotax\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>turbotax</span></a> </p><p><a href=\"https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">propublica.org/article/inside-</span><span class=\"invisible\">turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://newsie.social/@ProPublica",
+        "display_name": "ProPublica"
+      },
+      {
+        "url": "https://econtwitter.net/@kzollman",
+        "display_name": "Kevin J.S. Zollman"
       }
     ]
   },

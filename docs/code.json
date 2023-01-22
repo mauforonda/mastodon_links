@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9",
+    "title": "Extracting and summarizing text with youtube-dl and GPT-3",
+    "latest": "2023-01-22T14:49:09+00:00",
+    "first": "2023-01-15T06:04:14+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@tomstafford/109733409532968015",
+      "content": "<p>Following <span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> <a href=\"https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/simonw/9932c6f</span><span class=\"invisible\">10e241cfa6b19a4e08b283ca9</span></a> i used chatGPT to produce a summary of an online talk. I used one by me (<a href=\"https://www.youtube.com/watch?v=RY7Vj_XEnqo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=RY7Vj_XEnq</span><span class=\"invisible\">o</span></a>) so I could judge accuracy. Results were impressive!</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://mastodon.online/@tomstafford",
+        "display_name": "tomstafford"
+      }
+    ]
+  },
+  {
     "link": "https://observablehq.com/@fil/cats-and-donkey",
     "title": "Cats and Donkey",
     "latest": "2023-01-22T10:42:54+00:00",
@@ -2211,22 +2231,6 @@
     "last_post": {
       "url": "https://fedi.simonwillison.net/@simon/109691820404202295",
       "content": "<p>I also pasted the second half of the transcript into ChatGPT so I could ask it some follow up questions, which proved to be a neat alternative way of consuming the summarized content: <a href=\"https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9?permalink_comment_id=4437411#gistcomment-4437411\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/simonw/9932c6f</span><span class=\"invisible\">10e241cfa6b19a4e08b283ca9?permalink_comment_id=4437411#gistcomment-4437411</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9",
-    "title": "Extracting and summarizing text with youtube-dl and GPT-3",
-    "latest": "2023-01-15T06:04:14+00:00",
-    "first": "2023-01-15T06:04:14+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109691709342708157",
-      "content": "<p>Since a few people have asked, here's what I did and the summary I got out of it: <a href=\"https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/simonw/9932c6f</span><span class=\"invisible\">10e241cfa6b19a4e08b283ca9</span></a></p>"
     },
     "people": [
       {
