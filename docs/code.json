@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/beanbaginc/spina",
+    "title": "https://github.com/beanbaginc/spina",
+    "latest": "2023-01-22T05:07:33+00:00",
+    "first": "2023-01-22T05:07:33+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@chipx86/109731122579853030",
+      "content": "<p>We use it for <a href=\"https://mastodon.online/tags/Backbone\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Backbone</span></a>, so we've gone ahead and implemented new base objects for all of Backbone's, available in <a href=\"https://mastodon.online/tags/Spina\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Spina</span></a>, to make all this easy.</p><p>But it can be used for anything. And it's MIT-licensed, so feel free to copy the approach.</p><p>From research, I know others have hit this gotcha with ES6 classes. I hope this is helpful to someone.</p><p>NPM: <a href=\"https://www.npmjs.com/package/@beanbag/spina\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">npmjs.com/package/@beanbag/spi</span><span class=\"invisible\">na</span></a></p><p>GitHub: <a href=\"https://github.com/beanbaginc/spina\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/beanbaginc/spina</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.online/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@chipx86",
+        "display_name": "Christian Hammond"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/adamghill/dlite",
+    "title": "GitHub - adamghill/dlite: A tiny, blazing fast view library that creates reactive Web Components",
+    "latest": "2023-01-22T05:00:26+00:00",
+    "first": "2023-01-22T05:00:26+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@adamghill/109731094594391085",
+      "content": "<p>After poking around available package names and domains I came up with the name&nbsp;`dlite`.</p><p>It\u2019s a tiny, blazing fast view library that creates reactive Web Components. It\u2019s perfect for interactive static sites!</p><p>This initial release includes the forked code cleaned up and linted, merged leftover PRs from `Litedom`, re-written documentation, and lots more emojis. Next version will include a few bug fixes.</p><p><a href=\"https://github.com/adamghill/dlite\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/adamghill/dlite</span><span class=\"invisible\"></span></a><br><a href=\"https://www.npmjs.com/package/dlite\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">npmjs.com/package/dlite</span><span class=\"invisible\"></span></a></p><p><a href=\"https://indieweb.social/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a> <a href=\"https://indieweb.social/tags/html\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/WasmEdge/WasmEdge/issues/1432",
     "title": "A PostgreSQL database driver for WebAssembly \u00b7 Issue #1432 \u00b7 WasmEdge/WasmEdge",
     "latest": "2023-01-22T02:31:03+00:00",
@@ -3390,37 +3422,5 @@
       }
     ],
     "first": "2023-01-05T15:12:57+00:00"
-  },
-  {
-    "link": "https://github.com/sheremet-va",
-    "title": "sheremet-va - Overview",
-    "latest": "2023-01-11T13:59:03+00:00",
-    "first": "2023-01-11T13:59:03+00:00",
-    "last_post": {
-      "url": "https://m.webtoo.ls/@vitest/109670919372061236",
-      "content": "<p>\u2705 State of JS 2022: Vitest Interest and Retention are at the top of the Testing category. Usage raised from 2.7% to 14.1% and Awareness doubled to 46.9%!</p><p>We're grateful to everyone that has contributed to Vitest! Also, 2nd place on Most Adopted Technology after <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@vite\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vite</span></a></span> :vite:</p><p>Special shoutout to <a href=\"https://github.com/sheremet-va\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sheremet-va</span><span class=\"invisible\"></span></a> for the massive maintenance effort done during the last year \u2764\ufe0f</p><p><a href=\"https://2022.stateofjs.com/en-US/libraries/testing/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">2022.stateofjs.com/en-US/libra</span><span class=\"invisible\">ries/testing/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/curatedmess/TidyTuesday/blob/main/2023/01102023/feederwatch.R\u2026",
-    "title": "github.com/curatedmess/TidyTue...",
-    "latest": "2023-01-11T12:37:45+00:00",
-    "first": "2023-01-11T12:37:45+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@ryanahart/109670607469733967",
-      "content": "<p><a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> | Week 2 | Project FeederWatch</p><p>Volunteers observed 331 unique species of birds across the U.S. in 2021, less than half of the potential bird species in the U.S. More birds to find at a bird feeder near you!</p><p>code: <a href=\"https://github.com/curatedmess/TidyTuesday/blob/main/2023/01102023/feederwatch.R\u2026\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/curatedmess/TidyTue</span><span class=\"invisible\">sday/blob/main/2023/01102023/feederwatch.R\u2026</span></a></p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/r4ds\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>r4ds</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@ryanahart",
-        "display_name": "Ryan"
-      }
-    ]
   }
 ]
