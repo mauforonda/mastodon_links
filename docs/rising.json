@@ -1,89 +1,21 @@
 [
   {
-    "link": "https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys",
-    "title": "Pluralistic: Tiktok\u2019s enshittification (21 Jan 2023) \u2013 Pluralistic: Daily links from Cory Doctorow",
-    "latest": "2023-01-22T09:33:49+00:00",
-    "first": "2023-01-21T18:08:40+00:00",
+    "link": "https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/",
+    "title": "Thoughts on the Python packaging ecosystem",
+    "latest": "2023-01-22T16:51:35+00:00",
+    "first": "2023-01-21T22:22:17+00:00",
     "last_post": {
-      "url": "https://mamot.fr/@pluralistic/109727932676025175",
-      "content": "<p>Here is how <a href=\"https://mamot.fr/tags/platforms\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>platforms</span></a> die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die.</p><p>If you'd like an essay-formatted version of this thread to read or share, here's a link to it on pluralistic.net, my surveillance-free, ad-free, tracker-free blog:</p><p><a href=\"https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pluralistic.net/2023/01/21/pot</span><span class=\"invisible\">emkin-ai/#hey-guys</span></a></p><p>1/</p>"
+      "url": "https://jawns.club/@vicki/109733890991278960",
+      "content": "<p>I read this post on the current state of Python packaging with great interest because it's from someone who really understands and spends a lot of time in the Python open source/packaging ecosystem. </p><p>In all the time I've spend developing Python, a good 40%+ of my developer time has been spent trying to figure out how to ship and check code instead of writing it. There's no one easy solution, but maybe we could start with pip. </p><p><a href=\"https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pradyunsg.me/blog/2023/01/21/t</span><span class=\"invisible\">houghts-on-python-packaging/</span></a></p>"
     },
     "people": [
-      {
-        "url": "https://mastodon.social/@hrheingold",
-        "display_name": "Howard Rheingold"
-      },
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      },
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2615\ufe0f"
-      },
       {
         "url": "https://indieweb.social/@adamghill",
         "display_name": "adamghill"
       },
       {
-        "url": "https://toot.cafe/@oliverturner",
-        "display_name": "Oliver"
-      }
-    ]
-  },
-  {
-    "link": "https://www.si.edu/openaccess/",
-    "title": "Smithsonian Open Access | Smithsonian Institution",
-    "latest": "2023-01-22T06:07:05+00:00",
-    "first": "2023-01-21T15:20:24+00:00",
-    "last_post": {
-      "url": "https://glitterkitten.co.uk/@doot/109727731935198524",
-      "content": "<p>OK this is actually pretty incredible.</p><p>The Smithsonian making 4 million digital items public domain. CC0 means you don't need to give attribution, there's no copyright to worry about, no restrictions on using them in photoshops etc. </p><p>It's a huge move for open media for such a big name to be making such a large collection open like this. It's the kind of thing I never really thought we would see start to happen.</p><p><a href=\"https://www.si.edu/openaccess/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">si.edu/openaccess/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@oliverturner",
-        "display_name": "Oliver"
-      },
-      {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
-      },
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
-      },
-      {
-        "url": "https://merveilles.town/@abundance",
-        "display_name": "everest"
-      },
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://theyrule.net/",
-    "title": "https://theyrule.net",
-    "latest": "2023-01-21T21:21:49+00:00",
-    "first": "2023-01-21T17:08:16+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@JoshOn/109728066333503037",
-      "content": "<p>It is back! <a href=\"https://theyrule.net\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">theyrule.net</span><span class=\"invisible\"></span></a></p><p>They Rule is an interactive visualization of the interlocking directories of the largest US companies. It shows that 87 of the top 100 US companies in 2021 were connected through shared directors on their boards. It allows visitors to browse through the board-room connections, and create maps they can share with others. Visitors can find links between companies by clicking on the chair menu in the top left and printing out their maps.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@philgyford",
-        "display_name": "Phil Gyford"
-      },
-      {
-        "url": "https://vis.social/@gka",
-        "display_name": "gka"
-      },
-      {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
+        "url": "https://jawns.club/@vicki",
+        "display_name": "Vicki Boykis"
       }
     ]
   },
@@ -144,6 +76,66 @@
       {
         "url": "https://toolsforthought.rocks/@andric",
         "display_name": "Andric Tham"
+      }
+    ]
+  },
+  {
+    "link": "https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html",
+    "title": "After self-hosting my email for twenty-three years I have thrown in the towel. The oligopoly has won.",
+    "latest": "2023-01-22T17:45:58+00:00",
+    "first": "2023-01-22T06:55:58+00:00",
+    "last_post": {
+      "url": "https://mastodon.ar.al/@aral/109720682260738515",
+      "content": "<p>\u201cThe <a href=\"https://mastodon.ar.al/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a> is like <a href=\"https://mastodon.ar.al/tags/email\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>email</span></a>.\u201d</p><p>Yes.</p><p>Now read this and understand it:</p><p>\u201cI have been self-hosting my email since I got my first broadband connection at home in 1999 \u2026 But my emails are just not delivered anymore. I might as well not have an email server.</p><p>Email is now an oligopoly, a service gatekept by a few big companies which does not follow the principles of net neutrality \u2026 I lost. We lost. One cannot reliably deploy independent email servers.\u201c</p><p><a href=\"https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cfenollosa.com/blog/after-self</span><span class=\"invisible\">-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html</span></a></p><p>Via <span class=\"h-card\"><a href=\"https://merveilles.town/@cancel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cancel</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@HeidiSeibold",
+        "display_name": "Heidi Seibold"
+      },
+      {
+        "url": "https://social.coop/@ming",
+        "display_name": "Flemming Funch"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@fil/cats-and-donkey",
+    "title": "Cats and Donkey",
+    "latest": "2023-01-22T16:13:19+00:00",
+    "first": "2023-01-22T10:42:54+00:00",
+    "last_post": {
+      "url": "https://vis.social/@fil/109732441286938857",
+      "content": "<p>Showing some love for the open data initiative from the Smithsonian<br><a href=\"https://observablehq.com/@fil/cats-and-donkey\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@fil/cats-and</span><span class=\"invisible\">-donkey</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@fil",
+        "display_name": "Fil"
+      },
+      {
+        "url": "https://front-end.social/@saneef",
+        "display_name": "Saneef H. Ansari"
+      }
+    ]
+  },
+  {
+    "link": "https://themindcircle.com/jigsaw-puzzle-companies-use-the-same-patterns/",
+    "title": "This Guy Noticed Jigsaw Puzzle Companies Use The Same Patterns, So He Made Some Mashups",
+    "latest": "2023-01-22T17:17:44+00:00",
+    "first": "2023-01-22T10:48:44+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@shepgo/109729982699981722",
+      "content": "<p>Tim Klein noticed that <a href=\"https://mastodon.social/tags/jigsaw\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>jigsaw</span></a> puzzle companies tend to use the same cut patterns for multiple puzzles. This makes the pieces interchangeable.\u201d So he\u2019s combined puzzles to create these amazingly bizarre hybrid images\u2026</p><p><a href=\"https://mastodon.social/tags/art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>art</span></a></p><p><a href=\"https://themindcircle.com/jigsaw-puzzle-companies-use-the-same-patterns/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">themindcircle.com/jigsaw-puzzl</span><span class=\"invisible\">e-companies-use-the-same-patterns/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@dahukanna",
+        "display_name": "Dawn Ahukanna"
+      },
+      {
+        "url": "https://mastodon.social/@jose_eduardo",
+        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
       }
     ]
   }

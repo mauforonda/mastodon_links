@@ -1,5 +1,73 @@
 [
   {
+    "link": "https://observablehq.com/@fil/distance-angle-voronoi",
+    "title": "Distance Angle Voronoi",
+    "latest": "2023-01-22T17:10:19+00:00",
+    "first": "2023-01-22T17:10:19+00:00",
+    "last_post": {
+      "url": "https://vis.social/@fil/109733964630313811",
+      "content": "<p>A colorful way of seeing Voronoi<br><a href=\"https://observablehq.com/@fil/distance-angle-voronoi\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@fil/distance</span><span class=\"invisible\">-angle-voronoi</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@fil",
+        "display_name": "Fil"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Fyrd/caniuse",
+    "title": "GitHub - Fyrd/caniuse: Raw browser/feature support data from caniuse.com",
+    "latest": "2023-01-22T16:37:28+00:00",
+    "first": "2023-01-22T16:37:28+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109733835468757632",
+      "content": "<p>If anyone did want to construct a more detailed history (trying to resist the urge for another project here) the caniuse repo has  9,208 commits stretching back a full 11 years - would absolutely be possible to assemble a detailed timeline for any feature that broke down exactly when it hit various support milestones using that data <a href=\"https://github.com/Fyrd/caniuse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Fyrd/caniuse</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/gkaramanis/tidytuesday/tree/master/2023/2023-week_03",
+    "title": "tidytuesday/2023/2023-week_03 at master \u00b7 gkaramanis/tidytuesday",
+    "latest": "2023-01-22T16:26:18+00:00",
+    "first": "2023-01-22T16:26:18+00:00",
+    "last_post": {
+      "url": "https://vis.social/@georgios/109733791582140274",
+      "content": "<p>Exhibitions by MoMA and The Whitney for this week's <a href=\"https://vis.social/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a></p><p>code: <a href=\"https://github.com/gkaramanis/tidytuesday/tree/master/2023/2023-week_03\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gkaramanis/tidytues</span><span class=\"invisible\">day/tree/master/2023/2023-week_03</span></a></p><p><a href=\"https://vis.social/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://vis.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@georgios",
+        "display_name": "Georgios Karamanis"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@fil/cats-and-donkey",
+    "title": "Cats and Donkey",
+    "latest": "2023-01-22T16:13:19+00:00",
+    "first": "2023-01-22T10:42:54+00:00",
+    "last_post": {
+      "url": "https://vis.social/@fil/109732441286938857",
+      "content": "<p>Showing some love for the open data initiative from the Smithsonian<br><a href=\"https://observablehq.com/@fil/cats-and-donkey\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@fil/cats-and</span><span class=\"invisible\">-donkey</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@fil",
+        "display_name": "Fil"
+      },
+      {
+        "url": "https://front-end.social/@saneef",
+        "display_name": "Saneef H. Ansari"
+      }
+    ]
+  },
+  {
     "link": "https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9",
     "title": "Extracting and summarizing text with youtube-dl and GPT-3",
     "latest": "2023-01-22T14:49:09+00:00",
@@ -16,22 +84,6 @@
       {
         "url": "https://mastodon.online/@tomstafford",
         "display_name": "tomstafford"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@fil/cats-and-donkey",
-    "title": "Cats and Donkey",
-    "latest": "2023-01-22T10:42:54+00:00",
-    "first": "2023-01-22T10:42:54+00:00",
-    "last_post": {
-      "url": "https://vis.social/@fil/109732441286938857",
-      "content": "<p>Showing some love for the open data initiative from the Smithsonian<br><a href=\"https://observablehq.com/@fil/cats-and-donkey\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@fil/cats-and</span><span class=\"invisible\">-donkey</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@fil",
-        "display_name": "Fil"
       }
     ]
   },
@@ -3376,54 +3428,6 @@
       {
         "url": "https://mastodon.gamedev.place/@doppioslash",
         "display_name": "Claudia Doppioslash/ShaderCat"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bookwyrm-social/bookwyrm/issues/2513",
-    "title": "Change how decisions are made in the BookWyrm project \u00b7 Issue #2513 \u00b7 bookwyrm-social/bookwyrm",
-    "latest": "2023-01-11T17:14:03+00:00",
-    "first": "2023-01-11T17:14:03+00:00",
-    "last_post": {
-      "url": "https://tech.lgbt/@bookwyrm/109671312950490844",
-      "content": "<p>BookWyrm users! We're talking about how decisions get made in BookWyrm and would love your feedback:<br><a href=\"https://github.com/bookwyrm-social/bookwyrm/issues/2513\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bookwyrm-social/boo</span><span class=\"invisible\">kwyrm/issues/2513</span></a></p><p>Please feel free to chime in there, or if you're not able to use github, reply with a DM here and we can add your comment to the conversation</p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@cblgh",
-        "display_name": "Alexander Cobleigh"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/openjournals/joss-reviews/issues/5055",
-    "title": "[PRE REVIEW]: MultilayerGraphs.jl: Multilayer Network Science in Julia \u00b7 Issue #5055 \u00b7 openjournals/joss-reviews",
-    "latest": "2023-01-11T16:27:38.431000+00:00",
-    "first": "2023-01-11T16:27:38.431000+00:00",
-    "last_post": {
-      "url": "https://bayes.club/@PietroMonticone/109671511275284151",
-      "content": "<p>We have submitted the MultilayerGraphs.jl paper to <a href=\"https://bayes.club/tags/JOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JOSS</span></a>. </p><p>Up until now we have been invited by the editors to:</p><p>1. Shorten the paper;<br>2. Remove code from the paper and just link to the \u201cexample\u201d folder;<br>3. Add a few graphical illustrations to explain the chosen keywords.</p><p>Here you can follow the open review process <a href=\"https://github.com/openjournals/joss-reviews/issues/5055\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openjournals/joss-r</span><span class=\"invisible\">eviews/issues/5055</span></a>. </p><p><a href=\"https://bayes.club/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> <a href=\"https://bayes.club/tags/OpenReview\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenReview</span></a> <a href=\"https://bayes.club/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> </p><p><span class=\"h-card\"><a href=\"https://social.opensource.org/@osi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>osi</span></a></span><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://a.gup.pe/u/networkscience",
-        "display_name": "networkscience group"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hodgesmr/mastodon_digest#algorithm-options",
-    "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
-    "latest": "2023-01-11T15:40:27+00:00",
-    "first": "2023-01-11T15:40:27+00:00",
-    "last_post": {
-      "url": "https://chaos.social/@lukasfx/109671325871081424",
-      "content": "<p><a href=\"https://chaos.social/tags/DIYAlgorithms\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DIYAlgorithms</span></a> on Mastodon:</p><p><a href=\"https://github.com/hodgesmr/mastodon_digest#algorithm-options\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest#algorithm-options</span></a></p><p><a href=\"https://social.coop/@jonny/109515350051727349\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">social.coop/@jonny/10951535005</span><span class=\"invisible\">1727349</span></a></p><p><a href=\"https://social.coop/@jonny/109545449455062668\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">social.coop/@jonny/10954544945</span><span class=\"invisible\">5062668</span></a></p><p><a href=\"https://mauforonda.github.io/mastodon_digest/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mauforonda.github.io/mastodon_</span><span class=\"invisible\">digest/</span></a></p><p><a href=\"https://mauforonda.github.io/mastodon_links/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mauforonda.github.io/mastodon_</span><span class=\"invisible\">links/</span></a></p><p><a href=\"https://fediview.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com/</span><span class=\"invisible\"></span></a></p><p><a href=\"https://social.coop/@keverets@librem.one/108220420990358343\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">social.coop/@keverets@librem.o</span><span class=\"invisible\">ne/108220420990358343</span></a></p><p>Do you have more?</p><p><a href=\"https://chaos.social/tags/Mastodev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodev</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://chaos.social/@lukasfx",
-        "display_name": "Lukas Fuchsgruber"
       }
     ]
   }
