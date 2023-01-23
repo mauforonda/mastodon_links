@@ -1,28 +1,28 @@
 [
   {
-    "link": "https://github.com/cloudflare/wildebeest/blob/4a6bf1739b2df758784b44625beebc16b8234600/migrations/0000_initial.sql",
-    "title": "wildebeest/0000_initial.sql at 4a6bf1739b2df758784b44625beebc16b8234600 \u00b7 cloudflare/wildebeest",
-    "latest": "2023-01-23T00:07:04+00:00",
-    "first": "2023-01-23T00:07:04+00:00",
+    "link": "https://github.com/b73tt/valetudo-r2d2",
+    "title": "GitHub - b73tt/valetudo-r2d2: R2D2 voice pack for my Dreame running Valetudo",
+    "latest": "2023-01-23T02:27:44.050000+00:00",
+    "first": "2023-01-23T02:27:44.050000+00:00",
     "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109735603378663448",
-      "content": "<p>D1 is their cloud database based on SQLite - here's their initial database schema: <a href=\"https://github.com/cloudflare/wildebeest/blob/4a6bf1739b2df758784b44625beebc16b8234600/migrations/0000_initial.sql\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudflare/wildebee</span><span class=\"invisible\">st/blob/4a6bf1739b2df758784b44625beebc16b8234600/migrations/0000_initial.sql</span></a></p><p>I love how quickly you can get a feel for what a piece of software can do based on reading one schema file</p>"
+      "url": "https://brettiverse.com/objects/0fe9b933-2598-46e7-ae3e-95b617641be4",
+      "content": "On the off chance somebody else has a Dreame robot vacuum running <a class=\"hashtag\" href=\"https://brettiverse.com/tag/valetudo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#valetudo</a>, I made an R2D2 voice pack for them since I couldn't find one online.<br><br><a href=\"https://github.com/b73tt/valetudo-r2d2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/b73tt/valetudo-r2d2</a><br><br><a class=\"hashtag\" href=\"https://brettiverse.com/tag/homeautomation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#homeautomation</a> <a class=\"hashtag\" href=\"https://brettiverse.com/tag/projects\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#projects</a>"
     },
     "people": [
       {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
+        "url": "https://brettiverse.com/users/brett",
+        "display_name": "brett"
       }
     ]
   },
   {
     "link": "https://github.com/cloudflare/wildebeest",
     "title": "GitHub - cloudflare/wildebeest: Wildebeest is an ActivityPub and Mastodon-compatible server",
-    "latest": "2023-01-22T23:50:57+00:00",
+    "latest": "2023-01-23T00:59:25+00:00",
     "first": "2023-01-13T05:41:19+00:00",
     "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109735539970564454",
-      "content": "<p>Just spotted that Cloudflare have their own open source Mastodon-compatible ActivityPub server called Wildebeest: <a href=\"https://github.com/cloudflare/wildebeest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudflare/wildebee</span><span class=\"invisible\">st</span></a></p><p>Looks like public code was first shared three weeks ago</p><p>\"Wildebeest runs on top Cloudflare's Supercloud, uses Workers and Pages, the D1 database to store metadata and configurations, Zero Trust Access to handle authentication and Images for media handling\" - so presumably it's mainly intended as a demo app to show what can be done with their stack?</p>"
+      "url": "https://social.masto.land/@dave/109735806518177289",
+      "content": "<p>Wildebeest is an ActivityPub and Mastodon-compatible server.</p><p><a href=\"https://github.com/cloudflare/wildebeest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudflare/wildebee</span><span class=\"invisible\">st</span></a></p>"
     },
     "people": [
       {
@@ -33,6 +33,26 @@
         "url": "https://mastodon.social/@davew",
         "display_name": "Dave Winer \u2618\ufe0f"
       },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2615\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cloudflare/wildebeest/blob/4a6bf1739b2df758784b44625beebc16b8234600/migrations/0000_initial.sql",
+    "title": "wildebeest/0000_initial.sql at 4a6bf1739b2df758784b44625beebc16b8234600 \u00b7 cloudflare/wildebeest",
+    "latest": "2023-01-23T00:07:04+00:00",
+    "first": "2023-01-23T00:07:04+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109735603378663448",
+      "content": "<p>D1 is their cloud database based on SQLite - here's their initial database schema: <a href=\"https://github.com/cloudflare/wildebeest/blob/4a6bf1739b2df758784b44625beebc16b8234600/migrations/0000_initial.sql\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudflare/wildebee</span><span class=\"invisible\">st/blob/4a6bf1739b2df758784b44625beebc16b8234600/migrations/0000_initial.sql</span></a></p><p>I love how quickly you can get a feel for what a piece of software can do based on reading one schema file</p>"
+    },
+    "people": [
       {
         "url": "https://fedi.simonwillison.net/@simon",
         "display_name": "Simon Willison"
@@ -3416,22 +3436,6 @@
       {
         "url": "https://toot.fedilab.app/@apps",
         "display_name": "Fedilab Apps"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Shinmera/talks/blob/master/gic2021-highly-dynamic/paper.pdf",
-    "title": "github.com/Shinmera/talks/blob...",
-    "latest": "2023-01-11T21:28:18+00:00",
-    "first": "2023-01-11T21:28:18+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@anticomputer/109672693653858400",
-      "content": "<p>Some great resources for Common Lisp based gamedev discussed in <a href=\"https://reader.tymoon.eu/article/413\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">reader.tymoon.eu/article/413</span><span class=\"invisible\"></span></a> as well as <a href=\"https://github.com/Shinmera/talks/blob/master/gic2021-highly-dynamic/paper.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Shinmera/talks/blob</span><span class=\"invisible\">/master/gic2021-highly-dynamic/paper.pdf</span></a> and provided at <a href=\"https://github.com/shirakumo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/shirakumo</span><span class=\"invisible\"></span></a> <a href=\"https://emacs.ch/tags/lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lisp</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
       }
     ]
   }
