@@ -1,5 +1,89 @@
 [
   {
+    "link": "https://github.com/mastodon/mastodon/issues/11882",
+    "title": "\"Block direct messages from people you don't follow\" is a mute, not a block \u00b7 Issue #11882 \u00b7 mastodon/mastodon",
+    "latest": "2023-01-23T14:46:30+00:00",
+    "first": "2023-01-23T14:46:30+00:00",
+    "last_post": {
+      "url": "https://social.jvns.ca/@b0rk/109739061432358367",
+      "content": "<p>I've had DMs blocked on Mastodon for a while (same as on twitter), but I just learned that on Mastodon, \"block DMs\" actually means \"mute DMs\" <a href=\"https://github.com/mastodon/mastodon/issues/11882\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/11882</span></a></p><p>so the sender has no way to tell that the receiver has DMs blocked</p>"
+    },
+    "people": [
+      {
+        "url": "https://social.jvns.ca/@b0rk",
+        "display_name": "Julia Evans"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/openai/whisper",
+    "title": "GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision",
+    "latest": "2023-01-23T14:08:17+00:00",
+    "first": "2023-01-17T06:24:27+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@vinceknight/109738911154279811",
+      "content": "<p>Reviewing the speech to text written by whisper (<a href=\"https://github.com/openai/whisper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/openai/whisper</span><span class=\"invisible\"></span></a>) for a new set of <a href=\"https://fosstodon.org/tags/gametheory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gametheory</span></a> videos and it heard \"Hawk Dove game\" as \"Hulk dove game\" and I'm all for it.</p>"
+    },
+    "people": [
+      {
+        "url": "https://status.kinlan.me/@paul",
+        "display_name": "Paul Kinlan"
+      },
+      {
+        "url": "https://fosstodon.org/@vinceknight",
+        "display_name": "Vince Knight (He/Him)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/nuxt/nuxt",
+    "title": "GitHub - nuxt/nuxt: Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
+    "latest": "2023-01-23T13:41:15+00:00",
+    "first": "2023-01-23T13:41:15+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@nuxt/109738793260499828",
+      "content": "<p>Migration completed to nuxt/nuxt \u2611\ufe0f</p><p>Thank you for your patience \ud83d\udc9a and support \u2b50\ufe0f</p><p><a href=\"https://github.com/nuxt/nuxt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/nuxt/nuxt</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/cpbotha/e1663767f8497104a2b6f5723af73503",
+    "title": "init.el",
+    "latest": "2023-01-23T13:35:36+00:00",
+    "first": "2023-01-23T13:35:36+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@cpbotha/109726165767041188",
+      "content": "<p>If you too would like to auto-adjust your Emacs font-size based on the resolution and physical size of your display, here is my minimal example init.el: <a href=\"https://gist.github.com/cpbotha/e1663767f8497104a2b6f5723af73503\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/cpbotha/e16637</span><span class=\"invisible\">67f8497104a2b6f5723af73503</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@sachac",
+        "display_name": "Sacha Chua"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/mthh/2c2e08fb2587249b694f7ed6b18a7ac0",
+    "title": "gist.github.com/mthh/2c2e08fb2...",
+    "latest": "2023-01-23T13:17:13+00:00",
+    "first": "2023-01-23T13:17:13+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@mthv/109738029843398396",
+      "content": "<p>Distance cartogram based on Waldo Tobler's bidimensional regression : the unipolar accessibility from Paris to the rest of France by train in 1882 (based on data from E. Martin's document).</p><p>Made with QGIS and the DistanceCartogram plugin (<a href=\"https://plugins.qgis.org/plugins/dist_cartogram/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">plugins.qgis.org/plugins/dist_</span><span class=\"invisible\">cartogram/</span></a>)</p><p>Original map: <a href=\"https://luna.lib.uchicago.edu/luna/servlet/detail/UCHICAGO~2~2~348~1231802:Carte-des-communications-rapides-en\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">luna.lib.uchicago.edu/luna/ser</span><span class=\"invisible\">vlet/detail/UCHICAGO~2~2~348~1231802:Carte-des-communications-rapides-en</span></a> (and the derived dataset: <a href=\"https://gist.github.com/mthh/2c2e08fb2587249b694f7ed6b18a7ac0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/mthh/2c2e08fb2</span><span class=\"invisible\">587249b694f7ed6b18a7ac0</span></a>)</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@neocarto",
+        "display_name": "Nicolas Lambert \ud83c\udf0f"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/readthedocs-examples/awesome-read-the-docs",
     "title": "GitHub - readthedocs-examples/awesome-read-the-docs: A curated list of awesome Read the Docs projects",
     "latest": "2023-01-23T11:36:03+00:00",
@@ -1792,22 +1876,6 @@
     ]
   },
   {
-    "link": "https://github.com/openai/whisper",
-    "title": "GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision",
-    "latest": "2023-01-17T06:24:27+00:00",
-    "first": "2023-01-17T06:24:27+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@_Davidsmith/109692085062009330",
-      "content": "<p>I'm working on reviving my old podcast searching system using OpenAI's Whisper engine (<a href=\"https://github.com/openai/whisper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/openai/whisper</span><span class=\"invisible\"></span></a>).</p><p>The results so far are amazing.  I can run the transcription right on my Mac at roughly 5X realtime, and the accuracy is super impressive. It even gets brand names and weird words right nearly every time.</p><p>For example, this segment from The Talk Show where <span class=\"h-card\"><a href=\"https://mastodon.social/@marcoarment\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>marcoarment</span></a></span> and <span class=\"h-card\"><a href=\"https://mastodon.social/@gruber\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gruber</span></a></span> argue about how to pronounce databases was perfectly transcribed, down the even the mispronunciations. \ud83e\udd2f</p>"
-    },
-    "people": [
-      {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/eramdam/tokimeki-mastodon",
     "title": "github.com/eramdam/tokimeki-ma...",
     "latest": "2023-01-17T05:42:42+00:00",
@@ -3372,70 +3440,6 @@
       {
         "url": "https://mstdn.social/@arnicas",
         "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/exaloop/codon",
-    "title": "GitHub - exaloop/codon: A high-performance, zero-overhead, extensible Python compiler using LLVM",
-    "latest": "2023-01-12T09:12:39+00:00",
-    "first": "2023-01-12T09:12:39+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@dwhitena/109662413647002279",
-      "content": "<p>Excited to experiment w/ codon. Compiles <a href=\"https://sigmoid.social/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> code to machine code w/ typical speedups on the order of 10-100x, on a single thread.</p><p>Also seems great for scenarios where you might want to protect source code in edge or other deployments.</p><p>Check it out: <a href=\"https://github.com/exaloop/codon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/exaloop/codon</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cuinfoscience/INFO3402-Spring2022",
-    "title": "GitHub - cuinfoscience/INFO3402-Spring2022: Spring 2022 version of INFO 3402 Information Exposition",
-    "latest": "2023-01-12T08:17:18+00:00",
-    "first": "2023-01-12T08:17:18+00:00",
-    "last_post": {
-      "url": "https://hci.social/@bkeegan/109672255491849629",
-      "content": "<p>Here's a link to the lectures, notebooks, and syllabus for the Spring 2022 version of this class: <a href=\"https://github.com/cuinfoscience/INFO3402-Spring2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cuinfoscience/INFO3</span><span class=\"invisible\">402-Spring2022</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@undercoverhistorian",
-        "display_name": "Beatrice Cherrier"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jerryjliu/gpt_index",
-    "title": "GitHub - jerryjliu/gpt_index: An index created by GPT to organize external information and answer queries!",
-    "latest": "2023-01-12T03:19:25+00:00",
-    "first": "2023-01-12T03:19:25+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@danbri/109674074322402925",
-      "content": "<p><a href=\"https://github.com/jerryjliu/gpt_index\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jerryjliu/gpt_index</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@danbri",
-        "display_name": "danbri"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/google/belief-localization",
-    "title": "github.com/google/belief-local...",
-    "latest": "2023-01-12T03:17:59+00:00",
-    "first": "2023-01-12T03:17:59+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@akhaliq/109673693172406930",
-      "content": "<p>Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models <br>abs: <a href=\"https://arxiv.org/abs/2301.04213\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.04213</span><span class=\"invisible\"></span></a> <br>github: <a href=\"https://github.com/google/belief-localization\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/google/belief-local</span><span class=\"invisible\">ization</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@lucidrains",
-        "display_name": "Ice Cream"
       }
     ]
   }
