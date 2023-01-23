@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/tigerbeetledb/tigerbeetle/pull/364/commits/a003666ebf2f53c64b1a5f3d7a5e3bdf9a819a51",
+    "title": "VSR/Correctness: Preserve Canonical Headers by sentientwaffle \u00b7 Pull Request #364 \u00b7 tigerbeetledb/tigerbeetle",
+    "latest": "2023-01-23T07:10:00+00:00",
+    "first": "2023-01-23T07:10:00+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@danluu/109737266406981899",
+      "content": "<p>I suspect a reason is it's easier to write a good bug/ticket than it is to write a good comment.</p><p>I was thinking about this after seeing <a href=\"https://github.com/tigerbeetledb/tigerbeetle/pull/364/commits/a003666ebf2f53c64b1a5f3d7a5e3bdf9a819a51\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tigerbeetledb/tiger</span><span class=\"invisible\">beetle/pull/364/commits/a003666ebf2f53c64b1a5f3d7a5e3bdf9a819a51</span></a>, which has the kind of comment I was used to seeing at Centaur in bug reports, which I haven't seen systematically anywhere else I've worked.</p><p>IMO, tickets/bugs work better for this than commit messages since a lot of useful info can't reasonably be attached to a commit, so putting in commits splits useful info across multiple locations.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@danluu",
+        "display_name": "Dan Luu"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/b73tt/valetudo-r2d2",
     "title": "GitHub - b73tt/valetudo-r2d2: R2D2 voice pack for my Dreame running Valetudo",
     "latest": "2023-01-23T02:27:44.050000+00:00",
@@ -3420,22 +3436,6 @@
       {
         "url": "https://front-end.social/@jensimmons",
         "display_name": "Jen Simmons"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/friendica/friendica/issues/12654",
-    "title": "DM about Fedilab is shared publicly on Mastodon \u00b7 Issue #12654 \u00b7 friendica/friendica",
-    "latest": "2023-01-11T22:42:41+00:00",
-    "first": "2023-01-11T22:42:41+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@feditips/109672967608693269",
-      "content": "<p>:friendica: Important note for <a href=\"https://mstdn.social/tags/Friendica\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Friendica</span></a> users! There's a bug that affects visibility of Friendica replies.</p><p>This bug only affects Friendica! MASTODON USERS ARE NOT AFFECTED.</p><p><a href=\"https://github.com/friendica/friendica/issues/12654\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/friendica/friendica</span><span class=\"invisible\">/issues/12654</span></a></p><p>Basically, replies by Friendica accounts using direct/mentions visibility in apps that rely on the Mastodon API will actually be public.</p><p>The linked issue mentions Fedilab as an example, but apparently this bug affects any Friendica-compatible app which relies on the Mastodon API.</p><p>(via <span class=\"h-card\"><a href=\"https://toot.fedilab.app/@apps\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>apps</span></a></span> )</p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.fedilab.app/@apps",
-        "display_name": "Fedilab Apps"
       }
     ]
   }
