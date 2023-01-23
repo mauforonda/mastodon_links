@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/readthedocs-examples/awesome-read-the-docs",
+    "title": "GitHub - readthedocs-examples/awesome-read-the-docs: A curated list of awesome Read the Docs projects",
+    "latest": "2023-01-23T11:36:03+00:00",
+    "first": "2023-01-23T11:36:03+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@readthedocs/109738302843468805",
+      "content": "<p>We compiled a list of many Awesome Read the Docs projects \ud83d\udc53! You can use them to get new inspiration \ud83e\uddd8\u200d\u2640\ufe0f for your documentation \ud83d\udcda</p><p>Know a cool project \ud83e\udd29 that should be added? Feel free to send a pull request or comment here.</p><p>See the full list:  <a href=\"https://github.com/readthedocs-examples/awesome-read-the-docs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/readthedocs-example</span><span class=\"invisible\">s/awesome-read-the-docs</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@vinceknight",
+        "display_name": "Vince Knight (He/Him)"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/tigerbeetledb/tigerbeetle/pull/364/commits/a003666ebf2f53c64b1a5f3d7a5e3bdf9a819a51",
     "title": "VSR/Correctness: Preserve Canonical Headers by sentientwaffle \u00b7 Pull Request #364 \u00b7 tigerbeetledb/tigerbeetle",
     "latest": "2023-01-23T07:10:00+00:00",
@@ -3420,22 +3436,6 @@
       {
         "url": "https://sigmoid.social/@lucidrains",
         "display_name": "Ice Cream"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/w3c/mlreq/issues/30#issuecomment-1379093581",
-    "title": "Todo hyphen \u00b7 Issue #30 \u00b7 w3c/mlreq",
-    "latest": "2023-01-12T01:16:13+00:00",
-    "first": "2023-01-12T01:16:13+00:00",
-    "last_post": {
-      "url": "https://w3c.social/@webi18n/109672123052005258",
-      "content": "<p>Question for Mongolian experts/users:<br>How do in-word line breaks work in Traditional Mongolian script used for Mongolian?<br>See <a href=\"https://github.com/w3c/mlreq/issues/30#issuecomment-1379093581\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/w3c/mlreq/issues/30</span><span class=\"invisible\">#issuecomment-1379093581</span></a><br>(Please send comments there, rather than here.)</p>"
-    },
-    "people": [
-      {
-        "url": "https://front-end.social/@jensimmons",
-        "display_name": "Jen Simmons"
       }
     ]
   }
