@@ -1,5 +1,73 @@
 [
   {
+    "link": "https://arxiv.org/abs/2301.07015",
+    "title": "Simplistic Collection and Labeling Practices Limit the Utility of Benchmark Datasets for Twitter Bot Detection",
+    "latest": "2023-01-23T22:14:07+00:00",
+    "first": "2023-01-23T17:37:59+00:00",
+    "last_post": {
+      "url": "https://hci.social/@manoel/109740821547512214",
+      "content": "<p>This cool new preprint argues that third-party bot detection tools generalize poorly due to the lack of robust high-quality data.</p><p>\ud83d\udcf0: <a href=\"https://arxiv.org/abs/2301.07015\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07015</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@eckles",
+        "display_name": "Dean Eckles"
+      },
+      {
+        "url": "https://hci.social/@manoel",
+        "display_name": "Manoel Horta Ribeiro"
+      }
+    ]
+  },
+  {
+    "link": "https://link.springer.com/article/10.1007/s00376-023-2385-2",
+    "title": "Another Year of Record Heat for the Oceans - Advances in Atmospheric Sciences",
+    "latest": "2023-01-23T22:00:56+00:00",
+    "first": "2023-01-23T22:00:56+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@ZLabe/109740769705437396",
+      "content": "<p>ICYMI - 2022 was the hottest year on record for our oceans...</p><p>+ Study: <a href=\"https://link.springer.com/article/10.1007/s00376-023-2385-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/article/10.1</span><span class=\"invisible\">007/s00376-023-2385-2</span></a><br>+ Summary: <a href=\"https://carbonbrief.org/state-of-the-climate-how-the-world-warmed-in-2022/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">carbonbrief.org/state-of-the-c</span><span class=\"invisible\">limate-how-the-world-warmed-in-2022/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@ZLabe",
+        "display_name": "Zack Labe"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/",
+    "title": "http://arXiv.org",
+    "latest": "2023-01-23T21:58:39+00:00",
+    "first": "2023-01-23T21:58:39+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@oatp/109739899067487973",
+      "content": "<p>Access is not the same as accessibility: A framework for making research papers truly open \u2013 <a href=\"http://arXiv.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arXiv.org</span><span class=\"invisible\"></span></a> blog <a href=\"https://ift.tt/BGYLmtI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ift.tt/BGYLmtI</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@dginev",
+        "display_name": "Deyan Ginev"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2212.14052",
+    "title": "Hungry Hungry Hippos: Towards Language Modeling with State Space Models",
+    "latest": "2023-01-23T21:13:39+00:00",
+    "first": "2023-01-23T21:13:39+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109740583803744798",
+      "content": "<p>RT @realDanFu@twitter.com</p><p>Attention is all you need... but how much of it do you need?</p><p>Announcing H3 - a new generative language models that outperforms GPT-Neo-2.7B with only *2* attention layers! Accepted as a *spotlight* at <a href=\"https://sigmoid.social/tags/ICLR2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ICLR2023</span></a>! \ud83d\udce3 w/ @tri_dao@twitter.com </p><p>\ud83d\udcdc <a href=\"https://arxiv.org/abs/2212.14052\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.14052</span><span class=\"invisible\"></span></a> 1/n</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/realDanFu/status/1617605971395891201\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/realDanFu/status/1</span><span class=\"invisible\">617605971395891201</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
     "link": "https://www.nature.com/articles/d41586-023-00179-x",
     "title": "Why I\u2019m a garbage collector for the world\u2019s oceans",
     "latest": "2023-01-23T21:07:43+00:00",
@@ -124,22 +192,6 @@
       {
         "url": "https://fediscience.org/@erinnacland",
         "display_name": "Erinn Acland, PhD"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.07015",
-    "title": "Simplistic Collection and Labeling Practices Limit the Utility of Benchmark Datasets for Twitter Bot Detection",
-    "latest": "2023-01-23T17:37:59+00:00",
-    "first": "2023-01-23T17:37:59+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@eckles/109739735769440465",
-      "content": "<p>Some problems in bot detection...</p><p>One of the narrower conclusions, but quite striking for me: a widely-used dataset of humans vs bots appears to be misrepresented in the work that introduced it.</p><p><a href=\"https://arxiv.org/abs/2301.07015\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07015</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@eckles",
-        "display_name": "Dean Eckles"
       }
     ]
   },
@@ -3400,54 +3452,6 @@
       {
         "url": "https://mastodon.social/@fgusmao",
         "display_name": "Prof Felipe Gusmao"
-      }
-    ]
-  },
-  {
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278937",
-    "title": "journals.plos.org/plosone/arti...",
-    "latest": "2023-01-12T00:19:30+00:00",
-    "first": "2023-01-12T00:19:30+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@CausalHuber/109672497608043834",
-      "content": "<p>\ud83d\udd25 Very happy to see our study (joint with Henrika Langen) on the application of <a href=\"https://econtwitter.net/tags/CausalMachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CausalMachineLearning</span></a> in quantitative  <a href=\"https://econtwitter.net/tags/marketing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>marketing</span></a> / <a href=\"https://econtwitter.net/tags/BusinessAnalytics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BusinessAnalytics</span></a> published in <a href=\"https://econtwitter.net/tags/PLOSONE\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PLOSONE</span></a>: <a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278937\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.plos.org/plosone/arti</span><span class=\"invisible\">cle?id=10.1371/journal.pone.0278937</span></a> <a href=\"https://econtwitter.net/tags/CausalTwitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CausalTwitter</span></a> <a href=\"https://econtwitter.net/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@ito",
-        "display_name": "Tim Gushue"
-      }
-    ]
-  },
-  {
-    "link": "https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdac085/6982752",
-    "title": "Retraction of: Growing up in a Recession",
-    "latest": "2023-01-11T23:52:57+00:00",
-    "first": "2023-01-11T23:52:57+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@statatexblog/109670294820017540",
-      "content": "<p>RT <span class=\"h-card\"><a href=\"https://econtwitter.net/@florianederer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>florianederer</span></a></span> <br>This is the first time I've ever seen a formal retraction in economics.</p><p>Kudos to the authors for being so intellectually honest!<br><a href=\"https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdac085/6982752\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">academic.oup.com/restud/advanc</span><span class=\"invisible\">e-article/doi/10.1093/restud/rdac085/6982752</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@m_clem",
-        "display_name": "Michael Clemens"
-      }
-    ]
-  },
-  {
-    "link": "https://osf.io/preprints/socarxiv/2m5pr/",
-    "title": "osf.io/preprints/socarxiv/2m5p...",
-    "latest": "2023-01-11T21:40:41+00:00",
-    "first": "2023-01-11T21:40:41+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@philipncohen/109672740718637640",
-      "content": "<p><span class=\"h-card\"><a href=\"https://botsin.space/@SocArXivBot\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SocArXivBot</span></a></span> </p><p>\"Partial <a href=\"https://mastodon.social/tags/Fertility\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fertility</span></a> Recuperation in Spain Two Years After the Onset of the COVID-19 Pandemic\"</p><p>\"Mothers at the beginning and the end of the reproductive age and those transitioning to first child have not yet recuperated, whereas mother in the middle of the fertility window and higher order births have fully recuperated. The findings suggest large consequences for <a href=\"https://mastodon.social/tags/population\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>population</span></a> structure and ultimate childlessness in <a href=\"https://mastodon.social/tags/Spain\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Spain</span></a>.\" <a href=\"https://osf.io/preprints/socarxiv/2m5pr/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">osf.io/preprints/socarxiv/2m5p</span><span class=\"invisible\">r/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@philipncohen",
-        "display_name": "Philip N Cohen"
       }
     ]
   }

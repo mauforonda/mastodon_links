@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/excalidraw/excalidraw/pull/480",
+    "title": "Introduce Shapelock by jillesme \u00b7 Pull Request #480 \u00b7 excalidraw/excalidraw",
+    "latest": "2023-01-23T22:58:46+00:00",
+    "first": "2023-01-23T22:58:46+00:00",
+    "last_post": {
+      "url": "https://mas.to/@steveruizok/109740997088735350",
+      "content": "<p>This feature has its roots in @excalidraw@twitter.com, where the lock was discussed as far back as Jan 2021 (<a href=\"https://github.com/excalidraw/excalidraw/pull/480\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/excalidraw/excalidr</span><span class=\"invisible\">aw/pull/480</span></a>).</p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@steveruizok",
+        "display_name": "Steve Ruiz"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/deebloo/ae17637ac180c3a877162e2847fb22b9",
+    "title": "Small utility for apply html template and construct-able stylesheets to custom elements.",
+    "latest": "2023-01-23T22:19:38+00:00",
+    "first": "2023-01-23T22:19:38+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@deebloo/109740798645272438",
+      "content": "<p>This is a small set of utils I have been using to write web components. Just applying html and css to shadow dom, no complex templating. <a href=\"https://gist.github.com/deebloo/ae17637ac180c3a877162e2847fb22b9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/deebloo/ae1763</span><span class=\"invisible\">7ac180c3a877162e2847fb22b9</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://status.kinlan.me/@paul",
+        "display_name": "Paul Kinlan"
+      }
+    ]
+  },
+  {
     "link": "https://gist.github.com/yinleon/2bee075dc99902bb4fab98825071da0f",
     "title": "Workshops and Talks!",
     "latest": "2023-01-23T17:51:16+00:00",
@@ -3412,38 +3444,6 @@
       {
         "url": "https://discuss.systems/@yminsky",
         "display_name": "Yaron Minsky"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ngagesdk/wordle",
-    "title": "GitHub - ngagesdk/wordle: A portable clone of Wordle designed for the Nokia N-Gage.",
-    "latest": "2023-01-12T12:13:09+00:00",
-    "first": "2023-01-12T12:13:09+00:00",
-    "last_post": {
-      "url": "https://saturation.social/@clive/109676173024075471",
-      "content": "<p>Wordle ported to the Nokia N-Gage: <a href=\"https://github.com/ngagesdk/wordle\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ngagesdk/wordle</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://saturation.social/@clive",
-        "display_name": "Clive Thompson"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rotki/rotki",
-    "title": "GitHub - rotki/rotki: A portfolio tracking, analytics, accounting and tax reporting application that protects your privacy",
-    "latest": "2023-01-12T10:49:47+00:00",
-    "first": "2023-01-12T10:49:47+00:00",
-    "last_post": {
-      "url": "https://cryptodon.lol/@lefteris/109675845229272526",
-      "content": "<p>\ud83d\udc26We @rotkiapp are at 99 <a href=\"https://cryptodon.lol/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a> contributors.</p><p>\ud83d\udcafWho is gonna be the 100th?</p><p>\ud83e\uddd1\u200d\ud83d\udcbbCheck out our issues, pick an easy one, or even better some exchange, protocol or platform you would like to see in rotki and let's contribute to opensource!</p><p>\ud83d\udc49<a href=\"https://github.com/rotki/rotki\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rotki/rotki</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://cryptodon.lol/@lefteris",
-        "display_name": "lefterisjp"
       }
     ]
   }
