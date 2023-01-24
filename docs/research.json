@@ -1,5 +1,85 @@
 [
   {
+    "link": "https://arxiv.org/abs/2301.08745",
+    "title": "Is ChatGPT A Good Translator? A Preliminary Study",
+    "latest": "2023-01-24T02:19:10+00:00",
+    "first": "2023-01-24T02:19:10+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109741785108798344",
+      "content": "<p>Is ChatGPT A Good Translator? A Preliminary Study</p><p>ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages but lags behind significantly on low-resource or distant languages. </p><p><a href=\"https://arxiv.org/abs/2301.08745\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.08745</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.08984",
+    "title": "SuperScaler: Supporting Flexible DNN Parallelization via a Unified Abstraction",
+    "latest": "2023-01-24T02:19:08+00:00",
+    "first": "2023-01-24T02:19:08+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109741784963273783",
+      "content": "<p>SuperScaler: Supporting Flexible DNN Parallelization via a Unified Abstraction</p><p>Can construct new parallelization plans that achieve up to 3.5x speedup compared to SotA solutions like DeepSpeed, Megatron and Alpa on Swin-Transformer, AlphaFold2, GPT-3...</p><p><a href=\"https://arxiv.org/abs/2301.08984\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.08984</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.09595",
+    "title": "Zorro: the masked multimodal transformer",
+    "latest": "2023-01-24T02:04:53+00:00",
+    "first": "2023-01-24T02:04:53+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109741728962056624",
+      "content": "<p>Zorro: the masked multimodal transformer</p><p>Achieves SotA on most relevant benchmarks for multimodal tasks (AudioSet and VGGSound) by using masks to control how inputs from each modality are routed inside Transformers. </p><p><a href=\"https://arxiv.org/abs/2301.09595\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.09595</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.09515",
+    "title": "https://arxiv.org/abs/2301.09515",
+    "latest": "2023-01-24T01:57:39+00:00",
+    "first": "2023-01-24T01:57:39+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109741700545441002",
+      "content": "<p>StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis</p><p>Outperforms distilled diffusion models - the previous SotA in text-to-image synthesis - in terms of sample quality and speed.</p><p>proj (+repo): <a href=\"https://sites.google.com/view/stylegan-t/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sites.google.com/view/stylegan</span><span class=\"invisible\">-t/</span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.09515\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.09515</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.09637",
+    "title": "https://arxiv.org/abs/2301.09637",
+    "latest": "2023-01-24T01:57:38+00:00",
+    "first": "2023-01-24T01:57:38+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109741700419893344",
+      "content": "<p>InfiniCity: Infinite-Scale City Synthesis</p><p>Proposes a novel framework, InfiniCity, which constructs and renders an unconstrainedly large and 3D-grounded environment from random noises.</p><p>proj: <a href=\"https://hubert0527.github.io/infinicity/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">hubert0527.github.io/infinicit</span><span class=\"invisible\">y/</span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.09637\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.09637</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2301.07015",
     "title": "Simplistic Collection and Labeling Practices Limit the Utility of Benchmark Datasets for Twitter Bot Detection",
     "latest": "2023-01-23T22:14:07+00:00",
@@ -3372,86 +3452,6 @@
       {
         "url": "https://econtwitter.net/@SylvainCF",
         "display_name": ""
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1111/geb.13628",
-    "title": "https://doi.org/10.1111/geb.13628",
-    "latest": "2023-01-12T07:22:40+00:00",
-    "first": "2023-01-12T07:22:40+00:00",
-    "last_post": {
-      "url": "https://ecoevo.social/@adamsmith/109672387585072213",
-      "content": "<p>Museums and herbaria contain thousands of person-years of specimens that biogeographers often deem \"unusable\" because they are imprecisely georeferenced. I'm happy to report a simple method for including them in species distribution models and other methods!  Please feel free to ask for a reprint, as GEB open access charges were exorbitant ($4400!).</p><p> <a href=\"https://doi.org/10.1111/geb.13628\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.1111/geb.13628</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1515/9783110673272",
-    "title": "https://doi.org/10.1515/9783110673272",
-    "latest": "2023-01-12T07:21:28+00:00",
-    "first": "2023-01-12T07:21:28+00:00",
-    "last_post": {
-      "url": "https://openbiblio.social/@v_i_o_l_a/109669462443060016",
-      "content": "<p><a href=\"https://openbiblio.social/tags/neu\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neu</span></a> &amp; <a href=\"https://openbiblio.social/tags/openaccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openaccess</span></a>: \"Informationsressourcen: Ein Handbuch f\u00fcr Bibliothekare und Informationsspezialisten\" <a href=\"https://doi.org/10.1515/9783110673272\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.1515/9783110673272</span><span class=\"invisible\"></span></a> \ud83d\udcd9</p>"
-    },
-    "people": [
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/s41591-022-02088-4",
-    "title": "Academia\u2019s lost luster prompts exodus of health researchers to industry - Nature Medicine",
-    "latest": "2023-01-12T06:34:39+00:00",
-    "first": "2023-01-12T06:34:39+00:00",
-    "last_post": {
-      "url": "https://mas.to/@sanjaysrivastava/109650153021370567",
-      "content": "<p>\u201cThe apparent exodus is a shock to the academic system that some researchers didn\u2019t see coming but that others say has been palpable for quite some time \u2014 and is a trend only set to continue. \u2018The majority of senior academics still don\u2019t understand how fast this is coming,\u2019 says Daniel MacArthur, a population geneticist at the Garvan Institute of Medical Research in Sydney, Australia.</p><p>\u201cEarly-career scientists are not missing a beat, however.\u201d</p><p><a href=\"https://www.nature.com/articles/s41591-022-02088-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41591-022</span><span class=\"invisible\">-02088-4</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@jonny",
-        "display_name": "Jonny"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.04213",
-    "title": "Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models",
-    "latest": "2023-01-12T03:17:59+00:00",
-    "first": "2023-01-12T03:17:59+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@akhaliq/109673693172406930",
-      "content": "<p>Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models <br>abs: <a href=\"https://arxiv.org/abs/2301.04213\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.04213</span><span class=\"invisible\"></span></a> <br>github: <a href=\"https://github.com/google/belief-localization\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/google/belief-local</span><span class=\"invisible\">ization</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@lucidrains",
-        "display_name": "Ice Cream"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1016/j.resconrec.2022.106831",
-    "title": "doi.org/10.1016/j.resconrec.20...",
-    "latest": "2023-01-12T01:50:56+00:00",
-    "first": "2023-01-12T01:50:56+00:00",
-    "last_post": {
-      "url": "https://mastodon.world/@AJStein_de/109672501805935145",
-      "content": "<p>High <a href=\"https://mastodon.world/tags/environment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>environment</span></a> impacts of <a href=\"https://mastodon.world/tags/meat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>meat</span></a> consumption can be reduced with substitute products. <a href=\"https://mastodon.world/tags/Plantbased\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Plantbased</span></a> meats have 50% lower environment <a href=\"https://mastodon.world/tags/footprints\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>footprints</span></a> (GHG <a href=\"https://mastodon.world/tags/emissions\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emissions</span></a>, <a href=\"https://mastodon.world/tags/landuse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>landuse</span></a>, non-renewable <a href=\"https://mastodon.world/tags/energy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>energy</span></a> use, water footprint) relative to weight &amp; <a href=\"https://mastodon.world/tags/protein\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>protein</span></a> content: <a href=\"https://doi.org/10.1016/j.resconrec.2022.106831\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.resconrec.20</span><span class=\"invisible\">22.106831</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@fgusmao",
-        "display_name": "Prof Felipe Gusmao"
       }
     ]
   }
