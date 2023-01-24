@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-01-24",
+    "title": "tidytuesday/2023/2023-01-24 at main \u00b7 nrennie/tidytuesday",
+    "latest": "2023-01-24T11:27:51+00:00",
+    "first": "2023-01-24T11:27:51+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@nrennie/109743942658076775",
+      "content": "<p>For this week's <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a>, I kept it simple and made a lollipop chart with geom_image() - with a little help from <span class=\"h-card\"><a href=\"https://fosstodon.org/@tanya_shapiro\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tanya_shapiro</span></a></span>'s code to get the borders for the images!</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-01-24\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-01-24</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@nrennie",
+        "display_name": "Nicola Rennie"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/msu-econ-data-analytics/course-materials",
+    "title": "GitHub - msu-econ-data-analytics/course-materials",
+    "latest": "2023-01-24T10:00:59+00:00",
+    "first": "2023-01-24T10:00:59+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@jmateosg/109743601025657275",
+      "content": "<p>RT @hagertynw@twitter.com</p><p>Here are the full materials for my data-science-in-economics course, for anyone who might benefit</p><p>The idea is to explicitly teach skills/tools that otherwise are only gained through RA experiences. Help level the playing field for research/PhDs/predocs</p><p><a href=\"https://github.com/msu-econ-data-analytics/course-materials\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/msu-econ-data-analy</span><span class=\"invisible\">tics/course-materials</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/hagertynw/status/1617610708929380355\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/hagertynw/status/1</span><span class=\"invisible\">617610708929380355</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@jmateosg",
+        "display_name": "Juan Mateos-Garcia"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/microsoft/torchgeo",
+    "title": "GitHub - microsoft/torchgeo: TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
+    "latest": "2023-01-24T09:33:16+00:00",
+    "first": "2023-01-24T09:33:16+00:00",
+    "last_post": {
+      "url": "https://tech.lgbt/@jesper/109737315222743537",
+      "content": "<p>Do you work with Geospatial data?</p><p>Make your machine learning life a little easier!</p><p>Try TorchGeo:<br>\u2022 Datasets<br>\u2022 Samplers<br>\u2022 Models</p><p>\ud83d\udcbb: <a href=\"https://github.com/microsoft/torchgeo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/microsoft/torchgeo</span><span class=\"invisible\"></span></a><br>\ud83d\udcdc: <a href=\"https://dl.acm.org/doi/10.1145/3557915.3560953\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/10.1145/3557915</span><span class=\"invisible\">.3560953</span></a></p><p><a href=\"https://tech.lgbt/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> <a href=\"https://tech.lgbt/tags/datascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datascience</span></a> <a href=\"https://tech.lgbt/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://tech.lgbt/tags/deeplearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deeplearning</span></a> <a href=\"https://tech.lgbt/tags/kaggle\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>kaggle</span></a> <a href=\"https://tech.lgbt/tags/career\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>career</span></a> <a href=\"https://tech.lgbt/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tech</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/friendica/friendica/pull/12725",
     "title": "Several API improvements by annando \u00b7 Pull Request #12725 \u00b7 friendica/friendica",
     "latest": "2023-01-24T06:13:09+00:00",
@@ -3392,54 +3440,6 @@
       {
         "url": "https://toolsforthought.rocks/@boris",
         "display_name": "Boris Mann"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/seltzered/f93cd6dbe7db28ac820591e7ee14b820",
-    "title": "gist.github.com/seltzered/f93c...",
-    "latest": "2023-01-12T18:11:29+00:00",
-    "first": "2023-01-12T18:11:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@vivekgani/109675063962004196",
-      "content": "<p>The thing where you start a class after 2 years and the first thing you do is spend the day migrating the frankenstack of old notes done across <a href=\"https://mastodon.social/tags/roam\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>roam</span></a> , <a href=\"https://mastodon.social/tags/AthensResearch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AthensResearch</span></a> , google doc image links , etc. to <a href=\"https://mastodon.social/tags/logseq\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>logseq</span></a> . </p><p>1) Athens-to-logseq: use the jar file of <a href=\"https://github.com/bshepherdson/athens-export\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bshepherdson/athens</span><span class=\"invisible\">-export</span></a> (the source release didn't work for some reason)</p><p>2) Roam/GDoc Image Downloads: I made some hacky tweaks to an existing script to download images here: <a href=\"https://gist.github.com/seltzered/f93cd6dbe7db28ac820591e7ee14b820\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/seltzered/f93c</span><span class=\"invisible\">d6dbe7db28ac820591e7ee14b820</span></a></p><p><a href=\"https://mastodon.social/tags/toolsforthought\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>toolsforthought</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toolsforthought.rocks/@boris",
-        "display_name": "Boris Mann"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/palewire/news-nerd-repo-analysis",
-    "title": "GitHub - palewire/news-nerd-repo-analysis: How active are news nerds on GitHub?",
-    "latest": "2023-01-12T16:55:23+00:00",
-    "first": "2023-01-12T16:55:23+00:00",
-    "last_post": {
-      "url": "https://mastodon.palewi.re/@palewire/109677282798015178",
-      "content": "<p>For anyone interested in my research, here's my scraper and analysis code. It's a Jupyter Notebook, of course.</p><p><a href=\"https://github.com/palewire/news-nerd-repo-analysis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/palewire/news-nerd-</span><span class=\"invisible\">repo-analysis</span></a></p><p>Here's the processed data, including a database of all open-source repositories.</p><p><a href=\"https://docs.google.com/spreadsheets/d/1QFilLlum5oiTvOqxD5icvxO1FXE-sffMbjLN9JGvjAE/edit?usp=drivesdk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.google.com/spreadsheets/d</span><span class=\"invisible\">/1QFilLlum5oiTvOqxD5icvxO1FXE-sffMbjLN9JGvjAE/edit?usp=drivesdk</span></a></p><p>The analysis is limited to repositories owned by the sample of 200+ organizations. It does not include projects owned by personal accounts or contributions to repos managed by other communities.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.palewi.re/@palewire",
-        "display_name": "Ben Welsh"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/agrothendieck/gphotos",
-    "title": "GitHub - agrothendieck/gphotos: Photos of A. Grothendieck",
-    "latest": "2023-01-12T16:28:03+00:00",
-    "first": "2023-01-12T16:28:03+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@johncarlosbaez/109677175353913842",
-      "content": "<p>Looking at this gallery of photos of Alexander Grothendieck:</p><p><a href=\"https://github.com/agrothendieck/gphotos\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/agrothendieck/gphot</span><span class=\"invisible\">os</span></a></p><p>two things strike me.  </p><p>First, contrary to any stereotypes of mathematicians, he had quite a sense of style in how he dressed.    </p><p>Second, how few photos there are of such a famous mathematician!  Maybe there are a lot more lurking around?</p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@johncarlosbaez",
-        "display_name": "John Carlos Baez"
       }
     ]
   }
