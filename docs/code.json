@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/friendica/friendica/pull/12725",
+    "title": "Several API improvements by annando \u00b7 Pull Request #12725 \u00b7 friendica/friendica",
+    "latest": "2023-01-24T06:13:09+00:00",
+    "first": "2023-01-24T06:13:09+00:00",
+    "last_post": {
+      "url": "https://toot.fedilab.app/@apps/109742705181758500",
+      "content": "<p>A great work from <a href=\"https://toot.fedilab.app/tags/Friendica\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Friendica</span></a> devs that we will quickly add to <a href=\"https://toot.fedilab.app/tags/Fedilab\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fedilab</span></a>.</p><p>- Quoting support with the API<br>- Display the context of replies in timelines.</p><p>There are also fixes for DMs and Block. </p><p>More: <a href=\"https://github.com/friendica/friendica/pull/12725\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/friendica/friendica</span><span class=\"invisible\">/pull/12725</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toot.fedilab.app/@apps",
+        "display_name": "Fedilab Apps"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/jeremiak/jeremiak.com/pull/41/files",
     "title": "Upgrade 11ty to use 2.0 beta by jeremiak \u00b7 Pull Request #41 \u00b7 jeremiak/jeremiak.com",
     "latest": "2023-01-24T04:47:39+00:00",
@@ -3424,26 +3440,6 @@
       {
         "url": "https://mathstodon.xyz/@johncarlosbaez",
         "display_name": "John Carlos Baez"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hometown-fork/hometown/issues/1274#issuecomment-1379647384",
-    "title": "Allow optional Markdown and/or ReStructuredText interpolation \u00b7 Issue #1274 \u00b7 hometown-fork/hometown",
-    "latest": "2023-01-12T13:43:32+00:00",
-    "first": "2023-01-12T00:22:12+00:00",
-    "last_post": {
-      "url": "https://friend.camp/@darius/109673377456950391",
-      "content": "<p>I keep getting asked to support writing rich-text-formatted posts in <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> (we already read them just fine). I finally wrote down, in this comment on this Github issue, a short essay outlining all my concerns with doing so:</p><p><a href=\"https://github.com/hometown-fork/hometown/issues/1274#issuecomment-1379647384\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hometown-fork/homet</span><span class=\"invisible\">own/issues/1274#issuecomment-1379647384</span></a></p><p>Some of this is problems with Markdown, while some of this is problems with interoperability regarding any rich text rendering at all.</p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      },
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2618\ufe0f"
       }
     ]
   }
