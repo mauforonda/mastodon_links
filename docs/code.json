@@ -2,7 +2,7 @@
   {
     "link": "https://github.com/nuxt/nuxt/releases/v3.1.0",
     "title": "github.com/nuxt/nuxt/releases/...",
-    "latest": "2023-01-24T17:16:40+00:00",
+    "latest": "2023-01-24T19:52:15+00:00",
     "first": "2023-01-24T17:16:40+00:00",
     "last_post": {
       "url": "https://m.webtoo.ls/@nuxt/109745279059279109",
@@ -12,6 +12,42 @@
       {
         "url": "https://toot.cafe/@nickytonline",
         "display_name": "Nick Taylor"
+      },
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Treeki/BirdBridge",
+    "title": "GitHub - Treeki/BirdBridge: shoving a twitter API-shaped peg into a mastodon API-shaped hole",
+    "latest": "2023-01-24T18:48:10+00:00",
+    "first": "2023-01-24T18:48:10+00:00",
+    "last_post": {
+      "url": "https://vulpine.club/@Ninji/109741771560132177",
+      "content": "<p>For anyone curious, I've now put the source code for my Twitter bridge on GitHub: <a href=\"https://github.com/Treeki/BirdBridge\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Treeki/BirdBridge</span><span class=\"invisible\"></span></a></p><p>I didn't get posting working yet because I spent too much time on other things - first on staring at disassembled code from Ivory to see how it was loading timelines, and then on delving through the different official Twitter clients to see how they make requests for different things.</p><p>It's getting there, though \ud83d\udc40</p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/facebook/react-native/issues/35936",
+    "title": "[Investigation] ANRs Using Multiline TextInput on Samsung Devices \u00b7 Issue #35936 \u00b7 facebook/react-native",
+    "latest": "2023-01-24T18:43:28+00:00",
+    "first": "2023-01-24T18:43:28+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@kelset/109745655562513774",
+      "content": "<p>PSA: for those of you using <a href=\"https://mastodon.online/tags/reactnative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reactnative</span></a> \u269b\ufe0f affected by the issue about the Samsung Keyboard + Android 13 + Grammarly issue, @nick_gerleman and @cortinico have been \u26cf\ufe0f deep into it and there's a new update: <a href=\"https://github.com/facebook/react-native/issues/35936\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebook/react-nati</span><span class=\"invisible\">ve/issues/35936</span></a></p><p>(plottwist: it happens on stock <a href=\"https://mastodon.online/tags/Android\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Android</span></a> too \ud83e\udd26\u200d\u2642\ufe0f)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@kelset",
+        "display_name": "Lorenzo \ud83c\uddfa\ud83c\udde6"
       }
     ]
   },
@@ -3408,38 +3444,6 @@
       {
         "url": "https://toot.cafe/@oliverturner",
         "display_name": "Oliver"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/elk-zone/elk/pull/1009",
-    "title": "feat: hide server autocomplete when you enter a valid URL by tom-sherman \u00b7 Pull Request #1009 \u00b7 elk-zone/elk",
-    "latest": "2023-01-12T23:55:06+00:00",
-    "first": "2023-01-12T23:55:06+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@tomsherman/109678804982081074",
-      "content": "<p>After <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span> was made open source today I made a couple of contributions. My first ever <a href=\"https://fosstodon.org/tags/Vue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Vue</span></a> PRs!</p><p>An improvement to the login UX: <a href=\"https://github.com/elk-zone/elk/pull/1009\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">009</span></a></p><p>Color mode preference following system default: <a href=\"https://github.com/elk-zone/elk/pull/1012\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">012</span></a></p><p>The codebase is exemplary, so easy to get started and start hacking! I would recommend contributing if you wanted to learn Vue, there are lots of good first issues!</p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/elk-zone/elk/pull/1012",
-    "title": "github.com/elk-zone/elk/pull/1...",
-    "latest": "2023-01-12T23:55:06+00:00",
-    "first": "2023-01-12T23:55:06+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@tomsherman/109678804982081074",
-      "content": "<p>After <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span> was made open source today I made a couple of contributions. My first ever <a href=\"https://fosstodon.org/tags/Vue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Vue</span></a> PRs!</p><p>An improvement to the login UX: <a href=\"https://github.com/elk-zone/elk/pull/1009\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">009</span></a></p><p>Color mode preference following system default: <a href=\"https://github.com/elk-zone/elk/pull/1012\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">012</span></a></p><p>The codebase is exemplary, so easy to get started and start hacking! I would recommend contributing if you wanted to learn Vue, there are lots of good first issues!</p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
       }
     ]
   }
