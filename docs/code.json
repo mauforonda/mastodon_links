@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://github.com/nuxt/nuxt/releases/v3.1.0",
+    "title": "github.com/nuxt/nuxt/releases/...",
+    "latest": "2023-01-24T17:16:40+00:00",
+    "first": "2023-01-24T17:16:40+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@nuxt/109745279059279109",
+      "content": "<p>Nuxt v3.1.0 is out \u2728</p><p>\ud83c\udfdd\ufe0f Experimental Component Islands<br>\ud83e\ude84 onNuxtReady, useNuxtData and useSeoMeta<br>\ud83d\udcaa Nitropack v2, Vite 4 and Rollup 3<br>\u26a1\ufe0f Performance improvements</p><p><a href=\"https://github.com/nuxt/nuxt/releases/v3.1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nuxt/nuxt/releases/</span><span class=\"invisible\">v3.1.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toot.cafe/@nickytonline",
+        "display_name": "Nick Taylor"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/scikit-learn/sklearn-pypi-package",
+    "title": "GitHub - scikit-learn/sklearn-pypi-package",
+    "latest": "2023-01-24T16:51:25+00:00",
+    "first": "2023-01-24T16:51:25+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hugovk/109745214945579894",
+      "content": "<p>Interesting approach from the <span class=\"h-card\"><a href=\"https://fosstodon.org/@sklearn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sklearn</span></a></span> project:</p><p>You can install via \"pip install scikit-learn\", but they have an old \"sklearn\" package on PyPI that they want to deprecate, so they released sklearn with a brownout schedule, where it will fail to install between certain times.</p><p>And the time windows for failures will increase.</p><p>Did you see a failure? Replace \"sklearn\" with \"scikit-learn\" in your dependencies.</p><p>More info: <a href=\"https://github.com/scikit-learn/sklearn-pypi-package\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scikit-learn/sklear</span><span class=\"invisible\">n-pypi-package</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/scikitlearn\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scikitlearn</span></a> <a href=\"https://mastodon.social/tags/sklearn\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sklearn</span></a> <a href=\"https://mastodon.social/tags/deprecation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deprecation</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hugovk",
+        "display_name": "hugovk"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pytorch/pytorch/commit/0fe5367058a1d67134aee510ed81691cf9e61e33",
+    "title": "[Vulkan] implement abs (#87414) \u00b7 pytorch/pytorch@0fe5367",
+    "latest": "2023-01-24T15:43:48+00:00",
+    "first": "2023-01-24T15:43:48+00:00",
+    "last_post": {
+      "url": "https://social.librem.one/@vincent/109744949041673892",
+      "content": "<p>Got my first commit into PyTorch! \ud83c\udf8a <a href=\"https://github.com/pytorch/pytorch/commit/0fe5367058a1d67134aee510ed81691cf9e61e33\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pytorch/pytorch/com</span><span class=\"invisible\">mit/0fe5367058a1d67134aee510ed81691cf9e61e33</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.librem.one/@vincent",
+        "display_name": "Vincent Cloutier"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/seanbaxter/circle/blob/master/new-circle/README.md",
+    "title": "circle/README.md at master \u00b7 seanbaxter/circle",
+    "latest": "2023-01-24T15:21:18+00:00",
+    "first": "2023-01-24T15:21:18+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Migueldeicaza/109744860581145167",
+      "content": "<p>Sean Baxter not only wrote his own C++ compiler, but he authored this magnificent vision paper for the future of C++ that it moved me to reconsider my views on the safety of the language and its use future projects.</p><p>Seldom a man of my age and opinions can change his mind over something so fundamental. </p><p>Enjoy: <a href=\"https://github.com/seanbaxter/circle/blob/master/new-circle/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/seanbaxter/circle/b</span><span class=\"invisible\">lob/master/new-circle/README.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Migueldeicaza",
+        "display_name": "Miguel de Icaza"
+      }
+    ]
+  },
+  {
     "link": "https://observablehq.com/@neocartocnrs/la-retraite-avant-larthrite",
     "title": "observablehq.com/@neocartocnrs...",
     "latest": "2023-01-24T13:36:03+00:00",
@@ -3376,70 +3440,6 @@
       {
         "url": "https://m.webtoo.ls/@patak",
         "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/SqrtMinusOne/reverso.el",
-    "title": "GitHub - SqrtMinusOne/reverso.el: Emacs client for https://www.reverso.net/: translation, grammar check, context and synonyms search",
-    "latest": "2023-01-12T22:48:01+00:00",
-    "first": "2023-01-12T22:48:01+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@olddeuteronomy/109675853853419911",
-      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@sqrtminusone\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sqrtminusone</span></a></span> Hi Pavel. Many thanks for your excellent reverso.el (<a href=\"https://github.com/SqrtMinusOne/reverso.el\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/SqrtMinusOne/revers</span><span class=\"invisible\">o.el</span></a>) package! I've implemented a simple start-up function for it. <a href=\"https://olddeuteronomy.github.io/post/reverso-context-in-emacs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">olddeuteronomy.github.io/post/</span><span class=\"invisible\">reverso-context-in-emacs/</span></a> <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@sachac",
-        "display_name": "Sacha Chua"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/open-duelyst/duelyst/tree/main/app/resources/units",
-    "title": "github.com/open-duelyst/duelys...",
-    "latest": "2023-01-12T22:18:58+00:00",
-    "first": "2023-01-12T22:18:58+00:00",
-    "last_post": {
-      "url": "https://mastodon.gamedev.place/@ezraszanton/109674952395408189",
-      "content": "<p>HOLY CRAP do you know what this means?? A ton of REALLY HIGH QUALITY pixel art character animations just got added to the public domain. Somebody is going to make a really cool roguelike out of this mark my words.<br>Source (article) <a href=\"https://www.pcgamer.com/duelyst-source-code-is-now-free-for-everyone-no-strings-attached/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">pcgamer.com/duelyst-source-cod</span><span class=\"invisible\">e-is-now-free-for-everyone-no-strings-attached/</span></a><br>Source (code) <a href=\"https://github.com/open-duelyst/duelyst/tree/main/app/resources/units\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/open-duelyst/duelys</span><span class=\"invisible\">t/tree/main/app/resources/units</span></a></p><p>THANK YOU COUNTERPLAY!</p><p><a href=\"https://mastodon.gamedev.place/tags/gamedev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gamedev</span></a> <a href=\"https://mastodon.gamedev.place/tags/duelyst\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>duelyst</span></a> <a href=\"https://mastodon.gamedev.place/tags/publicdomain\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>publicdomain</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@Danc",
-        "display_name": "Daniel Cook"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jdecked/twemoji",
-    "title": "GitHub - jdecked/twemoji: Emoji for everyone. https://twemoji.twitter.com/",
-    "latest": "2023-01-12T22:12:31+00:00",
-    "first": "2023-01-12T22:12:31+00:00",
-    "last_post": {
-      "url": "https://macaw.social/@jdecked/109678028258269320",
-      "content": "<p>I've published an official fork of Twemoji on NPM as @twemoji/api. If you're looking for the parser, that's also now @twemoji/parser. I don't know what Twitter will do with the original Twemoji, but I don't want it to die, so I'll keep it alive.</p><p><a href=\"https://github.com/jdecked/twemoji\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jdecked/twemoji</span><span class=\"invisible\"></span></a><br><a href=\"https://www.npmjs.com/package/@twemoji/api\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">npmjs.com/package/@twemoji/api</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://macaw.social/@dml",
-        "display_name": "Dave LaMacchia"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jitsi/jitsi-meet/pull/12775",
-    "title": "fix: stop ticking timer resizing its container by DivineDominion \u00b7 Pull Request #12775 \u00b7 jitsi/jitsi-meet",
-    "latest": "2023-01-12T21:26:06+00:00",
-    "first": "2023-01-12T21:26:06+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ctietze/109678347352189717",
-      "content": "<p>I hate when digits aren't evenly spaced and \"1\" takes less space than e.g. \"0\".</p><p>Fixed this for Jitsi. The timer drove me nuts :)</p><p><a href=\"https://github.com/jitsi/jitsi-meet/pull/12775\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jitsi/jitsi-meet/pu</span><span class=\"invisible\">ll/12775</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ctietze",
-        "display_name": "Christian Tietze"
       }
     ]
   }
