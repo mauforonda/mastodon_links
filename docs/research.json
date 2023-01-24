@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://arxiv.org/abs/2301.08292",
+    "title": "Quantum HyperNetworks: Training Binary Neural Networks in Quantum Superposition",
+    "latest": "2023-01-24T05:23:35+00:00",
+    "first": "2023-01-24T05:23:35+00:00",
+    "last_post": {
+      "url": "https://mas.to/@carrasqu/109742510295580011",
+      "content": "<p>We have a paper on training binary neural networks on quantum computers. Collaboration with <br>@VectorInst<br> <br>@Perimeter<br> <br>@CQIQC_Toronto<br> <br>@UofT<br> <br>@uoguelph_mlrg<br> <br>@UWaterloo<br> <br>@awscloud<br>  <a href=\"https://arxiv.org/abs/2301.08292\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.08292</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@carrasqu",
+        "display_name": "JuanFelipeCarrasquillaAlvarez"
+      }
+    ]
+  },
+  {
+    "link": "https://doi.org/10.1098/rstb.2021.0412",
+    "title": "https://doi.org/10.1098/rstb.2021.0412",
+    "latest": "2023-01-24T04:56:45+00:00",
+    "first": "2023-01-24T04:56:45+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@MarkRubin/109741418202243016",
+      "content": "<p>Social Norms - It\u2019s just what we do!</p><p>Really interesting new theoretical article considers social norms through an integration of (a) social identity theory and (b) norm psychology. </p><p>Open access: <a href=\"https://doi.org/10.1098/rstb.2021.0412\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.1098/rstb.2021.0412</span><span class=\"invisible\"></span></a> </p><p>Mastodonian authors: <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@kati_kish\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kati_kish</span></a></span> &amp; <span class=\"h-card\"><a href=\"https://scholar.social/@ehud\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ehud</span></a></span></p><p>Few quotes follow: \ud83e\uddf5\ud83d\udc49</p><p><a href=\"https://fediscience.org/tags/Science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Science</span></a><br><a href=\"https://fediscience.org/tags/SocialPsychology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialPsychology</span></a><br><a href=\"https://fediscience.org/tags/SocialScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialScience</span></a><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/socialpsych\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>socialpsych</span></a></span><br><a href=\"https://fediscience.org/tags/Sociology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Sociology</span></a><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/sociology\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sociology</span></a></span><br><a href=\"https://fediscience.org/tags/SocialNorms\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialNorms</span></a><br><a href=\"https://fediscience.org/tags/SocialIdentityTheory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialIdentityTheory</span></a><br><a href=\"https://fediscience.org/tags/SIT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SIT</span></a><br><a href=\"https://fediscience.org/tags/EvolutionaryPsychology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EvolutionaryPsychology</span></a></p><p>1/4</p>"
+    },
+    "people": [
+      {
+        "url": "https://sciences.social/@markigra",
+        "display_name": "Mark Igra"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2301.08745",
     "title": "Is ChatGPT A Good Translator? A Preliminary Study",
     "latest": "2023-01-24T02:19:10+00:00",
@@ -3418,41 +3450,5 @@
       }
     ],
     "first": "2023-01-06T17:35:58+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2205.01899",
-    "title": "A Tool For Debugging Quantum Circuits",
-    "latest": "2023-01-12T08:26:52+00:00",
-    "first": "2023-01-12T08:26:52+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@kjoo/109675058414183769",
-      "content": "<p>Debugging a circuit of a <a href=\"https://fosstodon.org/tags/quantumcomputer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quantumcomputer</span></a> is not as easy as for classical computers. Setting breakpoints, stopping the execution, peeking variables or the state and continuing is simply not possible.</p><p>\"developing a quantum debugger is challenging due to the nature of a quantum computer; sneaking a peek at the value of a quantum state will cause either partial or complete collapse of the superposition and may destroy the necessary entanglement.\" </p><p><a href=\"https://arxiv.org/abs/2205.01899\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2205.01899</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://qubit-social.xyz/@RafaelWagner",
-        "display_name": "Rafael Wagner"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.48550/arXiv.2209.07493",
-    "title": "doi.org/10.48550/arXiv.2209.07...",
-    "latest": "2023-01-12T08:04:47+00:00",
-    "first": "2023-01-10T21:53:01+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@jonny/109667128523400837",
-      "content": "<p>I see people are still talking about that \"science is getting less <a href=\"https://neuromatch.social/tags/disruptive\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>disruptive</span></a>\" paper.</p><p>It is, of course, wrong in its interpretation because as usual scientists don't evaluate the profit taking systems that structure science and instead treat them like some natural phenomenon. </p><p>The results are trivially explained by the way citations are structured to prop up a prestige hierarchy of journals, I already wrote about this here about the last paper that said \"science is slowing down\" but y'all only read 15 page papers squarely within your discipline \ud83d\ude43: <a href=\"https://doi.org/10.48550/arXiv.2209.07493\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.48550/arXiv.2209.07</span><span class=\"invisible\">493</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@jonny",
-        "display_name": "Jonny"
-      },
-      {
-        "url": "https://econtwitter.net/@SylvainCF",
-        "display_name": ""
-      }
-    ]
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/jeremiak/jeremiak.com/pull/41/files",
+    "title": "Upgrade 11ty to use 2.0 beta by jeremiak \u00b7 Pull Request #41 \u00b7 jeremiak/jeremiak.com",
+    "latest": "2023-01-24T04:47:39+00:00",
+    "first": "2023-01-24T04:47:39+00:00",
+    "last_post": {
+      "url": "https://journa.host/@jeremiak/109742369012848374",
+      "content": "<p>Just upgraded my personal site from <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>eleventy</span></a></span> v0.12 to the v2 beta and the most consequential change I made was to add a pair of quote marks. Freaking \u2728</p><p><a href=\"https://github.com/jeremiak/jeremiak.com/pull/41/files\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jeremiak/jeremiak.c</span><span class=\"invisible\">om/pull/41/files</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://journa.host/@jeremiak",
+        "display_name": "Jeremia Kimelman"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/excalidraw/excalidraw/pull/480",
     "title": "Introduce Shapelock by jillesme \u00b7 Pull Request #480 \u00b7 excalidraw/excalidraw",
     "latest": "2023-01-23T22:58:46+00:00",
@@ -3428,22 +3444,6 @@
       {
         "url": "https://mastodon.social/@davew",
         "display_name": "Dave Winer \u2618\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ezyang/expecttest",
-    "title": "GitHub - ezyang/expecttest",
-    "latest": "2023-01-12T12:57:27+00:00",
-    "first": "2023-01-12T12:57:27+00:00",
-    "last_post": {
-      "url": "https://discuss.systems/@yminsky/109676347224703077",
-      "content": "<p>TIL: there's an expect test library in Python (when by the great @ezyang), modeled on Jane Street's expect test system.</p><p><a href=\"https://github.com/ezyang/expecttest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ezyang/expecttest</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://discuss.systems/@yminsky",
-        "display_name": "Yaron Minsky"
       }
     ]
   }
