@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/huggingface/diffusers/tree/main/examples/text_to_image#training-with-lora",
+    "title": "diffusers/examples/text_to_image at main \u00b7 huggingface/diffusers",
+    "latest": "2023-01-25T08:59:37+00:00",
+    "first": "2023-01-25T08:59:37+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@akhaliq/109746945004260551",
+      "content": "<p>RT @RisingSayak@twitter.com</p><p>Fine-tune Stable Diffusion in T4/V100 on a custom image-caption pairs' dataset \ud83e\udde8 \ud83d\udd25 =&gt; memory efficiency</p><p>This is enabled by LoRA. With LoRA, the fine-tuned checkpoints are just **3 MBs** in size \ud83e\udd2f =&gt; portability</p><p>Know about it\ud83d\udc47 <a href=\"https://github.com/huggingface/diffusers/tree/main/examples/text_to_image#training-with-lora\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/huggingface/diffuse</span><span class=\"invisible\">rs/tree/main/examples/text_to_image#training-with-lora</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/RisingSayak/status/1617915224119705601\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/RisingSayak/status</span><span class=\"invisible\">/1617915224119705601</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ihewitt/VO2max",
+    "title": "https://github.com/ihewitt/VO2max",
+    "latest": "2023-01-25T07:53:38+00:00",
+    "first": "2023-01-25T07:53:38+00:00",
+    "last_post": {
+      "url": "https://social.ivor.org/@ivor/109748762583687140",
+      "content": "<p>Someone asked for my code for a DIY VO2max device (design: <a href=\"https://www.instructables.com/Accurate-VO2-Max-for-Zwift-and-Strava/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">instructables.com/Accurate-VO2</span><span class=\"invisible\">-Max-for-Zwift-and-Strava/</span></a>), gave me the impetus to tidy up the wiring (CO2 holder taped until properly glued) <br>Also discovered the laptop with the code on had a failing SSD so finally got around to uploading that to GitHub.<br>Definitely time to have another play with it.</p><p>Code: <a href=\"https://github.com/ihewitt/VO2max\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ihewitt/VO2max</span><span class=\"invisible\"></span></a><br><a href=\"https://social.ivor.org/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.ivor.org/@ivor",
+        "display_name": "Ivor Hewitt"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/react-boilerplate/react-boilerplate",
+    "title": "GitHub - react-boilerplate/react-boilerplate: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.",
+    "latest": "2023-01-25T07:35:38+00:00",
+    "first": "2023-01-25T07:35:38+00:00",
+    "last_post": {
+      "url": "https://mas.to/@steveruizok/109748691830890526",
+      "content": "<p>reject modernity, embrace tradition <a href=\"https://github.com/react-boilerplate/react-boilerplate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/react-boilerplate/r</span><span class=\"invisible\">eact-boilerplate</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@steveruizok",
+        "display_name": "Steve Ruiz"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/jitsi/jitsi-meet/pull/12775",
     "title": "fix: stop ticking timer resizing its container by DivineDominion \u00b7 Pull Request #12775 \u00b7 jitsi/jitsi-meet",
     "latest": "2023-01-25T00:48:13+00:00",
@@ -3396,54 +3444,6 @@
       {
         "url": "https://dair-community.social/@emilymbender",
         "display_name": "Emily M. Bender (she/her)"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/aws-samples/aws-net-guides/tree/master/Serverless/Serverless%20App%20with%20Dynamic%20Step%20Functions",
-    "title": "aws-net-guides/Serverless/Serverless App with Dynamic Step Functions at master \u00b7 aws-samples/aws-net-guides",
-    "latest": "2023-01-13T17:30:54+00:00",
-    "first": "2023-01-13T17:30:54+00:00",
-    "last_post": {
-      "url": "https://awscommunity.social/@jeffbarr/109683084798482859",
-      "content": "<p>Cool Serverless AWS . NET Sample: </p><p>comparefaces - The purpose and narrative of this .NET sample app on <a href=\"https://awscommunity.social/tags/AWS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AWS</span></a>, is to demonstrate how we can compare an photo image against several other photos images. </p><p><a href=\"https://github.com/aws-samples/aws-net-guides/tree/master/Serverless/Serverless%20App%20with%20Dynamic%20Step%20Functions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/aws-samples/aws-net</span><span class=\"invisible\">-guides/tree/master/Serverless/Serverless%20App%20with%20Dynamic%20Step%20Functions</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://awscommunity.social/@jeffbarr",
-        "display_name": "Jeff Barr"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bvaughn/react-resizable-panels/pull/83",
-    "title": "e2e test cleanup by bvaughn \u00b7 Pull Request #83 \u00b7 bvaughn/react-resizable-panels",
-    "latest": "2023-01-13T15:44:21+00:00",
-    "first": "2023-01-13T15:44:21+00:00",
-    "last_post": {
-      "url": "https://mas.to/@bvaughn/109682665802637050",
-      "content": "<p>\u269b\ufe0f Took the e2e testing idea I had a bit further and cleaned up the rest of my e2e tests to use the dynamic route I wrote for testing purposes. Pretty powerful/flexible approach.</p><p><a href=\"https://github.com/bvaughn/react-resizable-panels/pull/83\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bvaughn/react-resiz</span><span class=\"invisible\">able-panels/pull/83</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@bvaughn",
-        "display_name": "Brian Vaughn"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/MilesCranmer/pysr_interactive",
-    "title": "GitHub - MilesCranmer/pysr_interactive: Experiments in creating a PySR web app",
-    "latest": "2023-01-13T15:44:18+00:00",
-    "first": "2023-01-13T15:44:18+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@MilesCranmer/109682665611108320",
-      "content": "<p>Source code: <a href=\"https://github.com/MilesCranmer/pysr_interactive\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MilesCranmer/pysr_i</span><span class=\"invisible\">nteractive</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MilesCranmer",
-        "display_name": "Miles Cranmer"
       }
     ]
   }

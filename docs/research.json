@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://arxiv.org/abs/2210.05050",
+    "title": "Neurosymbolic Programming for Science",
+    "latest": "2023-01-25T06:48:07+00:00",
+    "first": "2023-01-25T06:48:07+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@chrisshank/109748504999837369",
+      "content": "<p>\u201cNeurosymbolic Programming for Science\u201d by Sun et al. (2022)</p><p><a href=\"https://arxiv.org/abs/2210.05050\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2210.05050</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chrisshank",
+        "display_name": "\ud835\udd6e"
+      }
+    ]
+  },
+  {
+    "link": "https://doi.org/10.48550/arXiv.2301.10196",
+    "title": "doi.org/10.48550/arXiv.2301.10...",
+    "latest": "2023-01-25T06:33:32+00:00",
+    "first": "2023-01-25T06:33:32+00:00",
+    "last_post": {
+      "url": "https://mastodon-pa.sorbonne-universite.fr/@piquemal/109748447672253817",
+      "content": "<p><a href=\"https://mastodon-pa.sorbonne-universite.fr/tags/compchem\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compchem</span></a> <a href=\"https://mastodon-pa.sorbonne-universite.fr/tags/quantumcomputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quantumcomputing</span></a> New <a href=\"https://mastodon-pa.sorbonne-universite.fr/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a>: Overlap-ADAPT-VQE: Practical Quantum Chemistry on Quantum Computers via Overlap-Guided Compact Ans\u00e4tze. Great work by C. Feniou and M. Hassan; nice theochem/maths interdisciplinary collaboration with Y. Maday. <a href=\"https://doi.org/10.48550/arXiv.2301.10196\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.48550/arXiv.2301.10</span><span class=\"invisible\">196</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon-pa.sorbonne-universite.fr/@piquemal",
+        "display_name": "Jean-Philip Piquemal"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2301.09664",
     "title": "A Useful Inequality for the Binary Entropy Function",
     "latest": "2023-01-25T05:38:42+00:00",
@@ -3348,46 +3380,6 @@
       {
         "url": "https://fosstodon.org/@HeidiSeibold",
         "display_name": "Heidi Seibold"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-023-00053-w",
-    "title": "Hunting for the best bioscience software tool? Check this database",
-    "latest": "2023-01-13T14:08:27+00:00",
-    "first": "2023-01-12T16:53:48+00:00",
-    "last_post": {
-      "url": "https://sciencemastodon.com/@jperkel/109677078480907570",
-      "content": "<p>Today <span class=\"h-card\"><a href=\"https://sciencemastodon.com/@nature\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nature</span></a></span>: \u201cIf you look at the key breakthroughs, not just in biomedicine, but in science in the last decade, they have consistently been computational in nature\u201d -- the prediction of protein folding, for example, and the depiction of black holes. \u201cAnd scientific open-source software specifically has been at the core of these breakthroughs.\u201d (cc <span class=\"h-card\"><a href=\"https://genomic.social/@ctb\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ctb</span></a></span> <span class=\"h-card\"><a href=\"https://genomic.social/@greenescientist\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>greenescientist</span></a></span>)<br> <a href=\"https://www.nature.com/articles/d41586-023-00053-w\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00053-w</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@danielskatz",
-        "display_name": "Daniel S. Katz"
-      },
-      {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      },
-      {
-        "url": "https://genomic.social/@ctb",
-        "display_name": "Titus Brown"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1016/j.jss.2015.07.027",
-    "title": "doi.org/10.1016/j.jss.2015.07....",
-    "latest": "2023-01-13T14:05:32+00:00",
-    "first": "2023-01-13T14:05:32+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@khinsen/109681608729273157",
-      "content": "<p>I just found an interesting paper on <a href=\"https://scholar.social/tags/ScientificSoftware\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ScientificSoftware</span></a>:</p><p>Diane Kelly<br>Scientific software development viewed as knowledge acquisition: Towards understanding the development of risk-averse scientific software</p><p><a href=\"https://doi.org/10.1016/j.jss.2015.07.027\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.jss.2015.07.</span><span class=\"invisible\">027</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@danielskatz",
-        "display_name": "Daniel S. Katz"
       }
     ]
   }
