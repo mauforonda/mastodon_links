@@ -1,5 +1,201 @@
 [
   {
+    "link": "https://github.com/jitsi/jitsi-meet/pull/12775",
+    "title": "fix: stop ticking timer resizing its container by DivineDominion \u00b7 Pull Request #12775 \u00b7 jitsi/jitsi-meet",
+    "latest": "2023-01-25T00:48:13+00:00",
+    "first": "2023-01-12T21:26:06+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ctietze/109747089779375101",
+      "content": "<p>I'm super happy that this change got merged into Jitsi!</p><p>Fix: stop ticking timer resizing its container by DivineDominion \u00b7 Pull Request #12775 \u00b7 jitsi/jitsi-meet <a href=\"https://github.com/jitsi/jitsi-meet/pull/12775\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jitsi/jitsi-meet/pu</span><span class=\"invisible\">ll/12775</span></a></p><p>I hate when numbers wiggle around because '1' takes up less space than '8' )</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ctietze",
+        "display_name": "Christian Tietze"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/360-info/sverto",
+    "title": "GitHub - 360-info/sverto: Add Svelte visualisations to your Quarto documents",
+    "latest": "2023-01-25T00:05:10+00:00",
+    "first": "2023-01-25T00:05:10+00:00",
+    "last_post": {
+      "url": "https://aus.social/@jimjamslam/109746920532428999",
+      "content": "<p>I'm really excited to present Sverto! Sverto is an open tool for seamlessly adding reactive <a href=\"https://aus.social/tags/svelte\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>svelte</span></a> <a href=\"https://aus.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> to <a href=\"https://aus.social/tags/quartopub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quartopub</span></a> docs and websites.</p><p>\ud83d\udcbb Code: <a href=\"https://github.com/360-info/sverto\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/360-info/sverto</span><span class=\"invisible\"></span></a><br>\ud83d\udcda Docs: <a href=\"https://360-info.github.io/sverto\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">360-info.github.io/sverto</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://aus.social/@jimjamslam",
+        "display_name": "James Goldie"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mattearnshaw/lawvere",
+    "title": "GitHub - mattearnshaw/lawvere: The collected works of F. W. Lawvere",
+    "latest": "2023-01-24T22:47:20+00:00",
+    "first": "2023-01-24T22:47:20+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@highergeometer/109746464387420134",
+      "content": "<p>RIP Bill Lawvere 1937\u20132023.</p><p>It is hard to overstate Lawvere's influence on and contributions to category theory. You can browse his works here</p><p><a href=\"https://github.com/mattearnshaw/lawvere\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mattearnshaw/lawver</span><span class=\"invisible\">e</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@johncarlosbaez",
+        "display_name": "John Carlos Baez"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/microsoft/TypeScript/issues/52011#issuecomment-1402761771",
+    "title": "Some syntactic diagnostic errors erroneously reported as semantic \u00b7 Issue #52011 \u00b7 microsoft/TypeScript",
+    "latest": "2023-01-24T22:38:22+00:00",
+    "first": "2023-01-24T22:38:22+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@JoshuaKGoldberg/109746579196915470",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@SeaRyanC\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SeaRyanC</span></a></span> \"a separate sandwich that needs slicing\" is a new phrase that brought me a smile. Thank you \ud83d\ude04</p><p><a href=\"https://github.com/microsoft/TypeScript/issues/52011#issuecomment-1402761771\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/microsoft/TypeScrip</span><span class=\"invisible\">t/issues/52011#issuecomment-1402761771</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@JoshuaKGoldberg",
+        "display_name": "Josh Goldberg \ud83d\udc96"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/PRQL/prql-query/blob/main/examples/queries/invoice_totals.prql",
+    "title": "prql-query/invoice_totals.prql at main \u00b7 PRQL/prql-query",
+    "latest": "2023-01-24T22:35:09+00:00",
+    "first": "2023-01-24T22:35:09+00:00",
+    "last_post": {
+      "url": "https://vis.social/@dataSamurai/109746566543861033",
+      "content": "<p>Tried PRQL today. Used it to generate this daily invoice totals <a href=\"https://vis.social/tags/sql\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sql</span></a> query for the demo chinook.duckdb.</p><p><a href=\"https://vis.social/tags/PRQL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PRQL</span></a>: <a href=\"https://github.com/PRQL/prql-query/blob/main/examples/queries/invoice_totals.prql\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/PRQL/prql-query/blo</span><span class=\"invisible\">b/main/examples/queries/invoice_totals.prql</span></a></p><p><a href=\"https://vis.social/tags/VSCode\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VSCode</span></a> <a href=\"https://vis.social/tags/DuckDB\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DuckDB</span></a> <a href=\"https://vis.social/tags/SQLTools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SQLTools</span></a> ...</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@dataSamurai",
+        "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/scripting/Scripting-News/issues/250",
+    "title": "NPM and package.json weirdness \u00b7 Issue #250 \u00b7 scripting/Scripting-News",
+    "latest": "2023-01-24T21:34:52+00:00",
+    "first": "2023-01-24T21:34:52+00:00",
+    "last_post": {
+      "url": "https://social.masto.land/@dave/109746310640627956",
+      "content": "<p>NPM and package.json weirdness.</p><p><a href=\"https://github.com/scripting/Scripting-News/issues/250\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scripting/Scripting</span><span class=\"invisible\">-News/issues/250</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2615\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/LeonDLotter/MAsync",
+    "title": "https://github.com/LeonDLotter/MAsync",
+    "latest": "2023-01-24T21:22:05+00:00",
+    "first": "2023-01-24T21:22:05+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@LeonDLotter/109746279282048676",
+      "content": "<p>Here are some direct links to our resources (in part developed for this project): </p><p>Again the paper (open-access): <a href=\"https://doi.org/10.1016/j.neubiorev.2023.105042\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.neubiorev.20</span><span class=\"invisible\">23.105042</span></a><br>Code &amp; data: <a href=\"https://github.com/LeonDLotter/MAsync\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/MAsync</span><span class=\"invisible\"></span></a>  <br>SetYouFree, for literature search: <a href=\"https://github.com/ChristianGerloff/set-you-free\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ChristianGerloff/se</span><span class=\"invisible\">t-you-free</span></a><br>JuSpyce, for multimodal spatial association analyses: <a href=\"https://github.com/LeonDLotter/JuSpyce\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/JuSpyce</span><span class=\"invisible\"></span></a><br>ABAnnotate, for neuroimaging gene-category enrichment: <a href=\"https://github.com/LeonDLotter/ABAnnotate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/LeonDLotter/ABAnnot</span><span class=\"invisible\">ate</span></a></p><p>8/9</p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@LeonDLotter",
+        "display_name": "Leon Lotter"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ChristianGerloff/set-you-free",
+    "title": "github.com/ChristianGerloff/se...",
+    "latest": "2023-01-24T21:22:05+00:00",
+    "first": "2023-01-24T21:22:05+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@LeonDLotter/109746279282048676",
+      "content": "<p>Here are some direct links to our resources (in part developed for this project): </p><p>Again the paper (open-access): <a href=\"https://doi.org/10.1016/j.neubiorev.2023.105042\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.neubiorev.20</span><span class=\"invisible\">23.105042</span></a><br>Code &amp; data: <a href=\"https://github.com/LeonDLotter/MAsync\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/MAsync</span><span class=\"invisible\"></span></a>  <br>SetYouFree, for literature search: <a href=\"https://github.com/ChristianGerloff/set-you-free\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ChristianGerloff/se</span><span class=\"invisible\">t-you-free</span></a><br>JuSpyce, for multimodal spatial association analyses: <a href=\"https://github.com/LeonDLotter/JuSpyce\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/JuSpyce</span><span class=\"invisible\"></span></a><br>ABAnnotate, for neuroimaging gene-category enrichment: <a href=\"https://github.com/LeonDLotter/ABAnnotate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/LeonDLotter/ABAnnot</span><span class=\"invisible\">ate</span></a></p><p>8/9</p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@LeonDLotter",
+        "display_name": "Leon Lotter"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/LeonDLotter/JuSpyce",
+    "title": "https://github.com/LeonDLotter/JuSpyce",
+    "latest": "2023-01-24T21:22:05+00:00",
+    "first": "2023-01-24T21:22:05+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@LeonDLotter/109746279282048676",
+      "content": "<p>Here are some direct links to our resources (in part developed for this project): </p><p>Again the paper (open-access): <a href=\"https://doi.org/10.1016/j.neubiorev.2023.105042\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.neubiorev.20</span><span class=\"invisible\">23.105042</span></a><br>Code &amp; data: <a href=\"https://github.com/LeonDLotter/MAsync\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/MAsync</span><span class=\"invisible\"></span></a>  <br>SetYouFree, for literature search: <a href=\"https://github.com/ChristianGerloff/set-you-free\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ChristianGerloff/se</span><span class=\"invisible\">t-you-free</span></a><br>JuSpyce, for multimodal spatial association analyses: <a href=\"https://github.com/LeonDLotter/JuSpyce\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/JuSpyce</span><span class=\"invisible\"></span></a><br>ABAnnotate, for neuroimaging gene-category enrichment: <a href=\"https://github.com/LeonDLotter/ABAnnotate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/LeonDLotter/ABAnnot</span><span class=\"invisible\">ate</span></a></p><p>8/9</p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@LeonDLotter",
+        "display_name": "Leon Lotter"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/LeonDLotter/ABAnnotate",
+    "title": "github.com/LeonDLotter/ABAnnot...",
+    "latest": "2023-01-24T21:22:05+00:00",
+    "first": "2023-01-24T21:22:05+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@LeonDLotter/109746279282048676",
+      "content": "<p>Here are some direct links to our resources (in part developed for this project): </p><p>Again the paper (open-access): <a href=\"https://doi.org/10.1016/j.neubiorev.2023.105042\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.neubiorev.20</span><span class=\"invisible\">23.105042</span></a><br>Code &amp; data: <a href=\"https://github.com/LeonDLotter/MAsync\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/MAsync</span><span class=\"invisible\"></span></a>  <br>SetYouFree, for literature search: <a href=\"https://github.com/ChristianGerloff/set-you-free\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ChristianGerloff/se</span><span class=\"invisible\">t-you-free</span></a><br>JuSpyce, for multimodal spatial association analyses: <a href=\"https://github.com/LeonDLotter/JuSpyce\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/JuSpyce</span><span class=\"invisible\"></span></a><br>ABAnnotate, for neuroimaging gene-category enrichment: <a href=\"https://github.com/LeonDLotter/ABAnnotate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/LeonDLotter/ABAnnot</span><span class=\"invisible\">ate</span></a></p><p>8/9</p>"
+    },
+    "people": [
+      {
+        "url": "https://neuromatch.social/@LeonDLotter",
+        "display_name": "Leon Lotter"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bikehopper/bikehopper-ui",
+    "title": "GitHub - bikehopper/bikehopper-ui: Friendly bike+transit directions (frontend)",
+    "latest": "2023-01-24T21:17:00+00:00",
+    "first": "2023-01-24T21:46:20+00:00",
+    "last_post": {
+      "url": "https://social.coop/@graue/109719222045865339",
+      "content": "<p>My project right now is <a href=\"https://social.coop/tags/BikeHopper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BikeHopper</span></a>, an open-source directions app for transit+bikes.</p><p><a href=\"https://github.com/bikehopper/bikehopper-ui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bikehopper/bikehopp</span><span class=\"invisible\">er-ui</span></a></p><p>It uses <a href=\"https://social.coop/tags/OpenStreetMap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenStreetMap</span></a> and a modified version of GraphHopper.</p><p>Two main benefits over other trip planning apps:<br>1. Bike-on-bus, bike-on-train etc. options<br>2. Tries really hard to find low-stress routes, avoiding main roads</p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      },
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/awesome-spectral-indices/spyndex",
+    "title": "GitHub - awesome-spectral-indices/spyndex: Awesome Spectral Indices in Python.",
+    "latest": "2023-01-24T21:15:28+00:00",
+    "first": "2023-01-24T21:15:28+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@dmlmont/109745536834856154",
+      "content": "<p>Hey <a href=\"https://fosstodon.org/tags/RemoteSensing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RemoteSensing</span></a> enthusiasts! I've also released <a href=\"https://fosstodon.org/tags/spyndex\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>spyndex</span></a> v0.3.0 and now you have access to <a href=\"https://fosstodon.org/tags/AwesomeSpectralIndices\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AwesomeSpectralIndices</span></a> v0.3.0 in <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a>! \ud83d\udc0d\ud83d\udef0\ufe0f\ud83c\udf3f</p><p>Check it here: <a href=\"https://github.com/awesome-spectral-indices/spyndex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/awesome-spectral-in</span><span class=\"invisible\">dices/spyndex</span></a></p><p>You can use it for <a href=\"https://fosstodon.org/tags/numpy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>numpy</span></a>, (geo)pandas, <a href=\"https://fosstodon.org/tags/xarray\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xarray</span></a>, <a href=\"https://fosstodon.org/tags/dask\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dask</span></a> and <a href=\"https://fosstodon.org/tags/EarthEngine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EarthEngine</span></a>! \ud83d\ude80\ud83d\ude09</p><p><a href=\"https://fosstodon.org/tags/GISchat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GISchat</span></a> <a href=\"https://fosstodon.org/tags/EOchat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EOchat</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/nuxt/nuxt/releases/v3.1.0",
     "title": "github.com/nuxt/nuxt/releases/...",
     "latest": "2023-01-24T19:52:15+00:00",
@@ -3248,202 +3444,6 @@
       {
         "url": "https://mastodon.social/@MilesCranmer",
         "display_name": "Miles Cranmer"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bitcoin/bitcoin/pull/26691",
-    "title": "Update secp256k1 subtree to libsecp256k1 version 0.2.0 by sipa \u00b7 Pull Request #26691 \u00b7 bitcoin/bitcoin",
-    "latest": "2023-01-13T14:14:18+00:00",
-    "first": "2023-01-13T14:14:18+00:00",
-    "last_post": {
-      "url": "https://x0f.org/@bitcoinmerges/109681238739223125",
-      "content": "<p>[bitcoin] Merged PR from sipa: Update secp256k1 subtree to libsecp256k1 version 0.2.0 <a href=\"https://github.com/bitcoin/bitcoin/pull/26691\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bitcoin/bitcoin/pul</span><span class=\"invisible\">l/26691</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://x0f.org/@pwuille",
-        "display_name": "Pieter Wuille"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/gravitystorm/openstreetmap-carto/pull/3399",
-    "title": "Unpaved rendering by sommerluk \u00b7 Pull Request #3399 \u00b7 gravitystorm/openstreetmap-carto",
-    "latest": "2023-01-13T14:07:52+00:00",
-    "first": "2023-01-13T14:07:52+00:00",
-    "last_post": {
-      "url": "https://en.osm.town/@amapanda/109682252309989064",
-      "content": "<p>RT @OSM_Tech@twitter.com</p><p>\ud83e\uddf5Up until now the <a href=\"https://en.osm.town/tags/OpenStreetMap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenStreetMap</span></a>.org default map style has not displayed if a road is paved or unpaved, but from this Saturday it changes. Unpaved roads with a suitable tag will be styled differently. Change background: <a href=\"https://github.com/gravitystorm/openstreetmap-carto/pull/3399\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gravitystorm/openst</span><span class=\"invisible\">reetmap-carto/pull/3399</span></a> 1/3</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/OSM_Tech/status/1613681130829406209\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/OSM_Tech/status/16</span><span class=\"invisible\">13681130829406209</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/papers-we-love/papers-we-love/blob/master/languages-paradigms/functional_programming/equal-rights-for-functional-objects.pdf",
-    "title": "github.com/papers-we-love/pape...",
-    "latest": "2023-01-13T13:05:07+00:00",
-    "first": "2023-01-13T13:05:07+00:00",
-    "last_post": {
-      "url": "https://mstdn.io/@paperswelove/109682039658540572",
-      "content": "<p>\ud83d\udcdc Equal rights for functional objects or, the more things change, the more they are the same [1993]</p><p>By: H. Baker</p><p>\ud83d\udcd6 <a href=\"https://github.com/papers-we-love/papers-we-love/blob/master/languages-paradigms/functional_programming/equal-rights-for-functional-objects.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/papers-we-love/pape</span><span class=\"invisible\">rs-we-love/blob/master/languages-paradigms/functional_programming/equal-rights-for-functional-objects.pdf</span></a><br>\ud83d\udd0d <a href=\"https://www.semanticscholar.org/paper/904014fb5cb22e8241c55e2fc6ae46288c5eebaf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semanticscholar.org/paper/9040</span><span class=\"invisible\">14fb5cb22e8241c55e2fc6ae46288c5eebaf</span></a></p><p><a href=\"https://mstdn.io/tags/semanticScholar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>semanticScholar</span></a> <a href=\"https://mstdn.io/tags/paperswelove\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperswelove</span></a> <a href=\"https://mstdn.io/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a> <a href=\"https://mstdn.io/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.io/@paperswelove",
-        "display_name": "Papers We Love"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/pola-rs/polars/issues/3906",
-    "title": "Polars panics when Azure Storage URI is used  \u00b7 Issue #3906 \u00b7 pola-rs/polars",
-    "latest": "2023-01-13T12:49:57+00:00",
-    "first": "2023-01-13T12:49:57+00:00",
-    "last_post": {
-      "url": "https://vmst.io/@marcoshuerta/109681980031312863",
-      "content": "<p>Polars is faster/better/uses less memory than <a href=\"https://vmst.io/tags/pandas\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pandas</span></a>! </p><p>Awesome, I can't wait to use it on my data in cloud storage.</p><p>Yeah about that\u2026 <a href=\"https://github.com/pola-rs/polars/issues/3906\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pola-rs/polars/issu</span><span class=\"invisible\">es/3906</span></a></p><p>I'm poking fun at polars here but the neat querying that <a href=\"https://vmst.io/tags/duckdb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>duckdb</span></a> can do of parquet files ostensibly works with abfs. Yet something about it ends scanning entire containers &amp; initial usage is slow. (See my issue here: <a href=\"https://github.com/fsspec/adlfs/issues/349\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/fsspec/adlfs/issues</span><span class=\"invisible\">/349</span></a>)</p><p><a href=\"https://vmst.io/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://vmst.io/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> <a href=\"https://vmst.io/tags/azure\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>azure</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/fsspec/adlfs/issues/349",
-    "title": "github.com/fsspec/adlfs/issues...",
-    "latest": "2023-01-13T12:49:57+00:00",
-    "first": "2023-01-13T12:49:57+00:00",
-    "last_post": {
-      "url": "https://vmst.io/@marcoshuerta/109681980031312863",
-      "content": "<p>Polars is faster/better/uses less memory than <a href=\"https://vmst.io/tags/pandas\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pandas</span></a>! </p><p>Awesome, I can't wait to use it on my data in cloud storage.</p><p>Yeah about that\u2026 <a href=\"https://github.com/pola-rs/polars/issues/3906\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pola-rs/polars/issu</span><span class=\"invisible\">es/3906</span></a></p><p>I'm poking fun at polars here but the neat querying that <a href=\"https://vmst.io/tags/duckdb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>duckdb</span></a> can do of parquet files ostensibly works with abfs. Yet something about it ends scanning entire containers &amp; initial usage is slow. (See my issue here: <a href=\"https://github.com/fsspec/adlfs/issues/349\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/fsspec/adlfs/issues</span><span class=\"invisible\">/349</span></a>)</p><p><a href=\"https://vmst.io/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://vmst.io/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> <a href=\"https://vmst.io/tags/azure\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>azure</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nextcloud/photos/issues/1452#issuecomment-1381096812",
-    "title": "[Bug] Viewer in public albums is broken \u00b7 Issue #1452 \u00b7 nextcloud/photos",
-    "latest": "2023-01-13T08:29:37+00:00",
-    "first": "2023-01-13T08:29:37+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ctietze/109680956376126634",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.xyz/@nextcloud\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nextcloud</span></a></span> Ever since I participated on a GitHub issue, I get notifications of people wondering about your radio silence of crippling bugs in the Photos app:<br><a href=\"https://github.com/nextcloud/photos/issues/1452#issuecomment-1381096812\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nextcloud/photos/is</span><span class=\"invisible\">sues/1452#issuecomment-1381096812</span></a></p><p>Would be great if you could put away some time to quickly reply to folks when changing labels, even if there's no time for a fix \ud83d\ude4f</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ctietze",
-        "display_name": "Christian Tietze"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cloudflare/wildebeest/",
-    "title": "GitHub - cloudflare/wildebeest: Wildebeest is an ActivityPub and Mastodon-compatible server",
-    "latest": "2023-01-13T06:29:32+00:00",
-    "first": "2023-01-13T05:14:24+00:00",
-    "last_post": {
-      "url": "https://social.wake.st/@liaizon/109680398032803042",
-      "content": "<p>to folks concerned about cloudflare releasing their own fediverse server called <a href=\"https://social.wake.st/tags/wildebeest\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wildebeest</span></a></p><p>looks like they imported Mastodon's front end. the project is just two people from cloudflare working on it that started last week. </p><p>anyway its interesting that its happening. this year is gonna be a rollercoster as new players join the <a href=\"https://social.wake.st/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a>. I think a LOT of projects and companies are gonna jump on this bandwagon in the coming year and we should be prepared</p><p><a href=\"https://github.com/cloudflare/wildebeest/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudflare/wildebee</span><span class=\"invisible\">st/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ummjackson",
-        "display_name": "Jackson Palmer"
-      },
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/onthegomap/planetiler",
-    "title": "github.com/onthegomap/planetil...",
-    "latest": "2023-01-13T06:15:57+00:00",
-    "first": "2023-01-13T06:15:57+00:00",
-    "last_post": {
-      "url": "https://recurse.social/@mclare/109680430754286818",
-      "content": "<p>It turns out the happy path for free mappy goodness is geofabrik -&gt; planetiler -&gt; pmtiles</p><p>I used the docker image of planetiler (new Java won't build on my Mac) and downloaded the required files separately based on the container command</p><p><a href=\"https://download.geofabrik.de/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">download.geofabrik.de/</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/onthegomap/planetiler\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/onthegomap/planetil</span><span class=\"invisible\">er</span></a></p><p>I used pmtiles to convert from .mbtiles to .pmtiles</p><p><a href=\"https://github.com/protomaps/go-pmtiles/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/protomaps/go-pmtile</span><span class=\"invisible\">s/releases</span></a></p><p>Then made the video from a screen cap with viewing tiles in protomap's viewer<br><a href=\"https://protomaps.github.io/PMTiles/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">protomaps.github.io/PMTiles/</span><span class=\"invisible\"></span></a><br><a href=\"https://recurse.social/tags/maptime\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>maptime</span></a> <a href=\"https://recurse.social/tags/maps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>maps</span></a> <a href=\"https://recurse.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://recurse.social/@mclare",
-        "display_name": "Maryanne Wachter"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/protomaps/go-pmtiles/releases",
-    "title": "github.com/protomaps/go-pmtile...",
-    "latest": "2023-01-13T06:15:57+00:00",
-    "first": "2023-01-13T06:15:57+00:00",
-    "last_post": {
-      "url": "https://recurse.social/@mclare/109680430754286818",
-      "content": "<p>It turns out the happy path for free mappy goodness is geofabrik -&gt; planetiler -&gt; pmtiles</p><p>I used the docker image of planetiler (new Java won't build on my Mac) and downloaded the required files separately based on the container command</p><p><a href=\"https://download.geofabrik.de/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">download.geofabrik.de/</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/onthegomap/planetiler\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/onthegomap/planetil</span><span class=\"invisible\">er</span></a></p><p>I used pmtiles to convert from .mbtiles to .pmtiles</p><p><a href=\"https://github.com/protomaps/go-pmtiles/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/protomaps/go-pmtile</span><span class=\"invisible\">s/releases</span></a></p><p>Then made the video from a screen cap with viewing tiles in protomap's viewer<br><a href=\"https://protomaps.github.io/PMTiles/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">protomaps.github.io/PMTiles/</span><span class=\"invisible\"></span></a><br><a href=\"https://recurse.social/tags/maptime\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>maptime</span></a> <a href=\"https://recurse.social/tags/maps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>maps</span></a> <a href=\"https://recurse.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://recurse.social/@mclare",
-        "display_name": "Maryanne Wachter"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/akkartik/mu",
-    "title": "GitHub - akkartik/mu: Soul of a tiny new machine. More thorough tests \u2192 More comprehensible and rewrite-friendly software \u2192 More resilient society.",
-    "latest": "2023-01-13T05:09:03+00:00",
-    "first": "2023-01-13T05:09:03+00:00",
-    "last_post": {
-      "url": "https://recurse.social/@bert/109680017782484096",
-      "content": "<p>The Art of Computer Programming is written in an imaginary assembly language (MIX). I think it\u2019d be kind of artful to try and implement it in <span class=\"h-card\"><a href=\"https://merveilles.town/@akkartik\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>akkartik</span></a></span> \u2019s Mu or SubX</p><p><a href=\"https://github.com/akkartik/mu\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/akkartik/mu</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@akkartik",
-        "display_name": "Kartik Agaram"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-12_Tessellation",
-    "title": "github.com/paezha/genuary2023/...",
-    "latest": "2023-01-13T02:04:14+00:00",
-    "first": "2023-01-13T02:04:14+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@paezha/109679196409590710",
-      "content": "<p><a href=\"https://mastodon.online/tags/genuary12\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genuary12</span></a> <a href=\"https://mastodon.online/tags/Genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary</span></a> </p><p>This is a homage to <span class=\"h-card\"><a href=\"https://fosstodon.org/@terence\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>terence</span></a></span> whose shattered tessellations I've long admired:</p><p><a href=\"https://twitter.com/researchremora/status/1473134507918245894\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/researchremora/sta</span><span class=\"invisible\">tus/1473134507918245894</span></a></p><p><a href=\"https://twitter.com/researchremora/status/1470505155120480258\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/researchremora/sta</span><span class=\"invisible\">tus/1470505155120480258</span></a></p><p>I haven't figured out how he creates the cracks. Here, I borrowed an L-system from A. Sanchez Chinchon to smash a Voronoi tessellation.</p><p>Coded in <a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> using <a href=\"https://mastodon.online/tags/SimpleFeatures\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SimpleFeatures</span></a> and <a href=\"https://mastodon.online/tags/rayverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayverse</span></a> </p><p><a href=\"https://github.com/paezha/genuary2023/tree/master/2022-01-12_Tessellation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paezha/genuary2023/</span><span class=\"invisible\">tree/master/2022-01-12_Tessellation</span></a> </p><p><span class=\"h-card\"><a href=\"https://fosstodon.org/@tylermorganwall\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tylermorganwall</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jacquietran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jacquietran</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@meghansharris\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meghansharris</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@terence",
-        "display_name": "terence"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/socketsupply/socket-repl",
-    "title": "GitHub - socketsupply/socket-repl: A JavaScript REPL interface for the Socket Runtime",
-    "latest": "2023-01-13T00:10:12+00:00",
-    "first": "2023-01-13T00:10:12+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@heapwolf/109678462096562053",
-      "content": "<p>Socket Runtime now has a REPL that supports top level await! This is a quick way to play with browser APIs from your command line.</p><p><a href=\"https://github.com/socketsupply/socket-repl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/socketsupply/socket</span><span class=\"invisible\">-repl</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@oliverturner",
-        "display_name": "Oliver"
       }
     ]
   }
