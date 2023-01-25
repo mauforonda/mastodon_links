@@ -1,5 +1,57 @@
 [
   {
+    "link": "https://github.com/giswqs/leafmap/pull/347",
+    "title": "Add STAC API Browser GUI by giswqs \u00b7 Pull Request #347 \u00b7 giswqs/leafmap",
+    "latest": "2023-01-25T13:52:43+00:00",
+    "first": "2023-01-25T13:52:43+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@giswqs/109750174559750989",
+      "content": "<p>Searching and visualizing <a href=\"https://fosstodon.org/tags/AWS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AWS</span></a> open geospatial datasets interactively with <a href=\"https://fosstodon.org/tags/leafmap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>leafmap</span></a>. Image footprints with attribute data can be added to the map automatically and accessed through a GeoPandas GeoDataFrame.</p><p><a href=\"https://github.com/giswqs/leafmap/pull/347\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/giswqs/leafmap/pull</span><span class=\"invisible\">/347</span></a> </p><p><a href=\"https://fosstodon.org/tags/geospatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geospatial</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fosstodon.org/tags/geopython\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geopython</span></a> <a href=\"https://fosstodon.org/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@giswqs",
+        "display_name": "Qiusheng Wu"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rakkasjs/preact-on-client",
+    "title": "GitHub - rakkasjs/preact-on-client: Rakkas with Preact on the client",
+    "latest": "2023-01-25T13:09:37+00:00",
+    "first": "2023-01-25T13:09:37+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@cyco130/109749962311407383",
+      "content": "<p>Here's a little demo of the experiment (minus islands which is WIP). Readme tells more. You can probably copy the small inline resolver plugin into any Vite project to get the same effect. <a href=\"https://github.com/rakkasjs/preact-on-client\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rakkasjs/preact-on-</span><span class=\"invisible\">client</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@observablehq/build-your-first-map-with-observable-plot",
+    "title": "Build your first map with Observable Plot",
+    "latest": "2023-01-25T13:08:15+00:00",
+    "first": "2023-01-25T14:19:26+00:00",
+    "last_post": {
+      "url": "https://vis.social/@fil/109749999720358002",
+      "content": "<p>Hands-on <a href=\"https://vis.social/tags/tutorial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tutorial</span></a>  Build your first map with Observable Plot, by <span class=\"h-card\"><a href=\"https://mastodon.social/@allison_horst\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>allison_horst</span></a></span> <a href=\"https://observablehq.com/@observablehq/build-your-first-map-with-observable-plot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/build-your-first-map-with-observable-plot</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@UrbanDemog",
+        "display_name": "Rafael H M Pereira"
+      },
+      {
+        "url": "https://vis.social/@fil",
+        "display_name": "Fil"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/charliermarsh/ruff/issues/2136",
     "title": "Unable to release due to PyPI project size limits \u00b7 Issue #2136 \u00b7 charliermarsh/ruff",
     "latest": "2023-01-25T11:41:35+00:00",
@@ -3396,54 +3448,6 @@
       {
         "url": "https://mstdn.social/@arnicas",
         "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/HelgeKrueger/mastodon_recommender/tree/instance_recommender/webapp",
-    "title": "github.com/HelgeKrueger/mastod...",
-    "latest": "2023-01-14T07:51:09+00:00",
-    "first": "2023-01-07T19:32:11+00:00",
-    "last_post": {
-      "url": "https://mas.to/@helgek/109686467442339603",
-      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@evanw\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>evanw</span></a></span> </p><p>Just tested live reload and it works \ud83d\udc4d </p><p><a href=\"https://github.com/HelgeKrueger/mastodon_recommender/tree/instance_recommender/webapp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/HelgeKrueger/mastod</span><span class=\"invisible\">on_recommender/tree/instance_recommender/webapp</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@helgek",
-        "display_name": "helge"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/olivierdalang/django-toosimple-q",
-    "title": "GitHub - olivierdalang/django-toosimple-q: Simplistic task queue and cron-like scheduler for Django",
-    "latest": "2023-01-14T03:39:14+00:00",
-    "first": "2023-01-14T03:39:14+00:00",
-    "last_post": {
-      "url": "https://framapiaf.org/@pvergain/109682354311246952",
-      "content": "<p><a href=\"https://framapiaf.org/tags/django\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>django</span></a> <a href=\"https://framapiaf.org/tags/web\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>web</span></a> <a href=\"https://framapiaf.org/tags/cron\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cron</span></a> </p><p>- <a href=\"https://github.com/olivierdalang/django-toosimple-q\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/olivierdalang/djang</span><span class=\"invisible\">o-toosimple-q</span></a></p><p>This packages provides a simplistic task queue and scheduler for Django.</p><p>It is geared towards basic apps, where simplicity primes. The package offers simple decorator syntax, including cron-like schedules.</p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hometown-fork/hometown/releases/tag/v4.0.2%2Bhometown-1.1.1",
-    "title": "Release Hometown v1.1.1 (Mastodon 4.0.2) \u00b7 hometown-fork/hometown",
-    "latest": "2023-01-14T01:10:02+00:00",
-    "first": "2023-01-14T01:10:02+00:00",
-    "last_post": {
-      "url": "https://friend.camp/@darius/109684890196655540",
-      "content": "<p>This is embarrassing, but about an hour ago I was alerted to an issue where edited, local-only posts in <a href=\"https://friend.camp/tags/Hometown\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hometown</span></a> were being federated. Please update your Hometown servers ASAP.</p><p>More info at the security patch link:</p><p><a href=\"https://github.com/hometown-fork/hometown/releases/tag/v4.0.2%2Bhometown-1.1.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hometown-fork/homet</span><span class=\"invisible\">own/releases/tag/v4.0.2%2Bhometown-1.1.1</span></a></p><p>Most servers ignore or throw away the leaked data because it's an edit to something that it never received (the original post).</p><p>Still, unacceptable, and I'm sorry for this trouble, esp on a Friday night. I will do my best to contact admins individually.</p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
       }
     ]
   }
