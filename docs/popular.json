@@ -268,30 +268,6 @@
     ]
   },
   {
-    "link": "https://finance.yahoo.com/news/palantir-posit-partner-integrate-rstudio-115900656.html",
-    "title": "Palantir and Posit Partner to Integrate RStudio into Palantir Foundry",
-    "latest": "2023-01-23T13:56:08+00:00",
-    "first": "2023-01-22T16:48:08+00:00",
-    "last_post": {
-      "url": "https://mas.to/@peter_mcmahan/109690982015476230",
-      "content": "<p>Wow. RStudio (recently rebranded as Posit) is partnering with Palantir. Yes, the same Palantir with ties to Cambridge Analytica. The same Palantir that partners with and actively supports ICE and other oppressive surveillance. </p><p>This is really not ok ethically, and can only mean a bad direction functionally for the company's software going forward. I never use RStudio for research myself, but it looks like I'll stop using it in teaching. </p><p><a href=\"https://finance.yahoo.com/news/palantir-posit-partner-integrate-rstudio-115900656.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">finance.yahoo.com/news/palanti</span><span class=\"invisible\">r-posit-partner-integrate-rstudio-115900656.html</span></a></p><p><a href=\"https://mas.to/tags/rstudio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstudio</span></a> <a href=\"https://mas.to/tags/palantir\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>palantir</span></a> <a href=\"https://mas.to/tags/posit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>posit</span></a> <a href=\"https://mas.to/tags/ice\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ice</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@mrchrisadams",
-        "display_name": "Chris Adams"
-      },
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      },
-      {
-        "url": "https://fediscience.org/@erinnacland",
-        "display_name": "Erinn Acland, PhD"
-      }
-    ]
-  },
-  {
     "link": "https://hidock.app/",
     "title": "https://hidock.app",
     "latest": "2023-01-22T21:42:54+00:00",
@@ -336,6 +312,30 @@
       {
         "url": "https://hachyderm.io/@mnl",
         "display_name": "mnml mnl (he/him)"
+      }
+    ]
+  },
+  {
+    "link": "https://futurism.com/cnet-ai-plagiarism",
+    "title": "CNET's AI Journalist Appears to Have Committed Extensive Plagiarism",
+    "latest": "2023-01-25T15:25:28+00:00",
+    "first": "2023-01-23T20:42:15+00:00",
+    "last_post": {
+      "url": "https://dair-community.social/@emilymbender/109744729706629214",
+      "content": "<p>Breaking news: Automatic plagiarism machine copies and slightly rephrases its training data.</p><p>(More seriously: What's interesting here is the documentation of the specific case &amp; of the human decisions to use this.)</p><p><a href=\"https://futurism.com/cnet-ai-plagiarism\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">futurism.com/cnet-ai-plagiaris</span><span class=\"invisible\">m</span></a></p><p>&gt;&gt;</p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@natematias",
+        "display_name": "J. Nathan Matias \ud83e\udda3"
+      },
+      {
+        "url": "https://dair-community.social/@emilymbender",
+        "display_name": "Emily M. Bender (she/her)"
+      },
+      {
+        "url": "https://sigmoid.social/@Yarin",
+        "display_name": "Yarin :verified: :verified:"
       }
     ]
   },
@@ -508,6 +508,30 @@
     ]
   },
   {
+    "link": "https://adactio.com/journal/19855",
+    "title": "In between",
+    "latest": "2023-01-25T15:57:11+00:00",
+    "first": "2023-01-24T20:23:09+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109750663980432552",
+      "content": "<p>This poll inspired by me being reminded that App Clips exist by <span class=\"h-card\"><a href=\"https://mastodon.social/@adactio\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>adactio</span></a></span> in <a href=\"https://adactio.com/journal/19855\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">adactio.com/journal/19855</span><span class=\"invisible\"></span></a></p><p>I finally found one that I could try out myself by searching for Panera bread on Apple Maps and clicking the \"order\" button there - no idea how to link to one as a demo!</p>"
+    },
+    "people": [
+      {
+        "url": "https://bell.bz/@andy",
+        "display_name": "Andy Bell"
+      },
+      {
+        "url": "https://mastodon.social/@adactio",
+        "display_name": "Jeremy Keith"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://www.pagerduty.com/blog/improving-pagerdutys-operational-resilience-to-achieve-our-long-term-vision-and-goals/",
     "title": "Improving PagerDuty\u2019s Operational Resilience to Achieve our Long Term Vision and Goals",
     "latest": "2023-01-25T12:08:32+00:00",
@@ -580,142 +604,26 @@
     ]
   },
   {
-    "link": "https://www.biorxiv.org/content/10.1101/2023.01.21.524489v1",
-    "title": "A high-performance speech neuroprosthesis",
-    "latest": "2023-01-25T01:14:22+00:00",
-    "first": "2023-01-22T16:57:21+00:00",
+    "link": "https://observablehq.com/@observablehq/build-your-first-map-with-observable-plot",
+    "title": "Build your first map with Observable Plot",
+    "latest": "2023-01-25T17:47:50+00:00",
+    "first": "2023-01-25T14:19:26+00:00",
     "last_post": {
-      "url": "https://toot.io/@andy_matuschak/109747192622544118",
-      "content": "<p>Remarkable new intracortical speech prosthesis BCI from Francis Willett, Erin Kunz, and colleages at Stanford. <a href=\"https://www.biorxiv.org/content/10.1101/2023.01.21.524489v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">biorxiv.org/content/10.1101/20</span><span class=\"invisible\">23.01.21.524489v1</span></a></p><p>They achieved 23.8% word error rate on a 125k word vocabulary. Not only a huge step over previous systems, but that WER approaches Android's built-in speech recognition!</p><p>Also, successful decoding at 62 WPM (3.4x previous SotA). Really remarkable. And, at least at a high level, the ML architecture is surprisingly simple!</p>"
+      "url": "https://vis.social/@fil/109749999720358002",
+      "content": "<p>Hands-on <a href=\"https://vis.social/tags/tutorial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tutorial</span></a>  Build your first map with Observable Plot, by <span class=\"h-card\"><a href=\"https://mastodon.social/@allison_horst\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>allison_horst</span></a></span> <a href=\"https://observablehq.com/@observablehq/build-your-first-map-with-observable-plot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/build-your-first-map-with-observable-plot</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@maxhodak",
-        "display_name": "Max Hodak"
+        "url": "https://datasci.social/@UrbanDemog",
+        "display_name": "Rafael H M Pereira"
       },
       {
-        "url": "https://toot.io/@andy_matuschak",
-        "display_name": "Andy Matuschak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/gkaramanis/tidytuesday/tree/master/2023/2023-week_03",
-    "title": "tidytuesday/2023/2023-week_03 at master \u00b7 gkaramanis/tidytuesday",
-    "latest": "2023-01-23T17:16:33+00:00",
-    "first": "2023-01-22T16:26:18+00:00",
-    "last_post": {
-      "url": "https://vis.social/@georgios/109733791582140274",
-      "content": "<p>Exhibitions by MoMA and The Whitney for this week's <a href=\"https://vis.social/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a></p><p>code: <a href=\"https://github.com/gkaramanis/tidytuesday/tree/master/2023/2023-week_03\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gkaramanis/tidytues</span><span class=\"invisible\">day/tree/master/2023/2023-week_03</span></a></p><p><a href=\"https://vis.social/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://vis.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@georgios",
-        "display_name": "Georgios Karamanis"
+        "url": "https://vis.social/@fil",
+        "display_name": "Fil"
       },
       {
-        "url": "https://hci.social/@andresmh",
-        "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
-      }
-    ]
-  },
-  {
-    "link": "https://peercommunityin.org/",
-    "title": "Peer Community In - free peer review & validation of preprints of articles",
-    "latest": "2023-01-23T18:15:34+00:00",
-    "first": "2023-01-22T16:31:11+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@erinnacland/109733810778057993",
-      "content": "<p>Non-profit journals as a solution to open science?</p><p>Publishers charge researchers incredible amounts to remove paywalls from their own papers...and make unbelievable profits from doing so. Several have an &gt;30% profit margin.</p><p>Initiatives such as <span class=\"h-card\"><a href=\"https://ecoevo.social/@PeerCommunityIn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PeerCommunityIn</span></a></span> provide an alternative: open access, non-profit journals that are free to publish in. </p><p><a href=\"https://peercommunityin.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">peercommunityin.org/</span><span class=\"invisible\"></span></a><br><a href=\"https://peercommunityjournal.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">peercommunityjournal.org/</span><span class=\"invisible\"></span></a><br><a href=\"https://fediscience.org/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> <a href=\"https://fediscience.org/tags/Science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Science</span></a> <a href=\"https://fediscience.org/tags/AcademicChatter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AcademicChatter</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> <br>Graph (2013): <span class=\"h-card\"><a href=\"https://fediscience.org/@alexh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>alexh</span></a></span> <a href=\"https://alexholcombe.wordpress.com/2013/01/09/scholarly-publishers-and-their-high-profits/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">alexholcombe.wordpress.com/201</span><span class=\"invisible\">3/01/09/scholarly-publishers-and-their-high-profits/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@erinnacland",
-        "display_name": "Erinn Acland, PhD"
-      },
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
-      }
-    ]
-  },
-  {
-    "link": "https://peercommunityjournal.org/",
-    "title": "https://peercommunityjournal.org/",
-    "latest": "2023-01-23T18:15:34+00:00",
-    "first": "2023-01-22T16:31:11+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@erinnacland/109733810778057993",
-      "content": "<p>Non-profit journals as a solution to open science?</p><p>Publishers charge researchers incredible amounts to remove paywalls from their own papers...and make unbelievable profits from doing so. Several have an &gt;30% profit margin.</p><p>Initiatives such as <span class=\"h-card\"><a href=\"https://ecoevo.social/@PeerCommunityIn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PeerCommunityIn</span></a></span> provide an alternative: open access, non-profit journals that are free to publish in. </p><p><a href=\"https://peercommunityin.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">peercommunityin.org/</span><span class=\"invisible\"></span></a><br><a href=\"https://peercommunityjournal.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">peercommunityjournal.org/</span><span class=\"invisible\"></span></a><br><a href=\"https://fediscience.org/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> <a href=\"https://fediscience.org/tags/Science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Science</span></a> <a href=\"https://fediscience.org/tags/AcademicChatter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AcademicChatter</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> <br>Graph (2013): <span class=\"h-card\"><a href=\"https://fediscience.org/@alexh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>alexh</span></a></span> <a href=\"https://alexholcombe.wordpress.com/2013/01/09/scholarly-publishers-and-their-high-profits/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">alexholcombe.wordpress.com/201</span><span class=\"invisible\">3/01/09/scholarly-publishers-and-their-high-profits/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@erinnacland",
-        "display_name": "Erinn Acland, PhD"
-      },
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
-      }
-    ]
-  },
-  {
-    "link": "https://alexholcombe.wordpress.com/2013/01/09/scholarly-publishers-and-their-high-profits/",
-    "title": "alexholcombe.wordpress.com/201...",
-    "latest": "2023-01-23T18:15:34+00:00",
-    "first": "2023-01-22T16:31:11+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@erinnacland/109733810778057993",
-      "content": "<p>Non-profit journals as a solution to open science?</p><p>Publishers charge researchers incredible amounts to remove paywalls from their own papers...and make unbelievable profits from doing so. Several have an &gt;30% profit margin.</p><p>Initiatives such as <span class=\"h-card\"><a href=\"https://ecoevo.social/@PeerCommunityIn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PeerCommunityIn</span></a></span> provide an alternative: open access, non-profit journals that are free to publish in. </p><p><a href=\"https://peercommunityin.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">peercommunityin.org/</span><span class=\"invisible\"></span></a><br><a href=\"https://peercommunityjournal.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">peercommunityjournal.org/</span><span class=\"invisible\"></span></a><br><a href=\"https://fediscience.org/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> <a href=\"https://fediscience.org/tags/Science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Science</span></a> <a href=\"https://fediscience.org/tags/AcademicChatter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AcademicChatter</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> <br>Graph (2013): <span class=\"h-card\"><a href=\"https://fediscience.org/@alexh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>alexh</span></a></span> <a href=\"https://alexholcombe.wordpress.com/2013/01/09/scholarly-publishers-and-their-high-profits/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">alexholcombe.wordpress.com/201</span><span class=\"invisible\">3/01/09/scholarly-publishers-and-their-high-profits/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@erinnacland",
-        "display_name": "Erinn Acland, PhD"
-      },
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
-      }
-    ]
-  },
-  {
-    "link": "https://www.propublica.org/article/genaro-garcia-luna-bribery-trial-dea-mexico-cartel?utm_source=twitter&amp;utm_campaign=socialflow&amp;utm_medium=social",
-    "title": "U.S. Investigators Uncovered Alleged Corruption by Mexico\u2019s Former Security Minister Years Before He Was Indicted",
-    "latest": "2023-01-23T03:46:40+00:00",
-    "first": "2023-01-22T15:45:53+00:00",
-    "last_post": {
-      "url": "https://newsie.social/@ProPublica/109733632644356192",
-      "content": "<p>U.S. Investigators Uncovered Alleged Corruption by Mexico\u2019s Former Security Minister Years Before He Was Indicted<br>--</p><p>In what may prove to be one of the more remarkable intelligence failures of the drug war, the U.S. missed warnings that Genaro Garc\u00eda Luna, the chief architect of Mexico\u2019s fight against organized crime, could be in league with the criminals.</p><p><a href=\"https://newsie.social/tags/DEA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DEA</span></a> <a href=\"https://newsie.social/tags/mexico\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mexico</span></a> <a href=\"https://newsie.social/tags/SinaloaCartel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SinaloaCartel</span></a> <a href=\"https://newsie.social/tags/drugs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>drugs</span></a> <a href=\"https://newsie.social/tags/bribery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bribery</span></a> </p><p><a href=\"https://www.propublica.org/article/genaro-garcia-luna-bribery-trial-dea-mexico-cartel?utm_source=twitter&amp;utm_campaign=socialflow&amp;utm_medium=social\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">propublica.org/article/genaro-</span><span class=\"invisible\">garcia-luna-bribery-trial-dea-mexico-cartel?utm_source=twitter&amp;utm_campaign=socialflow&amp;utm_medium=social</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://newsie.social/@ProPublica",
-        "display_name": "ProPublica"
-      },
-      {
-        "url": "https://infosec.exchange/@thegrugq",
-        "display_name": "the grugq"
-      }
-    ]
-  },
-  {
-    "link": "https://dlitejs.com/",
-    "title": "https://dlitejs.com/",
-    "latest": "2023-01-22T19:31:57+00:00",
-    "first": "2023-01-22T15:49:36+00:00",
-    "last_post": {
-      "url": "https://indieweb.social/@adamghill/109734521572081176",
-      "content": "<p><span class=\"h-card\"><a href=\"https://vmst.io/@marcoshuerta\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>marcoshuerta</span></a></span> Only so many hours in the day! \ud83d\ude05&nbsp;</p><p><a href=\"https://dlitejs.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dlitejs.com/</span><span class=\"invisible\"></span></a> now has some more documentation. I\u2019m planning on adding interactive demos at some point as well.</p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      },
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
       }
     ]
   },
@@ -756,6 +664,26 @@
       {
         "url": "https://saturation.social/@Noupside",
         "display_name": "Renee DiResta"
+      }
+    ]
+  },
+  {
+    "link": "https://www.statnews.com/2016/09/01/optogenetics/",
+    "title": "He may have invented one of neuroscience\u2019s biggest advances. But you\u2019ve never heard of him",
+    "latest": "2023-01-25T17:20:44+00:00",
+    "first": "2023-01-22T19:08:43+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@jonkhler/109737358656339839",
+      "content": "<p>RT <span class=\"h-card\"><a href=\"https://sigmoid.social/@roydanroy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>roydanroy</span></a></span><br>If this isn\u2019t a reason to put your papers online (like on arXiv) and not rely on gatekeepers like Nature, and I don\u2019t know what is. </p><p><a href=\"https://www.statnews.com/2016/09/01/optogenetics/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">statnews.com/2016/09/01/optoge</span><span class=\"invisible\">netics/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@rbhar90",
+        "display_name": "Bharath"
+      },
+      {
+        "url": "https://sigmoid.social/@roydanroy",
+        "display_name": "Daniel Roy"
       }
     ]
   },
@@ -1176,26 +1104,6 @@
       {
         "url": "https://front-end.social/@lynnandtonic",
         "display_name": "Lynn Fisher"
-      }
-    ]
-  },
-  {
-    "link": "https://futurism.com/cnet-ai-plagiarism",
-    "title": "CNET's AI Journalist Appears to Have Committed Extensive Plagiarism",
-    "latest": "2023-01-25T14:14:36+00:00",
-    "first": "2023-01-23T20:42:15+00:00",
-    "last_post": {
-      "url": "https://dair-community.social/@emilymbender/109744729706629214",
-      "content": "<p>Breaking news: Automatic plagiarism machine copies and slightly rephrases its training data.</p><p>(More seriously: What's interesting here is the documentation of the specific case &amp; of the human decisions to use this.)</p><p><a href=\"https://futurism.com/cnet-ai-plagiarism\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">futurism.com/cnet-ai-plagiaris</span><span class=\"invisible\">m</span></a></p><p>&gt;&gt;</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@natematias",
-        "display_name": "J. Nathan Matias \ud83e\udda3"
-      },
-      {
-        "url": "https://dair-community.social/@emilymbender",
-        "display_name": "Emily M. Bender (she/her)"
       }
     ]
   },
@@ -1780,6 +1688,26 @@
     ]
   },
   {
+    "link": "https://cblgh.org/p2p-commercialization/",
+    "title": "Peer-To-Peer Commercialization",
+    "latest": "2023-01-25T16:04:17+00:00",
+    "first": "2023-01-24T16:34:06+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@cblgh/109745146853469486",
+      "content": "<p>i just let rip a new piece of writing: </p><p>a year-long observation on trends in the peer-to-peer space, namely the appearance of companies building platforms on top. outlined are a few of these platform companies, accompanied by questions regarding expected futures, as well as a small essay on the importance of community infrastructure</p><p>\ud83c\udf50 <a href=\"https://cblgh.org/p2p-commercialization/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cblgh.org/p2p-commercializatio</span><span class=\"invisible\">n/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@cblgh",
+        "display_name": "Alexander Cobleigh"
+      },
+      {
+        "url": "https://pkm.social/@eleanorkonik",
+        "display_name": "Eleanor Konik"
+      }
+    ]
+  },
+  {
     "link": "https://joinmastodon.org/servers",
     "title": "Servers",
     "latest": "2023-01-24T20:26:23+00:00",
@@ -1916,26 +1844,6 @@
       {
         "url": "https://curbal.social/@ruthpozuelo",
         "display_name": "Ruth Pozuelo Martinez"
-      }
-    ]
-  },
-  {
-    "link": "https://adactio.com/journal/19855",
-    "title": "In between",
-    "latest": "2023-01-24T18:49:26+00:00",
-    "first": "2023-01-24T20:23:09+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@adactio/109745679001906080",
-      "content": "<p>In between</p><p>\ud83d\udd17 <a href=\"https://adactio.com/journal/19855\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">adactio.com/journal/19855</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://bell.bz/@andy",
-        "display_name": "Andy Bell"
-      },
-      {
-        "url": "https://mastodon.social/@adactio",
-        "display_name": "Jeremy Keith"
       }
     ]
   },
@@ -2220,6 +2128,26 @@
     ]
   },
   {
+    "link": "https://www.nytimes.com/interactive/2023/01/25/opinion/high-school-seniors-college-focus-group.html",
+    "title": "Opinion | The College Application Process: 11 High School Seniors Discuss",
+    "latest": "2023-01-25T17:03:56+00:00",
+    "first": "2023-01-25T06:19:14+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@philipncohen/109750926453975766",
+      "content": "<p>Wait, are these the only two choices? \"All 11 students believed that college is primarily for gaining a credential to get a job or admission to graduate school rather than mostly for learning about oneself and how to be an adult.\" <a href=\"https://www.nytimes.com/interactive/2023/01/25/opinion/high-school-seniors-college-focus-group.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/interactive/2023/0</span><span class=\"invisible\">1/25/opinion/high-school-seniors-college-focus-group.html</span></a><br><a href=\"https://mastodon.social/tags/highered\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>highered</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://botsin.space/@Interactives",
+        "display_name": "Interactive Journalism"
+      },
+      {
+        "url": "https://mastodon.social/@philipncohen",
+        "display_name": "Philip N Cohen"
+      }
+    ]
+  },
+  {
     "link": "https://community.rstudio.com/t/posit-partners-with-palantir/157411/10",
     "title": "Posit partners with... Palantir?!",
     "latest": "2023-01-25T13:14:32+00:00",
@@ -2260,6 +2188,26 @@
     ]
   },
   {
+    "link": "https://climate-workshop23.github.io/",
+    "title": "About | Probabilistic Approaches in Weather and Climate Science",
+    "latest": "2023-01-25T15:26:11+00:00",
+    "first": "2023-01-25T11:41:23+00:00",
+    "last_post": {
+      "url": "https://mas.to/@shakir/109749658161668628",
+      "content": "<p>Submit and join \ud83c\udf89\ud83c\udf88Call for Contributions: Workshop on *Probabilistic Approaches in Weather and Climate Science* (8-9 May, Kigali). So many interesting questions for methods to contribute to. Happening just after <a href=\"https://mas.to/tags/ICLR2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ICLR2023</span></a>  and details at  <a href=\"https://climate-workshop23.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">climate-workshop23.github.io/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@shakir",
+        "display_name": "Shakir"
+      },
+      {
+        "url": "https://sigmoid.social/@Yarin",
+        "display_name": "Yarin :verified: :verified:"
+      }
+    ]
+  },
+  {
     "link": "https://www.careful.industries/blog/2023-1-do-we-need-ai-standards",
     "title": "Do we need AI standards? \u2014 Careful Industries",
     "latest": "2023-01-25T13:06:09+00:00",
@@ -2276,6 +2224,46 @@
       {
         "url": "https://mastodon.social/@mrchrisadams",
         "display_name": "Chris Adams"
+      }
+    ]
+  },
+  {
+    "link": "https://www.ft.com/content/8d995a24-d77c-4208-a3a6-603d8788ebcd",
+    "title": "We tried to run a social media site and it was awful",
+    "latest": "2023-01-25T16:21:12+00:00",
+    "first": "2023-01-25T14:33:20+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@cemerick/109750688857893662",
+      "content": "<p>Interesting to see that FT (or, one corner of it) started a mastodon server, and then decided to shut it down not long after, once it became aware of all of what into running such a thing</p><p><a href=\"https://www.ft.com/content/8d995a24-d77c-4208-a3a6-603d8788ebcd\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">ft.com/content/8d995a24-d77c-4</span><span class=\"invisible\">208-a3a6-603d8788ebcd</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.science/@firefoxx66",
+        "display_name": "Dr Emma Hodcroft :verified:"
+      },
+      {
+        "url": "https://mastodon.social/@elipariser",
+        "display_name": "Eli Pariser"
+      }
+    ]
+  },
+  {
+    "link": "https://careers.purdue.edu/job/West-Lafayette-Assistant-Professor-of-Communication-Political-Communication-IN-47906/985039100/",
+    "title": "Assistant Professor of Communication - Political Communication",
+    "latest": "2023-01-25T17:15:02+00:00",
+    "first": "2023-01-25T14:41:16+00:00",
+    "last_post": {
+      "url": "https://hci.social/@jeremy/109746319943219592",
+      "content": "<p>Come work at Purdue! We just announced a position for an Assistant Professor studying Political Communication.</p><p>Please boost!</p><p><a href=\"https://careers.purdue.edu/job/West-Lafayette-Assistant-Professor-of-Communication-Political-Communication-IN-47906/985039100/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">careers.purdue.edu/job/West-La</span><span class=\"invisible\">fayette-Assistant-Professor-of-Communication-Political-Communication-IN-47906/985039100/</span></a></p><p><a href=\"https://hci.social/tags/commodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>commodon</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/communicationscholars\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>communicationscholars</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@katestarbird",
+        "display_name": "Kate Starbird"
+      },
+      {
+        "url": "https://hci.social/@carl",
+        "display_name": "Carl Colglazier"
       }
     ]
   },
@@ -2300,26 +2288,6 @@
     ]
   },
   {
-    "link": "https://observablehq.com/@observablehq/build-your-first-map-with-observable-plot",
-    "title": "Build your first map with Observable Plot",
-    "latest": "2023-01-25T13:08:15+00:00",
-    "first": "2023-01-25T14:19:26+00:00",
-    "last_post": {
-      "url": "https://vis.social/@fil/109749999720358002",
-      "content": "<p>Hands-on <a href=\"https://vis.social/tags/tutorial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tutorial</span></a>  Build your first map with Observable Plot, by <span class=\"h-card\"><a href=\"https://mastodon.social/@allison_horst\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>allison_horst</span></a></span> <a href=\"https://observablehq.com/@observablehq/build-your-first-map-with-observable-plot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/build-your-first-map-with-observable-plot</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@UrbanDemog",
-        "display_name": "Rafael H M Pereira"
-      },
-      {
-        "url": "https://vis.social/@fil",
-        "display_name": "Fil"
-      }
-    ]
-  },
-  {
     "link": "https://theintercept.com/2023/01/24/twitter-elon-musk-modi-india-bbc/",
     "title": "Elon Musk Caves to Pressure From India to Remove BBC Doc Critical of Modi",
     "latest": "2023-01-25T12:51:25+00:00",
@@ -2336,6 +2304,26 @@
       {
         "url": "https://mastodon.online/@jaspar",
         "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      }
+    ]
+  },
+  {
+    "link": "https://citap.pubpub.org/what-comes-after-disinformation",
+    "title": "What Comes After \"Disinformation\"?",
+    "latest": "2023-01-25T16:18:23+00:00",
+    "first": "2023-01-25T17:14:07+00:00",
+    "last_post": {
+      "url": "https://sciences.social/@Chanders/109743102168131440",
+      "content": "<p>A collection of the papers for the <span class=\"h-card\"><a href=\"https://mastodon.online/@ICAHDQ\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ICAHDQ</span></a></span> 2022 preconference \u201cWhat Comes After Disinformation Studies\u201d is now online, published by the Center for Information, Technology, and Public Life. It critiques the current disinformation discourse. </p><p>Involved in the preconference and special issue were <span class=\"h-card\"><a href=\"https://mastodon.social/@kreissdaniel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kreissdaniel</span></a></span>, Meredith Clark, <span class=\"h-card\"><a href=\"https://mastodon.social/@alicetiara\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>alicetiara</span></a></span>, Sylvain Parasie, Rachel Kuo, Elaine Schnabel, <span class=\"h-card\"><a href=\"https://mastodon.social/@shannimcg\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>shannimcg</span></a></span>, and yours truly. </p><p><a href=\"https://citap.pubpub.org/what-comes-after-disinformation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">citap.pubpub.org/what-comes-af</span><span class=\"invisible\">ter-disinformation</span></a></p><p><a href=\"https://sciences.social/tags/polcomm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>polcomm</span></a> <a href=\"https://sciences.social/tags/commodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>commodon</span></a> <a href=\"https://sciences.social/tags/journodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>journodon</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@carl",
+        "display_name": "Carl Colglazier"
+      },
+      {
+        "url": "https://mstdn.social/@katestarbird",
+        "display_name": "Kate Starbird"
       }
     ]
   }
