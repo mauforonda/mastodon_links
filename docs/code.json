@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/styfenschaer/rocket-fft",
+    "title": "GitHub - styfenschaer/rocket-fft: Rocket-FFT makes Numba aware of  numpy.fft and scipy.fft. Rocket-FFT takes its name from the PocketFFT Fast Fourier Transformation library that powers it, and Numba's goal of making your scientific Python code blazingly fast - like a rocket. \ud83d\ude80",
+    "latest": "2023-01-26T09:55:32+00:00",
+    "first": "2023-01-26T09:55:32+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@gmarkall/109754822552901793",
+      "content": "<p>Rocket-FFT makes NumPy and SciPy FFT functions usable inside Numba-jitted functions: <a href=\"https://github.com/styfenschaer/rocket-fft\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/styfenschaer/rocket</span><span class=\"invisible\">-fft</span></a></p><p>I've not worked on applications that use FFT, but I see there is some excitement about being able to do this \ud83d\ude42</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/hrbrmstr/ggchicklet",
     "title": "GitHub - hrbrmstr/ggchicklet: \ud83c\udc2b Create Chicklet (Rounded Segmented Column) Charts",
     "latest": "2023-01-26T09:00:01+00:00",
@@ -3428,22 +3444,6 @@
       {
         "url": "https://fosstodon.org/@smach",
         "display_name": "Sharon Machlis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/colarusso/text2label",
-    "title": "github.com/colarusso/text2labe...",
-    "latest": "2023-01-14T21:25:16+00:00",
-    "first": "2023-01-14T21:25:16+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@Colarusso/109689668682544311",
-      "content": "<p><span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> Yep. It takes a while to load in a browser, but works nicely, and best of all it's super straightforward (word = number; add them up; and average). Here's an earlier project where I let folks choose how much of the word2vec library to load (bigger = better but slower). <a href=\"https://colarusso.github.io/text2label/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">colarusso.github.io/text2label</span><span class=\"invisible\">/</span></a> And here's the repo: <a href=\"https://github.com/colarusso/text2label\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/colarusso/text2labe</span><span class=\"invisible\">l</span></a></p><p>I garbed the word2vec representations from here: <a href=\"https://github.com/turbomaze/word2vecjson\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/turbomaze/word2vecj</span><span class=\"invisible\">son</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Colarusso",
-        "display_name": "David Colarusso"
       }
     ]
   }
