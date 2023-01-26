@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.nature.com/articles/d41586-023-00191-1",
+    "title": "Tools such as ChatGPT threaten transparent science; here are our ground rules for their use",
+    "latest": "2023-01-26T04:47:32+00:00",
+    "first": "2023-01-25T20:24:04+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@fortnow/109751232600463842",
+      "content": "<p>Nature sets the right ground rules for using GPT-like tools for research papers.</p><p>1. No co-authorship since AI cannot take responsibility</p><p>2. Must acknowledge use</p><p><a href=\"https://www.nature.com/articles/d41586-023-00191-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00191-1</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@petersuber",
+        "display_name": "petersuber"
+      },
+      {
+        "url": "https://fediscience.org/@fortnow",
+        "display_name": "Lance Fortnow"
+      },
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2301.10448",
     "title": "Pre-computed memory or on-the-fly encoding? A hybrid approach to retrieval augmentation makes the most of your compute",
     "latest": "2023-01-26T02:13:24+00:00",
@@ -128,26 +152,6 @@
       {
         "url": "https://fediscience.org/@ZLabe",
         "display_name": "Zack Labe"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-023-00191-1",
-    "title": "Tools such as ChatGPT threaten transparent science; here are our ground rules for their use",
-    "latest": "2023-01-25T18:21:47+00:00",
-    "first": "2023-01-25T20:24:04+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@fortnow/109751232600463842",
-      "content": "<p>Nature sets the right ground rules for using GPT-like tools for research papers.</p><p>1. No co-authorship since AI cannot take responsibility</p><p>2. Must acknowledge use</p><p><a href=\"https://www.nature.com/articles/d41586-023-00191-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00191-1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@petersuber",
-        "display_name": "petersuber"
-      },
-      {
-        "url": "https://fediscience.org/@fortnow",
-        "display_name": "Lance Fortnow"
       }
     ]
   },
