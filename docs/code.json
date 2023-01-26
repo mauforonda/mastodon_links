@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/logseq/nbb-logseq/blob/main/examples/linked-data/README.md#write-rdf",
+    "title": "nbb-logseq/README.md at main \u00b7 logseq/nbb-logseq",
+    "latest": "2023-01-25T21:52:19+00:00",
+    "first": "2023-01-25T21:52:19+00:00",
+    "last_post": {
+      "url": "https://social.coop/@flancian/109752060462716457",
+      "content": "<p>RT @cldwalker<br>Happy to share @logseq graphs can take part in the <a href=\"https://social.coop/tags/LinkedData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinkedData</span></a> ecosystem.\ud83d\ude04 See <a href=\"https://github.com/logseq/nbb-logseq/blob/main/examples/linked-data/README.md#write-rdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/logseq/nbb-logseq/b</span><span class=\"invisible\">lob/main/examples/linked-data/README.md#write-rdf</span></a> for an example script that converts a subset of a Logseq graph to a <a href=\"https://social.coop/tags/RDF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RDF</span></a> file. The example demonstrates that a portion of Logseq's docs can be translated to rdf</p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@flancian",
+        "display_name": "In [[Flancia]] we'll meet"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/NKI-CCB/flexgsea-r/blob/master/bitbucket-pipelines.yml",
     "title": "flexgsea-r/bitbucket-pipelines.yml at master \u00b7 NKI-CCB/flexgsea-r",
     "latest": "2023-01-25T19:20:06+00:00",
@@ -3436,22 +3452,6 @@
       {
         "url": "https://fedi.simonwillison.net/@simon",
         "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/paulgp/applied-methods-phd",
-    "title": "GitHub - paulgp/applied-methods-phd: Repo for Yale Applied Empirical Methods PHD Course",
-    "latest": "2023-01-14T16:00:46+00:00",
-    "first": "2023-01-14T16:00:46+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@paulgp/109688392680464903",
-      "content": "<p>Hopefully materials will all be here! </p><p><a href=\"https://github.com/paulgp/applied-methods-phd\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paulgp/applied-meth</span><span class=\"invisible\">ods-phd</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@paulgp",
-        "display_name": "Paul Goldsmith-Pinkham"
       }
     ]
   }
