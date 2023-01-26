@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://gist.github.com/veekaybee/2cf54ebcbd72aa73bfe482f20866c6ef",
+    "title": "Understanding search and recommendations",
+    "latest": "2023-01-26T17:35:09+00:00",
+    "first": "2023-01-26T17:35:09+00:00",
+    "last_post": {
+      "url": "https://jawns.club/@vicki/109756711519525837",
+      "content": "<p>Continuing my dive into search vs recsys ( <a href=\"https://gist.github.com/veekaybee/2cf54ebcbd72aa73bfe482f20866c6ef\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/veekaybee/2cf5</span><span class=\"invisible\">4ebcbd72aa73bfe482f20866c6ef</span></a>) and came across fighting words, \u201cA recommender system can be viewed as a search ranking system, where the input query is a set of user and contextual information, and the output is a ranked list of items.\u201d <br>\u2029The wide and deep paper says so and you\u2019re going to have to fight the authors if you disagree \ud83d\ude02 <a href=\"https://ar5iv.labs.arxiv.org/html/1606.07792\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ar5iv.labs.arxiv.org/html/1606</span><span class=\"invisible\">.07792</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://jawns.club/@vicki",
+        "display_name": "Vicki Boykis"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/kiselgra/c-mera",
+    "title": "GitHub - kiselgra/c-mera: Next-level syntax for C-like languages :)",
+    "latest": "2023-01-26T15:12:41+00:00",
+    "first": "2023-01-26T15:12:41+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@akkartik/109756151351584950",
+      "content": "<p><span class=\"h-card\"><a href=\"https://social.omar.website/@omar\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>omar</span></a></span> <a href=\"https://github.com/kiselgra/c-mera\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kiselgra/c-mera</span><span class=\"invisible\"></span></a> is another, though it seems less active.</p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@akkartik",
+        "display_name": "Kartik Agaram"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/tomhrr/dale",
     "title": "GitHub - tomhrr/dale: Lisp-flavoured C",
     "latest": "2023-01-26T15:07:57+00:00",
@@ -3408,38 +3440,6 @@
       {
         "url": "https://hcommons.social/@scott_bot",
         "display_name": "@scott_bot \ud83e\udd39"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/flengyel/RYLR998-LoRa",
-    "title": "GitHub - flengyel/RYLR998-LoRa: Asynchronous transceiver demo program for the REYAX RYLR998 LoRa module and the Raspberry Pi 4",
-    "latest": "2023-01-15T10:13:49+00:00",
-    "first": "2023-01-15T10:13:49+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ctietze/109692690741979997",
-      "content": "<p>The best thing about open source projects is the personality of the authors shining through in some quirky projects ;)</p><p><a href=\"https://github.com/flengyel/RYLR998-LoRa\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/flengyel/RYLR998-Lo</span><span class=\"invisible\">Ra</span></a></p><p>\"This is a work in progress. I'm taking my time \u2026 with all due sloth, so slowly that I would be fired and blacklisted if I were doing this professionally; flunked and expelled without a degree and a boatload of private student loans if I were in college; \u2026 defunded and defrocked if I were an academician. Other than that, it's a labor of love.\"</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ctietze",
-        "display_name": "Christian Tietze"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/flathub/com.calibre_ebook.calibre/issues/153",
-    "title": "Windows missing borders and mouse pointer too small \u00b7 Issue #153 \u00b7 flathub/com.calibre_ebook.calibre",
-    "latest": "2023-01-15T08:02:01+00:00",
-    "first": "2023-01-15T08:02:01+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@Edent/109692172460086576",
-      "content": "<p>Any <a href=\"https://mastodon.social/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a> nerds able to help me with an irritating <a href=\"https://mastodon.social/tags/Flatpak\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flatpak</span></a> problem?</p><p><a href=\"https://github.com/flathub/com.calibre_ebook.calibre/issues/153\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/flathub/com.calibre</span><span class=\"invisible\">_ebook.calibre/issues/153</span></a></p><p>For some reason, <a href=\"https://mastodon.social/tags/Calibre\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Calibre</span></a> doesn't have any window decorations and my mouse cursor is the wrong size. This is the only Flatpak which acts this way.  Any clues on what incantation I need to fix it?</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Edent",
-        "display_name": "Terence Eden"
       }
     ]
   }
