@@ -1,5 +1,137 @@
 [
   {
+    "link": "https://github.com/ropensci/geojsonio/issues/193",
+    "title": "Workaround to convert geoJSON to topoJSON \u00b7 Issue #193 \u00b7 ropensci/geojsonio",
+    "latest": "2023-01-26T19:57:28+00:00",
+    "first": "2023-01-26T19:57:28+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@ropensci/109756355390508513",
+      "content": "<p>[help wanted] rOpenSci \ud83d\udce6 geojsonio (maintained by <span class=\"h-card\"><a href=\"https://fosstodon.org/@MikeMahoney218\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MikeMahoney218</span></a></span>) is looking for some help! \ud83d\ude4f</p><p>Check out the issue labelled 'help wanted':</p><p>\"Workaround to convert geoJSON to topoJSON\"<br>at <a href=\"https://github.com/ropensci/geojsonio/issues/193\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ropensci/geojsonio/</span><span class=\"invisible\">issues/193</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a>  <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/rstats\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rstats</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/simonw/datasette-search-all/blob/5b5f1926d7634ae3ed39f7eaf3fa74325e5d842b/datasette_search_all/templates/search_all.html#L97-L106",
+    "title": "datasette-search-all/search_all.html at 5b5f1926d7634ae3ed39f7eaf3fa74325e5d842b \u00b7 simonw/datasette-search-all",
+    "latest": "2023-01-26T19:28:47+00:00",
+    "first": "2023-01-26T19:28:47+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109757157511395462",
+      "content": "<p><span class=\"h-card\"><a href=\"https://toot.cafe/@matt\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>matt</span></a></span> that's the great thing about tagged template literals... you can roll your own auto-escaping in a few lines of code! See <a href=\"https://github.com/simonw/datasette-search-all/blob/5b5f1926d7634ae3ed39f7eaf3fa74325e5d842b/datasette_search_all/templates/search_all.html#L97-L106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/datasette-se</span><span class=\"invisible\">arch-all/blob/5b5f1926d7634ae3ed39f7eaf3fa74325e5d842b/datasette_search_all/templates/search_all.html#L97-L106</span></a> line 97 - then you get to write this:</p><p>el.innerHTML = autoescape`&lt;p&gt;<br>  &lt;a href=\"${search_url}\"&gt;${Number(more_count).toLocaleString()} more result${more_count == 1 ? '' : 's'}&lt;/a&gt;<br>&lt;/p&gt;`;</p><p>(I also love that backticks give you multiline strings)</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/alan-turing-institute/the-turing-way/tree/v1.1.0#README.md",
+    "title": "GitHub - alan-turing-institute/the-turing-way at v1.1.0",
+    "latest": "2023-01-26T19:17:45+00:00",
+    "first": "2023-01-26T19:17:45+00:00",
+    "last_post": {
+      "url": "https://ecoevo.social/@evopma/109557123607360753",
+      "content": "<p>The <a href=\"https://ecoevo.social/tags/TuringWayProject\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TuringWayProject</span></a> has released a new version of the Turing Way handbook to support <a href=\"https://ecoevo.social/tags/Reproducible\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Reproducible</span></a> <a href=\"https://ecoevo.social/tags/Ethical\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ethical</span></a> &amp; <a href=\"https://ecoevo.social/tags/Collaborative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Collaborative</span></a> <a href=\"https://ecoevo.social/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a>. For more information see <a href=\"https://github.com/alan-turing-institute/the-turing-way/tree/v1.1.0#README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/alan-turing-institu</span><span class=\"invisible\">te/the-turing-way/tree/v1.1.0#README.md</span></a> and follow the project in the <a href=\"https://ecoevo.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a>  <span class=\"h-card\"><a href=\"https://fosstodon.org/@turingway\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>turingway</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mefi.social/@melissaekline",
+        "display_name": "Melissa Kline Struhl"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hodgesmr/2022-campaign-tech-keynote-talent",
+    "title": "GitHub - hodgesmr/2022-campaign-tech-keynote-talent: PDF of my morning keynote on the importance of retaining tech talent in political work",
+    "latest": "2023-01-26T18:45:28+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/109756988013450661",
+      "content": "<p><span class=\"h-card\"><a href=\"https://vmst.io/@marcoshuerta\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>marcoshuerta</span></a></span> Very cool! I think I need to find some time to talk more publicly about this, but we deployed a handful of <a href=\"https://mastodon.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> models on the Biden team to automate and index a variety of comms, research, and rapid response tasks. Utilized similar chunking strategies. <a href=\"https://github.com/hodgesmr/2022-campaign-tech-keynote-talent\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/2022-campa</span><span class=\"invisible\">ign-tech-keynote-talent</span></a> <a href=\"https://mastodon.social/tags/PoliticalTech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PoliticalTech</span></a><br><span class=\"h-card\"><a href=\"https://mastodon.social/@SebRaschka\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SebRaschka</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ],
+    "first": "2023-01-04T00:56:54+00:00"
+  },
+  {
+    "link": "https://github.com/astrowonk/search_transcripts",
+    "title": "GitHub - astrowonk/search_transcripts: Convert a directory of .vtt or json transcripts into a fast searchable database",
+    "latest": "2023-01-26T18:33:15+00:00",
+    "first": "2023-01-26T18:33:15+00:00",
+    "last_post": {
+      "url": "https://vmst.io/@marcoshuerta/109756940019194378",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@SebRaschka\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SebRaschka</span></a></span> FYI, I wrote a python module that takes a collection of .json or .vtt transcripts of anything (ostensibly podcasts, but any transcript will do), segments them into ~300 word chunks, and pushes them into a full-text-search (FTS5) enabled sqlite database:</p><p><a href=\"https://github.com/astrowonk/search_transcripts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/astrowonk/search_tr</span><span class=\"invisible\">anscripts</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-26_My-kid-could-have-done-that",
+    "title": "github.com/paezha/genuary2023/...",
+    "latest": "2023-01-26T18:33:00+00:00",
+    "first": "2023-01-26T13:00:19+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@paezha/109755630813125548",
+      "content": "<p><a href=\"https://mastodon.online/tags/Genuary26\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary26</span></a> <a href=\"https://mastodon.online/tags/Genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary</span></a> </p><p>Day 26: My kid could have done that</p><p>For this prompt I implemented the sinuous meander patterns of Chappell. They resemble the bug-eyed, multi-legged monsters that my kid used to draw when he was little, all spirals and curves with countless appendages.</p><p><a href=\"https://doi.org/10.1080/17513472.2015.1092859\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1080/17513472.2015.</span><span class=\"invisible\">1092859</span></a></p><p>Coded in <a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> using <a href=\"https://mastodon.online/tags/ggplot2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggplot2</span></a>. The code is in my <a href=\"https://mastodon.online/tags/genuary2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genuary2023</span></a> repo:</p><p><a href=\"https://github.com/paezha/genuary2023/tree/master/2022-01-26_My-kid-could-have-done-that\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paezha/genuary2023/</span><span class=\"invisible\">tree/master/2022-01-26_My-kid-could-have-done-that</span></a></p><p><a href=\"https://mastodon.online/tags/Rtistry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rtistry</span></a> <a href=\"https://mastodon.online/tags/CreativeCoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CreativeCoding</span></a> <a href=\"https://mastodon.online/tags/GenArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenArt</span></a> <a href=\"https://mastodon.online/tags/MastoArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoArt</span></a> <a href=\"https://mastodon.online/tags/artbooster\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artbooster</span></a> </p><p><span class=\"h-card\"><a href=\"https://mastodon.social/@jacquietran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jacquietran</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@meghansharris\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meghansharris</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@paezha",
+        "display_name": "Antonio P\u00e1ez"
+      },
+      {
+        "url": "https://fosstodon.org/@hadleywickham",
+        "display_name": "Hadley Wickham"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@saneef/061-last-30-seconds",
+    "title": "061 Last 30 seconds",
+    "latest": "2023-01-26T18:28:31+00:00",
+    "first": "2023-01-26T18:28:31+00:00",
+    "last_post": {
+      "url": "https://front-end.social/@saneef/109756921363082707",
+      "content": "<p>Published a notebook, \u201c061 Last 30 seconds\u201d,  on <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span>: <a href=\"https://observablehq.com/@saneef/061-last-30-seconds\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@saneef/061-l</span><span class=\"invisible\">ast-30-seconds</span></a>. I tried to draw with lines and time. Some are boring. Some are interesting!</p>"
+    },
+    "people": [
+      {
+        "url": "https://front-end.social/@saneef",
+        "display_name": "Saneef H. Ansari"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/rasbt/4bfd783328171972d7aaf77e83489c28",
+    "title": "Transcribes audio files using OpenAI Whisper",
+    "latest": "2023-01-26T18:13:51+00:00",
+    "first": "2023-01-26T18:13:51+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109756863691224898",
+      "content": "<p>My new favorite, personal use case for AI: transcribing my voice recordings! I recently started using a voice recorder to take notes while driving or walking.</p><p>Then, I just coded up a simple script to transcribe them when I am back on my computer based on OpenAI Whisper. </p><p>Shared the script here if you have a voice recorder lying around and want to give it a try: <a href=\"https://gist.github.com/rasbt/4bfd783328171972d7aaf77e83489c28\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/rasbt/4bfd7833</span><span class=\"invisible\">28171972d7aaf77e83489c28</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      }
+    ]
+  },
+  {
     "link": "https://gist.github.com/veekaybee/2cf54ebcbd72aa73bfe482f20866c6ef",
     "title": "Understanding search and recommendations",
     "latest": "2023-01-26T17:35:09+00:00",
@@ -76,22 +208,6 @@
       {
         "url": "https://vis.social/@georgios",
         "display_name": "Georgios Karamanis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-26_My-kid-could-have-done-that",
-    "title": "github.com/paezha/genuary2023/...",
-    "latest": "2023-01-26T13:00:19+00:00",
-    "first": "2023-01-26T13:00:19+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@paezha/109755630813125548",
-      "content": "<p><a href=\"https://mastodon.online/tags/Genuary26\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary26</span></a> <a href=\"https://mastodon.online/tags/Genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary</span></a> </p><p>Day 26: My kid could have done that</p><p>For this prompt I implemented the sinuous meander patterns of Chappell. They resemble the bug-eyed, multi-legged monsters that my kid used to draw when he was little, all spirals and curves with countless appendages.</p><p><a href=\"https://doi.org/10.1080/17513472.2015.1092859\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1080/17513472.2015.</span><span class=\"invisible\">1092859</span></a></p><p>Coded in <a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> using <a href=\"https://mastodon.online/tags/ggplot2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggplot2</span></a>. The code is in my <a href=\"https://mastodon.online/tags/genuary2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genuary2023</span></a> repo:</p><p><a href=\"https://github.com/paezha/genuary2023/tree/master/2022-01-26_My-kid-could-have-done-that\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paezha/genuary2023/</span><span class=\"invisible\">tree/master/2022-01-26_My-kid-could-have-done-that</span></a></p><p><a href=\"https://mastodon.online/tags/Rtistry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rtistry</span></a> <a href=\"https://mastodon.online/tags/CreativeCoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CreativeCoding</span></a> <a href=\"https://mastodon.online/tags/GenArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenArt</span></a> <a href=\"https://mastodon.online/tags/MastoArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoArt</span></a> <a href=\"https://mastodon.online/tags/artbooster\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artbooster</span></a> </p><p><span class=\"h-card\"><a href=\"https://mastodon.social/@jacquietran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jacquietran</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@meghansharris\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meghansharris</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@paezha",
-        "display_name": "Antonio P\u00e1ez"
       }
     ]
   },
@@ -3320,126 +3436,6 @@
       {
         "url": "https://indieweb.social/@adamghill",
         "display_name": "adamghill"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/brickstackr/stuff-that-works/blob/master/linked-list-works.ipynb",
-    "title": "stuff-that-works/linked-list-works.ipynb at master \u00b7 brickstackr/stuff-that-works",
-    "latest": "2023-01-15T19:16:02+00:00",
-    "first": "2023-01-15T19:16:02+00:00",
-    "last_post": {
-      "url": "https://mastodon.world/@h_thoreson/109694822801491559",
-      "content": "<p>I have one GH repo that is just called 'stuff-that-works' and it is exactly what it sounds like. It's just full of snippets of random code structures that actually work the way they are supposed to, highly recommend as a general learning/organizing strategy <a href=\"https://github.com/brickstackr/stuff-that-works/blob/master/linked-list-works.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/brickstackr/stuff-t</span><span class=\"invisible\">hat-works/blob/master/linked-list-works.ipynb</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.world/@h_thoreson",
-        "display_name": "hannah"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/swaldman/untemplate-doc#readme",
-    "title": "GitHub - swaldman/untemplate-doc: Documentation to swaldman/untemplate, produced by untemplate",
-    "latest": "2023-01-15T17:53:24+00:00",
-    "first": "2023-01-15T17:53:24+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@interfluidity/109694497862029739",
-      "content": "<p>A bit randomly, I've spent the last couple of weeks working on a Scala 3 templating engine, kind of a cross between Twirl and Java Server Pages.</p><p>I'd love any comment, critique, calumny. It's called <a href=\"https://fosstodon.org/tags/Untemplate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Untemplate</span></a>.</p><p><a href=\"https://github.com/swaldman/untemplate-doc#readme\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/swaldman/untemplate</span><span class=\"invisible\">-doc#readme</span></a></p><p><a href=\"https://fosstodon.org/tags/Scala\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Scala</span></a> <a href=\"https://fosstodon.org/tags/Scala3\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Scala3</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@interfluidity",
-        "display_name": "Steve Randy Waldman"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/IERC721.sol#L15",
-    "title": "openzeppelin-contracts/IERC721.sol at master \u00b7 OpenZeppelin/openzeppelin-contracts",
-    "latest": "2023-01-15T16:10:14+00:00",
-    "first": "2023-01-15T16:10:14+00:00",
-    "last_post": {
-      "url": "https://cryptodon.lol/@neiman/109694092209842160",
-      "content": "<p>Follow-up! Why only one account can be approved to transfer a token? What's wrong with approving many accounts?</p><p>From ERC-721 of @OpenZeppelin:</p><p>\"Only a single account can be approved at a time, so approving the zero address clears previous approvals.\"</p><p><a href=\"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/IERC721.sol#L15\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/OpenZeppelin/openze</span><span class=\"invisible\">ppelin-contracts/blob/master/contracts/token/ERC721/IERC721.sol#L15</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://cryptodon.lol/@neiman",
-        "display_name": "Neiman"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/elk-zone/elk/pull/788",
-    "title": "fix: sanitize HTML from Mastodon servers by jviide \u00b7 Pull Request #788 \u00b7 elk-zone/elk",
-    "latest": "2023-01-15T16:02:16+00:00",
-    "first": "2023-01-15T16:02:16+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@jviide/109694034848600730",
-      "content": "<p>Elk, the Mastodon client built in the open, looks and feels great. Check it out at <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span>.</p><p>It's so nice I also want to use it. So I recently took a look at the code and opened some pull requests dealing fixing some security issues:</p><p>Sanitize HTML from Mastodon servers: <a href=\"https://github.com/elk-zone/elk/pull/788\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/7</span><span class=\"invisible\">88</span></a><br>Prevent HTML injections to code blocks: <a href=\"https://github.com/elk-zone/elk/pull/1165\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">165</span></a></p><p>Thanks to the crew (<span class=\"h-card\"><a href=\"https://m.webtoo.ls/@antfu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antfu</span></a></span>, <span class=\"h-card\"><a href=\"https://mastodon.roe.dev/@daniel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daniel</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@sxzz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sxzz</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>patak</span></a></span> et al.) for being super responsive and encouraging. They've dealt with the issues in an exemplary way, and gotten the patches out really fast.</p><p>Some technical background: The Mastodon API returns the post contents (among other things) as raw HTML. The default Mastodon server implementation does sanitize the HTML. But sometimes <a href=\"https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">server-side sanitation lets things slip through</a>, or the server itself could be in malicious hands.</p><p>If the client accepts the incoming raw HTML as-is, it can lead to <a href=\"https://en.wikipedia.org/wiki/Cross-site_scripting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Cross-Site Scripting</a> (XSS) vulnerabilities. Let's say a server returns a post with HTML content like &lt;script&gt;...&lt;/script&gt;. If the client just trusts the server and injects that content to the page, the server can effectively execute arbitrary code in the client context - for example to steal the client's login information. Or to take over the whole page like in the attached demo video \ud83d\ude42</p><p>Therefore, it's best to also sanitize the HTML on the client side. This can be tricky. Doubly so if the client wants implement features like rendering source code blocks with syntax highlighting, or turning Twitter mentions into links.</p><p>The linked pull requests fortify a couple of places where Elk prepares HTML content for display. I sincerely hope other people in the infosec scene find Elk's UI intriguing, maybe enough to even take a look at the code. It's a great chance to make a cool up-and-coming tool better!</p><p><a href=\"https://infosec.exchange/tags/elk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>elk</span></a> <a href=\"https://infosec.exchange/tags/vuejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vuejs</span></a> <a href=\"https://infosec.exchange/tags/vue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vue</span></a> <a href=\"https://infosec.exchange/tags/xss\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xss</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/elk-zone/elk/pull/1165",
-    "title": "github.com/elk-zone/elk/pull/1...",
-    "latest": "2023-01-15T16:02:16+00:00",
-    "first": "2023-01-15T16:02:16+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@jviide/109694034848600730",
-      "content": "<p>Elk, the Mastodon client built in the open, looks and feels great. Check it out at <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span>.</p><p>It's so nice I also want to use it. So I recently took a look at the code and opened some pull requests dealing fixing some security issues:</p><p>Sanitize HTML from Mastodon servers: <a href=\"https://github.com/elk-zone/elk/pull/788\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/7</span><span class=\"invisible\">88</span></a><br>Prevent HTML injections to code blocks: <a href=\"https://github.com/elk-zone/elk/pull/1165\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/pull/1</span><span class=\"invisible\">165</span></a></p><p>Thanks to the crew (<span class=\"h-card\"><a href=\"https://m.webtoo.ls/@antfu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antfu</span></a></span>, <span class=\"h-card\"><a href=\"https://mastodon.roe.dev/@daniel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daniel</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@sxzz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sxzz</span></a></span>, <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@patak\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>patak</span></a></span> et al.) for being super responsive and encouraging. They've dealt with the issues in an exemplary way, and gotten the patches out really fast.</p><p>Some technical background: The Mastodon API returns the post contents (among other things) as raw HTML. The default Mastodon server implementation does sanitize the HTML. But sometimes <a href=\"https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">server-side sanitation lets things slip through</a>, or the server itself could be in malicious hands.</p><p>If the client accepts the incoming raw HTML as-is, it can lead to <a href=\"https://en.wikipedia.org/wiki/Cross-site_scripting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Cross-Site Scripting</a> (XSS) vulnerabilities. Let's say a server returns a post with HTML content like &lt;script&gt;...&lt;/script&gt;. If the client just trusts the server and injects that content to the page, the server can effectively execute arbitrary code in the client context - for example to steal the client's login information. Or to take over the whole page like in the attached demo video \ud83d\ude42</p><p>Therefore, it's best to also sanitize the HTML on the client side. This can be tricky. Doubly so if the client wants implement features like rendering source code blocks with syntax highlighting, or turning Twitter mentions into links.</p><p>The linked pull requests fortify a couple of places where Elk prepares HTML content for display. I sincerely hope other people in the infosec scene find Elk's UI intriguing, maybe enough to even take a look at the code. It's a great chance to make a cool up-and-coming tool better!</p><p><a href=\"https://infosec.exchange/tags/elk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>elk</span></a> <a href=\"https://infosec.exchange/tags/vuejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vuejs</span></a> <a href=\"https://infosec.exchange/tags/vue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vue</span></a> <a href=\"https://infosec.exchange/tags/xss\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xss</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@asg017/introducing-sqlite-xsv",
-    "title": "Introducing sqlite-xsv: The Fastest CSV Parser for SQLite",
-    "latest": "2023-01-15T15:42:23+00:00",
-    "first": "2023-01-15T15:42:23+00:00",
-    "last_post": {
-      "url": "https://data-folks.masto.host/@alexgarciaxyz/109683350255059133",
-      "content": "<p>Introducing sqlite-xsv - a new, incredibly fast SQLite extension for working with CSVs</p><p>- The fastest CSV parser for SQLite, even faster reading than DuckDB/datafusion/clickhouse!<br>- Works with gzip'ed or zstd CSVs directly!<br>- Read CSVs from blobs or from multiple files!</p><p><a href=\"https://observablehq.com/@asg017/introducing-sqlite-xsv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@asg017/intro</span><span class=\"invisible\">ducing-sqlite-xsv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Kanaries/graphic-walker",
-    "title": "github.com/Kanaries/graphic-wa...",
-    "latest": "2023-01-15T13:00:03+00:00",
-    "first": "2023-01-11T18:11:16+00:00",
-    "last_post": {
-      "url": "https://vis.social/@scott/109671918868311100",
-      "content": "<p>An open-source and free Tableau-like tool:</p><p><a href=\"https://graphic-walker.kanaries.net/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">graphic-walker.kanaries.net/</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/Kanaries/graphic-walker\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Kanaries/graphic-wa</span><span class=\"invisible\">lker</span></a></p><p><a href=\"https://vis.social/tags/datavis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datavis</span></a> <a href=\"https://vis.social/tags/visualization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>visualization</span></a> <a href=\"https://vis.social/tags/tools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tools</span></a> <a href=\"https://vis.social/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@scott",
-        "display_name": "Scott Murray"
-      },
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      },
-      {
-        "url": "https://hcommons.social/@scott_bot",
-        "display_name": "@scott_bot \ud83e\udd39"
       }
     ]
   }
