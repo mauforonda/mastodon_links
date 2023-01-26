@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/hrbrmstr/ggchicklet",
+    "title": "GitHub - hrbrmstr/ggchicklet: \ud83c\udc2b Create Chicklet (Rounded Segmented Column) Charts",
+    "latest": "2023-01-26T09:00:01+00:00",
+    "first": "2023-01-26T09:00:01+00:00",
+    "last_post": {
+      "url": "https://genomic.social/@datascience/109754685933930156",
+      "content": "<p>{ggchicklet}: library for rounded Segmented Column Charts: <a href=\"https://github.com/hrbrmstr/ggchicklet\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/hrbrmstr/ggchicklet</span><span class=\"invisible\"></span></a> <a href=\"https://genomic.social/tags/ggplot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggplot</span></a> <a href=\"https://genomic.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://genomic.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://genomic.social/@datascience",
+        "display_name": "Datascience"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/vitest-dev/vitest/discussions/2212",
+    "title": "github.com/vitest-dev/vitest/d...",
+    "latest": "2023-01-26T07:38:42+00:00",
+    "first": "2023-01-26T07:38:42+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@ndubien/109749195674973473",
+      "content": "<p>\ud83e\udd73 Just released @\u200dfast-check/vitest to simplify integration of fast-check with <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@vitest\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vitest</span></a></span> and make usage of <a href=\"https://fosstodon.org/tags/PropertyBasedTesting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PropertyBasedTesting</span></a> even simpler in <a href=\"https://fosstodon.org/tags/vitest\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vitest</span></a> \ud83e\udd70</p><p><a href=\"https://fosstodon.org/tags/NPM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NPM</span></a> package available at: <a href=\"https://www.npmjs.com/package/@fast-check/vitest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">npmjs.com/package/@fast-check/</span><span class=\"invisible\">vitest</span></a></p><p>If you're interested into pushing such integration further, join the discussion opened on vitest side: <a href=\"https://github.com/vitest-dev/vitest/discussions/2212\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vitest-dev/vitest/d</span><span class=\"invisible\">iscussions/2212</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/TodePond/FishLab/tree/main/images/fish",
+    "title": "github.com/TodePond/FishLab/tr...",
+    "latest": "2023-01-26T07:02:45+00:00",
+    "first": "2023-01-26T07:02:45+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@TodePond/109754224838633761",
+      "content": "<p>Second post of MASTODON YEAR! \ud83d\udc1f<br>I generated 1000 uniquely coloured fish</p><p>Grab your own! at...<br><a href=\"https://github.com/TodePond/FishLab/tree/main/images/fish\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TodePond/FishLab/tr</span><span class=\"invisible\">ee/main/images/fish</span></a></p><p><a href=\"https://mastodon.social/tags/creativecoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>creativecoding</span></a> + <a href=\"https://mastodon.social/tags/alife\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>alife</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@TodePond",
+        "display_name": "Lu Wilson"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/tobyshooters/tickle",
     "title": "GitHub - tobyshooters/tickle: broadcast messages to everyone on your network",
     "latest": "2023-01-26T04:54:51+00:00",
@@ -3391,54 +3439,6 @@
     "last_post": {
       "url": "https://mastodon.social/@Colarusso/109689668682544311",
       "content": "<p><span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> Yep. It takes a while to load in a browser, but works nicely, and best of all it's super straightforward (word = number; add them up; and average). Here's an earlier project where I let folks choose how much of the word2vec library to load (bigger = better but slower). <a href=\"https://colarusso.github.io/text2label/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">colarusso.github.io/text2label</span><span class=\"invisible\">/</span></a> And here's the repo: <a href=\"https://github.com/colarusso/text2label\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/colarusso/text2labe</span><span class=\"invisible\">l</span></a></p><p>I garbed the word2vec representations from here: <a href=\"https://github.com/turbomaze/word2vecjson\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/turbomaze/word2vecj</span><span class=\"invisible\">son</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Colarusso",
-        "display_name": "David Colarusso"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/turbomaze/word2vecjson",
-    "title": "github.com/turbomaze/word2vecj...",
-    "latest": "2023-01-14T21:25:16+00:00",
-    "first": "2023-01-14T21:25:16+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@Colarusso/109689668682544311",
-      "content": "<p><span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> Yep. It takes a while to load in a browser, but works nicely, and best of all it's super straightforward (word = number; add them up; and average). Here's an earlier project where I let folks choose how much of the word2vec library to load (bigger = better but slower). <a href=\"https://colarusso.github.io/text2label/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">colarusso.github.io/text2label</span><span class=\"invisible\">/</span></a> And here's the repo: <a href=\"https://github.com/colarusso/text2label\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/colarusso/text2labe</span><span class=\"invisible\">l</span></a></p><p>I garbed the word2vec representations from here: <a href=\"https://github.com/turbomaze/word2vecjson\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/turbomaze/word2vecj</span><span class=\"invisible\">son</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Colarusso",
-        "display_name": "David Colarusso"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jart/blink/issues/8#issuecomment-1381748163",
-    "title": "Porting to webassembly \u00b7 Issue #8 \u00b7 jart/blink",
-    "latest": "2023-01-14T20:17:01+00:00",
-    "first": "2023-01-14T20:17:01+00:00",
-    "last_post": {
-      "url": "https://chaos.social/@dragosr/109686475613860214",
-      "content": "<p>Now any web browser is your Linux machine.</p><p>116kb WASM build of Blink that lets you run x86_64 Linux binaries in the browser. </p><p>It supports 500 instructions and 130 system calls. </p><p><a href=\"https://github.com/jart/blink/issues/8#issuecomment-1381748163\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jart/blink/issues/8</span><span class=\"invisible\">#issuecomment-1381748163</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.world/@h_thoreson",
-        "display_name": "hannah"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/halcy/Mastodon.py",
-    "title": "https://github.com/halcy/Mastodon.py",
-    "latest": "2023-01-14T19:23:54+00:00",
-    "first": "2023-01-14T19:23:54+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@Colarusso/109689191416803153",
-      "content": "<p>Masto stuff that works for me: </p><p>- Find your tweeps: <a href=\"https://fedifinder.glitch.me\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fedifinder.glitch.me</span><span class=\"invisible\"></span></a></p><p>- Follow bots like <span class=\"h-card\"><a href=\"https://esq.social/@icymi_law\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>icymi_law</span></a></span> (for law content) &amp; <span class=\"h-card\"><a href=\"https://law.builders/@colarusso_algo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>colarusso_algo</span></a></span> (for general geekery)</p><p>- Find new friends (based on your follows): <a href=\"https://followgraph.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">followgraph.vercel.app</span><span class=\"invisible\"></span></a></p><p>- Use Lists. Mine are: (1) folks I know IRL; (2) folks with content I've \u2b50 ed not in 1 (auto generated by a script)\u00b9; (3) everyone else; &amp; (4) <span class=\"h-card\"><a href=\"https://esq.social/@icymi_law\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>icymi_law</span></a></span> + <span class=\"h-card\"><a href=\"https://law.builders/@colarusso_algo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>colarusso_algo</span></a></span></p><p>-----<br>\u00b9 Built with Mastodon.py <a href=\"https://github.com/halcy/Mastodon.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/halcy/Mastodon.py</span><span class=\"invisible\"></span></a>. Making your own tools is fun. ;)</p>"
     },
     "people": [
       {
