@@ -24,62 +24,26 @@
     ]
   },
   {
-    "link": "https://mstdn.link/",
-    "title": "https://mstdn.link",
-    "latest": "2023-01-25T22:06:57+00:00",
-    "first": "2023-01-26T00:49:05+00:00",
+    "link": "https://newsletter.danhon.com/archive/s14e10-your-timeline-needs-a-dj-enough/",
+    "title": "s14e10: Your Timeline needs a DJ; Enough",
+    "latest": "2023-01-26T23:13:12+00:00",
+    "first": "2023-01-26T18:03:58+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@thillsman/109752003210801373",
-      "content": "<p>Ok, so.</p><p>Tweets look really good when you send them in Messages on iOS/macOS. Mastodon posts\u2026 don\u2019t. So I built a little tool that makes them much nicer to look at:</p><p><a href=\"https://mstdn.link\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mstdn.link</span><span class=\"invisible\"></span></a></p><p>Add ?to={any Mastodon post URL} to the end of that domain and when you send it to a friend, you get the nice looking preview. Of course the page makes it easy to paste a URL in. And there\u2019s a Shortcut to make it even easier on iOS or macOS.</p>"
+      "url": "https://mastodon.social/@MattHodges/109758040799740077",
+      "content": "<p>You should read <span class=\"h-card\"><a href=\"https://dan.mastohon.com/@danhon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>danhon</span></a></span>\u2019s most recent newsletter \u2014 Your Timeline needs a DJ\u00b9\u2014 99% because Dan is thoughtful and smart as always, and 1% because I got a mention and it surprised and delighted me \ud83d\ude01</p><p>\u00b9 <a href=\"https://newsletter.danhon.com/archive/s14e10-your-timeline-needs-a-dj-enough/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">newsletter.danhon.com/archive/</span><span class=\"invisible\">s14e10-your-timeline-needs-a-dj-enough/</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.online/@jaspar",
-        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
       },
       {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      }
-    ]
-  },
-  {
-    "link": "https://webkit.org/blog/13703/release-notes-for-safari-technology-preview-162/",
-    "title": "Release Notes for Safari Technology Preview 162",
-    "latest": "2023-01-26T11:42:34+00:00",
-    "first": "2023-01-25T22:51:41+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@pawelgrzybek/109754957875591659",
-      "content": "<p>No more CSS `:last-of-type` to clear the margin on the first/last element. The `margin-trim` property is coming. Safari Technology Preview just added support for it.</p><p><a href=\"https://webkit.org/blog/13703/release-notes-for-safari-technology-preview-162/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">webkit.org/blog/13703/release-</span><span class=\"invisible\">notes-for-safari-technology-preview-162/</span></a></p><p><span class=\"h-card\"><a href=\"https://front-end.social/@webkit\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>webkit</span></a></span> <a href=\"https://mastodon.social/tags/css\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>css</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://front-end.social/@jensimmons",
-        "display_name": "Jen Simmons"
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
       },
       {
-        "url": "https://toot.cafe/@oliverturner",
-        "display_name": "Oliver"
-      }
-    ]
-  },
-  {
-    "link": "https://about.fb.com/news/2023/01/trump-facebook-instagram-account-suspension/",
-    "title": "Ending Suspension of Trump\u2019s Accounts With New Guardrails to Deter Repeat Offenses | Meta",
-    "latest": "2023-01-25T22:26:50+00:00",
-    "first": "2023-01-25T22:10:05+00:00",
-    "last_post": {
-      "url": "https://octodon.social/@ethanz/109752196144187496",
-      "content": "<p>RT @CSMaP_NYU@twitter.com</p><p>Meta reinstating Trump w/guard rails:</p><p>-Heightened penalties for repeat offenses<br>-Violating content will be removed + possible suspension <br>- Content delegitimizing the election may be limited</p><p><a href=\"https://about.fb.com/news/2023/01/trump-facebook-instagram-account-suspension/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">about.fb.com/news/2023/01/trum</span><span class=\"invisible\">p-facebook-instagram-account-suspension/</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/CSMaP_NYU/status/1618372807934742528\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/CSMaP_NYU/status/1</span><span class=\"invisible\">618372807934742528</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
-      },
-      {
-        "url": "https://octodon.social/@ethanz",
-        "display_name": "Ethan Zuckerman"
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
       }
     ]
   },
@@ -264,6 +228,26 @@
     ]
   },
   {
+    "link": "http://opencellid.org/",
+    "title": "http://opencellid.org",
+    "latest": "2023-01-26T22:05:07+00:00",
+    "first": "2023-01-26T12:23:02+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@dr_xeo/109755484252997800",
+      "content": "<p>As\u00ed se ve la expansi\u00f3n de antenas de m\u00f3viles (3G y 4G) y el uso de internet en el m\u00f3vil desde 2011 usando datos de <a href=\"http://opencellid.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">opencellid.org</span><span class=\"invisible\"></span></a> <a href=\"https://mstdn.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://mstdn.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@dr_xeo",
+        "display_name": "Dr. Dominic Roy\u00e9"
+      },
+      {
+        "url": "https://curbal.social/@ruthpozuelo",
+        "display_name": "Ruth Pozuelo Martinez"
+      }
+    ]
+  },
+  {
     "link": "https://www.washingtonpost.com/world/interactive/2023/rome-starlings-birds-murmuration/",
     "title": "Rome\u2019s starlings create a stunning spectacle -- and a huge mess",
     "latest": "2023-01-26T17:05:03+00:00",
@@ -284,22 +268,22 @@
     ]
   },
   {
-    "link": "https://newsletter.danhon.com/archive/s14e10-your-timeline-needs-a-dj-enough/",
-    "title": "s14e10: Your Timeline needs a DJ; Enough",
-    "latest": "2023-01-26T21:04:02+00:00",
-    "first": "2023-01-26T18:03:58+00:00",
+    "link": "https://posit.co/blog/announcing-pins-1-1-0/",
+    "title": "Posit",
+    "latest": "2023-01-26T22:38:48+00:00",
+    "first": "2023-01-26T17:17:59+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@judell/109757532895494443",
-      "content": "<p>DJs for the Fediverse? Yes please. My fondest hope for the Steampipe work I've been doing: help enable rapid prototyping of ideas like that.</p><p><a href=\"https://newsletter.danhon.com/archive/s14e10-your-timeline-needs-a-dj-enough/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">newsletter.danhon.com/archive/</span><span class=\"invisible\">s14e10-your-timeline-needs-a-dj-enough/</span></a></p>"
+      "url": "https://fosstodon.org/@juliasilge/109756329320973853",
+      "content": "<p>Super happy to announce the release of pins 1.1.0! \ud83d\udccc <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> </p><p>Many thanks to <span class=\"h-card\"><a href=\"https://vis.social/@ijlyttle\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ijlyttle</span></a></span> for his substantive contributions to this release :ablobcatheart: </p><p><a href=\"https://posit.co/blog/announcing-pins-1-1-0/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">posit.co/blog/announcing-pins-</span><span class=\"invisible\">1-1-0/</span></a></p>"
     },
     "people": [
       {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
+        "url": "https://fosstodon.org/@hadleywickham",
+        "display_name": "Hadley Wickham"
       },
       {
-        "url": "https://mastodon.social/@judell",
-        "display_name": "Jon Udell"
+        "url": "https://fosstodon.org/@jennybryan",
+        "display_name": "Jenny Bryan"
       }
     ]
   },

@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://doi.org/10.5281/zenodo.4988277",
+    "title": "https://doi.org/10.5281/zenodo.4988277",
+    "latest": "2023-01-27T00:25:43+00:00",
+    "first": "2023-01-27T00:25:43+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@TomHoneyman/109757881305405049",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@danielskatz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>danielskatz</span></a></span> Ah yes, that FAIR4RS subgroup paper is a really useful compilation. I'd tack on the collegeville workshop framework whitepaper ( <a href=\"https://doi.org/10.5281/zenodo.4988277\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.5281/zenodo.4988277</span><span class=\"invisible\"></span></a> ) as a recent addition to that list that I found really useful.</p><p>And I totally agree that there's no single answer. I use my three distinctions all the time, but I adjust my language or constrain discussion to just one type depending on who I'm talking with.</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@danielskatz",
+        "display_name": "Daniel S. Katz"
+      }
+    ]
+  },
+  {
     "link": "https://doi.org/10.48550/arXiv.2301.10140",
     "title": "doi.org/10.48550/arXiv.2301.10...",
     "latest": "2023-01-26T21:07:33+00:00",
@@ -3340,26 +3356,6 @@
       {
         "url": "https://sigmoid.social/@aran",
         "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-023-00023-2",
-    "title": "The reproducibility issues that haunt health-care AI",
-    "latest": "2023-01-16T18:35:15+00:00",
-    "first": "2023-01-16T19:51:38+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@garymarcus/109669054202705890",
-      "content": "<p>Yet another AI reproducibility / reliability / generalizability crisis, this time in medicine</p><p><a href=\"https://www.nature.com/articles/d41586-023-00023-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00023-2</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@natematias",
-        "display_name": "J. Nathan Matias \ud83e\udda3"
-      },
-      {
-        "url": "https://mastodon.gamedev.place/@doppioslash",
-        "display_name": "Claudia Doppioslash/ShaderCat"
       }
     ]
   }
