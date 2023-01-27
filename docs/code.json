@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://github.com/kiselgra/c-mera",
+    "title": "GitHub - kiselgra/c-mera: Next-level syntax for C-like languages :)",
+    "latest": "2023-01-27T04:07:49+00:00",
+    "first": "2023-01-26T15:12:41+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@akkartik/109756151351584950",
+      "content": "<p><span class=\"h-card\"><a href=\"https://social.omar.website/@omar\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>omar</span></a></span> <a href=\"https://github.com/kiselgra/c-mera\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kiselgra/c-mera</span><span class=\"invisible\"></span></a> is another, though it seems less active.</p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@akkartik",
+        "display_name": "Kartik Agaram"
+      },
+      {
+        "url": "https://social.omar.website/@omar",
+        "display_name": "Omar Rizwan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md",
+    "title": "advisories/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md at main \u00b7 justinsteven/advisories",
+    "latest": "2023-01-27T04:04:12+00:00",
+    "first": "2023-01-27T04:04:12+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@justinsteven/109758529217306904",
+      "content": "<p>If you enjoyed the X41 security review of Git, you might like my work from a while back. RCE via IDEs, shell prompts (including the latest oh-my-zsh), Git pillaging tools and even \"git clone -&gt; git status\" (still works on modern Git in default config) <a href=\"https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/justinsteven/adviso</span><span class=\"invisible\">ries/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-26_My-kid-could-have-done-that",
     "title": "github.com/paezha/genuary2023/...",
     "latest": "2023-01-27T02:02:16+00:00",
@@ -196,22 +232,6 @@
       {
         "url": "https://jawns.club/@vicki",
         "display_name": "Vicki Boykis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/kiselgra/c-mera",
-    "title": "GitHub - kiselgra/c-mera: Next-level syntax for C-like languages :)",
-    "latest": "2023-01-26T15:12:41+00:00",
-    "first": "2023-01-26T15:12:41+00:00",
-    "last_post": {
-      "url": "https://merveilles.town/@akkartik/109756151351584950",
-      "content": "<p><span class=\"h-card\"><a href=\"https://social.omar.website/@omar\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>omar</span></a></span> <a href=\"https://github.com/kiselgra/c-mera\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kiselgra/c-mera</span><span class=\"invisible\"></span></a> is another, though it seems less active.</p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@akkartik",
-        "display_name": "Kartik Agaram"
       }
     ]
   },
@@ -3422,25 +3442,5 @@
         "display_name": "Datascience"
       }
     ]
-  },
-  {
-    "link": "https://github.com/giswqs/geospatial-data-catalogs",
-    "title": "GitHub - giswqs/geospatial-data-catalogs: A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, and STAC Index",
-    "latest": "2023-01-16T06:06:36+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@giswqs/109563365598813281",
-      "content": "<p>A comprehensive list of open <a href=\"https://fosstodon.org/tags/geospatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geospatial</span></a> datasets on major cloud computing platforms (<a href=\"https://fosstodon.org/tags/AWS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AWS</span></a>, <a href=\"https://fosstodon.org/tags/EarthEngine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EarthEngine</span></a>, <a href=\"https://fosstodon.org/tags/PlanetaryComputer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PlanetaryComputer</span></a>) and STAC Index. The lists are provided in TSV and JSON formats, making it easier to find and use them programmatically. The list is updated daily. </p><p>GitHub: <a href=\"https://github.com/giswqs/geospatial-data-catalogs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/giswqs/geospatial-d</span><span class=\"invisible\">ata-catalogs</span></a> </p><p><a href=\"https://fosstodon.org/tags/opendata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opendata</span></a> <a href=\"https://fosstodon.org/tags/datascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datascience</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://ecoevo.social/@cboettig",
-        "display_name": "Carl Boettiger"
-      },
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      }
-    ],
-    "first": "2023-01-04T00:27:27+00:00"
   }
 ]

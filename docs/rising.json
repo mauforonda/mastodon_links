@@ -96,6 +96,54 @@
     ]
   },
   {
+    "link": "https://google-research.github.io/seanet/musiclm/examples/",
+    "title": "MusicLM",
+    "latest": "2023-01-27T05:04:16+00:00",
+    "first": "2023-01-27T02:04:42+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@TedUnderwood/109759421229556938",
+      "content": "<p>The Music LM thing is ridiculous. It's Stable Diffusion for Music. <a href=\"https://google-research.github.io/seanet/musiclm/examples/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">google-research.github.io/sean</span><span class=\"invisible\">et/musiclm/examples/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@andrey",
+        "display_name": "Andrey Kurenkov"
+      },
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      }
+    ]
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2023-01-27/elon-musk-s-twitter-trust-safety-head-ella-irwin-breaks-rules-for-him",
+    "title": "Twitter's Trust and Safety Head Ditches Protocol for Musk Whims",
+    "latest": "2023-01-27T03:59:01+00:00",
+    "first": "2023-01-27T01:05:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@daveyalba/109759156665689422",
+      "content": "<p>\u201cIt\u2019s like Musk is taking all of the content moderation best practice norms the trust and safety community has built up over the past decade and is trying to set them on fire,\u201d <span class=\"h-card\"><a href=\"https://mstdn.social/@evelyndouek\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>evelyndouek</span></a></span> told us</p><p><a href=\"https://www.bloomberg.com/news/articles/2023-01-27/elon-musk-s-twitter-trust-safety-head-ella-irwin-breaks-rules-for-him\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">23-01-27/elon-musk-s-twitter-trust-safety-head-ella-irwin-breaks-rules-for-him</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@natematias",
+        "display_name": "J. Nathan Matias \ud83e\udda3"
+      },
+      {
+        "url": "https://mstdn.social/@katestarbird",
+        "display_name": "Kate Starbird"
+      },
+      {
+        "url": "https://mstdn.social/@evelyndouek",
+        "display_name": "Evelyn Douek"
+      }
+    ]
+  },
+  {
     "link": "https://absolutelymaybe.plos.org/2023/01/26/5-things-we-learned-about-journal-peer-review-in-2022/",
     "title": "5 Things We Learned About Journal Peer Review in 2022 - Absolutely Maybe",
     "latest": "2023-01-26T10:44:19+00:00",
@@ -332,6 +380,66 @@
       {
         "url": "https://mastodon.social/@chrisaldrich",
         "display_name": "Chris Aldrich"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/kiselgra/c-mera",
+    "title": "GitHub - kiselgra/c-mera: Next-level syntax for C-like languages :)",
+    "latest": "2023-01-27T04:07:49+00:00",
+    "first": "2023-01-26T15:12:41+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@akkartik/109756151351584950",
+      "content": "<p><span class=\"h-card\"><a href=\"https://social.omar.website/@omar\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>omar</span></a></span> <a href=\"https://github.com/kiselgra/c-mera\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kiselgra/c-mera</span><span class=\"invisible\"></span></a> is another, though it seems less active.</p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@akkartik",
+        "display_name": "Kartik Agaram"
+      },
+      {
+        "url": "https://social.omar.website/@omar",
+        "display_name": "Omar Rizwan"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.11325",
+    "title": "https://arxiv.org/abs/2301.11325",
+    "latest": "2023-01-27T04:55:01+00:00",
+    "first": "2023-01-27T02:04:42+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109758597807961069",
+      "content": "<p>MusicLM: Generating Music From Text</p><p>Presents MusicLM, a model for generating high-fidelity music from text. MusicLM generates music at 24 kHz that remains consistent over several minutes.</p><p>proj: <a href=\"https://google-research.github.io/seanet/musiclm/examples/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">google-research.github.io/sean</span><span class=\"invisible\">et/musiclm/examples/</span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.11325\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11325</span><span class=\"invisible\"></span></a><br>data: <a href=\"https://www.kaggle.com/datasets/googleai/musiccaps\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kaggle.com/datasets/googleai/m</span><span class=\"invisible\">usiccaps</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      }
+    ]
+  },
+  {
+    "link": "https://www.kaggle.com/datasets/googleai/musiccaps",
+    "title": "kaggle.com/datasets/googleai/m...",
+    "latest": "2023-01-27T04:55:01+00:00",
+    "first": "2023-01-27T02:04:42+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109758597807961069",
+      "content": "<p>MusicLM: Generating Music From Text</p><p>Presents MusicLM, a model for generating high-fidelity music from text. MusicLM generates music at 24 kHz that remains consistent over several minutes.</p><p>proj: <a href=\"https://google-research.github.io/seanet/musiclm/examples/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">google-research.github.io/sean</span><span class=\"invisible\">et/musiclm/examples/</span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.11325\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11325</span><span class=\"invisible\"></span></a><br>data: <a href=\"https://www.kaggle.com/datasets/googleai/musiccaps\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kaggle.com/datasets/googleai/m</span><span class=\"invisible\">usiccaps</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
       }
     ]
   }

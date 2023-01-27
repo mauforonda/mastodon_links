@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://arxiv.org/abs/2301.08734",
+    "title": "Force-Field-Enhanced Neural Network Interactions: from Local Equivariant Embedding to Atom-in-Molecule properties and long-range effects",
+    "latest": "2023-01-27T05:49:45+00:00",
+    "first": "2023-01-27T05:49:45+00:00",
+    "last_post": {
+      "url": "https://mastodon-pa.sorbonne-universite.fr/@piquemal/109759600093271633",
+      "content": "<p><a href=\"https://mastodon-pa.sorbonne-universite.fr/tags/compchem\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compchem</span></a>\ud83d\udea8<a href=\"https://mastodon-pa.sorbonne-universite.fr/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a>\ud83d\udea8:Force-Field-Enhanced Neural Network Interactions: from Local Equivariant Embedding to Atom-in-Molecule properties &amp; long-range effects. Great work by @Thomas__Ple@twitter.com introducing the hybrid physically-driven <a href=\"https://mastodon-pa.sorbonne-universite.fr/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> FENNIX model. Funded by the ERC (project EMC2). Supercomputer time by GENCI. <a href=\"https://arxiv.org/abs/2301.08734\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.08734</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon-pa.sorbonne-universite.fr/@piquemal",
+        "display_name": "Jean-Philip Piquemal"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.11325",
+    "title": "https://arxiv.org/abs/2301.11325",
+    "latest": "2023-01-27T04:55:01+00:00",
+    "first": "2023-01-27T02:04:42+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109758597807961069",
+      "content": "<p>MusicLM: Generating Music From Text</p><p>Presents MusicLM, a model for generating high-fidelity music from text. MusicLM generates music at 24 kHz that remains consistent over several minutes.</p><p>proj: <a href=\"https://google-research.github.io/seanet/musiclm/examples/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">google-research.github.io/sean</span><span class=\"invisible\">et/musiclm/examples/</span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.11325\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11325</span><span class=\"invisible\"></span></a><br>data: <a href=\"https://www.kaggle.com/datasets/googleai/musiccaps\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kaggle.com/datasets/googleai/m</span><span class=\"invisible\">usiccaps</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2301.10972",
     "title": "On the Importance of Noise Scheduling for Diffusion Models",
     "latest": "2023-01-27T03:04:43+00:00",
@@ -95,22 +131,6 @@
     "last_post": {
       "url": "https://sigmoid.social/@aran/109758625794272684",
       "content": "<p>DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature</p><p>Detects samples from pre-trained LLMs using the local curvature of the model's log probability function.</p><p>proj: <a href=\"https://ericmitchell.ai/detectgpt/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ericmitchell.ai/detectgpt/</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.11305\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11305</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.11325",
-    "title": "https://arxiv.org/abs/2301.11325",
-    "latest": "2023-01-27T01:34:51+00:00",
-    "first": "2023-01-27T02:04:42+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109758597807961069",
-      "content": "<p>MusicLM: Generating Music From Text</p><p>Presents MusicLM, a model for generating high-fidelity music from text. MusicLM generates music at 24 kHz that remains consistent over several minutes.</p><p>proj: <a href=\"https://google-research.github.io/seanet/musiclm/examples/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">google-research.github.io/sean</span><span class=\"invisible\">et/musiclm/examples/</span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.11325\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11325</span><span class=\"invisible\"></span></a><br>data: <a href=\"https://www.kaggle.com/datasets/googleai/musiccaps\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kaggle.com/datasets/googleai/m</span><span class=\"invisible\">usiccaps</span></a></p>"
     },
     "people": [
       {
@@ -3330,22 +3350,6 @@
   {
     "link": "https://dl.acm.org/doi/10.1145/3557919.3565812",
     "title": "MapReader | Proceedings of the 6th ACM SIGSPATIAL International Workshop on Geospatial Humanities",
-    "latest": "2023-01-17T12:28:40+00:00",
-    "first": "2023-01-17T12:28:40+00:00",
-    "last_post": {
-      "url": "https://zirk.us/@LivingWithMachines/109704545585032018",
-      "content": "<p>How will this help <a href=\"https://zirk.us/tags/SpatialHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SpatialHumanities</span></a> and <a href=\"https://zirk.us/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> research? High-quality, georeferenced historical maps can be used with <a href=\"https://zirk.us/tags/ComputerVision\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComputerVision</span></a>, like our work analysing railway infrastructure: <a href=\"https://dl.acm.org/doi/10.1145/3557919.3565812\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/10.1145/3557919</span><span class=\"invisible\">.3565812</span></a> &amp; <a href=\"https://academic.oup.com/jvc/article/26/2/284/6232245\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">academic.oup.com/jvc/article/2</span><span class=\"invisible\">6/2/284/6232245</span></a> </p><p>Digitising <a href=\"https://livingwithmachines.ac.uk/creating-a-national-picture-digitising-ordnance-survey-maps\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">livingwithmachines.ac.uk/creat</span><span class=\"invisible\">ing-a-national-picture-digitising-ordnance-survey-maps</span></a> and Georeferencing OS Maps <a href=\"https://livingwithmachines.ac.uk/georeferencing-ordnance-survey-maps/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">livingwithmachines.ac.uk/geore</span><span class=\"invisible\">ferencing-ordnance-survey-maps/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://zirk.us/@LivingWithMachines",
-        "display_name": "Living with Machines"
-      }
-    ]
-  },
-  {
-    "link": "https://academic.oup.com/jvc/article/26/2/284/6232245",
-    "title": "academic.oup.com/jvc/article/2...",
     "latest": "2023-01-17T12:28:40+00:00",
     "first": "2023-01-17T12:28:40+00:00",
     "last_post": {
