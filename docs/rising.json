@@ -2,7 +2,7 @@
   {
     "link": "https://google-research.github.io/seanet/musiclm/examples/",
     "title": "MusicLM",
-    "latest": "2023-01-27T09:16:24+00:00",
+    "latest": "2023-01-27T16:30:43+00:00",
     "first": "2023-01-27T02:04:42+00:00",
     "last_post": {
       "url": "https://sigmoid.social/@andrey/109759507868566478",
@@ -32,58 +32,38 @@
       {
         "url": "https://mstdn.social/@arnicas",
         "display_name": "arnicas"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://sigmoid.social/@nsaphra",
+        "display_name": "Naomi Saphra"
       }
     ]
   },
   {
-    "link": "https://www.coalition-s.org/coalition-s-confirms-the-end-of-its-financial-support-for-open-access-publishing-under-transformative-arrangements-after-2024/",
-    "title": "cOAlition S confirms the end of its financial support for Open Access publishing under transformative arrangements after 2024 | Plan S",
-    "latest": "2023-01-27T06:54:24+00:00",
-    "first": "2023-01-26T18:02:31+00:00",
+    "link": "https://www.kaggle.com/datasets/googleai/musiccaps",
+    "title": "kaggle.com/datasets/googleai/m...",
+    "latest": "2023-01-27T16:33:39+00:00",
+    "first": "2023-01-27T02:04:42+00:00",
     "last_post": {
-      "url": "https://fediscience.org/@alexh/109757324915437028",
-      "content": "<p>\"cOAlition S members will direct their efforts to more innovative and community-led Open Access publishing initiatives that aim to deliver full and immediate Open Access in a shorter timeframe\"<br>Good news that reduces support for transformative agreements, now more supportive of Diamond OA. Many have been calling for this for years. <a href=\"https://fediscience.org/tags/openaccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openaccess</span></a> <a href=\"https://www.coalition-s.org/coalition-s-confirms-the-end-of-its-financial-support-for-open-access-publishing-under-transformative-arrangements-after-2024/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">coalition-s.org/coalition-s-co</span><span class=\"invisible\">nfirms-the-end-of-its-financial-support-for-open-access-publishing-under-transformative-arrangements-after-2024/</span></a><br>Support diamond OA today!</p>"
+      "url": "https://fedi.simonwillison.net/@simon/109762132027032262",
+      "content": "<p>Here's the MusicCaps dataset they're releasing along with the paper - it's 5,521 examples of professionally labeled text against clips of audio <a href=\"https://www.kaggle.com/datasets/googleai/musiccaps\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kaggle.com/datasets/googleai/m</span><span class=\"invisible\">usiccaps</span></a></p><p>The clips of audio aren't included though: instead, they provide a YouTube video ID and the the offset in seconds at which the described clip starts and finishes!</p>"
     },
     "people": [
       {
-        "url": "https://indieweb.social/@kaythaney",
-        "display_name": "Kaitlin Thaney"
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
       },
       {
-        "url": "https://fediscience.org/@petersuber",
-        "display_name": "petersuber"
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
       },
       {
-        "url": "https://social.cwts.nl/@LudoWaltman",
-        "display_name": "Ludo Waltman"
-      },
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
-      }
-    ]
-  },
-  {
-    "link": "https://newsletter.danhon.com/archive/s14e10-your-timeline-needs-a-dj-enough/",
-    "title": "s14e10: Your Timeline needs a DJ; Enough",
-    "latest": "2023-01-26T23:13:12+00:00",
-    "first": "2023-01-26T18:03:58+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@MattHodges/109758040799740077",
-      "content": "<p>You should read <span class=\"h-card\"><a href=\"https://dan.mastohon.com/@danhon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>danhon</span></a></span>\u2019s most recent newsletter \u2014 Your Timeline needs a DJ\u00b9\u2014 99% because Dan is thoughtful and smart as always, and 1% because I got a mention and it surprised and delighted me \ud83d\ude01</p><p>\u00b9 <a href=\"https://newsletter.danhon.com/archive/s14e10-your-timeline-needs-a-dj-enough/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">newsletter.danhon.com/archive/</span><span class=\"invisible\">s14e10-your-timeline-needs-a-dj-enough/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
-      },
-      {
-        "url": "https://mastodon.social/@judell",
-        "display_name": "Jon Udell"
-      },
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
       }
     ]
   },
@@ -112,102 +92,26 @@
     ]
   },
   {
-    "link": "https://www.wsj.com/articles/buzzfeed-to-use-chatgpt-creator-openai-to-help-create-some-of-its-content-11674752660",
-    "title": "WSJ News Exclusive | BuzzFeed to Use ChatGPT Creator OpenAI to Help Create Some of Its Content",
-    "latest": "2023-01-27T02:08:15+00:00",
-    "first": "2023-01-26T18:00:03+00:00",
+    "link": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "latest": "2023-01-27T15:44:59+00:00",
+    "first": "2023-01-27T13:26:35+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@mcc/109757660626694212",
-      "content": "<p>Meanwhile, as mentioned, businesses are not just writing software to be dependent on OpenAI's propreitary APIs but retooling entire business models around it. Once they flocked to Facebook, then seemed confused when suddenly the audience they'd built up was Facebook's audience now and they had nothing except what Facebook gave them. When their relationship with OpenAI someday flips the same way, they'll be just as confused how it got to that point.<br><a href=\"https://www.wsj.com/articles/buzzfeed-to-use-chatgpt-creator-openai-to-help-create-some-of-its-content-11674752660\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/articles/buzzfeed-to-u</span><span class=\"invisible\">se-chatgpt-creator-openai-to-help-create-some-of-its-content-11674752660</span></a><br><a href=\"https://gizmodo.com/cnet-artificial-intelligence-writing-scandal-1850031292\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gizmodo.com/cnet-artificial-in</span><span class=\"invisible\">telligence-writing-scandal-1850031292</span></a></p>"
+      "url": "https://sciences.social/@bastianherre/109761195723658435",
+      "content": "<p>We just published our new topic page on Democracy at Our World In Data:</p><p><a href=\"https://ourworldindata.org/democracy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ourworldindata.org/democracy</span><span class=\"invisible\"></span></a></p><p>There you can find data, visualizations, and writing on the development and state of democracy worldwide.</p><p>A \ud83e\uddf5 of what the new page has in store:</p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
+        "url": "https://mas.to/@edmat",
+        "display_name": "Edouard Mathieu"
       },
       {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      }
-    ]
-  },
-  {
-    "link": "https://posit.co/blog/announcing-pins-1-1-0/",
-    "title": "Posit",
-    "latest": "2023-01-26T22:38:48+00:00",
-    "first": "2023-01-26T17:17:59+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@juliasilge/109756329320973853",
-      "content": "<p>Super happy to announce the release of pins 1.1.0! \ud83d\udccc <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> </p><p>Many thanks to <span class=\"h-card\"><a href=\"https://vis.social/@ijlyttle\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ijlyttle</span></a></span> for his substantive contributions to this release :ablobcatheart: </p><p><a href=\"https://posit.co/blog/announcing-pins-1-1-0/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">posit.co/blog/announcing-pins-</span><span class=\"invisible\">1-1-0/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@hadleywickham",
-        "display_name": "Hadley Wickham"
+        "url": "https://mas.to/@maxroser",
+        "display_name": "Max Roser"
       },
       {
-        "url": "https://fosstodon.org/@jennybryan",
-        "display_name": "Jenny Bryan"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.6084/m9.figshare.21922404.v1",
-    "title": "doi.org/10.6084/m9.figshare.21...",
-    "latest": "2023-01-27T13:36:06+00:00",
-    "first": "2023-01-26T15:30:22+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@marcellaflamme/109756185995115189",
-      "content": "<p>A new white paper shows that the proportion of <a href=\"https://scholar.social/tags/openaccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openaccess</span></a> publications from society publishers is increasing, although in 2022 three in four papers were still paywalled.</p><p><a href=\"https://doi.org/10.6084/m9.figshare.21922404.v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.6084/m9.figshare.21</span><span class=\"invisible\">922404.v1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@philipncohen",
-        "display_name": "Philip N Cohen"
-      },
-      {
-        "url": "https://fediscience.org/@erinnacland",
-        "display_name": "Erinn Acland, PhD"
-      }
-    ]
-  },
-  {
-    "link": "https://boffosocko.com/2023/01/26/quantum-mechanics-study-group-for-peter-woit/",
-    "title": "https://boffosocko.com/2023/01/26/quantum-mechanics-study-group-for-peter-woit/",
-    "latest": "2023-01-26T15:27:45+00:00",
-    "first": "2023-01-26T15:27:38+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@chrisaldrich/109756210585134535",
-      "content": "<p>Quantum mechanics anyone? Dozens have been disappointed by UCLA's administration ineptly standing in the way of Dr. Mike Miller being able to offer his perennial Winter UCLA math class (Ring Theory this quarter), so a few friends and I are putting our informal math and physics group back together.</p><p>We're mounting a study group on quantum mechanics based on Peter Woit's Introduction to Quantum Mechanics co</p><p><a href=\"https://boffosocko.com/2023/01/26/quantum-mechanics-study-group-for-peter-woit/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">boffosocko.com/2023/01/26/quan</span><span class=\"invisible\">tum-mechanics-study-group-for-peter-woit/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://boffosocko.com/author/chrisaldrich/",
-        "display_name": "Chris Aldrich"
-      },
-      {
-        "url": "https://mastodon.social/@chrisaldrich",
-        "display_name": "Chris Aldrich"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/kiselgra/c-mera",
-    "title": "GitHub - kiselgra/c-mera: Next-level syntax for C-like languages :)",
-    "latest": "2023-01-27T04:07:49+00:00",
-    "first": "2023-01-26T15:12:41+00:00",
-    "last_post": {
-      "url": "https://merveilles.town/@akkartik/109756151351584950",
-      "content": "<p><span class=\"h-card\"><a href=\"https://social.omar.website/@omar\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>omar</span></a></span> <a href=\"https://github.com/kiselgra/c-mera\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kiselgra/c-mera</span><span class=\"invisible\"></span></a> is another, though it seems less active.</p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@akkartik",
-        "display_name": "Kartik Agaram"
-      },
-      {
-        "url": "https://social.omar.website/@omar",
-        "display_name": "Omar Rizwan"
+        "url": "https://curbal.social/@ruthpozuelo",
+        "display_name": "Ruth Pozuelo Martinez"
       }
     ]
   },
@@ -228,6 +132,26 @@
       {
         "url": "https://det.social/@HxxxKxxx",
         "display_name": "Harald Klinke"
+      }
+    ]
+  },
+  {
+    "link": "https://k4azxbci2v3.typeform.com/go-indie",
+    "title": "k4azxbci2v3.typeform.com/go-in...",
+    "latest": "2023-01-27T16:07:31.917000+00:00",
+    "first": "2023-01-26T18:22:54+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@kasey/109756899300072324",
+      "content": "<p>I want everyone experiencing layoffs right now to look back at it as the best thing that happened to them...</p><p>\u2026so I'm hosting a free/pay-what-you-want workshop on 'going indie after big tech' for designers, researchers &amp; strategists.</p><p>Please fill out this short form if interested \u2764\ufe0f</p><p><a href=\"https://k4azxbci2v3.typeform.com/go-indie\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">k4azxbci2v3.typeform.com/go-in</span><span class=\"invisible\">die</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@kasey",
+        "display_name": "Kasey Klimes"
+      },
+      {
+        "url": "https://hachyderm.io/@kvnweb",
+        "display_name": "Kevin Webb"
       }
     ]
   },
@@ -292,22 +216,22 @@
     ]
   },
   {
-    "link": "https://www.kaggle.com/datasets/googleai/musiccaps",
-    "title": "kaggle.com/datasets/googleai/m...",
-    "latest": "2023-01-27T04:55:01+00:00",
-    "first": "2023-01-27T02:04:42+00:00",
+    "link": "https://www.bloomberg.com/news/articles/2023-01-27/elon-musk-s-twitter-trust-safety-head-ella-irwin-breaks-rules-for-him?leadSource=uverify%20wall",
+    "title": "bloomberg.com/news/articles/20...",
+    "latest": "2023-01-27T17:50:16+00:00",
+    "first": "2023-01-27T05:13:56+00:00",
     "last_post": {
-      "url": "https://sigmoid.social/@aran/109758597807961069",
-      "content": "<p>MusicLM: Generating Music From Text</p><p>Presents MusicLM, a model for generating high-fidelity music from text. MusicLM generates music at 24 kHz that remains consistent over several minutes.</p><p>proj: <a href=\"https://google-research.github.io/seanet/musiclm/examples/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">google-research.github.io/sean</span><span class=\"invisible\">et/musiclm/examples/</span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.11325\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11325</span><span class=\"invisible\"></span></a><br>data: <a href=\"https://www.kaggle.com/datasets/googleai/musiccaps\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kaggle.com/datasets/googleai/m</span><span class=\"invisible\">usiccaps</span></a></p>"
+      "url": "https://kolektiva.social/@chadloder/109760394188867714",
+      "content": "<p>Elon Musk personally banned Chad Loder from Twitter. Reported first by WaPo, now Bloomberg has confirmed with the screenshots. <a href=\"https://www.bloomberg.com/news/articles/2023-01-27/elon-musk-s-twitter-trust-safety-head-ella-irwin-breaks-rules-for-him?leadSource=uverify%20wall\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">23-01-27/elon-musk-s-twitter-trust-safety-head-ella-irwin-breaks-rules-for-him?leadSource=uverify%20wall</span></a></p>"
     },
     "people": [
       {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
+        "url": "https://mstdn.social/@katestarbird",
+        "display_name": "Kate Starbird"
       },
       {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
+        "url": "https://mastodon.social/@mrchrisadams",
+        "display_name": "Chris Adams"
       }
     ]
   },
@@ -352,6 +276,66 @@
     ]
   },
   {
+    "link": "https://www.unrealengine.com/en-US/tech-blog/bringing-nanite-to-fortnite-battle-royale-in-chapter-4",
+    "title": "Bringing Nanite to <em>Fortnite Battle Royale </em>in Chapter 4",
+    "latest": "2023-01-27T17:50:42+00:00",
+    "first": "2023-01-27T09:25:55+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@aras/109760114071373721",
+      "content": "<p>Unreal folks just wrote three nice blog posts about UE5 improvements they did for the new fortnite chapter. </p><p>Nanite: <a href=\"https://www.unrealengine.com/en-US/tech-blog/bringing-nanite-to-fortnite-battle-royale-in-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/bringing-nanite-to-fortnite-battle-royale-in-chapter-4</span></a></p><p>Lumen: <a href=\"https://www.unrealengine.com/en-US/tech-blog/lumen-brings-real-time-global-illumination-to-fortnite-battle-royale-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/lumen-brings-real-time-global-illumination-to-fortnite-battle-royale-chapter-4</span></a></p><p>Virtual Shadow Maps: <a href=\"https://www.unrealengine.com/en-US/tech-blog/virtual-shadow-maps-in-fortnite-battle-royale-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/virtual-shadow-maps-in-fortnite-battle-royale-chapter-4</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
+      },
+      {
+        "url": "https://mastodon.social/@Migueldeicaza",
+        "display_name": "Miguel de Icaza"
+      }
+    ]
+  },
+  {
+    "link": "https://www.unrealengine.com/en-US/tech-blog/lumen-brings-real-time-global-illumination-to-fortnite-battle-royale-chapter-4",
+    "title": "unrealengine.com/en-US/tech-bl...",
+    "latest": "2023-01-27T17:50:42+00:00",
+    "first": "2023-01-27T09:25:55+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@aras/109760114071373721",
+      "content": "<p>Unreal folks just wrote three nice blog posts about UE5 improvements they did for the new fortnite chapter. </p><p>Nanite: <a href=\"https://www.unrealengine.com/en-US/tech-blog/bringing-nanite-to-fortnite-battle-royale-in-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/bringing-nanite-to-fortnite-battle-royale-in-chapter-4</span></a></p><p>Lumen: <a href=\"https://www.unrealengine.com/en-US/tech-blog/lumen-brings-real-time-global-illumination-to-fortnite-battle-royale-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/lumen-brings-real-time-global-illumination-to-fortnite-battle-royale-chapter-4</span></a></p><p>Virtual Shadow Maps: <a href=\"https://www.unrealengine.com/en-US/tech-blog/virtual-shadow-maps-in-fortnite-battle-royale-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/virtual-shadow-maps-in-fortnite-battle-royale-chapter-4</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
+      },
+      {
+        "url": "https://mastodon.social/@Migueldeicaza",
+        "display_name": "Miguel de Icaza"
+      }
+    ]
+  },
+  {
+    "link": "https://www.unrealengine.com/en-US/tech-blog/virtual-shadow-maps-in-fortnite-battle-royale-chapter-4",
+    "title": "unrealengine.com/en-US/tech-bl...",
+    "latest": "2023-01-27T17:50:42+00:00",
+    "first": "2023-01-27T09:25:55+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@aras/109760114071373721",
+      "content": "<p>Unreal folks just wrote three nice blog posts about UE5 improvements they did for the new fortnite chapter. </p><p>Nanite: <a href=\"https://www.unrealengine.com/en-US/tech-blog/bringing-nanite-to-fortnite-battle-royale-in-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/bringing-nanite-to-fortnite-battle-royale-in-chapter-4</span></a></p><p>Lumen: <a href=\"https://www.unrealengine.com/en-US/tech-blog/lumen-brings-real-time-global-illumination-to-fortnite-battle-royale-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/lumen-brings-real-time-global-illumination-to-fortnite-battle-royale-chapter-4</span></a></p><p>Virtual Shadow Maps: <a href=\"https://www.unrealengine.com/en-US/tech-blog/virtual-shadow-maps-in-fortnite-battle-royale-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/virtual-shadow-maps-in-fortnite-battle-royale-chapter-4</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
+      },
+      {
+        "url": "https://mastodon.social/@Migueldeicaza",
+        "display_name": "Miguel de Icaza"
+      }
+    ]
+  },
+  {
     "link": "https://lnkd.in/gkWHGW8m",
     "title": "https://lnkd.in/gkWHGW8m",
     "latest": "2023-01-27T13:16:33+00:00",
@@ -368,6 +352,46 @@
       {
         "url": "https://mastodon.online/@paezha",
         "display_name": "Antonio P\u00e1ez"
+      }
+    ]
+  },
+  {
+    "link": "https://www.tylermw.com/roadtripping-america-in-r-turning-spatial-data-into-animations-with-rayshader/",
+    "title": "tylermw.com/roadtripping-ameri...",
+    "latest": "2023-01-27T15:25:34+00:00",
+    "first": "2023-01-27T14:37:25+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@tylermorganwall/109761674960472683",
+      "content": "<p>\u203c\ufe0fNew tutorial! Learn how to turn spatial data into beautiful animations entirely in <a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> with <a href=\"https://fosstodon.org/tags/rayshader\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayshader</span></a> and <a href=\"https://fosstodon.org/tags/rayrender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayrender</span></a>! Create beautiful 3D animations out of your hikes, bike rides, animal tracks, CEO flights, etc\ud83d\ude09</p><p>Also, you'll learn how to perform motion interpolation in ffmpeg so you only need to render half the number of frames and still get a nice, smooth render!</p><p>Blog post:<br><a href=\"https://www.tylermw.com/roadtripping-america-in-r-turning-spatial-data-into-animations-with-rayshader/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tylermw.com/roadtripping-ameri</span><span class=\"invisible\">ca-in-r-turning-spatial-data-into-animations-with-rayshader/</span></a></p><p><a href=\"https://fosstodon.org/tags/Dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Dataviz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@tylermorganwall",
+        "display_name": "Tyler Morgan-Wall"
+      },
+      {
+        "url": "https://fosstodon.org/@terence",
+        "display_name": "terence"
+      }
+    ]
+  },
+  {
+    "link": "https://blogs.worldbank.org/impactevaluations/weekly-links-january-27-data-legality-stata-tips-learning-many-many-rejections",
+    "title": "Weekly links January 27: data legality, stata tips, learning from many many rejections, and more\u2026",
+    "latest": "2023-01-27T15:40:52+00:00",
+    "first": "2023-01-27T14:18:39+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@dmckenzie001/109761601197939272",
+      "content": "<p>This week's blog links are up and include an editor reflecting on reasons why almost 1,000 papers were rejected, some Stata tips, an impact evaluation post-doc, more remembering of Martin Ravallion, and more...<a href=\"https://blogs.worldbank.org/impactevaluations/weekly-links-january-27-data-legality-stata-tips-learning-many-many-rejections\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.worldbank.org/impacteval</span><span class=\"invisible\">uations/weekly-links-january-27-data-legality-stata-tips-learning-many-many-rejections</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@dmckenzie001",
+        "display_name": "David McKenzie"
+      },
+      {
+        "url": "https://econtwitter.net/@ckrafftc",
+        "display_name": "Caroline Krafft"
       }
     ]
   },
