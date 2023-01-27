@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://github.com/hodgesmr/2022-campaign-tech-keynote-talent",
+    "title": "GitHub - hodgesmr/2022-campaign-tech-keynote-talent: PDF of my morning keynote on the importance of retaining tech talent in political work",
+    "latest": "2023-01-27T13:52:26+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/109761498068699291",
+      "content": "<p>Our users \u2014 other staff \u2014 didn't even know that there was an AI / ML component. That had two ways to use the tool: ingest and search. Ingest allowed them to upload files or paste urls and our weird bots took it from there. Search was search. Media was returned with transcript, links back to source material, and relevant people, locations, and organizations tagged. I spoke a bit about this during my CampaignTech Innovation Summit keynote\u00b2 in November. <a href=\"https://mastodon.social/tags/PoliticalTech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PoliticalTech</span></a> 3/</p><p>\u00b2 <a href=\"https://github.com/hodgesmr/2022-campaign-tech-keynote-talent\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/2022-campa</span><span class=\"invisible\">ign-tech-keynote-talent</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ],
+    "first": "2023-01-04T00:56:54+00:00"
+  },
+  {
+    "link": "https://github.com/papers-we-love/papers-we-love/blob/master/data_compression/Significantly_Improving_Lossy_Compression_for_Scientific_Data_Sets_Based_on_Multidimensional_Prediction_and_Error-Controlled_Quantization.pdf",
+    "title": "github.com/papers-we-love/pape...",
+    "latest": "2023-01-27T13:05:05+00:00",
+    "first": "2023-01-27T13:05:05+00:00",
+    "last_post": {
+      "url": "https://mstdn.io/@paperswelove/109761311929920777",
+      "content": "<p>\ud83d\udcdc Significantly Improving Lossy Compression for Scientific Data Sets Based on Multidimensional Prediction and Error-Controlled Quantization [2017]</p><p>By: Dingwen Tao, Sheng Di, Zizhong Chen, et al.</p><p>\ud83d\udcd6 <a href=\"https://github.com/papers-we-love/papers-we-love/blob/master/data_compression/Significantly_Improving_Lossy_Compression_for_Scientific_Data_Sets_Based_on_Multidimensional_Prediction_and_Error-Controlled_Quantization.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/papers-we-love/pape</span><span class=\"invisible\">rs-we-love/blob/master/data_compression/Significantly_Improving_Lossy_Compression_for_Scientific_Data_Sets_Based_on_Multidimensional_Prediction_and_Error-Controlled_Quantization.pdf</span></a><br>\ud83d\udd0d <a href=\"https://www.semanticscholar.org/paper/4370744924f3bd3915a0baa8b4d1d217d4dc4649\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semanticscholar.org/paper/4370</span><span class=\"invisible\">744924f3bd3915a0baa8b4d1d217d4dc4649</span></a></p><p><a href=\"https://mstdn.io/tags/semanticScholar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>semanticScholar</span></a> <a href=\"https://mstdn.io/tags/paperswelove\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperswelove</span></a> <a href=\"https://mstdn.io/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a> <a href=\"https://mstdn.io/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.io/@paperswelove",
+        "display_name": "Papers We Love"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/JuliaGraphs/MultilayerGraphs.jl",
+    "title": "GitHub - JuliaGraphs/MultilayerGraphs.jl: A Julia package for the creation, manipulation and analysis of the structure, dynamics and functions of multilayer graphs.",
+    "latest": "2023-01-27T12:30:58.203000+00:00",
+    "first": "2023-01-09T21:04:14.165000+00:00",
+    "last_post": {
+      "url": "https://bayes.club/@PietroMonticone/109761177630068660",
+      "content": "<p>\ud83d\udce2 New minor release of MultilayerGraphs.jl (1.1.2)!</p><p>\u2705 Implemented node-aligned edge-colored graphs. </p><p>They can be adopted to model online social media networks like <span class=\"h-card\"><a href=\"https://mastodon.social/@Mastodon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Mastodon</span></a></span> endowed with layers encoding multiple interaction types (e.g. \"like\", \"boost\", \"follow\", etc.) and no interlayers.</p><p>\ud83d\udce6 Repo: <a href=\"https://github.com/JuliaGraphs/MultilayerGraphs.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaGraphs/Multila</span><span class=\"invisible\">yerGraphs.jl</span></a></p><p>\ud83d\udcc1 Docs: <a href=\"https://juliagraphs.org/MultilayerGraphs.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">juliagraphs.org/MultilayerGrap</span><span class=\"invisible\">hs.jl</span></a></p><p><a href=\"https://bayes.club/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://bayes.club/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://bayes.club/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://bayes.club/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://bayes.club/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://bayes.club/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://bayes.club/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://a.gup.pe/u/networkscience",
+        "display_name": "networkscience group"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-27_Hilma-Af-Klint",
+    "title": "github.com/paezha/genuary2023/...",
+    "latest": "2023-01-27T12:19:21+00:00",
+    "first": "2023-01-27T12:19:21+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@paezha/109761132083487468",
+      "content": "<p><a href=\"https://mastodon.online/tags/Genuary27\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary27</span></a> <a href=\"https://mastodon.online/tags/genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genuary</span></a> <a href=\"https://mastodon.online/tags/Rtistry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rtistry</span></a> </p><p>Day 27: Hilma af Klint</p><p>A practitioner of automatic painting, af Klint's abstract work predates that of Kandinsky, Malevtich, and Mondrian.</p><p><a href=\"https://en.wikipedia.org/wiki/Surrealist_automatism#Automatic_drawing_and_painting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Surreali</span><span class=\"invisible\">st_automatism#Automatic_drawing_and_painting</span></a></p><p>For this piece I drew inspiration from The Swan series. So simple and yet so full of depth. This seems to be a popular reference for today's prompt!</p><p><span class=\"h-card\"><a href=\"https://mstdn.social/@AaronReuland\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>AaronReuland</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jacquietran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jacquietran</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@meghansharris\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meghansharris</span></a></span> <span class=\"h-card\"><a href=\"https://genart.social/@davepagurek\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>davepagurek</span></a></span> </p><p>Coded in <a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> using <a href=\"https://mastodon.online/tags/SimpleFeatures\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SimpleFeatures</span></a> and <a href=\"https://mastodon.online/tags/ggplot2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggplot2</span></a>. See my repo:</p><p><a href=\"https://github.com/paezha/genuary2023/tree/master/2022-01-27_Hilma-Af-Klint\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paezha/genuary2023/</span><span class=\"invisible\">tree/master/2022-01-27_Hilma-Af-Klint</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@paezha",
+        "display_name": "Antonio P\u00e1ez"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/jacquietran/genuary_2023",
     "title": "GitHub - jacquietran/genuary_2023: Generative art made for Genuary 2023: https://genuary.art/",
     "latest": "2023-01-27T11:42:45+00:00",
@@ -234,22 +298,6 @@
         "display_name": "Melissa Kline Struhl"
       }
     ]
-  },
-  {
-    "link": "https://github.com/hodgesmr/2022-campaign-tech-keynote-talent",
-    "title": "GitHub - hodgesmr/2022-campaign-tech-keynote-talent: PDF of my morning keynote on the importance of retaining tech talent in political work",
-    "latest": "2023-01-26T18:45:28+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@MattHodges/109756988013450661",
-      "content": "<p><span class=\"h-card\"><a href=\"https://vmst.io/@marcoshuerta\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>marcoshuerta</span></a></span> Very cool! I think I need to find some time to talk more publicly about this, but we deployed a handful of <a href=\"https://mastodon.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> models on the Biden team to automate and index a variety of comms, research, and rapid response tasks. Utilized similar chunking strategies. <a href=\"https://github.com/hodgesmr/2022-campaign-tech-keynote-talent\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/2022-campa</span><span class=\"invisible\">ign-tech-keynote-talent</span></a> <a href=\"https://mastodon.social/tags/PoliticalTech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PoliticalTech</span></a><br><span class=\"h-card\"><a href=\"https://mastodon.social/@SebRaschka\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SebRaschka</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      }
-    ],
-    "first": "2023-01-04T00:56:54+00:00"
   },
   {
     "link": "https://github.com/astrowonk/search_transcripts",
@@ -3392,54 +3440,6 @@
       {
         "url": "https://fosstodon.org/@jonthegeek",
         "display_name": "jonthegeek"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/approximatelabs/sketch",
-    "title": "GitHub - approximatelabs/sketch: AI code-writing assistant that understands data content",
-    "latest": "2023-01-16T14:59:13+00:00",
-    "first": "2023-01-16T14:59:13+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@arnicas/109699475270773151",
-      "content": "<p>Well damn.... this would sure improve the ease of using pandas and matplotlib... </p><p>Manual QT: Show HN: Sketch \u2013 AI code-writing assistant that understands data content - <a href=\"https://github.com/approximatelabs/sketch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/approximatelabs/ske</span><span class=\"invisible\">tch</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/akib/emacs-eat",
-    "title": "emacs-eat",
-    "latest": "2023-01-16T14:18:22+00:00",
-    "first": "2023-01-16T14:18:22+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@cpbotha/109697832855666895",
-      "content": "<p>I would like to thank <span class=\"h-card\"><a href=\"https://hostux.social/@akib\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>akib</span></a></span> for the amazing Emacs package EAT, or Emulate A Terminal [1].</p><p>This has taken my eshell and tramp usage to the next level.</p><p>In fact, it has pushed the balance of my terminal+shell usage over to Emacs, where it belongs. ;)</p><p>What I like specifically: eat is so good, that I can now have terminal apps like htop,tmux,ncdu display *directly* in the eshell buffer.</p><p>[1] <a href=\"https://codeberg.org/akib/emacs-eat\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/akib/emacs-eat</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@sachac",
-        "display_name": "Sacha Chua"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tomstafford/choice-engine-text",
-    "title": "GitHub - tomstafford/choice-engine-text: content for twitter bot",
-    "latest": "2023-01-16T13:47:29+00:00",
-    "first": "2023-01-16T13:47:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@tomstafford/109699193204373410",
-      "content": "<p>RT @ChoiceEngine<br>I am retired now. You can read my full text here   <a href=\"https://github.com/tomstafford/choice-engine-text\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tomstafford/choice-</span><span class=\"invisible\">engine-text</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@tomstafford",
-        "display_name": "tomstafford"
       }
     ]
   }
