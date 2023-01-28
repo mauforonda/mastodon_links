@@ -1,29 +1,5 @@
 [
   {
-    "link": "https://musgrave.substack.com/p/its-hip-to-be-square",
-    "title": "It's Hip to Be Square",
-    "latest": "2023-01-27T22:12:42+00:00",
-    "first": "2023-01-27T17:28:28+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@profmusgrave/109762336442249517",
-      "content": "<p>I wrote about a new study showing little upside and some real downside to using pop culture in the classroom <a href=\"https://musgrave.substack.com/p/its-hip-to-be-square\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">musgrave.substack.com/p/its-hi</span><span class=\"invisible\">p-to-be-square</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
-      },
-      {
-        "url": "https://mastodon.social/@kjhealy",
-        "display_name": "Kieran Healy"
-      },
-      {
-        "url": "https://social.coop/@Laura",
-        "display_name": "Laura James"
-      }
-    ]
-  },
-  {
     "link": "https://tinyurl.com/defconspeakerBW",
     "title": "https://tinyurl.com/defconspeakerBW",
     "latest": "2023-01-27T19:12:22+00:00",
@@ -40,46 +16,6 @@
       {
         "url": "https://mastodon.social/@jose_eduardo",
         "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
-      }
-    ]
-  },
-  {
-    "link": "https://www.sciencedirect.com/science/article/pii/S2542435123000016?dgcid=coauthor",
-    "title": "sciencedirect.com/science/arti...",
-    "latest": "2023-01-28T09:52:39+00:00",
-    "first": "2023-01-27T17:16:25+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@hausfath/109762300169898748",
-      "content": "<p>We see a lot of concern today that renewables and other clean electricity will require too much materials, and producing those will break our remaining carbon budget.</p><p>We have a new paper out today we find that these concerns are overblown. <a href=\"https://www.sciencedirect.com/science/article/pii/S2542435123000016?dgcid=coauthor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">sciencedirect.com/science/arti</span><span class=\"invisible\">cle/pii/S2542435123000016?dgcid=coauthor</span></a></p><p>A thread: 1/11</p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@hausfath",
-        "display_name": "Zeke Hausfather"
-      },
-      {
-        "url": "https://masto.ai/@sciencefeedback",
-        "display_name": "Science Feedback"
-      }
-    ]
-  },
-  {
-    "link": "https://www.arxiv-vanity.com/papers/2301.11325/",
-    "title": "arxiv-vanity.com/papers/2301.1...",
-    "latest": "2023-01-27T18:54:11+00:00",
-    "first": "2023-01-27T16:28:52+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109762113234359760",
-      "content": "<p>AI getting even weirder: \"MusicLM: Generating Music From Text\" from a team at Google research</p><p>Generates audio clips from prompts like \"A fusion of reggaeton and electronic dance music, with a spacey, otherworldly sound. Induces the experience of being lost in space, and the music would be designed to evoke a sense of wonder and awe, while being danceable.\"</p><p>No interactive demo, but this link has a huge number of examples to listen to:</p><p><a href=\"https://google-research.github.io/seanet/musiclm/examples/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">google-research.github.io/sean</span><span class=\"invisible\">et/musiclm/examples/</span></a></p><p>Paper: <a href=\"https://www.arxiv-vanity.com/papers/2301.11325/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">arxiv-vanity.com/papers/2301.1</span><span class=\"invisible\">1325/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://mstdn.social/@adamwulf",
-        "display_name": "Adam Wulf"
       }
     ]
   },
@@ -300,6 +236,46 @@
       {
         "url": "https://social.coop/@ming",
         "display_name": "Flemming Funch"
+      }
+    ]
+  },
+  {
+    "link": "https://tomcritchlow.com/2023/01/27/small-databases/",
+    "title": "The Magic of Small Databases",
+    "latest": "2023-01-28T16:48:16+00:00",
+    "first": "2023-01-28T14:49:32+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109767851833232721",
+      "content": "<p>This article by <span class=\"h-card\"><a href=\"https://indieweb.social/@tomcritchlow\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tomcritchlow</span></a></span> captures a whole bunch of ideas that are deeply relevant to my goals for <span class=\"h-card\"><a href=\"https://fosstodon.org/@datasette\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>datasette</span></a></span> and related projects: <a href=\"https://tomcritchlow.com/2023/01/27/small-databases/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tomcritchlow.com/2023/01/27/sm</span><span class=\"invisible\">all-databases/</span></a></p><p>\"We\u2019ve built many tools for publishing to the web\u2014but I want to make the claim that we have underdeveloped the tools and platforms for publishing collections, indexes and small databases. It\u2019s too hard to build these kinds of experiences, too hard to maintain them and a lack of collaborative tools.\"</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@gordon",
+        "display_name": "Gordon Brander"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://cognissart.co.uk/wet-feet-deepdale/",
+    "title": "Wet Feet, Deepdale",
+    "latest": "2023-01-28T16:01:14+00:00",
+    "first": "2023-01-28T17:14:47+00:00",
+    "last_post": {
+      "url": "https://mastodon.art/@cognissart/109621227552091617",
+      "content": "<p>We've had a bit of rain recently so the waterfalls are going well atm. The <a href=\"https://mastodon.art/tags/waterfall\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>waterfall</span></a> depicted in Wet Feet, Deepdale is only accessible by clambering down into the ravine from above or climbing up the lower falls. The second route was my choice \u2013 hence the title! \ud83e\udd23 <br> <a href=\"https://mastodon.art/tags/FineArtInStitch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FineArtInStitch</span></a> <a href=\"https://mastodon.art/tags/TextileArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TextileArt</span></a> <a href=\"https://mastodon.art/tags/TextileArtist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TextileArtist</span></a> <a href=\"https://mastodon.art/tags/Art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Art</span></a> <a href=\"https://mastodon.art/tags/ArtOfTheDay\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ArtOfTheDay</span></a> <br><a href=\"https://mastodon.art/tags/MastoArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoArt</span></a> <a href=\"https://mastodon.art/tags/ArtistOnMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ArtistOnMastodon</span></a> <a href=\"https://mastodon.art/tags/ArtistsOnMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ArtistsOnMastodon</span></a> <a href=\"https://mastodon.art/tags/art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>art</span></a>  <a href=\"https://mastodon.art/tags/ArtistsOfMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ArtistsOfMastodon</span></a><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/fibrearts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fibrearts</span></a></span><br><a href=\"https://mastodon.art/tags/artbooster\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artbooster</span></a> <a href=\"https://mastodon.art/tags/Deepdale\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Deepdale</span></a> <a href=\"https://mastodon.art/tags/WaterFallArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WaterFallArt</span></a></p><p><a href=\"https://cognissart.co.uk/wet-feet-deepdale/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cognissart.co.uk/wet-feet-deep</span><span class=\"invisible\">dale/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot \ud83e\udd39"
+      },
+      {
+        "url": "https://friend.camp/@aparrish",
+        "display_name": "allison"
       }
     ]
   }

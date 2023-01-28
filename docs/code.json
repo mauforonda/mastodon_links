@@ -1,5 +1,117 @@
 [
   {
+    "link": "https://github.com/usysrc/iga",
+    "title": "GitHub - usysrc/iga: texture synthesis inspired by wave function collapse for love",
+    "latest": "2023-01-28T18:05:29+00:00",
+    "first": "2023-01-28T18:05:29+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@akkartik/109768155415398254",
+      "content": "<p>I just had a fun hour with the kids and this program:</p><p><a href=\"https://github.com/usysrc/iga\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/usysrc/iga</span><span class=\"invisible\"></span></a></p><p>Based on <a href=\"https://github.com/mxgmn/WaveFunctionCollapse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mxgmn/WaveFunctionC</span><span class=\"invisible\">ollapse</span></a></p><p>We tried out different tiles for a while.</p><p>After I got sick of typing out the filenames, I added the ability to drop files on the window.</p><p>Then we noticed that some of the tiles are more boring. I hardcoded the starting point near the bottom rather than the top, and that helped.</p><p>Finally I had it take the starting point from the place where you drop the file on the window.</p><p>cc <span class=\"h-card\"><a href=\"https://berlin.social/@jack\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jack</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@akkartik",
+        "display_name": "Kartik Agaram"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mxgmn/WaveFunctionCollapse",
+    "title": "github.com/mxgmn/WaveFunctionC...",
+    "latest": "2023-01-28T18:05:29+00:00",
+    "first": "2023-01-28T18:05:29+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@akkartik/109768155415398254",
+      "content": "<p>I just had a fun hour with the kids and this program:</p><p><a href=\"https://github.com/usysrc/iga\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/usysrc/iga</span><span class=\"invisible\"></span></a></p><p>Based on <a href=\"https://github.com/mxgmn/WaveFunctionCollapse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mxgmn/WaveFunctionC</span><span class=\"invisible\">ollapse</span></a></p><p>We tried out different tiles for a while.</p><p>After I got sick of typing out the filenames, I added the ability to drop files on the window.</p><p>Then we noticed that some of the tiles are more boring. I hardcoded the starting point near the bottom rather than the top, and that helped.</p><p>Finally I had it take the starting point from the place where you drop the file on the window.</p><p>cc <span class=\"h-card\"><a href=\"https://berlin.social/@jack\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jack</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@akkartik",
+        "display_name": "Kartik Agaram"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/gkaramanis/mappromptmonday/tree/master/2023/2023-week_04",
+    "title": "mappromptmonday/2023/2023-week_04 at master \u00b7 gkaramanis/mappromptmonday",
+    "latest": "2023-01-28T17:53:14+00:00",
+    "first": "2023-01-28T17:53:14+00:00",
+    "last_post": {
+      "url": "https://vis.social/@georgios/109768107231060507",
+      "content": "<p>For this week's <a href=\"https://vis.social/tags/MapPromptMonday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MapPromptMonday</span></a> I made a map comparing the streaming TV viewership between two age groups in EU countries.</p><p>code: <a href=\"https://github.com/gkaramanis/mappromptmonday/tree/master/2023/2023-week_04\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gkaramanis/mappromp</span><span class=\"invisible\">tmonday/tree/master/2023/2023-week_04</span></a></p><p><a href=\"https://vis.social/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://vis.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@georgios",
+        "display_name": "Georgios Karamanis"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/issues/23282",
+    "title": "How to ensure toots from other time zones or sent at unusual times are visible in crowded timelines? \u00b7 Issue #23282 \u00b7 mastodon/mastodon",
+    "latest": "2023-01-28T17:46:17+00:00",
+    "first": "2023-01-28T17:46:17+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jukey/109766122621477091",
+      "content": "<p>It seems to be hard to follow toots sent at unusual hours or other another <a href=\"https://mastodon.social/tags/timezone\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>timezone</span></a>. I created an issue in the <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> repository to list and discuss potential solutions: <a href=\"https://github.com/mastodon/mastodon/issues/23282\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/23282</span></a> Who wants to join the discussion?</p>"
+    },
+    "people": [
+      {
+        "url": "https://sciences.social/@markigra",
+        "display_name": "Mark Igra"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rasbt/deeplearning-models/tree/master/pytorch-lightning_ipynb/data-augmentation/autoaugment",
+    "title": "deeplearning-models/pytorch-lightning_ipynb/data-augmentation/autoaugment at master \u00b7 rasbt/deeplearning-models",
+    "latest": "2023-01-28T15:49:29+00:00",
+    "first": "2023-01-28T15:49:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109767620663999744",
+      "content": "<p>I have been using PyTorch for more than 5 years now. Still, I occasionally discover useful features in the PyTorch library that I was previously unaware of. </p><p>Have you tried AutoAugment for data augmentation yet?</p><p>I just experimented with it and it resulted in a 10% improvement in accuracy for this simple example case, although it took a few epochs to achieve.</p><p>I uploaded the code here if you want to give it a try: <a href=\"https://github.com/rasbt/deeplearning-models/tree/master/pytorch-lightning_ipynb/data-augmentation/autoaugment\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rasbt/deeplearning-</span><span class=\"invisible\">models/tree/master/pytorch-lightning_ipynb/data-augmentation/autoaugment</span></a></p><p><a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> <a href=\"https://mastodon.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Chocobozzz/PeerTube/releases/tag/v5.0.0",
+    "title": "Release v5.0.0 \u00b7 Chocobozzz/PeerTube",
+    "latest": "2023-01-28T15:20:30+00:00",
+    "first": "2023-01-28T15:20:30+00:00",
+    "last_post": {
+      "url": "https://toot.fedilab.app/@apps/109767506692402224",
+      "content": "<p>Some users cannot use <a href=\"https://toot.fedilab.app/tags/Fedilab\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fedilab</span></a> with   <a href=\"https://toot.fedilab.app/tags/Peertube\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Peertube</span></a>. </p><p>Currently, instances below v5.0.0 can't work due to a REST API breaking change.</p><p>We will publish a fix that will ignore \"role\" for users temporary.</p><p>More: <a href=\"https://github.com/Chocobozzz/PeerTube/releases/tag/v5.0.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Chocobozzz/PeerTube</span><span class=\"invisible\">/releases/tag/v5.0.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toot.fedilab.app/@apps",
+        "display_name": "Fedilab Apps"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-28_Generative-Poetry",
+    "title": "genuary2023/2022-01-28_Generative-Poetry at master \u00b7 paezha/genuary2023",
+    "latest": "2023-01-28T15:10:56+00:00",
+    "first": "2023-01-28T15:10:56+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@paezha/109767469041362839",
+      "content": "<p><a href=\"https://mastodon.online/tags/Genuary28\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary28</span></a> <a href=\"https://mastodon.online/tags/Genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary</span></a> </p><p>Day 28: Generative poetry</p><p>For this prompt I decided to revisit my system for creating asemic glyphs. Here is a poem by Lady Ono no Komachi in one randomly generated synthetic script:</p><p>Visible colours<br>(Invisible passions)<br>Fade from<br>This world's<br>Human hearts<br>And flowers.</p><p>Coded in <a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> using <a href=\"https://mastodon.online/tags/ggplot2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggplot2</span></a> and <a href=\"https://mastodon.online/tags/ggforce\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggforce</span></a>. Code and more examples of outputs can be found in my <a href=\"https://mastodon.online/tags/Genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary</span></a> 2023 repo:</p><p><a href=\"https://github.com/paezha/genuary2023/tree/master/2022-01-28_Generative-Poetry\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paezha/genuary2023/</span><span class=\"invisible\">tree/master/2022-01-28_Generative-Poetry</span></a></p><p><a href=\"https://mastodon.online/tags/Rtistry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rtistry</span></a> <a href=\"https://mastodon.online/tags/MastoArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoArt</span></a> <a href=\"https://mastodon.online/tags/artbooster\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artbooster</span></a> </p><p><span class=\"h-card\"><a href=\"https://mastodon.social/@jacquietran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jacquietran</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@meghansharris\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meghansharris</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@paezha",
+        "display_name": "Antonio P\u00e1ez"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/jacquietran/genuary_2023",
     "title": "GitHub - jacquietran/genuary_2023: Generative art made for Genuary 2023: https://genuary.art/",
     "latest": "2023-01-28T12:23:06+00:00",
@@ -3304,118 +3416,6 @@
       {
         "url": "https://social.omar.website/@omar",
         "display_name": "Omar Rizwan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/dginev/ar5iv-css/pull/4",
-    "title": "github.com/dginev/ar5iv-css/pu...",
-    "latest": "2023-01-17T23:17:15+00:00",
-    "first": "2023-01-17T23:17:15+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@dginev/109707095920326884",
-      "content": "<p>Why isn't ar5iv a solved problem yet, edition 873499:</p><p>\"Recognize that some papers have used {quote} for {abstract}\"</p><p><a href=\"https://github.com/dginev/ar5iv-css/pull/4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dginev/ar5iv-css/pu</span><span class=\"invisible\">ll/4</span></a></p><p>At least it was a fun experience in learning how to use the new :has selector. Hope it reaches Firefox soon too!</p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@dginev",
-        "display_name": "Deyan Ginev"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bvaughn/react-resizable-panels/blob/main/packages/react-resizable-panels/CHANGELOG.md#0034",
-    "title": "react-resizable-panels/CHANGELOG.md at main \u00b7 bvaughn/react-resizable-panels",
-    "latest": "2023-01-17T20:32:36+00:00",
-    "first": "2023-01-17T20:32:36+00:00",
-    "last_post": {
-      "url": "https://mas.to/@bvaughn/109706448535251401",
-      "content": "<p>\u269b\ufe0f Springy panels and a few other new features now available in v0.0.34 release.</p><p>Full change log available here:<br><a href=\"https://github.com/bvaughn/react-resizable-panels/blob/main/packages/react-resizable-panels/CHANGELOG.md#0034\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bvaughn/react-resiz</span><span class=\"invisible\">able-panels/blob/main/packages/react-resizable-panels/CHANGELOG.md#0034</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@bvaughn",
-        "display_name": "Brian Vaughn"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/snowka/mastodon_bot",
-    "title": "codeberg.org/snowka/mastodon_b...",
-    "latest": "2023-01-17T17:58:06+00:00",
-    "first": "2023-01-17T17:58:06+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@snowka/109705840986206462",
-      "content": "<p>Are you a fan of <a href=\"https://scholar.social/tags/18thcentury\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>18thcentury</span></a> English literature? Enjoy literary snark? Then follow my Charles Gildon Snarkbot (<span class=\"h-card\"><a href=\"https://botsin.space/@gildon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gildon</span></a></span>) to hear what this lesser-known writer and critic had to say about Aphra Behn, Alexander Pope, Daniel Defoe, and Delia Manley. (And what they had to say about him.)<br>This was an experiment to see if I could code a bot in Python related to my <a href=\"https://scholar.social/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> project on Gildon (<a href=\"http://di.salemstate.edu/snowka/index.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">di.salemstate.edu/snowka/index</span><span class=\"invisible\">.html</span></a>). Want to make your own bot? See the code here: <a href=\"https://codeberg.org/snowka/mastodon_bot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/snowka/mastodon_b</span><span class=\"invisible\">ot</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://scholar.social/@snowka",
-        "display_name": "snowka"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/pull/22330",
-    "title": "Add `tootctl accounts migrate` by ClearlyClaire \u00b7 Pull Request #22330 \u00b7 mastodon/mastodon",
-    "latest": "2023-01-17T17:02:43+00:00",
-    "first": "2023-01-17T17:02:43+00:00",
-    "last_post": {
-      "url": "https://social.jvns.ca/@b0rk/109705623188588123",
-      "content": "<p>I think (thanks to a mastodon instance admin for looking at their logs!) that what happened is that my instance got slow, so some of the HTTP requests to my server timed out and failed. I think 3 possible fixes are:</p><p>1. wait 30 days &amp; rerun the migration myself<br>2. ask my old instance to retry the migration, once it's running a release with this code <a href=\"https://github.com/mastodon/mastodon/pull/22330\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/22330</span></a><br>3. instance admins can maybe manually retry failed jobs (seems like a lot to ask though)</p><p>h/t <span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nova</span></a></span> for her work on this</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.jvns.ca/@b0rk",
-        "display_name": "Julia Evans"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/BuzzFeedNews/nics-firearm-background-checks",
-    "title": "GitHub - BuzzFeedNews/nics-firearm-background-checks: Monthly data from the FBI's National Instant Criminal Background Check System, converted from PDF to CSV.",
-    "latest": "2023-01-17T16:22:05+00:00",
-    "first": "2023-01-17T16:22:05+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@DarrinLRogers/109705463458757190",
-      "content": "<p>This was interesting. FBI NCIS data from 1998 to 2022. These are considered (I guess) good proxy data for total gun sales. I plotted just handgun estimated sales nationwide over that time span.</p><p>Noting things:<br>1. (Average) dip over Trump presidency<br>2. Strong increase in 2020 (pandemic?), continuing through 1/6/21 insurrection</p><p>Data source: <a href=\"https://github.com/BuzzFeedNews/nics-firearm-background-checks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BuzzFeedNews/nics-f</span><span class=\"invisible\">irearm-background-checks</span></a></p><p><a href=\"https://fediscience.org/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://fediscience.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fediscience.org/tags/guns\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>guns</span></a> <a href=\"https://fediscience.org/tags/usa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>usa</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@DarrinLRogers",
-        "display_name": "Darrin L Rogers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/KittJonathan/tidytuesday/blob/master/R/2023_03_art_history.R",
-    "title": "tidytuesday/2023_03_art_history.R at master \u00b7 KittJonathan/tidytuesday",
-    "latest": "2023-01-17T15:38:45+00:00",
-    "first": "2023-01-17T15:38:45+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@jonathankitt/109705293044237752",
-      "content": "<p>Week 3 of the 2023 <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> challenge. 10 artists have made it into all 16 editions of Gardner's Art Through the Ages. How much space is devoted to those artists in each edition ?</p><p>Code : <a href=\"https://github.com/KittJonathan/tidytuesday/blob/master/R/2023_03_art_history.R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/KittJonathan/tidytu</span><span class=\"invisible\">esday/blob/master/R/2023_03_art_history.R</span></a></p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>data</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fosstodon.org/tags/art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>art</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@jonathankitt",
-        "display_name": "Jonathan Kitt :rstats:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/elk-zone/elk-native/releases/tag/v0.1.0",
-    "title": "Release v0.1.0 \u00b7 elk-zone/elk-native",
-    "latest": "2023-01-17T15:36:12+00:00",
-    "first": "2023-01-17T15:36:12+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@appelgriebsch/109705267781332750",
-      "content": "<p>Just installed v.0.1.0 of elk-native from&nbsp;<span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span>&nbsp;\u2026. build on <span class=\"h-card\"><a href=\"https://fosstodon.org/@TauriApps\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>TauriApps</span></a></span>&nbsp;its really light and fast. Love it\u2026&nbsp;<a href=\"https://github.com/elk-zone/elk-native/releases/tag/v0.1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk-native</span><span class=\"invisible\">/releases/tag/v0.1.0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
       }
     ]
   }
