@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/r-devel/r-svn/commit/dd4ed6ffc9b620c7b4a92f8cb9dab9ecc8b5890c",
+    "title": "github.com/r-devel/r-svn/commi...",
+    "latest": "2023-01-27T23:53:42+00:00",
+    "first": "2023-01-27T23:53:42+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@michaelchirico/109762817427583780",
+      "content": "<p>Big shoutout to the large group of translators who've helped to add &gt;3,000 translations in 8 languages to R! <a href=\"https://econtwitter.net/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p><p>And especially thanks to <span class=\"h-card\"><a href=\"https://fosstodon.org/@daroczig\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daroczig</span></a></span> for setting up the weblate server to make translations so much easier. Try it here! <a href=\"https://translate.rx.studio\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">translate.rx.studio</span><span class=\"invisible\"></span></a></p><p><a href=\"https://github.com/r-devel/r-svn/commit/dd4ed6ffc9b620c7b4a92f8cb9dab9ecc8b5890c\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/r-devel/r-svn/commi</span><span class=\"invisible\">t/dd4ed6ffc9b620c7b4a92f8cb9dab9ecc8b5890c</span></a></p><p>[\ud83d\udc26 xpost]</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@hadleywickham",
+        "display_name": "Hadley Wickham"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/thedatacollective/plotcolr",
+    "title": "GitHub - thedatacollective/plotcolr",
+    "latest": "2023-01-27T23:13:20+00:00",
+    "first": "2023-01-27T23:13:20+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@Danwwilson/109763062339432730",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@smach\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smach</span></a></span> <span class=\"h-card\"><a href=\"https://vis.social/@CedScherer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>CedScherer</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/rstats\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rstats</span></a></span> I made a package recently to help see palettes in situ. <a href=\"https://github.com/thedatacollective/plotcolr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/thedatacollective/p</span><span class=\"invisible\">lotcolr</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/jacquietran/genuary_2023",
     "title": "GitHub - jacquietran/genuary_2023: Generative art made for Genuary 2023: https://genuary.art/",
     "latest": "2023-01-27T21:03:44+00:00",
@@ -3416,38 +3448,6 @@
       {
         "url": "https://octodon.social/@Eramdam",
         "display_name": "Damien \u2728"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rmp135/sql-ts",
-    "title": "GitHub - rmp135/sql-ts: Generate TypeScript interfaces from a SQL database.",
-    "latest": "2023-01-17T04:59:21.873000+00:00",
-    "first": "2023-01-17T04:59:21.873000+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@linesofcode/109702290707246037",
-      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@mnl\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mnl</span></a></span> I can totally relate to this having been burnt by ORMs in the past.</p><p>I'm a big fan of just generating static types for my database with <a href=\"https://github.com/rmp135/sql-ts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rmp135/sql-ts</span><span class=\"invisible\"></span></a> and then using those generated types to add some loose type-safety to my sql queries.</p><p>For example: typing the result sets or referencing table/column names through an enum.</p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@mnl",
-        "display_name": "mnml mnl (he/him)"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/vuejs/petite-vue",
-    "title": "https://github.com/vuejs/petite-vue",
-    "latest": "2023-01-17T03:13:51+00:00",
-    "first": "2023-01-17T03:13:51+00:00",
-    "last_post": {
-      "url": "https://indieweb.social/@adamghill/109702363991455601",
-      "content": "<p>Other options for small-ish JS libraries I looked into:<br>- <a href=\"https://alpinejs.dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">alpinejs.dev/</span><span class=\"invisible\"></span></a>: the major player in this space<br>- <a href=\"https://htmx.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">htmx.org/</span><span class=\"invisible\"></span></a>: also well-loved, but solves a slightly different use-case<br>- <a href=\"https://github.com/vuejs/petite-vue\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vuejs/petite-vue</span><span class=\"invisible\"></span></a></p><p>More details about each and some other lesser-known options at: <a href=\"https://unsuckjs.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">unsuckjs.com/</span><span class=\"invisible\"></span></a>.</p><p><a href=\"https://indieweb.social/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a> <a href=\"https://indieweb.social/tags/html\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>html</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
       }
     ]
   }
