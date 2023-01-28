@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://doi.org/10.5281/zenodo.7574659",
+    "title": "https://doi.org/10.5281/zenodo.7574659",
+    "latest": "2023-01-28T05:44:10+00:00",
+    "first": "2023-01-28T05:44:10+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ResearchOrgs/109763110514953311",
+      "content": "<p>Our first registry update of 2023 is out! Release v1.18 includes open IDs and metadata for 104,557 organizations. Release notes: <a href=\"https://github.com/ror-community/ror-updates/releases/tag/v1.18\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ror-community/ror-u</span><span class=\"invisible\">pdates/releases/tag/v1.18</span></a> &amp; data dump: <a href=\"https://doi.org/10.5281/zenodo.7574659\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.5281/zenodo.7574659</span><span class=\"invisible\"></span></a> \ud83e\udd81 <a href=\"https://mastodon.social/tags/LetsRORtogether\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LetsRORtogether</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      }
+    ]
+  },
+  {
     "link": "https://osf.io/rcwv2/",
     "title": "https://osf.io/rcwv2/",
     "latest": "2023-01-28T01:06:09+00:00",
@@ -3323,22 +3339,6 @@
     "last_post": {
       "url": "https://sigmoid.social/@aran/109707895633778503",
       "content": "<p>Ankh: Optimized Protein Language Model Unlocks General-Purpose Modelling</p><p>Presents Ankh, the general-purpose protein LM surpassing the SotA with fewer parameters (&lt;10% for pre-training and &lt;7% for inference).</p><p><a href=\"https://arxiv.org/abs/2301.06568\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.06568</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.06468",
-    "title": "https://arxiv.org/abs/2301.06468",
-    "latest": "2023-01-18T02:17:28+00:00",
-    "first": "2023-01-18T02:17:28+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109707804595636224",
-      "content": "<p>Msanii: High Fidelity Music Synthesis on a Shoestring Budget</p><p>This is the first work to successfully employ a diffusion-based model for synthesizing long music samples at high sample rates. </p><p>proj: <a href=\"https://kinyugo.github.io/msanii-demo/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">kinyugo.github.io/msanii-demo/</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.06468\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.06468</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
