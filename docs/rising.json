@@ -1,29 +1,5 @@
 [
   {
-    "link": "https://ourworldindata.org/democracy",
-    "title": "Democracy",
-    "latest": "2023-01-27T15:44:59+00:00",
-    "first": "2023-01-27T13:26:35+00:00",
-    "last_post": {
-      "url": "https://sciences.social/@bastianherre/109761195723658435",
-      "content": "<p>We just published our new topic page on Democracy at Our World In Data:</p><p><a href=\"https://ourworldindata.org/democracy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ourworldindata.org/democracy</span><span class=\"invisible\"></span></a></p><p>There you can find data, visualizations, and writing on the development and state of democracy worldwide.</p><p>A \ud83e\uddf5 of what the new page has in store:</p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@edmat",
-        "display_name": "Edouard Mathieu"
-      },
-      {
-        "url": "https://mas.to/@maxroser",
-        "display_name": "Max Roser"
-      },
-      {
-        "url": "https://curbal.social/@ruthpozuelo",
-        "display_name": "Ruth Pozuelo Martinez"
-      }
-    ]
-  },
-  {
     "link": "https://musgrave.substack.com/p/its-hip-to-be-square",
     "title": "It's Hip to Be Square",
     "latest": "2023-01-27T22:12:42+00:00",
@@ -44,106 +20,6 @@
       {
         "url": "https://social.coop/@Laura",
         "display_name": "Laura James"
-      }
-    ]
-  },
-  {
-    "link": "https://lnkd.in/gkWHGW8m",
-    "title": "https://lnkd.in/gkWHGW8m",
-    "latest": "2023-01-27T13:16:33+00:00",
-    "first": "2023-01-27T14:56:17+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@paezha/109761357007895075",
-      "content": "<p>Related to this definition of accessibility, a paper recently written by myself and co-authors Antonio Paez, Chris Higgins, and Moataz Mohamed is now live! This paper introduces a competitive accessibility measure, \u2b50spatial availability\u2b50 and briefly discusses how it could be used for <a href=\"https://mastodon.online/tags/equitable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>equitable</span></a> accessibility planning (that is on the agenda for further investigation \ud83d\ude0e). The paper is open access and available here:</p><p>\ud83d\udd78\ufe0f: <a href=\"https://lnkd.in/gkWHGW8m\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">lnkd.in/gkWHGW8m</span><span class=\"invisible\"></span></a><br> <br><a href=\"https://mastodon.online/tags/transportation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transportation</span></a> <a href=\"https://mastodon.online/tags/accessibility\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>accessibility</span></a> <a href=\"https://mastodon.online/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@ZorzalErrante",
-        "display_name": "Eduardo Graells-Garrido \ud83d\udc26"
-      },
-      {
-        "url": "https://mastodon.online/@paezha",
-        "display_name": "Antonio P\u00e1ez"
-      }
-    ]
-  },
-  {
-    "link": "https://www.tylermw.com/roadtripping-america-in-r-turning-spatial-data-into-animations-with-rayshader/",
-    "title": "tylermw.com/roadtripping-ameri...",
-    "latest": "2023-01-27T15:25:34+00:00",
-    "first": "2023-01-27T14:37:25+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@tylermorganwall/109761674960472683",
-      "content": "<p>\u203c\ufe0fNew tutorial! Learn how to turn spatial data into beautiful animations entirely in <a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> with <a href=\"https://fosstodon.org/tags/rayshader\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayshader</span></a> and <a href=\"https://fosstodon.org/tags/rayrender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayrender</span></a>! Create beautiful 3D animations out of your hikes, bike rides, animal tracks, CEO flights, etc\ud83d\ude09</p><p>Also, you'll learn how to perform motion interpolation in ffmpeg so you only need to render half the number of frames and still get a nice, smooth render!</p><p>Blog post:<br><a href=\"https://www.tylermw.com/roadtripping-america-in-r-turning-spatial-data-into-animations-with-rayshader/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tylermw.com/roadtripping-ameri</span><span class=\"invisible\">ca-in-r-turning-spatial-data-into-animations-with-rayshader/</span></a></p><p><a href=\"https://fosstodon.org/tags/Dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Dataviz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@tylermorganwall",
-        "display_name": "Tyler Morgan-Wall"
-      },
-      {
-        "url": "https://fosstodon.org/@terence",
-        "display_name": "terence"
-      }
-    ]
-  },
-  {
-    "link": "https://blogs.worldbank.org/impactevaluations/weekly-links-january-27-data-legality-stata-tips-learning-many-many-rejections",
-    "title": "Weekly links January 27: data legality, stata tips, learning from many many rejections, and more\u2026",
-    "latest": "2023-01-27T15:40:52+00:00",
-    "first": "2023-01-27T14:18:39+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@dmckenzie001/109761601197939272",
-      "content": "<p>This week's blog links are up and include an editor reflecting on reasons why almost 1,000 papers were rejected, some Stata tips, an impact evaluation post-doc, more remembering of Martin Ravallion, and more...<a href=\"https://blogs.worldbank.org/impactevaluations/weekly-links-january-27-data-legality-stata-tips-learning-many-many-rejections\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.worldbank.org/impacteval</span><span class=\"invisible\">uations/weekly-links-january-27-data-legality-stata-tips-learning-many-many-rejections</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@dmckenzie001",
-        "display_name": "David McKenzie"
-      },
-      {
-        "url": "https://econtwitter.net/@ckrafftc",
-        "display_name": "Caroline Krafft"
-      }
-    ]
-  },
-  {
-    "link": "https://mastodon.social/@gruber/109759583658618441",
-    "title": "John Gruber (@gruber@mastodon.social)",
-    "latest": "2023-01-27T13:00:38+00:00",
-    "first": "2023-01-27T14:21:16+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@dlx/109761137546371911",
-      "content": "<p>Yup, it's too easy of a problem to fix client-side and if you want to seize that momentum, you need make pragmatic UX decisions and assume clients to do what they want. I expect CW and Search to shake out similarly <a href=\"https://mastodon.social/@gruber/109759583658618441\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@gruber/109759</span><span class=\"invisible\">583658618441</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@robinsonmeyer",
-        "display_name": "robinsonmeyer"
-      },
-      {
-        "url": "https://mastodon.social/@ctietze",
-        "display_name": "Christian Tietze"
-      }
-    ]
-  },
-  {
-    "link": "https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen",
-    "title": "Computational Desire Line Analysis of Cyclists on the Dybb\u00f8lsbro Intersection in Copenhagen | Published in Findings",
-    "latest": "2023-01-27T21:06:36+00:00",
-    "first": "2023-01-27T13:00:32+00:00",
-    "last_post": {
-      "url": "https://datasci.social/@mszll/109761294015351388",
-      "content": "<p>Just created this funny image from our recent paper about <a href=\"https://datasci.social/tags/bicycle\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bicycle</span></a> trajectories. </p><p><a href=\"https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">findingspress.org/article/5668</span><span class=\"invisible\">3-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@mszll",
-        "display_name": "Michael Szell"
-      },
-      {
-        "url": "https://datasci.social/@ZorzalErrante",
-        "display_name": "Eduardo Graells-Garrido \ud83d\udc26"
       }
     ]
   },
@@ -244,6 +120,46 @@
       {
         "url": "https://octodon.social/@Eramdam",
         "display_name": "Damien \u2728"
+      }
+    ]
+  },
+  {
+    "link": "http://ls.st/q8f",
+    "title": "http://ls.st/q8f",
+    "latest": "2023-01-28T14:58:26+00:00",
+    "first": "2023-01-27T19:25:09+00:00",
+    "last_post": {
+      "url": "https://astrodon.social/@VRubinObs/109762751750475187",
+      "content": "<p>Want to work with us? Don't miss your chance! We're <a href=\"https://astrodon.social/tags/hiring\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hiring</span></a> for two positions with deadlines coming soon!</p><p>\ud83e\ude90Head of Education &amp; Public Outreach\ud83e\ude90<br>Apply by February 3 at <a href=\"http://ls.st/q8f\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">ls.st/q8f</span><span class=\"invisible\"></span></a></p><p>\ud83d\udd2dObserving Specialist Manager\ud83d\udd2d<br>Apply by February 3 at <a href=\"http://ls.st/hp2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">ls.st/hp2</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@ChrisWalter",
+        "display_name": "Chris Walter"
+      },
+      {
+        "url": "https://fosstodon.org/@arfon",
+        "display_name": "Arfon Smith"
+      }
+    ]
+  },
+  {
+    "link": "http://ls.st/hp2",
+    "title": "http://ls.st/hp2",
+    "latest": "2023-01-28T14:58:26+00:00",
+    "first": "2023-01-27T19:25:09+00:00",
+    "last_post": {
+      "url": "https://astrodon.social/@VRubinObs/109762751750475187",
+      "content": "<p>Want to work with us? Don't miss your chance! We're <a href=\"https://astrodon.social/tags/hiring\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hiring</span></a> for two positions with deadlines coming soon!</p><p>\ud83e\ude90Head of Education &amp; Public Outreach\ud83e\ude90<br>Apply by February 3 at <a href=\"http://ls.st/q8f\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">ls.st/q8f</span><span class=\"invisible\"></span></a></p><p>\ud83d\udd2dObserving Specialist Manager\ud83d\udd2d<br>Apply by February 3 at <a href=\"http://ls.st/hp2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">ls.st/hp2</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@ChrisWalter",
+        "display_name": "Chris Walter"
+      },
+      {
+        "url": "https://fosstodon.org/@arfon",
+        "display_name": "Arfon Smith"
       }
     ]
   },
@@ -364,6 +280,26 @@
       {
         "url": "https://xoxo.zone/@lauraehall",
         "display_name": "Laura E. Hall"
+      }
+    ]
+  },
+  {
+    "link": "https://interconnected.org/home/2023/01/27/copilot",
+    "title": "AI-generated code helps me learn and makes experimenting faster",
+    "latest": "2023-01-28T14:52:26+00:00",
+    "first": "2023-01-28T10:00:21+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@genmon/109766247799128524",
+      "content": "<p>GitHub Copilot is my-laptop-is-haunted good \u2014 but what I hadn\u2019t expected about having AI autocomplete is that it would let me experiment faster, and keep me learning</p><p>(Plus some bonus notes about what I find most intriguing about large language models, because ChatGPT kinda leaves me cold)</p><p><a href=\"https://interconnected.org/home/2023/01/27/copilot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">interconnected.org/home/2023/0</span><span class=\"invisible\">1/27/copilot</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@genmon",
+        "display_name": "Matt Webb"
+      },
+      {
+        "url": "https://social.coop/@ming",
+        "display_name": "Flemming Funch"
       }
     ]
   }
