@@ -128,34 +128,6 @@
     ]
   },
   {
-    "link": "https://fedi.garden/",
-    "title": "https://fedi.garden",
-    "latest": "2023-01-25T19:20:38+00:00",
-    "first": "2023-01-25T00:56:04+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@feditips/109751136501619720",
-      "content": "<p>As you might have seen in the last boost, I've started a new server directory site to help people sign up on Mastodon and the Fediverse:</p><p>\u27a1\ufe0f <a href=\"https://fedi.garden\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fedi.garden</span><span class=\"invisible\"></span></a></p><p>If you want to follow the project, its account is at:</p><p>\u27a1\ufe0f <span class=\"h-card\"><a href=\"https://social.growyourown.services/@FediGarden\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FediGarden</span></a></span> </p><p>Reasons for making this directory:</p><p>-It will list both Mastodon and non-Mastodon servers.<br>-It has a maximum size, megaservers aren't listed.<br>-It's manually curated and has safety/reliability requirements.</p><p>As far as I know, no one else is doing this.</p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      },
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
-      },
-      {
-        "url": "https://mastodon.social/@zsteinmetz",
-        "display_name": "Zacharias Steinmetz"
-      },
-      {
-        "url": "https://datasci.social/@mszll",
-        "display_name": "Michael Szell"
-      }
-    ]
-  },
-  {
     "link": "https://www.coalition-s.org/coalition-s-confirms-the-end-of-its-financial-support-for-open-access-publishing-under-transformative-arrangements-after-2024/",
     "title": "cOAlition S confirms the end of its financial support for Open Access publishing under transformative arrangements after 2024 | Plan S",
     "latest": "2023-01-27T16:37:52+00:00",
@@ -636,26 +608,6 @@
       {
         "url": "https://social.coop/@Laura",
         "display_name": "Laura James"
-      }
-    ]
-  },
-  {
-    "link": "https://www.maproomblog.com/2023/01/the-return-of-paper-maps-again/",
-    "title": "The Return of Paper Maps, Again",
-    "latest": "2023-01-25T08:01:15+00:00",
-    "first": "2023-01-25T01:09:28+00:00",
-    "last_post": {
-      "url": "https://mapstodon.space/@maproomblog/109746943609518106",
-      "content": "<p>New post: The Return of Paper Maps, Again <a href=\"https://www.maproomblog.com/2023/01/the-return-of-paper-maps-again/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">maproomblog.com/2023/01/the-re</span><span class=\"invisible\">turn-of-paper-maps-again/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://spacey.space/@nyrath",
-        "display_name": "Winchell Chung \u269b\ud83d\ude80"
-      },
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
       }
     ]
   },
@@ -1562,11 +1514,11 @@
   {
     "link": "https://www.unrealengine.com/en-US/tech-blog/bringing-nanite-to-fortnite-battle-royale-in-chapter-4",
     "title": "Bringing Nanite to <em>Fortnite Battle Royale </em>in Chapter 4",
-    "latest": "2023-01-27T17:50:42+00:00",
+    "latest": "2023-01-28T01:25:41+00:00",
     "first": "2023-01-27T09:25:55+00:00",
     "last_post": {
-      "url": "https://mastodon.gamedev.place/@aras/109760114071373721",
-      "content": "<p>Unreal folks just wrote three nice blog posts about UE5 improvements they did for the new fortnite chapter. </p><p>Nanite: <a href=\"https://www.unrealengine.com/en-US/tech-blog/bringing-nanite-to-fortnite-battle-royale-in-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/bringing-nanite-to-fortnite-battle-royale-in-chapter-4</span></a></p><p>Lumen: <a href=\"https://www.unrealengine.com/en-US/tech-blog/lumen-brings-real-time-global-illumination-to-fortnite-battle-royale-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/lumen-brings-real-time-global-illumination-to-fortnite-battle-royale-chapter-4</span></a></p><p>Virtual Shadow Maps: <a href=\"https://www.unrealengine.com/en-US/tech-blog/virtual-shadow-maps-in-fortnite-battle-royale-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/virtual-shadow-maps-in-fortnite-battle-royale-chapter-4</span></a></p>"
+      "url": "https://mastodon.gamedev.place/@jamiehayes/109757930937973552",
+      "content": "<p>Here's some of the stuff I've been working on with the Nanite team. Always a good feeling when your team's long-term effort makes it into a shipping product.<br><a href=\"https://www.unrealengine.com/en-US/tech-blog/bringing-nanite-to-fortnite-battle-royale-in-chapter-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">unrealengine.com/en-US/tech-bl</span><span class=\"invisible\">og/bringing-nanite-to-fortnite-battle-royale-in-chapter-4</span></a></p>"
     },
     "people": [
       {
@@ -1856,6 +1808,26 @@
       {
         "url": "https://mastodon.social/@randomwalker",
         "display_name": "Arvind Narayanan"
+      }
+    ]
+  },
+  {
+    "link": "https://eggplant.show/108-finding-games-in-art-with-vectorpark-windosill",
+    "title": "Eggplant: The Secret Lives of Games: 108: Designing For Delight with Vectorpark (Windosill)",
+    "latest": "2023-01-28T01:22:54+00:00",
+    "first": "2023-01-27T23:03:52+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@eggplantshow/109763656929349514",
+      "content": "<p>108: Designing For Delight with Vectorpark (Windosill)</p><p><span class=\"h-card\"><a href=\"https://mastodon.social/@vectorpark\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vectorpark</span></a></span>  joins us to discuss his curious and inspiring oeuvre, the lost art of Flash games and DVD menus, and the pros and cons of keeping your art to yourself.</p><p>Links to listen and show notes at:<br><a href=\"https://eggplant.show/108-finding-games-in-art-with-vectorpark-windosill\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">eggplant.show/108-finding-game</span><span class=\"invisible\">s-in-art-with-vectorpark-windosill</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@helvetica",
+        "display_name": "Zach Gage"
+      },
+      {
+        "url": "https://xoxo.zone/@lauraehall",
+        "display_name": "Laura E. Hall"
       }
     ]
   }
