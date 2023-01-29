@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md",
+    "title": "armstrong-distributed-systems/erlang-is-not-about.md at main \u00b7 stevana/armstrong-distributed-systems",
+    "latest": "2023-01-29T05:58:19+00:00",
+    "first": "2023-01-29T05:58:19+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@chrisshank/109770958431697898",
+      "content": "<p>\u201cErlang's not about lightweight processes and message passing...\u201d (2023)</p><p><a href=\"https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/stevana/armstrong-d</span><span class=\"invisible\">istributed-systems/blob/main/docs/erlang-is-not-about.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chrisshank",
+        "display_name": "\ud835\udd6e"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/hodgesmr/mastodon_digest",
     "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
     "latest": "2023-01-29T01:09:03+00:00",
@@ -3400,22 +3416,6 @@
       {
         "url": "https://discuss.systems/@heather",
         "display_name": "Heather Miller"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/d97f467c0d27695d23edad5e4f8898a57e0ccb00",
-    "title": "add license file \u00b7 AUTOMATIC1111/stable-diffusion-webui@d97f467",
-    "latest": "2023-01-18T10:55:40+00:00",
-    "first": "2023-01-18T10:55:40+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@stablehorde/109709711242016809",
-      "content": "<p>Automatic1111's Stable Diffusion WebUI went FOSS 3 days ago! <a href=\"https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/d97f467c0d27695d23edad5e4f8898a57e0ccb00\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AUTOMATIC1111/stabl</span><span class=\"invisible\">e-diffusion-webui/commit/d97f467c0d27695d23edad5e4f8898a57e0ccb00</span></a></p><p>Finally! </p><p>I wonder if they'll be subject to copyright trolling from previous contributors who hate GPL though.</p><p><a href=\"https://sigmoid.social/tags/GPL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GPL</span></a> <a href=\"https://sigmoid.social/tags/stablediffusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>stablediffusion</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
       }
     ]
   }

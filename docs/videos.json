@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://www.youtube.com/embed/HRgDw8Q7ttQ?start=1747&amp;end=1925&amp;autoplay=0",
+    "title": "youtube.com/embed/HRgDw8Q7ttQ?...",
+    "latest": "2023-01-29T06:08:00+00:00",
+    "first": "2023-01-29T06:08:00+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@judell/109770996463028795",
+      "content": "<p>\"Knud Rasmussen's life mission was to know the world as the Inuit did, to understand the patterns of their lives, to enter their realms of magic and shamanic power. With knowledge as his goal, cultural understanding the quest, he completely redefined the promise and potential of exploration, not to mention ethnography. \"</p><p>In his powerful new Long Now talk, Wade Davis reminds us what ethnography used to be, and ought to be again.</p><p><a href=\"https://mastodon.social/tags/LongNow\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LongNow</span></a> <a href=\"https://mastodon.social/tags/anthropology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>anthropology</span></a> <a href=\"https://mastodon.social/tags/ethnography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethnography</span></a></p><p><a href=\"https://www.youtube.com/embed/HRgDw8Q7ttQ?start=1747&amp;end=1925&amp;autoplay=0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/embed/HRgDw8Q7ttQ?</span><span class=\"invisible\">start=1747&amp;end=1925&amp;autoplay=0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
+      }
+    ]
+  },
+  {
+    "link": "https://youtu.be/zrSGnz7ErNI",
+    "title": "https://youtu.be/zrSGnz7ErNI",
+    "latest": "2023-01-29T05:15:23+00:00",
+    "first": "2023-01-29T05:15:23+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109770789569424359",
+      "content": "<p>Finally watched <span class=\"h-card\"><a href=\"https://hachyderm.io/@cldellow\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cldellow</span></a></span>'s video introduction to his datasette-scraper plugin and it is a really compelling demo! <a href=\"https://youtu.be/zrSGnz7ErNI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/zrSGnz7ErNI</span><span class=\"invisible\"></span></a></p><p>The plugin turns Datasette into a full web scraping environment, with the ability to configure crawls, watch your crawl queue and extract data from crawled pages into separate SQLite tables</p><p>It's really impressive, and also provides a fascinating example of advanced Datasette UI customization by a plugin</p><p>More info on the plugin here: <a href=\"https://datasette.io/plugins/datasette-scraper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">datasette.io/plugins/datasette</span><span class=\"invisible\">-scraper</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://www.youtube.com/watch?v=JnynW4Jbu_M",
     "title": "Speaker Series: Nathan Matias, \"Governing Human & Machine Behavior\"",
     "latest": "2023-01-29T01:41:06+00:00",
@@ -3208,38 +3240,6 @@
       {
         "url": "https://mastodon.social/@ummjackson",
         "display_name": "Jackson Palmer"
-      }
-    ]
-  },
-  {
-    "link": "https://youtu.be/axZ4YDS4f_A",
-    "title": "https://youtu.be/axZ4YDS4f_A",
-    "latest": "2023-01-14T19:51:34+00:00",
-    "first": "2023-01-14T19:51:34+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@andrey/109689300252301044",
-      "content": "<p>Really fun video showing the user experience of the Replika app, which sells a virtual \"AI friend\". Spoiler: it's not good. </p><p><a href=\"https://youtu.be/axZ4YDS4f_A\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/axZ4YDS4f_A</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@andrey",
-        "display_name": "Andrey Kurenkov"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=FZD7m-z0Ejk",
-    "title": "How To Add a Speed Control to a Cassette Player | Tape Tutorial Mod DIY",
-    "latest": "2023-01-14T19:00:28+00:00",
-    "first": "2023-01-14T19:00:28+00:00",
-    "last_post": {
-      "url": "https://social.coop/@natematias/109689099260881857",
-      "content": "<p>To passively collect air pollution over time, I've been thinking about speed-modding a cassette player into a \"videocamera\" for dust. </p><p>For ex, I could cut an aperture in the side of the case, add sticky tape reels instead of a cassette, and speed-mod the servos to make it very slow.</p><p>I could point the aperture forward when riding the bicycle. After the ride, I would un-roll the tape (yes, losing some particles) and have a record of particles in the air along the ride</p><p><a href=\"https://www.youtube.com/watch?v=FZD7m-z0Ejk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=FZD7m-z0Ej</span><span class=\"invisible\">k</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@natematias",
-        "display_name": "J. Nathan Matias \ud83e\udda3"
       }
     ]
   }
