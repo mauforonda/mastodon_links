@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=__aWbKC7EN8",
+    "title": "BBR Based Congestion Control with Hannes Sowa [PWL NYC]",
+    "latest": "2023-01-29T12:15:06+00:00",
+    "first": "2023-01-29T12:15:06+00:00",
+    "last_post": {
+      "url": "https://mstdn.io/@paperswelove/109772439972855105",
+      "content": "<p>BBR Based Congestion Control with Hannes Sowa [PWL NYC] - originally posted on Mar 28, 2018 </p><p>\ud83d\udcfa <a href=\"https://www.youtube.com/watch?v=__aWbKC7EN8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=__aWbKC7EN</span><span class=\"invisible\">8</span></a></p><p><a href=\"https://mstdn.io/tags/paperswelove\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperswelove</span></a> <a href=\"https://mstdn.io/tags/video\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>video</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.io/@paperswelove",
+        "display_name": "Papers We Love"
+      }
+    ]
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=4niz8TfY794",
+    "title": "Twelve Tones",
+    "latest": "2023-01-29T10:08:29+00:00",
+    "first": "2023-01-29T10:08:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@rygorous/109771942086566574",
+      "content": "<p>This got me rewatching <a href=\"https://www.youtube.com/watch?v=4niz8TfY794\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=4niz8TfY79</span><span class=\"invisible\">4</span></a></p><p>no regrets</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@rygorous",
+        "display_name": "Fabian Giesen"
+      }
+    ]
+  },
+  {
     "link": "https://youtu.be/LWS8LEQAUVc?t=747",
     "title": "https://youtu.be/LWS8LEQAUVc?t=747",
     "latest": "2023-01-29T08:19:02+00:00",
@@ -3212,38 +3244,6 @@
       {
         "url": "https://mastodon.social/@chrisshank",
         "display_name": "\ud835\udd6e"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/@emilsprogrammingviz1811",
-    "title": "youtube.com/@emilsprogrammingv...",
-    "latest": "2023-01-15T01:32:47+00:00",
-    "first": "2023-01-15T01:32:47+00:00",
-    "last_post": {
-      "url": "https://functional.cafe/@PaniczGodek/109690099809230788",
-      "content": "<p>Recent announcement of Project Mage inspired me to write a short tour around the current scene of <a href=\"https://functional.cafe/tags/StructuralEditing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StructuralEditing</span></a> - from my perspective, so I shall begin with the projects that resonate with me most strongly.</p><p>So, the number 1 is <span class=\"h-card\"><a href=\"https://toot.leif.pl/users/leif\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>leif</span></a></span> 's work on \"Interactive Visual Syntax\", as explained here:</p><p><a href=\"https://www.youtube.com/watch?v=8htgAxJuK5c\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=8htgAxJuK5</span><span class=\"invisible\">c</span></a></p><p>(Leif also implemented this idea in the visr.pl online IDE)</p><p>Number 2 is <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@vez\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vez</span></a></span> 's Polytope editor for JavaScript:</p><p><a href=\"https://www.youtube.com/watch?v=8g_XCZSY7lM\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=8g_XCZSY7l</span><span class=\"invisible\">M</span></a></p><p>I was also hugely impressed with <span class=\"h-card\"><a href=\"https://types.pl/@disconcision\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>disconcision</span></a></span> 's Fructure, which - except just being a beautiful user experience also is a beautiful implementation:</p><p><a href=\"https://www.youtube.com/watch?v=CnbVCNIh1NA\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=CnbVCNIh1N</span><span class=\"invisible\">A</span></a></p><p>Andy has since moved to other places, contributing to Cyrus Omar's hazel.org and David Moon's tylr.fun</p><p>Not long after releasing my first prototype of GRASP, I ran into Yasuyuki Maeda (who's Japanese, but happened to be touring around Europe at that time), who did this really amazing front-end for Clojure:</p><p><a href=\"https://www.youtube.com/watch?v=RuU0HI-paik\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=RuU0HI-pai</span><span class=\"invisible\">k</span></a></p><p>Within the same space, there's Ella Hoeppner's Vlojure for ClojureScript:</p><p><a href=\"https://www.youtube.com/watch?v=1OcAUhe3E1E\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=1OcAUhe3E1</span><span class=\"invisible\">E</span></a></p><p>Katie Bell did a sort of similar work for Python that can be found at splootcode.io</p><p><span class=\"h-card\"><a href=\"https://indieweb.social/@o_kryvonos\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>o_kryvonos</span></a></span> living in Ukraine under russian fire managed to deliver Lisperanto:<br><a href=\"https://www.youtube.com/watch?v=QNyuMK8ZrHI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=QNyuMK8ZrH</span><span class=\"invisible\">I</span></a></p><p>Among Ukrainian hackers, there's also Ivan Daniluk, who has some very interesting thoughts concerning \"visual programming\": <a href=\"https://www.youtube.com/watch?v=Ps3mBPcjySE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=Ps3mBPcjyS</span><span class=\"invisible\">E</span></a></p><p>And of course there's <span class=\"h-card\"><a href=\"https://mastodon.social/@jonathoda\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jonathoda</span></a></span> who - in addition to doing crazy experiments with his SubText (e.g. <a href=\"https://vimeo.com/451278506\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">vimeo.com/451278506</span><span class=\"invisible\"></span></a>) has been doing wonderful stuff in bringing the community together with various workshops and other social initiatives.</p><p>Also, a lot of cool ideas can be found on \"Emil's Programming Viz\" vlog:</p><p><a href=\"https://www.youtube.com/@emilsprogrammingviz1811\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/@emilsprogrammingv</span><span class=\"invisible\">iz1811</span></a></p><p>When it comes to visual thinking about computation, the ideas of <span class=\"h-card\"><a href=\"https://mastodon.social/@spiralganglion\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>spiralganglion</span></a></span> on the Hest programming environment are really outstanding, as is his conduction of the \"Future of Coding\" podcast (and taking <span class=\"h-card\"><a href=\"https://hachyderm.io/@jimmyhmiller\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jimmyhmiller</span></a></span> on board was certainly a great idea).</p><p>Yair Chuchem (and others) also did impressive work with the Lambdu programming environment, and Yair himself created this wonderful list of \"awesome structure editors\":<br><a href=\"https://github.com/yairchu/awesome-structure-editors\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/yairchu/awesome-str</span><span class=\"invisible\">ucture-editors</span></a></p><p>If you feel that this list is incomplete or that your project (or some other important project) is missing from here, it's perhaps also because 2500 characters on this mastodon instance aren't all that much, but of course feel free to add replies to this toot.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@chrisshank",
-        "display_name": "\ud835\udd6e"
-      }
-    ]
-  },
-  {
-    "link": "https://youtu.be/TLL8jARrdTQ",
-    "title": "https://youtu.be/TLL8jARrdTQ",
-    "latest": "2023-01-15T01:23:36+00:00",
-    "first": "2023-01-15T01:23:36+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jonkeegan/109690605839718714",
-      "content": "<p>It doesn't matter what comes,</p><p>fresh goes better in life, with<br>Mentos fresh and full of life!</p><p>Nothing gets to you, staying<br>fresh staying cool, with<br>Mentos, fresh and full of life!</p><p>Fresh goes better</p><p>Mentos freshness<br>Fresh goes better with Mentos<br>fresh and full of life!</p><p>Mentos, the freshmaker!</p><p><a href=\"https://youtu.be/TLL8jARrdTQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/TLL8jARrdTQ</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
       }
     ]
   }

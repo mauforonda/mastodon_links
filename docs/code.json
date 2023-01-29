@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/PyCQA/isort/pull/2078",
+    "title": "Fix poetry pip-shims extras dependency by jooola \u00b7 Pull Request #2078 \u00b7 PyCQA/isort",
+    "latest": "2023-01-29T12:03:12+00:00",
+    "first": "2023-01-29T11:59:27+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hugovk/109772393164209861",
+      "content": "<p>Got lots of repos to update?</p><p>You can use all-repos-sed with something like this:</p><p>all-repos-sed --dry-run --commit-msg $\"Bump isort to fix Poetry\\n\\nRe: <a href=\"https://github.com/PyCQA/isort/pull/2078\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/PyCQA/isort/pull/20</span><span class=\"invisible\">78</span></a>\" 's~rev: 5\\.1.\\..~rev: 5.12.0~g' -- '.pre-commit-config.yaml'</p><p>Remove --dry-run to create PRs, after checking the regex is working fine for you.</p><p>Setup instructions:</p><p><a href=\"https://jugmac00.github.io/blog/how-to-create-hundreds-of-pull-requests-with-a-single-command/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jugmac00.github.io/blog/how-to</span><span class=\"invisible\">-create-hundreds-of-pull-requests-with-a-single-command/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hugovk",
+        "display_name": "hugovk"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/PyCQA/isort",
+    "title": "https://github.com/PyCQA/isort",
+    "latest": "2023-01-29T11:59:27+00:00",
+    "first": "2023-01-29T11:59:27+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hugovk/109772378418354681",
+      "content": "<p><a href=\"https://mastodon.social/tags/isort\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>isort</span></a> failing on <a href=\"https://mastodon.social/tags/CI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CI</span></a> in <a href=\"https://mastodon.social/tags/precommit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>precommit</span></a> in with this?</p><p>[extras.pipfile_deprecated_finder.2] 'pip-shims&lt;=0.3.4' does not match '^[a-zA-Z-_.0-9]+$'</p><p>It's fixed in <a href=\"https://github.com/PyCQA/isort/pull/2078\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/PyCQA/isort/pull/20</span><span class=\"invisible\">78</span></a>, bump your isort to 5.12.0.</p><p>Update with:</p><p>pre-commit autoupdate</p><p>Or:</p><p>pre-commit autoupdate --repo <a href=\"https://github.com/PyCQA/isort\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/PyCQA/isort</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hugovk",
+        "display_name": "hugovk"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/RandomFractals/chicago-crimes#with-duckdb-sql-tools",
+    "title": "GitHub - RandomFractals/chicago-crimes: Exploring Chicago crimes dataset with Jupyter notebooks, DuckDB, Malloy and new Panel/PyScript data and dashboard tools.",
+    "latest": "2023-01-29T11:30:33+00:00",
+    "first": "2023-01-29T11:30:33+00:00",
+    "last_post": {
+      "url": "https://vis.social/@dataSamurai/109772264802546238",
+      "content": "<p>Quick demo of our new <a href=\"https://vis.social/tags/DuckDBSqlTools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DuckDBSqlTools</span></a> vscode extension loading and querying 7,687,725 <a href=\"https://vis.social/tags/ChicagoCrimes\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChicagoCrimes</span></a> recorded in 2001 through the end of November 2022 from a large 1.68 GB CSV data file in seconds ... See demo gif at:</p><p>\ud83d\udcf0 <a href=\"https://github.com/RandomFractals/chicago-crimes#with-duckdb-sql-tools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/RandomFractals/chic</span><span class=\"invisible\">ago-crimes#with-duckdb-sql-tools</span></a></p><p><a href=\"https://vis.social/tags/DuckDB\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DuckDB</span></a> <a href=\"https://vis.social/tags/SqlTools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SqlTools</span></a> <a href=\"https://vis.social/tags/VSCode\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VSCode</span></a> <a href=\"https://vis.social/tags/DataTools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataTools</span></a> \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@dataSamurai",
+        "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/volarjs/volar.js/pull/7",
     "title": "feat: `@volar/kit` by johnsoncodehk \u00b7 Pull Request #7 \u00b7 volarjs/volar.js",
     "latest": "2023-01-29T08:34:01+00:00",
@@ -3356,54 +3404,6 @@
       {
         "url": "https://infosec.exchange/@hacks4pancakes",
         "display_name": "Lesley Carhart :unverified:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/processing/processing4/releases",
-    "title": "Releases \u00b7 processing/processing4",
-    "latest": "2023-01-18T18:45:27+00:00",
-    "first": "2023-01-16T21:40:31+00:00",
-    "last_post": {
-      "url": "https://information.garden/@benfry/109701053283080302",
-      "content": "<p>Happy MLK Day! </p><p>Processing 4.1.2 now posted: <a href=\"https://github.com/processing/processing4/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/processing/processi</span><span class=\"invisible\">ng4/releases</span></a></p><p>\ud83e\uddd1\u200d\ud83d\udcbc Updates to the Contribution Manager<br>\ud83d\udcd3 Eliminating quirks from the Preprocessor <br>\ud83e\udeb2 Bug fixes and more bug fixes</p><p>Give it a try / share with your friends / and your enemies too / spread the good news far and wide\u2026 \ud83c\udf99 \ud83d\udde3 \ud83d\udcec \ud83d\ude49</p>"
-    },
-    "people": [
-      {
-        "url": "https://information.garden/@benfry",
-        "display_name": "Ben Fry"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/WICG/scheduling-apis/blob/main/misc/userspace-schedulers.md",
-    "title": "scheduling-apis/userspace-schedulers.md at main \u00b7 WICG/scheduling-apis",
-    "latest": "2023-01-18T17:17:26+00:00",
-    "first": "2023-01-18T17:17:26+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@geoffreylitt/109711343377227366",
-      "content": "<p>TIL that Google Maps implements a scheduler in the browser main thread, similar to React!</p><p>Wild how much work it takes to get amazing perf for complex apps on web</p><p><a href=\"https://github.com/WICG/scheduling-apis/blob/main/misc/userspace-schedulers.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/WICG/scheduling-api</span><span class=\"invisible\">s/blob/main/misc/userspace-schedulers.md</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@geoffreylitt",
-        "display_name": "Geoffrey Litt"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tylergaw/wax/issues",
-    "title": "Issues \u00b7 tylergaw/wax",
-    "latest": "2023-01-18T15:16:56+00:00",
-    "first": "2023-01-18T15:16:56+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@tylergaw/109710833145332201",
-      "content": "<p>Working on a new side project that's been on my mind forever. To keep moving it forward, I'm doing an exercise that's worked in the past for me. It's; \"do at least one thing a day on it, no matter how small\". Helping myself by putting in issues <a href=\"https://github.com/tylergaw/wax/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tylergaw/wax/issues</span><span class=\"invisible\"></span></a> beforehand, because it's also helpful to do the one thing in the morning before the day wears me out.</p><p>Building a fun viewer for my records using Astro and the Discogs API.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
       }
     ]
   }
