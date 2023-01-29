@@ -1,5 +1,121 @@
 [
   {
+    "link": "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition",
+    "title": "GitHub - EnterpriseQualityCoding/FizzBuzzEnterpriseEdition: FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.",
+    "latest": "2023-01-29T18:10:56+00:00",
+    "first": "2023-01-29T18:10:56+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@paco/109773642809734559",
+      "content": "<p>I need help finding something I saw many years ago. Can anybody point me in the right direction? It was a tweet or a blog post or something where it showed the same program (e.g., Hello world) written by a startup (just main() { printf(...); }) on up to enterprise quality coding with abstract factory factories and absurd levels of abstraction. I found <a href=\"https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">this hilarious repo</a> which is the ultimate expression of enterprise coding. But I'm looking to show the spectrum and I can't find the post. Anybody?</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Edent",
+        "display_name": "Terence Eden"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/asiekierka/almost-of-zzt",
+    "title": "GitHub - asiekierka/almost-of-zzt: (Almost) development backup of ZZT's original source code.",
+    "latest": "2023-01-29T17:58:49+00:00",
+    "first": "2023-01-28T23:12:37+00:00",
+    "last_post": {
+      "url": "https://mk.asie.pl/notes/9ak03q7mal",
+      "content": "<p><span>According to Tim Sweeney, the original ZZT source code was lost in the early 90s: \"[... If] I had it, I'd release it, but I lost it in a crash a long time ago.\"<br><br>But they were all of them deceived, for another backup was made.<br><br>This is an (almost) unaltered copy of the actual ZZT ~3.0 source code - not decompiled, not reverse-engineered, but preserved for its historical value.<br><br>You wouldn't believe me if I told you how many years I spent looking for it, after catching wind of where it might be... For three decades, the ZZT community hoped it would turn up. For two, it thought it was impossible. And yet, here we are.<br><br>I'm really happy to have been able to contribute to the ZZT community's preservation efforts for all these years. Thank you. This is probably my magnum opus.<br><br></span><a href=\"https://github.com/asiekierka/almost-of-zzt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/asiekierka/almost-of-zzt</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      },
+      {
+        "url": "https://friend.camp/@aparrish",
+        "display_name": "allison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/LAION-AI/Open-Assistant",
+    "title": "github.com/LAION-AI/Open-Assis...",
+    "latest": "2023-01-29T17:16:32+00:00",
+    "first": "2023-01-29T17:16:32+00:00",
+    "last_post": {
+      "url": "https://social.coop/@bmann/109773625254574523",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@blaine\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>blaine</span></a></span> <span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@mattb\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mattb</span></a></span> paper from Apple itself on Stable Diffusion <a href=\"https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">machinelearning.apple.com/rese</span><span class=\"invisible\">arch/stable-diffusion-coreml-apple-silicon</span></a></p><p>There are several howtos and packages. </p><p>I know you\u2019re probably asking for ChatGPT~ish stuff rather than images. <a href=\"https://social.coop/tags/OpenAssistant\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenAssistant</span></a> appears to be a good OSS direction <a href=\"https://github.com/LAION-AI/Open-Assistant\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/LAION-AI/Open-Assis</span><span class=\"invisible\">tant</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mlverse/libtorch-mac-m1/releases",
+    "title": "Releases \u00b7 mlverse/libtorch-mac-m1",
+    "latest": "2023-01-29T17:14:12+00:00",
+    "first": "2023-01-29T17:14:12+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109773616099190690",
+      "content": "<p>It looks like the answer may involve PyTorch and these unofficial builds for the M1 <a href=\"https://github.com/mlverse/libtorch-mac-m1/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mlverse/libtorch-ma</span><span class=\"invisible\">c-m1/releases</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/EdyVision/pii-codex",
+    "title": "GitHub - EdyVision/pii-codex: A research python package for detecting, categorizing, and assessing the severity of personal identifiable information (PII)",
+    "latest": "2023-01-29T17:07:04+00:00",
+    "first": "2023-01-29T17:07:04+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@arfon/109773588048651527",
+      "content": "<p>This instance (Fosstodon) seems like a good place to ask this question: What's the current thinking on the Hippocratic License (HL3), especially when paired with an OSI-approved license (in separate files) e.g., <a href=\"https://github.com/EdyVision/pii-codex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/EdyVision/pii-codex</span><span class=\"invisible\"></span></a> \u2013 should this software be considered (OSI-approved) open source?</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@arfon",
+        "display_name": "Arfon Smith"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pytorch/pytorch/issues/77764",
+    "title": "General MPS op coverage tracking issue \u00b7 Issue #77764 \u00b7 pytorch/pytorch",
+    "latest": "2023-01-29T17:06:34+00:00",
+    "first": "2023-01-29T17:06:34+00:00",
+    "last_post": {
+      "url": "https://vis.social/@llimllib/109773586081978482",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> I put reasonably serious effort into trying, but the extremely incomplete state of the torch backend for metal (MPS) [1] stymied me. ATM it seems to me that the arm macs are bad platforms for LLM work, and that seems unlikely to change any time soon</p><p>[1]: <a href=\"https://github.com/pytorch/pytorch/issues/77764\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pytorch/pytorch/iss</span><span class=\"invisible\">ues/77764</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@llimllib",
+        "display_name": "llimllib"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@rreusser/lawsons-klein-bottle",
+    "title": "observablehq.com/@rreusser/law...",
+    "latest": "2023-01-29T15:39:54+00:00",
+    "first": "2023-01-29T15:39:54+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@Danpiker/109773245282834658",
+      "content": "<p>downloadable 3d models:<br><a href=\"https://skfb.ly/oCTA8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">skfb.ly/oCTA8</span><span class=\"invisible\"></span></a><br><a href=\"https://skfb.ly/oo8uO\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">skfb.ly/oo8uO</span><span class=\"invisible\"></span></a><br><a href=\"https://skfb.ly/oo8uP\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">skfb.ly/oo8uP</span><span class=\"invisible\"></span></a><br><a href=\"https://skfb.ly/oBpDW\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">skfb.ly/oBpDW</span><span class=\"invisible\"></span></a><br>References and further reading:</p><p><a href=\"https://math.jhu.edu/~js/Math646/lawson.s3.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">math.jhu.edu/~js/Math646/lawso</span><span class=\"invisible\">n.s3.pdf</span></a></p><p><a href=\"https://arxiv.org/pdf/math/9905020.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/math/9905020.pdf</span><span class=\"invisible\"></span></a></p><p><a href=\"https://www.ams.org/journals/bull/1987-17-02/S0273-0979-1987-15564-9/S0273-0979-1987-15564-9.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">ams.org/journals/bull/1987-17-</span><span class=\"invisible\">02/S0273-0979-1987-15564-9/S0273-0979-1987-15564-9.pdf</span></a></p><p><a href=\"https://observablehq.com/@rreusser/lawsons-klein-bottle\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@rreusser/law</span><span class=\"invisible\">sons-klein-bottle</span></a></p><p><a href=\"https://core.ac.uk/download/pdf/82237784.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">core.ac.uk/download/pdf/822377</span><span class=\"invisible\">84.pdf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@Danpiker",
+        "display_name": ""
+      }
+    ]
+  },
+  {
     "link": "https://github.com/python-humanize/humanize/releases/tag/4.5.0",
     "title": "Release 4.5.0 \u00b7 python-humanize/humanize",
     "latest": "2023-01-29T14:52:21+00:00",
@@ -324,22 +440,6 @@
       {
         "url": "https://econtwitter.net/@fetzert",
         "display_name": "Thiemo Fetzer"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/asiekierka/almost-of-zzt",
-    "title": "GitHub - asiekierka/almost-of-zzt: (Almost) development backup of ZZT's original source code.",
-    "latest": "2023-01-28T23:12:37+00:00",
-    "first": "2023-01-28T23:12:37+00:00",
-    "last_post": {
-      "url": "https://mk.asie.pl/notes/9ak03q7mal",
-      "content": "<p><span>According to Tim Sweeney, the original ZZT source code was lost in the early 90s: \"[... If] I had it, I'd release it, but I lost it in a crash a long time ago.\"<br><br>But they were all of them deceived, for another backup was made.<br><br>This is an (almost) unaltered copy of the actual ZZT ~3.0 source code - not decompiled, not reverse-engineered, but preserved for its historical value.<br><br>You wouldn't believe me if I told you how many years I spent looking for it, after catching wind of where it might be... For three decades, the ZZT community hoped it would turn up. For two, it thought it was impossible. And yet, here we are.<br><br>I'm really happy to have been able to contribute to the ZZT community's preservation efforts for all these years. Thank you. This is probably my magnum opus.<br><br></span><a href=\"https://github.com/asiekierka/almost-of-zzt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/asiekierka/almost-of-zzt</a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
       }
     ]
   },
@@ -3300,110 +3400,6 @@
       {
         "url": "https://mastodon.social/@hrbrmstr",
         "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/dirty-cat/dirty_cat/releases/tag/0.4.0b1",
-    "title": "github.com/dirty-cat/dirty_cat...",
-    "latest": "2023-01-19T09:03:24+00:00",
-    "first": "2023-01-19T09:03:24+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@Soda_Inria/109715059248006210",
-      "content": "<p>dirty_cat 0.4.0 beta version is out!</p><p>Some brand new features in this release:<br>- the fuzzy_join function to join tables on imprecise matches;<br>- the FeatureAugmenter, a scikit-learn Transformer for joining multiple tables with dirty categories;<br>- the deduplicate function can regroup dirty categories in your table.</p><p>You can install it:</p><p>pip install dirty-cat==0.4.0b1</p><p>Try it and give us feedback!</p><p>See all changes: <a href=\"https://github.com/dirty-cat/dirty_cat/releases/tag/0.4.0b1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dirty-cat/dirty_cat</span><span class=\"invisible\">/releases/tag/0.4.0b1</span></a></p><p>And check-out the examples on:<br><a href=\"https://dirty-cat.github.io/dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dirty-cat.github.io/dev/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@GaelVaroquaux",
-        "display_name": "Ga\u00ebl Varoquaux"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jgm/pandoc/releases/tag/3.0",
-    "title": "Release pandoc 3.0 \u00b7 jgm/pandoc",
-    "latest": "2023-01-19T09:01:34+00:00",
-    "first": "2023-01-18T22:16:29+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@tarleb/109712510427975566",
-      "content": "<p><a href=\"https://scholar.social/tags/Pandoc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pandoc</span></a> 3 is finally out! It's been in the works for five months. I'm very excited about the many new features that we built and can't wait to hear what people think about it.<br><a href=\"https://github.com/jgm/pandoc/releases/tag/3.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jgm/pandoc/releases</span><span class=\"invisible\">/tag/3.0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@kjhealy",
-        "display_name": "Kieran Healy"
-      },
-      {
-        "url": "https://mathstodon.xyz/@dginev",
-        "display_name": "Deyan Ginev"
-      },
-      {
-        "url": "https://someone.elses.computer/@mikarv",
-        "display_name": "Michael Veale"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/timothybrooks/instruct-pix2pix",
-    "title": "GitHub - timothybrooks/instruct-pix2pix",
-    "latest": "2023-01-19T08:31:05+00:00",
-    "first": "2023-01-19T08:31:05+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@akhaliq/109714298864495126",
-      "content": "<p>InstructPix2Pix: Learning to Follow Image Editing Instructions code released with @Gradio@twitter.com Demo</p><p>Github: <a href=\"https://github.com/timothybrooks/instruct-pix2pix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/timothybrooks/instr</span><span class=\"invisible\">uct-pix2pix</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Nalen98/GhidraEmu",
-    "title": "GitHub - Nalen98/GhidraEmu: Native Pcode emulator",
-    "latest": "2023-01-19T03:23:29+00:00",
-    "first": "2023-01-19T03:23:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@dave_aitel/109713320181883242",
-      "content": "<p>This is extremely cool - emulate any processor in Ghidra: <a href=\"https://github.com/Nalen98/GhidraEmu\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Nalen98/GhidraEmu</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.social/tags/ghidra\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ghidra</span></a> <a href=\"https://mastodon.social/tags/reverseengineering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reverseengineering</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Hello-SimpleAI/chatgpt-comparison-detection",
-    "title": "github.com/Hello-SimpleAI/chat...",
-    "latest": "2023-01-19T01:36:40+00:00",
-    "first": "2023-01-19T01:36:40+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109713306462366194",
-      "content": "<p>How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection</p><p>Proposes the first Human vs. ChatGPT comparison corpus, named HC3.</p><p>abs: <a href=\"https://arxiv.org/abs/2301.07597\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07597</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/Hello-SimpleAI/chatgpt-comparison-detection\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Hello-SimpleAI/chat</span><span class=\"invisible\">gpt-comparison-detection</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/papers-we-love/papers-we-love/blob/master/languages-paradigms/functional_programming/why-functional-programming-matters.pdf",
-    "title": "github.com/papers-we-love/pape...",
-    "latest": "2023-01-19T00:41:21+00:00",
-    "first": "2023-01-19T00:41:21+00:00",
-    "last_post": {
-      "url": "https://mstdn.io/@paperswelove/109713088926530807",
-      "content": "<p>\ud83d\udcdc Why Functional Programming Matters [1989]</p><p>By: John Hughes</p><p>\ud83d\udcd6 <a href=\"https://github.com/papers-we-love/papers-we-love/blob/master/languages-paradigms/functional_programming/why-functional-programming-matters.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/papers-we-love/pape</span><span class=\"invisible\">rs-we-love/blob/master/languages-paradigms/functional_programming/why-functional-programming-matters.pdf</span></a><br>\ud83d\udd0d <a href=\"https://www.semanticscholar.org/paper/06f9010f117a4a80173ff0bc96ffc71d16645eff\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semanticscholar.org/paper/06f9</span><span class=\"invisible\">010f117a4a80173ff0bc96ffc71d16645eff</span></a></p><p><a href=\"https://mstdn.io/tags/semanticScholar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>semanticScholar</span></a> <a href=\"https://mstdn.io/tags/paperswelove\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperswelove</span></a> <a href=\"https://mstdn.io/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a> <a href=\"https://mstdn.io/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.io/@paperswelove",
-        "display_name": "Papers We Love"
       }
     ]
   }
