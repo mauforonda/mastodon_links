@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/johnsamuelwrites/awesome-wikidata",
+    "title": "GitHub - johnsamuelwrites/awesome-wikidata: Curated list of Wikidata Projects",
+    "latest": "2023-01-29T00:14:54+00:00",
+    "first": "2023-01-29T00:14:54+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jsamwrites/109766846426049913",
+      "content": "<p>With the recent release of Wikidata REST API, the list of awesome services and APIs to work with Wikidata has now been updated</p><p><a href=\"https://github.com/johnsamuelwrites/awesome-wikidata\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/johnsamuelwrites/aw</span><span class=\"invisible\">esome-wikidata</span></a></p><p><a href=\"https://mastodon.social/tags/Wikidata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wikidata</span></a> <a href=\"https://mastodon.social/tags/OpenData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenData</span></a> <a href=\"https://mastodon.social/tags/API\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>API</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@fetzert",
+        "display_name": "Thiemo Fetzer"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/asiekierka/almost-of-zzt",
+    "title": "GitHub - asiekierka/almost-of-zzt: (Almost) development backup of ZZT's original source code.",
+    "latest": "2023-01-28T23:12:37+00:00",
+    "first": "2023-01-28T23:12:37+00:00",
+    "last_post": {
+      "url": "https://mk.asie.pl/notes/9ak03q7mal",
+      "content": "<p><span>According to Tim Sweeney, the original ZZT source code was lost in the early 90s: \"[... If] I had it, I'd release it, but I lost it in a crash a long time ago.\"<br><br>But they were all of them deceived, for another backup was made.<br><br>This is an (almost) unaltered copy of the actual ZZT ~3.0 source code - not decompiled, not reverse-engineered, but preserved for its historical value.<br><br>You wouldn't believe me if I told you how many years I spent looking for it, after catching wind of where it might be... For three decades, the ZZT community hoped it would turn up. For two, it thought it was impossible. And yet, here we are.<br><br>I'm really happy to have been able to contribute to the ZZT community's preservation efforts for all these years. Thank you. This is probably my magnum opus.<br><br></span><a href=\"https://github.com/asiekierka/almost-of-zzt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/asiekierka/almost-of-zzt</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/mszell/sciencememes",
     "title": "GitHub - mszell/sciencememes: Science-inspired visual memes",
     "latest": "2023-01-28T21:01:12+00:00",
@@ -3384,38 +3416,6 @@
       {
         "url": "https://mastodon.online/@tomstafford",
         "display_name": "tomstafford"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@chrispahm/visualizing-wind-turbines-in-3d-using-threebox",
-    "title": "Visualizing wind turbines in 3D using threebox",
-    "latest": "2023-01-18T08:20:38+00:00",
-    "first": "2023-01-18T08:20:38+00:00",
-    "last_post": {
-      "url": "https://vis.social/@neocarto/109709232583157039",
-      "content": "<p>`threebox`, one more javascript library that I absolutely must test. <a href=\"https://vis.social/tags/todolist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>todolist</span></a> <a href=\"https://vis.social/tags/JSspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSspatial</span></a> <a href=\"https://observablehq.com/@chrispahm/visualizing-wind-turbines-in-3d-using-threebox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@chrispahm/vi</span><span class=\"invisible\">sualizing-wind-turbines-in-3d-using-threebox</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@neocarto",
-        "display_name": "Nicolas Lambert \ud83c\udf0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cleanlab/cleanlab/",
-    "title": "GitHub - cleanlab/cleanlab: The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.",
-    "latest": "2023-01-18T06:07:59+00:00",
-    "first": "2023-01-18T06:07:59+00:00",
-    "last_post": {
-      "url": "https://social.skewed.de/@tiago/109708710970481124",
-      "content": "<p>Oh noes, the \u201cground truth\u201d is wrong... Who could have thought?! \ud83e\udd37\u200d\u2642\ufe0f</p><p>RT @svpino@twitter.com</p><p>There are several label mistakes in the MNIST dataset.</p><p>Look at the attached picture. No wonder we can't get a 100% accurate model!</p><p>Here is the best part:</p><p>We discovered these mistakes using an open-source Python library: Cleanlab.</p><p><a href=\"https://github.com/cleanlab/cleanlab/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cleanlab/cleanlab/</span><span class=\"invisible\"></span></a></p><p>2 of 5</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/svpino/status/1615333149793452032\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/svpino/status/1615</span><span class=\"invisible\">333149793452032</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.skewed.de/@tiago",
-        "display_name": "Tiago Peixoto"
       }
     ]
   }
