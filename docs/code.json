@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/volarjs/volar.js/pull/7",
+    "title": "feat: `@volar/kit` by johnsoncodehk \u00b7 Pull Request #7 \u00b7 volarjs/volar.js",
+    "latest": "2023-01-29T08:34:01+00:00",
+    "first": "2023-01-29T08:34:01+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@johnsoncodehk/109771552628092421",
+      "content": "<p><a href=\"https://github.com/volarjs/volar.js/pull/7\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/volarjs/volar.js/pu</span><span class=\"invisible\">ll/7</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tonai",
+    "title": "tonai - Overview",
+    "latest": "2023-01-29T06:33:17+00:00",
+    "first": "2023-01-29T06:33:17+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@antfu/109770342256755401",
+      "content": "<p>\ud83d\udef9 Slidev finally got built-in slide transitions in v0.39.0! - something I wanted so much since the beginning!</p><p>Thanks a lot to <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@posva\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>posva</span></a></span> and <a href=\"https://github.com/tonai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tonai</span><span class=\"invisible\"></span></a> for making this possible!</p><p>\ud83d\udcd6 Documentation here:<br><a href=\"https://sli.dev/guide/animations.html#pages-transitions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sli.dev/guide/animations.html#</span><span class=\"invisible\">pages-transitions</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ArnaudBarre/esm-dev-server-limit",
+    "title": "GitHub - ArnaudBarre/esm-dev-server-limit",
+    "latest": "2023-01-29T06:32:39+00:00",
+    "first": "2023-01-29T06:32:39+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@arnaudbarre/109770644416577230",
+      "content": "<p>ESM dev server was a great idea and we should keep improving it. I think we're far from hitting the browser limitations: <a href=\"https://github.com/ArnaudBarre/esm-dev-server-limit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ArnaudBarre/esm-dev</span><span class=\"invisible\">-server-limit</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md",
     "title": "armstrong-distributed-systems/erlang-is-not-about.md at main \u00b7 stevana/armstrong-distributed-systems",
     "latest": "2023-01-29T05:58:19+00:00",
@@ -3356,66 +3404,6 @@
       {
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/antoine3000/iot-gardening-station",
-    "title": "GitHub - antoine3000/iot-gardening-station: A smart device connected to a plant, which measures the soil moisture level, the ambient temperature and humidity and based on the data collected it waters the plant to meet its needs. The data is published online and a web interface allows direct interaction with the gardening station.",
-    "latest": "2023-01-18T15:01:12+00:00",
-    "first": "2023-01-18T15:01:12+00:00",
-    "last_post": {
-      "url": "https://merveilles.town/@focus404/109710803269650338",
-      "content": "<p>The prototype of the IOT gardening station is finished, documented and uploaded. Next steps, workshops.</p><p>\u2192 <a href=\"https://github.com/antoine3000/iot-gardening-station\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/antoine3000/iot-gar</span><span class=\"invisible\">dening-station</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@cblgh",
-        "display_name": "Alexander Cobleigh"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/karpathy/nanoGPT",
-    "title": "GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.",
-    "latest": "2023-01-18T13:52:36+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@dougholton/109710525247725789",
-      "content": "<p>Competitors/successors to <a href=\"https://mastodon.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a> will be emerging this year:<br>* Claude (from former OpenAI employees) <a href=\"https://scale.com/blog/chatgpt-vs-claude\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">scale.com/blog/chatgpt-vs-clau</span><span class=\"invisible\">de</span></a><br>* Sparrow (from Google) <a href=\"https://www.techradar.com/news/googles-deepmind-promises-chatgpt-rival-soon-and-it-could-be-better-in-one-key-way\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">techradar.com/news/googles-dee</span><span class=\"invisible\">pmind-promises-chatgpt-rival-soon-and-it-could-be-better-in-one-key-way</span></a><br>* Others <a href=\"https://medium.com/geekculture/5-free-chatgpt-competitors-you-should-know-about-for-2023-ff5fc48d0430\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">medium.com/geekculture/5-free-</span><span class=\"invisible\">chatgpt-competitors-you-should-know-about-for-2023-ff5fc48d0430</span></a></p><p>* Here's a review of recent generative <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> models <a href=\"https://arxiv.org/abs/2301.04655\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.04655</span><span class=\"invisible\"></span></a><br>* Videos <a href=\"https://karpathy.ai/zero-to-hero.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">karpathy.ai/zero-to-hero.html</span><span class=\"invisible\"></span></a> &amp; sample code to learn how they work <a href=\"https://github.com/karpathy/nanoGPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/karpathy/nanoGPT</span><span class=\"invisible\"></span></a><br>* And a directory of over 600 AI tools that have emerged <a href=\"https://www.futurepedia.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">futurepedia.io/</span><span class=\"invisible\"></span></a><br><a href=\"https://mastodon.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> <a href=\"https://mastodon.social/tags/AIED\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AIED</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://sigmoid.social/@lucidrains",
-        "display_name": "Ice Cream"
-      },
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
-      }
-    ],
-    "first": "2023-01-02T21:46:12+00:00"
-  },
-  {
-    "link": "https://github.com/rochala",
-    "title": "rochala - Overview",
-    "latest": "2023-01-18T13:15:21+00:00",
-    "first": "2023-01-18T13:15:21+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@tgodzik/109699920859033858",
-      "content": "<p>Thanks to <a href=\"https://github.com/rochala\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rochala</span><span class=\"invisible\"></span></a> Scastie now supports hover and completions powered by @scalameta Metals \ud83d\udd25\ud83d\udd25\ud83d\udd25</p>"
-    },
-    "people": [
-      {
-        "url": "https://discuss.systems/@heather",
-        "display_name": "Heather Miller"
       }
     ]
   }
