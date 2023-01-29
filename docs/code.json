@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/python-humanize/humanize/releases/tag/4.5.0",
+    "title": "Release 4.5.0 \u00b7 python-humanize/humanize",
+    "latest": "2023-01-29T14:52:21+00:00",
+    "first": "2023-01-29T14:52:21+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hugovk/109773058272307659",
+      "content": "<p>I've released <a href=\"https://mastodon.social/tags/humanize\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>humanize</span></a> 4.5.0! </p><p><a href=\"https://github.com/python-humanize/humanize/releases/tag/4.5.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/python-humanize/hum</span><span class=\"invisible\">anize/releases/tag/4.5.0</span></a></p><p>Amongst the changes, it includes the exciting new SI metric prefixes!</p><p>quetta = Q =  10^30 <br>ronna = R = 10^27<br>ronto = r = 10^-27<br>quecto = q = 10^-30</p><p><a href=\"https://en.wikipedia.org/wiki/Metric_prefix#List_of_SI_prefixes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Metric_p</span><span class=\"invisible\">refix#List_of_SI_prefixes</span></a></p><p>These were accepted by the International Bureau of Weights at the 27th General Conference on Weights and Measures in Versailles in November:</p><p><a href=\"https://www.bipm.org/en/cgpm-2022/resolution-3\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bipm.org/en/cgpm-2022/resoluti</span><span class=\"invisible\">on-3</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hugovk",
+        "display_name": "hugovk"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/docuracy/desCartes/blob/main/README.md",
+    "title": "desCartes/README.md at main \u00b7 docuracy/desCartes",
+    "latest": "2023-01-29T14:48:59+00:00",
+    "first": "2023-01-29T14:48:59+00:00",
+    "last_post": {
+      "url": "https://datasci.social/@UrbanDemog/109773045084169693",
+      "content": "<p>RT @docuracy<br>I've been developing Python code for extracting road vector lines from old maps, which can be used in GIS applications and historical transport network analysis. 1/</p><p>@OpenHistMap @AlexisLitvine @PelagiosNetwork @ViaeRegiae </p><p><a href=\"https://github.com/docuracy/desCartes/blob/main/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/docuracy/desCartes/</span><span class=\"invisible\">blob/main/README.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@UrbanDemog",
+        "display_name": "Rafael H M Pereira"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/PyCQA/isort/pull/2078",
     "title": "Fix poetry pip-shims extras dependency by jooola \u00b7 Pull Request #2078 \u00b7 PyCQA/isort",
     "latest": "2023-01-29T12:03:12+00:00",
@@ -3372,38 +3404,6 @@
       {
         "url": "https://mstdn.io/@paperswelove",
         "display_name": "Papers We Love"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@observablehq/plot-raster",
-    "title": "Raster Mark / Observable Plot",
-    "latest": "2023-01-18T22:00:18+00:00",
-    "first": "2023-01-18T22:00:18+00:00",
-    "last_post": {
-      "url": "https://vis.social/@fil/109712455674472955",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mathstodon.xyz/@keenancrane\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>keenancrane</span></a></span> happy to say that we implemented walk-on-spheres as a spatial interpolation method in Observable Plot. Thank you for all the tutorials, videos you shared, they were the main source of inspiration for this feature<br><a href=\"https://observablehq.com/@observablehq/plot-raster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/plot-raster</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@fil",
-        "display_name": "Fil"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/koalaman/shellcheck",
-    "title": "GitHub - koalaman/shellcheck: ShellCheck, a static analysis tool for shell scripts",
-    "latest": "2023-01-18T20:45:20+00:00",
-    "first": "2023-01-18T20:45:20+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@mpiedrav/109712139789656083",
-      "content": "<p>\u00abShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts\u00bb</p><p>Implemented in Haskell \ud83d\ude0a</p><p>It's indeed a convincing language for working on code in other languages \ud83d\ude32</p><p><a href=\"https://github.com/koalaman/shellcheck\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/koalaman/shellcheck</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://infosec.exchange/@hacks4pancakes",
-        "display_name": "Lesley Carhart :unverified:"
       }
     ]
   }

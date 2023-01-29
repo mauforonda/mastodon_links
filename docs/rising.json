@@ -24,42 +24,26 @@
     ]
   },
   {
-    "link": "https://tomcritchlow.com/2023/01/27/small-databases/",
-    "title": "The Magic of Small Databases",
-    "latest": "2023-01-28T16:48:16+00:00",
-    "first": "2023-01-28T14:49:32+00:00",
+    "link": "https://post.news/article/2KwklDyJQ7mRkNlrvRdeUh70Ej2",
+    "title": "It's not just the engagement-maximizing algorithms... / Post.",
+    "latest": "2023-01-29T14:39:34+00:00",
+    "first": "2023-01-28T23:53:10+00:00",
     "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109767851833232721",
-      "content": "<p>This article by <span class=\"h-card\"><a href=\"https://indieweb.social/@tomcritchlow\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tomcritchlow</span></a></span> captures a whole bunch of ideas that are deeply relevant to my goals for <span class=\"h-card\"><a href=\"https://fosstodon.org/@datasette\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>datasette</span></a></span> and related projects: <a href=\"https://tomcritchlow.com/2023/01/27/small-databases/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tomcritchlow.com/2023/01/27/sm</span><span class=\"invisible\">all-databases/</span></a></p><p>\"We\u2019ve built many tools for publishing to the web\u2014but I want to make the claim that we have underdeveloped the tools and platforms for publishing collections, indexes and small databases. It\u2019s too hard to build these kinds of experiences, too hard to maintain them and a lack of collaborative tools.\"</p>"
+      "url": "https://fediscience.org/@ct_bergstrom/109769042132371636",
+      "content": "<p>It's not just the engagement-maximizing algorithms....</p><p>--</p><p>I wrote a thread over at post.news with this title, describing a new preprint about the sources of online toxicity. For those who want to read the formatted version there, here's the link: <a href=\"https://post.news/article/2KwklDyJQ7mRkNlrvRdeUh70Ej2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">post.news/article/2KwklDyJQ7mR</span><span class=\"invisible\">kNlrvRdeUh70Ej2</span></a></p><p>For those who want to read it here, I'll recreate it below.</p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@gordon",
-        "display_name": "Gordon Brander"
+        "url": "https://macaw.social/@dml",
+        "display_name": "Dave LaMacchia"
       },
       {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://nyti.ms/3wSs1j7",
-    "title": "https://nyti.ms/3wSs1j7",
-    "latest": "2023-01-29T11:50:18+00:00",
-    "first": "2023-01-28T14:56:51+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@eckles/109767413717780397",
-      "content": "<p>When people with condition Y do less of X, you may think X is protective against Y</p><p><a href=\"https://nyti.ms/3wSs1j7\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">nyti.ms/3wSs1j7</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@eckles",
-        "display_name": "Dean Eckles"
+        "url": "https://fediscience.org/@ct_bergstrom",
+        "display_name": "Carl T. Bergstrom"
       },
       {
-        "url": "https://fediscience.org/@salonium",
-        "display_name": "Saloni \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+        "url": "https://mastodon.social/@henryfarrell",
+        "display_name": "Henry Farrell"
       }
     ]
   },
@@ -204,26 +188,6 @@
     ]
   },
   {
-    "link": "https://post.news/article/2KwklDyJQ7mRkNlrvRdeUh70Ej2",
-    "title": "It's not just the engagement-maximizing algorithms... / Post.",
-    "latest": "2023-01-28T21:50:59+00:00",
-    "first": "2023-01-28T23:53:10+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@ct_bergstrom/109769042132371636",
-      "content": "<p>It's not just the engagement-maximizing algorithms....</p><p>--</p><p>I wrote a thread over at post.news with this title, describing a new preprint about the sources of online toxicity. For those who want to read the formatted version there, here's the link: <a href=\"https://post.news/article/2KwklDyJQ7mRkNlrvRdeUh70Ej2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">post.news/article/2KwklDyJQ7mR</span><span class=\"invisible\">kNlrvRdeUh70Ej2</span></a></p><p>For those who want to read it here, I'll recreate it below.</p>"
-    },
-    "people": [
-      {
-        "url": "https://macaw.social/@dml",
-        "display_name": "Dave LaMacchia"
-      },
-      {
-        "url": "https://fediscience.org/@ct_bergstrom",
-        "display_name": "Carl T. Bergstrom"
-      }
-    ]
-  },
-  {
     "link": "https://lingthusiasm.com/post/615600862742609920/lingthusiasm-episode-43-the-grammar-of-singular",
     "title": "43: The grammar of singular they - Interview with  Kirby Conrod",
     "latest": "2023-01-29T05:26:58+00:00",
@@ -240,6 +204,46 @@
       {
         "url": "https://mastodon.social/@MichaelErard",
         "display_name": "Michael Erard"
+      }
+    ]
+  },
+  {
+    "link": "https://youtu.be/zrSGnz7ErNI",
+    "title": "https://youtu.be/zrSGnz7ErNI",
+    "latest": "2023-01-29T14:34:26+00:00",
+    "first": "2023-01-29T05:15:23+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109770789569424359",
+      "content": "<p>Finally watched <span class=\"h-card\"><a href=\"https://hachyderm.io/@cldellow\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cldellow</span></a></span>'s video introduction to his datasette-scraper plugin and it is a really compelling demo! <a href=\"https://youtu.be/zrSGnz7ErNI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/zrSGnz7ErNI</span><span class=\"invisible\"></span></a></p><p>The plugin turns Datasette into a full web scraping environment, with the ability to configure crawls, watch your crawl queue and extract data from crawled pages into separate SQLite tables</p><p>It's really impressive, and also provides a fascinating example of advanced Datasette UI customization by a plugin</p><p>More info on the plugin here: <a href=\"https://datasette.io/plugins/datasette-scraper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">datasette.io/plugins/datasette</span><span class=\"invisible\">-scraper</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://indieweb.social/@tomcritchlow",
+        "display_name": "Tom Critchlow"
+      }
+    ]
+  },
+  {
+    "link": "https://datasette.io/plugins/datasette-scraper",
+    "title": "datasette.io/plugins/datasette...",
+    "latest": "2023-01-29T14:34:26+00:00",
+    "first": "2023-01-29T05:15:23+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109770789569424359",
+      "content": "<p>Finally watched <span class=\"h-card\"><a href=\"https://hachyderm.io/@cldellow\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cldellow</span></a></span>'s video introduction to his datasette-scraper plugin and it is a really compelling demo! <a href=\"https://youtu.be/zrSGnz7ErNI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/zrSGnz7ErNI</span><span class=\"invisible\"></span></a></p><p>The plugin turns Datasette into a full web scraping environment, with the ability to configure crawls, watch your crawl queue and extract data from crawled pages into separate SQLite tables</p><p>It's really impressive, and also provides a fascinating example of advanced Datasette UI customization by a plugin</p><p>More info on the plugin here: <a href=\"https://datasette.io/plugins/datasette-scraper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">datasette.io/plugins/datasette</span><span class=\"invisible\">-scraper</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://indieweb.social/@tomcritchlow",
+        "display_name": "Tom Critchlow"
       }
     ]
   }
