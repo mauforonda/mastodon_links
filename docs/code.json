@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/w3c/activitypub/blob/gh-pages/activitypub-tutorial.txt",
+    "title": "activitypub/activitypub-tutorial.txt at gh-pages \u00b7 w3c/activitypub",
+    "latest": "2023-01-30T12:15:42+00:00",
+    "first": "2023-01-30T12:15:42+00:00",
+    "last_post": {
+      "url": "https://tldr.nettime.org/@festal/109778104663980732",
+      "content": "<p>Can somebody with deeper <a href=\"https://tldr.nettime.org/tags/technical\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>technical</span></a> knowledge of Mastodon/#ActivityPub help me understand how information is moved around?</p><p>My very limited understanding is that when a user publishes/sends a post, the message is first put into the user's \"outbox\" located on the user's instance. It is then pulled from there from all the instances his/her followers are located on. </p><p>In order to receive posts, the user's instance continuously checks all the outboxes a user is subscribed to and pulls the messages located there, into the user's \"inbox\". </p><p>The federated timeline would then be the sum of all the messages that the local instance has pulled from the various outboxes its users are subscribed to. </p><p>To create the local timeline, the local instance pulls messages from all the local outboxes.</p><p>A user's individual timeline is simply the list of all the messages that are put into his/her outbox.</p><p>That would be the default. Users can shape how their posts are pulled by changing the post's privacy setting.</p><p>Defederation then works by no longer pulling from a specific instance and not allowing that instance to pull messages from the local instance thus blocking all direct communication.</p><p><a href=\"https://github.com/w3c/activitypub/blob/gh-pages/activitypub-tutorial.txt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/w3c/activitypub/blo</span><span class=\"invisible\">b/gh-pages/activitypub-tutorial.txt</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://tldr.nettime.org/@festal",
+        "display_name": "felix stalder"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/elk-zone/elk/issues/1336",
+    "title": "parsing of accounts while logged into Takah\u0113 getting split into separate links \u00b7 Issue #1336 \u00b7 elk-zone/elk",
+    "latest": "2023-01-30T10:13:14+00:00",
+    "first": "2023-01-30T10:13:14+00:00",
+    "last_post": {
+      "url": "https://social.wake.st/@liaizon/109775862327918077",
+      "content": "<p>I filed an <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span> bug about compatibility with <span class=\"h-card\"><a href=\"https://jointakahe.takahe.social/@takahe/\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>takahe</span></a></span> and then <span class=\"h-card\"><a href=\"https://mastodon.social/@shuuji3\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>shuuji3</span></a></span> saw my bug and figured out what was causing it and explained in a new issue on the tahah\u0113 repo and <span class=\"h-card\"><a href=\"https://fedi.aeracode.org/@andrew\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andrew</span></a></span> then had to rewrite the entire HTML parser! Opens source is pretty amazing sometimes. </p><p><a href=\"https://github.com/elk-zone/elk/issues/1336\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/issues</span><span class=\"invisible\">/1336</span></a><br><a href=\"https://github.com/jointakahe/takahe/issues/479\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jointakahe/takahe/i</span><span class=\"invisible\">ssues/479</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jointakahe/takahe/issues/479",
+    "title": "github.com/jointakahe/takahe/i...",
+    "latest": "2023-01-30T10:13:14+00:00",
+    "first": "2023-01-30T10:13:14+00:00",
+    "last_post": {
+      "url": "https://social.wake.st/@liaizon/109775862327918077",
+      "content": "<p>I filed an <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span> bug about compatibility with <span class=\"h-card\"><a href=\"https://jointakahe.takahe.social/@takahe/\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>takahe</span></a></span> and then <span class=\"h-card\"><a href=\"https://mastodon.social/@shuuji3\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>shuuji3</span></a></span> saw my bug and figured out what was causing it and explained in a new issue on the tahah\u0113 repo and <span class=\"h-card\"><a href=\"https://fedi.aeracode.org/@andrew\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andrew</span></a></span> then had to rewrite the entire HTML parser! Opens source is pretty amazing sometimes. </p><p><a href=\"https://github.com/elk-zone/elk/issues/1336\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/issues</span><span class=\"invisible\">/1336</span></a><br><a href=\"https://github.com/jointakahe/takahe/issues/479\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jointakahe/takahe/i</span><span class=\"invisible\">ssues/479</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/mozilla/standards-positions/issues/335#issuecomment-1404996929",
     "title": "Declarative Shadow DOM \u00b7 Issue #335 \u00b7 mozilla/standards-positions",
     "latest": "2023-01-30T08:50:15+00:00",
@@ -3348,58 +3396,6 @@
       {
         "url": "https://indieweb.social/@adamghill",
         "display_name": "adamghill"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Bleuje/variations-combinator",
-    "title": "GitHub - Bleuje/variations-combinator: real-time generative art tool with openFrameworks",
-    "latest": "2023-01-19T23:10:41+00:00",
-    "first": "2023-01-19T23:10:41+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@bleuje/109591343453827041",
-      "content": "<p>I'm releasing Variations Combinator on Github, it's a real-time generative art drawing tool. It's my main open source repo so far.</p><p><a href=\"https://github.com/Bleuje/variations-combinator\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Bleuje/variations-c</span><span class=\"invisible\">ombinator</span></a></p><p>You can check out some art made with it here : <a href=\"https://math-art-variations.tumblr.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">math-art-variations.tumblr.com</span><span class=\"invisible\">/</span></a></p><p>It is coded in openFrameworks.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@dahukanna",
-        "display_name": "Dawn Ahukanna"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Dimillian/IceCubesApp",
-    "title": "Discussions \u00b7 Dimillian/IceCubesApp",
-    "latest": "2023-01-19T22:44:07+00:00",
-    "first": "2023-01-14T11:31:16+00:00",
-    "last_post": {
-      "url": "https://xoxo.zone/@andybaio/109718282971878688",
-      "content": "<p>If you're on iOS and not in the Ivory beta, or just want a free/open-source alternative, Ice Cubes is a great Mastodon client. After rejecting it from the App Store for nonsensical reasons, Apple finally approved the app today after <span class=\"h-card\"><a href=\"https://mastodon.social/@gruber\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gruber</span></a></span> wrote about it. It's definitely worth trying.</p><p>App Store: <a href=\"https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">apps.apple.com/us/app/ice-cube</span><span class=\"invisible\">s-for-mastodon/id6444915884</span></a><br>GitHub: <a href=\"https://github.com/Dimillian/IceCubesApp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Dimillian/IceCubesA</span><span class=\"invisible\">pp</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      },
-      {
-        "url": "https://mstdn.social/@jabronus",
-        "display_name": "Noah Jacobus"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/feditrends/trending-statuses",
-    "title": "github.com/feditrends/trending...",
-    "latest": "2023-01-19T22:38:33+00:00",
-    "first": "2023-01-19T22:38:33+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ummjackson/109718268409464190",
-      "content": "<p><span class=\"h-card\"><a href=\"https://social.jvns.ca/@b0rk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>b0rk</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@MattHodges\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MattHodges</span></a></span> I also built <a href=\"https://feditrends.com/statuses\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">feditrends.com/statuses</span><span class=\"invisible\"></span></a> which just ranks by reblogs across instances instead of your home timeline</p><p>Git: <a href=\"https://github.com/feditrends/trending-statuses\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/feditrends/trending</span><span class=\"invisible\">-statuses</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ummjackson",
-        "display_name": "Jackson Palmer"
       }
     ]
   }
