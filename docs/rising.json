@@ -24,46 +24,6 @@
     ]
   },
   {
-    "link": "https://youtu.be/zrSGnz7ErNI",
-    "title": "https://youtu.be/zrSGnz7ErNI",
-    "latest": "2023-01-29T14:34:26+00:00",
-    "first": "2023-01-29T05:15:23+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109770789569424359",
-      "content": "<p>Finally watched <span class=\"h-card\"><a href=\"https://hachyderm.io/@cldellow\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cldellow</span></a></span>'s video introduction to his datasette-scraper plugin and it is a really compelling demo! <a href=\"https://youtu.be/zrSGnz7ErNI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/zrSGnz7ErNI</span><span class=\"invisible\"></span></a></p><p>The plugin turns Datasette into a full web scraping environment, with the ability to configure crawls, watch your crawl queue and extract data from crawled pages into separate SQLite tables</p><p>It's really impressive, and also provides a fascinating example of advanced Datasette UI customization by a plugin</p><p>More info on the plugin here: <a href=\"https://datasette.io/plugins/datasette-scraper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">datasette.io/plugins/datasette</span><span class=\"invisible\">-scraper</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://indieweb.social/@tomcritchlow",
-        "display_name": "Tom Critchlow"
-      }
-    ]
-  },
-  {
-    "link": "https://datasette.io/plugins/datasette-scraper",
-    "title": "datasette.io/plugins/datasette...",
-    "latest": "2023-01-29T14:34:26+00:00",
-    "first": "2023-01-29T05:15:23+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109770789569424359",
-      "content": "<p>Finally watched <span class=\"h-card\"><a href=\"https://hachyderm.io/@cldellow\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cldellow</span></a></span>'s video introduction to his datasette-scraper plugin and it is a really compelling demo! <a href=\"https://youtu.be/zrSGnz7ErNI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/zrSGnz7ErNI</span><span class=\"invisible\"></span></a></p><p>The plugin turns Datasette into a full web scraping environment, with the ability to configure crawls, watch your crawl queue and extract data from crawled pages into separate SQLite tables</p><p>It's really impressive, and also provides a fascinating example of advanced Datasette UI customization by a plugin</p><p>More info on the plugin here: <a href=\"https://datasette.io/plugins/datasette-scraper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">datasette.io/plugins/datasette</span><span class=\"invisible\">-scraper</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://indieweb.social/@tomcritchlow",
-        "display_name": "Tom Critchlow"
-      }
-    ]
-  },
-  {
     "link": "https://a.exozy.me/posts/activitypub-eats-your-brain/",
     "title": "ActivityPub Eats Your Brain!",
     "latest": "2023-01-29T16:19:43+00:00",

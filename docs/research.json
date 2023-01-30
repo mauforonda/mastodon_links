@@ -1,5 +1,21 @@
 [
   {
+    "link": "http://arxiv.org/abs/2301.11360",
+    "title": "http://arxiv.org/abs/2301.11360",
+    "latest": "2023-01-30T04:08:18+00:00",
+    "first": "2023-01-30T04:08:18+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/494dc40f-2d89-41c9-9a88-4a296891fedb",
+      "content": "\"Rethinking 1x1 Convolutions: Can we train CNNs with Frozen Random Filters?. (arXiv:2301.11360v1 [cs.CV])\" \u2014 An exploration into whether Convolutional Neural Networks (CNN) learning the weights of vast numbers of convolutional operators is really necessary.<br><br>Paper: <a href=\"http://arxiv.org/abs/2301.11360\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2301.11360</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/656b2ceb2f9bf7c045c65b7bba8b1e7e12b9d1d00b6b31e26d0e5645fe1fa174.jpg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Validation accuracy of LCResNet\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@andrey",
+        "display_name": "Andrey Kurenkov"
+      }
+    ]
+  },
+  {
     "link": "https://academic.oup.com/qje/article/134/3/1405/5484905",
     "title": "Effect of Minimum Wages on Low-Wage Jobs*",
     "latest": "2023-01-30T02:25:29+00:00",
@@ -3315,22 +3331,6 @@
     "last_post": {
       "url": "https://sigmoid.social/@aran/109713363787696430",
       "content": "<p>Towards Models that Can See and Read</p><p>Presents UniTNT, which leads to the first single model that successfully handles both \"seeing\" and \"reading\" images to solve VQA problems.</p><p><a href=\"https://arxiv.org/abs/2301.07389\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07389</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.07597",
-    "title": "How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection",
-    "latest": "2023-01-19T01:36:40+00:00",
-    "first": "2023-01-19T01:36:40+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109713306462366194",
-      "content": "<p>How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection</p><p>Proposes the first Human vs. ChatGPT comparison corpus, named HC3.</p><p>abs: <a href=\"https://arxiv.org/abs/2301.07597\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07597</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/Hello-SimpleAI/chatgpt-comparison-detection\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Hello-SimpleAI/chat</span><span class=\"invisible\">gpt-comparison-detection</span></a></p>"
     },
     "people": [
       {
