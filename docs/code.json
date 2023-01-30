@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/archinetai/audio-diffusion-pytorch",
+    "title": "github.com/archinetai/audio-di...",
+    "latest": "2023-01-30T01:47:45+00:00",
+    "first": "2023-01-30T01:47:45+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109775635467626982",
+      "content": "<p>Mo\u00fbsai: Text-to-Music Generation with Long-Context Latent Diffusion</p><p>Develops a cascading latent diffusion approach that can generate multiple minutes of high-quality stereo music at 48kHz from textual descriptions.</p><p>abs: <a href=\"https://arxiv.org/abs/2301.11757\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11757</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/archinetai/audio-diffusion-pytorch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/archinetai/audio-di</span><span class=\"invisible\">ffusion-pytorch</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/simonw/shot-scraper/releases/tag/1.1",
+    "title": "Release 1.1 \u00b7 simonw/shot-scraper",
+    "latest": "2023-01-30T01:06:08+00:00",
+    "first": "2023-01-30T01:06:08+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109775471799584961",
+      "content": "<p>Released shot-scraper 1.1 with two small features: you can now add --log-console to print any calls to console.log() to standard error in your terminal, and the new --skip and --fail options now control what the tool will do if it encounters a 4xx or 5xx HTTP error while attempting to take a screenshot. <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/shot-scraper</span><span class=\"invisible\">/releases/tag/1.1</span></a></p><p>shot-scraper is my CLI tool for taking screenshots and running automation against web pages: <a href=\"https://shot-scraper.datasette.io/en/stable/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">shot-scraper.datasette.io/en/s</span><span class=\"invisible\">table/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/nothings/stb",
     "title": "GitHub - nothings/stb: stb single-file public domain libraries for C/C++",
     "latest": "2023-01-29T23:50:24+00:00",
@@ -3368,38 +3400,6 @@
       {
         "url": "https://fedi.simonwillison.net/@simon",
         "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@asg017/introducing-sqlite-regex",
-    "title": "observablehq.com/@asg017/intro...",
-    "latest": "2023-01-19T21:40:32+00:00",
-    "first": "2023-01-19T21:40:32+00:00",
-    "last_post": {
-      "url": "https://data-folks.masto.host/@alexgarciaxyz/109717373814262438",
-      "content": "<p>Introducing sqlite-regex - the fastest and most complete SQLite extension for regular expressions, written in Rust!</p><p>- regexp(), finding, replacing, splitting <br>- Regex Set support!<br>- 2x faster than the official regexp extension, 6x faster than sqlean's</p><p>Repo: <a href=\"https://github.com/asg017/sqlite-regex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/asg017/sqlite-regex</span><span class=\"invisible\"></span></a></p><p>Blog post, including a live demo on Datasette: <a href=\"https://observablehq.com/@asg017/introducing-sqlite-regex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@asg017/intro</span><span class=\"invisible\">ducing-sqlite-regex</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/giswqs/geemap",
-    "title": "https://github.com/giswqs/geemap",
-    "latest": "2023-01-19T20:08:13+00:00",
-    "first": "2023-01-19T20:08:13+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@giswqs/109717677239233717",
-      "content": "<p>How to search and visualize <a href=\"https://fosstodon.org/tags/EarthEngine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EarthEngine</span></a> datasets using <a href=\"https://fosstodon.org/tags/geemap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geemap</span></a> with just a few clicks?</p><p>Docs: <a href=\"https://geemap.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">geemap.org</span><span class=\"invisible\"></span></a><br>GitHub: <a href=\"https://github.com/giswqs/geemap\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/giswqs/geemap</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://fosstodon.org/tags/geospatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geospatial</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fosstodon.org/tags/geopython\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geopython</span></a> <a href=\"https://fosstodon.org/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@giswqs",
-        "display_name": "Qiusheng Wu"
       }
     ]
   }

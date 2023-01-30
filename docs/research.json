@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://academic.oup.com/qje/article/134/3/1405/5484905",
+    "title": "Effect of Minimum Wages on Low-Wage Jobs*",
+    "latest": "2023-01-30T02:25:29+00:00",
+    "first": "2023-01-30T02:25:29+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@arindube/109775783807530602",
+      "content": "<p>Here's the paper and abstract I asked about.</p><p><a href=\"https://academic.oup.com/qje/article/134/3/1405/5484905\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">academic.oup.com/qje/article/1</span><span class=\"invisible\">34/3/1405/5484905</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@arindube",
+        "display_name": "Arin Dube"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.11757",
+    "title": "Mo\u00fbsai: Text-to-Music Generation with Long-Context Latent Diffusion",
+    "latest": "2023-01-30T01:47:45+00:00",
+    "first": "2023-01-30T01:47:45+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109775635467626982",
+      "content": "<p>Mo\u00fbsai: Text-to-Music Generation with Long-Context Latent Diffusion</p><p>Develops a cascading latent diffusion approach that can generate multiple minutes of high-quality stereo music at 48kHz from textual descriptions.</p><p>abs: <a href=\"https://arxiv.org/abs/2301.11757\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11757</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/archinetai/audio-diffusion-pytorch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/archinetai/audio-di</span><span class=\"invisible\">ffusion-pytorch</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.11790",
+    "title": "Leveraging the Third Dimension in Contrastive Learning",
+    "latest": "2023-01-30T01:40:53+00:00",
+    "first": "2023-01-30T01:40:53+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109775608450263201",
+      "content": "<p>Leveraging the Third Dimension in Contrastive Learning</p><p>Leveraging the additional depth channel dimension of BYOL leads to an increase in downstream classification accuracy from 85.3% to 88.0% on ImageNette and 84.1% to 87.0% on ImageNet-C.</p><p><a href=\"https://arxiv.org/abs/2301.11790\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11790</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.11913",
+    "title": "SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient",
+    "latest": "2023-01-30T01:33:53+00:00",
+    "first": "2023-01-30T01:33:53+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109775580901841209",
+      "content": "<p>SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient</p><p>Shows that it is possible to train a billion-scale LM on preemptible servers with low-power GPUs and low network bandwidth while achieving high training throughput.</p><p><a href=\"https://arxiv.org/abs/2301.11913\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11913</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
     "link": "https://doi.org/10.1111/ehr.13238",
     "title": "https://doi.org/10.1111/ehr.13238",
     "latest": "2023-01-29T18:55:40+00:00",
@@ -3272,78 +3336,6 @@
       {
         "url": "https://sigmoid.social/@aran",
         "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/s43016-022-00638-0",
-    "title": "Making food transport data matter - Nature Food",
-    "latest": "2023-01-18T21:52:38+00:00",
-    "first": "2023-01-18T21:52:38+00:00",
-    "last_post": {
-      "url": "https://mastodon.sdf.org/@tamarhaspel/109712425544591504",
-      "content": "<p>RT @_HannahRitchie@twitter.com</p><p>In December I published a rebuttal of a paper in @NatureFoodJnl@twitter.com which claimed that \"food miles were 20% of food emissions\".</p><p>I'm pleased to see that the journal has now published a follow-up from others making many of the same points.</p><p><a href=\"https://www.nature.com/articles/s43016-022-00638-0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s43016-022</span><span class=\"invisible\">-00638-0</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/_HannahRitchie/status/1615824793542041602\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_HannahRitchie/sta</span><span class=\"invisible\">tus/1615824793542041602</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.sdf.org/@tamarhaspel",
-        "display_name": "Tamar Haspel"
-      }
-    ]
-  },
-  {
-    "link": "https://academic.oup.com/pnasnexus/article/2/1/pgac275/6874776",
-    "title": "deep-learning model of prescient ideas demonstrates that they emerge from the periphery",
-    "latest": "2023-01-18T20:56:39+00:00",
-    "first": "2023-01-18T20:56:39+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@aaronclauset/109712205394375322",
-      "content": "<p>Can LLMs help us trace \"ideas\" at scale across time in written corpora? This paper in <span class=\"h-card\"><a href=\"https://mstdn.science/@PNASNexus\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PNASNexus</span></a></span> gives it a go.<br>Perfect? Nope. Interesting? Yes. Prescient? Maybe!<br>It'd be fun to try on some of the scientific literature to move away from attention-based measures like citations <a href=\"https://academic.oup.com/pnasnexus/article/2/1/pgac275/6874776\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">academic.oup.com/pnasnexus/art</span><span class=\"invisible\">icle/2/1/pgac275/6874776</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@aaronclauset",
-        "display_name": "Aaron Clauset"
-      }
-    ]
-  },
-  {
-    "link": "https://academic.oup.com/wber/article/15/1/115/1682017",
-    "title": "academic.oup.com/wber/article/...",
-    "latest": "2023-01-18T19:30:45+00:00",
-    "first": "2023-01-18T19:30:45+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@dmckenzie001/109711867626326699",
-      "content": "<p><span class=\"h-card\"><a href=\"https://econtwitter.net/@m_clem\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>m_clem</span></a></span> It's now a bit old, but Martin Ravallion's Mystery of the Vanishing Benefits is a nice narrative intro to OLS, matching, DiD, IV as methods (doesn't cover RDD, and only discusses RCTs as non-feasible): <a href=\"https://academic.oup.com/wber/article/15/1/115/1682017\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">academic.oup.com/wber/article/</span><span class=\"invisible\">15/1/115/1682017</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@dmckenzie001",
-        "display_name": "David McKenzie"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.06627",
-    "title": "Dissociating language and thought in large language models: a cognitive perspective",
-    "latest": "2023-01-18T18:25:19+00:00",
-    "first": "2023-01-18T17:23:33+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@NancyKanwisher/109711535198888700",
-      "content": "<p>Congrats to <br><span class=\"h-card\"><a href=\"https://mstdn.science/@neuranna\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>neuranna</span></a></span> <span class=\"h-card\"><a href=\"https://sigmoid.social/@kmahowald\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kmahowald</span></a></span><br>@IbanDlank<br><span class=\"h-card\"><a href=\"https://sigmoid.social/@kmahowald\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kmahowald</span></a></span><br><span class=\"h-card\"><a href=\"https://mstdn.science/@ev_fedorenko\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ev_fedorenko</span></a></span><br> on a fascinating analysis of large language models informed by the brain: don't blame LLMs for being unable to think; neither can the brain's language system!<br><a href=\"https://arxiv.org/abs/2301.06627\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.06627</span><span class=\"invisible\"></span></a></p><p><a href=\"https://twitter.com/neuranna/status/1615737072207400962\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/neuranna/status/16</span><span class=\"invisible\">15737072207400962</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.skewed.de/@tiago",
-        "display_name": "Tiago Peixoto"
-      },
-      {
-        "url": "https://sigmoid.social/@nsaphra",
-        "display_name": "Naomi Saphra"
-      },
-      {
-        "url": "https://mastodon.online/@Neurograce",
-        "display_name": "Grace Lindsay"
       }
     ]
   }
