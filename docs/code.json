@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/bluwy/publint/network/dependents",
+    "title": "github.com/bluwy/publint/netwo...",
+    "latest": "2023-01-30T15:56:32+00:00",
+    "first": "2023-01-30T15:56:32+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@bluwy/109778835148243331",
+      "content": "<p>Just found out that <a href=\"https://publint.dev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">publint.dev</span><span class=\"invisible\"></span></a> is now used by core-js, swr, hono, rakkas, etc \ud83d\ude32 <a href=\"https://github.com/bluwy/publint/network/dependents\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bluwy/publint/netwo</span><span class=\"invisible\">rk/dependents</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
     "link": "https://gist.github.com/adfoster-r7/2b52461d3103ff2cd748c00f3a9e4ad2",
     "title": "graph.md",
     "latest": "2023-01-30T15:00:35+00:00",
@@ -3378,25 +3394,5 @@
         "display_name": "Christian Tietze"
       }
     ]
-  },
-  {
-    "link": "https://github.com/adamghill/fediview",
-    "title": "https://github.com/adamghill/fediview",
-    "latest": "2023-01-20T04:02:00+00:00",
-    "last_post": {
-      "url": "https://indieweb.social/@adamghill/109719540231307344",
-      "content": "<p><span class=\"h-card\"><a href=\"https://social.jvns.ca/@b0rk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>b0rk</span></a></span> I built <a href=\"https://fediview.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com</span><span class=\"invisible\"></span></a> which kind of does this although it\u2019s extremely simple right now. The algorithm was forked from <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a> by <a href=\"https://mastodon.social/@MattHodges\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.social/@MattHodges</span><span class=\"invisible\"></span></a> as mentioned in a few other replies. MIT code: <a href=\"https://github.com/adamghill/fediview\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/adamghill/fediview</span><span class=\"invisible\"></span></a>.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      }
-    ],
-    "first": "2022-12-29T16:29:43+00:00"
   }
 ]
