@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://gist.github.com/adfoster-r7/2b52461d3103ff2cd748c00f3a9e4ad2",
+    "title": "graph.md",
+    "latest": "2023-01-30T15:00:35+00:00",
+    "first": "2023-01-30T15:00:35+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@metasploit/109778546624965307",
+      "content": "<p>MSF 6.3 supports Kerberos authentication over HTTP, LDAP, MSSQL, SMB, and WinRM. Request TGTs and TGS with a password, NT hash, or encryption key\u2014 or request tickets via PKINIT with certs issued from AD CS.</p><p>New authentication methods here: <a href=\"https://gist.github.com/adfoster-r7/2b52461d3103ff2cd748c00f3a9e4ad2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/adfoster-r7/2b</span><span class=\"invisible\">52461d3103ff2cd748c00f3a9e4ad2</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/isamert/empv.el",
+    "title": "GitHub - isamert/empv.el: An Emacs media player, media library manager, radio player, YouTube frontend",
+    "latest": "2023-01-30T13:06:51+00:00",
+    "first": "2023-01-30T13:06:51+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@jao/109774968325415997",
+      "content": "<p>i already use youtube-dl/mpv calling it from emacs via an embark action, but<br>this package brings the emacs-mpv story to the next level:</p><p><a href=\"https://github.com/isamert/empv.el\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/isamert/empv.el</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@sachac",
+        "display_name": "Sacha Chua"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/w3c/activitypub/blob/gh-pages/activitypub-tutorial.txt",
     "title": "activitypub/activitypub-tutorial.txt at gh-pages \u00b7 w3c/activitypub",
     "latest": "2023-01-30T12:15:42+00:00",
@@ -3366,37 +3398,5 @@
       }
     ],
     "first": "2022-12-29T16:29:43+00:00"
-  },
-  {
-    "link": "https://github.com/thisisparker/xword-dl",
-    "title": "GitHub - thisisparker/xword-dl: \u2b1b\u2b1c\u2b1b Command line tool to scrape crosswords from online solvers and save them as .puz files \u2b1b\u2b1c\u2b1b",
-    "latest": "2023-01-20T03:28:06+00:00",
-    "last_post": {
-      "url": "https://tech.intersects.art/@xor/109719406965213255",
-      "content": "<p>Small release to xword-dl (my command-line tool for scraping .puz files from online crossword solvers) restores access to WSJ and fixes a bug with some issues of The Modern Crossword <a href=\"https://github.com/thisisparker/xword-dl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/thisisparker/xword-</span><span class=\"invisible\">dl</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://tech.intersects.art/@xor",
-        "display_name": "Parker Higgins"
-      }
-    ],
-    "first": "2022-12-26T19:09:24+00:00"
-  },
-  {
-    "link": "https://github.com/elk-zone/elk-native/releases",
-    "title": "github.com/elk-zone/elk-native...",
-    "latest": "2023-01-20T02:21:54+00:00",
-    "first": "2023-01-20T02:21:54+00:00",
-    "last_post": {
-      "url": "https://indieweb.social/@adamghill/109719146639869118",
-      "content": "<p><a href=\"https://elk.zone/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">elk.zone/</span><span class=\"invisible\"></span></a> is a truly delightful Mastodon web client by <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span>&nbsp;that has been making the rounds. However, I just found out they also have native desktop apps! They are both extremely clean and full of excellent quality of life improvements. I like it so much, I just added it to my list of <a href=\"https://indieweb.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> tools:&nbsp;<a href=\"https://fediview.com/best-tools-for-mastodon/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediview.com/best-tools-for-ma</span><span class=\"invisible\">stodon/</span></a>.</p><p>Go to <a href=\"https://github.com/elk-zone/elk-native/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk-native</span><span class=\"invisible\">/releases</span></a> to get bleeding edge releases of Elk Native.</p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      }
-    ]
   }
 ]
