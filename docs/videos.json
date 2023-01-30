@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=lVIGhYMwRgs",
+    "title": "Riker sits down",
+    "latest": "2023-01-30T19:57:09+00:00",
+    "first": "2023-01-30T19:57:09+00:00",
+    "last_post": {
+      "url": "https://nerdculture.de/@rlmcelreath/109779919152934012",
+      "content": "<p>riker | r\u028c\u026ak\u0259 |<br>verb [with object]<br>to sit in a chair by lifting a leg and vaulting over the back of it: He entered the room and rikered the first empty seat. <a href=\"https://www.youtube.com/watch?v=lVIGhYMwRgs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=lVIGhYMwRg</span><span class=\"invisible\">s</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://nerdculture.de/@rlmcelreath",
+        "display_name": "Richard McElreath \ud83e\udd94"
+      }
+    ]
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=EgVfurJUdFo",
+    "title": "I Made a ChatGPT Client For Emacs - AND SO CAN YOU!!",
+    "latest": "2023-01-30T18:38:05+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ctietze/109779608260076958",
+      "content": "<p>chatgpt client for emacs WIP (Now Async!) <a href=\"https://gist.github.com/Gavinok/a18e0b2dac74e4ae67df35e45a170f7f\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/Gavinok/a18e0b</span><span class=\"invisible\">2dac74e4ae67df35e45a170f7f</span></a></p><p>Video Demo:<br><a href=\"https://www.youtube.com/watch?v=EgVfurJUdFo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=EgVfurJUdF</span><span class=\"invisible\">o</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@sachac",
+        "display_name": "Sacha Chua"
+      },
+      {
+        "url": "https://mastodon.social/@ctietze",
+        "display_name": "Christian Tietze"
+      }
+    ],
+    "first": "2022-12-28T21:36:13+00:00"
+  },
+  {
     "link": "https://www.youtube.com/watch?v=SUHZ5GfkKiU",
     "title": "[2.9] Blender Tutorial: Quick Water Animation",
     "latest": "2023-01-30T17:55:25+00:00",
@@ -94,26 +130,6 @@
         "display_name": "JD Long \u2705"
       }
     ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=EgVfurJUdFo",
-    "title": "I Made a ChatGPT Client For Emacs - AND SO CAN YOU!!",
-    "latest": "2023-01-30T11:31:22+00:00",
-    "last_post": {
-      "url": "https://aus.social/@danderzei/109776670232634368",
-      "content": "<p>I have integrated ChatGPT with Emacs using code by Gavin Freeborn. It is like having Clippy in a plain text environment. </p><p><a href=\"https://www.youtube.com/watch?v=EgVfurJUdFo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=EgVfurJUdF</span><span class=\"invisible\">o</span></a></p><p><a href=\"https://aus.social/tags/chatgpt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chatgpt</span></a> <a href=\"https://aus.social/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@sachac",
-        "display_name": "Sacha Chua"
-      },
-      {
-        "url": "https://mastodon.social/@ctietze",
-        "display_name": "Christian Tietze"
-      }
-    ],
-    "first": "2022-12-28T21:36:13+00:00"
   },
   {
     "link": "https://www.youtube.com/watch?v=LWS8LEQAUVc&amp;t=747s",
@@ -3236,22 +3252,6 @@
       {
         "url": "https://mastodon.social/@davew",
         "display_name": "Dave Winer \u2618\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=s3szJ67iM1E",
-    "title": "Strava Doubles Its Price, But Refuses To Tell You",
-    "latest": "2023-01-15T16:07:51+00:00",
-    "first": "2023-01-15T16:07:51+00:00",
-    "last_post": {
-      "url": "https://social.coop/@natematias/109694082859653772",
-      "content": "<p>As layoffs &amp; cuts spread through the tech industry, the cycling app Strava has started raising people's monthly/annual fees by unpredictable rates up to 2x, without disclosing prices publicly, and just auto-billing them.</p><p>I expect we'll see more of this kind of Dark Pattern behavior on other platforms going forward.</p><p><a href=\"https://www.youtube.com/watch?v=s3szJ67iM1E\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=s3szJ67iM1</span><span class=\"invisible\">E</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@natematias",
-        "display_name": "J. Nathan Matias \ud83e\udda3"
       }
     ]
   }

@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/facebook/react-native/issues/35936#issuecomment-1409227535",
+    "title": "[Investigation] ANRs Using Multiline TextInput on Samsung Devices \u00b7 Issue #35936 \u00b7 facebook/react-native",
+    "latest": "2023-01-30T19:49:29+00:00",
+    "first": "2023-01-30T19:49:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@kelset/109779888968437030",
+      "content": "<p>update for <a href=\"https://mastodon.online/tags/reactnative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reactnative</span></a> \u269b\ufe0f + Samsung Keyboard + Android 13 + Grammarly issue: we have pushed out a patch release for 0.68 and 0.69 with the mitigation @cortinico and @nick_gerleman worked on.</p><p>Early signal seems promising, please use them and let us know!</p><p><a href=\"https://github.com/facebook/react-native/issues/35936#issuecomment-1409227535\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebook/react-nati</span><span class=\"invisible\">ve/issues/35936#issuecomment-1409227535</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@kelset",
+        "display_name": "Lorenzo \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/Gavinok/a18e0b2dac74e4ae67df35e45a170f7f",
+    "title": "chatgpt client for emacs WIP (Now Async!)",
+    "latest": "2023-01-30T18:38:05+00:00",
+    "first": "2023-01-30T18:38:05+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ctietze/109779608260076958",
+      "content": "<p>chatgpt client for emacs WIP (Now Async!) <a href=\"https://gist.github.com/Gavinok/a18e0b2dac74e4ae67df35e45a170f7f\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/Gavinok/a18e0b</span><span class=\"invisible\">2dac74e4ae67df35e45a170f7f</span></a></p><p>Video Demo:<br><a href=\"https://www.youtube.com/watch?v=EgVfurJUdFo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=EgVfurJUdF</span><span class=\"invisible\">o</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ctietze",
+        "display_name": "Christian Tietze"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/microsoft/react-native-macos/pull/1688",
+    "title": "[Fabric] RCTSurfaceTouchHandler for macOS by lenaic \u00b7 Pull Request #1688 \u00b7 microsoft/react-native-macos",
+    "latest": "2023-01-30T18:28:41+00:00",
+    "first": "2023-01-30T18:28:41+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@kelset/109779571283557090",
+      "content": "<p>\ud83e\udd73 things are happeningggggggg <br>---<br>RT @ReactNativeMSFT<br>Can have a lil bit of Fabric on macOS, as a treat. Check out the PR: <a href=\"https://github.com/microsoft/react-native-macos/pull/1688\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/microsoft/react-nat</span><span class=\"invisible\">ive-macos/pull/1688</span></a>&nbsp;</p><p>Work in progress: <br><a href=\"https://twitter.com/ReactNativeMSFT/status/1619037832496156674\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/ReactNativeMSFT/st</span><span class=\"invisible\">atus/1619037832496156674</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@kelset",
+        "display_name": "Lorenzo \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/bluwy/publint/network/dependents",
     "title": "github.com/bluwy/publint/netwo...",
     "latest": "2023-01-30T15:56:32+00:00",
@@ -3344,54 +3392,6 @@
       {
         "url": "https://mstdn.io/@paperswelove",
         "display_name": "Papers We Love"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@neocartocnrs/display-and-hide-layers-with-d3js",
-    "title": "How to display and hide layers with d3js?",
-    "latest": "2023-01-20T10:56:52+00:00",
-    "first": "2023-01-20T10:56:52+00:00",
-    "last_post": {
-      "url": "https://vis.social/@neocarto/109721171528963779",
-      "content": "<p>How to display and hide layers with <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> &amp; d3js? 3 solutions with the help of Fabian Iwand  &amp; Mark McClure. <a href=\"https://observablehq.com/@neocartocnrs/display-and-hide-layers-with-d3js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/display-and-hide-layers-with-d3js</span></a> <a href=\"https://vis.social/tags/d3js\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>d3js</span></a> <a href=\"https://vis.social/tags/JSspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSspatial</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@neocarto",
-        "display_name": "Nicolas Lambert \ud83c\udf0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rotki/rotki/releases",
-    "title": "Releases \u00b7 rotki/rotki",
-    "latest": "2023-01-20T10:10:31+00:00",
-    "last_post": {
-      "url": "https://cryptodon.lol/@lefteris/109720989281361570",
-      "content": "<p>\ud83d\udc26With @rotkiapp you will soon be able to figure out all your @optimismFND transactions + what they do</p><p>Here is mine. Using @HopProtocol and claiming the OP airdrop.</p><p>\u23ecTry our current version: <a href=\"https://github.com/rotki/rotki/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rotki/rotki/release</span><span class=\"invisible\">s</span></a><br>\ud83d\udcc8Buy premium, unlock all features: <a href=\"https://rotki.com/products\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">rotki.com/products</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://cryptodon.lol/@lefteris",
-        "display_name": "lefterisjp"
-      }
-    ],
-    "first": "2022-12-30T19:28:07+00:00"
-  },
-  {
-    "link": "https://github.com/MinBZK/woo-besluit-broncode-digid-app/",
-    "title": "GitHub - MinBZK/woo-besluit-broncode-digid-app",
-    "latest": "2023-01-20T10:02:22+00:00",
-    "first": "2023-01-18T07:39:44+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@tagir_valeev/109709332298775052",
-      "content": "<p>Unpopular opinion: this is good code, it has no problems. Well-isolated pure function with clear semantics, clear implementation and good performance. What else do you need?</p><p>RT @JeroenFrijters@twitter.com</p><p>The Dutch government was forced to release the source code of their DigiD digital authentication iOS app. It is written in C#.<br><a href=\"https://github.com/MinBZK/woo-besluit-broncode-digid-app/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MinBZK/woo-besluit-</span><span class=\"invisible\">broncode-digid-app/</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/JeroenFrijters/status/1615204074588180481\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/JeroenFrijters/sta</span><span class=\"invisible\">tus/1615204074588180481</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ctietze",
-        "display_name": "Christian Tietze"
       }
     ]
   }
