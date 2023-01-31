@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/robots.txt",
+    "title": "https://github.com/robots.txt",
+    "latest": "2023-01-31T01:38:44+00:00",
+    "first": "2023-01-31T01:38:44+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109781262335879538",
+      "content": "<p>Here's a fun mystery to ponder on a Monday evening... the GitHub robots.txt file at <a href=\"https://github.com/robots.txt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/robots.txt</span><span class=\"invisible\"></span></a> includes the following rules:</p><p>```<br>Disallow: /ekansa/Open-Context-Data<br>Disallow: /ekansa/opencontext-*<br>```<br><a href=\"https://github.com/ekansa/Open-Context-Data\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ekansa/Open-Context</span><span class=\"invisible\">-Data</span></a> is the ONLY repository on the whole of GitHub that gets explicitly listed in robots.txt like that</p><p>There's clearly a story there! I wonder what it is</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ekansa/Open-Context-Data",
+    "title": "github.com/ekansa/Open-Context...",
+    "latest": "2023-01-31T01:38:44+00:00",
+    "first": "2023-01-31T01:38:44+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109781262335879538",
+      "content": "<p>Here's a fun mystery to ponder on a Monday evening... the GitHub robots.txt file at <a href=\"https://github.com/robots.txt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/robots.txt</span><span class=\"invisible\"></span></a> includes the following rules:</p><p>```<br>Disallow: /ekansa/Open-Context-Data<br>Disallow: /ekansa/opencontext-*<br>```<br><a href=\"https://github.com/ekansa/Open-Context-Data\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ekansa/Open-Context</span><span class=\"invisible\">-Data</span></a> is the ONLY repository on the whole of GitHub that gets explicitly listed in robots.txt like that</p><p>There's clearly a story there! I wonder what it is</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/elk-zone/elk",
     "title": "GitHub - elk-zone/elk: A nimble Mastodon web client",
     "latest": "2023-01-30T22:14:28+00:00",
@@ -3388,38 +3420,6 @@
       {
         "url": "https://fosstodon.org/@sophiamyang",
         "display_name": "Sophia Yang"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/releases/tag/v4.1.0rc1",
-    "title": "Release v4.1.0rc1 \u00b7 mastodon/mastodon",
-    "latest": "2023-01-20T14:31:34+00:00",
-    "first": "2023-01-20T14:31:34+00:00",
-    "last_post": {
-      "url": "https://vmst.io/@vmstan/109721950102144119",
-      "content": "<p>For me, an awesome sign of where things are headed is only maybe a couple of these changes have Gargron\u2019s name on it. Claire does a lot but there\u2019s a ton of individual contributions in 4.1! <a href=\"https://github.com/mastodon/mastodon/releases/tag/v4.1.0rc1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/r</span><span class=\"invisible\">eleases/tag/v4.1.0rc1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/elk-zone/elk-native/releases/tag/elk-native-v0.2.1",
-    "title": "Release Elk Native v0.2.1 \u00b7 elk-zone/elk-native",
-    "latest": "2023-01-20T14:20:32+00:00",
-    "first": "2023-01-20T14:20:32+00:00",
-    "last_post": {
-      "url": "https://m.webtoo.ls/@unsafe/109721943617541146",
-      "content": "<p><span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span> native v0.2.1 is out! This includes a few fixes in the UI, existing installations will prompt your automatically, everybody else check it out here:<br><a href=\"https://github.com/elk-zone/elk-native/releases/tag/elk-native-v0.2.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk-native</span><span class=\"invisible\">/releases/tag/elk-native-v0.2.1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
       }
     ]
   }
