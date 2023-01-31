@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/mickeynp/combobulate",
+    "title": "GitHub - mickeynp/combobulate: Structured Editing and Navigation in Emacs",
+    "latest": "2023-01-31T17:56:17+00:00",
+    "first": "2023-01-31T17:56:17+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@anticomputer/109785106214269955",
+      "content": "<p>Things like <a href=\"https://github.com/mickeynp/combobulate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mickeynp/combobulat</span><span class=\"invisible\">e</span></a> are the answer to \"why should I care about tree-sitter support in Emacs\" ... very exciting! <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://emacs.ch/@anticomputer",
+        "display_name": "Bas Alberts :emacs:"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/bvaughn/react-resizable-panels/issues/96",
     "title": "Scrollbars appear on drag event \u00b7 Issue #96 \u00b7 bvaughn/react-resizable-panels",
     "latest": "2023-01-31T14:45:24+00:00",
@@ -3412,22 +3428,6 @@
       {
         "url": "https://mastodon.online/@tomstafford",
         "display_name": "tomstafford"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/trozware/TextField-workaround",
-    "title": "GitHub - trozware/TextField-workaround",
-    "latest": "2023-01-21T07:39:48+00:00",
-    "first": "2023-01-21T07:39:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@troz/109725341096365990",
-      "content": "<p>People working with SwiftUI for macOS have mentioned problems with TextField where the cursor jumps to the end of the text after every edit.</p><p>I encountered this too and have reported it (FB11960285) but I also found a work-around.</p><p>The issue is if you pass the text to be edited directly as a Binding. If you wrap a Published string in an ObservableObject and pass that instead, the TextField works as expected.</p><p>Sample project here: <a href=\"https://github.com/trozware/TextField-workaround\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/trozware/TextField-</span><span class=\"invisible\">workaround</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ctietze",
-        "display_name": "Christian Tietze"
       }
     ]
   }
