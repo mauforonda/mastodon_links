@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://doi.org/10.1073/pnas.2208863120",
+    "title": "doi.org/10.1073/pnas.220886312...",
+    "latest": "2023-01-31T04:03:14+00:00",
+    "first": "2023-01-31T04:03:14+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@MarkRubin/109781742877535736",
+      "content": "<p>New machine learning model predicts the replicability of 14,126 psychology articles and concludes:</p><p>\ud83d\udd39 Experiments replicate less than non-experiments</p><p>\ud83d\udd39 Researchers with more publications and citations replicate more</p><p>\ud83d\udd39 Failed replications get more media attention</p><p>\ud83d\udd39 Personality psych is more replicable than social psych</p><p>\ud83d\udcd6 <a href=\"https://doi.org/10.1073/pnas.2208863120\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1073/pnas.220886312</span><span class=\"invisible\">0</span></a></p><p><a href=\"https://fediscience.org/tags/Science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Science</span></a><br><a href=\"https://fediscience.org/tags/Psychology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Psychology</span></a><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/psychology\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>psychology</span></a></span><br><a href=\"https://fediscience.org/tags/SocialPsychology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialPsychology</span></a><br><a href=\"https://fediscience.org/tags/SocialScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialScience</span></a><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/socialpsych\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>socialpsych</span></a></span><br><a href=\"https://fediscience.org/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a><br><a href=\"https://fediscience.org/tags/MetaScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MetaScience</span></a><br><a href=\"https://fediscience.org/tags/MetaResearch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MetaResearch</span></a><br><a href=\"https://fediscience.org/tags/ReplicationCrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ReplicationCrisis</span></a><br><a href=\"https://fediscience.org/tags/MLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MLM</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@erinnacland",
+        "display_name": "Erinn Acland, PhD"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.13081",
+    "title": "STAIR: Learning Sparse Text and Image Representation in Grounded Tokens",
+    "latest": "2023-01-31T03:30:29+00:00",
+    "first": "2023-01-31T02:25:06+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@akhaliq/109781692977176159",
+      "content": "<p>STAIR: Learning Sparse Text and Image Representation in Grounded Tokens </p><p>abs: <a href=\"https://arxiv.org/abs/2301.13081\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.13081</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@Adverb",
+        "display_name": "Advadnoun"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2301.12662",
     "title": "SingSong: Generating musical accompaniments from singing",
     "latest": "2023-01-31T02:40:09+00:00",
@@ -39,22 +75,6 @@
     "last_post": {
       "url": "https://sigmoid.social/@aran/109781444784902688",
       "content": "<p>Distilling Internet-Scale Vision-Language Models into Embodied Agents</p><p>Outlines a new and effective way to use internet-scale VLMs, repurposing the generic language grounding acquired by such models to teach task-relevant groundings to embodied agents.</p><p><a href=\"https://arxiv.org/abs/2301.12507\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.12507</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.13081",
-    "title": "STAIR: Learning Sparse Text and Image Representation in Grounded Tokens",
-    "latest": "2023-01-31T02:25:06+00:00",
-    "first": "2023-01-31T02:25:06+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109781444617686223",
-      "content": "<p>STAIR: Learning Sparse Text and Image Representation in Grounded Tokens</p><p>Significantly outperforms CLIP image retrieval and also<br>achieves better perf on both of ImageNet zero-shot and linear probing compared to CLIP.</p><p><a href=\"https://arxiv.org/abs/2301.13081\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.13081</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
@@ -3312,22 +3332,6 @@
       {
         "url": "https://hcommons.social/@proghist",
         "display_name": "Programming Historian"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.07825",
-    "title": "XTrace: Making the most of every sample in stochastic trace estimation",
-    "latest": "2023-01-20T15:20:38+00:00",
-    "first": "2023-01-20T16:00:34+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@sp_monte_carlo/109720803264382805",
-      "content": "<p><a href=\"https://arxiv.org/abs/2301.07825\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07825</span><span class=\"invisible\"></span></a><br>'XTrace: Making the most of every sample in stochastic trace estimation'<br>- Ethan N. Epperly, Joel A. Tropp, Robert J. Webber</p><p>The Girard-Hutchinson estimator is widely used for approximating certain features of matrices which can only be accessed by matrix-vector products. This work improves upon the basic estimator through i) an adaptive control variate (as advocated in Hutch++), and ii) a Rao-Blackwellisation scheme, obtaining impressive speedups.</p><p><a href=\"https://mathstodon.xyz/tags/sparxivdigest\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sparxivdigest</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@ethanepperly",
-        "display_name": "ethanepperly"
       }
     ]
   }

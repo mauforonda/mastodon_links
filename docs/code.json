@@ -1,8 +1,24 @@
 [
   {
+    "link": "https://github.com/tc39/proposal-symbols-as-weakmap-keys",
+    "title": "GitHub - tc39/proposal-symbols-as-weakmap-keys: Permit Symbols as keys in WeakMaps, entries in WeakSets and WeakRefs, and registered in FinalizationRegistries",
+    "latest": "2023-01-31T05:48:35+00:00",
+    "first": "2023-01-31T05:48:35+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@robpalmer/109780142979578865",
+      "content": "<p>ECMAScript excitement \ud83d\ude09</p><p>Congrats to proposal champion Ashley Claymore on advancing the \"Symbols as WeakMap keys\" proposal to Stage 4 at <span class=\"h-card\"><a href=\"https://fosstodon.org/@TC39\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>TC39</span></a></span> today \ud83c\udf89</p><p><a href=\"https://github.com/tc39/proposal-symbols-as-weakmap-keys\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tc39/proposal-symbo</span><span class=\"invisible\">ls-as-weakmap-keys</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/robots.txt",
     "title": "https://github.com/robots.txt",
-    "latest": "2023-01-31T01:38:44+00:00",
+    "latest": "2023-01-31T04:16:44.425000+00:00",
     "first": "2023-01-31T01:38:44+00:00",
     "last_post": {
       "url": "https://fedi.simonwillison.net/@simon/109781262335879538",
@@ -12,13 +28,17 @@
       {
         "url": "https://fedi.simonwillison.net/@simon",
         "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://hachyderm.io/@tedivm",
+        "display_name": "Rob Hafner :verified_bi:"
       }
     ]
   },
   {
     "link": "https://github.com/ekansa/Open-Context-Data",
     "title": "github.com/ekansa/Open-Context...",
-    "latest": "2023-01-31T01:38:44+00:00",
+    "latest": "2023-01-31T04:16:44.425000+00:00",
     "first": "2023-01-31T01:38:44+00:00",
     "last_post": {
       "url": "https://fedi.simonwillison.net/@simon/109781262335879538",
@@ -28,6 +48,10 @@
       {
         "url": "https://fedi.simonwillison.net/@simon",
         "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://hachyderm.io/@tedivm",
+        "display_name": "Rob Hafner :verified_bi:"
       }
     ]
   },
@@ -3404,22 +3428,6 @@
       {
         "url": "https://m.webtoo.ls/@patak",
         "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/holoviz/holoviz/blob/main/doc/governance/org-docs/STEERING-COMMITTEE.md",
-    "title": "holoviz/STEERING-COMMITTEE.md at main \u00b7 holoviz/holoviz",
-    "latest": "2023-01-20T15:45:30+00:00",
-    "first": "2023-01-20T15:45:30+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@sophiamyang/109722306515676005",
-      "content": "<p>\ud83e\udd70 Super honored to serve on the @HoloViz_org steering committee! <br>---<br>RT <span class=\"h-card\"><a href=\"https://fosstodon.org/@MarcSkovMadsen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MarcSkovMadsen</span></a></span><br>About to join the inaugural Kick Off Meeting of the @HoloViz_org steering committee.</p><p>Looking forward to help push @Panel_org, @HoloViews, <a href=\"https://fosstodon.org/tags/hvplot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hvplot</span></a>, @datashader, <a href=\"https://fosstodon.org/tags/param\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>param</span></a> and more forward.</p><p><a href=\"https://github.com/holoviz/holoviz/blob/main/doc/governance/org-docs/STEERING-COMMITTEE.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/holoviz/holoviz/blo</span><span class=\"invisible\">b/main/doc/governance/org-docs/STEERING-COMMITTEE.md</span></a></p><p><a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fosstodon.org/tags/datascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datascience</span></a> <br><a href=\"https://twitter.com/MarcSkovMadsen/status/1616442690828390401\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/MarcSkovMadsen/sta</span><span class=\"invisible\">tus/1616442690828390401</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@sophiamyang",
-        "display_name": "Sophia Yang"
       }
     ]
   }
