@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://github.com/elk-zone/elk",
+    "title": "GitHub - elk-zone/elk: A nimble Mastodon web client",
+    "latest": "2023-01-30T22:14:28+00:00",
+    "first": "2023-01-12T11:14:07+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109780459108275706",
+      "content": "<p>Really enjoying <a href=\"https://elk.zone/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">elk.zone/</span><span class=\"invisible\"></span></a> as my main desktop Mastodon client at the moment - it feels like a spiritual successor to <a href=\"https://pinafore.social/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pinafore.social/</span><span class=\"invisible\"></span></a></p><p>It's a fast loading, well built SPA application (using Vue - Pinafore used Svelte) which works entirely using the Mastodon JSON API (via CORS requests)</p><p>Code here: <a href=\"https://github.com/elk-zone/elk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/elk-zone/elk</span><span class=\"invisible\"></span></a></p><p>It's fun watching what it's doing via browser DevTools - a really neat way to familiarize yourself with how the Mastodon API actually works</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Gargron",
+        "display_name": "Eugen Rochko"
+      },
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      },
+      {
+        "url": "https://chaos.social/@janl",
+        "display_name": "Jan Lehnardt \ud83d\udecb\ufe0f"
+      },
+      {
+        "url": "https://indieweb.social/@adamghill",
+        "display_name": "adamghill"
+      },
+      {
+        "url": "https://typo.social/@jasonsantamaria",
+        "display_name": "Jason Santa Maria"
+      },
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      },
+      {
+        "url": "https://vis.social/@llimllib",
+        "display_name": "llimllib"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/joeycastillo/The-Open-Book/tree/reboot",
+    "title": "GitHub - joeycastillo/The-Open-Book at reboot",
+    "latest": "2023-01-30T21:30:51+00:00",
+    "first": "2023-01-30T21:30:51+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@cathos/109779428515423145",
+      "content": "<p>Finished building my first [Open Book](<a href=\"https://github.com/joeycastillo/The-Open-Book/tree/reboot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/joeycastillo/The-Op</span><span class=\"invisible\">en-Book/tree/reboot</span></a>) <a href=\"https://merveilles.town/tags/oshw\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>oshw</span></a> <a href=\"https://merveilles.town/tags/ebook\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ebook</span></a> <a href=\"https://merveilles.town/tags/theWorkshop\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>theWorkshop</span></a> <a href=\"https://merveilles.town/tags/openbook\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openbook</span></a> <a href=\"https://merveilles.town/tags/oddlyspecificobjects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>oddlyspecificobjects</span></a> <a href=\"https://merveilles.town/tags/soldering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>soldering</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@Ttso",
+        "display_name": "Tuija Sonkkila"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/facebook/react-native/issues/35936#issuecomment-1409227535",
     "title": "[Investigation] ANRs Using Multiline TextInput on Samsung Devices \u00b7 Issue #35936 \u00b7 facebook/react-native",
     "latest": "2023-01-30T19:49:29+00:00",
@@ -3360,38 +3420,6 @@
       {
         "url": "https://m.webtoo.ls/@patak",
         "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hueyy/awesome-mastodon/#clients",
-    "title": "github.com/hueyy/awesome-masto...",
-    "latest": "2023-01-20T13:29:19+00:00",
-    "first": "2023-01-20T13:29:19+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@cheeaun/109721535595405709",
-      "content": "<p>\ud83d\udc40 Looks like the <a href=\"https://mastodon.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> apps feature comparison list got updated, now includes <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span> <a href=\"https://docs.google.com/spreadsheets/d/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/edit#gid=0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.google.com/spreadsheets/d</span><span class=\"invisible\">/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/edit#gid=0</span></a></p><p>\ud83d\udc4f Also the more *actively* updated list of clients, compiled by <span class=\"h-card\"><a href=\"https://kopiti.am/@huey\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>huey</span></a></span> <a href=\"https://github.com/hueyy/awesome-mastodon/#clients\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hueyy/awesome-masto</span><span class=\"invisible\">don/#clients</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@doppioslash",
-        "display_name": "Claudia Doppioslash/ShaderCat"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/epidemic-algorithms-for-replicated-database-maintenance.pdf",
-    "title": "github.com/papers-we-love/pape...",
-    "latest": "2023-01-20T13:05:06+00:00",
-    "first": "2023-01-20T13:05:06+00:00",
-    "last_post": {
-      "url": "https://mstdn.io/@paperswelove/109721675809399674",
-      "content": "<p>\ud83d\udcdc Epidemic algorithms for replicated database maintenance [1987]</p><p>By: A. Demers, D. Greene, C. Hauser, et al.</p><p>\ud83d\udcd6 <a href=\"https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/epidemic-algorithms-for-replicated-database-maintenance.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/papers-we-love/pape</span><span class=\"invisible\">rs-we-love/blob/master/distributed_systems/epidemic-algorithms-for-replicated-database-maintenance.pdf</span></a><br>\ud83d\udd0d <a href=\"https://www.semanticscholar.org/paper/49ed15db181c74c7067ec01800fb5392411c868c\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semanticscholar.org/paper/49ed</span><span class=\"invisible\">15db181c74c7067ec01800fb5392411c868c</span></a></p><p><a href=\"https://mstdn.io/tags/semanticScholar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>semanticScholar</span></a> <a href=\"https://mstdn.io/tags/paperswelove\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperswelove</span></a> <a href=\"https://mstdn.io/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a> <a href=\"https://mstdn.io/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.io/@paperswelove",
-        "display_name": "Papers We Love"
       }
     ]
   }
