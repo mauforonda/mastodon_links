@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/tysam-code/hlb-CIFAR10",
+    "title": "github.com/tysam-code/hlb-CIFA...",
+    "latest": "2023-01-31T08:29:22+00:00",
+    "first": "2023-01-31T08:29:22+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@mc/109781726556789435",
+      "content": "<p>I like the idea of kaggle but with constraints (parameter count, inference time, training time, data availability, architectural restrictions, etc).</p><p>A few months ago I first learned about the DAWNBench challenge [1] through a fantastic series about fast training [2]. Then yesterday, there was a post about reaching 94% accuracy on CIFAR10 in ~10 seconds [3], which got me thinking about it again.</p><p>[1]: <a href=\"https://dawn.cs.stanford.edu/benchmark/index.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dawn.cs.stanford.edu/benchmark</span><span class=\"invisible\">/index.html</span></a><br>[2]: <a href=\"https://myrtle.ai/learn/how-to-train-your-resnet/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">myrtle.ai/learn/how-to-train-y</span><span class=\"invisible\">our-resnet/</span></a><br>[3]: <a href=\"https://github.com/tysam-code/hlb-CIFAR10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tysam-code/hlb-CIFA</span><span class=\"invisible\">R10</span></a></p><p><a href=\"https://sigmoid.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@andrey",
+        "display_name": "Andrey Kurenkov"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/11ty/eleventy-plugin-vite/releases/tag/v4.0.0",
+    "title": "Release Eleventy Vite Plugin v4.0.0 \u00b7 11ty/eleventy-plugin-vite",
+    "latest": "2023-01-31T07:15:44+00:00",
+    "first": "2023-01-31T07:15:44+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@eleventy/109763049663952266",
+      "content": "<p>New release: Eleventy Plugin Vite v4.0.0</p><p><a href=\"https://github.com/11ty/eleventy-plugin-vite/releases/tag/v4.0.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy-plugi</span><span class=\"invisible\">n-vite/releases/tag/v4.0.0</span></a></p><p>\ud83c\udf89 Upgrades to the new Vite v4.0 server<br>\ud83d\udc1e Fixes for empty chunks on non-HTML files<br>\ud83d\udc1e Improvements to imports (bare specifiers in ESM)</p><p>Thanks to <span class=\"h-card\"><a href=\"https://fosstodon.org/@KiwiKilian\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>KiwiKilian</span></a></span> and Vivian Guillen for contributions and to <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@vite\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vite</span></a></span>!</p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/tc39/proposal-symbols-as-weakmap-keys",
     "title": "GitHub - tc39/proposal-symbols-as-weakmap-keys: Permit Symbols as keys in WeakMaps, entries in WeakSets and WeakRefs, and registered in FinalizationRegistries",
     "latest": "2023-01-31T05:48:35+00:00",
@@ -3396,38 +3428,6 @@
       {
         "url": "https://mas.to/@helgek",
         "display_name": "helge"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/discussions/23172",
-    "title": "JSON auto-discovery? \u00b7 Discussion #23172 \u00b7 mastodon/mastodon",
-    "latest": "2023-01-20T16:58:37+00:00",
-    "first": "2023-01-20T16:58:37+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@kidehen/109722593997100221",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@Mastodon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Mastodon</span></a></span>, </p><p><a href=\"https://mastodon.social/tags/JSON\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSON</span></a> (specifically, the \"application/activity+json variant) is what drives the <a href=\"https://mastodon.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a>. </p><p>Question:<br>Why isn't it auto-discoverable form <a href=\"https://mastodon.social/tags/HTML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HTML</span></a> pages published by this platform? </p><p>I've opened a discussion en route to an official issue at:<br><a href=\"https://github.com/mastodon/mastodon/discussions/23172\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/d</span><span class=\"invisible\">iscussions/23172</span></a></p><p>Thoughts and comments welcome from all \ud83d\ude00</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/vuejs/devtools/releases/tag/v6.5.0",
-    "title": "Release v6.5.0 \u00b7 vuejs/devtools",
-    "latest": "2023-01-20T15:59:00+00:00",
-    "first": "2023-01-20T15:59:00+00:00",
-    "last_post": {
-      "url": "https://m.webtoo.ls/@Akryum/109722356545797013",
-      "content": "<p>Released <a href=\"https://m.webtoo.ls/tags/vuejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vuejs</span></a> devtools 6.5.0! \ud83d\udd25</p><p><a href=\"https://github.com/vuejs/devtools/releases/tag/v6.5.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vuejs/devtools/rele</span><span class=\"invisible\">ases/tag/v6.5.0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
       }
     ]
   }
