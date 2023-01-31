@@ -64,6 +64,38 @@
     ]
   },
   {
+    "link": "https://buffer.com/mastodon",
+    "title": "Make Your Mark in the Fediverse with Buffer\u2019s Mastodon Scheduler",
+    "latest": "2023-01-31T18:20:48+00:00",
+    "first": "2023-01-31T18:00:07+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@dangillmor/109785198098211242",
+      "content": "<p>A genuine breakthrough in Mastodon/fediverse: <span class=\"h-card\"><a href=\"https://mastodon.world/@buffer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>buffer</span></a></span> -- a tool for managing social media accounts -- now supports this place. <a href=\"https://buffer.com/mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buffer.com/mastodon</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      },
+      {
+        "url": "https://mastodon.social/@Gargron",
+        "display_name": "Eugen Rochko"
+      },
+      {
+        "url": "https://curbal.social/@ruthpozuelo",
+        "display_name": "Ruth Pozuelo Martinez"
+      },
+      {
+        "url": "https://friend.camp/@darius",
+        "display_name": "Darius Kazemi"
+      }
+    ]
+  },
+  {
     "link": "https://journals.sagepub.com/doi/full/10.1177/20539517221149106",
     "title": "journals.sagepub.com/doi/full/...",
     "latest": "2023-01-30T15:44:11+00:00",
@@ -88,6 +120,34 @@
       {
         "url": "https://mastodon.social/@philipncohen",
         "display_name": "Philip N Cohen"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.13188",
+    "title": "Extracting Training Data from Diffusion Models",
+    "latest": "2023-01-31T20:34:47+00:00",
+    "first": "2023-01-31T02:10:33+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@Riedl/109785581486676414",
+      "content": "<p>Stable Diffusion can memorize and output impages from its training set, including copyrighted content </p><p><a href=\"https://arxiv.org/abs/2301.13188\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.13188</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      },
+      {
+        "url": "https://tldr.nettime.org/@adam_harvey",
+        "display_name": "Adam Harvey"
+      },
+      {
+        "url": "https://wandering.shop/@janellecshane",
+        "display_name": "Janelle Shane"
       }
     ]
   },
@@ -260,26 +320,26 @@
     ]
   },
   {
-    "link": "https://arxiv.org/abs/2301.13188",
-    "title": "Extracting Training Data from Diffusion Models",
-    "latest": "2023-01-31T17:55:10+00:00",
-    "first": "2023-01-31T02:10:33+00:00",
+    "link": "https://catgpt.wvd.io/",
+    "title": "CatGPT",
+    "latest": "2023-01-31T18:38:54+00:00",
+    "first": "2023-01-31T04:19:21+00:00",
     "last_post": {
-      "url": "https://creative.ai/@alexjc/109784876952027287",
-      "content": "<p>RT @Eric_Wallace_@twitter.com</p><p>Models such as Stable Diffusion are trained on copyrighted, trademarked, private, and sensitive images.</p><p>Yet, our new paper shows that diffusion models memorize images from their training data and emit them at generation time.</p><p>Paper: <a href=\"https://arxiv.org/abs/2301.13188\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.13188</span><span class=\"invisible\"></span></a>   </p><p>\ud83d\udc47[1/9]</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/Eric_Wallace_/status/1620449934863642624\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/Eric_Wallace_/stat</span><span class=\"invisible\">us/1620449934863642624</span></a></p>"
+      "url": "https://mastodon.me.uk/@garius/109783008732951265",
+      "content": "<p>I have to say, CatGPT is scarily accurate. Machine learning has come a long way.</p><p><a href=\"https://catgpt.wvd.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">catgpt.wvd.io/</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
+        "url": "https://mastodon.social/@delong",
+        "display_name": "delong"
       },
       {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
+        "url": "https://front-end.social/@mxbck",
+        "display_name": "Max B\u00f6ck"
       },
       {
-        "url": "https://tldr.nettime.org/@adam_harvey",
-        "display_name": "Adam Harvey"
+        "url": "https://mastodon.social/@elipariser",
+        "display_name": "Eli Pariser"
       }
     ]
   },
@@ -308,126 +368,26 @@
     ]
   },
   {
-    "link": "https://buffer.com/mastodon",
-    "title": "Make Your Mark in the Fediverse with Buffer\u2019s Mastodon Scheduler",
-    "latest": "2023-01-31T17:18:24+00:00",
-    "first": "2023-01-31T18:00:07+00:00",
+    "link": "https://infosec.exchange/@SecurityWriter/109777576538835360",
+    "title": "Security Writer :verified: :donor: (@SecurityWriter@infosec.exchange)",
+    "latest": "2023-01-31T19:56:15+00:00",
+    "first": "2023-01-31T13:59:22+00:00",
     "last_post": {
-      "url": "https://mastodon.world/@buffer/109784864418386891",
-      "content": "<p>Hello fediverse! Buffer now officially supports Mastodon scheduling. \ud83e\udd73</p><p>The Mastodon community is growing fast, with a set of principles we admire. We\u2019re excited to explore it with you and help you build a consistent and engaging Mastodon presence.</p><p>Let\u2019s get tooting! </p><p><a href=\"https://buffer.com/mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buffer.com/mastodon</span><span class=\"invisible\"></span></a></p>"
+      "url": "https://cyberplace.social/@GossiTheDog/109784934635937556",
+      "content": "<p>Really great thread on practical reality of applying hard access control at large orgs. Every org I\u2019ve seen this at, it has gone horribly wrong - if you lock out 10% of your staff, you denial of service attack your own org (and job). <a href=\"https://infosec.exchange/@SecurityWriter/109777576538835360\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">infosec.exchange/@SecurityWrit</span><span class=\"invisible\">er/109777576538835360</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
       },
       {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
+        "url": "https://infosec.exchange/@thegrugq",
+        "display_name": "the grugq"
       },
       {
-        "url": "https://mastodon.social/@Gargron",
-        "display_name": "Eugen Rochko"
-      }
-    ]
-  },
-  {
-    "link": "https://ldj.am/$320669",
-    "title": "https://ldj.am/$320669",
-    "latest": "2023-01-30T13:18:16+00:00",
-    "first": "2023-01-28T20:45:50+00:00",
-    "last_post": {
-      "url": "https://jammer.social/@ludumdare/109768768001227869",
-      "content": "<p>Tied for 14th place in the Ludum Dare 52 Jam is:</p><p>Carrot Conundrum by blinry, winniehell, and Piko</p><p>Also:</p><p>1st place for Innovation</p><p><a href=\"https://ldj.am/$320669\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ldj.am/$320669</span><span class=\"invisible\"></span></a></p><p><a href=\"https://jammer.social/tags/LDJam\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LDJam</span></a> <a href=\"https://jammer.social/tags/LudumDare\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LudumDare</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://chaos.social/@blinry",
-        "display_name": "blinry"
-      },
-      {
-        "url": "https://fediscience.org/@neilcohn",
-        "display_name": "Neil Cohn"
-      }
-    ]
-  },
-  {
-    "link": "https://macwright.com/2023/01/28/placemark.html",
-    "title": "On Placemark",
-    "latest": "2023-01-29T00:24:35.222000+00:00",
-    "first": "2023-01-28T19:53:54+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@tmcw/109768581734547876",
-      "content": "<p>i wrote an update on placemark, as much for me as for the reader, to process the successes and failures of the last two years. it's long and hits a lot of different ideas and feelings and you're welcome to read it if you wish <a href=\"https://macwright.com/2023/01/28/placemark.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">macwright.com/2023/01/28/place</span><span class=\"invisible\">mark.html</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@tmcw",
-        "display_name": "Tom MacWright"
-      },
-      {
-        "url": "https://hachyderm.io/@allafarce",
-        "display_name": "Dave Guarino"
-      }
-    ]
-  },
-  {
-    "link": "https://urbanlibrariansunite.org/drag-story-hour-support/",
-    "title": "Drag Story Hour Support",
-    "latest": "2023-01-28T18:21:48+00:00",
-    "first": "2023-01-28T19:34:33+00:00",
-    "last_post": {
-      "url": "https://glammr.us/@jessamyn/109767853916184337",
-      "content": "<p>Colleagues, an important resource to help us do our work. Please share widely. </p><p>Drag Story Hour Support</p><p>\"This workbook was created by front line library workers to support our colleagues as they stand up for their communities. As staff work through the guide, they will complete a safety plan for their program and work together as a team to help keep the event as safe as possible.\"</p><p><a href=\"https://urbanlibrariansunite.org/drag-story-hour-support/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">urbanlibrariansunite.org/drag-</span><span class=\"invisible\">story-hour-support/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@quinnanya",
-        "display_name": "Quinn Dombrowski"
-      },
-      {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
-      }
-    ]
-  },
-  {
-    "link": "https://www.engadget.com/twitter-client-developers-fleeing-twitter-mastodon-130031551.html",
-    "title": "engadget.com/twitter-client-de...",
-    "latest": "2023-01-28T21:34:12+00:00",
-    "first": "2023-01-28T19:13:13+00:00",
-    "last_post": {
-      "url": "https://indieweb.social/@jaredwhite/109768198118639531",
-      "content": "<p>Mastodon founder and CEO Eugen Rochko tells Engadget: \u201cThird party applications are incredibly valuable for a platform because that's where the power users go \u2026 it benefits everybody because the power users are the people who create the content that everybody reads.\u201d</p><p>THANK YOU \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f </p><p><a href=\"https://www.engadget.com/twitter-client-developers-fleeing-twitter-mastodon-130031551.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">engadget.com/twitter-client-de</span><span class=\"invisible\">velopers-fleeing-twitter-mastodon-130031551.html</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Gargron",
-        "display_name": "Eugen Rochko"
-      },
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      }
-    ]
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Bullshit_Jobs",
-    "title": "Bullshit Jobs - Wikipedia",
-    "latest": "2023-01-29T10:05:01+00:00",
-    "first": "2023-01-28T18:23:13+00:00",
-    "last_post": {
-      "url": "https://tldr.nettime.org/@adam_harvey/109768225162787325",
-      "content": "<p>ChatGPT may be mostly a bullshit generator. That\u2019s also why it will probably take over many <a href=\"https://en.wikipedia.org/wiki/Bullshit_Jobs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Bullshit</span><span class=\"invisible\">_Jobs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://tldr.nettime.org/@adam_harvey",
-        "display_name": "Adam Harvey"
-      },
-      {
-        "url": "https://tldr.nettime.org/@festal",
-        "display_name": "felix stalder"
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
       }
     ]
   },
@@ -548,6 +508,26 @@
       {
         "url": "https://fedi.simonwillison.net/@simon",
         "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://registeredreports.cardiff.ac.uk/feedback",
+    "title": "registeredreports.cardiff.ac.u...",
+    "latest": "2023-01-31T19:49:31+00:00",
+    "first": "2023-01-30T00:48:20+00:00",
+    "last_post": {
+      "url": "https://scicomm.xyz/@benmeg/109751146463376634",
+      "content": "<p>\ud83d\udce2 Calling all Registered Reports authors &amp; reviewers!</p><p>We built a website to understand the community's experience of RRs peer review.</p><p><a href=\"https://registeredreports.cardiff.ac.uk/feedback\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">registeredreports.cardiff.ac.u</span><span class=\"invisible\">k/feedback</span></a></p><p>\u270f\ufe0f Please spend 5mins giving your feedback.</p><p><a href=\"https://scicomm.xyz/tags/Metascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Metascience</span></a> <a href=\"https://scicomm.xyz/tags/RegisteredReports\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RegisteredReports</span></a> <a href=\"https://scicomm.xyz/tags/RegisteredReport\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RegisteredReport</span></a> <a href=\"https://scicomm.xyz/tags/PeerReview\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PeerReview</span></a> <a href=\"https://scicomm.xyz/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://nerdculture.de/@briannosek",
+        "display_name": "Brian Nosek"
+      },
+      {
+        "url": "https://fediscience.org/@erinnacland",
+        "display_name": "Erinn Acland, PhD"
       }
     ]
   },
@@ -1172,26 +1152,6 @@
     ]
   },
   {
-    "link": "https://catgpt.wvd.io/",
-    "title": "CatGPT",
-    "latest": "2023-01-31T10:33:24+00:00",
-    "first": "2023-01-31T04:19:21+00:00",
-    "last_post": {
-      "url": "https://friend.camp/@ranjit/109779658504618386",
-      "content": "<p>this is MUCH better than chatgpt: catgpt</p><p><a href=\"https://catgpt.wvd.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">catgpt.wvd.io/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@delong",
-        "display_name": "delong"
-      },
-      {
-        "url": "https://front-end.social/@mxbck",
-        "display_name": "Max B\u00f6ck"
-      }
-    ]
-  },
-  {
     "link": "https://drones.pitchinteractive.com/",
     "title": "https://drones.pitchinteractive.com/",
     "latest": "2023-01-31T09:22:21+00:00",
@@ -1332,6 +1292,26 @@
     ]
   },
   {
+    "link": "https://start.coops.tech/",
+    "title": "https://start.coops.tech",
+    "latest": "2023-01-31T19:20:44+00:00",
+    "first": "2023-01-31T14:00:07+00:00",
+    "last_post": {
+      "url": "https://social.coop/@dajb/109783814263495295",
+      "content": "<p>Last week I was talking about how awesome it would be if some of the people who have been laid off recently from 'Big Tech' jobs decided to form <a href=\"https://social.coop/tags/coops\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>coops</span></a>.</p><p>There seemed to be a need for more info around this, so I had a meeting with CoTech colleagues <span class=\"h-card\"><a href=\"https://social.coop/@BillySmith\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>BillySmith</span></a></span> <span class=\"h-card\"><a href=\"https://social.coop/@chrislowis\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chrislowis</span></a></span> &amp; <span class=\"h-card\"><a href=\"https://social.coop/@Graham_Mitchell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Graham_Mitchell</span></a></span> to figure out something practical.</p><p>Pleased to show MVP site as a result of this at <a href=\"https://start.coops.tech\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">start.coops.tech</span><span class=\"invisible\"></span></a></p><p>There are five of us - including <span class=\"h-card\"><a href=\"https://social.coop/@KingMob\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>KingMob</span></a></span> - volunteering initially. Please share widely!</p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@cblgh",
+        "display_name": "Alexander Cobleigh"
+      },
+      {
+        "url": "https://sciences.social/@markigra",
+        "display_name": "Mark Igra"
+      }
+    ]
+  },
+  {
     "link": "https://academic.oup.com/bjd/article/188/1/1/6795460",
     "title": "watershed moment for the BJD: Authors retain their article copyright",
     "latest": "2023-01-31T16:09:39+00:00",
@@ -1392,6 +1372,26 @@
     ]
   },
   {
+    "link": "https://www.tidyverse.org/blog/2023/01/dplyr-1-1-0-joins/",
+    "title": "dplyr 1.1.0: Joins",
+    "latest": "2023-01-31T20:54:56+00:00",
+    "first": "2023-01-31T16:24:26+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@davis/109784673013727983",
+      "content": "<p>dplyr 1.1.0 is out now! \ud83c\udf89</p><p>This is a huge release, so we split the announcement into 4 posts to be released throughout the week. <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p><p>Today we'll focus on joins, including:<br>- join_by()<br>- Inequality and rolling joins<br>- Two new quality control arguments</p><p><a href=\"https://www.tidyverse.org/blog/2023/01/dplyr-1-1-0-joins/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tidyverse.org/blog/2023/01/dpl</span><span class=\"invisible\">yr-1-1-0-joins/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@jennybryan",
+        "display_name": "Jenny Bryan"
+      },
+      {
+        "url": "https://fediscience.org/@biocs",
+        "display_name": "Michael Kuhn"
+      }
+    ]
+  },
+  {
     "link": "https://www.pcmag.com/news/pet-fish-take-over-youtubers-switch-account-make-purchases-send-email",
     "title": "Pet Fish Take Over YouTuber's Switch Account, Make Purchases, Send Email",
     "latest": "2023-01-31T15:10:45+00:00",
@@ -1408,6 +1408,86 @@
       {
         "url": "https://mastodon.social/@Gargron",
         "display_name": "Eugen Rochko"
+      }
+    ]
+  },
+  {
+    "link": "https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf",
+    "title": "cs.princeton.edu/~arvindn/talk...",
+    "latest": "2023-01-31T18:55:29+00:00",
+    "first": "2023-01-31T15:32:30+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@elipariser/109784540810565289",
+      "content": "<p>This deck on AI Snake Oil from <span class=\"h-card\"><a href=\"https://mastodon.social/@randomwalker\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>randomwalker</span></a></span> is a few years old but remains *excellent.* One of my takeaways, which I find generally hopeful: People and social situations are just way less predictable than we might think!  <a href=\"https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cs.princeton.edu/~arvindn/talk</span><span class=\"invisible\">s/MIT-STS-AI-snakeoil.pdf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@elipariser",
+        "display_name": "Eli Pariser"
+      },
+      {
+        "url": "https://mastodon.social/@randomwalker",
+        "display_name": "Arvind Narayanan"
+      }
+    ]
+  },
+  {
+    "link": "https://arnicas.substack.com/p/titaa-39-moon-dots-and-spambots?sd=pf",
+    "title": "TITAA #39: Moon Dots and SpamBots",
+    "latest": "2023-01-31T19:26:38+00:00",
+    "first": "2023-01-31T20:39:06+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@arnicas/109785461465933977",
+      "content": "<p>My latest newsletter edition, AI art &amp; narrative and games and NLP and many good SF recs! <a href=\"https://mstdn.social/tags/games\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>games</span></a> <a href=\"https://mstdn.social/tags/narrative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>narrative</span></a> <a href=\"https://mstdn.social/tags/vr\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vr</span></a> <a href=\"https://mstdn.social/tags/aiart\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aiart</span></a> <a href=\"https://mstdn.social/tags/nlp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nlp</span></a> <a href=\"https://arnicas.substack.com/p/titaa-39-moon-dots-and-spambots?sd=pf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">arnicas.substack.com/p/titaa-3</span><span class=\"invisible\">9-moon-dots-and-spambots?sd=pf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://post.lurk.org/@liza",
+        "display_name": "Liza Daly"
+      },
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      }
+    ]
+  },
+  {
+    "link": "https://zettelkasten.de/",
+    "title": "Zettelkasten knowledge and info management \u2022 Zettelkasten Method",
+    "latest": "2023-01-31T18:24:47+00:00",
+    "first": "2023-01-31T18:24:52+00:00",
+    "last_post": {
+      "url": "https://boffosocko.com/2023/01/31/55814286/",
+      "content": "<p></p><p>I suspect that it\u2019s by design, but I\u2019m noticing that there\u2019s a well curated \u201c<a href=\"https://zettelkasten.de/posts/overview/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Getting Started</a>\u201d tab on <a href=\"https://zettelkasten.de/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://zettelkasten.de/</a>, but there\u2019s absolutely no sign of any documentation about \u201cFinishing\u201d. Would someone just slip me into a box when I\u2019m done? <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/zettelkasten/\" target=\"_blank\">#zettelkasten</a>\n</p><p><a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/memento-mori/\" target=\"_blank\">#memento-mori</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/the-ultimate-slipbox/\" target=\"_blank\">#the-ultimate-slipbox</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/zettelkasten/\" target=\"_blank\">#zettelkasten</a></p><p><a href=\"https://boffosocko.com/2023/01/31/55814286/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/2023/01/31/55814286/</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chrisaldrich",
+        "display_name": "Chris Aldrich"
+      },
+      {
+        "url": "https://boffosocko.com/author/chrisaldrich/",
+        "display_name": "Chris Aldrich"
+      }
+    ]
+  },
+  {
+    "link": "https://boffosocko.com/2023/01/31/55814286/",
+    "title": "boffosocko.com/2023/01/31/5581...",
+    "latest": "2023-01-31T18:24:47+00:00",
+    "first": "2023-01-31T18:24:52+00:00",
+    "last_post": {
+      "url": "https://boffosocko.com/2023/01/31/55814286/",
+      "content": "<p></p><p>I suspect that it\u2019s by design, but I\u2019m noticing that there\u2019s a well curated \u201c<a href=\"https://zettelkasten.de/posts/overview/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Getting Started</a>\u201d tab on <a href=\"https://zettelkasten.de/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://zettelkasten.de/</a>, but there\u2019s absolutely no sign of any documentation about \u201cFinishing\u201d. Would someone just slip me into a box when I\u2019m done? <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/zettelkasten/\" target=\"_blank\">#zettelkasten</a>\n</p><p><a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/memento-mori/\" target=\"_blank\">#memento-mori</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/the-ultimate-slipbox/\" target=\"_blank\">#the-ultimate-slipbox</a> <a rel=\"nofollow noopener noreferrer\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/zettelkasten/\" target=\"_blank\">#zettelkasten</a></p><p><a href=\"https://boffosocko.com/2023/01/31/55814286/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://boffosocko.com/2023/01/31/55814286/</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chrisaldrich",
+        "display_name": "Chris Aldrich"
+      },
+      {
+        "url": "https://boffosocko.com/author/chrisaldrich/",
+        "display_name": "Chris Aldrich"
       }
     ]
   }
