@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://observablehq.com/@randomfractals/datapackage-duckdb?collection=@randomfractals/duckdb",
+    "title": "Data Package \ud83d\udce6 DuckDB",
+    "latest": "2023-02-01T11:25:09+00:00",
+    "first": "2023-02-01T11:25:09+00:00",
+    "last_post": {
+      "url": "https://vis.social/@dataSamurai/109789230492560959",
+      "content": "<p>Did I mention that paid subs <a href=\"https://vis.social/tags/DuckDBPro\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DuckDBPro</span></a> tools I am working on will come with <a href=\"https://vis.social/tags/DataPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataPackages</span></a> \ud83d\udce6 support and ER diagrams?</p><p>Here is the gist of that prototype in Observable <a href=\"https://vis.social/tags/JSNotebook\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSNotebook</span></a> \ud83d\udcd3 from last year:</p><p><a href=\"https://observablehq.com/@randomfractals/datapackage-duckdb?collection=@randomfractals/duckdb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@randomfracta</span><span class=\"invisible\">ls/datapackage-duckdb?collection=@randomfractals/duckdb</span></a></p><p><a href=\"https://vis.social/tags/DuckDB\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DuckDB</span></a> Pro <a href=\"https://vis.social/tags/DataTools\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataTools</span></a> ...</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@dataSamurai",
+        "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/elk-zone/elk/issues/1552",
+    "title": "Encourage use of Alt text for attached media \u00b7 Issue #1552 \u00b7 elk-zone/elk",
+    "latest": "2023-02-01T11:06:35+00:00",
+    "first": "2023-02-01T11:06:35+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@patak/109789157518762695",
+      "content": "<p>The poll about encouraging ALT text on media in <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@elk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elk</span></a></span> ended with 90% in favor to do it by default. And most folks preferred suggesting instead of enforcing.</p><p>Feedback is welcome regarding this proposal: <a href=\"https://github.com/elk-zone/elk/issues/1552\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/issues</span><span class=\"invisible\">/1552</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/chrfalch/react-native-worklets",
+    "title": "GitHub - chrfalch/react-native-worklets",
+    "latest": "2023-02-01T10:05:32+00:00",
+    "first": "2023-02-01T10:05:32+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@kelset/109788917413314005",
+      "content": "<p>\ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udc40 <br>---<br>RT @janicduplessis<br>@notbrent Still a work in progress, but we\u2019re working on a reanimated like worklet library <a href=\"https://github.com/chrfalch/react-native-worklets\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/chrfalch/react-nati</span><span class=\"invisible\">ve-worklets</span></a><br><a href=\"https://twitter.com/janicduplessis/status/1620556274286067713\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/janicduplessis/sta</span><span class=\"invisible\">tus/1620556274286067713</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@kelset",
+        "display_name": "Lorenzo \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/rsms/llvmbox/issues/2",
     "title": "Make it work on Apple Silicon / macOS 11+ \u00b7 Issue #2 \u00b7 rsms/llvmbox",
     "latest": "2023-01-31T23:53:25+00:00",
@@ -3384,54 +3432,6 @@
       {
         "url": "https://digipres.club/@foone",
         "display_name": "Foone"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/anticomputer/emacs-codeql",
-    "title": "GitHub - anticomputer/emacs-codeql: An Emacs package for writing and testing CodeQL queries.",
-    "latest": "2023-01-22T00:56:18+00:00",
-    "first": "2023-01-22T00:56:18+00:00",
-    "last_post": {
-      "url": "https://emacs.ch/@anticomputer/109730134624223925",
-      "content": "<p>For the folks using <a href=\"https://github.com/anticomputer/emacs-codeql\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anticomputer/emacs-</span><span class=\"invisible\">codeql</span></a> \u2026 if you\u2019ve been having AST viewer issues using the latest codeql libraries and cli versions (2.12.0), I just landed support for the new query-server2 which these versions require. I also overhauled the core search path handling to be more aligned to modern codeql pack and workspace based query development and as a result the documentation and configuration  requirements have been much simplified <a href=\"https://emacs.ch/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://emacs.ch/tags/codeql\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>codeql</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/google-research/tuning_playbook/blob/main/README.md",
-    "title": "tuning_playbook/README.md at main \u00b7 google-research/tuning_playbook",
-    "latest": "2023-01-21T22:38:42+00:00",
-    "first": "2023-01-21T22:38:42+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@SebRaschka/109729593594932607",
-      "content": "<p>Just reading the Deep Learning Tuning Playbook (<a href=\"https://github.com/google-research/tuning_playbook/blob/main/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/google-research/tun</span><span class=\"invisible\">ing_playbook/blob/main/README.md</span></a>). </p><p>\"The batch size governs the training speed and shouldn't be used to directly tune the validation set performance. Often, the ideal batch size will be the largest batch size supported [...]\"</p><p>Good advice \ud83d\udc4c</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@SebRaschka",
-        "display_name": "Sebastian Raschka"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/deepshamenghani/tidytuesday/tree/master/2023",
-    "title": "tidytuesday/2023 at master \u00b7 deepshamenghani/tidytuesday",
-    "latest": "2023-01-21T22:30:12+00:00",
-    "first": "2023-01-21T22:30:12+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@deepsha/109729560172114822",
-      "content": "<p>Each week I set out to learn one new thing while participating in <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a>. This week for <a href=\"https://fosstodon.org/tags/ArHistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ArHistory</span></a> data I used <a href=\"https://fosstodon.org/tags/Magick\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Magick</span></a> for basic Image editing and superimposing. Can't wait to use it again.</p><p>Code: <a href=\"https://github.com/deepshamenghani/tidytuesday/tree/master/2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/deepshamenghani/tid</span><span class=\"invisible\">ytuesday/tree/master/2023</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/GGPlot2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GGPlot2</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@deepsha",
-        "display_name": "IandLoveandData"
       }
     ]
   }

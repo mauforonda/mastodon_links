@@ -68,6 +68,34 @@
     ]
   },
   {
+    "link": "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/",
+    "title": "New AI classifier for indicating AI-written text",
+    "latest": "2023-02-01T10:17:39+00:00",
+    "first": "2023-01-31T22:22:20+00:00",
+    "last_post": {
+      "url": "https://mastodon.adida.net/@ben/109787298429107128",
+      "content": "<p>So OpenAI just released a detector of AI-generated text, I assume because of concerns in education / homework.</p><p><a href=\"https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">openai.com/blog/new-ai-classif</span><span class=\"invisible\">ier-for-indicating-ai-written-text/</span></a></p><p>Maybe this is good?</p><p>No, it's very bad.</p><p>They claim 26% true positives, 9% false positives. Assume 10% of submitted homework is chatgpt generated, you get the classic counterintuitive outcome of poor predictive power: if a homework is flagged, there's a 3:1 chance it's *human* generated.</p><p>This is going to cause a lot of harm. It should be immediately recalled.</p>"
+    },
+    "people": [
+      {
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
+      },
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      },
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      },
+      {
+        "url": "https://hci.social/@axz",
+        "display_name": "Amy Zhang"
+      }
+    ]
+  },
+  {
     "link": "https://www.cos.io/blog/new-osf-metadata-to-support-data-sharing-policy-compliance",
     "title": "New OSF Metadata to Support Data Sharing Policy Compliance",
     "latest": "2023-01-31T21:17:25+00:00",
@@ -116,6 +144,30 @@
     ]
   },
   {
+    "link": "https://www.w3.org/blog/news/archives/9823",
+    "title": "W3C re-launched as a public-interest non-profit organization | W3C News",
+    "latest": "2023-02-01T10:51:43+00:00",
+    "first": "2023-01-31T16:22:07+00:00",
+    "last_post": {
+      "url": "https://w3c.social/@w3c/109784555616849637",
+      "content": "<p>Press release: \"W3C re-launched as a public-interest non-profit organization\"<br>We continue our core process and mission to shepherd the web, developing open web standards with contributions from W3C Members, staff, and the international community<br>More at: <a href=\"https://www.w3.org/blog/news/archives/9823\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">w3.org/blog/news/archives/9823</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      },
+      {
+        "url": "https://front-end.social/@jensimmons",
+        "display_name": "Jen Simmons"
+      },
+      {
+        "url": "https://social.coop/@flancian",
+        "display_name": "In [[Flancia]] we'll meet"
+      }
+    ]
+  },
+  {
     "link": "https://arnicas.substack.com/p/titaa-39-moon-dots-and-spambots?sd=pf",
     "title": "TITAA #39: Moon Dots and SpamBots",
     "latest": "2023-02-01T07:54:53+00:00",
@@ -140,97 +192,13 @@
     ]
   },
   {
-    "link": "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/",
-    "title": "New AI classifier for indicating AI-written text",
-    "latest": "2023-02-01T05:35:38+00:00",
-    "first": "2023-01-31T22:22:20+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@Linkletter/109786157356473913",
-      "content": "<p>OpenAI released a tool which purports to detect AI-generated text. At the highest end of detection, it labels text \"possibly\" or \"likely\" AI-generated. 21% of human-written text falls under \"possibly\" and 9% of \"likely\" does. That's 3 in 10 students being defamed and/or harmed.</p><p>Just like other providers of academic surveillance software, OpenAI states that their detector \"should not be used as a primary decision-making tool\".</p><p>It will be, though. And harm will follow.</p><p><a href=\"https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">openai.com/blog/new-ai-classif</span><span class=\"invisible\">ier-for-indicating-ai-written-text/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
-      },
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
-      },
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      }
-    ]
-  },
-  {
-    "link": "https://www.pitchinteractive.com/work/drones/",
-    "title": "Pitch Interactive: A Data Visualization Studio",
-    "latest": "2023-01-31T09:42:09+00:00",
-    "first": "2023-01-31T09:35:14+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@schmudde/109783163206189921",
-      "content": "<p><span class=\"h-card\"><a href=\"https://vis.social/@moritz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>moritz</span></a></span> Oh no! I hope it's for bigger and better things. Their \"Out of Sight, Out of Mind\" drone strike <a href=\"https://mastodon.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> was profound and important. <a href=\"https://www.pitchinteractive.com/work/drones/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">pitchinteractive.com/work/dron</span><span class=\"invisible\">es/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@moritz",
-        "display_name": "moritz"
-      },
-      {
-        "url": "https://mastodon.social/@schmudde",
-        "display_name": "D. Schmudde"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-01-31",
-    "title": "tidytuesday/2023/2023-01-31 at main \u00b7 nrennie/tidytuesday",
-    "latest": "2023-01-31T13:35:22+00:00",
-    "first": "2023-01-31T09:52:22+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nrennie/109783203330602723",
-      "content": "<p>Looking at cat's for <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> this week! I spent time working on annotations - with some help from <span class=\"h-card\"><a href=\"https://fosstodon.org/@cararthompson\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cararthompson</span></a></span>'s excellent \"Level Up Your Labels\" talk from useR last year!</p><p>PS. Magic is an exceptionally fast cat! \ud83d\udc08</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-01-31\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-01-31</span></a></p><p>Cara's talk materials: <a href=\"https://www.cararthompson.com/talks/user2022/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cararthompson.com/talks/user20</span><span class=\"invisible\">22/</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nrennie",
-        "display_name": "Nicola Rennie"
-      },
-      {
-        "url": "https://fediscience.org/@salonium",
-        "display_name": "Saloni \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-      }
-    ]
-  },
-  {
-    "link": "https://www.cararthompson.com/talks/user2022/",
-    "title": "cararthompson.com/talks/user20...",
-    "latest": "2023-01-31T13:35:22+00:00",
-    "first": "2023-01-31T09:52:22+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nrennie/109783203330602723",
-      "content": "<p>Looking at cat's for <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> this week! I spent time working on annotations - with some help from <span class=\"h-card\"><a href=\"https://fosstodon.org/@cararthompson\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cararthompson</span></a></span>'s excellent \"Level Up Your Labels\" talk from useR last year!</p><p>PS. Magic is an exceptionally fast cat! \ud83d\udc08</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-01-31\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-01-31</span></a></p><p>Cara's talk materials: <a href=\"https://www.cararthompson.com/talks/user2022/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cararthompson.com/talks/user20</span><span class=\"invisible\">22/</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nrennie",
-        "display_name": "Nicola Rennie"
-      },
-      {
-        "url": "https://fediscience.org/@salonium",
-        "display_name": "Saloni \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-      }
-    ]
-  },
-  {
     "link": "https://andy-bell.co.uk/speed-for-who/",
     "title": "Speed for who?",
-    "latest": "2023-01-31T22:42:28+00:00",
+    "latest": "2023-02-01T11:29:18+00:00",
     "first": "2023-01-31T14:55:03+00:00",
     "last_post": {
-      "url": "https://bell.bz/@andy/109784393567536751",
-      "content": "<p>Frameworks are often touted as something like \"a lightning fast development experience\" and that's fine I guess, but the speed is in the wrong hands. Why not \"a lightning fast experience for your users\"? </p><p>Sure, some frameworks will claim to be very fast for end-users with some very meticulously, massaged data to \"prove\" that, but as Zach points out in this great post, it means nothing when the output bundle sizes are astronomical off the bat: </p><p><a href=\"https://andy-bell.co.uk/speed-for-who/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">andy-bell.co.uk/speed-for-who/</span><span class=\"invisible\"></span></a></p>"
+      "url": "https://jawns.club/@len/109789240656280292",
+      "content": "<p>This is quite good, and reminds me that one of the major reasons things are bad is that the people making \u201cbuying\u201d decisions (ie devs choosing a framework) are often not the people making \u201cusage\u201d decisions (ie the end users of your app or site). </p><p>\u201cBuyers\u201d often have different priorities and incentive structures than end users.</p><p>\u201cSpeed for who?\u201d by <span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andy</span></a></span> </p><p><a href=\"https://andy-bell.co.uk/speed-for-who/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">andy-bell.co.uk/speed-for-who/</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
@@ -400,26 +368,6 @@
       {
         "url": "https://mastodon.social/@Edent",
         "display_name": "Terence Eden"
-      }
-    ]
-  },
-  {
-    "link": "https://www.w3.org/blog/news/archives/9823",
-    "title": "W3C re-launched as a public-interest non-profit organization | W3C News",
-    "latest": "2023-01-31T15:40:44+00:00",
-    "first": "2023-01-31T16:22:07+00:00",
-    "last_post": {
-      "url": "https://w3c.social/@w3c/109784555616849637",
-      "content": "<p>Press release: \"W3C re-launched as a public-interest non-profit organization\"<br>We continue our core process and mission to shepherd the web, developing open web standards with contributions from W3C Members, staff, and the international community<br>More at: <a href=\"https://www.w3.org/blog/news/archives/9823\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">w3.org/blog/news/archives/9823</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
-      },
-      {
-        "url": "https://front-end.social/@jensimmons",
-        "display_name": "Jen Simmons"
       }
     ]
   },
@@ -660,6 +608,26 @@
       {
         "url": "https://infosec.exchange/@hacks4pancakes",
         "display_name": "Lesley Carhart :unverified:"
+      }
+    ]
+  },
+  {
+    "link": "https://amp.theguardian.com/us-news/2023/jan/29/ron-desantis-florida-university-new-college-woke-war",
+    "title": "\u2018Hostile takeover\u2019: the tiny Florida university targeted by Ron DeSantis",
+    "latest": "2023-02-01T12:08:36+00:00",
+    "first": "2023-02-01T06:30:07+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@emilygorcenski/109788066540873763",
+      "content": "<p>Now would be a great time for Biden\u2019s Department of Education to do something</p><p><a href=\"https://amp.theguardian.com/us-news/2023/jan/29/ron-desantis-florida-university-new-college-woke-war\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amp.theguardian.com/us-news/20</span><span class=\"invisible\">23/jan/29/ron-desantis-florida-university-new-college-woke-war</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
+      },
+      {
+        "url": "https://mastodon.social/@mrchrisadams",
+        "display_name": "Chris Adams"
       }
     ]
   }
