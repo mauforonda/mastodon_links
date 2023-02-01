@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://observablehq.com/@simonw/plot-loss-from-nanogpt",
+    "title": "observablehq.com/@simonw/plot-...",
+    "latest": "2023-02-01T19:42:00+00:00",
+    "first": "2023-02-01T19:42:00+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109791184162800039",
+      "content": "<p>I used my laptop to generate terrible Shakespeare using a custom trained language model!</p><p><a href=\"https://til.simonwillison.net/llms/nanogpt-shakespeare-m2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">til.simonwillison.net/llms/nan</span><span class=\"invisible\">ogpt-shakespeare-m2</span></a></p><p>I used nanoGPT by <span class=\"h-card\"><a href=\"https://sigmoid.social/@karpathy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>karpathy</span></a></span> - with some hints from issue comments I was able to train the model on my MacBook Pro M2 with a 3x performance improvement using device=mps rather than device=cpu</p><p>I also built an Observable Notebook tool for plotting loss over time during training: <a href=\"https://observablehq.com/@simonw/plot-loss-from-nanogpt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@simonw/plot-</span><span class=\"invisible\">loss-from-nanogpt</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/surma/f4e7097dcbd635415215201969dd3c3b",
+    "title": "Wasm GC",
+    "latest": "2023-02-01T19:09:13+00:00",
+    "first": "2023-02-01T19:09:13+00:00",
+    "last_post": {
+      "url": "https://toot.cafe/@surma/109790519770736751",
+      "content": "<p>\ud83d\udc40 WebAssembly GC is behind a flag in V8.</p><p>Wasm can now handle structs and arrays as native types and the host will provide the garbage collection. </p><p>Curious to see if languages like Grain or TinyGo can adopt this.</p><p>Demo gist:<br><a href=\"https://gist.github.com/surma/f4e7097dcbd635415215201969dd3c3b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/surma/f4e7097d</span><span class=\"invisible\">cbd635415215201969dd3c3b</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/brickstackr",
     "title": "brickstackr - Overview",
     "latest": "2023-02-01T17:18:55+00:00",
@@ -3380,50 +3412,6 @@
       {
         "url": "https://mastodon.social/@danluu",
         "display_name": "Dan Luu"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/b73tt/valetudo-r2d2",
-    "title": "GitHub - b73tt/valetudo-r2d2: R2D2 voice pack for my Dreame running Valetudo",
-    "latest": "2023-01-23T02:27:44.050000+00:00",
-    "first": "2023-01-23T02:27:44.050000+00:00",
-    "last_post": {
-      "url": "https://brettiverse.com/objects/0fe9b933-2598-46e7-ae3e-95b617641be4",
-      "content": "On the off chance somebody else has a Dreame robot vacuum running <a class=\"hashtag\" href=\"https://brettiverse.com/tag/valetudo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#valetudo</a>, I made an R2D2 voice pack for them since I couldn't find one online.<br><br><a href=\"https://github.com/b73tt/valetudo-r2d2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/b73tt/valetudo-r2d2</a><br><br><a class=\"hashtag\" href=\"https://brettiverse.com/tag/homeautomation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#homeautomation</a> <a class=\"hashtag\" href=\"https://brettiverse.com/tag/projects\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#projects</a>"
-    },
-    "people": [
-      {
-        "url": "https://brettiverse.com/users/brett",
-        "display_name": "brett"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cloudflare/wildebeest",
-    "title": "GitHub - cloudflare/wildebeest: Wildebeest is an ActivityPub and Mastodon-compatible server",
-    "latest": "2023-01-23T00:59:25+00:00",
-    "first": "2023-01-13T05:41:19+00:00",
-    "last_post": {
-      "url": "https://social.masto.land/@dave/109735806518177289",
-      "content": "<p>Wildebeest is an ActivityPub and Mastodon-compatible server.</p><p><a href=\"https://github.com/cloudflare/wildebeest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudflare/wildebee</span><span class=\"invisible\">st</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ummjackson",
-        "display_name": "Jackson Palmer"
-      },
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2618\ufe0f"
-      },
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2615\ufe0f"
       }
     ]
   }
