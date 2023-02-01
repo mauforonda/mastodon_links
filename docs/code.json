@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://github.com/rsms/llvmbox/issues/2",
+    "title": "Make it work on Apple Silicon / macOS 11+ \u00b7 Issue #2 \u00b7 rsms/llvmbox",
+    "latest": "2023-01-31T23:53:25+00:00",
+    "first": "2023-01-31T23:53:25+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@rsms/109786510523110923",
+      "content": "<p>Want to help?<br>- Fix macOS 12 \"killed\" issue <a href=\"https://github.com/rsms/llvmbox/issues/2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rsms/llvmbox/issues</span><span class=\"invisible\">/2</span></a><br>- Add Builds for FreeBSD and OpenBSD<br>- QA/test build for Linux aarch64 and RISC-V</p><p>\"myclang\" is an example of implementing \"your own clang.\" It combines clang, lld et al into a single static executable, much like what Zig does. The resulting program can compile itself (and even all of llvm.) <a href=\"https://github.com/rsms/llvmbox/tree/main/myclang\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rsms/llvmbox/tree/m</span><span class=\"invisible\">ain/myclang</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@rsms",
+        "display_name": "Rasmus Andersson"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rsms/llvmbox/tree/main/myclang",
+    "title": "github.com/rsms/llvmbox/tree/m...",
+    "latest": "2023-01-31T23:53:25+00:00",
+    "first": "2023-01-31T23:53:25+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@rsms/109786510523110923",
+      "content": "<p>Want to help?<br>- Fix macOS 12 \"killed\" issue <a href=\"https://github.com/rsms/llvmbox/issues/2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rsms/llvmbox/issues</span><span class=\"invisible\">/2</span></a><br>- Add Builds for FreeBSD and OpenBSD<br>- QA/test build for Linux aarch64 and RISC-V</p><p>\"myclang\" is an example of implementing \"your own clang.\" It combines clang, lld et al into a single static executable, much like what Zig does. The resulting program can compile itself (and even all of llvm.) <a href=\"https://github.com/rsms/llvmbox/tree/main/myclang\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rsms/llvmbox/tree/m</span><span class=\"invisible\">ain/myclang</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@rsms",
+        "display_name": "Rasmus Andersson"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rsms/llvmbox",
+    "title": "GitHub - rsms/llvmbox: Self contained, fully static llvm tools & libs",
+    "latest": "2023-01-31T23:52:07+00:00",
+    "first": "2023-01-31T23:52:07+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@rsms/109786505394452095",
+      "content": "<p>After 22 days of pretty intense work we finally have a fully static and \"portable\" llvm toolchain &amp; libs!<br>I teamed up with Chris Eberly (not on Mas) to make this happen. <br>You can now install clang, lld, libc++, llvm libs and libc by just downloading a tar file.</p><p><a href=\"https://github.com/rsms/llvmbox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rsms/llvmbox</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@rsms",
+        "display_name": "Rasmus Andersson"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bananabr/TimeException",
+    "title": "GitHub - bananabr/TimeException: A tool to find folders excluded from AV real-time scanning using a time oracle",
+    "latest": "2023-01-31T23:11:56+00:00",
+    "first": "2023-01-31T23:11:56+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@raptor/109785941661820894",
+      "content": "<p>A clever example of timing attack\u2026 99.9% of software is affected by timing infoleaks, it\u2019s a very hard problem to solve (if it\u2019s solvable)</p><p>TimeException - A tool to find folders excluded from AV real-time scanning using a time oracle</p><p><a href=\"https://github.com/bananabr/TimeException\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bananabr/TimeExcept</span><span class=\"invisible\">ion</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-12_Tessellation",
     "title": "github.com/paezha/genuary2023/...",
     "latest": "2023-01-31T20:22:31+00:00",
@@ -3368,70 +3432,6 @@
       {
         "url": "https://fosstodon.org/@deepsha",
         "display_name": "IandLoveandData"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/subconsciousnetwork/noosphere",
-    "title": "GitHub - subconsciousnetwork/noosphere: Noosphere is a protocol for thought; let's discover it together!",
-    "latest": "2023-01-21T21:40:01+00:00",
-    "first": "2023-01-21T21:40:01+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@gordon/109729362868699503",
-      "content": "<p>We're building it! It's called Noosphere, an open and decentralized protocol for thought.</p><p>GitHub: <a href=\"https://github.com/subconsciousnetwork/noosphere\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/subconsciousnetwork</span><span class=\"invisible\">/noosphere</span></a> <br>---<br>RT @davewiner<br>@TfTHacker Someone needs to put up an app with an open protocol that all tools can hook into regardless of their internal data structure. Not hard to do technically, but it requires competitors to work together for the benefit of the category.<br><a href=\"https://twitter.com/davewiner/status/1616613749351227392\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/davewiner/status/1</span><span class=\"invisible\">616613749351227392</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@gordon",
-        "display_name": "Gordon Brander"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/BlakeRMills/MetBrewer",
-    "title": "GitHub - BlakeRMills/MetBrewer: Color palette package in R inspired by works at the Metropolitan Museum of Art in New York",
-    "latest": "2023-01-21T17:40:28+00:00",
-    "first": "2023-01-21T17:40:28+00:00",
-    "last_post": {
-      "url": "https://vis.social/@georgios/109728420900445110",
-      "content": "<p>Most common livestock in EU for this week's <a href=\"https://vis.social/tags/MapPromptMonday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MapPromptMonday</span></a>. Used the colorblind-friendly palette \"Egypt\" from MetBrewer <a href=\"https://github.com/BlakeRMills/MetBrewer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BlakeRMills/MetBrew</span><span class=\"invisible\">er</span></a></p><p>code: <a href=\"https://github.com/gkaramanis/mappromptmonday/tree/master/2023/2023-week_03\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gkaramanis/mappromp</span><span class=\"invisible\">tmonday/tree/master/2023/2023-week_03</span></a></p><p><a href=\"https://vis.social/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://vis.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@georgios",
-        "display_name": "Georgios Karamanis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/gkaramanis/mappromptmonday/tree/master/2023/2023-week_03",
-    "title": "github.com/gkaramanis/mappromp...",
-    "latest": "2023-01-21T17:40:28+00:00",
-    "first": "2023-01-21T17:40:28+00:00",
-    "last_post": {
-      "url": "https://vis.social/@georgios/109728420900445110",
-      "content": "<p>Most common livestock in EU for this week's <a href=\"https://vis.social/tags/MapPromptMonday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MapPromptMonday</span></a>. Used the colorblind-friendly palette \"Egypt\" from MetBrewer <a href=\"https://github.com/BlakeRMills/MetBrewer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BlakeRMills/MetBrew</span><span class=\"invisible\">er</span></a></p><p>code: <a href=\"https://github.com/gkaramanis/mappromptmonday/tree/master/2023/2023-week_03\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gkaramanis/mappromp</span><span class=\"invisible\">tmonday/tree/master/2023/2023-week_03</span></a></p><p><a href=\"https://vis.social/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://vis.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@georgios",
-        "display_name": "Georgios Karamanis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Lisa-Ho/small-data-projects/blob/main/2301-culture-venues-london/cultural-venues-london-maps.ipynb",
-    "title": "small-data-projects/cultural-venues-london-maps.ipynb at main \u00b7 Lisa-Ho/small-data-projects",
-    "latest": "2023-01-21T16:58:44+00:00",
-    "first": "2023-01-21T16:58:44+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@LisaHornung/109728256818425966",
-      "content": "<p>Another <a href=\"https://fosstodon.org/tags/map\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>map</span></a> of cultural venues in London - sized by total count and coloured by majority type. Had a lot of fun with this one! \ud83d\ude00 </p><p>Made in <a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> - code on Github <a href=\"https://github.com/Lisa-Ho/small-data-projects/blob/main/2301-culture-venues-london/cultural-venues-london-maps.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Lisa-Ho/small-data-</span><span class=\"invisible\">projects/blob/main/2301-culture-venues-london/cultural-venues-london-maps.ipynb</span></a></p><p><a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fosstodon.org/tags/gischat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gischat</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@LisaHornung",
-        "display_name": "Lisa Hornung"
       }
     ]
   }

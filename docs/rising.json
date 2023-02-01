@@ -1,33 +1,77 @@
 [
   {
-    "link": "https://automerge.org/blog/automerge-2/",
-    "title": "Automerge 2.0 | Automerge CRDT",
-    "latest": "2023-01-31T15:21:47+00:00",
-    "first": "2023-01-30T22:07:53+00:00",
+    "link": "https://arxiv.org/abs/2301.13188",
+    "title": "Extracting Training Data from Diffusion Models",
+    "latest": "2023-01-31T21:11:44+00:00",
+    "first": "2023-01-31T02:10:33+00:00",
     "last_post": {
-      "url": "https://mas.to/@adamwiggins/109783519843489831",
-      "content": "<p>The 2.0 release of Automerge is a huge milestone for local-first software. If you're interested in developing great multi-user, multi-device software without needing massive infrastructure, it's worth reading this post in full.</p><p><a href=\"https://automerge.org/blog/automerge-2/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">automerge.org/blog/automerge-2</span><span class=\"invisible\">/</span></a></p><p>Highlights: a rewrite in Rust (10-100x on speed and memory use), C bindings plus WASM-complied Javascript, corporate and individual sponsorship, and a roadmap of future features for 3.0.</p>"
+      "url": "https://sigmoid.social/@Riedl/109785581486676414",
+      "content": "<p>Stable Diffusion can memorize and output impages from its training set, including copyrighted content </p><p><a href=\"https://arxiv.org/abs/2301.13188\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.13188</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
-        "url": "https://mas.to/@steveruizok",
-        "display_name": "Steve Ruiz"
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
       },
       {
-        "url": "https://mstdn.social/@adamwulf",
-        "display_name": "Adam Wulf"
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
       },
       {
-        "url": "https://mastodon.social/@gordon",
-        "display_name": "Gordon Brander"
+        "url": "https://tldr.nettime.org/@adam_harvey",
+        "display_name": "Adam Harvey"
       },
       {
-        "url": "https://mas.to/@adamwiggins",
-        "display_name": "Adam Wiggins"
+        "url": "https://wandering.shop/@janellecshane",
+        "display_name": "Janelle Shane"
       },
       {
-        "url": "https://nondeterministic.computer/@martin",
-        "display_name": "Martin Kleppmann"
+        "url": "https://mathstodon.xyz/@gregeganSF",
+        "display_name": "Greg Egan"
+      },
+      {
+        "url": "https://mastodon.social/@eckles",
+        "display_name": "Dean Eckles"
+      },
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      },
+      {
+        "url": "https://sigmoid.social/@nsaphra",
+        "display_name": "Naomi Saphra"
+      }
+    ]
+  },
+  {
+    "link": "https://www.platformer.news/p/another-whistleblower-comes-for-twitter",
+    "title": "Another whistleblower comes for Twitter",
+    "latest": "2023-01-31T21:26:16+00:00",
+    "first": "2023-01-31T14:28:51+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@drewharwell/109784264266462560",
+      "content": "<p>\"We\u2019ve confirmed that Irwin has access to user DMs as part of her position. Given the way the company has handled the Twitter Files, multiple former employees told us that DMs are no longer secure, and have discouraged us from using them for any remotely sensitive communication.\"</p><p><a href=\"https://www.platformer.news/p/another-whistleblower-comes-for-twitter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">platformer.news/p/another-whis</span><span class=\"invisible\">tleblower-comes-for-twitter</span></a> <span class=\"h-card\"><a href=\"https://mastodon.social/@caseynewton\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>caseynewton</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@zoeschiffer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>zoeschiffer</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Gargron",
+        "display_name": "Eugen Rochko"
+      },
+      {
+        "url": "https://mastodon.online/@jaspar",
+        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      },
+      {
+        "url": "https://sciences.social/@markigra",
+        "display_name": "Mark Igra"
+      },
+      {
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
+      },
+      {
+        "url": "https://mstdn.social/@katestarbird",
+        "display_name": "Kate Starbird"
       }
     ]
   },
@@ -64,61 +108,9 @@
     ]
   },
   {
-    "link": "https://arxiv.org/abs/2301.13188",
-    "title": "Extracting Training Data from Diffusion Models",
-    "latest": "2023-01-31T20:34:47+00:00",
-    "first": "2023-01-31T02:10:33+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@Riedl/109785581486676414",
-      "content": "<p>Stable Diffusion can memorize and output impages from its training set, including copyrighted content </p><p><a href=\"https://arxiv.org/abs/2301.13188\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.13188</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      },
-      {
-        "url": "https://tldr.nettime.org/@adam_harvey",
-        "display_name": "Adam Harvey"
-      },
-      {
-        "url": "https://wandering.shop/@janellecshane",
-        "display_name": "Janelle Shane"
-      }
-    ]
-  },
-  {
-    "link": "https://www.pnas.org/doi/10.1073/pnas.2207183120",
-    "title": "pnas.org/doi/10.1073/pnas.2207...",
-    "latest": "2023-01-30T22:01:53+00:00",
-    "first": "2023-01-30T23:41:53+00:00",
-    "last_post": {
-      "url": "https://aus.social/@MicrobialLife/109780185481535758",
-      "content": "<p>Catastrophic (and to be frank - hugely depressing) </p><p>This new research in <span class=\"h-card\"><a href=\"https://fediscience.org/@PNASNews\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PNASNews</span></a></span> suggests earth will cross the 1.5 degrees C temperature increase threshold in the next decade (within just 10 to 15 years) and is likely to exceed 2 degrees C by around 2060. </p><p>This should be THE lead story on the news today (and onwards) and the lead action point for our governments. It should trigger a massive call for real global action to combat the <a href=\"https://aus.social/tags/climateemergency\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climateemergency</span></a> - sadly though I fear this news will barely register.</p><p>We have to stop believing the siren calls of future technology solutions and <a href=\"https://aus.social/tags/carbonoffsets\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>carbonoffsets</span></a> - the immediate need is a rapid end to the use of <a href=\"https://aus.social/tags/fossilfuels\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fossilfuels</span></a> and a massive rollout of <a href=\"https://aus.social/tags/renewableenergy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>renewableenergy</span></a> </p><p><a href=\"https://www.pnas.org/doi/10.1073/pnas.2207183120\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">pnas.org/doi/10.1073/pnas.2207</span><span class=\"invisible\">183120</span></a></p><p><a href=\"https://aus.social/tags/ClimateChange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateChange</span></a> <a href=\"https://aus.social/tags/ClimateCrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCrisis</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@delong",
-        "display_name": "delong"
-      },
-      {
-        "url": "https://fediscience.org/@ZLabe",
-        "display_name": "Zack Labe"
-      },
-      {
-        "url": "https://econtwitter.net/@fetzert",
-        "display_name": "Thiemo Fetzer"
-      }
-    ]
-  },
-  {
     "link": "https://catgpt.wvd.io/",
     "title": "CatGPT",
-    "latest": "2023-01-31T18:38:54+00:00",
+    "latest": "2023-01-31T21:36:00+00:00",
     "first": "2023-01-31T04:19:21+00:00",
     "last_post": {
       "url": "https://mastodon.me.uk/@garius/109783008732951265",
@@ -136,30 +128,34 @@
       {
         "url": "https://mastodon.social/@elipariser",
         "display_name": "Eli Pariser"
+      },
+      {
+        "url": "https://fediscience.org/@ChrisWalter",
+        "display_name": "Chris Walter"
       }
     ]
   },
   {
-    "link": "https://www.platformer.news/p/another-whistleblower-comes-for-twitter",
-    "title": "Another whistleblower comes for Twitter",
-    "latest": "2023-01-31T16:02:22+00:00",
-    "first": "2023-01-31T14:28:51+00:00",
+    "link": "https://www.cos.io/blog/new-osf-metadata-to-support-data-sharing-policy-compliance",
+    "title": "New OSF Metadata to Support Data Sharing Policy Compliance",
+    "latest": "2023-01-31T21:17:25+00:00",
+    "first": "2023-01-31T14:57:10+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@dangillmor/109784406621592813",
-      "content": "<p>If you are still using Twitter, do not -- DO NOT -- use direct messages for anything you consider sensitive in any way. This goes triple for the journalists who insist on pouring their work into a site whose sociopath CEO has utter contempt for the press. </p><p><a href=\"https://www.platformer.news/p/another-whistleblower-comes-for-twitter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">platformer.news/p/another-whis</span><span class=\"invisible\">tleblower-comes-for-twitter</span></a></p>"
+      "url": "https://nerdculture.de/@briannosek/109784401847243952",
+      "content": "<p>Major enhancement to OSF metadata released today for projects and files. This release has been a long time coming to advance FAIR data on OSF, and it sets the stage for big future releases improving reporting and search and discovery. </p><p>Read more about it: <a href=\"https://www.cos.io/blog/new-osf-metadata-to-support-data-sharing-policy-compliance\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cos.io/blog/new-osf-metadata-t</span><span class=\"invisible\">o-support-data-sharing-policy-compliance</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@Gargron",
-        "display_name": "Eugen Rochko"
+        "url": "https://nerdculture.de/@briannosek",
+        "display_name": "Brian Nosek"
       },
       {
-        "url": "https://mastodon.online/@jaspar",
-        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+        "url": "https://mastodon.social/@philipncohen",
+        "display_name": "Philip N Cohen"
       },
       {
-        "url": "https://sciences.social/@markigra",
-        "display_name": "Mark Igra"
+        "url": "https://social.cwts.nl/@LudoWaltman",
+        "display_name": "Ludo Waltman"
       }
     ]
   },
@@ -188,62 +184,26 @@
     ]
   },
   {
-    "link": "https://testflight.apple.com/join/x0MbQhMF",
-    "title": "Join the Toot! beta",
-    "latest": "2023-01-31T06:40:20+00:00",
-    "first": "2023-01-30T22:51:05+00:00",
+    "link": "https://arnicas.substack.com/p/titaa-39-moon-dots-and-spambots?sd=pf",
+    "title": "TITAA #39: Moon Dots and SpamBots",
+    "latest": "2023-01-31T21:38:48+00:00",
+    "first": "2023-01-31T20:39:06+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@tootapp/109780265128238743",
-      "content": "<p>Want to help out with development of Toot!? I have been doing some large internal rewriting, and probably introduced some exciting new bugs in the process, so I thought it might be best to do a public beta for this version to shake them out a bit before release.</p><p>The link to join the beta is here: <a href=\"https://testflight.apple.com/join/x0MbQhMF\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testflight.apple.com/join/x0Mb</span><span class=\"invisible\">QhMF</span></a></p><p>Only join if you are happy to deal with some bugs! Or, if you want a free trial of Toot! and don\u2019t mind a potential bug or two.</p>"
+      "url": "https://mstdn.social/@arnicas/109785461465933977",
+      "content": "<p>My latest newsletter edition, AI art &amp; narrative and games and NLP and many good SF recs! <a href=\"https://mstdn.social/tags/games\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>games</span></a> <a href=\"https://mstdn.social/tags/narrative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>narrative</span></a> <a href=\"https://mstdn.social/tags/vr\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vr</span></a> <a href=\"https://mstdn.social/tags/aiart\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aiart</span></a> <a href=\"https://mstdn.social/tags/nlp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nlp</span></a> <a href=\"https://arnicas.substack.com/p/titaa-39-moon-dots-and-spambots?sd=pf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">arnicas.substack.com/p/titaa-3</span><span class=\"invisible\">9-moon-dots-and-spambots?sd=pf</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.online/@kelset",
-        "display_name": "Lorenzo \ud83c\uddfa\ud83c\udde6"
+        "url": "https://post.lurk.org/@liza",
+        "display_name": "Liza Daly"
       },
       {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nationalacademies.org/our-work/pathways-to-doctoral-degrees-in-computing",
-    "title": "nationalacademies.org/our-work...",
-    "latest": "2023-01-30T21:38:43+00:00",
-    "first": "2023-01-30T23:00:06+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@aaronclauset/109780318489946693",
-      "content": "<p>I'm excited to serve on this new National Academies (NASEM) consensus study: \"Pathways to Doctoral Degrees in Computing,\" contributing my expertise on faculty careers, interdisciplinary computing, and the science of science. If you have suggestions to share, DM me! <a href=\"https://www.nationalacademies.org/our-work/pathways-to-doctoral-degrees-in-computing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nationalacademies.org/our-work</span><span class=\"invisible\">/pathways-to-doctoral-degrees-in-computing</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://ecoevo.social/@Eliz_Hobson",
-        "display_name": "Elizabeth Hobson"
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
       },
       {
-        "url": "https://fediscience.org/@aaronclauset",
-        "display_name": "Aaron Clauset"
-      }
-    ]
-  },
-  {
-    "link": "https://lethain.com/setting-engineering-org-values/",
-    "title": "Setting engineering org values.",
-    "latest": "2023-01-31T15:35:25.265000+00:00",
-    "first": "2023-01-30T21:57:09.928000+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@lethain/109779336827052195",
-      "content": "<p>As someone who is routinely annoyed by org value statements (\"Integrity!\"), I've written up my approach to writing useful values, particularly from an engineering org's perspective, make them: (1) reversible, (2) applicable, and (3) honest.</p><p>Full notes at <a href=\"https://lethain.com/setting-engineering-org-values/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">lethain.com/setting-engineerin</span><span class=\"invisible\">g-org-values/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@dizzyd",
-        "display_name": "dizzyd"
-      },
-      {
-        "url": "https://hachyderm.io/@pevohr",
-        "display_name": "Paul Rohr"
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
       }
     ]
   },
@@ -568,6 +528,26 @@
     ]
   },
   {
+    "link": "https://andy-bell.co.uk/speed-for-who/",
+    "title": "Speed for who?",
+    "latest": "2023-01-31T22:42:28+00:00",
+    "first": "2023-01-31T14:55:03+00:00",
+    "last_post": {
+      "url": "https://bell.bz/@andy/109784393567536751",
+      "content": "<p>Frameworks are often touted as something like \"a lightning fast development experience\" and that's fine I guess, but the speed is in the wrong hands. Why not \"a lightning fast experience for your users\"? </p><p>Sure, some frameworks will claim to be very fast for end-users with some very meticulously, massaged data to \"prove\" that, but as Zach points out in this great post, it means nothing when the output bundle sizes are astronomical off the bat: </p><p><a href=\"https://andy-bell.co.uk/speed-for-who/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">andy-bell.co.uk/speed-for-who/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://bell.bz/@andy",
+        "display_name": "Andy Bell"
+      },
+      {
+        "url": "https://mastodon.social/@dahukanna",
+        "display_name": "Dawn Ahukanna"
+      }
+    ]
+  },
+  {
     "link": "https://nenckiopenlab.org/school-of-ideas-2023/",
     "title": "nenckiopenlab.org/school-of-id...",
     "latest": "2023-01-31T15:39:41+00:00",
@@ -608,6 +588,26 @@
     ]
   },
   {
+    "link": "https://pragprog.com/titles/dzcnapy/complex-network-analysis-in-python",
+    "title": "Complex Network Analysis in Python",
+    "latest": "2023-01-31T21:49:03+00:00",
+    "first": "2023-01-31T12:47:33+00:00",
+    "last_post": {
+      "url": "https://mastodon.world/@bekieark/109783892164606868",
+      "content": "<p>Two cool, new <a href=\"https://mastodon.world/tags/books\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>books</span></a> for <a href=\"https://mastodon.world/tags/dataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataScience</span></a>, <a href=\"https://mastodon.world/tags/bigData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bigData</span></a> and <a href=\"https://mastodon.world/tags/computationalSocialScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>computationalSocialScience</span></a>. In <a href=\"https://mastodon.world/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> - but not only:</p><p><a href=\"https://pragprog.com/titles/dzcnapy/complex-network-analysis-in-python\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pragprog.com/titles/dzcnapy/co</span><span class=\"invisible\">mplex-network-analysis-in-python</span></a></p><p><a href=\"https://link.springer.com/book/10.1007/978-3-031-16624-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/book/10.1007</span><span class=\"invisible\">/978-3-031-16624-2</span></a></p><p>Links via <span class=\"h-card\"><a href=\"https://techhub.social/@pragprog\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pragprog</span></a></span> and <span class=\"h-card\"><a href=\"https://hci.social/@bkeegan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bkeegan</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.world/@bekieark",
+        "display_name": "Arek Bekiersz"
+      },
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      }
+    ]
+  },
+  {
     "link": "https://academic.oup.com/bjd/article/188/1/1/6795460",
     "title": "watershed moment for the BJD: Authors retain their article copyright",
     "latest": "2023-01-31T16:09:39+00:00",
@@ -644,6 +644,46 @@
       {
         "url": "https://newsie.social/@themarkup",
         "display_name": "The Markup"
+      }
+    ]
+  },
+  {
+    "link": "https://infosec.exchange/@pancakescon/109784692293736983",
+    "title": "PancakesCon (@pancakescon@infosec.exchange)",
+    "latest": "2023-01-31T21:55:43+00:00",
+    "first": "2023-01-31T17:08:37+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@hacks4pancakes/109784918722772306",
+      "content": "<p>If you haven't been to my silly virtual conference <span class=\"h-card\"><a href=\"https://infosec.exchange/@pancakescon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pancakescon</span></a></span> before, it has a very unusual / insane format. Speakers have to teach a infosec topic that is aimed at junior audiences for half their talk, and then the other half of their talk has to be on a non-cybersecurity hobby, like cooking, music, or astronomy. This will be year 4. <a href=\"https://infosec.exchange/@pancakescon/109784692293736983\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">infosec.exchange/@pancakescon/</span><span class=\"invisible\">109784692293736983</span></a></p><p>Please consider putting a talk in if you are free that day! It is always a lot of fun and our volunteers do a great job.</p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
+      },
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://reb00ted.org/tech/20230124-activitystreams-model/",
+    "title": "reb00ted | Activity Streams graphical model",
+    "latest": "2023-01-31T21:27:58+00:00",
+    "first": "2023-01-31T17:22:05+00:00",
+    "last_post": {
+      "url": "https://friend.camp/@darius/109784971708638192",
+      "content": "<p>For <a href=\"https://friend.camp/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> implementors, here's a nice set of cheat sheets on different object types available to you via ActivityStreams and ActivityVocabulary. Mostly good as a reminder of the breadth of what is specified when you're thinking through high level federation design</p><p><a href=\"https://reb00ted.org/tech/20230124-activitystreams-model/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">reb00ted.org/tech/20230124-act</span><span class=\"invisible\">ivitystreams-model/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://friend.camp/@darius",
+        "display_name": "Darius Kazemi"
+      },
+      {
+        "url": "https://mastodon.social/@elipariser",
+        "display_name": "Eli Pariser"
       }
     ]
   },
@@ -728,22 +768,22 @@
     ]
   },
   {
-    "link": "https://arnicas.substack.com/p/titaa-39-moon-dots-and-spambots?sd=pf",
-    "title": "TITAA #39: Moon Dots and SpamBots",
-    "latest": "2023-01-31T19:26:38+00:00",
-    "first": "2023-01-31T20:39:06+00:00",
+    "link": "https://www.youtube.com/watch?v=k_GTIL7AECQ",
+    "title": "True Facts: The Smartest Slime",
+    "latest": "2023-01-31T21:34:40+00:00",
+    "first": "2023-01-31T19:40:08+00:00",
     "last_post": {
-      "url": "https://mstdn.social/@arnicas/109785461465933977",
-      "content": "<p>My latest newsletter edition, AI art &amp; narrative and games and NLP and many good SF recs! <a href=\"https://mstdn.social/tags/games\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>games</span></a> <a href=\"https://mstdn.social/tags/narrative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>narrative</span></a> <a href=\"https://mstdn.social/tags/vr\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vr</span></a> <a href=\"https://mstdn.social/tags/aiart\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aiart</span></a> <a href=\"https://mstdn.social/tags/nlp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nlp</span></a> <a href=\"https://arnicas.substack.com/p/titaa-39-moon-dots-and-spambots?sd=pf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">arnicas.substack.com/p/titaa-3</span><span class=\"invisible\">9-moon-dots-and-spambots?sd=pf</span></a></p>"
+      "url": "https://ecoevo.social/@SimonGarnier/109785514541325747",
+      "content": "<p>The slime mold video to end all slime mold videos is out! <a href=\"https://www.youtube.com/watch?v=k_GTIL7AECQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=k_GTIL7AEC</span><span class=\"invisible\">Q</span></a> </p><p><a href=\"https://ecoevo.social/tags/slimemold\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>slimemold</span></a> <a href=\"https://ecoevo.social/tags/blob\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>blob</span></a></p>"
     },
     "people": [
       {
-        "url": "https://post.lurk.org/@liza",
-        "display_name": "Liza Daly"
+        "url": "https://ecoevo.social/@SimonGarnier",
+        "display_name": "Simon Garnier"
       },
       {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
       }
     ]
   },
@@ -784,6 +824,26 @@
       {
         "url": "https://boffosocko.com/author/chrisaldrich/",
         "display_name": "Chris Aldrich"
+      }
+    ]
+  },
+  {
+    "link": "https://cepr.org/voxeu/columns/restricting-hiring-low-skill-immigrants-hurts-firms-and-does-not-benefit-native-born",
+    "title": "Restricting the hiring of low-skill immigrants hurts firms and does not benefit native-born workers: Evidence from a US visa lottery",
+    "latest": "2023-01-31T21:30:14+00:00",
+    "first": "2023-01-31T22:39:24+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@m_clem/109785947473445070",
+      "content": "<p>Here is a summary of the underlying research paper on <span class=\"h-card\"><a href=\"https://econtwitter.net/@VoxEU\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>VoxEU</span></a></span> \u2014&gt; <a href=\"https://cepr.org/voxeu/columns/restricting-hiring-low-skill-immigrants-hurts-firms-and-does-not-benefit-native-born\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cepr.org/voxeu/columns/restric</span><span class=\"invisible\">ting-hiring-low-skill-immigrants-hurts-firms-and-does-not-benefit-native-born</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@sjwrenlewis",
+        "display_name": "Simon Wren-Lewis"
+      },
+      {
+        "url": "https://econtwitter.net/@m_clem",
+        "display_name": "Michael Clemens"
       }
     ]
   }
