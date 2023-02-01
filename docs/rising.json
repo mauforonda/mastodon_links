@@ -1,48 +1,12 @@
 [
   {
-    "link": "https://buffer.com/mastodon",
-    "title": "Make Your Mark in the Fediverse with Buffer\u2019s Mastodon Scheduler",
-    "latest": "2023-02-01T12:52:01+00:00",
-    "first": "2023-01-31T18:00:07+00:00",
-    "last_post": {
-      "url": "https://mastodon.world/@buffer/109784864418386891",
-      "content": "<p>Hello fediverse! Buffer now officially supports Mastodon scheduling. \ud83e\udd73</p><p>The Mastodon community is growing fast, with a set of principles we admire. We\u2019re excited to explore it with you and help you build a consistent and engaging Mastodon presence.</p><p>Let\u2019s get tooting! </p><p><a href=\"https://buffer.com/mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buffer.com/mastodon</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
-      },
-      {
-        "url": "https://mastodon.social/@Gargron",
-        "display_name": "Eugen Rochko"
-      },
-      {
-        "url": "https://curbal.social/@ruthpozuelo",
-        "display_name": "Ruth Pozuelo Martinez"
-      },
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      },
-      {
-        "url": "https://fosstodon.org/@smach",
-        "display_name": "Sharon Machlis"
-      }
-    ]
-  },
-  {
     "link": "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/",
     "title": "New AI classifier for indicating AI-written text",
-    "latest": "2023-02-01T12:25:35+00:00",
+    "latest": "2023-02-01T17:50:27+00:00",
     "first": "2023-01-31T22:22:20+00:00",
     "last_post": {
-      "url": "https://mastodon.adida.net/@ben/109787298429107128",
-      "content": "<p>So OpenAI just released a detector of AI-generated text, I assume because of concerns in education / homework.</p><p><a href=\"https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">openai.com/blog/new-ai-classif</span><span class=\"invisible\">ier-for-indicating-ai-written-text/</span></a></p><p>Maybe this is good?</p><p>No, it's very bad.</p><p>They claim 26% true positives, 9% false positives. Assume 10% of submitted homework is chatgpt generated, you get the classic counterintuitive outcome of poor predictive power: if a homework is flagged, there's a 3:1 chance it's *human* generated.</p><p>This is going to cause a lot of harm. It should be immediately recalled.</p>"
+      "url": "https://mastodon.social/@Linkletter/109786157356473913",
+      "content": "<p>OpenAI released a tool which purports to detect AI-generated text. At the highest end of detection, it labels text \"possibly\" or \"likely\" AI-generated. 21% of human-written text falls under \"possibly\" and 9% of \"likely\" does. That's 3 in 10 students being defamed and/or harmed.</p><p>Just like other providers of academic surveillance software, OpenAI states that their detector \"should not be used as a primary decision-making tool\".</p><p>It will be, though. And harm will follow.</p><p><a href=\"https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">openai.com/blog/new-ai-classif</span><span class=\"invisible\">ier-for-indicating-ai-written-text/</span></a></p>"
     },
     "people": [
       {
@@ -64,30 +28,10 @@
       {
         "url": "https://mastodon.social/@cbail",
         "display_name": "cbail"
-      }
-    ]
-  },
-  {
-    "link": "https://www.w3.org/blog/news/archives/9823",
-    "title": "W3C re-launched as a public-interest non-profit organization | W3C News",
-    "latest": "2023-02-01T10:51:43+00:00",
-    "first": "2023-01-31T16:22:07+00:00",
-    "last_post": {
-      "url": "https://w3c.social/@w3c/109784555616849637",
-      "content": "<p>Press release: \"W3C re-launched as a public-interest non-profit organization\"<br>We continue our core process and mission to shepherd the web, developing open web standards with contributions from W3C Members, staff, and the international community<br>More at: <a href=\"https://www.w3.org/blog/news/archives/9823\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">w3.org/blog/news/archives/9823</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
       },
       {
-        "url": "https://front-end.social/@jensimmons",
-        "display_name": "Jen Simmons"
-      },
-      {
-        "url": "https://social.coop/@flancian",
-        "display_name": "In [[Flancia]] we'll meet"
+        "url": "https://cybervillains.com/@gwbstr",
+        "display_name": "Graham Webster"
       }
     ]
   },
@@ -116,162 +60,26 @@
     ]
   },
   {
-    "link": "https://academic.oup.com/bjd/article/188/1/1/6795460",
-    "title": "watershed moment for the BJD: Authors retain their article copyright",
-    "latest": "2023-01-31T16:09:39+00:00",
-    "first": "2023-01-31T17:39:28+00:00",
+    "link": "https://www.nytimes.com/2023/02/01/us/college-board-advanced-placement-african-american-studies.html",
+    "title": "The College Board Strips Down Its A.P. Curriculum for African American Studies",
+    "latest": "2023-02-01T15:36:35+00:00",
+    "first": "2023-02-01T14:13:13+00:00",
     "last_post": {
-      "url": "https://fediscience.org/@petersuber/109784686866640806",
-      "content": "<p>The British Journal of Dermatology just moved from <a href=\"https://fediscience.org/tags/Wiley\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wiley</span></a> to <a href=\"https://fediscience.org/tags/OUP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OUP</span></a>. As part of the move, it's adding plain language summaries (<a href=\"https://fediscience.org/tags/PLS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PLS</span></a>) and allowing authors to retain <a href=\"https://fediscience.org/tags/copyright\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>copyright</span></a> in their articles.<br><a href=\"https://academic.oup.com/bjd/article/188/1/1/6795460\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">academic.oup.com/bjd/article/1</span><span class=\"invisible\">88/1/1/6795460</span></a></p><p>The journal remains <a href=\"https://fediscience.org/tags/hybrid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hybrid</span></a>, not full <a href=\"https://fediscience.org/tags/openaccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openaccess</span></a>. But note that the key <a href=\"https://fediscience.org/tags/RightsRetention\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RightsRetention</span></a> step was voluntarily adopted by a <a href=\"https://fediscience.org/tags/society\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>society</span></a> (British Association of Dermatologists) and a <a href=\"https://fediscience.org/tags/UniversityPress\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UniversityPress</span></a>. Kudos to them both.</p><p><a href=\"https://fediscience.org/tags/nonprofit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nonprofit</span></a></p>"
+      "url": "https://mastodon.social/@waldoj/109790008927330527",
+      "content": "<p>This isn't a mere overreaction. This is straight-up white nationalism from the College Board. <a href=\"https://www.nytimes.com/2023/02/01/us/college-board-advanced-placement-african-american-studies.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2023/02/01/us/coll</span><span class=\"invisible\">ege-board-advanced-placement-african-american-studies.html</span></a></p>"
     },
     "people": [
       {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
+        "url": "https://mastodon.social/@philipncohen",
+        "display_name": "Philip N Cohen"
       },
       {
-        "url": "https://fediscience.org/@petersuber",
-        "display_name": "petersuber"
-      }
-    ]
-  },
-  {
-    "link": "https://themarkup.org/levelup/2023/01/31/in-2023-resolve-to-fix-your-organizations-meta-pixel-problem",
-    "title": "In 2023, Resolve to Fix Your Organization\u2019s Meta Pixel Problem \u2013 The Markup",
-    "latest": "2023-01-31T16:15:34+00:00",
-    "first": "2023-01-31T17:42:36+00:00",
-    "last_post": {
-      "url": "https://overgrown.garden/@simon/109784706367672126",
-      "content": "<p>We <span class=\"h-card\"><a href=\"https://newsie.social/@themarkup\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>themarkup</span></a></span> have spent a lot of time over the past year looking into the use of the Meta Pixel on various sites, and now we've written a guide to help you check what's happing on your own site.</p><p><a href=\"https://themarkup.org/levelup/2023/01/31/in-2023-resolve-to-fix-your-organizations-meta-pixel-problem\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">themarkup.org/levelup/2023/01/</span><span class=\"invisible\">31/in-2023-resolve-to-fix-your-organizations-meta-pixel-problem</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
+        "url": "https://mastodon.social/@delong",
+        "display_name": "delong"
       },
       {
-        "url": "https://newsie.social/@themarkup",
-        "display_name": "The Markup"
-      }
-    ]
-  },
-  {
-    "link": "https://infosec.exchange/@pancakescon/109784692293736983",
-    "title": "PancakesCon (@pancakescon@infosec.exchange)",
-    "latest": "2023-01-31T21:55:43+00:00",
-    "first": "2023-01-31T17:08:37+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@hacks4pancakes/109784918722772306",
-      "content": "<p>If you haven't been to my silly virtual conference <span class=\"h-card\"><a href=\"https://infosec.exchange/@pancakescon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pancakescon</span></a></span> before, it has a very unusual / insane format. Speakers have to teach a infosec topic that is aimed at junior audiences for half their talk, and then the other half of their talk has to be on a non-cybersecurity hobby, like cooking, music, or astronomy. This will be year 4. <a href=\"https://infosec.exchange/@pancakescon/109784692293736983\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">infosec.exchange/@pancakescon/</span><span class=\"invisible\">109784692293736983</span></a></p><p>Please consider putting a talk in if you are free that day! It is always a lot of fun and our volunteers do a great job.</p>"
-    },
-    "people": [
-      {
-        "url": "https://infosec.exchange/@hacks4pancakes",
-        "display_name": "Lesley Carhart :unverified:"
-      },
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://reb00ted.org/tech/20230124-activitystreams-model/",
-    "title": "reb00ted | Activity Streams graphical model",
-    "latest": "2023-01-31T21:27:58+00:00",
-    "first": "2023-01-31T17:22:05+00:00",
-    "last_post": {
-      "url": "https://friend.camp/@darius/109784971708638192",
-      "content": "<p>For <a href=\"https://friend.camp/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> implementors, here's a nice set of cheat sheets on different object types available to you via ActivityStreams and ActivityVocabulary. Mostly good as a reminder of the breadth of what is specified when you're thinking through high level federation design</p><p><a href=\"https://reb00ted.org/tech/20230124-activitystreams-model/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">reb00ted.org/tech/20230124-act</span><span class=\"invisible\">ivitystreams-model/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      },
-      {
-        "url": "https://mastodon.social/@elipariser",
-        "display_name": "Eli Pariser"
-      }
-    ]
-  },
-  {
-    "link": "https://forms.gle/9KwyPpxaXyGS4KaV6",
-    "title": "https://forms.gle/9KwyPpxaXyGS4KaV6",
-    "latest": "2023-02-01T07:07:36+00:00",
-    "first": "2023-01-31T16:19:23+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@pancakescon/109784692293736983",
-      "content": "<p>Hello pals! The <a href=\"https://infosec.exchange/tags/PancakesCon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PancakesCon</span></a> 4 CFP is now OPEN!<br>It will close on February 19 at 8:30PM Central US. Please read the instructions *carefully*! <a href=\"https://infosec.exchange/tags/infosec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>infosec</span></a> <a href=\"https://infosec.exchange/tags/cybersecurity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cybersecurity</span></a> <br><a href=\"https://forms.gle/9KwyPpxaXyGS4KaV6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">forms.gle/9KwyPpxaXyGS4KaV6</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://infosec.exchange/@hacks4pancakes",
-        "display_name": "Lesley Carhart :unverified:"
-      },
-      {
-        "url": "https://mastodon.social/@Edent",
-        "display_name": "Terence Eden"
-      }
-    ]
-  },
-  {
-    "link": "https://www.tidyverse.org/blog/2023/01/dplyr-1-1-0-joins/",
-    "title": "dplyr 1.1.0: Joins",
-    "latest": "2023-01-31T20:54:56+00:00",
-    "first": "2023-01-31T16:24:26+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@davis/109784673013727983",
-      "content": "<p>dplyr 1.1.0 is out now! \ud83c\udf89</p><p>This is a huge release, so we split the announcement into 4 posts to be released throughout the week. <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p><p>Today we'll focus on joins, including:<br>- join_by()<br>- Inequality and rolling joins<br>- Two new quality control arguments</p><p><a href=\"https://www.tidyverse.org/blog/2023/01/dplyr-1-1-0-joins/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tidyverse.org/blog/2023/01/dpl</span><span class=\"invisible\">yr-1-1-0-joins/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@jennybryan",
-        "display_name": "Jenny Bryan"
-      },
-      {
-        "url": "https://fediscience.org/@biocs",
-        "display_name": "Michael Kuhn"
-      }
-    ]
-  },
-  {
-    "link": "https://www.pcmag.com/news/pet-fish-take-over-youtubers-switch-account-make-purchases-send-email",
-    "title": "Pet Fish Take Over YouTuber's Switch Account, Make Purchases, Send Email",
-    "latest": "2023-01-31T15:10:45+00:00",
-    "first": "2023-01-31T15:49:34+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@PCMag/109784419402568789",
-      "content": "<p>A YouTuber in Japan experienced a different kind of phishing attack when pet fish took control of his Nintendo Switch, changing the account name, downloading a new avatar, and setting up a PayPal account. <a href=\"https://www.pcmag.com/news/pet-fish-take-over-youtubers-switch-account-make-purchases-send-email\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">pcmag.com/news/pet-fish-take-o</span><span class=\"invisible\">ver-youtubers-switch-account-make-purchases-send-email</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@funnygodmother",
-        "display_name": "Cheryl Platz :verified:"
-      },
-      {
-        "url": "https://mastodon.social/@Gargron",
-        "display_name": "Eugen Rochko"
-      }
-    ]
-  },
-  {
-    "link": "https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf",
-    "title": "cs.princeton.edu/~arvindn/talk...",
-    "latest": "2023-01-31T18:55:29+00:00",
-    "first": "2023-01-31T15:32:30+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@elipariser/109784540810565289",
-      "content": "<p>This deck on AI Snake Oil from <span class=\"h-card\"><a href=\"https://mastodon.social/@randomwalker\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>randomwalker</span></a></span> is a few years old but remains *excellent.* One of my takeaways, which I find generally hopeful: People and social situations are just way less predictable than we might think!  <a href=\"https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cs.princeton.edu/~arvindn/talk</span><span class=\"invisible\">s/MIT-STS-AI-snakeoil.pdf</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@elipariser",
-        "display_name": "Eli Pariser"
-      },
-      {
-        "url": "https://mastodon.social/@randomwalker",
-        "display_name": "Arvind Narayanan"
+        "url": "https://mastodon.social/@Migueldeicaza",
+        "display_name": "Miguel de Icaza"
       }
     ]
   },
@@ -352,6 +160,46 @@
       {
         "url": "https://boffosocko.com/author/chrisaldrich/",
         "display_name": "Chris Aldrich"
+      }
+    ]
+  },
+  {
+    "link": "https://www.vice.com/en/article/qjkyxp/whats-the-deal-with-nothing-forever-a-21st-century-seinfeld-that-is-ai-generated",
+    "title": "\u2018Nothing, Forever\u2019 Is An Endless \u2018Seinfeld\u2019 Episode Generated by AI",
+    "latest": "2023-02-01T18:05:20+00:00",
+    "first": "2023-02-01T00:07:45+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109790804054456190",
+      "content": "<p>There's a Twitch channel that's streaming an infinite AI-generated episode of Seinfeld called \"Nothing, Forever\", with clunky animated visuals and a laugh track, and it's weirdly compelling to watch, mainly due to the tiny chance of it actually telling a joke that works!</p><p><a href=\"https://www.twitch.tv/watchmeforever\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">twitch.tv/watchmeforever</span><span class=\"invisible\"></span></a></p><p>Article in Motherboard about it: <a href=\"https://www.vice.com/en/article/qjkyxp/whats-the-deal-with-nothing-forever-a-21st-century-seinfeld-that-is-ai-generated\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">vice.com/en/article/qjkyxp/wha</span><span class=\"invisible\">ts-the-deal-with-nothing-forever-a-21st-century-seinfeld-that-is-ai-generated</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://www.pnas.org/doi/10.1073/pnas.2208863120",
+    "title": "pnas.org/doi/10.1073/pnas.2208...",
+    "latest": "2023-02-01T15:33:35+00:00",
+    "first": "2023-01-31T23:25:03+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@pdakean/109789744499424779",
+      "content": "<p>\u201cA notable exception is Developmental Psychology, which has the lowest average replicability though 60% of its research is non-experimental.\u201d <a href=\"https://www.pnas.org/doi/10.1073/pnas.2208863120\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">pnas.org/doi/10.1073/pnas.2208</span><span class=\"invisible\">863120</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@natematias",
+        "display_name": "J. Nathan Matias \ud83e\udda3"
+      },
+      {
+        "url": "https://mefi.social/@melissaekline",
+        "display_name": "Melissa Kline Struhl"
       }
     ]
   },
@@ -456,6 +304,26 @@
     ]
   },
   {
+    "link": "https://www.twitch.tv/watchmeforever",
+    "title": "watchmeforever - Twitch",
+    "latest": "2023-02-01T18:05:20+00:00",
+    "first": "2023-02-01T08:37:24+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109790804054456190",
+      "content": "<p>There's a Twitch channel that's streaming an infinite AI-generated episode of Seinfeld called \"Nothing, Forever\", with clunky animated visuals and a laugh track, and it's weirdly compelling to watch, mainly due to the tiny chance of it actually telling a joke that works!</p><p><a href=\"https://www.twitch.tv/watchmeforever\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">twitch.tv/watchmeforever</span><span class=\"invisible\"></span></a></p><p>Article in Motherboard about it: <a href=\"https://www.vice.com/en/article/qjkyxp/whats-the-deal-with-nothing-forever-a-21st-century-seinfeld-that-is-ai-generated\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">vice.com/en/article/qjkyxp/wha</span><span class=\"invisible\">ts-the-deal-with-nothing-forever-a-21st-century-seinfeld-that-is-ai-generated</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@Adverb",
+        "display_name": "Advadnoun"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://www.abc.net.au/news/2023-02-01/australian-radioactive-capsule-found-in-wa-outback-rio-tinto/101917828",
     "title": "Missing radioactive capsule found in WA outback after frantic search",
     "latest": "2023-02-01T14:30:41+00:00",
@@ -532,6 +400,126 @@
       {
         "url": "https://econtwitter.net/@dmckenzie001",
         "display_name": "David McKenzie"
+      }
+    ]
+  },
+  {
+    "link": "https://dailyfinds.hrbrmstr.dev/p/drop-190-2023-02-01-everything-is",
+    "title": "Drop #190 (2023-02-01): Everything Is Awful",
+    "latest": "2023-02-01T16:40:02+00:00",
+    "first": "2023-02-01T15:06:30+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/109790468652795354",
+      "content": "<p>Much like there can be no Batman without The Joker,  to fully appreciate the \u201cgood\u201d, we \u2014 occasionally \u2014 need a solid dose of \u201cthe wretched\u201d, which is the focus of today's Drop.</p><p>Drop #190 (2023-02-01)</p><p>Everything Is Awful </p><p>\u2014 Disheveled Trends; <br>\u2014 Malignant Maps; and,<br>\u2014 Incidental AI: Just One More Thing </p><p>Plus a bonus drop that truly Excels at being horrible.</p><p><a href=\"https://dailyfinds.hrbrmstr.dev/p/drop-190-2023-02-01-everything-is\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dailyfinds.hrbrmstr.dev/p/drop</span><span class=\"invisible\">-190-2023-02-01-everything-is</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@jeremy",
+        "display_name": "J\u00e9r\u00e9my Garniaux"
+      },
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://web.dev/learn-images/",
+    "title": "Learn Images!",
+    "latest": "2023-02-01T15:23:48+00:00",
+    "first": "2023-02-01T14:07:52+00:00",
+    "last_post": {
+      "url": "https://chromium.social/@developers/109789812271706616",
+      "content": "<p>Learn Images!</p><p><a href=\"https://web.dev/learn-images/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">web.dev/learn-images/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://status.kinlan.me/@paul",
+        "display_name": "Paul Kinlan"
+      },
+      {
+        "url": "https://toot.cafe/@nickytonline",
+        "display_name": "Nick Taylor"
+      }
+    ]
+  },
+  {
+    "link": "http://www.publicbooks.org/data-free-disney/",
+    "title": "publicbooks.org/data-free-disn...",
+    "latest": "2023-02-01T16:01:11+00:00",
+    "first": "2023-02-01T13:41:48+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@cyberlyra/109786821567589408",
+      "content": "<p>My most recent Opt Out Experiment is online\u2014thanks, Publicbooks! Here\u2019s how I evaded data capture at Disneyland\u2014and more importantly, how Big Tech has hijacked \u201cconvenience\u201d to keep us in thrall.</p><p><a href=\"http://www.publicbooks.org/data-free-disney/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">publicbooks.org/data-free-disn</span><span class=\"invisible\">ey/</span></a></p><p>More tech details at <a href=\"https://www.optoutproject.net/data-free-disney\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">optoutproject.net/data-free-di</span><span class=\"invisible\">sney</span></a> </p><p><a href=\"https://mastodon.social/tags/dataprivacyweek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataprivacyweek</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot \ud83e\udd39"
+      },
+      {
+        "url": "https://mstdn.social/@dgleich",
+        "display_name": "David Gleich"
+      }
+    ]
+  },
+  {
+    "link": "https://www.optoutproject.net/data-free-disney",
+    "title": "optoutproject.net/data-free-di...",
+    "latest": "2023-02-01T16:01:11+00:00",
+    "first": "2023-02-01T13:41:48+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@cyberlyra/109786821567589408",
+      "content": "<p>My most recent Opt Out Experiment is online\u2014thanks, Publicbooks! Here\u2019s how I evaded data capture at Disneyland\u2014and more importantly, how Big Tech has hijacked \u201cconvenience\u201d to keep us in thrall.</p><p><a href=\"http://www.publicbooks.org/data-free-disney/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">publicbooks.org/data-free-disn</span><span class=\"invisible\">ey/</span></a></p><p>More tech details at <a href=\"https://www.optoutproject.net/data-free-disney\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">optoutproject.net/data-free-di</span><span class=\"invisible\">sney</span></a> </p><p><a href=\"https://mastodon.social/tags/dataprivacyweek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataprivacyweek</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot \ud83e\udd39"
+      },
+      {
+        "url": "https://mstdn.social/@dgleich",
+        "display_name": "David Gleich"
+      }
+    ]
+  },
+  {
+    "link": "https://web.dev/learn/images/",
+    "title": "Learn Images",
+    "latest": "2023-02-01T15:37:03+00:00",
+    "first": "2023-02-01T17:57:23+00:00",
+    "last_post": {
+      "url": "https://front-end.social/@Wilto/109790077055221520",
+      "content": "<p>Wanna know why deep-fried JPEGs look like that? Wanna know what this new \u201cAVIF\u201d thing is\u2014and how to use it right now? Wanna learn about some ways to never write responsive image markup by hand again?</p><p>Well, I wrote you something.</p><p><a href=\"https://web.dev/learn/images/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">web.dev/learn/images/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://front-end.social/@rachelandrew",
+        "display_name": "Rachel Andrew"
+      },
+      {
+        "url": "https://front-end.social/@jensimmons",
+        "display_name": "Jen Simmons"
+      }
+    ]
+  },
+  {
+    "link": "https://json.blinry.org/",
+    "title": "https://json.blinry.org",
+    "latest": "2023-02-01T15:40:10+00:00",
+    "first": "2023-02-01T17:17:39+00:00",
+    "last_post": {
+      "url": "https://chaos.social/@blinry/109789928987786290",
+      "content": "<p>I made a tool for exploring JSON APIs interactively!</p><p>It's been invaluable to me for figuring out how <a href=\"https://chaos.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> works. It's surprisingly satisfying to just click around, pretending this was some sort of client! :D</p><p>I encourage you to paste the URL to your own <a href=\"https://chaos.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> profile into the input box, and see how far you can get!</p><p>\ud83d\udd75\ufe0f <a href=\"https://json.blinry.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">json.blinry.org</span><span class=\"invisible\"></span></a> \ud83d\udd75\ufe0f</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@jaspar",
+        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      },
+      {
+        "url": "https://social.jvns.ca/@b0rk",
+        "display_name": "Julia Evans"
       }
     ]
   }
