@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://doi.org/10.24069/SEP-22-48",
+    "title": "https://doi.org/10.24069/SEP-22-48",
+    "latest": "2023-02-01T14:37:14+00:00",
+    "first": "2023-02-01T14:37:14+00:00",
+    "last_post": {
+      "url": "https://social.cwts.nl/@dkochetkov/109789853322417043",
+      "content": "<p>Russian <a href=\"https://social.cwts.nl/tags/Journal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Journal</span></a> <a href=\"https://social.cwts.nl/tags/Whitelist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Whitelist</span></a> is under heated discussion. I decided to express my opinion on this matter.  More precisely, I am not so much imposing my opinion as asking questions that, unfortunately, have not yet been answered.  The article is available at <a href=\"https://doi.org/10.24069/SEP-22-48\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.24069/SEP-22-48</span><span class=\"invisible\"></span></a>. <a href=\"https://social.cwts.nl/tags/researchevaluation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>researchevaluation</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.cwts.nl/@LudoWaltman",
+        "display_name": "Ludo Waltman"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.13218",
+    "title": "Identifying quantum many-body integrability and chaos using eigenstates trace distances",
+    "latest": "2023-02-01T13:59:39+00:00",
+    "first": "2023-02-01T13:59:39+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@JoshuahHeath/109789838001781848",
+      "content": "<p>Today's <a href=\"https://mathstodon.xyz/tags/arXivsummary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arXivsummary</span></a>: <a href=\"https://arxiv.org/abs/2301.13218\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.13218</span><span class=\"invisible\"></span></a> by Khasseh et. al. Authors introduce an alternative indicator for quantum many-body integrability and chaos based on the statistics of eigenstates by means of nearest-neighbor subsystem trace<br>distances. Indicator signals the expected quantum many-body integrability. <a href=\"https://mathstodon.xyz/tags/CondMat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CondMat</span></a> <a href=\"https://mathstodon.xyz/tags/StatMech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StatMech</span></a> <a href=\"https://mathstodon.xyz/tags/arXiv_2301_13218\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arXiv_2301_13218</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@JoshuahHeath",
+        "display_name": "|\u00d0r\u27e9\u2295|J\u03b8\u03a3\u0127\u03bc\u03b1\u0127\u27e9\u2297|H\u03b5\u03b1\u03c4\u0127\u27e9"
+      }
+    ]
+  },
+  {
     "link": "https://sciencedirect.com/science/article/pii/S0010945223000126",
     "title": "sciencedirect.com/science/arti...",
     "latest": "2023-02-01T05:50:00+00:00",
@@ -3318,46 +3350,6 @@
   {
     "link": "https://arxiv.org/abs/2212.07677",
     "title": "https://arxiv.org/abs/2212.07677",
-    "latest": "2023-01-21T18:09:31+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@ShahabBakht/109541890846547494",
-      "content": "<p>In-context learning in <a href=\"https://neuromatch.social/tags/transformers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transformers</span></a>  is one of those mysterious <a href=\"https://neuromatch.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a>  phenomena that needs more attention (no pun intended) from <a href=\"https://neuromatch.social/tags/neuroscientists\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuroscientists</span></a>. </p><p>In-context learning is a phenomenon in large language models where the model \"learns\" a task just by observing some input-output examples, without updating any parameters. <br>\"Simply by adjusting a \u201cprompt\u201d, transformers can be adapted to do many useful things without re-training, such as translation, question-answering, arithmetic, and many other tasks. Using \u201cprompt engineering\u201d to leverage in-context learning became a popular topic of study and discussion.\" (<a href=\"https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">transformer-circuits.pub/2022/</span><span class=\"invisible\">in-context-learning-and-induction-heads/index.html</span></a>)</p><p>Interestingly, two recent works (H/T <span class=\"h-card\"><a href=\"https://sigmoid.social/@roydanroy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>roydanroy</span></a></span>)  showed that in-context learning (at least under certain conditions) match solutions found by gradient descent: <br>1) Transformers learn in-context by gradient descent: <a href=\"https://arxiv.org/abs/2212.07677\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.07677</span><span class=\"invisible\"></span></a><br>2) What learning algorithm is in-context learning? Investigations with linear models: <a href=\"https://arxiv.org/abs/2211.15661\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.15661</span><span class=\"invisible\"></span></a> </p><p>In <a href=\"https://neuromatch.social/tags/neuroscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuroscience</span></a>, synaptic plasticity is generally thought to be the mechanism underlying many of the behavioral improvements that are loosely referred to as learning. </p><p>Could in-context <a href=\"https://neuromatch.social/tags/learning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>learning</span></a> be an alternative mechanism underlying at least some behavioral improvements? Given the suggested similarities of the <a href=\"https://neuromatch.social/tags/hippocampus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hippocampus</span></a> representation learning and transformers (<a href=\"https://arxiv.org/abs/2112.04035\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2112.04035</span><span class=\"invisible\"></span></a>), it'd be interesting to see the implications of in-context learning for our understanding of <a href=\"https://neuromatch.social/tags/memory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>memory</span></a> formation in the hippocampus? <a href=\"https://neuromatch.social/tags/NeuroAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeuroAI</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ogrisel",
-        "display_name": "Olivier Grisel"
-      },
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      }
-    ],
-    "first": "2022-12-30T08:51:16+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2211.15661",
-    "title": "https://arxiv.org/abs/2211.15661",
-    "latest": "2023-01-21T18:09:31+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@ShahabBakht/109541890846547494",
-      "content": "<p>In-context learning in <a href=\"https://neuromatch.social/tags/transformers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transformers</span></a>  is one of those mysterious <a href=\"https://neuromatch.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a>  phenomena that needs more attention (no pun intended) from <a href=\"https://neuromatch.social/tags/neuroscientists\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuroscientists</span></a>. </p><p>In-context learning is a phenomenon in large language models where the model \"learns\" a task just by observing some input-output examples, without updating any parameters. <br>\"Simply by adjusting a \u201cprompt\u201d, transformers can be adapted to do many useful things without re-training, such as translation, question-answering, arithmetic, and many other tasks. Using \u201cprompt engineering\u201d to leverage in-context learning became a popular topic of study and discussion.\" (<a href=\"https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">transformer-circuits.pub/2022/</span><span class=\"invisible\">in-context-learning-and-induction-heads/index.html</span></a>)</p><p>Interestingly, two recent works (H/T <span class=\"h-card\"><a href=\"https://sigmoid.social/@roydanroy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>roydanroy</span></a></span>)  showed that in-context learning (at least under certain conditions) match solutions found by gradient descent: <br>1) Transformers learn in-context by gradient descent: <a href=\"https://arxiv.org/abs/2212.07677\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.07677</span><span class=\"invisible\"></span></a><br>2) What learning algorithm is in-context learning? Investigations with linear models: <a href=\"https://arxiv.org/abs/2211.15661\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.15661</span><span class=\"invisible\"></span></a> </p><p>In <a href=\"https://neuromatch.social/tags/neuroscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neuroscience</span></a>, synaptic plasticity is generally thought to be the mechanism underlying many of the behavioral improvements that are loosely referred to as learning. </p><p>Could in-context <a href=\"https://neuromatch.social/tags/learning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>learning</span></a> be an alternative mechanism underlying at least some behavioral improvements? Given the suggested similarities of the <a href=\"https://neuromatch.social/tags/hippocampus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hippocampus</span></a> representation learning and transformers (<a href=\"https://arxiv.org/abs/2112.04035\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2112.04035</span><span class=\"invisible\"></span></a>), it'd be interesting to see the implications of in-context learning for our understanding of <a href=\"https://neuromatch.social/tags/memory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>memory</span></a> formation in the hippocampus? <a href=\"https://neuromatch.social/tags/NeuroAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeuroAI</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ogrisel",
-        "display_name": "Olivier Grisel"
-      },
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      }
-    ],
-    "first": "2022-12-30T08:51:16+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2112.04035",
-    "title": "https://arxiv.org/abs/2112.04035",
     "latest": "2023-01-21T18:09:31+00:00",
     "last_post": {
       "url": "https://neuromatch.social/@ShahabBakht/109541890846547494",

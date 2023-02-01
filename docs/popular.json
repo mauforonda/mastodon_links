@@ -80,6 +80,42 @@
     ]
   },
   {
+    "link": "https://buffer.com/mastodon",
+    "title": "Make Your Mark in the Fediverse with Buffer\u2019s Mastodon Scheduler",
+    "latest": "2023-02-01T12:52:01+00:00",
+    "first": "2023-01-31T18:00:07+00:00",
+    "last_post": {
+      "url": "https://mastodon.world/@buffer/109784864418386891",
+      "content": "<p>Hello fediverse! Buffer now officially supports Mastodon scheduling. \ud83e\udd73</p><p>The Mastodon community is growing fast, with a set of principles we admire. We\u2019re excited to explore it with you and help you build a consistent and engaging Mastodon presence.</p><p>Let\u2019s get tooting! </p><p><a href=\"https://buffer.com/mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buffer.com/mastodon</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      },
+      {
+        "url": "https://mastodon.social/@Gargron",
+        "display_name": "Eugen Rochko"
+      },
+      {
+        "url": "https://curbal.social/@ruthpozuelo",
+        "display_name": "Ruth Pozuelo Martinez"
+      },
+      {
+        "url": "https://friend.camp/@darius",
+        "display_name": "Darius Kazemi"
+      },
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      }
+    ]
+  },
+  {
     "link": "https://www.telegraph.co.uk/news/2022/02/19/pictured-remarkable-picture-shows-vast-interior-ordinary-cello/",
     "title": "Pictured: Remarkable image shows the 'vast' interior of an ordinary cello",
     "latest": "2023-01-31T03:09:04+00:00",
@@ -144,34 +180,34 @@
     ]
   },
   {
-    "link": "https://buffer.com/mastodon",
-    "title": "Make Your Mark in the Fediverse with Buffer\u2019s Mastodon Scheduler",
-    "latest": "2023-01-31T18:20:48+00:00",
-    "first": "2023-01-31T18:00:07+00:00",
+    "link": "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/",
+    "title": "New AI classifier for indicating AI-written text",
+    "latest": "2023-02-01T12:25:35+00:00",
+    "first": "2023-01-31T22:22:20+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@dangillmor/109785198098211242",
-      "content": "<p>A genuine breakthrough in Mastodon/fediverse: <span class=\"h-card\"><a href=\"https://mastodon.world/@buffer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>buffer</span></a></span> -- a tool for managing social media accounts -- now supports this place. <a href=\"https://buffer.com/mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buffer.com/mastodon</span><span class=\"invisible\"></span></a></p>"
+      "url": "https://mastodon.adida.net/@ben/109787298429107128",
+      "content": "<p>So OpenAI just released a detector of AI-generated text, I assume because of concerns in education / homework.</p><p><a href=\"https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">openai.com/blog/new-ai-classif</span><span class=\"invisible\">ier-for-indicating-ai-written-text/</span></a></p><p>Maybe this is good?</p><p>No, it's very bad.</p><p>They claim 26% true positives, 9% false positives. Assume 10% of submitted homework is chatgpt generated, you get the classic counterintuitive outcome of poor predictive power: if a homework is flagged, there's a 3:1 chance it's *human* generated.</p><p>This is going to cause a lot of harm. It should be immediately recalled.</p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
       },
       {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
       },
       {
-        "url": "https://mastodon.social/@Gargron",
-        "display_name": "Eugen Rochko"
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
       },
       {
-        "url": "https://curbal.social/@ruthpozuelo",
-        "display_name": "Ruth Pozuelo Martinez"
+        "url": "https://hci.social/@axz",
+        "display_name": "Amy Zhang"
       },
       {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
+        "url": "https://mastodon.social/@cbail",
+        "display_name": "cbail"
       }
     ]
   },
@@ -256,82 +292,6 @@
       {
         "url": "https://fediscience.org/@ChrisWalter",
         "display_name": "Chris Walter"
-      }
-    ]
-  },
-  {
-    "link": "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/",
-    "title": "New AI classifier for indicating AI-written text",
-    "latest": "2023-02-01T10:17:39+00:00",
-    "first": "2023-01-31T22:22:20+00:00",
-    "last_post": {
-      "url": "https://mastodon.adida.net/@ben/109787298429107128",
-      "content": "<p>So OpenAI just released a detector of AI-generated text, I assume because of concerns in education / homework.</p><p><a href=\"https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">openai.com/blog/new-ai-classif</span><span class=\"invisible\">ier-for-indicating-ai-written-text/</span></a></p><p>Maybe this is good?</p><p>No, it's very bad.</p><p>They claim 26% true positives, 9% false positives. Assume 10% of submitted homework is chatgpt generated, you get the classic counterintuitive outcome of poor predictive power: if a homework is flagged, there's a 3:1 chance it's *human* generated.</p><p>This is going to cause a lot of harm. It should be immediately recalled.</p>"
-    },
-    "people": [
-      {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
-      },
-      {
-        "url": "https://sigmoid.social/@TedUnderwood",
-        "display_name": "Ted Underwood"
-      },
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      },
-      {
-        "url": "https://hci.social/@axz",
-        "display_name": "Amy Zhang"
-      }
-    ]
-  },
-  {
-    "link": "https://octodon.social/@aulia/109770564472648044",
-    "title": "Aulia Masna :verified: (@aulia@octodon.social)",
-    "latest": "2023-01-29T18:18:32+00:00",
-    "first": "2023-01-29T13:51:08+00:00",
-    "last_post": {
-      "url": "https://octodon.social/@aulia/109719615535367418",
-      "content": "<p>Some <a href=\"https://octodon.social/tags/Twitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Twitter</span></a> things that the company didn\u2019t build or invent itself:</p><p>\u2022 Twitterrific was the first mobile Twitter app<br><br>\u2022 The word tweet made its first official appearance on Twitterrific<br><br>\u2022 The hashtag was from Chris Messina<br><br>\u2022 Advanced Twitter Search was originally Summize<br><br>\u2022 Twitter bought TweetDeck<br><br>\u2022 Live stream was from Periscope acquisition<br><br>\u2022 The official Twitter app was originally Tweetie which they purchased from Loren Brichter<br><br>\u2022 Mentioning people with an @ was user driven and wasn\u2019t linked to accounts because they didn\u2019t consider conversations to take place on Twitter initially<br><br>\u2022 Quote tweet was adopted from people copy+pasting tweets and adding RT in front of the copied tweet<br><br>\u2022 Threads were built to accomodate existing user behavior</p><p>Did I miss anything major?</p><p>[update 29/1] lots of additions in the replies that I thought should get added here</p><p>\u2022 Image attachments added after third party services like imageshack/yfrog, and twitpic became super popular.<br><br>\u2022 Twitterrific was first to officially associate Twitter with a bird<br><br>\u2022 Retweet was adopted from user behavior (you couldn\u2019t comment or add context using the official retweet so many people kept using RT until Twitter introduced native QT)<br><br>\u2022 Scheduling, posting across accounts, and team/shared accounts were from Hootsuite<br><br>\u2022 Popularity of short link services like isgd and bitly lead to tco url masking</p><p>Something that people may not have been aware, in my corner of Twitter in those early years, people interpreted RT not as retweet but as reply to. So they weren\u2019t replying by hitting the reply button but by manually quote tweeting and adding RT after their response.</p><p>There\u2019s enough confusion over RT so I\u2019m gonna add this example</p><p><a href=\"https://octodon.social/@aulia/109770564472648044\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">octodon.social/@aulia/10977056</span><span class=\"invisible\">4472648044</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@jaspar",
-        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-      },
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      },
-      {
-        "url": "https://writing.exchange/@bryankam",
-        "display_name": "Bryan Kam"
-      }
-    ]
-  },
-  {
-    "link": "https://netzpolitik.org/2023/aufruf-hochschulen-aller-laender-ins-fediverse/",
-    "title": "Aufruf: Hochschulen aller L\u00e4nder ins Fediverse!",
-    "latest": "2023-01-31T11:43:51+00:00",
-    "first": "2023-01-29T14:24:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@katjamat/109783627660698039",
-      "content": "<p>RT @leonidobusch@twitter.com</p><p>So wie Studierende mit Studienbeginn eine Uni-Mailadresse bekommen, sollten sie auch eine Adresse an der Uni-Mastodon-Instanz bekommen. </p><p>Bei @netzpolitik_org@twitter.com habe ich einen Aufruf f\u00fcr Hochschulinstanzen ins <a href=\"https://mastodon.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> verfasst: <a href=\"https://netzpolitik.org/2023/aufruf-hochschulen-aller-laender-ins-fediverse/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">netzpolitik.org/2023/aufruf-ho</span><span class=\"invisible\">chschulen-aller-laender-ins-fediverse/</span></a></p><p>5 wichtigste Gr\u00fcnde als \ud83e\uddf5</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/leonidobusch/status/1619700085897707521\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/leonidobusch/statu</span><span class=\"invisible\">s/1619700085897707521</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
-      },
-      {
-        "url": "https://tldr.nettime.org/@festal",
-        "display_name": "felix stalder"
-      },
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
       }
     ]
   },
@@ -1364,6 +1324,26 @@
     ]
   },
   {
+    "link": "https://energyinnovation.org/publication/coal-cost-crossover-3-0-local-renewables-plus-storage-create-new-opportunities-for-customer-savings-and-community-reinvestment/",
+    "title": "Coal Cost Crossover 3.0: Local Renewables Plus Storage Create New Opportunities For Customer Savings And Community Reinvestment",
+    "latest": "2023-02-01T14:11:52+00:00",
+    "first": "2023-01-31T13:55:56+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@TradingPlacesResearch/109789886060805339",
+      "content": "<p>Solar and wind are now so cheap that there is only one existing coal plant left in the US that is less expensive than new solar or wind built next to it. </p><p><a href=\"https://energyinnovation.org/publication/coal-cost-crossover-3-0-local-renewables-plus-storage-create-new-opportunities-for-customer-savings-and-community-reinvestment/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">energyinnovation.org/publicati</span><span class=\"invisible\">on/coal-cost-crossover-3-0-local-renewables-plus-storage-create-new-opportunities-for-customer-savings-and-community-reinvestment/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@gwagner",
+        "display_name": "Gernot Wagner"
+      },
+      {
+        "url": "https://econtwitter.net/@TradingPlacesResearch",
+        "display_name": "Trading Places Research"
+      }
+    ]
+  },
+  {
     "link": "https://start.coops.tech/",
     "title": "https://start.coops.tech",
     "latest": "2023-01-31T19:20:44+00:00",
@@ -1744,6 +1724,46 @@
     ]
   },
   {
+    "link": "https://www.abc.net.au/news/2023-02-01/australian-radioactive-capsule-found-in-wa-outback-rio-tinto/101917828",
+    "title": "Missing radioactive capsule found in WA outback after frantic search",
+    "latest": "2023-02-01T14:30:41+00:00",
+    "first": "2023-02-01T08:00:43+00:00",
+    "last_post": {
+      "url": "https://vis.social/@jhilden/109789960063342800",
+      "content": "<p>The lost Australian radioactive capsule was like a reverse Ever Given:<br>Tiny and Lost versus Enormous and Stuck. </p><p><a href=\"https://www.abc.net.au/news/2023-02-01/australian-radioactive-capsule-found-in-wa-outback-rio-tinto/101917828\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">abc.net.au/news/2023-02-01/aus</span><span class=\"invisible\">tralian-radioactive-capsule-found-in-wa-outback-rio-tinto/101917828</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@gregeganSF",
+        "display_name": "Greg Egan"
+      },
+      {
+        "url": "https://vis.social/@jhilden",
+        "display_name": "Jonatan Hild\u00e9n"
+      }
+    ]
+  },
+  {
+    "link": "https://journalofdigitalhistory.org/en/cfp/teaching",
+    "title": "Journal of Digital History",
+    "latest": "2023-02-01T13:34:44+00:00",
+    "first": "2023-02-01T08:14:23+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@inactinique/109783768970794204",
+      "content": "<p>Call for papers! Would you like to write about your experience in teaching digital history? We invite you to submit an abstract for our first open issue on the teaching of <a href=\"https://mastodon.social/tags/dighist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dighist</span></a>.</p><p>Co-edited by Amanda Madden, Silke Schwandt and Emmanuel Ngu\u00e9 Um.</p><p><a href=\"https://journalofdigitalhistory.org/en/cfp/teaching\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journalofdigitalhistory.org/en</span><span class=\"invisible\">/cfp/teaching</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      },
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot \ud83e\udd39"
+      }
+    ]
+  },
+  {
     "link": "https://amp.theguardian.com/us-news/2023/jan/29/ron-desantis-florida-university-new-college-woke-war",
     "title": "\u2018Hostile takeover\u2019: the tiny Florida university targeted by Ron DeSantis",
     "latest": "2023-02-01T12:08:36+00:00",
@@ -1760,6 +1780,26 @@
       {
         "url": "https://mastodon.social/@mrchrisadams",
         "display_name": "Chris Adams"
+      }
+    ]
+  },
+  {
+    "link": "https://blogs.worldbank.org/impactevaluations/can-ai-write-your-stata-code",
+    "title": "Can AI write your Stata code?",
+    "latest": "2023-02-01T13:59:12+00:00",
+    "first": "2023-02-01T15:00:28+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@dmckenzie001/109789836253220051",
+      "content": "<p>In today's Development Impact post, <span class=\"h-card\"><a href=\"https://econtwitter.net/@owenozier\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>owenozier</span></a></span> asks ChatGPT to help him write his Stata code and gets very mixed results. It seems you need to know a lot of Stata already to coax it to sort of work, and it gets it wrong a lot of the time and even makes up fictitious commands!  <a href=\"https://blogs.worldbank.org/impactevaluations/can-ai-write-your-stata-code\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.worldbank.org/impacteval</span><span class=\"invisible\">uations/can-ai-write-your-stata-code</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@NicVdSijpe",
+        "display_name": "Nicolas Van de Sijpe"
+      },
+      {
+        "url": "https://econtwitter.net/@dmckenzie001",
+        "display_name": "David McKenzie"
       }
     ]
   }
