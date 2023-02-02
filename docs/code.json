@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/edent/PythonPals",
+    "title": "GitHub - edent/PythonPals: The Python Pals are \"Solve Your Own Adventure\" stories to help teach people Python.",
+    "latest": "2023-02-02T06:52:35+00:00",
+    "first": "2023-02-02T06:52:35+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@box464/109793672982966078",
+      "content": "<p>Somehow stumbled onto this little gem on GitHub tonight from <span class=\"h-card\"><a href=\"https://mastodon.social/@Edent\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Edent</span></a></span> </p><p>Python Pals is an educational children's book series in which Penny and Poppy solve all kinds of issues with only their trusty <a href=\"https://mastodon.social/tags/RasberryPi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RasberryPi</span></a> and <a href=\"https://mastodon.social/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a>. </p><p>It's just begging for some illustrations, so putting it out into the Mastodon ether to see if someone can whip up a cover or two. Boost to al the <a href=\"https://mastodon.social/tags/artists\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artists</span></a> out there.</p><p><a href=\"https://github.com/edent/PythonPals\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/edent/PythonPals</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Edent",
+        "display_name": "Terence Eden"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/johnsoncodehk/vite-plugin-vue-jump",
+    "title": "GitHub - johnsoncodehk/vite-plugin-vue-jump",
+    "latest": "2023-02-02T06:14:17+00:00",
+    "first": "2023-02-02T06:14:17+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@johnsoncodehk/109791758498004472",
+      "content": "<p>Press `Alt` + click and jump to the source code. \ud83d\udd25</p><p>Power by <a href=\"https://github.com/johnsoncodehk/vite-plugin-vue-jump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/johnsoncodehk/vite-</span><span class=\"invisible\">plugin-vue-jump</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/typelevel/fs2/releases/tag/v3.5.0",
     "title": "Release v3.5.0 \u00b7 typelevel/fs2",
     "latest": "2023-02-02T02:58:58+00:00",
@@ -3376,38 +3408,6 @@
       {
         "url": "https://hci.social/@andresmh",
         "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/staticjscms",
-    "title": "https://github.com/staticjscms",
-    "latest": "2023-01-23T15:39:29+00:00",
-    "first": "2023-01-23T15:39:29+00:00",
-    "last_post": {
-      "url": "https://wandering.shop/@callahad/109738814293740445",
-      "content": "<p><span class=\"h-card\"><a href=\"https://status.kinlan.me/@paul\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>paul</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@scrwd\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>scrwd</span></a></span> NetlifyCMS is dead per discussion at <a href=\"https://answers.netlify.com/t/is-this-project-dead/70988/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">answers.netlify.com/t/is-this-</span><span class=\"invisible\">project-dead/70988/</span></a></p><p>There's a semi-active fork at <a href=\"https://github.com/staticjscms\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/staticjscms</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues/11882",
-    "title": "\"Block direct messages from people you don't follow\" is a mute, not a block \u00b7 Issue #11882 \u00b7 mastodon/mastodon",
-    "latest": "2023-01-23T14:46:30+00:00",
-    "first": "2023-01-23T14:46:30+00:00",
-    "last_post": {
-      "url": "https://social.jvns.ca/@b0rk/109739061432358367",
-      "content": "<p>I've had DMs blocked on Mastodon for a while (same as on twitter), but I just learned that on Mastodon, \"block DMs\" actually means \"mute DMs\" <a href=\"https://github.com/mastodon/mastodon/issues/11882\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/11882</span></a></p><p>so the sender has no way to tell that the receiver has DMs blocked</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.jvns.ca/@b0rk",
-        "display_name": "Julia Evans"
       }
     ]
   }
