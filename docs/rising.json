@@ -76,6 +76,50 @@
     ]
   },
   {
+    "link": "https://json.blinry.org/",
+    "title": "https://json.blinry.org",
+    "latest": "2023-02-02T02:04:03.078000+00:00",
+    "first": "2023-02-01T17:17:39+00:00",
+    "last_post": {
+      "url": "https://chaos.social/@blinry/109789928987786290",
+      "content": "<p>I made a tool for exploring JSON APIs interactively!</p><p>It's been invaluable to me for figuring out how <a href=\"https://chaos.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> works. It's surprisingly satisfying to just click around, pretending this was some sort of client! :D</p><p>I encourage you to paste the URL to your own <a href=\"https://chaos.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> profile into the input box, and see how far you can get!</p><p>\ud83d\udd75\ufe0f <a href=\"https://json.blinry.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">json.blinry.org</span><span class=\"invisible\"></span></a> \ud83d\udd75\ufe0f</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@jaspar",
+        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      },
+      {
+        "url": "https://social.jvns.ca/@b0rk",
+        "display_name": "Julia Evans"
+      },
+      {
+        "url": "https://hachyderm.io/@pevohr",
+        "display_name": "Paul Rohr"
+      }
+    ]
+  },
+  {
+    "link": "https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/",
+    "title": "Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2) - C\u00e9dric Scherer",
+    "latest": "2023-02-02T01:32:47+00:00",
+    "first": "2023-02-01T08:14:53+00:00",
+    "last_post": {
+      "url": "https://genomic.social/@lopantano/109761736090553603",
+      "content": "<p>nice examples of how only boxplots are not enough <a href=\"https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cedricscherer.com/2021/06/06/v</span><span class=\"invisible\">isualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/</span></a> <a href=\"https://genomic.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://genomic.social/tags/bioinformatics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bioinformatics</span></a> <a href=\"https://genomic.social/tags/visualization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>visualization</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      },
+      {
+        "url": "https://vis.social/@tamara",
+        "display_name": "Tamara Munzner"
+      }
+    ]
+  },
+  {
     "link": "https://www.abc.net.au/news/2023-02-01/australian-radioactive-capsule-found-in-wa-outback-rio-tinto/101917828",
     "title": "Missing radioactive capsule found in WA outback after frantic search",
     "latest": "2023-02-01T14:30:41+00:00",
@@ -296,6 +340,26 @@
     ]
   },
   {
+    "link": "https://donhopkins.medium.com/open-sourcing-simcity-58470a275446",
+    "title": "Open Sourcing SimCity, by Chaim Gingold - Don Hopkins - Medium",
+    "latest": "2023-02-02T01:11:48+00:00",
+    "first": "2023-02-01T13:47:48+00:00",
+    "last_post": {
+      "url": "https://dialup.cafe/@vga256/109785101122406256",
+      "content": "<p>although now long forgotten as a historical curio of 2000s web idealism, the OLPC \"One Laptop Per Child\" project attempted to produce a low-cost, high-reliability laptop suitable for kids in low-income environments. </p><p>one of the upshots of the program was that SimCity was open-sourced for the OLPC XO-1 computer, and it was included on every machine. this little article by don hopkins does a great job of tracing its history through Sun Microsystems.</p><p><a href=\"https://donhopkins.medium.com/open-sourcing-simcity-58470a275446\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">donhopkins.medium.com/open-sou</span><span class=\"invisible\">rcing-simcity-58470a275446</span></a></p><p><a href=\"https://dialup.cafe/tags/gamedesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gamedesign</span></a> <a href=\"https://dialup.cafe/tags/gamedev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gamedev</span></a> <a href=\"https://dialup.cafe/tags/RetroGaming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RetroGaming</span></a> <a href=\"https://dialup.cafe/tags/history\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>history</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@thegrugq",
+        "display_name": "the grugq"
+      },
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      }
+    ]
+  },
+  {
     "link": "https://www.youtube.com/watch?v=8cKDOGhghMU",
     "title": "Langston Hughes reads The Negro Speaks of Rivers",
     "latest": "2023-02-01T19:44:51+00:00",
@@ -372,26 +436,6 @@
       {
         "url": "https://social.coop/@bmann",
         "display_name": "Boris Mann"
-      }
-    ]
-  },
-  {
-    "link": "https://json.blinry.org/",
-    "title": "https://json.blinry.org",
-    "latest": "2023-02-01T15:40:10+00:00",
-    "first": "2023-02-01T17:17:39+00:00",
-    "last_post": {
-      "url": "https://chaos.social/@blinry/109789928987786290",
-      "content": "<p>I made a tool for exploring JSON APIs interactively!</p><p>It's been invaluable to me for figuring out how <a href=\"https://chaos.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> works. It's surprisingly satisfying to just click around, pretending this was some sort of client! :D</p><p>I encourage you to paste the URL to your own <a href=\"https://chaos.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> profile into the input box, and see how far you can get!</p><p>\ud83d\udd75\ufe0f <a href=\"https://json.blinry.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">json.blinry.org</span><span class=\"invisible\"></span></a> \ud83d\udd75\ufe0f</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@jaspar",
-        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-      },
-      {
-        "url": "https://social.jvns.ca/@b0rk",
-        "display_name": "Julia Evans"
       }
     ]
   },

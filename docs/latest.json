@@ -1,5 +1,485 @@
 [
   {
+    "link": "https://sfba.social/@alfredtwu/109343556429315688",
+    "title": "Alfred Twu (@alfredtwu@sfba.social)",
+    "latest": "2023-02-02T03:07:02+00:00",
+    "first": "2023-02-02T03:07:02+00:00",
+    "last_post": {
+      "url": "https://xoxo.zone/@numist/109792934140295634",
+      "content": "<p><span class=\"h-card\"><a href=\"https://toot.io/@andy_matuschak\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andy_matuschak</span></a></span> Nice to see multiple people dreaming of this <a href=\"https://sfba.social/@alfredtwu/109343556429315688\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sfba.social/@alfredtwu/1093435</span><span class=\"invisible\">56429315688</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://xoxo.zone/@numist",
+        "display_name": "Scott Perry :ohnobubble:"
+      }
+    ]
+  },
+  {
+    "link": "https://macwright.com/2023/02/01/recently.html",
+    "title": "Recently",
+    "latest": "2023-02-02T03:06:01+00:00",
+    "first": "2023-02-02T03:06:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@tmcw/109792930109600838",
+      "content": "<p>Recently: <a href=\"https://macwright.com/2023/02/01/recently.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">macwright.com/2023/02/01/recen</span><span class=\"invisible\">tly.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@tmcw",
+        "display_name": "Tom MacWright"
+      }
+    ]
+  },
+  {
+    "link": "https://www.manning.com/books/functional-programming-in-scala-second-edition",
+    "title": "Functional Programming in Scala, Second Edition",
+    "latest": "2023-02-02T03:04:50+00:00",
+    "first": "2023-02-02T03:04:50+00:00",
+    "last_post": {
+      "url": "https://social.alexn.org/@alexelcu/109593059578682017",
+      "content": "<p>The genius of <a href=\"https://social.alexn.org/tags/Scala\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Scala</span></a>'s \"Red Book\" is that it explains very generic and hard to understand concepts in simple and very elegant code. And how many <a href=\"https://social.alexn.org/tags/Haskell\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Haskell</span></a> books have you seen implementing their own `IO`?</p><p>It's not the code that library authors write, but gosh, it's the code we want to write. And <a href=\"https://social.alexn.org/tags/Scala\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Scala</span></a> is such a good language for learning <a href=\"https://social.alexn.org/tags/FP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FP</span></a> \u2764\ufe0f</p><p>If you want to learn functional programming, there aren't that many good books, and this is one of them...</p><p><a href=\"https://www.manning.com/books/functional-programming-in-scala-second-edition\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">manning.com/books/functional-p</span><span class=\"invisible\">rogramming-in-scala-second-edition</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://universeodon.com/@pchiusano",
+        "display_name": "Paul Chiusano"
+      }
+    ]
+  },
+  {
+    "link": "https://platform.openai.com/ai-text-classifier",
+    "title": "OpenAI API",
+    "latest": "2023-02-02T03:00:31+00:00",
+    "first": "2023-02-02T03:00:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109792908484027576",
+      "content": "<p>Here are the links to the 4 different methods referenced above: </p><p>(1) OpenAI AI classifier: <a href=\"https://platform.openai.com/ai-text-classifier\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">platform.openai.com/ai-text-cl</span><span class=\"invisible\">assifier</span></a></p><p>(2) Detect GPT: <a href=\"https://arxiv.org/abs/2301.11305v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11305v1</span><span class=\"invisible\"></span></a></p><p>(3) GPTZero: <a href=\"https://gptzero.substack.com/p/gptzero-update-v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gptzero.substack.com/p/gptzero</span><span class=\"invisible\">-update-v1</span></a></p><p>(4) Watermarking: <a href=\"https://arxiv.org/abs/2301.10226v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10226v2</span><span class=\"invisible\"></span></a></p><p>And a slightly more verbose blog post: <a href=\"https://sebastianraschka.com/blog/2023/detect-ai.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sebastianraschka.com/blog/2023</span><span class=\"invisible\">/detect-ai.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.11305v1",
+    "title": "https://arxiv.org/abs/2301.11305v1",
+    "latest": "2023-02-02T03:00:31+00:00",
+    "first": "2023-02-02T03:00:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109792908484027576",
+      "content": "<p>Here are the links to the 4 different methods referenced above: </p><p>(1) OpenAI AI classifier: <a href=\"https://platform.openai.com/ai-text-classifier\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">platform.openai.com/ai-text-cl</span><span class=\"invisible\">assifier</span></a></p><p>(2) Detect GPT: <a href=\"https://arxiv.org/abs/2301.11305v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11305v1</span><span class=\"invisible\"></span></a></p><p>(3) GPTZero: <a href=\"https://gptzero.substack.com/p/gptzero-update-v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gptzero.substack.com/p/gptzero</span><span class=\"invisible\">-update-v1</span></a></p><p>(4) Watermarking: <a href=\"https://arxiv.org/abs/2301.10226v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10226v2</span><span class=\"invisible\"></span></a></p><p>And a slightly more verbose blog post: <a href=\"https://sebastianraschka.com/blog/2023/detect-ai.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sebastianraschka.com/blog/2023</span><span class=\"invisible\">/detect-ai.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      }
+    ]
+  },
+  {
+    "link": "https://gptzero.substack.com/p/gptzero-update-v1",
+    "title": "gptzero.substack.com/p/gptzero...",
+    "latest": "2023-02-02T03:00:31+00:00",
+    "first": "2023-02-02T03:00:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109792908484027576",
+      "content": "<p>Here are the links to the 4 different methods referenced above: </p><p>(1) OpenAI AI classifier: <a href=\"https://platform.openai.com/ai-text-classifier\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">platform.openai.com/ai-text-cl</span><span class=\"invisible\">assifier</span></a></p><p>(2) Detect GPT: <a href=\"https://arxiv.org/abs/2301.11305v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11305v1</span><span class=\"invisible\"></span></a></p><p>(3) GPTZero: <a href=\"https://gptzero.substack.com/p/gptzero-update-v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gptzero.substack.com/p/gptzero</span><span class=\"invisible\">-update-v1</span></a></p><p>(4) Watermarking: <a href=\"https://arxiv.org/abs/2301.10226v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10226v2</span><span class=\"invisible\"></span></a></p><p>And a slightly more verbose blog post: <a href=\"https://sebastianraschka.com/blog/2023/detect-ai.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sebastianraschka.com/blog/2023</span><span class=\"invisible\">/detect-ai.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.10226v2",
+    "title": "https://arxiv.org/abs/2301.10226v2",
+    "latest": "2023-02-02T03:00:31+00:00",
+    "first": "2023-02-02T03:00:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109792908484027576",
+      "content": "<p>Here are the links to the 4 different methods referenced above: </p><p>(1) OpenAI AI classifier: <a href=\"https://platform.openai.com/ai-text-classifier\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">platform.openai.com/ai-text-cl</span><span class=\"invisible\">assifier</span></a></p><p>(2) Detect GPT: <a href=\"https://arxiv.org/abs/2301.11305v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11305v1</span><span class=\"invisible\"></span></a></p><p>(3) GPTZero: <a href=\"https://gptzero.substack.com/p/gptzero-update-v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gptzero.substack.com/p/gptzero</span><span class=\"invisible\">-update-v1</span></a></p><p>(4) Watermarking: <a href=\"https://arxiv.org/abs/2301.10226v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10226v2</span><span class=\"invisible\"></span></a></p><p>And a slightly more verbose blog post: <a href=\"https://sebastianraschka.com/blog/2023/detect-ai.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sebastianraschka.com/blog/2023</span><span class=\"invisible\">/detect-ai.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      }
+    ]
+  },
+  {
+    "link": "https://sebastianraschka.com/blog/2023/detect-ai.html",
+    "title": "sebastianraschka.com/blog/2023...",
+    "latest": "2023-02-02T03:00:31+00:00",
+    "first": "2023-02-02T03:00:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109792908484027576",
+      "content": "<p>Here are the links to the 4 different methods referenced above: </p><p>(1) OpenAI AI classifier: <a href=\"https://platform.openai.com/ai-text-classifier\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">platform.openai.com/ai-text-cl</span><span class=\"invisible\">assifier</span></a></p><p>(2) Detect GPT: <a href=\"https://arxiv.org/abs/2301.11305v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11305v1</span><span class=\"invisible\"></span></a></p><p>(3) GPTZero: <a href=\"https://gptzero.substack.com/p/gptzero-update-v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gptzero.substack.com/p/gptzero</span><span class=\"invisible\">-update-v1</span></a></p><p>(4) Watermarking: <a href=\"https://arxiv.org/abs/2301.10226v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10226v2</span><span class=\"invisible\"></span></a></p><p>And a slightly more verbose blog post: <a href=\"https://sebastianraschka.com/blog/2023/detect-ai.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sebastianraschka.com/blog/2023</span><span class=\"invisible\">/detect-ai.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/typelevel/fs2/releases/tag/v3.5.0",
+    "title": "Release v3.5.0 \u00b7 typelevel/fs2",
+    "latest": "2023-02-02T02:58:58+00:00",
+    "first": "2023-02-02T02:58:58+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@mpilquist/109707740370354907",
+      "content": "<p>Lots of <a href=\"https://fosstodon.org/tags/typelevel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>typelevel</span></a> <a href=\"https://fosstodon.org/tags/scala\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scala</span></a> releases today including the first non-milestone releases of natchez/skunk with Scala Native support:<br>- fs2 3.5.0: <a href=\"https://github.com/typelevel/fs2/releases/tag/v3.5.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/typelevel/fs2/relea</span><span class=\"invisible\">ses/tag/v3.5.0</span></a><br>- natchez 0.3.0: <a href=\"https://github.com/tpolecat/natchez/releases/tag/v0.3.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tpolecat/natchez/re</span><span class=\"invisible\">leases/tag/v0.3.0</span></a><br>- natchez-http4s 0.5.0: <a href=\"https://github.com/tpolecat/natchez-http4s/releases/tag/v0.5.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tpolecat/natchez-ht</span><span class=\"invisible\">tp4s/releases/tag/v0.5.0</span></a><br>- skunk 0.4.0: <a href=\"https://github.com/tpolecat/skunk/releases/tag/v0.4.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tpolecat/skunk/rele</span><span class=\"invisible\">ases/tag/v0.4.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://universeodon.com/@pchiusano",
+        "display_name": "Paul Chiusano"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tpolecat/natchez/releases/tag/v0.3.0",
+    "title": "github.com/tpolecat/natchez/re...",
+    "latest": "2023-02-02T02:58:58+00:00",
+    "first": "2023-02-02T02:58:58+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@mpilquist/109707740370354907",
+      "content": "<p>Lots of <a href=\"https://fosstodon.org/tags/typelevel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>typelevel</span></a> <a href=\"https://fosstodon.org/tags/scala\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scala</span></a> releases today including the first non-milestone releases of natchez/skunk with Scala Native support:<br>- fs2 3.5.0: <a href=\"https://github.com/typelevel/fs2/releases/tag/v3.5.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/typelevel/fs2/relea</span><span class=\"invisible\">ses/tag/v3.5.0</span></a><br>- natchez 0.3.0: <a href=\"https://github.com/tpolecat/natchez/releases/tag/v0.3.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tpolecat/natchez/re</span><span class=\"invisible\">leases/tag/v0.3.0</span></a><br>- natchez-http4s 0.5.0: <a href=\"https://github.com/tpolecat/natchez-http4s/releases/tag/v0.5.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tpolecat/natchez-ht</span><span class=\"invisible\">tp4s/releases/tag/v0.5.0</span></a><br>- skunk 0.4.0: <a href=\"https://github.com/tpolecat/skunk/releases/tag/v0.4.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tpolecat/skunk/rele</span><span class=\"invisible\">ases/tag/v0.4.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://universeodon.com/@pchiusano",
+        "display_name": "Paul Chiusano"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tpolecat/natchez-http4s/releases/tag/v0.5.0",
+    "title": "github.com/tpolecat/natchez-ht...",
+    "latest": "2023-02-02T02:58:58+00:00",
+    "first": "2023-02-02T02:58:58+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@mpilquist/109707740370354907",
+      "content": "<p>Lots of <a href=\"https://fosstodon.org/tags/typelevel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>typelevel</span></a> <a href=\"https://fosstodon.org/tags/scala\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scala</span></a> releases today including the first non-milestone releases of natchez/skunk with Scala Native support:<br>- fs2 3.5.0: <a href=\"https://github.com/typelevel/fs2/releases/tag/v3.5.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/typelevel/fs2/relea</span><span class=\"invisible\">ses/tag/v3.5.0</span></a><br>- natchez 0.3.0: <a href=\"https://github.com/tpolecat/natchez/releases/tag/v0.3.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tpolecat/natchez/re</span><span class=\"invisible\">leases/tag/v0.3.0</span></a><br>- natchez-http4s 0.5.0: <a href=\"https://github.com/tpolecat/natchez-http4s/releases/tag/v0.5.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tpolecat/natchez-ht</span><span class=\"invisible\">tp4s/releases/tag/v0.5.0</span></a><br>- skunk 0.4.0: <a href=\"https://github.com/tpolecat/skunk/releases/tag/v0.4.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tpolecat/skunk/rele</span><span class=\"invisible\">ases/tag/v0.4.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://universeodon.com/@pchiusano",
+        "display_name": "Paul Chiusano"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tpolecat/skunk/releases/tag/v0.4.0",
+    "title": "github.com/tpolecat/skunk/rele...",
+    "latest": "2023-02-02T02:58:58+00:00",
+    "first": "2023-02-02T02:58:58+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@mpilquist/109707740370354907",
+      "content": "<p>Lots of <a href=\"https://fosstodon.org/tags/typelevel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>typelevel</span></a> <a href=\"https://fosstodon.org/tags/scala\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scala</span></a> releases today including the first non-milestone releases of natchez/skunk with Scala Native support:<br>- fs2 3.5.0: <a href=\"https://github.com/typelevel/fs2/releases/tag/v3.5.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/typelevel/fs2/relea</span><span class=\"invisible\">ses/tag/v3.5.0</span></a><br>- natchez 0.3.0: <a href=\"https://github.com/tpolecat/natchez/releases/tag/v0.3.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tpolecat/natchez/re</span><span class=\"invisible\">leases/tag/v0.3.0</span></a><br>- natchez-http4s 0.5.0: <a href=\"https://github.com/tpolecat/natchez-http4s/releases/tag/v0.5.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tpolecat/natchez-ht</span><span class=\"invisible\">tp4s/releases/tag/v0.5.0</span></a><br>- skunk 0.4.0: <a href=\"https://github.com/tpolecat/skunk/releases/tag/v0.4.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tpolecat/skunk/rele</span><span class=\"invisible\">ases/tag/v0.4.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://universeodon.com/@pchiusano",
+        "display_name": "Paul Chiusano"
+      }
+    ]
+  },
+  {
+    "link": "https://www.govtech.com/education/k-12/company-offers-to-sell-computers-back-to-san-benito-schools",
+    "title": "Company Offers to Sell Computers Back to San Benito Schools",
+    "latest": "2023-02-02T02:58:30+00:00",
+    "first": "2023-02-02T02:58:30+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@PogoWasRight/109792706724044301",
+      "content": "<p>Good grief...</p><p>San Benito school district (you may recognize the name from the recent disclosure of the <a href=\"https://infosec.exchange/tags/ransomware\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ransomware</span></a> incident involving <a href=\"https://infosec.exchange/tags/Karakurt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Karakurt</span></a>) sold thousands of district computers and devices at an online auction in July.  </p><p>An auction company bought about 700 computers and it wasn't long before they discovered school district data -- employee data and student data -- on at least 11 of the hard drives. </p><p>So they contacted the district who tried to buy the computers back. The district doesn't want to pay what the buyer is asking and the buyer also refuses to sign a nondisclosure agreement.  </p><p>Other than that, everything's just hunkydory....</p><p>Read more at GovTech, while <span class=\"h-card\"><a href=\"https://infosec.exchange/@douglevin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>douglevin</span></a></span> updates the k12six map with this one.... </p><p><a href=\"https://www.govtech.com/education/k-12/company-offers-to-sell-computers-back-to-san-benito-schools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">govtech.com/education/k-12/com</span><span class=\"invisible\">pany-offers-to-sell-computers-back-to-san-benito-schools</span></a>  </p><p><a href=\"https://infosec.exchange/tags/databreach\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>databreach</span></a> <a href=\"https://infosec.exchange/tags/dataprotection\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataprotection</span></a> <a href=\"https://infosec.exchange/tags/EduSec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EduSec</span></a> <a href=\"https://infosec.exchange/tags/infosec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>infosec</span></a> <a href=\"https://infosec.exchange/tags/disposal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>disposal</span></a> <a href=\"https://infosec.exchange/tags/scrubbing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scrubbing</span></a> <a href=\"https://infosec.exchange/tags/ffs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ffs</span></a> </p><p>cc <span class=\"h-card\"><a href=\"https://infosec.exchange/@brett\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>brett</span></a></span> <span class=\"h-card\"><a href=\"https://freeradical.zone/@funnymonkey\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>funnymonkey</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@hacks4pancakes",
+        "display_name": "Lesley Carhart :unverified:"
+      }
+    ]
+  },
+  {
+    "link": "https://www.ebay.com/itm/165916413855",
+    "title": "Hand-built BX Foundry BX-110 SNES Arcade Joystick NEW Signed Serial #6  | eBay",
+    "latest": "2023-02-02T02:56:15+00:00",
+    "first": "2023-02-02T02:56:15+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@benjedwards/109792624150308954",
+      "content": "<p>In another life I used to build joysticks. A friend of mine is selling his Super NES BX-110 serial #6 in like-new condition if anyone wants to get one -- I don't build them anymore, so these sticks are hard to get!</p><p>It has custom-molded case and button colors that match the American SNES because I was temporarily insane when I built them \ud83d\ude01 </p><p><a href=\"https://www.ebay.com/itm/165916413855\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">ebay.com/itm/165916413855</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@Eramdam",
+        "display_name": "Damien \u2728"
+      }
+    ]
+  },
+  {
+    "link": "https://n.respublicae.eu/EU_Commission/status/1620865392141910022",
+    "title": "n.respublicae.eu/EU_Commission...",
+    "latest": "2023-02-02T02:54:03+00:00",
+    "first": "2023-02-02T02:54:03+00:00",
+    "last_post": {
+      "url": "https://respublicae.eu/@EU_Commission/109791157624439001",
+      "content": "<p>Our support for Ukraine is unwavering.</p><p>President <span class=\"h-card\"><a href=\"https://respublicae.eu/@vonderleyen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vonderleyen</span></a></span> and members of the <a href=\"https://respublicae.eu/tags/vdLCommission\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vdLCommission</span></a> will meet with the Ukrainian Government to reaffirm this commitment and deepen cooperation. </p><p>With strength, and resolve, we <a href=\"https://respublicae.eu/tags/StandWithUkraine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StandWithUkraine</span></a> \ud83c\uddfa\ud83c\udde6\ud83c\uddea\ud83c\uddfa </p><p> \ud83d\udc26\ud83d\udd17: <a href=\"https://n.respublicae.eu/EU_Commission/status/1620865392141910022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">n.respublicae.eu/EU_Commission</span><span class=\"invisible\">/status/1620865392141910022</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@paezha",
+        "display_name": "Antonio P\u00e1ez"
+      }
+    ]
+  },
+  {
+    "link": "https://www.workwithindies.com/work-with/riftweaver",
+    "title": "Work With Riftweaver",
+    "latest": "2023-02-02T02:42:28+00:00",
+    "first": "2023-02-02T02:42:28+00:00",
+    "last_post": {
+      "url": "https://bbq.snoot.com/@keith/109792799618079452",
+      "content": "<p>Riftweaver (an independent game studio I'm an investor in) is looking for <a href=\"https://bbq.snoot.com/tags/VFX\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VFX</span></a> artists for their upcoming fantasy digital tabletop roleplaying game. I suspect this might be appealing to some of you\u2026 <a href=\"https://www.workwithindies.com/work-with/riftweaver\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">workwithindies.com/work-with/r</span><span class=\"invisible\">iftweaver</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://friend.camp/@darius",
+        "display_name": "Darius Kazemi"
+      }
+    ]
+  },
+  {
+    "link": "https://www.biorxiv.org/content/10.1101/2023.01.30.526306v1",
+    "title": "biorxiv.org/content/10.1101/20...",
+    "latest": "2023-02-02T02:40:48+00:00",
+    "first": "2023-02-02T02:40:48+00:00",
+    "last_post": {
+      "url": "https://mstdn.science/@virome_girl/109792831006022755",
+      "content": "<p>Cool new <a href=\"https://mstdn.science/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> from <span class=\"h-card\"><a href=\"https://genomic.social/@foaylward\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>foaylward</span></a></span> about <a href=\"https://mstdn.science/tags/marine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>marine</span></a> <a href=\"https://mstdn.science/tags/giant\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>giant</span></a> <a href=\"https://mstdn.science/tags/viruses\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>viruses</span></a> <a href=\"https://www.biorxiv.org/content/10.1101/2023.01.30.526306v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">biorxiv.org/content/10.1101/20</span><span class=\"invisible\">23.01.30.526306v1</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.science/@virome_girl",
+        "display_name": "Mya Breitbart"
+      }
+    ]
+  },
+  {
+    "link": "https://marcoshuerta.com/dash/mastodon_app_share/",
+    "title": "Mastodon App Share",
+    "latest": "2023-02-02T02:40:15+00:00",
+    "first": "2023-02-02T02:40:15+00:00",
+    "last_post": {
+      "url": "https://vmst.io/@marcoshuerta/109792828844903563",
+      "content": "<p>Well, my post about Mastodon client market share proved quite popular.</p><p>Here is an interactive Plotly dash app that pulls from the same data. It has options on which apps to list, and shows aggregated share from the last 7 days as well as the trend over time line graph.</p><p>I'll polish the UI more over the next few days but I think it's good enough to share:</p><p><a href=\"https://marcoshuerta.com/dash/mastodon_app_share/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marcoshuerta.com/dash/mastodon</span><span class=\"invisible\">_app_share/</span></a></p><p>EDIT: It doesn't look that great on mobile; will work on that...</p>"
+    },
+    "people": [
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      }
+    ]
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Runcible",
+    "title": "Runcible - Wikipedia",
+    "latest": "2023-02-02T02:40:08+00:00",
+    "first": "2023-02-02T02:40:08+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@temptoetiam/109792820620333287",
+      "content": "<p>Word of the day: Runcible spoon, un objet bien myst\u00e9rieux puisque le mot runcible est invent\u00e9 par l'\u00e9crivain Edward Lear.<br><a href=\"https://en.m.wikipedia.org/wiki/Runcible\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.m.wikipedia.org/wiki/Runcib</span><span class=\"invisible\">le</span></a><br><a href=\"https://octodon.social/tags/motdujour\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>motdujour</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://cursoryreview.org/@RebeccaSpang",
+        "display_name": "Rebecca L. Spang"
+      }
+    ]
+  },
+  {
+    "link": "https://www.wikiart.org/en/lyubov-popova/composition-with-figures-1915",
+    "title": "Composition with Figures, 1914 - 1915 - Lyubov Popova - WikiArt.org",
+    "latest": "2023-02-02T02:24:52.939000+00:00",
+    "first": "2023-02-02T02:24:52.939000+00:00",
+    "last_post": {
+      "url": "https://mastodon.arthaus.social/@LyubovPopova/109792162547705587",
+      "content": "<p>Composition with Figures, 1915 <a href=\"https://mastodon.arthaus.social/tags/cubism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cubism</span></a> <a href=\"https://mastodon.arthaus.social/tags/popova\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>popova</span></a> <a href=\"https://www.wikiart.org/en/lyubov-popova/composition-with-figures-1915\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wikiart.org/en/lyubov-popova/c</span><span class=\"invisible\">omposition-with-figures-1915</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@pevohr",
+        "display_name": "Paul Rohr"
+      }
+    ]
+  },
+  {
+    "link": "https://json.blinry.org/",
+    "title": "https://json.blinry.org",
+    "latest": "2023-02-02T02:04:03.078000+00:00",
+    "first": "2023-02-01T17:17:39+00:00",
+    "last_post": {
+      "url": "https://chaos.social/@blinry/109789928987786290",
+      "content": "<p>I made a tool for exploring JSON APIs interactively!</p><p>It's been invaluable to me for figuring out how <a href=\"https://chaos.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> works. It's surprisingly satisfying to just click around, pretending this was some sort of client! :D</p><p>I encourage you to paste the URL to your own <a href=\"https://chaos.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> profile into the input box, and see how far you can get!</p><p>\ud83d\udd75\ufe0f <a href=\"https://json.blinry.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">json.blinry.org</span><span class=\"invisible\"></span></a> \ud83d\udd75\ufe0f</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@jaspar",
+        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      },
+      {
+        "url": "https://social.jvns.ca/@b0rk",
+        "display_name": "Julia Evans"
+      },
+      {
+        "url": "https://hachyderm.io/@pevohr",
+        "display_name": "Paul Rohr"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.00093",
+    "title": "Large Language Models Can Be Easily Distracted by Irrelevant Context",
+    "latest": "2023-02-02T01:48:04+00:00",
+    "first": "2023-02-02T01:48:04+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109792623602660767",
+      "content": "<p>Large Language Models Can Be Easily Distracted by Irrelevant Context</p><p><a href=\"https://arxiv.org/abs/2302.00093\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00093</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.00111",
+    "title": "Learning Universal Policies via Text-Guided Video Generation",
+    "latest": "2023-02-02T01:46:06+00:00",
+    "first": "2023-02-02T01:46:06+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109792615888090869",
+      "content": "<p>Learning Universal Policies via Text-Guided Video Generation</p><p>Casts the sequential decision making problem as a text-conditioned video generation problem, where, a planner synthesizes a set of future frames, from which actions are extracted.</p><p><a href=\"https://arxiv.org/abs/2302.00111\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00111</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.00288",
+    "title": "CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models",
+    "latest": "2023-02-02T01:40:09+00:00",
+    "first": "2023-02-02T01:40:09+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109792592489823254",
+      "content": "<p>CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models</p><p>Proposes a benchmark named CoderEval of pragmatic code generation.</p><p><a href=\"https://arxiv.org/abs/2302.00288\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00288</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/",
+    "title": "Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2) - C\u00e9dric Scherer",
+    "latest": "2023-02-02T01:32:47+00:00",
+    "first": "2023-02-01T08:14:53+00:00",
+    "last_post": {
+      "url": "https://genomic.social/@lopantano/109761736090553603",
+      "content": "<p>nice examples of how only boxplots are not enough <a href=\"https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cedricscherer.com/2021/06/06/v</span><span class=\"invisible\">isualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/</span></a> <a href=\"https://genomic.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://genomic.social/tags/bioinformatics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bioinformatics</span></a> <a href=\"https://genomic.social/tags/visualization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>visualization</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      },
+      {
+        "url": "https://vis.social/@tamara",
+        "display_name": "Tamara Munzner"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.00674",
+    "title": "Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data",
+    "latest": "2023-02-02T01:32:04+00:00",
+    "first": "2023-02-02T01:32:04+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109792560722202927",
+      "content": "<p>Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data</p><p>Yields a 9% absolute improvement over the explicitly multi-task pre-trained T0 model across 11 datasets.</p><p>abs: <a href=\"https://arxiv.org/abs/2302.00674\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00674</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/alon-albalak/FLAD\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/alon-albalak/FLAD</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/alon-albalak/FLAD",
+    "title": "https://github.com/alon-albalak/FLAD",
+    "latest": "2023-02-02T01:32:04+00:00",
+    "first": "2023-02-02T01:32:04+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109792560722202927",
+      "content": "<p>Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data</p><p>Yields a 9% absolute improvement over the explicitly multi-task pre-trained T0 model across 11 datasets.</p><p>abs: <a href=\"https://arxiv.org/abs/2302.00674\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00674</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/alon-albalak/FLAD\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/alon-albalak/FLAD</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://donhopkins.medium.com/open-sourcing-simcity-58470a275446",
+    "title": "Open Sourcing SimCity, by Chaim Gingold - Don Hopkins - Medium",
+    "latest": "2023-02-02T01:11:48+00:00",
+    "first": "2023-02-01T13:47:48+00:00",
+    "last_post": {
+      "url": "https://dialup.cafe/@vga256/109785101122406256",
+      "content": "<p>although now long forgotten as a historical curio of 2000s web idealism, the OLPC \"One Laptop Per Child\" project attempted to produce a low-cost, high-reliability laptop suitable for kids in low-income environments. </p><p>one of the upshots of the program was that SimCity was open-sourced for the OLPC XO-1 computer, and it was included on every machine. this little article by don hopkins does a great job of tracing its history through Sun Microsystems.</p><p><a href=\"https://donhopkins.medium.com/open-sourcing-simcity-58470a275446\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">donhopkins.medium.com/open-sou</span><span class=\"invisible\">rcing-simcity-58470a275446</span></a></p><p><a href=\"https://dialup.cafe/tags/gamedesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gamedesign</span></a> <a href=\"https://dialup.cafe/tags/gamedev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gamedev</span></a> <a href=\"https://dialup.cafe/tags/RetroGaming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RetroGaming</span></a> <a href=\"https://dialup.cafe/tags/history\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>history</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@thegrugq",
+        "display_name": "the grugq"
+      },
+      {
+        "url": "https://sigmoid.social/@R4_Unit",
+        "display_name": "R4_Unit"
+      }
+    ]
+  },
+  {
+    "link": "https://socannex.commons.gc.cuny.edu/podcast/classical-sociology-lizardo-aburtyn/",
+    "title": "New Annex Episode Classical Sociological Theorizing",
+    "latest": "2023-02-02T01:09:10+00:00",
+    "first": "2023-02-02T01:09:10+00:00",
+    "last_post": {
+      "url": "https://sciences.social/@socannex/109791677870994327",
+      "content": "<p>Today on <span class=\"h-card\"><a href=\"https://sciences.social/@socannex\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>socannex</span></a></span>, <span class=\"h-card\"><a href=\"https://sciences.social/@sethabrutyn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sethabrutyn</span></a></span> and <span class=\"h-card\"><a href=\"https://sciences.social/@omarlizardo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>omarlizardo</span></a></span> sit down with <span class=\"h-card\"><a href=\"https://mastodon.social/@danielrmorrison\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>danielrmorrison</span></a></span> to discuss sociological theorizing and their new Handbook of Sociological Theory. <a href=\"https://socannex.commons.gc.cuny.edu/podcast/classical-sociology-lizardo-aburtyn/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">socannex.commons.gc.cuny.edu/p</span><span class=\"invisible\">odcast/classical-sociology-lizardo-aburtyn/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@philipncohen",
+        "display_name": "Philip N Cohen"
+      }
+    ]
+  },
+  {
     "link": "https://www.cnbc.com/2023/02/01/facebook-parent-meta-announces-40-billion-stock-buyback.html",
     "title": "Facebook-parent Meta announces $40 billion stock buyback",
     "latest": "2023-02-02T00:54:03.091000+00:00",
@@ -2960,538 +3440,6 @@
       {
         "url": "https://assemblag.es/@emma",
         "display_name": "Emma Stamm"
-      }
-    ]
-  },
-  {
-    "link": "https://www.povertyactionlab.org/careers/post-doctoral-fellow-j-pal-mena-job-104463",
-    "title": "Post-Doctoral Fellow - J-PAL MENA | The Abdul Latif Jameel Poverty Action Lab",
-    "latest": "2023-02-01T15:51:42+00:00",
-    "first": "2023-02-01T15:51:42+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@ckrafftc/109790278596595386",
-      "content": "<p>J-PAL MENA is hiring a post-doctoral fellow! <a href=\"https://www.povertyactionlab.org/careers/post-doctoral-fellow-j-pal-mena-job-104463\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">povertyactionlab.org/careers/p</span><span class=\"invisible\">ost-doctoral-fellow-j-pal-mena-job-104463</span></a> <a href=\"https://econtwitter.net/tags/MENA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MENA</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@ckrafftc",
-        "display_name": "Caroline Krafft"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@neocartocnrs/ridge?collection=@neocartocnrs/bertin",
-    "title": "ridge",
-    "latest": "2023-02-01T15:41:57+00:00",
-    "first": "2023-02-01T15:41:57+00:00",
-    "last_post": {
-      "url": "https://vis.social/@neocarto/109790240250380096",
-      "content": "<p>Let's build ridge maps with the <a href=\"https://vis.social/tags/bertin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bertin</span></a> js library. <a href=\"https://vis.social/tags/JSspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSspatial</span></a> <a href=\"https://vis.social/tags/Cartography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Cartography</span></a> <a href=\"https://vis.social/tags/Web\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Web</span></a> <a href=\"https://observablehq.com/@neocartocnrs/ridge?collection=@neocartocnrs/bertin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/ridge?collection=@neocartocnrs/bertin</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@neocarto",
-        "display_name": "Nicolas Lambert \ud83c\udf0f"
-      }
-    ]
-  },
-  {
-    "link": "https://json.blinry.org/",
-    "title": "https://json.blinry.org",
-    "latest": "2023-02-01T15:40:10+00:00",
-    "first": "2023-02-01T17:17:39+00:00",
-    "last_post": {
-      "url": "https://chaos.social/@blinry/109789928987786290",
-      "content": "<p>I made a tool for exploring JSON APIs interactively!</p><p>It's been invaluable to me for figuring out how <a href=\"https://chaos.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> works. It's surprisingly satisfying to just click around, pretending this was some sort of client! :D</p><p>I encourage you to paste the URL to your own <a href=\"https://chaos.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> profile into the input box, and see how far you can get!</p><p>\ud83d\udd75\ufe0f <a href=\"https://json.blinry.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">json.blinry.org</span><span class=\"invisible\"></span></a> \ud83d\udd75\ufe0f</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@jaspar",
-        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-      },
-      {
-        "url": "https://social.jvns.ca/@b0rk",
-        "display_name": "Julia Evans"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=6BSH3b9R97I",
-    "title": "By Paddle and Pack (4k version)",
-    "latest": "2023-02-01T15:39:52+00:00",
-    "first": "2023-02-01T15:39:52+00:00",
-    "last_post": {
-      "url": "https://mapstodon.space/@jeremy/109790232085613795",
-      "content": "<p>Sharing this video for the vintage 70s/80s maps at the beginning as well as for the paddling mood! </p><p>Now where's my curvimeter again?</p><p>\ud83d\udef6 \ud83c\udf32 \ud83d\uddfa\ufe0f  \ud83c\udf92 </p><p><a href=\"https://www.youtube.com/watch?v=6BSH3b9R97I\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=6BSH3b9R97</span><span class=\"invisible\">I</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      }
-    ]
-  },
-  {
-    "link": "https://www.buzzfeednews.com/article/katienotopoulos/twitter-users-down-democrats-elon-musk",
-    "title": "Twitter Users Are Down 9% in the US, A New Survey Shows",
-    "latest": "2023-02-01T15:38:40+00:00",
-    "first": "2023-02-01T15:38:40+00:00",
-    "last_post": {
-      "url": "https://indieweb.social/@tchambers/109790145088259239",
-      "content": "<p><a href=\"https://indieweb.social/tags/Twitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Twitter</span></a> usage drops 9 percent in the latest survey: </p><p><a href=\"https://www.buzzfeednews.com/article/katienotopoulos/twitter-users-down-democrats-elon-musk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">buzzfeednews.com/article/katie</span><span class=\"invisible\">notopoulos/twitter-users-down-democrats-elon-musk</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@sladner",
-        "display_name": "sladner"
-      }
-    ]
-  },
-  {
-    "link": "https://youtube.com/clip/UgkxrDDDR6pzi2UL7-Ad8B_aMF7Ldua399Fw",
-    "title": "youtube.com/clip/UgkxrDDDR6pzi...",
-    "latest": "2023-02-01T15:37:21+00:00",
-    "first": "2023-02-01T15:37:21+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@HeidiSeibold/109790222199253465",
-      "content": "<p>Data management should be easy and allow researchers to get more out of their data</p><p>Short clip from <a href=\"https://fosstodon.org/tags/RSEcon2022\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RSEcon2022</span></a></p><p><a href=\"https://youtube.com/clip/UgkxrDDDR6pzi2UL7-Ad8B_aMF7Ldua399Fw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">youtube.com/clip/UgkxrDDDR6pzi</span><span class=\"invisible\">2UL7-Ad8B_aMF7Ldua399Fw</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@HeidiSeibold",
-        "display_name": "Heidi Seibold"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/llimllib/personal_code/commit/6fbea02665b81c5c0daf71c846f01ebb781a68bf",
-    "title": "fix tilde non-expansion in undodir \u00b7 llimllib/personal_code@6fbea02",
-    "latest": "2023-02-01T15:35:17+00:00",
-    "first": "2023-02-01T15:35:17+00:00",
-    "last_post": {
-      "url": "https://vis.social/@llimllib/109790214091338720",
-      "content": "<p>The fix: <a href=\"https://github.com/llimllib/personal_code/commit/6fbea02665b81c5c0daf71c846f01ebb781a68bf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/llimllib/personal_c</span><span class=\"invisible\">ode/commit/6fbea02665b81c5c0daf71c846f01ebb781a68bf</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@llimllib",
-        "display_name": "llimllib"
-      }
-    ]
-  },
-  {
-    "link": "https://youtu.be/MRDV6O7YAtQ",
-    "title": "https://youtu.be/MRDV6O7YAtQ",
-    "latest": "2023-02-01T15:34:36+00:00",
-    "first": "2023-02-01T15:34:36+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@viteconf/109790209078334816",
-      "content": "<p>\u26a1\ufe0f Bartek Iwa\u0144czuk presents how running <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@vite\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vite</span></a></span> natively in <span class=\"h-card\"><a href=\"https://fosstodon.org/@deno_land\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>deno_land</span></a></span> is now supported and shows how easy it is to deploy a Vue app built with Vite globally, to the edge, in a minute using Deno Deploy.</p><p>\ud83d\udc9c <a href=\"https://youtu.be/MRDV6O7YAtQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/MRDV6O7YAtQ</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://www.pnas.org/doi/10.1073/pnas.2208863120",
-    "title": "pnas.org/doi/10.1073/pnas.2208...",
-    "latest": "2023-02-01T15:33:35+00:00",
-    "first": "2023-01-31T23:25:03+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@pdakean/109789744499424779",
-      "content": "<p>\u201cA notable exception is Developmental Psychology, which has the lowest average replicability though 60% of its research is non-experimental.\u201d <a href=\"https://www.pnas.org/doi/10.1073/pnas.2208863120\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">pnas.org/doi/10.1073/pnas.2208</span><span class=\"invisible\">863120</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@natematias",
-        "display_name": "J. Nathan Matias \ud83e\udda3"
-      },
-      {
-        "url": "https://mefi.social/@melissaekline",
-        "display_name": "Melissa Kline Struhl"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/bz72u/",
-    "title": "http://osf.io/bz72u/",
-    "latest": "2023-02-01T15:32:56+00:00",
-    "first": "2023-02-01T15:32:56+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@PsyArXivBot/109790044334292578",
-      "content": "<p>Inclusive, open, and reproducible developmental science <a href=\"http://osf.io/bz72u/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/bz72u/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mefi.social/@melissaekline",
-        "display_name": "Melissa Kline Struhl"
-      }
-    ]
-  },
-  {
-    "link": "https://subconscious.substack.com/p/llms-and-hyper-orality",
-    "title": "LLMs and hyper-orality",
-    "latest": "2023-02-01T15:30:39+00:00",
-    "first": "2023-02-01T15:30:39+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@gordon/109790195849844747",
-      "content": "<p>It seems that if you compost an internet\u2019s worth of written knowledge, the text starts to speak back. <a href=\"https://subconscious.substack.com/p/llms-and-hyper-orality\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">subconscious.substack.com/p/ll</span><span class=\"invisible\">ms-and-hyper-orality</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@gordon",
-        "display_name": "Gordon Brander"
-      }
-    ]
-  },
-  {
-    "link": "https://www.reddit.com/r/fasterthanlime/comments/zzzabq/end_of_year_ama_ask_me_anything/",
-    "title": "End of year AMA (ask me anything)",
-    "latest": "2023-02-01T15:29:32+00:00",
-    "first": "2023-02-01T15:29:32+00:00",
-    "last_post": {
-      "url": "https://social.jvns.ca/@b0rk/109790191424288307",
-      "content": "<p><span class=\"h-card\"><a href=\"https://abyssdomain.expert/@filippo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>filippo</span></a></span> I noticed fasterthanlime has a subreddit and does AMAs there <a href=\"https://www.reddit.com/r/fasterthanlime/comments/zzzabq/end_of_year_ama_ask_me_anything/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reddit.com/r/fasterthanlime/co</span><span class=\"invisible\">mments/zzzabq/end_of_year_ama_ask_me_anything/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.jvns.ca/@b0rk",
-        "display_name": "Julia Evans"
-      }
-    ]
-  },
-  {
-    "link": "https://web.dev/learn-images/",
-    "title": "Learn Images!",
-    "latest": "2023-02-01T15:23:48+00:00",
-    "first": "2023-02-01T14:07:52+00:00",
-    "last_post": {
-      "url": "https://chromium.social/@developers/109789812271706616",
-      "content": "<p>Learn Images!</p><p><a href=\"https://web.dev/learn-images/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">web.dev/learn-images/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
-      },
-      {
-        "url": "https://toot.cafe/@nickytonline",
-        "display_name": "Nick Taylor"
-      }
-    ]
-  },
-  {
-    "link": "https://thenib.com/a-message-from-your-local-police/",
-    "title": "A Message From Your Local Police | The Nib",
-    "latest": "2023-02-01T15:19:40+00:00",
-    "first": "2023-02-01T15:19:40+00:00",
-    "last_post": {
-      "url": "https://mstdn.ca/@mattbors/109790100541509797",
-      "content": "<p>A message from your local police <a href=\"https://thenib.com/a-message-from-your-local-police/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thenib.com/a-message-from-your</span><span class=\"invisible\">-local-police/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://zirk.us/@man",
-        "display_name": "Man Bartlett \ud83c\udf53"
-      }
-    ]
-  },
-  {
-    "link": "https://slate.com/business/2023/01/electric-cars-hummer-ev-tax-fees-weight-joe-biden.html",
-    "title": "If You Want a Car This Heavy, You Should Pay Through the Nose",
-    "latest": "2023-02-01T15:18:35+00:00",
-    "first": "2023-02-01T15:18:35+00:00",
-    "last_post": {
-      "url": "https://urbanists.social/@straphanger/109790136271888217",
-      "content": "<p><a href=\"https://urbanists.social/tags/Norway\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Norway</span></a> already taxes cars by weight\u2014which makes a lot of sense, because heavy vehicles seriously degrade asphalt. The US and Canada should do the same.</p><p>\"If You Want a Car This Heavy, You Should Pay Through the Nose<br>It\u2019s time to tax vehicles for weighing too much\u2014even if they\u2019re electric.\"</p><p>Sorry, Joe...</p><p><a href=\"https://slate.com/business/2023/01/electric-cars-hummer-ev-tax-fees-weight-joe-biden.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">slate.com/business/2023/01/ele</span><span class=\"invisible\">ctric-cars-hummer-ev-tax-fees-weight-joe-biden.html</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@cblgh",
-        "display_name": "Alexander Cobleigh"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sponsors/RandomFractals",
-    "title": "Sponsor @RandomFractals on GitHub Sponsors",
-    "latest": "2023-02-01T15:18:33+00:00",
-    "first": "2023-02-01T15:18:33+00:00",
-    "last_post": {
-      "url": "https://vis.social/@dataSamurai/109790148235304159",
-      "content": "<p>DuckDB ERD, PRQL/SQL \ud83d\udcd3 &amp; many more new <a href=\"https://vis.social/tags/DuckDBPro\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DuckDBPro</span></a> Code features will be available to our <a href=\"https://vis.social/tags/ProSponsors\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ProSponsors</span></a> via private sponsors-only collaborators invite repository with access to new monthly <a href=\"https://vis.social/tags/DuckDB\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DuckDB</span></a> Code Pro ext. package releases. Sponsor to sign up:</p><p>\ud83d\udc96\ud83d\udcb0\u2911 <a href=\"https://github.com/sponsors/RandomFractals\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sponsors/RandomFrac</span><span class=\"invisible\">tals</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@dataSamurai",
-        "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://erika.florist/article/dontunderestimateeditorintegration/",
-    "title": "Don't underestimate the power of good editor integration",
-    "latest": "2023-02-01T15:16:49+00:00",
-    "first": "2023-02-01T15:16:49+00:00",
-    "last_post": {
-      "url": "https://m.webtoo.ls/@johnsoncodehk/109790116512801140",
-      "content": "<p>That's also what's been on my mind. \ud83e\udde0<br><a href=\"https://erika.florist/article/dontunderestimateeditorintegration/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">erika.florist/article/dontunde</span><span class=\"invisible\">restimateeditorintegration/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://mesana.org/annual-meeting/call-for-papers",
-    "title": "Call for Papers",
-    "latest": "2023-02-01T15:09:51+00:00",
-    "first": "2023-01-24T19:05:56+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@ckrafftc/109790114061017883",
-      "content": "<p>The Middle East Studies Association continues to welcome proposals from our members for the 57th MESA Annual Meeting, scheduled for November 2-5, 2023, in Montr\u00e9al, Qu\u00e9bec, Canada.<br>The deadline for all proposals is February 16, 2023 (11:59PM EST). <a href=\"https://mesana.org/annual-meeting/call-for-papers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mesana.org/annual-meeting/call</span><span class=\"invisible\">-for-papers</span></a> <a href=\"https://econtwitter.net/tags/MENA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MENA</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@ckrafftc",
-        "display_name": "Caroline Krafft"
-      }
-    ]
-  },
-  {
-    "link": "https://mastodon-thread-view.jvns.ca/",
-    "title": "https://mastodon-thread-view.jvns.ca",
-    "latest": "2023-02-01T15:08:09+00:00",
-    "first": "2023-01-16T23:42:16+00:00",
-    "last_post": {
-      "url": "https://abyssdomain.expert/@filippo/109790107387782779",
-      "content": "<p>If I wanted to hold an Ask Me Anything about this, where would it make sense to host it?</p><p>I kinda don't want it to be HN. Mastodon is bad for reply discoverability (<a href=\"https://mastodon-thread-view.jvns.ca/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon-thread-view.jvns.ca/</span><span class=\"invisible\"></span></a> is nice but read-only). I like r/crypto but this would be off-topic.</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.jvns.ca/@b0rk",
-        "display_name": "Julia Evans"
-      },
-      {
-        "url": "https://abyssdomain.expert/@filippo",
-        "display_name": "Filippo Valsorda :go:"
-      }
-    ]
-  },
-  {
-    "link": "https://jeremy1269.wixsite.com/mapfailbruary",
-    "title": "jeremy1269.wixsite.com/mapfail...",
-    "latest": "2023-02-01T15:06:30+00:00",
-    "first": "2023-02-01T15:06:30+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jmcastagnetto/109789996843437352",
-      "content": "<p>From today's <span class=\"h-card\"><a href=\"https://mastodon.social/@hrbrmstr\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hrbrmstr</span></a></span> drop #190 (<a href=\"https://dailyfinds.hrbrmstr.dev/p/drop-190-2023-02-01-everything-is\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dailyfinds.hrbrmstr.dev/p/drop</span><span class=\"invisible\">-190-2023-02-01-everything-is</span></a>), a <a href=\"https://mastodon.social/tags/TerribleMaps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TerribleMaps</span></a> challenge: <a href=\"https://mastodon.social/tags/MapFailbruaryChallenge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MapFailbruaryChallenge</span></a>  <a href=\"https://jeremy1269.wixsite.com/mapfailbruary\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jeremy1269.wixsite.com/mapfail</span><span class=\"invisible\">bruary</span></a></p><p>Would be fun to track this tag to see what appears :-)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      }
-    ]
-  },
-  {
-    "link": "https://unison.cloud/",
-    "title": "https://unison.cloud",
-    "latest": "2023-02-01T14:59:21+00:00",
-    "first": "2023-02-01T14:59:21+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@unison/109790042667629508",
-      "content": "<p>No cluster setup, no dependency conflicts, no copying jar files around, no serialization errors...</p><p>Just call a function!</p><p>If you've got an idea for a Spark or map-reduce or other distributed batch job, sign up here to join our private beta: <a href=\"https://unison.cloud\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">unison.cloud</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://universeodon.com/@pchiusano",
-        "display_name": "Paul Chiusano"
-      }
-    ]
-  },
-  {
-    "link": "https://fediscience.org/@MartinStendel/109786369264642272",
-    "title": "Martin Stendel (@MartinStendel@fediscience.org)",
-    "latest": "2023-02-01T14:52:27+00:00",
-    "first": "2023-02-01T14:52:27+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@Ruth_Mottram/109786500462734353",
-      "content": "<p>It's 70 years since the devastating <a href=\"https://fediscience.org/tags/NorthSeaFloods\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NorthSeaFloods</span></a> of 1953. Their impact in the Netherlands + Belgium is pretty well known, but I'm often surprised how little people in the UK are aware of the history. <br>Around 500 people in total lost their lives, including 300 on land in England when <a href=\"https://fediscience.org/tags/CanveyIsland\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CanveyIsland</span></a> was flooded. The rest were lost at sea from ferry + fishing boats.</p><p>As a result the <a href=\"https://fediscience.org/tags/ThamesBarrage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ThamesBarrage</span></a> + <a href=\"https://fediscience.org/tags/HumberBarrage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HumberBarrage</span></a> were built.</p><p><a href=\"https://fediscience.org/tags/CoastalFlooding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CoastalFlooding</span></a> <a href=\"https://fediscience.org/tags/StormSurge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StormSurge</span></a> </p><p><a href=\"https://fediscience.org/@MartinStendel/109786369264642272\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediscience.org/@MartinStendel</span><span class=\"invisible\">/109786369264642272</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@ed_hawkins",
-        "display_name": "Ed Hawkins"
-      }
-    ]
-  },
-  {
-    "link": "https://www.ssrc.org/programs/the-mercury-project/call-for-proposals/",
-    "title": "The Mercury Project: 2023 Call for Proposals | Social Science Research Council",
-    "latest": "2023-02-01T14:50:38+00:00",
-    "first": "2023-02-01T14:50:38+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@hlanthorn/109777618942050110",
-      "content": "<p><a href=\"https://econtwitter.net/tags/CallForProposals\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CallForProposals</span></a>: </p><p>The Social Science Research Council is proud to announce funding from the <br>@gatesfoundation<br> immunization team to expand the <a href=\"https://econtwitter.net/tags/MercuryProject\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MercuryProject</span></a>\u2019s work to identify cost-effective and scalable interventions to increase <a href=\"https://econtwitter.net/tags/vaccination\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vaccination</span></a> demand.</p><p><a href=\"https://www.ssrc.org/programs/the-mercury-project/call-for-proposals/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">ssrc.org/programs/the-mercury-</span><span class=\"invisible\">project/call-for-proposals/</span></a></p><p>SSRC will accept and review proposals and make awards on a rolling basis; we recommend getting your proposal in sooner rather than later. </p><p>Please share widely!</p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/economics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>economics</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/politicalscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>politicalscience</span></a></span> <a href=\"https://econtwitter.net/tags/vaccines\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vaccines</span></a> <a href=\"https://econtwitter.net/tags/misinformation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>misinformation</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@ckrafftc",
-        "display_name": "Caroline Krafft"
-      }
-    ]
-  },
-  {
-    "link": "https://bringback.blog/",
-    "title": "Bring Back Blogs! January 2023",
-    "latest": "2023-02-01T14:41:34+00:00",
-    "last_post": {
-      "url": "https://mstdn.io/@dubbel/109789769575555476",
-      "content": "<p>Unfortunately I didn't fulfill my <a href=\"https://mstdn.io/tags/bringbackblogs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bringbackblogs</span></a> pledge (3 blog posts in January) and just managed to write one on the last possible day. But I point the blame at my elbow, which I promptly broke at the beginning of January \ud83d\ude05  (nearly all good now)</p><p>Anyway, here it is - my recap of participating in the the <a href=\"https://mstdn.io/tags/NaNoGenMo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NaNoGenMo</span></a> 2022: </p><p><a href=\"https://www.haukeluebbers.de/blog/2023-01-my-nanogenmo-project-novelopment/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">haukeluebbers.de/blog/2023-01-</span><span class=\"invisible\">my-nanogenmo-project-novelopment/</span></a></p><p>( <a href=\"https://bringback.blog/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bringback.blog/</span><span class=\"invisible\"></span></a> )</p>"
-    },
-    "people": [
-      {
-        "url": "https://boffosocko.com/author/chrisaldrich/",
-        "display_name": "Chris Aldrich"
-      },
-      {
-        "url": "https://toolsforthought.rocks/@billseitz",
-        "display_name": "Bill Seitz"
-      },
-      {
-        "url": "https://mastodon.social/@Edent",
-        "display_name": "Terence Eden"
-      },
-      {
-        "url": "https://mastodon.social/@mrchrisadams",
-        "display_name": "Chris Adams"
-      },
-      {
-        "url": "https://mastodon.social/@johnkellden",
-        "display_name": "John Kellden"
-      },
-      {
-        "url": "https://status.kinlan.me/@paul",
-        "display_name": "Paul Kinlan"
-      },
-      {
-        "url": "https://mastodon.social/@harold",
-        "display_name": "Harold Jarche"
-      },
-      {
-        "url": "https://hachyderm.io/@allafarce",
-        "display_name": "Dave Guarino"
-      },
-      {
-        "url": "https://hci.social/@joelchan86",
-        "display_name": "Joel Chan"
-      },
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://mastodon.social/@danbri",
-        "display_name": "danbri"
-      },
-      {
-        "url": "https://qubit-social.xyz/@AggieBranczyk",
-        "display_name": "Aggie Branczyk \ud83e\udd8b"
-      },
-      {
-        "url": "https://writing.exchange/@bryankam",
-        "display_name": "Bryan Kam"
-      },
-      {
-        "url": "https://mastodon.social/@hugovk",
-        "display_name": "hugovk"
-      }
-    ],
-    "first": "2023-01-03T20:51:13+00:00"
-  },
-  {
-    "link": "https://www.haukeluebbers.de/blog/2023-01-my-nanogenmo-project-novelopment/",
-    "title": "My National Novel Generation Month 2022 Entry",
-    "latest": "2023-02-01T14:41:34+00:00",
-    "first": "2023-02-01T14:41:34+00:00",
-    "last_post": {
-      "url": "https://mstdn.io/@dubbel/109789769575555476",
-      "content": "<p>Unfortunately I didn't fulfill my <a href=\"https://mstdn.io/tags/bringbackblogs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bringbackblogs</span></a> pledge (3 blog posts in January) and just managed to write one on the last possible day. But I point the blame at my elbow, which I promptly broke at the beginning of January \ud83d\ude05  (nearly all good now)</p><p>Anyway, here it is - my recap of participating in the the <a href=\"https://mstdn.io/tags/NaNoGenMo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NaNoGenMo</span></a> 2022: </p><p><a href=\"https://www.haukeluebbers.de/blog/2023-01-my-nanogenmo-project-novelopment/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">haukeluebbers.de/blog/2023-01-</span><span class=\"invisible\">my-nanogenmo-project-novelopment/</span></a></p><p>( <a href=\"https://bringback.blog/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bringback.blog/</span><span class=\"invisible\"></span></a> )</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hugovk",
-        "display_name": "hugovk"
-      }
-    ]
-  },
-  {
-    "link": "https://cacm.acm.org/news/269347-why-the-simplex-method-at-age-75-is-still-the-go-to-algorithm/fulltext",
-    "title": "cacm.acm.org/news/269347-why-t...",
-    "latest": "2023-02-01T14:40:20+00:00",
-    "first": "2023-02-01T14:40:20+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@fortnow/109789997997331748",
-      "content": "<p>Yes, I am a Dan Spielman fanboy.</p><p><a href=\"https://cacm.acm.org/news/269347-why-the-simplex-method-at-age-75-is-still-the-go-to-algorithm/fulltext\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cacm.acm.org/news/269347-why-t</span><span class=\"invisible\">he-simplex-method-at-age-75-is-still-the-go-to-algorithm/fulltext</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@fortnow",
-        "display_name": "Lance Fortnow"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.24069/SEP-22-48",
-    "title": "https://doi.org/10.24069/SEP-22-48",
-    "latest": "2023-02-01T14:37:14+00:00",
-    "first": "2023-02-01T14:37:14+00:00",
-    "last_post": {
-      "url": "https://social.cwts.nl/@dkochetkov/109789853322417043",
-      "content": "<p>Russian <a href=\"https://social.cwts.nl/tags/Journal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Journal</span></a> <a href=\"https://social.cwts.nl/tags/Whitelist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Whitelist</span></a> is under heated discussion. I decided to express my opinion on this matter.  More precisely, I am not so much imposing my opinion as asking questions that, unfortunately, have not yet been answered.  The article is available at <a href=\"https://doi.org/10.24069/SEP-22-48\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.24069/SEP-22-48</span><span class=\"invisible\"></span></a>. <a href=\"https://social.cwts.nl/tags/researchevaluation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>researchevaluation</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.cwts.nl/@LudoWaltman",
-        "display_name": "Ludo Waltman"
-      }
-    ]
-  },
-  {
-    "link": "https://artjournal.collegeart.org/?p=17688",
-    "title": "artjournal.collegeart.org/?p=1...",
-    "latest": "2023-02-01T14:36:59+00:00",
-    "first": "2023-02-01T14:36:59+00:00",
-    "last_post": {
-      "url": "https://glammr.us/@caw_/109789984821855467",
-      "content": "<p>\ud83d\udc40 \"Art History Beyond Objects\" On museum collection data as a tool for teaching about art, data and seeing objects in new ways.</p><p>\ud83c\udf1f Great essay by Yael Rice, with a mention to our work at Williams College Museum of Art </p><p><a href=\"https://glammr.us/tags/musetech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>musetech</span></a> <a href=\"https://glammr.us/tags/digitalhumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digitalhumanities</span></a> <a href=\"https://glammr.us/tags/digitalarthistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digitalarthistory</span></a> </p><p><a href=\"https://artjournal.collegeart.org/?p=17688\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">artjournal.collegeart.org/?p=1</span><span class=\"invisible\">7688</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://glammr.us/@caw_",
-        "display_name": "Chad Weinard"
-      }
-    ]
-  },
-  {
-    "link": "https://events.hifis.net/event/667/",
-    "title": "Love your data? Make it reproducible! A workshop on reproducibility in data science",
-    "latest": "2023-02-01T14:36:44+00:00",
-    "first": "2023-01-31T14:29:43+00:00",
-    "last_post": {
-      "url": "https://helmholtz.social/@HelmholtzOpenScienceOffice/109783475331362828",
-      "content": "<p>\ud83c\uddec\ud83c\udde7 \ud83d\udce2 On February 14 2023, from 09:30 am\u201301:00 pm the 2nd <span class=\"h-card\"><a href=\"https://helmholtz.social/@helmholtz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>helmholtz</span></a></span> Community wide workshop on reproducibility, co-organized by the Helmholtz Open Science Office &amp; HIDA, will take place.</p><p>Registration is still open via the Event's page until 02/09/23:<br>\u27a1\ufe0f <a href=\"https://events.hifis.net/event/667/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">events.hifis.net/event/667/</span><span class=\"invisible\"></span></a></p><p>There will be contributions by Bernadette Fritzsch <span class=\"h-card\"><a href=\"https://helmholtz.social/@awi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>awi</span></a></span>,  Tingying Peng (Helmholtz AI), <span class=\"h-card\"><a href=\"https://mas.to/@adswa\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>adswa</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@fzj\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fzj</span></a></span>, <span class=\"h-card\"><a href=\"https://norden.social/@schlauch\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>schlauch</span></a></span> <span class=\"h-card\"><a href=\"https://social.bund.de/@DLR\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>DLR</span></a></span> &amp; <span class=\"h-card\"><a href=\"https://fosstodon.org/@HeidiSeibold\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>HeidiSeibold</span></a></span> .</p><p>We look forward to your participation!</p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@HeidiSeibold",
-        "display_name": "Heidi Seibold"
       }
     ]
   }
