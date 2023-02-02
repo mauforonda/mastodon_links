@@ -76,26 +76,6 @@
     ]
   },
   {
-    "link": "https://59parks.net/collections/all/posters",
-    "title": "Shop",
-    "latest": "2023-02-01T23:43:04+00:00",
-    "first": "2023-02-01T11:57:35+00:00",
-    "last_post": {
-      "url": "https://mastodon.art/@shoomlah/109776503842277843",
-      "content": "<p>HEY this is a new platform so I guess I can just... repost old art for any people who haven't seen it before! Or you've seen it before but don't care about seeing it again because you are \u2728nice\u2728</p><p>Here are all four screen printed posters I've done for the Fifty-Nine Parks series, available here: <a href=\"https://59parks.net/collections/all/posters\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">59parks.net/collections/all/po</span><span class=\"invisible\">sters</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@terence",
-        "display_name": "terence"
-      },
-      {
-        "url": "https://vis.social/@idan",
-        "display_name": "Idan Gazit"
-      }
-    ]
-  },
-  {
     "link": "https://blogs.worldbank.org/impactevaluations/can-ai-write-your-stata-code",
     "title": "Can AI write your Stata code?",
     "latest": "2023-02-01T13:59:12+00:00",
@@ -512,6 +492,106 @@
       {
         "url": "https://mas.to/@shakir",
         "display_name": "Shakir"
+      }
+    ]
+  },
+  {
+    "link": "https://platform.openai.com/ai-text-classifier",
+    "title": "OpenAI API",
+    "latest": "2023-02-02T10:22:48+00:00",
+    "first": "2023-02-02T03:00:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109792908484027576",
+      "content": "<p>Here are the links to the 4 different methods referenced above: </p><p>(1) OpenAI AI classifier: <a href=\"https://platform.openai.com/ai-text-classifier\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">platform.openai.com/ai-text-cl</span><span class=\"invisible\">assifier</span></a></p><p>(2) Detect GPT: <a href=\"https://arxiv.org/abs/2301.11305v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11305v1</span><span class=\"invisible\"></span></a></p><p>(3) GPTZero: <a href=\"https://gptzero.substack.com/p/gptzero-update-v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gptzero.substack.com/p/gptzero</span><span class=\"invisible\">-update-v1</span></a></p><p>(4) Watermarking: <a href=\"https://arxiv.org/abs/2301.10226v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10226v2</span><span class=\"invisible\"></span></a></p><p>And a slightly more verbose blog post: <a href=\"https://sebastianraschka.com/blog/2023/detect-ai.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sebastianraschka.com/blog/2023</span><span class=\"invisible\">/detect-ai.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      },
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.11305v1",
+    "title": "https://arxiv.org/abs/2301.11305v1",
+    "latest": "2023-02-02T10:22:48+00:00",
+    "first": "2023-02-02T03:00:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109792908484027576",
+      "content": "<p>Here are the links to the 4 different methods referenced above: </p><p>(1) OpenAI AI classifier: <a href=\"https://platform.openai.com/ai-text-classifier\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">platform.openai.com/ai-text-cl</span><span class=\"invisible\">assifier</span></a></p><p>(2) Detect GPT: <a href=\"https://arxiv.org/abs/2301.11305v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11305v1</span><span class=\"invisible\"></span></a></p><p>(3) GPTZero: <a href=\"https://gptzero.substack.com/p/gptzero-update-v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gptzero.substack.com/p/gptzero</span><span class=\"invisible\">-update-v1</span></a></p><p>(4) Watermarking: <a href=\"https://arxiv.org/abs/2301.10226v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10226v2</span><span class=\"invisible\"></span></a></p><p>And a slightly more verbose blog post: <a href=\"https://sebastianraschka.com/blog/2023/detect-ai.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sebastianraschka.com/blog/2023</span><span class=\"invisible\">/detect-ai.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      },
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      }
+    ]
+  },
+  {
+    "link": "https://gptzero.substack.com/p/gptzero-update-v1",
+    "title": "gptzero.substack.com/p/gptzero...",
+    "latest": "2023-02-02T10:22:48+00:00",
+    "first": "2023-02-02T03:00:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109792908484027576",
+      "content": "<p>Here are the links to the 4 different methods referenced above: </p><p>(1) OpenAI AI classifier: <a href=\"https://platform.openai.com/ai-text-classifier\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">platform.openai.com/ai-text-cl</span><span class=\"invisible\">assifier</span></a></p><p>(2) Detect GPT: <a href=\"https://arxiv.org/abs/2301.11305v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11305v1</span><span class=\"invisible\"></span></a></p><p>(3) GPTZero: <a href=\"https://gptzero.substack.com/p/gptzero-update-v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gptzero.substack.com/p/gptzero</span><span class=\"invisible\">-update-v1</span></a></p><p>(4) Watermarking: <a href=\"https://arxiv.org/abs/2301.10226v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10226v2</span><span class=\"invisible\"></span></a></p><p>And a slightly more verbose blog post: <a href=\"https://sebastianraschka.com/blog/2023/detect-ai.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sebastianraschka.com/blog/2023</span><span class=\"invisible\">/detect-ai.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      },
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.10226v2",
+    "title": "https://arxiv.org/abs/2301.10226v2",
+    "latest": "2023-02-02T10:22:48+00:00",
+    "first": "2023-02-02T03:00:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109792908484027576",
+      "content": "<p>Here are the links to the 4 different methods referenced above: </p><p>(1) OpenAI AI classifier: <a href=\"https://platform.openai.com/ai-text-classifier\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">platform.openai.com/ai-text-cl</span><span class=\"invisible\">assifier</span></a></p><p>(2) Detect GPT: <a href=\"https://arxiv.org/abs/2301.11305v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11305v1</span><span class=\"invisible\"></span></a></p><p>(3) GPTZero: <a href=\"https://gptzero.substack.com/p/gptzero-update-v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gptzero.substack.com/p/gptzero</span><span class=\"invisible\">-update-v1</span></a></p><p>(4) Watermarking: <a href=\"https://arxiv.org/abs/2301.10226v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10226v2</span><span class=\"invisible\"></span></a></p><p>And a slightly more verbose blog post: <a href=\"https://sebastianraschka.com/blog/2023/detect-ai.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sebastianraschka.com/blog/2023</span><span class=\"invisible\">/detect-ai.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      },
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      }
+    ]
+  },
+  {
+    "link": "https://sebastianraschka.com/blog/2023/detect-ai.html",
+    "title": "sebastianraschka.com/blog/2023...",
+    "latest": "2023-02-02T10:22:48+00:00",
+    "first": "2023-02-02T03:00:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109792908484027576",
+      "content": "<p>Here are the links to the 4 different methods referenced above: </p><p>(1) OpenAI AI classifier: <a href=\"https://platform.openai.com/ai-text-classifier\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">platform.openai.com/ai-text-cl</span><span class=\"invisible\">assifier</span></a></p><p>(2) Detect GPT: <a href=\"https://arxiv.org/abs/2301.11305v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11305v1</span><span class=\"invisible\"></span></a></p><p>(3) GPTZero: <a href=\"https://gptzero.substack.com/p/gptzero-update-v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gptzero.substack.com/p/gptzero</span><span class=\"invisible\">-update-v1</span></a></p><p>(4) Watermarking: <a href=\"https://arxiv.org/abs/2301.10226v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10226v2</span><span class=\"invisible\"></span></a></p><p>And a slightly more verbose blog post: <a href=\"https://sebastianraschka.com/blog/2023/detect-ai.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sebastianraschka.com/blog/2023</span><span class=\"invisible\">/detect-ai.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      },
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
       }
     ]
   }
