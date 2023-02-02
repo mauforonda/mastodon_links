@@ -484,6 +484,54 @@
     ]
   },
   {
+    "link": "http://tafc.space/qna/the-topologists-world-map/",
+    "title": "tafc.space/qna/the-topologists...",
+    "latest": "2023-02-02T12:45:49.722000+00:00",
+    "first": "2023-02-01T06:28:54+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@elizayer/109787817994764150",
+      "content": "<p>Really charming \"topologists world map.\" </p><p>Forget size or position, this map *only* shows which countries  border which other countries:  <a href=\"http://tafc.space/qna/the-topologists-world-map/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">tafc.space/qna/the-topologists</span><span class=\"invisible\">-world-map/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Edent",
+        "display_name": "Terence Eden"
+      },
+      {
+        "url": "https://fosstodon.org/@danielskatz",
+        "display_name": "Daniel S. Katz"
+      },
+      {
+        "url": "https://hachyderm.io/@pevohr",
+        "display_name": "Paul Rohr"
+      }
+    ]
+  },
+  {
+    "link": "https://blogs.worldbank.org/impactevaluations/can-ai-write-your-stata-code",
+    "title": "Can AI write your Stata code?",
+    "latest": "2023-02-02T13:29:35+00:00",
+    "first": "2023-02-01T15:00:28+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@owenozier/109789897159609599",
+      "content": "<p>Sure, <a href=\"https://econtwitter.net/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a> can write your New York Times editorial, or pass an MBA exam, or help you teach your class, but can it code in <a href=\"https://econtwitter.net/tags/Stata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Stata</span></a> ? Not without some hallucinations of fictitious commands, it would seem!  My new blog post (tagging <span class=\"h-card\"><a href=\"https://econtwitter.net/@statatexblog\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>statatexblog</span></a></span> <span class=\"h-card\"><a href=\"https://econtwitter.net/@asjadnaqvi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>asjadnaqvi</span></a></span> who might be interested, and thanks to <span class=\"h-card\"><a href=\"https://econtwitter.net/@dmckenzie001\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dmckenzie001</span></a></span> and Pam Jakiela for editorial improvements): <a href=\"https://blogs.worldbank.org/impactevaluations/can-ai-write-your-stata-code\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.worldbank.org/impacteval</span><span class=\"invisible\">uations/can-ai-write-your-stata-code</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@NicVdSijpe",
+        "display_name": "Nicolas Van de Sijpe"
+      },
+      {
+        "url": "https://econtwitter.net/@dmckenzie001",
+        "display_name": "David McKenzie"
+      },
+      {
+        "url": "https://econtwitter.net/@paulgp",
+        "display_name": "Paul Goldsmith-Pinkham"
+      }
+    ]
+  },
+  {
     "link": "https://web.dev/learn/images/",
     "title": "Learn Images",
     "latest": "2023-02-01T18:55:18+00:00",
@@ -532,122 +580,26 @@
     ]
   },
   {
-    "link": "https://www.theonion.com/chatgpt-forced-to-take-bar-exam-even-though-dream-was-t-1850036337",
-    "title": "ChatGPT Forced To Take Bar Exam Even Though Dream Was To Be AI Art Bot",
-    "latest": "2023-01-30T13:31:19+00:00",
-    "first": "2023-01-30T14:37:14+00:00",
+    "link": "https://www.tidyverse.org/blog/2023/02/dplyr-1-1-0-per-operation-grouping/",
+    "title": "dplyr 1.1.0: Per-operation grouping",
+    "latest": "2023-02-02T12:59:10+00:00",
+    "first": "2023-02-01T16:36:59+00:00",
     "last_post": {
-      "url": "https://universeodon.com/@JenLucPiquant/109778401314029381",
-      "content": "<p>ChatGPT Forced To Take Bar Exam Even Though Dream Was To Be AI Art Bot [SATIRE] <a href=\"https://www.theonion.com/chatgpt-forced-to-take-bar-exam-even-though-dream-was-t-1850036337\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theonion.com/chatgpt-forced-to</span><span class=\"invisible\">-take-bar-exam-even-though-dream-was-t-1850036337</span></a></p>"
+      "url": "https://fosstodon.org/@davis/109790332051425125",
+      "content": "<p>Post 2/4 for dplyr 1.1.0 is out! <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> \ud83c\udf89</p><p>Today, we'll look at `.by` - dplyr's new per-operation grouping syntax (inspired by data.table's own `by` argument)!</p><p>With `.by`, you never need to remember that pesky `ungroup()` \ud83d\ude09</p><p><a href=\"https://www.tidyverse.org/blog/2023/02/dplyr-1-1-0-per-operation-grouping/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tidyverse.org/blog/2023/02/dpl</span><span class=\"invisible\">yr-1-1-0-per-operation-grouping/</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@Colarusso",
-        "display_name": "David Colarusso"
+        "url": "https://fosstodon.org/@jennybryan",
+        "display_name": "Jenny Bryan"
       },
       {
-        "url": "https://hcommons.social/@scott_bot",
-        "display_name": "@scott_bot \ud83e\udd39"
-      }
-    ]
-  },
-  {
-    "link": "https://codepen.io/amit_sheen/pen/gOjzgBL",
-    "title": "codepen.io/amit_sheen/pen/gOjz...",
-    "latest": "2023-01-30T21:21:29+00:00",
-    "first": "2023-01-30T14:02:41+00:00",
-    "last_post": {
-      "url": "https://bell.bz/@andy/109778525303578789",
-      "content": "<p>Amit Sheen made this amazing animated version of my agency's logo. It's cool as hell! </p><p>You should check out their other stuff too. They're super talented. <a href=\"https://codepen.io/amit_sheen/pen/gOjzgBL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepen.io/amit_sheen/pen/gOjz</span><span class=\"invisible\">gBL</span></a></p><p><a href=\"https://andy-bell.co.uk/animated-set-studio-logo/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">andy-bell.co.uk/animated-set-s</span><span class=\"invisible\">tudio-logo/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://bell.bz/@andy",
-        "display_name": "Andy Bell"
+        "url": "https://fosstodon.org/@hadleywickham",
+        "display_name": "Hadley Wickham"
       },
       {
-        "url": "https://toot.cafe/@oliverturner",
-        "display_name": "Oliver"
-      }
-    ]
-  },
-  {
-    "link": "https://andy-bell.co.uk/animated-set-studio-logo/",
-    "title": "andy-bell.co.uk/animated-set-s...",
-    "latest": "2023-01-30T21:21:29+00:00",
-    "first": "2023-01-30T14:02:41+00:00",
-    "last_post": {
-      "url": "https://bell.bz/@andy/109778525303578789",
-      "content": "<p>Amit Sheen made this amazing animated version of my agency's logo. It's cool as hell! </p><p>You should check out their other stuff too. They're super talented. <a href=\"https://codepen.io/amit_sheen/pen/gOjzgBL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codepen.io/amit_sheen/pen/gOjz</span><span class=\"invisible\">gBL</span></a></p><p><a href=\"https://andy-bell.co.uk/animated-set-studio-logo/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">andy-bell.co.uk/animated-set-s</span><span class=\"invisible\">tudio-logo/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://bell.bz/@andy",
-        "display_name": "Andy Bell"
-      },
-      {
-        "url": "https://toot.cafe/@oliverturner",
-        "display_name": "Oliver"
-      }
-    ]
-  },
-  {
-    "link": "https://ipeagit.github.io/r5r/news/index.html#r5r-100",
-    "title": "Changelog",
-    "latest": "2023-01-31T02:17:58+00:00",
-    "first": "2023-01-30T14:09:31+00:00",
-    "last_post": {
-      "url": "https://datasci.social/@UrbanDemog/109778483073167872",
-      "content": "<p>A new major release of r5r v1.0.0 is now on CRAN \ud83c\udf89 <a href=\"https://datasci.social/tags/r5rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>r5rstats</span></a>. This version has many new goodies for those doing routing and accessibility analysis in multimodal transport networks in <a href=\"https://datasci.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a>. Full changelog: <a href=\"https://ipeagit.github.io/r5r/news/index.html#r5r-100\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ipeagit.github.io/r5r/news/ind</span><span class=\"invisible\">ex.html#r5r-100</span></a> <br>Read this Thread \ud83e\uddf5with a few highlights! 1/8</p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@UrbanDemog",
-        "display_name": "Rafael H M Pereira"
-      },
-      {
-        "url": "https://datasci.social/@ZorzalErrante",
-        "display_name": "Eduardo Graells-Garrido \ud83d\udc26"
-      }
-    ]
-  },
-  {
-    "link": "https://quinndombrowski.com/",
-    "title": "https://quinndombrowski.com/",
-    "latest": "2023-01-30T13:26:00+00:00",
-    "first": "2023-01-30T14:15:44+00:00",
-    "last_post": {
-      "url": "https://fedihum.org/@multilingualdhwg/109777512504564475",
-      "content": "<p>In our 2nd <a href=\"https://fedihum.org/tags/multilingualmonday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>multilingualmonday</span></a> , meet <span class=\"h-card\"><a href=\"https://mstdn.social/@quinnanya\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>quinnanya</span></a></span> academic technology specialist <a href=\"https://fedihum.org/tags/Stanford\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Stanford</span></a>. As a champion of <a href=\"https://fedihum.org/tags/multilingualdh\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>multilingualdh</span></a>, Quinn has been involved in many <a href=\"https://fedihum.org/tags/dh\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dh</span></a> projects eg. the Data-Sitters Club and <a href=\"https://fedihum.org/tags/SUCHO\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SUCHO</span></a>, among others and currently also serves as co-president of the Association for Computers and the Humanities. See more about her amazing work at <a href=\"https://quinndombrowski.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">quinndombrowski.com/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@quinnanya",
-        "display_name": "Quinn Dombrowski"
-      },
-      {
-        "url": "https://mastodon.social/@jose_eduardo",
-        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
-      }
-    ]
-  },
-  {
-    "link": "https://digitalhumanities.stanford.edu/academic-mastodon-survey-nov2022/",
-    "title": "Academic Mastodon Survey, November 2022 :: Digital Humanities @ Stanford",
-    "latest": "2023-01-30T17:40:50+00:00",
-    "first": "2023-01-30T14:23:31+00:00",
-    "last_post": {
-      "url": "https://mstdn.social/@quinnanya/109778607228763642",
-      "content": "<p>In late November 2022 I sent out a survey to <a href=\"https://mstdn.social/tags/academic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>academic</span></a> &amp; <a href=\"https://mstdn.social/tags/GLAM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GLAM</span></a> <a href=\"https://mstdn.social/tags/MastoAdmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoAdmin</span></a> about setup, users, moderation, challenges &amp; hopes for their server. Here's what they had to say: <a href=\"https://digitalhumanities.stanford.edu/academic-mastodon-survey-nov2022/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">digitalhumanities.stanford.edu</span><span class=\"invisible\">/academic-mastodon-survey-nov2022/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@quinnanya",
-        "display_name": "Quinn Dombrowski"
-      },
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
+        "url": "https://mastodon.online/@jaspar",
+        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
       }
     ]
   },
@@ -908,6 +860,26 @@
       {
         "url": "https://hachyderm.io/@pevohr",
         "display_name": "Paul Rohr"
+      }
+    ]
+  },
+  {
+    "link": "https://www.quantamagazine.org/the-thoughts-of-a-spiderweb-20170523/",
+    "title": "A Mind Made Out of Silk",
+    "latest": "2023-02-02T13:57:20+00:00",
+    "first": "2023-01-30T21:09:48+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@kottke/109779663177987095",
+      "content": "<p>Spiders appear to offload cognitive tasks to their webs, a rare nonhuman example of \u201cextended cognition\u201d \u2014 animals using tools to think outside of the confines of their own heads. <a href=\"https://www.quantamagazine.org/the-thoughts-of-a-spiderweb-20170523/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">quantamagazine.org/the-thought</span><span class=\"invisible\">s-of-a-spiderweb-20170523/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@ming",
+        "display_name": "Flemming Funch"
+      },
+      {
+        "url": "https://tldr.nettime.org/@festal",
+        "display_name": "felix stalder"
       }
     ]
   },
@@ -1792,26 +1764,6 @@
     ]
   },
   {
-    "link": "https://blogs.worldbank.org/impactevaluations/can-ai-write-your-stata-code",
-    "title": "Can AI write your Stata code?",
-    "latest": "2023-02-01T13:59:12+00:00",
-    "first": "2023-02-01T15:00:28+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@dmckenzie001/109789836253220051",
-      "content": "<p>In today's Development Impact post, <span class=\"h-card\"><a href=\"https://econtwitter.net/@owenozier\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>owenozier</span></a></span> asks ChatGPT to help him write his Stata code and gets very mixed results. It seems you need to know a lot of Stata already to coax it to sort of work, and it gets it wrong a lot of the time and even makes up fictitious commands!  <a href=\"https://blogs.worldbank.org/impactevaluations/can-ai-write-your-stata-code\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.worldbank.org/impacteval</span><span class=\"invisible\">uations/can-ai-write-your-stata-code</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@NicVdSijpe",
-        "display_name": "Nicolas Van de Sijpe"
-      },
-      {
-        "url": "https://econtwitter.net/@dmckenzie001",
-        "display_name": "David McKenzie"
-      }
-    ]
-  },
-  {
     "link": "https://dailyfinds.hrbrmstr.dev/p/drop-190-2023-02-01-everything-is",
     "title": "Drop #190 (2023-02-01): Everything Is Awful",
     "latest": "2023-02-01T16:40:02+00:00",
@@ -2008,26 +1960,6 @@
       {
         "url": "https://social.coop/@bmann",
         "display_name": "Boris Mann"
-      }
-    ]
-  },
-  {
-    "link": "https://www.tidyverse.org/blog/2023/02/dplyr-1-1-0-per-operation-grouping/",
-    "title": "dplyr 1.1.0: Per-operation grouping",
-    "latest": "2023-02-02T00:48:15+00:00",
-    "first": "2023-02-01T16:36:59+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@davis/109790332051425125",
-      "content": "<p>Post 2/4 for dplyr 1.1.0 is out! <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> \ud83c\udf89</p><p>Today, we'll look at `.by` - dplyr's new per-operation grouping syntax (inspired by data.table's own `by` argument)!</p><p>With `.by`, you never need to remember that pesky `ungroup()` \ud83d\ude09</p><p><a href=\"https://www.tidyverse.org/blog/2023/02/dplyr-1-1-0-per-operation-grouping/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tidyverse.org/blog/2023/02/dpl</span><span class=\"invisible\">yr-1-1-0-per-operation-grouping/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@jennybryan",
-        "display_name": "Jenny Bryan"
-      },
-      {
-        "url": "https://fosstodon.org/@hadleywickham",
-        "display_name": "Hadley Wickham"
       }
     ]
   },
@@ -2308,6 +2240,26 @@
       {
         "url": "https://mstdn.social/@arnicas",
         "display_name": "arnicas"
+      }
+    ]
+  },
+  {
+    "link": "https://www.iea-world.org/Featured%20Economist/belinda-archibong/",
+    "title": "iea-world.org/Featured%20Econo...",
+    "latest": "2023-02-02T12:48:08+00:00",
+    "first": "2023-02-02T13:56:54+00:00",
+    "last_post": {
+      "url": "https://econtwitter.net/@drodrik/109795219080625858",
+      "content": "<p>The IEA's featured economist for February is Belinda Archibong. Read about how she became an economist, her interest in history, and her advice to younger economists <a href=\"https://www.iea-world.org/Featured%20Economist/belinda-archibong/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">iea-world.org/Featured%20Econo</span><span class=\"invisible\">mist/belinda-archibong/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://econtwitter.net/@ckrafftc",
+        "display_name": "Caroline Krafft"
+      },
+      {
+        "url": "https://econtwitter.net/@drodrik",
+        "display_name": "Dani Rodrik"
       }
     ]
   }
