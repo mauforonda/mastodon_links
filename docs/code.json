@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/nostr-protocol/nips/blob/master/05.md",
+    "title": "nips/05.md at master \u00b7 nostr-protocol/nips",
+    "latest": "2023-02-02T17:35:52+00:00",
+    "first": "2023-02-02T17:35:52+00:00",
+    "last_post": {
+      "url": "https://social.coop/@bmann/109796350523685958",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@blaine\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>blaine</span></a></span> <span class=\"h-card\"><a href=\"https://social.paulkedrosky.com/@paul\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>paul</span></a></span> yeah it\u2019s unclear why they wouldn\u2019t just say \u201cwe use webfinger\u201d plus here are some Nostr specific things like relays. </p><p>This is part of the yolo part of their protocol design. </p><p>Context for others: <a href=\"https://github.com/nostr-protocol/nips/blob/master/05.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nostr-protocol/nips</span><span class=\"invisible\">/blob/master/05.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
+      }
+    ]
+  },
+  {
+    "link": "https://gitlab.com/kazarma/kazarma",
+    "title": "https://gitlab.com/kazarma/kazarma",
+    "latest": "2023-02-02T17:33:55+00:00",
+    "first": "2023-02-02T17:33:55+00:00",
+    "last_post": {
+      "url": "https://mastodon.koehlercode.dev/@hazel/109796306647490464",
+      "content": "<p><a href=\"https://mastodon.koehlercode.dev/tags/FediBlock\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FediBlock</span></a> staging.kazar.ma (and root domain kazar.ma). Its some kind of Matrix-to-ActivityPub bridge that mirrors <a href=\"https://mastodon.koehlercode.dev/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> profiles with no ability to opt-out. It does not seem to respect any standard NoBot / NoIndex type hashtags.</p><p>Details:</p><p><a href=\"https://staging.kazar.ma/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">staging.kazar.ma/</span><span class=\"invisible\"></span></a> (this lets you look up any <a href=\"https://mastodon.koehlercode.dev/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> user. Many have their public posts mirrored.)<br><a href=\"https://docs.kazar.ma/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">docs.kazar.ma/</span><span class=\"invisible\"></span></a><br><a href=\"https://gitlab.com/kazarma/kazarma\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gitlab.com/kazarma/kazarma</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@helgek",
+        "display_name": "helge"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/devfort/bugle/tree/master/bugle_project/twitter_api",
+    "title": "bugle/bugle_project/twitter_api at master \u00b7 devfort/bugle",
+    "latest": "2023-02-02T16:31:07+00:00",
+    "first": "2023-02-02T16:31:07+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109796095918046078",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@blaine\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>blaine</span></a></span> our old Twitter clone Bugle still has the code Ben Firshman wrote to simulate the Twitter API circa about 2010: <a href=\"https://github.com/devfort/bugle/tree/master/bugle_project/twitter_api\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/devfort/bugle/tree/</span><span class=\"invisible\">master/bugle_project/twitter_api</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/vrajmohan/pgsql-sample-data/tree/master/employee",
     "title": "github.com/vrajmohan/pgsql-sam...",
     "latest": "2023-02-02T14:31:49+00:00",
@@ -3356,54 +3404,6 @@
       {
         "url": "https://vis.social/@neocarto",
         "display_name": "Nicolas Lambert \ud83c\udf0f"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@jwolondon/census-2021-explorer",
-    "title": "Census 2021 Explorer",
-    "latest": "2023-01-24T13:33:01+00:00",
-    "first": "2023-01-24T13:33:01+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@smach/109744434783154736",
-      "content": "<p>Useful resource for anyone who wants to work with England and Wales 2021 Census data. By <span class=\"h-card\"><a href=\"https://vis.social/@jwolondon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jwolondon</span></a></span> <br><a href=\"https://observablehq.com/@jwolondon/census-2021-explorer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@jwolondon/ce</span><span class=\"invisible\">nsus-2021-explorer</span></a></p><p>Tips on using this <a href=\"https://fosstodon.org/tags/data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>data</span></a> for your own Observable <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> at <a href=\"https://observablehq.com/@jwolondon/hello-census-2021\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@jwolondon/he</span><span class=\"invisible\">llo-census-2021</span></a> Some code should be translatable to a <a href=\"https://fosstodon.org/tags/Quarto\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Quarto</span></a> document </p><p><span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> <a href=\"https://fosstodon.org/tags/QuartoPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QuartoPub</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@smach",
-        "display_name": "Sharon Machlis"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@jwolondon/hello-census-2021",
-    "title": "observablehq.com/@jwolondon/he...",
-    "latest": "2023-01-24T13:33:01+00:00",
-    "first": "2023-01-24T13:33:01+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@smach/109744434783154736",
-      "content": "<p>Useful resource for anyone who wants to work with England and Wales 2021 Census data. By <span class=\"h-card\"><a href=\"https://vis.social/@jwolondon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jwolondon</span></a></span> <br><a href=\"https://observablehq.com/@jwolondon/census-2021-explorer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@jwolondon/ce</span><span class=\"invisible\">nsus-2021-explorer</span></a></p><p>Tips on using this <a href=\"https://fosstodon.org/tags/data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>data</span></a> for your own Observable <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> at <a href=\"https://observablehq.com/@jwolondon/hello-census-2021\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@jwolondon/he</span><span class=\"invisible\">llo-census-2021</span></a> Some code should be translatable to a <a href=\"https://fosstodon.org/tags/Quarto\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Quarto</span></a> document </p><p><span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> <a href=\"https://fosstodon.org/tags/QuartoPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QuartoPub</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@smach",
-        "display_name": "Sharon Machlis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-01-24",
-    "title": "tidytuesday/2023/2023-01-24 at main \u00b7 nrennie/tidytuesday",
-    "latest": "2023-01-24T11:27:51+00:00",
-    "first": "2023-01-24T11:27:51+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nrennie/109743942658076775",
-      "content": "<p>For this week's <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a>, I kept it simple and made a lollipop chart with geom_image() - with a little help from <span class=\"h-card\"><a href=\"https://fosstodon.org/@tanya_shapiro\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tanya_shapiro</span></a></span>'s code to get the borders for the images!</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-01-24\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-01-24</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nrennie",
-        "display_name": "Nicola Rennie"
       }
     ]
   }
