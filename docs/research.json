@@ -1,5 +1,101 @@
 [
   {
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279345",
+    "title": "On limitations of uniplex networks for modeling multiplex contagion",
+    "latest": "2023-02-03T02:50:35+00:00",
+    "first": "2023-02-03T02:50:35+00:00",
+    "last_post": {
+      "url": "https://sciences.social/@jimiadams/109789883933239822",
+      "content": "<p>A couple of weeks ago, a recent paper w/ <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@nwlandry\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nwlandry</span></a></span> appeared in PLoS One. - <a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279345\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.plos.org/plosone/arti</span><span class=\"invisible\">cle?id=10.1371/journal.pone.0279345</span></a>. </p><p>Here, I'm dusting off (and revising slightly) an old \ud83e\uddf5 from &lt;birdshite&gt; when we'd previously posted a pre-print version:</p><p>\"On limitations of uniplex networks for modeling multiplex contagion\" [1/n]</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@philipncohen",
+        "display_name": "Philip N Cohen"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.00801",
+    "title": "A tutorial on networks in social systems: A mathematical modeling perspective",
+    "latest": "2023-02-03T02:49:19+00:00",
+    "first": "2023-02-03T02:49:19+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@masonporter/109798241483402899",
+      "content": "<p>\"A tutorial on networks in social systems: A mathematical modeling perspective\" (by Heather Z. Brooks): <a href=\"https://arxiv.org/abs/2302.00801\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00801</span><span class=\"invisible\"></span></a></p><p>\"The goal is to provide an accessible, broad, and solid foundation for a reader who is new to the field so that they may confidently engage more deeply with the mathematical study of social networks.\"</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.truesciphi.org/@TrueSciPhi",
+        "display_name": "Kelly Truelove"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.00923",
+    "title": "Multimodal Chain-of-Thought Reasoning in Language Models",
+    "latest": "2023-02-03T01:45:13+00:00",
+    "first": "2023-02-03T01:45:13+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109798274705495264",
+      "content": "<p>Multimodal Chain-of-Thought Reasoning in Language Models</p><p>Multimodal-CoT outperforms GPT-3.5 by 16% (75.17% -&gt; 91.68%) on ScienceQA and even surpasses human performance. </p><p>abs: <a href=\"https://arxiv.org/abs/2302.00923\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00923</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/amazon-science/mm-cot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/amazon-science/mm-c</span><span class=\"invisible\">ot</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.01329",
+    "title": "https://arxiv.org/abs/2302.01329",
+    "latest": "2023-02-03T01:37:08+00:00",
+    "first": "2023-02-03T01:37:08+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109798242944159165",
+      "content": "<p>Dreamix: Video Diffusion Models are General Video Editors</p><p>proj: <a href=\"https://dreamix-video-editing.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dreamix-video-editing.github.i</span><span class=\"invisible\">o/</span></a><br>abs: <a href=\"https://arxiv.org/abs/2302.01329\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01329</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.01330",
+    "title": "https://arxiv.org/abs/2302.01330",
+    "latest": "2023-02-03T01:35:14+00:00",
+    "first": "2023-02-03T01:35:14+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109798235472608558",
+      "content": "<p>SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections</p><p>proj: <a href=\"https://scene-dreamer.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">scene-dreamer.github.io/</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2302.01330\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01330</span><span class=\"invisible\"></span></a><br>video: <a href=\"https://www.youtube.com/watch?v=AjtOlDHsiyU&amp;feature=youtu.be\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=AjtOlDHsiy</span><span class=\"invisible\">U&amp;feature=youtu.be</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.01318",
+    "title": "Accelerating Large Language Model Decoding with Speculative Sampling",
+    "latest": "2023-02-03T01:33:08+00:00",
+    "first": "2023-02-03T01:33:08+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109798227223633346",
+      "content": "<p>Accelerating Large Language Model Decoding with Speculative Sampling</p><p>Achieves a 2\u20132.5x decoding speedup with Chinchilla in a distributed setup, without compromising the sample quality or making modifications to the model itself.</p><p><a href=\"https://arxiv.org/abs/2302.01318\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01318</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2212.12672",
     "title": "Real or Fake Text?: Investigating Human Ability to Detect Boundaries Between Human-Written and Machine-Generated Text",
     "latest": "2023-02-02T22:36:12+00:00",
@@ -3268,106 +3364,6 @@
       {
         "url": "https://sciences.social/@markigra",
         "display_name": "Mark Igra"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.08745",
-    "title": "Is ChatGPT A Good Translator? A Preliminary Study",
-    "latest": "2023-01-24T02:19:10+00:00",
-    "first": "2023-01-24T02:19:10+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109741785108798344",
-      "content": "<p>Is ChatGPT A Good Translator? A Preliminary Study</p><p>ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages but lags behind significantly on low-resource or distant languages. </p><p><a href=\"https://arxiv.org/abs/2301.08745\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.08745</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.08984",
-    "title": "SuperScaler: Supporting Flexible DNN Parallelization via a Unified Abstraction",
-    "latest": "2023-01-24T02:19:08+00:00",
-    "first": "2023-01-24T02:19:08+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109741784963273783",
-      "content": "<p>SuperScaler: Supporting Flexible DNN Parallelization via a Unified Abstraction</p><p>Can construct new parallelization plans that achieve up to 3.5x speedup compared to SotA solutions like DeepSpeed, Megatron and Alpa on Swin-Transformer, AlphaFold2, GPT-3...</p><p><a href=\"https://arxiv.org/abs/2301.08984\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.08984</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.09595",
-    "title": "Zorro: the masked multimodal transformer",
-    "latest": "2023-01-24T02:04:53+00:00",
-    "first": "2023-01-24T02:04:53+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109741728962056624",
-      "content": "<p>Zorro: the masked multimodal transformer</p><p>Achieves SotA on most relevant benchmarks for multimodal tasks (AudioSet and VGGSound) by using masks to control how inputs from each modality are routed inside Transformers. </p><p><a href=\"https://arxiv.org/abs/2301.09595\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.09595</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.09515",
-    "title": "https://arxiv.org/abs/2301.09515",
-    "latest": "2023-01-24T01:57:39+00:00",
-    "first": "2023-01-24T01:57:39+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109741700545441002",
-      "content": "<p>StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis</p><p>Outperforms distilled diffusion models - the previous SotA in text-to-image synthesis - in terms of sample quality and speed.</p><p>proj (+repo): <a href=\"https://sites.google.com/view/stylegan-t/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sites.google.com/view/stylegan</span><span class=\"invisible\">-t/</span></a><br>abs: <a href=\"https://arxiv.org/abs/2301.09515\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.09515</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.07015",
-    "title": "Simplistic Collection and Labeling Practices Limit the Utility of Benchmark Datasets for Twitter Bot Detection",
-    "latest": "2023-01-23T22:14:07+00:00",
-    "first": "2023-01-23T17:37:59+00:00",
-    "last_post": {
-      "url": "https://hci.social/@manoel/109740821547512214",
-      "content": "<p>This cool new preprint argues that third-party bot detection tools generalize poorly due to the lack of robust high-quality data.</p><p>\ud83d\udcf0: <a href=\"https://arxiv.org/abs/2301.07015\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07015</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@eckles",
-        "display_name": "Dean Eckles"
-      },
-      {
-        "url": "https://hci.social/@manoel",
-        "display_name": "Manoel Horta Ribeiro"
-      }
-    ]
-  },
-  {
-    "link": "https://link.springer.com/article/10.1007/s00376-023-2385-2",
-    "title": "Another Year of Record Heat for the Oceans - Advances in Atmospheric Sciences",
-    "latest": "2023-01-23T22:00:56+00:00",
-    "first": "2023-01-23T22:00:56+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@ZLabe/109740769705437396",
-      "content": "<p>ICYMI - 2022 was the hottest year on record for our oceans...</p><p>+ Study: <a href=\"https://link.springer.com/article/10.1007/s00376-023-2385-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/article/10.1</span><span class=\"invisible\">007/s00376-023-2385-2</span></a><br>+ Summary: <a href=\"https://carbonbrief.org/state-of-the-climate-how-the-world-warmed-in-2022/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">carbonbrief.org/state-of-the-c</span><span class=\"invisible\">limate-how-the-world-warmed-in-2022/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@ZLabe",
-        "display_name": "Zack Labe"
       }
     ]
   }

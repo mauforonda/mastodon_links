@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://github.com/akkartik/mu",
+    "title": "GitHub - akkartik/mu: Soul of a tiny new machine. More thorough tests \u2192 More comprehensible and rewrite-friendly software \u2192 More resilient society.",
+    "latest": "2023-02-03T03:11:32+00:00",
+    "first": "2023-01-13T05:09:03+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@akkartik/109798614160568571",
+      "content": "<p><span class=\"h-card\"><a href=\"https://social.omar.website/@omar\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>omar</span></a></span> <a href=\"https://github.com/akkartik/mu\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/akkartik/mu</span><span class=\"invisible\"></span></a> does this. The paper points at the literature as well.</p>"
+    },
+    "people": [
+      {
+        "url": "https://merveilles.town/@akkartik",
+        "display_name": "Kartik Agaram"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/simonw/tweet-images",
+    "title": "GitHub - simonw/tweet-images: Send tweets with images from the command line",
+    "latest": "2023-02-03T02:40:17+00:00",
+    "first": "2023-02-03T02:40:17+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109798491290043613",
+      "content": "<p>Amusingly, I found toot because I sat down to build myself a CLI tool for posting to Mastodon (an equivalent of my existing <a href=\"https://github.com/simonw/tweet-images\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/simonw/tweet-images</span><span class=\"invisible\"></span></a> tool) and checked PyPI to see if the name \"toot\" was available... and it had already been taken by a tool that did EXACTLY what I wanted to do</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/simonw/covidsewage-bot/blob/main/.github/workflows/toot.yml",
+    "title": "covidsewage-bot/toot.yml at main \u00b7 simonw/covidsewage-bot",
+    "latest": "2023-02-03T02:39:15+00:00",
+    "first": "2023-02-03T02:39:15+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109798487191391260",
+      "content": "<p>The bot runs entirely from this GitHub scheduled actions workflow: <a href=\"https://github.com/simonw/covidsewage-bot/blob/main/.github/workflows/toot.yml\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/covidsewage-</span><span class=\"invisible\">bot/blob/main/.github/workflows/toot.yml</span></a></p><p>It uses my <a href=\"https://shot-scraper.datasette.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">shot-scraper.datasette.io/</span><span class=\"invisible\"></span></a> CLI screenshot automation tool and the excellent <a href=\"https://toot.readthedocs.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">toot.readthedocs.io/</span><span class=\"invisible\"></span></a> Mastodon CLI utility</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/amazon-science/mm-cot",
+    "title": "github.com/amazon-science/mm-c...",
+    "latest": "2023-02-03T01:45:13+00:00",
+    "first": "2023-02-03T01:45:13+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109798274705495264",
+      "content": "<p>Multimodal Chain-of-Thought Reasoning in Language Models</p><p>Multimodal-CoT outperforms GPT-3.5 by 16% (75.17% -&gt; 91.68%) on ScienceQA and even surpasses human performance. </p><p>abs: <a href=\"https://arxiv.org/abs/2302.00923\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00923</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/amazon-science/mm-cot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/amazon-science/mm-c</span><span class=\"invisible\">ot</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/halcy/Mastodon.py",
     "title": "https://github.com/halcy/Mastodon.py",
     "latest": "2023-02-02T23:23:21+00:00",
@@ -3336,78 +3400,6 @@
       {
         "url": "https://neuromatch.social/@LeonDLotter",
         "display_name": "Leon Lotter"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/LeonDLotter/ABAnnotate",
-    "title": "github.com/LeonDLotter/ABAnnot...",
-    "latest": "2023-01-24T21:22:05+00:00",
-    "first": "2023-01-24T21:22:05+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@LeonDLotter/109746279282048676",
-      "content": "<p>Here are some direct links to our resources (in part developed for this project): </p><p>Again the paper (open-access): <a href=\"https://doi.org/10.1016/j.neubiorev.2023.105042\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.neubiorev.20</span><span class=\"invisible\">23.105042</span></a><br>Code &amp; data: <a href=\"https://github.com/LeonDLotter/MAsync\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/MAsync</span><span class=\"invisible\"></span></a>  <br>SetYouFree, for literature search: <a href=\"https://github.com/ChristianGerloff/set-you-free\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ChristianGerloff/se</span><span class=\"invisible\">t-you-free</span></a><br>JuSpyce, for multimodal spatial association analyses: <a href=\"https://github.com/LeonDLotter/JuSpyce\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/JuSpyce</span><span class=\"invisible\"></span></a><br>ABAnnotate, for neuroimaging gene-category enrichment: <a href=\"https://github.com/LeonDLotter/ABAnnotate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/LeonDLotter/ABAnnot</span><span class=\"invisible\">ate</span></a></p><p>8/9</p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@LeonDLotter",
-        "display_name": "Leon Lotter"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bikehopper/bikehopper-ui",
-    "title": "GitHub - bikehopper/bikehopper-ui: Friendly bike+transit directions (frontend)",
-    "latest": "2023-01-24T21:17:00+00:00",
-    "first": "2023-01-24T21:46:20+00:00",
-    "last_post": {
-      "url": "https://social.coop/@graue/109719222045865339",
-      "content": "<p>My project right now is <a href=\"https://social.coop/tags/BikeHopper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BikeHopper</span></a>, an open-source directions app for transit+bikes.</p><p><a href=\"https://github.com/bikehopper/bikehopper-ui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bikehopper/bikehopp</span><span class=\"invisible\">er-ui</span></a></p><p>It uses <a href=\"https://social.coop/tags/OpenStreetMap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenStreetMap</span></a> and a modified version of GraphHopper.</p><p>Two main benefits over other trip planning apps:<br>1. Bike-on-bus, bike-on-train etc. options<br>2. Tries really hard to find low-stress routes, avoiding main roads</p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@mszll",
-        "display_name": "Michael Szell"
-      },
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/awesome-spectral-indices/spyndex",
-    "title": "GitHub - awesome-spectral-indices/spyndex: Awesome Spectral Indices in Python.",
-    "latest": "2023-01-24T21:15:28+00:00",
-    "first": "2023-01-24T21:15:28+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@dmlmont/109745536834856154",
-      "content": "<p>Hey <a href=\"https://fosstodon.org/tags/RemoteSensing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RemoteSensing</span></a> enthusiasts! I've also released <a href=\"https://fosstodon.org/tags/spyndex\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>spyndex</span></a> v0.3.0 and now you have access to <a href=\"https://fosstodon.org/tags/AwesomeSpectralIndices\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AwesomeSpectralIndices</span></a> v0.3.0 in <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a>! \ud83d\udc0d\ud83d\udef0\ufe0f\ud83c\udf3f</p><p>Check it here: <a href=\"https://github.com/awesome-spectral-indices/spyndex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/awesome-spectral-in</span><span class=\"invisible\">dices/spyndex</span></a></p><p>You can use it for <a href=\"https://fosstodon.org/tags/numpy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>numpy</span></a>, (geo)pandas, <a href=\"https://fosstodon.org/tags/xarray\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xarray</span></a>, <a href=\"https://fosstodon.org/tags/dask\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dask</span></a> and <a href=\"https://fosstodon.org/tags/EarthEngine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EarthEngine</span></a>! \ud83d\ude80\ud83d\ude09</p><p><a href=\"https://fosstodon.org/tags/GISchat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GISchat</span></a> <a href=\"https://fosstodon.org/tags/EOchat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EOchat</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nuxt/nuxt/releases/v3.1.0",
-    "title": "github.com/nuxt/nuxt/releases/...",
-    "latest": "2023-01-24T19:52:15+00:00",
-    "first": "2023-01-24T17:16:40+00:00",
-    "last_post": {
-      "url": "https://m.webtoo.ls/@nuxt/109745279059279109",
-      "content": "<p>Nuxt v3.1.0 is out \u2728</p><p>\ud83c\udfdd\ufe0f Experimental Component Islands<br>\ud83e\ude84 onNuxtReady, useNuxtData and useSeoMeta<br>\ud83d\udcaa Nitropack v2, Vite 4 and Rollup 3<br>\u26a1\ufe0f Performance improvements</p><p><a href=\"https://github.com/nuxt/nuxt/releases/v3.1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nuxt/nuxt/releases/</span><span class=\"invisible\">v3.1.0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@nickytonline",
-        "display_name": "Nick Taylor"
-      },
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
       }
     ]
   }
