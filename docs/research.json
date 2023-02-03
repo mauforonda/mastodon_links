@@ -1,5 +1,57 @@
 [
   {
+    "link": "https://arxiv.org/abs/2010.13361",
+    "title": "https://arxiv.org/abs/2010.13361",
+    "latest": "2023-02-03T18:12:26+00:00",
+    "first": "2023-02-03T18:12:26+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@johncarlosbaez/109802156600313000",
+      "content": "<p>Also in 2020, Cole Comfort, Antonin Delpeuch, and Jules Hedges developed a way to draw morphisms in rig categories:</p><p><a href=\"https://arxiv.org/abs/2010.13361\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2010.13361</span><span class=\"invisible\"></span></a></p><p>Using this technology they give a new proof of my conjecture.  </p><p>I'm curious to know how rigorous it is.  Often diagrams like this give arguments that are easier to understand, but harder to make 100% rigorous.   (That's okay with me, I'm not a hardass.  It's just interesting.)</p><p>At least two of these folks are on Mathstodon:</p><p><span class=\"h-card\"><a href=\"https://birdsite.wilde.cloud/users/cole_comfort\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cole_comfort</span></a></span>  <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@julesh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julesh</span></a></span> </p><p>(5/n)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@johncarlosbaez",
+        "display_name": "John Carlos Baez"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2004.0868",
+    "title": "https://arxiv.org/abs/2004.0868",
+    "latest": "2023-02-03T17:50:25+00:00",
+    "first": "2023-02-03T17:50:25+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@johncarlosbaez/109802070074685806",
+      "content": "<p>I conjectured that the groupoid of finite sets and bijections is the 'weakly initial' rig category.  In other words, it maps to every other rig category in a way that's unique up to natural isomorphism:</p><p><a href=\"https://ncatlab.org/nlab/show/rig+category\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ncatlab.org/nlab/show/rig+cate</span><span class=\"invisible\">gory</span></a></p><p>This would give yet another reason why finite sets and thus natural numbers are important.</p><p>My conjecture was proved in 2004 by Josep Elgueta.  The proof was complicated.  In fact, it had a mistake!  Elgueta fixed it in 2020:</p><p><a href=\"https://arxiv.org/abs/2004.0868\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2004.0868</span><span class=\"invisible\"></span></a></p><p>(4/n)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@johncarlosbaez",
+        "display_name": "John Carlos Baez"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.00801",
+    "title": "A tutorial on networks in social systems: A mathematical modeling perspective",
+    "latest": "2023-02-03T16:24:11+00:00",
+    "first": "2023-02-03T02:49:19+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@masonporter/109798241483402899",
+      "content": "<p>\"A tutorial on networks in social systems: A mathematical modeling perspective\" (by Heather Z. Brooks): <a href=\"https://arxiv.org/abs/2302.00801\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00801</span><span class=\"invisible\"></span></a></p><p>\"The goal is to provide an accessible, broad, and solid foundation for a reader who is new to the field so that they may confidently engage more deeply with the mathematical study of social networks.\"</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.truesciphi.org/@TrueSciPhi",
+        "display_name": "Kelly Truelove"
+      },
+      {
+        "url": "https://mathstodon.xyz/@ethanepperly",
+        "display_name": "ethanepperly"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2302.00703",
     "title": "Spectral statistics of a minimal quantum glass model",
     "latest": "2023-02-03T13:53:54+00:00",
@@ -128,22 +180,6 @@
       {
         "url": "https://mastodon.social/@philipncohen",
         "display_name": "Philip N Cohen"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.00801",
-    "title": "A tutorial on networks in social systems: A mathematical modeling perspective",
-    "latest": "2023-02-03T02:49:19+00:00",
-    "first": "2023-02-03T02:49:19+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@masonporter/109798241483402899",
-      "content": "<p>\"A tutorial on networks in social systems: A mathematical modeling perspective\" (by Heather Z. Brooks): <a href=\"https://arxiv.org/abs/2302.00801\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00801</span><span class=\"invisible\"></span></a></p><p>\"The goal is to provide an accessible, broad, and solid foundation for a reader who is new to the field so that they may confidently engage more deeply with the mathematical study of social networks.\"</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.truesciphi.org/@TrueSciPhi",
-        "display_name": "Kelly Truelove"
       }
     ]
   },
@@ -3332,42 +3368,6 @@
       {
         "url": "https://fosstodon.org/@kevinmoerman",
         "display_name": "Kevin Moerman \ud83d\udd13\ud83e\uddbf:julia:"
-      }
-    ]
-  },
-  {
-    "link": "https://link.springer.com/article/10.1007/s42803-022-00063-6",
-    "title": "DH in Japanese studies, Japanese studies in DH: Recent trends, tools, and concepts - International Journal of Digital Humanities",
-    "latest": "2023-01-24T11:00:07+00:00",
-    "first": "2023-01-24T11:00:07+00:00",
-    "last_post": {
-      "url": "https://fedihum.org/@alizhorvathaliz/109743833592188279",
-      "content": "<p>What a great day! My own review essay, \"DH in <a href=\"https://fedihum.org/tags/Japanese\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Japanese</span></a> studies, Japanese studies in DH: Recent trends, tools, and concepts,\" is now available <a href=\"https://fedihum.org/tags/openaccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openaccess</span></a>  access as part of our special issue on <a href=\"https://fedihum.org/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> and East Asian studies, co-guest edited with <span class=\"h-card\"><a href=\"https://mastodon.social/@hildedeweerdt\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hildedeweerdt</span></a></span>. Link here: <a href=\"https://link.springer.com/article/10.1007/s42803-022-00063-6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/article/10.1</span><span class=\"invisible\">007/s42803-022-00063-6</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedihum.org/@alizhorvathaliz",
-        "display_name": "Al\u00edz Horv\u00e1th"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.09637",
-    "title": "https://arxiv.org/abs/2301.09637",
-    "latest": "2023-01-24T09:50:32+00:00",
-    "first": "2023-01-24T01:57:38+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@akhaliq/109741810986753950",
-      "content": "<p>InfiniCity: Infinite-Scale City Synthesis<br> <br>abs: <a href=\"https://arxiv.org/abs/2301.09637\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.09637</span><span class=\"invisible\"></span></a> <br>project page: <a href=\"https://hubert0527.github.io/infinicity/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">hubert0527.github.io/infinicit</span><span class=\"invisible\">y/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
       }
     ]
   }
