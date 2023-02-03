@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://github.com/doehm/tidytues",
+    "title": "GitHub - doehm/tidytues",
+    "latest": "2023-02-03T05:01:19+00:00",
+    "first": "2023-02-03T05:01:19+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@danoehm/109799045852315021",
+      "content": "<p><a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> week 5: Cats in the UK \ud83d\udc31</p><p>I had The Presidents in my head the whole time making this.</p><p>\ud83d\udd17 <a href=\"https://github.com/doehm/tidytues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/doehm/tidytues</span><span class=\"invisible\"></span></a><br><a href=\"https://fosstodon.org/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fosstodon.org/tags/r4ds\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>r4ds</span></a> <a href=\"https://fosstodon.org/tags/ggplot2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggplot2</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@danoehm",
+        "display_name": "Dan Oehm \ud83c\udf32\u26f0\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/wayne530/twitter-wipe",
+    "title": "GitHub - wayne530/twitter-wipe: NodeJS script for wiping all tweets from your Twitter account",
+    "latest": "2023-02-03T03:36:05+00:00",
+    "first": "2023-02-03T03:36:05+00:00",
+    "last_post": {
+      "url": "https://post.lurk.org/@samplereality/109795373507413420",
+      "content": "<p>Delete your tweets through Twitter's API while you still have a chance. The only method I've found that deletes more than your most recent 3200 tweets is the node.js-based Twitter-Wipe. <a href=\"https://github.com/wayne530/twitter-wipe\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/wayne530/twitter-wi</span><span class=\"invisible\">pe</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@quinnanya",
+        "display_name": "Quinn Dombrowski"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/akkartik/mu",
     "title": "GitHub - akkartik/mu: Soul of a tiny new machine. More thorough tests \u2192 More comprehensible and rewrite-friendly software \u2192 More resilient society.",
     "latest": "2023-02-03T03:11:32+00:00",
@@ -3358,38 +3390,6 @@
   {
     "link": "https://github.com/LeonDLotter/MAsync",
     "title": "https://github.com/LeonDLotter/MAsync",
-    "latest": "2023-01-24T21:22:05+00:00",
-    "first": "2023-01-24T21:22:05+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@LeonDLotter/109746279282048676",
-      "content": "<p>Here are some direct links to our resources (in part developed for this project): </p><p>Again the paper (open-access): <a href=\"https://doi.org/10.1016/j.neubiorev.2023.105042\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.neubiorev.20</span><span class=\"invisible\">23.105042</span></a><br>Code &amp; data: <a href=\"https://github.com/LeonDLotter/MAsync\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/MAsync</span><span class=\"invisible\"></span></a>  <br>SetYouFree, for literature search: <a href=\"https://github.com/ChristianGerloff/set-you-free\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ChristianGerloff/se</span><span class=\"invisible\">t-you-free</span></a><br>JuSpyce, for multimodal spatial association analyses: <a href=\"https://github.com/LeonDLotter/JuSpyce\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/JuSpyce</span><span class=\"invisible\"></span></a><br>ABAnnotate, for neuroimaging gene-category enrichment: <a href=\"https://github.com/LeonDLotter/ABAnnotate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/LeonDLotter/ABAnnot</span><span class=\"invisible\">ate</span></a></p><p>8/9</p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@LeonDLotter",
-        "display_name": "Leon Lotter"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ChristianGerloff/set-you-free",
-    "title": "github.com/ChristianGerloff/se...",
-    "latest": "2023-01-24T21:22:05+00:00",
-    "first": "2023-01-24T21:22:05+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@LeonDLotter/109746279282048676",
-      "content": "<p>Here are some direct links to our resources (in part developed for this project): </p><p>Again the paper (open-access): <a href=\"https://doi.org/10.1016/j.neubiorev.2023.105042\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.neubiorev.20</span><span class=\"invisible\">23.105042</span></a><br>Code &amp; data: <a href=\"https://github.com/LeonDLotter/MAsync\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/MAsync</span><span class=\"invisible\"></span></a>  <br>SetYouFree, for literature search: <a href=\"https://github.com/ChristianGerloff/set-you-free\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ChristianGerloff/se</span><span class=\"invisible\">t-you-free</span></a><br>JuSpyce, for multimodal spatial association analyses: <a href=\"https://github.com/LeonDLotter/JuSpyce\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LeonDLotter/JuSpyce</span><span class=\"invisible\"></span></a><br>ABAnnotate, for neuroimaging gene-category enrichment: <a href=\"https://github.com/LeonDLotter/ABAnnotate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/LeonDLotter/ABAnnot</span><span class=\"invisible\">ate</span></a></p><p>8/9</p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@LeonDLotter",
-        "display_name": "Leon Lotter"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/LeonDLotter/JuSpyce",
-    "title": "https://github.com/LeonDLotter/JuSpyce",
     "latest": "2023-01-24T21:22:05+00:00",
     "first": "2023-01-24T21:22:05+00:00",
     "last_post": {
