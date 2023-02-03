@@ -1,12 +1,48 @@
 [
   {
+    "link": "https://movetodon.org/",
+    "title": "https://movetodon.org",
+    "latest": "2023-02-03T12:59:12+00:00",
+    "first": "2023-02-02T18:06:16+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Tibor/109800904950500383",
+      "content": "<p>So you may have noticed that the Twitter login of <a href=\"https://movetodon.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">movetodon.org/</span><span class=\"invisible\"></span></a> is not working at the moment.</p><p>According to twitter, the app \u201chas violated Twitter Rules and policies\u201d. I can\u2019t tell much more at the moment since the email they mention never arrived in my inbox.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@blaine",
+        "display_name": "blaine"
+      },
+      {
+        "url": "https://mastodon.online/@jaspar",
+        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      },
+      {
+        "url": "https://mefi.social/@melissaekline",
+        "display_name": "Melissa Kline Struhl"
+      },
+      {
+        "url": "https://hachyderm.io/@allafarce",
+        "display_name": "Dave Guarino"
+      },
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
+      },
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      }
+    ]
+  },
+  {
     "link": "https://www.thecrimson.com/article/2023/2/2/donovan-forced-leave-hks/",
     "title": "Harvard Misinformation Expert Joan Donovan Forced to Leave by Kennedy School Dean, Sources Say | News | The Harvard Crimson",
-    "latest": "2023-02-03T03:29:09+00:00",
+    "latest": "2023-02-03T13:10:12+00:00",
     "first": "2023-02-02T19:03:00+00:00",
     "last_post": {
-      "url": "https://octodon.social/@ethanz/109797651094944940",
-      "content": "<p>It's almost like Elmendorf enjoys calls for his resignation. (This is a shitty thing to do to an excellent researcher.) <a href=\"https://www.thecrimson.com/article/2023/2/2/donovan-forced-leave-hks/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thecrimson.com/article/2023/2/</span><span class=\"invisible\">2/donovan-forced-leave-hks/</span></a></p>"
+      "url": "https://mastodon.social/@whiskeyocelot/109800934053653034",
+      "content": "<p>What was done to @BostonJoan is frightening. We're in a race to study how and why social media is so vulnerable to misinformation so we can make these systems safer. We need her research, and we need HER. What a black mark for academic freedom.<br><a href=\"https://www.thecrimson.com/article/2023/2/2/donovan-forced-leave-hks/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thecrimson.com/article/2023/2/</span><span class=\"invisible\">2/donovan-forced-leave-hks/</span></a></p>"
     },
     "people": [
       {
@@ -28,34 +64,42 @@
       {
         "url": "https://mastodon.social/@henryfarrell",
         "display_name": "Henry Farrell"
+      },
+      {
+        "url": "https://mastodon.social/@jonkeegan",
+        "display_name": "Jon Keegan"
       }
     ]
   },
   {
-    "link": "https://movetodon.org/",
-    "title": "https://movetodon.org",
-    "latest": "2023-02-03T05:33:36.931000+00:00",
-    "first": "2023-02-02T18:06:16+00:00",
+    "link": "https://jobs.ashbyhq.com/mastodon/290fd40f-125e-41fc-942d-f4ce59e6bda2",
+    "title": "DevOps Engineer (m/f/d)",
+    "latest": "2023-02-03T13:57:20+00:00",
+    "first": "2023-02-03T02:27:29+00:00",
     "last_post": {
-      "url": "https://chaos.social/@moehrenfeld/109795374523672174",
-      "content": "<p>So when Twitter shuts down its API access in a week, migration tools like the great <a href=\"https://movetodon.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">movetodon.org</span><span class=\"invisible\"></span></a> from <span class=\"h-card\"><a href=\"https://mastodon.social/@Tibor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Tibor</span></a></span>  will stop working. If you want to migrate your followers do it now!</p>"
+      "url": "https://mastodon.social/@mcc/109798274628283897",
+      "content": "<p>If you've noticed Mastodon.social being offline a few evenings this week, it was actually under DDOS those nights. When I asked, I was told the best way to help with Mastosoc's scaling and resiliency-under-pressure issues would be to help them fill this open job posting for a devops position with Mastodon gGMBH:</p><p><a href=\"https://jobs.ashbyhq.com/mastodon/290fd40f-125e-41fc-942d-f4ce59e6bda2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jobs.ashbyhq.com/mastodon/290f</span><span class=\"invisible\">d40f-125e-41fc-942d-f4ce59e6bda2</span></a></p><p>If you know anyone who might be qualified for this position, pass it on!</p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@blaine",
-        "display_name": "blaine"
+        "url": "https://mastodon.social/@Migueldeicaza",
+        "display_name": "Miguel de Icaza"
       },
       {
-        "url": "https://mastodon.online/@jaspar",
-        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+        "url": "https://mastodon.scot/@npscience",
+        "display_name": "Naomi"
       },
       {
-        "url": "https://mefi.social/@melissaekline",
-        "display_name": "Melissa Kline Struhl"
+        "url": "https://mastodon.social/@hrheingold",
+        "display_name": "Howard Rheingold"
       },
       {
-        "url": "https://hachyderm.io/@allafarce",
-        "display_name": "Dave Guarino"
+        "url": "https://mastodon.world/@lucianofloridi",
+        "display_name": "Luciano Floridi"
+      },
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
       }
     ]
   },
@@ -84,34 +128,6 @@
       {
         "url": "https://fosstodon.org/@olyerickson",
         "display_name": "John Erickson \ud83d\ude4f"
-      }
-    ]
-  },
-  {
-    "link": "https://jobs.ashbyhq.com/mastodon/290fd40f-125e-41fc-942d-f4ce59e6bda2",
-    "title": "DevOps Engineer (m/f/d)",
-    "latest": "2023-02-03T11:07:25+00:00",
-    "first": "2023-02-03T02:27:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@mcc/109798274628283897",
-      "content": "<p>If you've noticed Mastodon.social being offline a few evenings this week, it was actually under DDOS those nights. When I asked, I was told the best way to help with Mastosoc's scaling and resiliency-under-pressure issues would be to help them fill this open job posting for a devops position with Mastodon gGMBH:</p><p><a href=\"https://jobs.ashbyhq.com/mastodon/290fd40f-125e-41fc-942d-f4ce59e6bda2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jobs.ashbyhq.com/mastodon/290f</span><span class=\"invisible\">d40f-125e-41fc-942d-f4ce59e6bda2</span></a></p><p>If you know anyone who might be qualified for this position, pass it on!</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Migueldeicaza",
-        "display_name": "Miguel de Icaza"
-      },
-      {
-        "url": "https://mastodon.scot/@npscience",
-        "display_name": "Naomi"
-      },
-      {
-        "url": "https://mastodon.social/@hrheingold",
-        "display_name": "Howard Rheingold"
-      },
-      {
-        "url": "https://mastodon.world/@lucianofloridi",
-        "display_name": "Luciano Floridi"
       }
     ]
   },
@@ -160,166 +176,6 @@
       {
         "url": "https://fediscience.org/@biocs",
         "display_name": "Michael Kuhn"
-      }
-    ]
-  },
-  {
-    "link": "https://interconnected.org/home/2022/03/14/saloons",
-    "title": "Workplace serendipity, invention, and lessons from Prohibition 1920-1933",
-    "latest": "2023-02-02T19:25:13+00:00",
-    "first": "2023-02-02T14:46:04+00:00",
-    "last_post": {
-      "url": "https://social.cologne/@IanMulvany/109795682855905665",
-      "content": "<p><a href=\"https://interconnected.org/home/2022/03/14/saloons\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">interconnected.org/home/2022/0</span><span class=\"invisible\">3/14/saloons</span></a> - bars drive innovation</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.cologne/@IanMulvany",
-        "display_name": "IanMulvany"
-      },
-      {
-        "url": "https://mastodon.social/@genmon",
-        "display_name": "Matt Webb"
-      }
-    ]
-  },
-  {
-    "link": "https://openaccess.ox.ac.uk/home-2/rights-retention/",
-    "title": "openaccess.ox.ac.uk/home-2/rig...",
-    "latest": "2023-02-02T15:59:03+00:00",
-    "first": "2023-02-02T14:58:51+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@petersuber/109795733108564148",
-      "content": "<p>1/ Friendly quibble. Oxford says that rights retention is a \"new funder-led initiative.\"<br><a href=\"https://openaccess.ox.ac.uk/home-2/rights-retention/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">openaccess.ox.ac.uk/home-2/rig</span><span class=\"invisible\">hts-retention/</span></a></p><p>But it's not new and not funder-led. Many funders now have rights-retention OA policies and that's wonderful. Universities can help their researchers comply with funder policies by adopting university-based rights-retention policies, and that's wonderful. </p><p>But many universities had rights-retention OA policies before the latest wave of funders.<br><a href=\"https://cyber.harvard.edu/hoap/Additional_resources#Policies_of_the_kind_recommended_in_the_guide\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cyber.harvard.edu/hoap/Additio</span><span class=\"invisible\">nal_resources#Policies_of_the_kind_recommended_in_the_guide</span></a></p><p>\ud83e\uddf5</p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@petersuber",
-        "display_name": "petersuber"
-      },
-      {
-        "url": "https://mastodon.social/@philipncohen",
-        "display_name": "Philip N Cohen"
-      }
-    ]
-  },
-  {
-    "link": "https://brucelawson.co.uk/2023/the-ntia-report-on-mobile-app-ecosystems/",
-    "title": "brucelawson.co.uk/2023/the-nti...",
-    "latest": "2023-02-02T15:33:16+00:00",
-    "first": "2023-02-02T14:27:49+00:00",
-    "last_post": {
-      "url": "https://social.vivaldi.net/@brucelawson/109795561760957647",
-      "content": "<p>The National Telecommunications and Information Administration (part of US Dept of Commerce) Mobile App Competition Report came out yesterday. Here's my edited highlights reel on what the US gov thinks of the <a href=\"https://social.vivaldi.net/tags/appleBrowserBan\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>appleBrowserBan</span></a>: <a href=\"https://brucelawson.co.uk/2023/the-ntia-report-on-mobile-app-ecosystems/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">brucelawson.co.uk/2023/the-nti</span><span class=\"invisible\">a-report-on-mobile-app-ecosystems/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://bell.bz/@andy",
-        "display_name": "Andy Bell"
-      },
-      {
-        "url": "https://toot.cafe/@oliverturner",
-        "display_name": "Oliver"
-      }
-    ]
-  },
-  {
-    "link": "https://www.iea-world.org/event/the-dismal-economic-consequences-of-government-control-of-the-judiciary/",
-    "title": "iea-world.org/event/the-dismal...",
-    "latest": "2023-02-02T16:27:56+00:00",
-    "first": "2023-02-02T14:39:27+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@drodrik/109795656850706729",
-      "content": "<p>The IEA is co-organizing with the Israel Economic Association a discussion on The Economic Consequences of Government Control of the Judiciary: Lessons from Hungary, Poland, Russia, and Turkey on Feb. 7 <a href=\"https://www.iea-world.org/event/the-dismal-economic-consequences-of-government-control-of-the-judiciary/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">iea-world.org/event/the-dismal</span><span class=\"invisible\">-economic-consequences-of-government-control-of-the-judiciary/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@drodrik",
-        "display_name": "Dani Rodrik"
-      },
-      {
-        "url": "https://mastodon.social/@henryfarrell",
-        "display_name": "Henry Farrell"
-      }
-    ]
-  },
-  {
-    "link": "https://codeforamerica.org/jobs/posting/?gh_jid=4831974",
-    "title": "Code for America",
-    "latest": "2023-02-02T15:13:12.633000+00:00",
-    "first": "2023-02-02T14:06:21+00:00",
-    "last_post": {
-      "url": "https://mastodon.publicinterest.town/@luigi/109795705852769435",
-      "content": "<p>Be my boss!</p><p><a href=\"https://codeforamerica.org/jobs/posting/?gh_jid=4831974\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeforamerica.org/jobs/postin</span><span class=\"invisible\">g/?gh_jid=4831974</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://hachyderm.io/@allafarce",
-        "display_name": "Dave Guarino"
-      }
-    ]
-  },
-  {
-    "link": "https://www.iea-world.org/Featured%20Economist/belinda-archibong/",
-    "title": "iea-world.org/Featured%20Econo...",
-    "latest": "2023-02-02T12:48:08+00:00",
-    "first": "2023-02-02T13:56:54+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@drodrik/109795219080625858",
-      "content": "<p>The IEA's featured economist for February is Belinda Archibong. Read about how she became an economist, her interest in history, and her advice to younger economists <a href=\"https://www.iea-world.org/Featured%20Economist/belinda-archibong/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">iea-world.org/Featured%20Econo</span><span class=\"invisible\">mist/belinda-archibong/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@ckrafftc",
-        "display_name": "Caroline Krafft"
-      },
-      {
-        "url": "https://econtwitter.net/@drodrik",
-        "display_name": "Dani Rodrik"
-      }
-    ]
-  },
-  {
-    "link": "https://openbiblio.social/@datacite/109703683175716104",
-    "title": "DataCite (@datacite@openbiblio.social)",
-    "latest": "2023-02-02T16:55:25+00:00",
-    "first": "2023-02-02T12:34:50+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@cameronneylon/109795117498985702",
-      "content": "<p>Looking forward to being part of this webinar talking about the new Wellcome Trust and CZI funded initiative from <span class=\"h-card\"><a href=\"https://openbiblio.social/@datacite\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>datacite</span></a></span> to build an Open Global Data Citation Corpus </p><p><a href=\"https://openbiblio.social/@datacite/109703683175716104\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">openbiblio.social/@datacite/10</span><span class=\"invisible\">9703683175716104</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.cwts.nl/@LudoWaltman",
-        "display_name": "Ludo Waltman"
-      },
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
-      }
-    ]
-  },
-  {
-    "link": "http://www.bay12forums.com/smf/index.php?topic=181354.0",
-    "title": "The Bay 12 Games Report, February 1st 2023",
-    "latest": "2023-02-02T15:57:18+00:00",
-    "first": "2023-02-02T12:55:44+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@TradingPlacesResearch/109795962965690119",
-      "content": "<p>Dwarf Fortress 1.0 was finally released on Steam in December after 30 years of beta development, with the brothers who build it surviving on donations.</p><p>They went from $16k of donations in December to $7.2 million in January revenue from Steam.</p><p>Just, wow.</p><p><a href=\"http://www.bay12forums.com/smf/index.php?topic=181354.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">bay12forums.com/smf/index.php?</span><span class=\"invisible\">topic=181354.0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      },
-      {
-        "url": "https://econtwitter.net/@TradingPlacesResearch",
-        "display_name": "Trading Places Research"
       }
     ]
   },
@@ -684,6 +540,46 @@
     ]
   },
   {
+    "link": "https://python-textbook.pythonhumanities.com/intro.html",
+    "title": "INTRODUCTION TO PYTHON FOR HUMANISTS \u2014 Introduction to Python for Humanists",
+    "latest": "2023-02-03T13:01:41+00:00",
+    "first": "2023-02-03T03:56:04+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@epyllia/109798765066220871",
+      "content": "<p>I am loving this super well-written Intro to Python for Humanists by W. J. B. Mattingly--it's wonderfully accessible to students just starting out and exploring NLP, and it's timely and wide-ranging in its examples: combining word embeddings via spaCy and gensim with topic modeling via nltk--and best of all it's really for hunanist approaches to word salads. Super happy with Mattingly's stuff. :-) <a href=\"https://python-textbook.pythonhumanities.com/intro.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">python-textbook.pythonhumaniti</span><span class=\"invisible\">es.com/intro.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@quinnanya",
+        "display_name": "Quinn Dombrowski"
+      },
+      {
+        "url": "https://mastodon.world/@rmidura",
+        "display_name": "rmidura"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/11ty/eleventy-plugin-bundle",
+    "title": "GitHub - 11ty/eleventy-plugin-bundle: Little bundles of code, little bundles of joy.",
+    "latest": "2023-02-03T13:21:08+00:00",
+    "first": "2023-02-03T08:24:56+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@eleventy/109797744983088464",
+      "content": "<p>New plugin release: @11ty/eleventy-plugin-bundle</p><p><a href=\"https://github.com/11ty/eleventy-plugin-bundle\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy-plugi</span><span class=\"invisible\">n-bundle</span></a></p><p>Create minimal per-page or app-level bundles of CSS, JavaScript, or HTML to be included in your Eleventy project.</p><p>Makes it easy to implement Critical CSS, in-use-only JS bundles, SVG icon libraries, or secondary HTML content to load via XHR.</p><p>This brings some of the WebC Bundler Mode features to other template types: Nunjucks, Liquid, Handlebars, and 11ty.js\u2014and we\u2019ll circle back to use this in WebC moving forward!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@dahukanna",
+        "display_name": "Dawn Ahukanna"
+      },
+      {
+        "url": "https://front-end.social/@saneef",
+        "display_name": "Saneef H. Ansari"
+      }
+    ]
+  },
+  {
     "link": "https://psyarxiv.com/af9by/",
     "title": "https://psyarxiv.com/af9by/",
     "latest": "2023-02-03T06:22:30+00:00",
@@ -724,6 +620,46 @@
     ]
   },
   {
+    "link": "https://arstechnica.com/gaming/2023/02/after-16-years-of-freeware-dwarf-fortress-creators-get-their-7m-payday/?utm_brand=arstechnica",
+    "title": "After 16 years of freeware, Dwarf Fortress creators get their $7M payday",
+    "latest": "2023-02-03T15:07:10+00:00",
+    "first": "2023-02-03T07:24:27+00:00",
+    "last_post": {
+      "url": "https://geeknews.chat/@arstechnica/109798416010738302",
+      "content": "<p>After 16 years of freeware, Dwarf Fortress creators get their $7M payday <a href=\"https://arstechnica.com/gaming/2023/02/after-16-years-of-freeware-dwarf-fortress-creators-get-their-7m-payday/?utm_brand=arstechnica\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">arstechnica.com/gaming/2023/02</span><span class=\"invisible\">/after-16-years-of-freeware-dwarf-fortress-creators-get-their-7m-payday/?utm_brand=arstechnica</span></a></p><p><a href=\"https://geeknews.chat/tags/bot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bot</span></a><br>Original tweet : <a href=\"https://nitter.privacydev.net/arstechnica/status/1621256775260405762\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nitter.privacydev.net/arstechn</span><span class=\"invisible\">ica/status/1621256775260405762</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@thegrugq",
+        "display_name": "the grugq"
+      },
+      {
+        "url": "https://mastodon.social/@Popehat",
+        "display_name": "Ken White"
+      }
+    ]
+  },
+  {
+    "link": "https://nitter.privacydev.net/arstechnica/status/1621256775260405762",
+    "title": "nitter.privacydev.net/arstechn...",
+    "latest": "2023-02-03T15:07:10+00:00",
+    "first": "2023-02-03T07:24:27+00:00",
+    "last_post": {
+      "url": "https://geeknews.chat/@arstechnica/109798416010738302",
+      "content": "<p>After 16 years of freeware, Dwarf Fortress creators get their $7M payday <a href=\"https://arstechnica.com/gaming/2023/02/after-16-years-of-freeware-dwarf-fortress-creators-get-their-7m-payday/?utm_brand=arstechnica\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">arstechnica.com/gaming/2023/02</span><span class=\"invisible\">/after-16-years-of-freeware-dwarf-fortress-creators-get-their-7m-payday/?utm_brand=arstechnica</span></a></p><p><a href=\"https://geeknews.chat/tags/bot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bot</span></a><br>Original tweet : <a href=\"https://nitter.privacydev.net/arstechnica/status/1621256775260405762\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nitter.privacydev.net/arstechn</span><span class=\"invisible\">ica/status/1621256775260405762</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@thegrugq",
+        "display_name": "the grugq"
+      },
+      {
+        "url": "https://mastodon.social/@Popehat",
+        "display_name": "Ken White"
+      }
+    ]
+  },
+  {
     "link": "https://www.theguardian.com/science/2023/feb/03/blobs-of-human-brain-planted-in-rats-offer-new-treatment-hope",
     "title": "Blobs of human brain planted in rats offer new treatment hope",
     "latest": "2023-02-03T10:48:44+00:00",
@@ -740,6 +676,66 @@
       {
         "url": "https://mstdn.social/@r3rt0",
         "display_name": "Roberto Toro"
+      }
+    ]
+  },
+  {
+    "link": "https://www.tidyverse.org/blog/2023/02/dplyr-1-1-0-vctrs/",
+    "title": "dplyr 1.1.0: The power of vctrs",
+    "latest": "2023-02-03T14:00:08+00:00",
+    "first": "2023-02-03T11:44:04+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@davis/109798042239852879",
+      "content": "<p>Post 3/4 for dplyr 1.1.0 is out! <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> \ud83c\udf89</p><p>Today, we'll look at how the vctrs \ud83d\udce6 has upgraded dplyr's vector functions, like `case_when()` and `between()`.</p><p>We'll also look at two powerful new helpers: `case_match()` and `consecutive_id()`!</p><p><a href=\"https://www.tidyverse.org/blog/2023/02/dplyr-1-1-0-vctrs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tidyverse.org/blog/2023/02/dpl</span><span class=\"invisible\">yr-1-1-0-vctrs/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@paezha",
+        "display_name": "Antonio P\u00e1ez"
+      },
+      {
+        "url": "https://fosstodon.org/@hadleywickham",
+        "display_name": "Hadley Wickham"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/elk-zone/elk/releases/tag/v0.7.0",
+    "title": "Release v0.7.0 \u00b7 elk-zone/elk",
+    "latest": "2023-02-03T13:10:28+00:00",
+    "first": "2023-02-03T14:44:48+00:00",
+    "last_post": {
+      "url": "https://m.webtoo.ls/@elk/109800909979656447",
+      "content": "<p>Elk v0.7.0 is out! \ud83e\udde1</p><p>Now with lists support \u2728</p><p>We dedicate this release to the 130+ folks that have contributed to Elk so far! If you'd like to get a feature sooner, a bug solved, or are interested in improving your OSS and dev skills, get involved and help us improve our Mastodon experience!</p><p><a href=\"https://github.com/elk-zone/elk/releases/tag/v0.7.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/releas</span><span class=\"invisible\">es/tag/v0.7.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@kelset",
+        "display_name": "Lorenzo \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nytimes.com/2023/02/03/health/apple-watch-911-emergency-call.html",
+    "title": "Why Apple Watches Keep Calling 911",
+    "latest": "2023-02-03T13:11:55+00:00",
+    "first": "2023-02-03T14:24:13+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@kashhill/109800897956166106",
+      "content": "<p>Apple\u2019s new algorithm to detect whether someone has been in a car accident is wreaking havoc for 911 call centers  this ski season. Yet another example of a good idea from a technology company in theory that has problems in practice. <a href=\"https://www.nytimes.com/2023/02/03/health/apple-watch-911-emergency-call.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2023/02/03/health/</span><span class=\"invisible\">apple-watch-911-emergency-call.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@jhilden",
+        "display_name": "Jonatan Hild\u00e9n"
+      },
+      {
+        "url": "https://mastodon.social/@jonkeegan",
+        "display_name": "Jon Keegan"
       }
     ]
   }
