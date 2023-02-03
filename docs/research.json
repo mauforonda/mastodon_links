@@ -1,5 +1,121 @@
 [
   {
+    "link": "https://arxiv.org/abs/2212.12672",
+    "title": "Real or Fake Text?: Investigating Human Ability to Detect Boundaries Between Human-Written and Machine-Generated Text",
+    "latest": "2023-02-02T22:36:12+00:00",
+    "first": "2023-02-02T22:36:12+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109797531460844098",
+      "content": "<p>RT @LiamDugan_@twitter.com</p><p>\u2728New Paper\u2728: Can human readers detect generated text from language models like <a href=\"https://sigmoid.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a>? </p><p>Turns out some can \u2705 and some can't \u26d4 (but people improve significantly with practice!)</p><p>We release RoFT, the largest dataset of human detection to date</p><p><a href=\"https://arxiv.org/abs/2212.12672\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.12672</span><span class=\"invisible\"></span></a></p><p>\ud83e\uddf5 1/</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/LiamDugan_/status/1621188187300458497\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/LiamDugan_/status/</span><span class=\"invisible\">1621188187300458497</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.00093",
+    "title": "Large Language Models Can Be Easily Distracted by Irrelevant Context",
+    "latest": "2023-02-02T22:25:18+00:00",
+    "first": "2023-02-02T01:48:04+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109792623602660767",
+      "content": "<p>Large Language Models Can Be Easily Distracted by Irrelevant Context</p><p><a href=\"https://arxiv.org/abs/2302.00093\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00093</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@nsaphra",
+        "display_name": "Naomi Saphra"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2204.14146",
+    "title": "Training Language Models with Language Feedback",
+    "latest": "2023-02-02T22:14:39+00:00",
+    "first": "2023-02-02T22:14:39+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109797446771477904",
+      "content": "<p>Training Language Models with Language Feedback</p><p>Proposes to learn from natural language feedback, which conveys more information per human evaluation.</p><p><a href=\"https://arxiv.org/abs/2204.14146\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2204.14146</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2206.05802",
+    "title": "Self-critiquing models for assisting human evaluators",
+    "latest": "2023-02-02T22:14:36+00:00",
+    "first": "2023-02-02T22:14:36+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109797446573943077",
+      "content": "<p>Self-critiquing models for assisting human evaluators</p><p>Finetunes LLMs to write natural language critiques using behavioral cloning</p><p>A proof of concept for using AI-assisted human feedback to scale the supervision of ML systems.</p><p><a href=\"https://arxiv.org/abs/2206.05802\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2206.05802</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2202.01344",
+    "title": "Formal Mathematics Statement Curriculum Learning",
+    "latest": "2023-02-02T22:14:34+00:00",
+    "first": "2023-02-02T22:14:34+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109797446427645647",
+      "content": "<p>Formal Mathematics Statement Curriculum Learning</p><p>Achieves SotA on the miniF2F benchmark with expert iteration, automatically solving multiple challenging problems drawn from high school olympiads.</p><p><a href=\"https://arxiv.org/abs/2202.01344\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2202.01344</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2212.12017",
+    "title": "OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization",
+    "latest": "2023-02-02T22:14:31+00:00",
+    "first": "2023-02-02T22:14:31+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109797446193645583",
+      "content": "<p>RT @sriniiyer88@twitter.com</p><p>Exciting updates on OPT-IML (<a href=\"https://arxiv.org/abs/2212.12017\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.12017</span><span class=\"invisible\"></span></a>)!</p><p>1. The 175B models are now available to request for research purposes. Request here: (<a href=\"https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/me</span><span class=\"invisible\">taseq/tree/main/projects/OPT-IML</span></a>).<br>2. OPT-IML 30B and 1.3B models are now available on huggingface (<a href=\"https://huggingface.co/facebook/opt-iml-30b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/facebook/opt-im</span><span class=\"invisible\">l-30b</span></a>)!</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/sriniiyer88/status/1621207942304509952\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/sriniiyer88/status</span><span class=\"invisible\">/1621207942304509952</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2112.00183",
+    "title": "Descriptive vs. inferential community detection in networks: pitfalls, myths, and half-truths",
+    "latest": "2023-02-02T22:08:43+00:00",
+    "first": "2023-02-02T22:08:43+00:00",
+    "last_post": {
+      "url": "https://social.skewed.de/@tiago/107405344003726323",
+      "content": "<p>New blog post!</p><p>\"No free lunch in community detection?\"</p><p>NFL theorems are tricky to interpret, and are often misunderstood.</p><p>No, it does not mean that all community detection algorithms are equally good. 1/9</p><p>(Based on <a href=\"https://arxiv.org/abs/2112.00183\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2112.00183</span><span class=\"invisible\"></span></a>)</p><p><a href=\"https://skewed.de/tiago/blog/free-lunch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">skewed.de/tiago/blog/free-lunc</span><span class=\"invisible\">h</span></a></p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.skewed.de/@tiago",
+        "display_name": "Tiago Peixoto"
+      }
+    ]
+  },
+  {
     "link": "https://doi.org/10.1016/j.ehb.2022.101216",
     "title": "doi.org/10.1016/j.ehb.2022.101...",
     "latest": "2023-02-02T20:55:02+00:00",
@@ -304,22 +420,6 @@
       {
         "url": "https://genomic.social/@DunhamLab",
         "display_name": "Maitreya Dunham"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.00093",
-    "title": "Large Language Models Can Be Easily Distracted by Irrelevant Context",
-    "latest": "2023-02-02T01:48:04+00:00",
-    "first": "2023-02-02T01:48:04+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109792623602660767",
-      "content": "<p>Large Language Models Can Be Easily Distracted by Irrelevant Context</p><p><a href=\"https://arxiv.org/abs/2302.00093\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00093</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
       }
     ]
   },
@@ -3268,102 +3368,6 @@
       {
         "url": "https://fediscience.org/@ZLabe",
         "display_name": "Zack Labe"
-      }
-    ]
-  },
-  {
-    "link": "http://arxiv.org/",
-    "title": "http://arXiv.org",
-    "latest": "2023-01-23T21:58:39+00:00",
-    "first": "2023-01-23T21:58:39+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@oatp/109739899067487973",
-      "content": "<p>Access is not the same as accessibility: A framework for making research papers truly open \u2013 <a href=\"http://arXiv.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arXiv.org</span><span class=\"invisible\"></span></a> blog <a href=\"https://ift.tt/BGYLmtI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ift.tt/BGYLmtI</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@dginev",
-        "display_name": "Deyan Ginev"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2212.14052",
-    "title": "Hungry Hungry Hippos: Towards Language Modeling with State Space Models",
-    "latest": "2023-01-23T21:13:39+00:00",
-    "first": "2023-01-23T21:13:39+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109740583803744798",
-      "content": "<p>RT @realDanFu@twitter.com</p><p>Attention is all you need... but how much of it do you need?</p><p>Announcing H3 - a new generative language models that outperforms GPT-Neo-2.7B with only *2* attention layers! Accepted as a *spotlight* at <a href=\"https://sigmoid.social/tags/ICLR2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ICLR2023</span></a>! \ud83d\udce3 w/ @tri_dao@twitter.com </p><p>\ud83d\udcdc <a href=\"https://arxiv.org/abs/2212.14052\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.14052</span><span class=\"invisible\"></span></a> 1/n</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/realDanFu/status/1617605971395891201\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/realDanFu/status/1</span><span class=\"invisible\">617605971395891201</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-023-00179-x",
-    "title": "Why I\u2019m a garbage collector for the world\u2019s oceans",
-    "latest": "2023-01-23T21:07:43+00:00",
-    "first": "2023-01-23T21:07:43+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@sgundogdu/109740352803445243",
-      "content": "<p>%90 reduction of ocean plastic pollution without reduction in plastic production. Wov, I'm impressed! <br> <a href=\"https://www.nature.com/articles/d41586-023-00179-x\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00179-x</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@zsteinmetz",
-        "display_name": "Zacharias Steinmetz"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1371/journal.pone.0278468",
-    "title": "doi.org/10.1371/journal.pone.0...",
-    "latest": "2023-01-23T20:42:34+00:00",
-    "first": "2023-01-23T20:42:34+00:00",
-    "last_post": {
-      "url": "https://datasci.social/@UrbanDemog/109740461533399482",
-      "content": "<p>RT @soukhov_a<br>Gravity-based <a href=\"https://datasci.social/tags/accessibility\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>accessibility</span></a> measures... still interested in the differences between types of \"unconstrained\" vs. competitive measures? Potential uses for <a href=\"https://datasci.social/tags/equity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>equity</span></a> planning? Check out our (@paezha, @higgicd, @Moataz_MMohamed) recently published paper!<br>\ud83d\udd78\ufe0f: <a href=\"https://doi.org/10.1371/journal.pone.0278468\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1371/journal.pone.0</span><span class=\"invisible\">278468</span></a> <a href=\"https://twitter.com/soukhov_a/status/1563247922673635328\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/soukhov_a/status/1</span><span class=\"invisible\">563247922673635328</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@UrbanDemog",
-        "display_name": "Rafael H M Pereira"
-      }
-    ]
-  },
-  {
-    "link": "https://journals.sagepub.com/doi/full/10.1177/14614448221151051",
-    "title": "journals.sagepub.com/doi/full/...",
-    "latest": "2023-01-23T20:39:37+00:00",
-    "first": "2023-01-23T20:39:37+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@barbara_hof/109740189534229893",
-      "content": "<p>Here's my review of <span class=\"h-card\"><a href=\"https://mastodon.wellperns.com/@driscoll\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>driscoll</span></a></span>`s THE MODEM WORLD - the book explores little-known aspects from the (pre)history of social media, c. 1978-1995. The book's call to imagine a post-commercial online world hits the nerve of our time!</p><p>Can't recommend this book enough (go buy &amp; read it)! I especially hope that the book will encourage scholars outside the US to explore the history of their local BBSs (that's still a niche).</p><p><a href=\"https://journals.sagepub.com/doi/full/10.1177/14614448221151051\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.sagepub.com/doi/full/</span><span class=\"invisible\">10.1177/14614448221151051</span></a></p><p><a href=\"https://mastodon.online/tags/technologyandsociety\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>technologyandsociety</span></a> <a href=\"https://mastodon.online/tags/history\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>history</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://chaos.social/@lukasfx",
-        "display_name": "Lukas Fuchsgruber"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1371/journal.pntd.0010772",
-    "title": "doi.org/10.1371/journal.pntd.0...",
-    "latest": "2023-01-23T20:06:21+00:00",
-    "first": "2023-01-23T20:06:21+00:00",
-    "last_post": {
-      "url": "https://ecoevo.social/@davidsimons/109740103417646105",
-      "content": "<p>Excited that this has now been published <a href=\"https://ecoevo.social/tags/PLOSNTD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PLOSNTD</span></a>. </p><p><a href=\"https://doi.org/10.1371/journal.pntd.0010772\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1371/journal.pntd.0</span><span class=\"invisible\">010772</span></a></p><p>Several years of work to understand how rodent sampling for microorganisms including zoonoses is spatially and taxonomically biased in West Africa and what it may mean for inference of the risk of zoonotic spillover.</p><p>We extracted data from 127 studies to produce an open database and described the reported host-pathogen associations. Old \ud83d\udc26 thread. </p><p><a href=\"https://twitter.com/David_Simons_UK/status/1565619856485015553\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/David_Simons_UK/st</span><span class=\"invisible\">atus/1565619856485015553</span></a></p><p><a href=\"https://ecoevo.social/tags/Ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ecology</span></a> <a href=\"https://ecoevo.social/tags/DiseaseEcology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DiseaseEcology</span></a> <a href=\"https://ecoevo.social/tags/Rodents\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rodents</span></a> <a href=\"https://ecoevo.social/tags/Zoonoses\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Zoonoses</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@salonium",
-        "display_name": "Saloni \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
       }
     ]
   }

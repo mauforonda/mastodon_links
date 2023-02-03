@@ -1,5 +1,89 @@
 [
   {
+    "link": "https://github.com/halcy/Mastodon.py",
+    "title": "https://github.com/halcy/Mastodon.py",
+    "latest": "2023-02-02T23:23:21+00:00",
+    "first": "2023-01-14T19:23:54+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hugovk/109797716880193091",
+      "content": "<p>git commit -m \"Replace Twitter with Mastodon\"</p><p>Upgraded my second bot, the first non-Tracery, to use Mastodon.py. Very easy! Will stick it on a server tomorrow or the weekend!</p><p><a href=\"https://github.com/halcy/Mastodon.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/halcy/Mastodon.py</span><span class=\"invisible\"></span></a></p><p>Following <span class=\"h-card\"><a href=\"https://friend.camp/@aparrish\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>aparrish</span></a></span>'s<br><a href=\"https://gist.github.com/aparrish/661fca5ce7b4882a8c6823db12d42d26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/aparrish/661fc</span><span class=\"invisible\">a5ce7b4882a8c6823db12d42d26</span></a> (but with api_base_url and not base_url in the last bit)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      },
+      {
+        "url": "https://mastodon.social/@hugovk",
+        "display_name": "hugovk"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/aparrish/661fca5ce7b4882a8c6823db12d42d26",
+    "title": "gist.github.com/aparrish/661fc...",
+    "latest": "2023-02-02T23:23:21+00:00",
+    "first": "2023-02-02T23:23:21+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hugovk/109797716880193091",
+      "content": "<p>git commit -m \"Replace Twitter with Mastodon\"</p><p>Upgraded my second bot, the first non-Tracery, to use Mastodon.py. Very easy! Will stick it on a server tomorrow or the weekend!</p><p><a href=\"https://github.com/halcy/Mastodon.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/halcy/Mastodon.py</span><span class=\"invisible\"></span></a></p><p>Following <span class=\"h-card\"><a href=\"https://friend.camp/@aparrish\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>aparrish</span></a></span>'s<br><a href=\"https://gist.github.com/aparrish/661fca5ce7b4882a8c6823db12d42d26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/aparrish/661fc</span><span class=\"invisible\">a5ce7b4882a8c6823db12d42d26</span></a> (but with api_base_url and not base_url in the last bit)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hugovk",
+        "display_name": "hugovk"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML",
+    "title": "github.com/facebookresearch/me...",
+    "latest": "2023-02-02T22:14:31+00:00",
+    "first": "2023-02-02T22:14:31+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109797446193645583",
+      "content": "<p>RT @sriniiyer88@twitter.com</p><p>Exciting updates on OPT-IML (<a href=\"https://arxiv.org/abs/2212.12017\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.12017</span><span class=\"invisible\"></span></a>)!</p><p>1. The 175B models are now available to request for research purposes. Request here: (<a href=\"https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/me</span><span class=\"invisible\">taseq/tree/main/projects/OPT-IML</span></a>).<br>2. OPT-IML 30B and 1.3B models are now available on huggingface (<a href=\"https://huggingface.co/facebook/opt-iml-30b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/facebook/opt-im</span><span class=\"invisible\">l-30b</span></a>)!</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/sriniiyer88/status/1621207942304509952\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/sriniiyer88/status</span><span class=\"invisible\">/1621207942304509952</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/curatedmess/TidyTuesday/blob/main/2023/01312023/cats.R\u2026",
+    "title": "github.com/curatedmess/TidyTue...",
+    "latest": "2023-02-02T21:47:46+00:00",
+    "first": "2023-02-02T21:47:46+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@ryanahart/109797341023156214",
+      "content": "<p><a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> | Week 5 | Pets Cats UK </p><p>Calculated the distance between the farthest two points from the cat-tracking GPS sensor data for each cat and plotted a distribution of sorts. They don't really go very far.</p><p>code: <a href=\"https://github.com/curatedmess/TidyTuesday/blob/main/2023/01312023/cats.R\u2026\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/curatedmess/TidyTue</span><span class=\"invisible\">sday/blob/main/2023/01312023/cats.R\u2026</span></a></p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@ryanahart",
+        "display_name": "Ryan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/fathyb/carbonyl",
+    "title": "GitHub - fathyb/carbonyl: Chromium running inside your terminal",
+    "latest": "2023-02-02T21:11:01+00:00",
+    "first": "2023-02-02T21:11:01+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@metasj/109797196541696816",
+      "content": "<p>Carbonyl: glorious. <a href=\"https://github.com/fathyb/carbonyl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/fathyb/carbonyl</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mathstodon.xyz/@metasj",
+        "display_name": "SJ (meta)"
+      }
+    ]
+  },
+  {
     "link": "https://observablehq.com/@forresto/flipbook",
     "title": "Flipbook",
     "latest": "2023-02-02T19:21:33+00:00",
@@ -3324,86 +3408,6 @@
       {
         "url": "https://m.webtoo.ls/@patak",
         "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Treeki/BirdBridge",
-    "title": "GitHub - Treeki/BirdBridge: shoving a twitter API-shaped peg into a mastodon API-shaped hole",
-    "latest": "2023-01-24T18:48:10+00:00",
-    "first": "2023-01-24T18:48:10+00:00",
-    "last_post": {
-      "url": "https://vulpine.club/@Ninji/109741771560132177",
-      "content": "<p>For anyone curious, I've now put the source code for my Twitter bridge on GitHub: <a href=\"https://github.com/Treeki/BirdBridge\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Treeki/BirdBridge</span><span class=\"invisible\"></span></a></p><p>I didn't get posting working yet because I spent too much time on other things - first on staring at disassembled code from Ivory to see how it was loading timelines, and then on delving through the different official Twitter clients to see how they make requests for different things.</p><p>It's getting there, though \ud83d\udc40</p>"
-    },
-    "people": [
-      {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/facebook/react-native/issues/35936",
-    "title": "[Investigation] ANRs Using Multiline TextInput on Samsung Devices \u00b7 Issue #35936 \u00b7 facebook/react-native",
-    "latest": "2023-01-24T18:43:28+00:00",
-    "first": "2023-01-24T18:43:28+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@kelset/109745655562513774",
-      "content": "<p>PSA: for those of you using <a href=\"https://mastodon.online/tags/reactnative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reactnative</span></a> \u269b\ufe0f affected by the issue about the Samsung Keyboard + Android 13 + Grammarly issue, @nick_gerleman and @cortinico have been \u26cf\ufe0f deep into it and there's a new update: <a href=\"https://github.com/facebook/react-native/issues/35936\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebook/react-nati</span><span class=\"invisible\">ve/issues/35936</span></a></p><p>(plottwist: it happens on stock <a href=\"https://mastodon.online/tags/Android\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Android</span></a> too \ud83e\udd26\u200d\u2642\ufe0f)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@kelset",
-        "display_name": "Lorenzo \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/scikit-learn/sklearn-pypi-package",
-    "title": "GitHub - scikit-learn/sklearn-pypi-package",
-    "latest": "2023-01-24T16:51:25+00:00",
-    "first": "2023-01-24T16:51:25+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hugovk/109745214945579894",
-      "content": "<p>Interesting approach from the <span class=\"h-card\"><a href=\"https://fosstodon.org/@sklearn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sklearn</span></a></span> project:</p><p>You can install via \"pip install scikit-learn\", but they have an old \"sklearn\" package on PyPI that they want to deprecate, so they released sklearn with a brownout schedule, where it will fail to install between certain times.</p><p>And the time windows for failures will increase.</p><p>Did you see a failure? Replace \"sklearn\" with \"scikit-learn\" in your dependencies.</p><p>More info: <a href=\"https://github.com/scikit-learn/sklearn-pypi-package\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scikit-learn/sklear</span><span class=\"invisible\">n-pypi-package</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/scikitlearn\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scikitlearn</span></a> <a href=\"https://mastodon.social/tags/sklearn\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sklearn</span></a> <a href=\"https://mastodon.social/tags/deprecation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deprecation</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hugovk",
-        "display_name": "hugovk"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/pytorch/pytorch/commit/0fe5367058a1d67134aee510ed81691cf9e61e33",
-    "title": "[Vulkan] implement abs (#87414) \u00b7 pytorch/pytorch@0fe5367",
-    "latest": "2023-01-24T15:43:48+00:00",
-    "first": "2023-01-24T15:43:48+00:00",
-    "last_post": {
-      "url": "https://social.librem.one/@vincent/109744949041673892",
-      "content": "<p>Got my first commit into PyTorch! \ud83c\udf8a <a href=\"https://github.com/pytorch/pytorch/commit/0fe5367058a1d67134aee510ed81691cf9e61e33\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pytorch/pytorch/com</span><span class=\"invisible\">mit/0fe5367058a1d67134aee510ed81691cf9e61e33</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.librem.one/@vincent",
-        "display_name": "Vincent Cloutier"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/seanbaxter/circle/blob/master/new-circle/README.md",
-    "title": "circle/README.md at master \u00b7 seanbaxter/circle",
-    "latest": "2023-01-24T15:21:18+00:00",
-    "first": "2023-01-24T15:21:18+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@Migueldeicaza/109744860581145167",
-      "content": "<p>Sean Baxter not only wrote his own C++ compiler, but he authored this magnificent vision paper for the future of C++ that it moved me to reconsider my views on the safety of the language and its use future projects.</p><p>Seldom a man of my age and opinions can change his mind over something so fundamental. </p><p>Enjoy: <a href=\"https://github.com/seanbaxter/circle/blob/master/new-circle/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/seanbaxter/circle/b</span><span class=\"invisible\">lob/master/new-circle/README.md</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Migueldeicaza",
-        "display_name": "Miguel de Icaza"
       }
     ]
   }
