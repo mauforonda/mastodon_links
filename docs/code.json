@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/mdn/content/pull/23907",
+    "title": "github.com/mdn/content/pull/23...",
+    "latest": "2023-02-04T07:10:25+00:00",
+    "first": "2023-02-04T07:10:25+00:00",
+    "last_post": {
+      "url": "https://mas.to/@patrickbrosset/109802808493633537",
+      "content": "<p>Do you wish you could style arbitrary text ranges on the web without having to change the underlying DOM?</p><p>Well, with the CSS Custom Highlight API, you can! \ud83c\udf1f</p><p>check my article about it to learn more:  <br><a href=\"https://css-tricks.com/css-custom-highlight-api-early-look/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">css-tricks.com/css-custom-high</span><span class=\"invisible\">light-api-early-look/</span></a></p><p>I\u2019m also writing MDN docs for it. Coming soon\u2026<br><a href=\"https://github.com/mdn/content/pull/23907\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mdn/content/pull/23</span><span class=\"invisible\">907</span></a></p><p>Available in Chromium and Webkit (behind a flag).</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@aboutgeo",
+        "display_name": "Rainer Simon"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cloudfoundry/diego-release",
+    "title": "GitHub - cloudfoundry/diego-release: BOSH Release for Diego",
+    "latest": "2023-02-04T06:34:13.423000+00:00",
+    "first": "2023-02-04T06:34:13.423000+00:00",
+    "last_post": {
+      "url": "https://ruby.social/@nat/109796779510503041",
+      "content": "<p><span class=\"h-card\"><a href=\"https://infosec.exchange/@tqbf\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tqbf</span></a></span> If you haven't taken a look at Diego you might find it interesting as an example of a pretty production-hardened orchestrator that also makes very different choices from k8s. </p><p><a href=\"https://github.com/cloudfoundry/diego-release\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudfoundry/diego-</span><span class=\"invisible\">release</span></a><br><a href=\"https://github.com/cloudfoundry/diego-design-notes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudfoundry/diego-</span><span class=\"invisible\">design-notes</span></a></p><p>(The notes are out of date but the fundamentals haven't changed *that* much since that period. IIRC the big thing that's changed is mostly that more logic got moved into it out of the CF API.)</p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@hazelweakly",
+        "display_name": "Hazel Weakly :verified_trans:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cloudfoundry/diego-design-notes",
+    "title": "github.com/cloudfoundry/diego-...",
+    "latest": "2023-02-04T06:34:13.423000+00:00",
+    "first": "2023-02-04T06:34:13.423000+00:00",
+    "last_post": {
+      "url": "https://ruby.social/@nat/109796779510503041",
+      "content": "<p><span class=\"h-card\"><a href=\"https://infosec.exchange/@tqbf\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tqbf</span></a></span> If you haven't taken a look at Diego you might find it interesting as an example of a pretty production-hardened orchestrator that also makes very different choices from k8s. </p><p><a href=\"https://github.com/cloudfoundry/diego-release\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudfoundry/diego-</span><span class=\"invisible\">release</span></a><br><a href=\"https://github.com/cloudfoundry/diego-design-notes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudfoundry/diego-</span><span class=\"invisible\">design-notes</span></a></p><p>(The notes are out of date but the fundamentals haven't changed *that* much since that period. IIRC the big thing that's changed is mostly that more logic got moved into it out of the CF API.)</p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@hazelweakly",
+        "display_name": "Hazel Weakly :verified_trans:"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/google/tmppy",
     "title": "GitHub - google/tmppy: TMPPy is a subset of Python that can be compiled to C++ meta-functions using the py2tmp compiler.",
     "latest": "2023-02-04T00:58:18+00:00",
@@ -3368,54 +3416,6 @@
       {
         "url": "https://hci.social/@andresmh",
         "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/logseq/nbb-logseq/blob/main/examples/linked-data/README.md#write-rdf",
-    "title": "nbb-logseq/README.md at main \u00b7 logseq/nbb-logseq",
-    "latest": "2023-01-25T21:52:19+00:00",
-    "first": "2023-01-25T21:52:19+00:00",
-    "last_post": {
-      "url": "https://social.coop/@flancian/109752060462716457",
-      "content": "<p>RT @cldwalker<br>Happy to share @logseq graphs can take part in the <a href=\"https://social.coop/tags/LinkedData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinkedData</span></a> ecosystem.\ud83d\ude04 See <a href=\"https://github.com/logseq/nbb-logseq/blob/main/examples/linked-data/README.md#write-rdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/logseq/nbb-logseq/b</span><span class=\"invisible\">lob/main/examples/linked-data/README.md#write-rdf</span></a> for an example script that converts a subset of a Logseq graph to a <a href=\"https://social.coop/tags/RDF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RDF</span></a> file. The example demonstrates that a portion of Logseq's docs can be translated to rdf</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@flancian",
-        "display_name": "In [[Flancia]] we'll meet"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/NKI-CCB/flexgsea-r/blob/master/bitbucket-pipelines.yml",
-    "title": "flexgsea-r/bitbucket-pipelines.yml at master \u00b7 NKI-CCB/flexgsea-r",
-    "latest": "2023-01-25T19:20:06+00:00",
-    "first": "2023-01-25T19:20:06+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hrbrmstr/109751461888778217",
-      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@smach\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smach</span></a></span> I'm all over the place today due to being out of pocket b/c of the mon/tue storm but this is one i had bookmarked <a href=\"https://github.com/NKI-CCB/flexgsea-r/blob/master/bitbucket-pipelines.yml\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/NKI-CCB/flexgsea-r/</span><span class=\"invisible\">blob/master/bitbucket-pipelines.yml</span></a> and i know i have others. i bookmarked this so i'll get back to it hopefully today.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues/12423",
-    "title": "Support Post Migration \u00b7 Issue #12423 \u00b7 mastodon/mastodon",
-    "latest": "2023-01-25T17:45:58+00:00",
-    "first": "2023-01-25T17:45:58+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jplebreton/109750789981852436",
-      "content": "<p>I realize I've become a broken record about this but given how issues like <a href=\"https://github.com/mastodon/mastodon/issues/12423\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/12423</span></a> have unfolded, some of the core promises of federation have holes in their floors large enough for many new and veteran users to have put a foot through, and fixing that (or hell, even clearly communicating them as limitations!) requires acts of governance that I simply haven't seen and have pretty much given up any hope of seeing.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@Danc",
-        "display_name": "Daniel Cook"
       }
     ]
   }
