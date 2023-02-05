@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/MichelNivard/GPTstudio",
+    "title": "GitHub - MichelNivard/GPTstudio: GPT addins for Rstudio",
+    "latest": "2023-02-05T02:17:10+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@michelnivard/109576716148739581",
+      "content": "<p>Progress on a GPT addin for <a href=\"https://fediscience.org/tags/Rstudio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstudio</span></a> and <a href=\"https://fediscience.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a>. It now does spelling/grammar, adds comments to code, and writes code or text from a prompt. If none of those are precisely what you want, it also has a freeform GPT editor in a shiny app. (used here to translate poetry from French to English but can do code things as well obviously) find the alpha version of the app here: <a href=\"https://github.com/MichelNivard/GPTstudio\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MichelNivard/GPTstu</span><span class=\"invisible\">dio</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@smach",
+        "display_name": "Sharon Machlis"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      }
+    ],
+    "first": "2022-12-25T22:42:47+00:00"
+  },
+  {
     "link": "https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9",
     "title": "Extracting and summarizing text with youtube-dl and GPT-3",
     "latest": "2023-02-05T00:55:20+00:00",
@@ -3420,22 +3440,6 @@
       {
         "url": "https://m.webtoo.ls/@patak",
         "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/gkaramanis/tidytuesday/tree/master/2023/2023-week_04",
-    "title": "tidytuesday/2023/2023-week_04 at master \u00b7 gkaramanis/tidytuesday",
-    "latest": "2023-01-26T14:16:41+00:00",
-    "first": "2023-01-26T14:16:41+00:00",
-    "last_post": {
-      "url": "https://vis.social/@georgios/109755931119148472",
-      "content": "<p>For this week's <a href=\"https://vis.social/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> I made a waffle chart highlighting the most popular items brought by \"Alone\" participants by season.</p><p>code: <a href=\"https://github.com/gkaramanis/tidytuesday/tree/master/2023/2023-week_04\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gkaramanis/tidytues</span><span class=\"invisible\">day/tree/master/2023/2023-week_04</span></a></p><p><a href=\"https://vis.social/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://vis.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@georgios",
-        "display_name": "Georgios Karamanis"
       }
     ]
   }
