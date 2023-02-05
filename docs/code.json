@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/r-spatial/discuss/issues/56#issuecomment-1416780597",
+    "title": "Remote sensing in R \u00b7 Issue #56 \u00b7 r-spatial/discuss",
+    "latest": "2023-02-05T12:24:37+00:00",
+    "first": "2023-02-05T12:24:37+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@krzysztof_dyba/109807775572864658",
+      "content": "<p>Interesting and comprehensive comment from Gilberto Camara about the current state of remote sensing in R and the comparison with Python:<br><a href=\"https://github.com/r-spatial/discuss/issues/56#issuecomment-1416780597\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/r-spatial/discuss/i</span><span class=\"invisible\">ssues/56#issuecomment-1416780597</span></a></p><p><a href=\"https://fosstodon.org/tags/rspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatial</span></a> <a href=\"https://fosstodon.org/tags/gischat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gischat</span></a> <a href=\"https://fosstodon.org/tags/remotesensing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>remotesensing</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@paezha",
+        "display_name": "Antonio P\u00e1ez"
+      }
+    ]
+  },
+  {
     "link": "https://codeberg.org/tom79/Fedilab/src/branch/develop/src/fdroid/fastlane/metadata/android/en/changelogs/477.txt",
     "title": "Fedilab",
     "latest": "2023-02-05T11:24:29+00:00",
@@ -3428,22 +3444,6 @@
       {
         "url": "https://mastodon.social/@SebRaschka",
         "display_name": "Sebastian Raschka"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/veekaybee/2cf54ebcbd72aa73bfe482f20866c6ef",
-    "title": "Understanding search and recommendations",
-    "latest": "2023-01-26T17:35:09+00:00",
-    "first": "2023-01-26T17:35:09+00:00",
-    "last_post": {
-      "url": "https://jawns.club/@vicki/109756711519525837",
-      "content": "<p>Continuing my dive into search vs recsys ( <a href=\"https://gist.github.com/veekaybee/2cf54ebcbd72aa73bfe482f20866c6ef\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/veekaybee/2cf5</span><span class=\"invisible\">4ebcbd72aa73bfe482f20866c6ef</span></a>) and came across fighting words, \u201cA recommender system can be viewed as a search ranking system, where the input query is a set of user and contextual information, and the output is a ranked list of items.\u201d <br>\u2029The wide and deep paper says so and you\u2019re going to have to fight the authors if you disagree \ud83d\ude02 <a href=\"https://ar5iv.labs.arxiv.org/html/1606.07792\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ar5iv.labs.arxiv.org/html/1606</span><span class=\"invisible\">.07792</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://jawns.club/@vicki",
-        "display_name": "Vicki Boykis"
       }
     ]
   }

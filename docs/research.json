@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://www.nature.com/articles/s41587-022-01618-2",
+    "title": "Large language models generate functional protein sequences across diverse families - Nature Biotechnology",
+    "latest": "2023-02-05T14:37:07+00:00",
+    "first": "2023-02-05T14:37:07+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@SebRaschka/109812634552436474",
+      "content": "<p>Tired: train a large language model (LLM) to generate text in human languages</p><p>Wired: train an LLM to generate proteins sequences, the language of life</p><p>In this recent paper, researchers trained a decoder-style LLM to generate functional proteins: <a href=\"https://www.nature.com/articles/s41587-022-01618-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41587-022</span><span class=\"invisible\">-01618-2</span></a></p><p><a href=\"https://mastodon.social/tags/deeplearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deeplearning</span></a> <a href=\"https://mastodon.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://mastodon.social/tags/gpt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gpt</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@SebRaschka",
+        "display_name": "Sebastian Raschka"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.13188",
+    "title": "Extracting Training Data from Diffusion Models",
+    "latest": "2023-02-05T14:23:45+00:00",
+    "first": "2023-01-31T02:10:33+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/109786002744427336",
+      "content": "<p>\"we show that diffusion models memorize individual images from their training data and emit them [...] we extract over a thousand training examples from state-of-the-art models, ranging from photographs of individual people to trademarked company logos [...] our results show that diffusion models are much less private than prior generative models such as GANs, and that mitigating these vulnerabilities may require new advances in privacy-preserving training.\" <a href=\"https://mastodon.social/tags/aiEthics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aiEthics</span></a></p><p><a href=\"https://arxiv.org/abs/2301.13188\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.13188</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      },
+      {
+        "url": "https://tldr.nettime.org/@adam_harvey",
+        "display_name": "Adam Harvey"
+      },
+      {
+        "url": "https://wandering.shop/@janellecshane",
+        "display_name": "Janelle Shane"
+      },
+      {
+        "url": "https://mathstodon.xyz/@gregeganSF",
+        "display_name": "Greg Egan"
+      },
+      {
+        "url": "https://mastodon.social/@eckles",
+        "display_name": "Dean Eckles"
+      },
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      },
+      {
+        "url": "https://sigmoid.social/@nsaphra",
+        "display_name": "Naomi Saphra"
+      },
+      {
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2302.00412v1",
     "title": "KNNs of Semantic Encodings for Rating Prediction",
     "latest": "2023-02-05T09:22:55+00:00",
@@ -1160,50 +1224,6 @@
       {
         "url": "https://datasci.social/@mszll",
         "display_name": "Michael Szell"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.13188",
-    "title": "Extracting Training Data from Diffusion Models",
-    "latest": "2023-01-31T21:11:44+00:00",
-    "first": "2023-01-31T02:10:33+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@Riedl/109785581486676414",
-      "content": "<p>Stable Diffusion can memorize and output impages from its training set, including copyrighted content </p><p><a href=\"https://arxiv.org/abs/2301.13188\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.13188</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      },
-      {
-        "url": "https://tldr.nettime.org/@adam_harvey",
-        "display_name": "Adam Harvey"
-      },
-      {
-        "url": "https://wandering.shop/@janellecshane",
-        "display_name": "Janelle Shane"
-      },
-      {
-        "url": "https://mathstodon.xyz/@gregeganSF",
-        "display_name": "Greg Egan"
-      },
-      {
-        "url": "https://mastodon.social/@eckles",
-        "display_name": "Dean Eckles"
-      },
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://sigmoid.social/@nsaphra",
-        "display_name": "Naomi Saphra"
       }
     ]
   },
@@ -3347,22 +3367,6 @@
     "last_post": {
       "url": "https://sigmoid.social/@aran/109747267583710394",
       "content": "<p>A Watermark for Large Language Models</p><p>Proposes a watermarking framework for proprietary language models and a statistical test for detecting<br>the watermark using OPT.</p><p><a href=\"https://arxiv.org/abs/2301.10226\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10226</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.10140",
-    "title": "The Semantic Scholar Open Data Platform",
-    "latest": "2023-01-25T01:33:24+00:00",
-    "first": "2023-01-25T01:33:24+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109747267443694937",
-      "content": "<p>The Semantic Scholar Open Data Platform</p><p>Builds the Semantic Scholar Academic Graph, the largest open scientific literature graph to-date, with 200M+ papers, 80M+ authors, 550M+ paper authorship edges, and 2.4B+ citation edges.</p><p><a href=\"https://arxiv.org/abs/2301.10140\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10140</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
