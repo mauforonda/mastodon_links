@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9",
+    "title": "Extracting and summarizing text with youtube-dl and GPT-3",
+    "latest": "2023-02-05T00:55:20+00:00",
+    "first": "2023-01-15T06:04:14+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109809403196342381",
+      "content": "<p>Here's the full process I went through to summarize a 35 minute YouTube video using Whisper plus GPT3</p><p>It had some manual steps, but automating it doesn't feel like it would be a particularly hard project using the tools we have right now</p><p><a href=\"https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/simonw/9932c6f</span><span class=\"invisible\">10e241cfa6b19a4e08b283ca9</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://mastodon.online/@tomstafford",
+        "display_name": "tomstafford"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/dirty-cat/dirty_cat/releases/tag/0.4.0b1",
     "title": "github.com/dirty-cat/dirty_cat...",
     "latest": "2023-02-04T18:17:45+00:00",
@@ -3416,22 +3436,6 @@
       {
         "url": "https://vis.social/@georgios",
         "display_name": "Georgios Karamanis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/vitejs/vite-plugin-react/pull/79",
-    "title": "feat: invalidate message and fix HMR for HOC, class component & styled components by ArnaudBarre \u00b7 Pull Request #79 \u00b7 vitejs/vite-plugin-react",
-    "latest": "2023-01-26T12:53:02+00:00",
-    "first": "2023-01-26T12:53:02+00:00",
-    "last_post": {
-      "url": "https://m.webtoo.ls/@vite/109755398858614025",
-      "content": "<p><span class=\"h-card\"><a href=\"https://m.webtoo.ls/@kiaking\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kiaking</span></a></span> Learn more about the HMR changes to vite-plugin-react here. Shoutout to <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@arnaudbarre\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>arnaudbarre</span></a></span> for his continuous work to polish the Vite+React story.<br><a href=\"https://github.com/vitejs/vite-plugin-react/pull/79\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vitejs/vite-plugin-</span><span class=\"invisible\">react/pull/79</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
       }
     ]
   }
