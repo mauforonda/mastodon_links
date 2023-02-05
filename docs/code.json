@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/tootsdk/tootsdk",
+    "title": "https://github.com/tootsdk/tootsdk",
+    "latest": "2023-02-05T08:38:19+00:00",
+    "first": "2023-02-05T08:38:19+00:00",
+    "last_post": {
+      "url": "https://m.iamkonstantin.eu/objects/2361fd93-aad4-4037-8dae-386d3f40bc04",
+      "content": "Hey folks, TootSDK is now public! \ud83d\ude80<br><br>TootSDK is a Swift package for creating apps that interact with Mastodon, Pleroma and other Fediverse APIs.<br><br>It handles the data model and network calls, with lovely async/await based calls.<br><br>The SDK is still young. There are plenty of API calls still to add. The foundations are strong, and TootSDK is very useful already.<br><br>Contributions and PRs are more than welcome!<br><br>Check out the repo here: <a href=\"https://github.com/tootsdk/tootsdk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/tootsdk/tootsdk</a> :mastodance: :apple:<br><br><a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/iosdev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#iosdev</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/vapor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#vapor</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/serversideswift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#serversideswift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/appkit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#appkit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/uikit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#uikit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swiftui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swiftui</a>"
+    },
+    "people": [
+      {
+        "url": "https://curbal.social/@ruthpozuelo",
+        "display_name": "Ruth Pozuelo Martinez"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/MichelNivard/GPTstudio",
     "title": "GitHub - MichelNivard/GPTstudio: GPT addins for Rstudio",
     "latest": "2023-02-05T02:17:10+00:00",
@@ -3424,22 +3440,6 @@
       {
         "url": "https://merveilles.town/@akkartik",
         "display_name": "Kartik Agaram"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sponsors/ArnaudBarre",
-    "title": "Sponsor @ArnaudBarre on GitHub Sponsors",
-    "latest": "2023-01-26T14:42:30+00:00",
-    "first": "2023-01-09T15:53:01+00:00",
-    "last_post": {
-      "url": "https://m.webtoo.ls/@patak/109756032627111108",
-      "content": "<p>I'm now sponsoring <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@arnaudbarre\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>arnaudbarre</span></a></span>, he is doing an incredible job to improve the <span class=\"h-card\"><a href=\"https://m.webtoo.ls/@vite\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vite</span></a></span> and React story. With vite-plugin-react-swc, vite-plugin-react, and in Vite core. </p><p>If you (or your company) care about Vite+React, I strongly suggest you sponsor him too</p><p>\ud83d\udc99 <a href=\"https://github.com/sponsors/ArnaudBarre\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sponsors/ArnaudBarr</span><span class=\"invisible\">e</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://m.webtoo.ls/@patak",
-        "display_name": "patak"
       }
     ]
   }
