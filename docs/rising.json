@@ -2,11 +2,11 @@
   {
     "link": "https://infrequently.org/2023/02/the-market-for-lemons/",
     "title": "The Market for Lemons",
-    "latest": "2023-02-05T16:57:44+00:00",
+    "latest": "2023-02-05T19:46:53+00:00",
     "first": "2023-02-05T01:13:33+00:00",
     "last_post": {
-      "url": "https://toot.cafe/@slightlyoff/109809274480570320",
-      "content": "<p>Yet another team at work staring down months of remediation thanks to \"modern frontend\" has caused me to write down why I've been *intensely* frustrated with the clearly broken market for web technology over our long lost decade:</p><p><a href=\"https://infrequently.org/2023/02/the-market-for-lemons/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">infrequently.org/2023/02/the-m</span><span class=\"invisible\">arket-for-lemons/</span></a></p><p>Thanks to <span class=\"h-card\"><a href=\"https://social.vivaldi.net/@brucelawson\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>brucelawson</span></a></span>, <span class=\"h-card\"><a href=\"https://front-end.social/@heydon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>heydon</span></a></span>, Taylor Hunt, <span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andy</span></a></span>, and <span class=\"h-card\"><a href=\"https://toot.cafe/@phae\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>phae</span></a></span> for spotting errors in (even more splenetic) drafts.</p>"
+      "url": "https://opinuendo.com/@matthew/109813223535011784",
+      "content": "<p>\"They understood that most websites lack tight latency budgeting, dedicated performance teams, hawkish management reviews, ship gates to prevent regressions, and end-to-end measurements of critical user journeys. They understood the only way to scale JS-driven frontends are massive investments in controlling complexity, but warned none of their customers.\"</p><p>\"The Market for Lemons\", excellent read: <a href=\"https://infrequently.org/2023/02/the-market-for-lemons/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">infrequently.org/2023/02/the-m</span><span class=\"invisible\">arket-for-lemons/</span></a></p><p><a href=\"https://opinuendo.com/tags/software\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>software</span></a> <a href=\"https://opinuendo.com/tags/softwareDevelopment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>softwareDevelopment</span></a> <a href=\"https://opinuendo.com/tags/complexity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>complexity</span></a></p>"
     },
     "people": [
       {
@@ -20,13 +20,17 @@
       {
         "url": "https://toot.cafe/@nolan",
         "display_name": "Nolan"
+      },
+      {
+        "url": "https://jawns.club/@vicki",
+        "display_name": "Vicki Boykis"
       }
     ]
   },
   {
     "link": "https://www.monkeon.co.uk/gifaanisqatsi/",
     "title": "Gifaanisqatsi",
-    "latest": "2023-02-05T17:36:34+00:00",
+    "latest": "2023-02-05T18:19:20+00:00",
     "first": "2023-02-05T09:25:36+00:00",
     "last_post": {
       "url": "https://mastodon.social/@kjhealy/109813340180909094",
@@ -44,6 +48,10 @@
       {
         "url": "https://mastodon.social/@kjhealy",
         "display_name": "Kieran Healy"
+      },
+      {
+        "url": "https://mastodon.social/@philipncohen",
+        "display_name": "Philip N Cohen"
       }
     ]
   },
@@ -124,6 +132,26 @@
       {
         "url": "https://xoxo.zone/@lauraehall",
         "display_name": "Laura E. Hall"
+      }
+    ]
+  },
+  {
+    "link": "https://techcrunch.com/2023/02/04/elon-musk-says-twitter-will-provide-a-free-write-only-api-to-bots-providing-good-content/",
+    "title": "Elon Musk says Twitter will provide a free write-only API to bots providing 'good' content",
+    "latest": "2023-02-05T19:44:00+00:00",
+    "first": "2023-02-05T13:32:48+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@botwiki/109812278819771160",
+      "content": "<p>Such BS, do not fall for this. The fact that he can change the rules on a whim is enough of a reason to continue with your plans to migrate your bots away from Twitter's unstable platform.</p><p><a href=\"https://techcrunch.com/2023/02/04/elon-musk-says-twitter-will-provide-a-free-write-only-api-to-bots-providing-good-content/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">techcrunch.com/2023/02/04/elon</span><span class=\"invisible\">-musk-says-twitter-will-provide-a-free-write-only-api-to-bots-providing-good-content/</span></a></p><p>Probably best to just turn your bots off and not let this guy decide their fate.</p><p><a href=\"https://mastodon.social/tags/bots\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bots</span></a> <a href=\"https://mastodon.social/tags/CreativeBots\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CreativeBots</span></a> <a href=\"https://mastodon.social/tags/TwitterBots\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TwitterBots</span></a> <a href=\"https://mastodon.social/tags/twitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>twitter</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://stefanbohacek.online/@stefan",
+        "display_name": "Stefan Bohacek"
+      },
+      {
+        "url": "https://mastodon.online/@jaspar",
+        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
       }
     ]
   },
