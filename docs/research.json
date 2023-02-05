@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://arxiv.org/abs/2302.00412v1",
+    "title": "KNNs of Semantic Encodings for Rating Prediction",
+    "latest": "2023-02-05T09:22:55+00:00",
+    "first": "2023-02-05T09:22:55+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109810777925821770",
+      "content": "<p>\ud83d\udcdd KNNs of Semantic Encodings for Rating Prediction \ud83d\udcda</p><p>\"Encodes users' preferences as a graph of semantically similar textual snippets from reviews, where the edges are defined by semantic similarity between the snippets.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.00412v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00412v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      }
+    ]
+  },
+  {
     "link": "https://doi.org/10.1042%2FCS20201573",
     "title": "https://doi.org/10.1042%2FCS20201573",
     "latest": "2023-02-05T07:21:56+00:00",
@@ -3352,22 +3368,6 @@
       {
         "url": "https://sigmoid.social/@aran",
         "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "http://www.nature.com/articles/s41586-021-03506-2",
-    "title": "nature.com/articles/s41586-021...",
-    "latest": "2023-01-25T01:17:06+00:00",
-    "first": "2023-01-25T01:17:06+00:00",
-    "last_post": {
-      "url": "https://toot.io/@andy_matuschak/109747203364574860",
-      "content": "<p>It's not my main thing at all, but I've been recording references to record-breaking feats in BCIs for the past two years, and the pace has been really astonishing. Looking back, I see that in May 2021, one of this paper's first authors and its senior authors achieved amazing SotA results in a totally different modality\u2014imagined handwriting instead of attempted/internal speech. <a href=\"http://www.nature.com/articles/s41586-021-03506-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">nature.com/articles/s41586-021</span><span class=\"invisible\">-03506-2</span></a> Wild progress in 19 months\u2026</p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.io/@andy_matuschak",
-        "display_name": "Andy Matuschak"
       }
     ]
   }

@@ -564,46 +564,6 @@
     ]
   },
   {
-    "link": "https://mstdn.social/@koponenhilden/109793901019713225",
-    "title": "Koponen+Hild\u00e9n (@koponenhilden@mstdn.social)",
-    "latest": "2023-02-03T12:38:28+00:00",
-    "first": "2023-02-02T11:17:31+00:00",
-    "last_post": {
-      "url": "https://vis.social/@jhilden/109794862786760224",
-      "content": "<p>Happy and surprised about the scicomm award! Great to have this sort of formal recognition of what we have been doing these years. I have a stupid cold and will miss the gala tonight though. </p><p><a href=\"https://mstdn.social/@koponenhilden/109793901019713225\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mstdn.social/@koponenhilden/10</span><span class=\"invisible\">9793901019713225</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@jhilden",
-        "display_name": "Jonatan Hild\u00e9n"
-      },
-      {
-        "url": "https://vis.social/@Ttso",
-        "display_name": "Tuija Sonkkila"
-      }
-    ]
-  },
-  {
-    "link": "https://michae.lv/deleting-dms-from-twitter/",
-    "title": "Deleting DMs from Twitter using the GDPR",
-    "latest": "2023-02-02T21:25:03+00:00",
-    "first": "2023-02-02T11:18:50+00:00",
-    "last_post": {
-      "url": "https://someone.elses.computer/@mikarv/109794867965627351",
-      "content": "<p>Months back I suggested people use data protection rights to ask Twitter to erase their DMs, as deleting them manually does not remove them from the server (<a href=\"https://michae.lv/deleting-dms-from-twitter/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">michae.lv/deleting-dms-from-tw</span><span class=\"invisible\">itter/</span></a>). Twitter sent back an illegal response to all who asked, ignoring the Q &amp; instead a pro forma \"Here's how you delete your account!\". </p><p>I complained to the ICO &amp; Irish DPC. ICO wrote a letter to T telling them to comply within 14 days, but still nothing.</p><p>I know others have complained \u2014 have you heard back from DPAs?</p>"
-    },
-    "people": [
-      {
-        "url": "https://someone.elses.computer/@mikarv",
-        "display_name": "Michael Veale"
-      },
-      {
-        "url": "https://infosec.exchange/@hacks4pancakes",
-        "display_name": "Lesley Carhart :unverified:"
-      }
-    ]
-  },
-  {
     "link": "https://interconnected.org/home/2022/03/14/saloons",
     "title": "Workplace serendipity, invention, and lessons from Prohibition 1920-1933",
     "latest": "2023-02-02T19:25:13+00:00",
@@ -1640,6 +1600,46 @@
       {
         "url": "https://mastodon.social/@eckles",
         "display_name": "Dean Eckles"
+      }
+    ]
+  },
+  {
+    "link": "https://css-tricks.com/css-custom-highlight-api-early-look/",
+    "title": "CSS Custom Highlight API: A First Look | CSS-Tricks",
+    "latest": "2023-02-05T11:21:52+00:00",
+    "first": "2023-02-04T07:10:25+00:00",
+    "last_post": {
+      "url": "https://mas.to/@patrickbrosset/109802808493633537",
+      "content": "<p>Do you wish you could style arbitrary text ranges on the web without having to change the underlying DOM?</p><p>Well, with the CSS Custom Highlight API, you can! \ud83c\udf1f</p><p>check my article about it to learn more:  <br><a href=\"https://css-tricks.com/css-custom-highlight-api-early-look/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">css-tricks.com/css-custom-high</span><span class=\"invisible\">light-api-early-look/</span></a></p><p>I\u2019m also writing MDN docs for it. Coming soon\u2026<br><a href=\"https://github.com/mdn/content/pull/23907\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mdn/content/pull/23</span><span class=\"invisible\">907</span></a></p><p>Available in Chromium and Webkit (behind a flag).</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@aboutgeo",
+        "display_name": "Rainer Simon"
+      },
+      {
+        "url": "https://toot.cafe/@oliverturner",
+        "display_name": "Oliver"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mdn/content/pull/23907",
+    "title": "github.com/mdn/content/pull/23...",
+    "latest": "2023-02-05T11:21:52+00:00",
+    "first": "2023-02-04T07:10:25+00:00",
+    "last_post": {
+      "url": "https://mas.to/@patrickbrosset/109802808493633537",
+      "content": "<p>Do you wish you could style arbitrary text ranges on the web without having to change the underlying DOM?</p><p>Well, with the CSS Custom Highlight API, you can! \ud83c\udf1f</p><p>check my article about it to learn more:  <br><a href=\"https://css-tricks.com/css-custom-highlight-api-early-look/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">css-tricks.com/css-custom-high</span><span class=\"invisible\">light-api-early-look/</span></a></p><p>I\u2019m also writing MDN docs for it. Coming soon\u2026<br><a href=\"https://github.com/mdn/content/pull/23907\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mdn/content/pull/23</span><span class=\"invisible\">907</span></a></p><p>Available in Chromium and Webkit (behind a flag).</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@aboutgeo",
+        "display_name": "Rainer Simon"
+      },
+      {
+        "url": "https://toot.cafe/@oliverturner",
+        "display_name": "Oliver"
       }
     ]
   },

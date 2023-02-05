@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://codeberg.org/tom79/Fedilab/src/branch/develop/src/fdroid/fastlane/metadata/android/en/changelogs/477.txt",
+    "title": "Fedilab",
+    "latest": "2023-02-05T11:24:29+00:00",
+    "first": "2023-02-05T11:24:29+00:00",
+    "last_post": {
+      "url": "https://toot.fedilab.app/@apps/109811877097789418",
+      "content": "<p>Our current change logs for the next release. We are still working on your reports. <a href=\"https://toot.fedilab.app/tags/Fedilab\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fedilab</span></a> </p><p><a href=\"https://codeberg.org/tom79/Fedilab/src/branch/develop/src/fdroid/fastlane/metadata/android/en/changelogs/477.txt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/tom79/Fedilab/src</span><span class=\"invisible\">/branch/develop/src/fdroid/fastlane/metadata/android/en/changelogs/477.txt</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toot.fedilab.app/@apps",
+        "display_name": "Fedilab Apps"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mdn/content/pull/23907",
+    "title": "github.com/mdn/content/pull/23...",
+    "latest": "2023-02-05T11:21:52+00:00",
+    "first": "2023-02-04T07:10:25+00:00",
+    "last_post": {
+      "url": "https://mas.to/@patrickbrosset/109802808493633537",
+      "content": "<p>Do you wish you could style arbitrary text ranges on the web without having to change the underlying DOM?</p><p>Well, with the CSS Custom Highlight API, you can! \ud83c\udf1f</p><p>check my article about it to learn more:  <br><a href=\"https://css-tricks.com/css-custom-highlight-api-early-look/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">css-tricks.com/css-custom-high</span><span class=\"invisible\">light-api-early-look/</span></a></p><p>I\u2019m also writing MDN docs for it. Coming soon\u2026<br><a href=\"https://github.com/mdn/content/pull/23907\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mdn/content/pull/23</span><span class=\"invisible\">907</span></a></p><p>Available in Chromium and Webkit (behind a flag).</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@aboutgeo",
+        "display_name": "Rainer Simon"
+      },
+      {
+        "url": "https://toot.cafe/@oliverturner",
+        "display_name": "Oliver"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/tootsdk/tootsdk",
     "title": "https://github.com/tootsdk/tootsdk",
     "latest": "2023-02-05T08:38:19+00:00",
@@ -196,22 +232,6 @@
       {
         "url": "https://mastodon.social/@dahukanna",
         "display_name": "Dawn Ahukanna"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mdn/content/pull/23907",
-    "title": "github.com/mdn/content/pull/23...",
-    "latest": "2023-02-04T07:10:25+00:00",
-    "first": "2023-02-04T07:10:25+00:00",
-    "last_post": {
-      "url": "https://mas.to/@patrickbrosset/109802808493633537",
-      "content": "<p>Do you wish you could style arbitrary text ranges on the web without having to change the underlying DOM?</p><p>Well, with the CSS Custom Highlight API, you can! \ud83c\udf1f</p><p>check my article about it to learn more:  <br><a href=\"https://css-tricks.com/css-custom-highlight-api-early-look/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">css-tricks.com/css-custom-high</span><span class=\"invisible\">light-api-early-look/</span></a></p><p>I\u2019m also writing MDN docs for it. Coming soon\u2026<br><a href=\"https://github.com/mdn/content/pull/23907\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mdn/content/pull/23</span><span class=\"invisible\">907</span></a></p><p>Available in Chromium and Webkit (behind a flag).</p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@aboutgeo",
-        "display_name": "Rainer Simon"
       }
     ]
   },
@@ -3424,22 +3444,6 @@
       {
         "url": "https://jawns.club/@vicki",
         "display_name": "Vicki Boykis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tomhrr/dale",
-    "title": "GitHub - tomhrr/dale: Lisp-flavoured C",
-    "latest": "2023-01-26T15:07:57+00:00",
-    "first": "2023-01-26T15:07:57+00:00",
-    "last_post": {
-      "url": "https://merveilles.town/@akkartik/109756132721291623",
-      "content": "<p><span class=\"h-card\"><a href=\"https://social.omar.website/@omar\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>omar</span></a></span> HN search brings up <a href=\"https://github.com/tomhrr/dale\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tomhrr/dale</span><span class=\"invisible\"></span></a>. Mailing list shows last release just over a year ago.</p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@akkartik",
-        "display_name": "Kartik Agaram"
       }
     ]
   }
