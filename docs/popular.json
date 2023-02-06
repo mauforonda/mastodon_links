@@ -152,38 +152,6 @@
     ]
   },
   {
-    "link": "https://jobs.ashbyhq.com/mastodon/290fd40f-125e-41fc-942d-f4ce59e6bda2",
-    "title": "DevOps Engineer (m/f/d)",
-    "latest": "2023-02-03T13:57:20+00:00",
-    "first": "2023-02-03T02:27:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@mcc/109798274628283897",
-      "content": "<p>If you've noticed Mastodon.social being offline a few evenings this week, it was actually under DDOS those nights. When I asked, I was told the best way to help with Mastosoc's scaling and resiliency-under-pressure issues would be to help them fill this open job posting for a devops position with Mastodon gGMBH:</p><p><a href=\"https://jobs.ashbyhq.com/mastodon/290fd40f-125e-41fc-942d-f4ce59e6bda2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jobs.ashbyhq.com/mastodon/290f</span><span class=\"invisible\">d40f-125e-41fc-942d-f4ce59e6bda2</span></a></p><p>If you know anyone who might be qualified for this position, pass it on!</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Migueldeicaza",
-        "display_name": "Miguel de Icaza"
-      },
-      {
-        "url": "https://mastodon.scot/@npscience",
-        "display_name": "Naomi"
-      },
-      {
-        "url": "https://mastodon.social/@hrheingold",
-        "display_name": "Howard Rheingold"
-      },
-      {
-        "url": "https://mastodon.world/@lucianofloridi",
-        "display_name": "Luciano Floridi"
-      },
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      }
-    ]
-  },
-  {
     "link": "https://linkedin.com/in/rachaellininger/",
     "title": "linkedin.com/in/rachaellininge...",
     "latest": "2023-02-03T22:06:18+00:00",
@@ -352,30 +320,6 @@
     ]
   },
   {
-    "link": "https://www.buzzfeednews.com/article/katienotopoulos/twitter-bot-api-changes-killing-fun",
-    "title": "Twitter Is Killing Off The Fun Bots",
-    "latest": "2023-02-03T06:49:48+00:00",
-    "first": "2023-02-03T02:57:21+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@biocs/109799472408922130",
-      "content": "<p>\"Vichy Twitter\" is quite a phrase! From an article of all the fun bots that'll close down due to Twitter removing free API access <a href=\"https://www.buzzfeednews.com/article/katienotopoulos/twitter-bot-api-changes-killing-fun\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">buzzfeednews.com/article/katie</span><span class=\"invisible\">notopoulos/twitter-bot-api-changes-killing-fun</span></a> via <a href=\"https://waxy.org/2023/02/katie-notopoulos-interviews-bot-creators-about-the-twitter-api-closure/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">waxy.org/2023/02/katie-notopou</span><span class=\"invisible\">los-interviews-bot-creators-about-the-twitter-api-closure/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@jaspar",
-        "display_name": "J Emory Parker \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-      },
-      {
-        "url": "https://sciences.social/@per",
-        "display_name": "Per Engzell"
-      },
-      {
-        "url": "https://fediscience.org/@biocs",
-        "display_name": "Michael Kuhn"
-      }
-    ]
-  },
-  {
     "link": "https://pluralistic.net/2023/02/02/nonbinary-families/#red-envelopes",
     "title": "Pluralistic: Netflix wants to chop down your family tree (02 Feb 2023) \u2013 Pluralistic: Daily links from Cory Doctorow",
     "latest": "2023-02-04T10:40:55+00:00",
@@ -496,6 +440,30 @@
     ]
   },
   {
+    "link": "https://github.com/tootsdk/tootsdk",
+    "title": "https://github.com/tootsdk/tootsdk",
+    "latest": "2023-02-06T01:06:20+00:00",
+    "first": "2023-02-05T08:38:19+00:00",
+    "last_post": {
+      "url": "https://m.iamkonstantin.eu/objects/2361fd93-aad4-4037-8dae-386d3f40bc04",
+      "content": "Hey folks, TootSDK is now public! \ud83d\ude80<br><br>TootSDK is a Swift package for creating apps that interact with Mastodon, Pleroma and other Fediverse APIs.<br><br>It handles the data model and network calls, with lovely async/await based calls.<br><br>The SDK is still young. There are plenty of API calls still to add. The foundations are strong, and TootSDK is very useful already.<br><br>Contributions and PRs are more than welcome!<br><br>Check out the repo here: <a href=\"https://github.com/tootsdk/tootsdk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/tootsdk/tootsdk</a> :mastodance: :apple:<br><br><a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/iosdev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#iosdev</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/vapor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#vapor</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/serversideswift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#serversideswift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/appkit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#appkit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/uikit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#uikit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swiftui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swiftui</a>"
+    },
+    "people": [
+      {
+        "url": "https://curbal.social/@ruthpozuelo",
+        "display_name": "Ruth Pozuelo Martinez"
+      },
+      {
+        "url": "https://mastodon.social/@dahukanna",
+        "display_name": "Dawn Ahukanna"
+      },
+      {
+        "url": "https://hci.social/@barik",
+        "display_name": "Titus Barik"
+      }
+    ]
+  },
+  {
     "link": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/",
     "title": "Speeding up the JavaScript ecosystem - eslint",
     "latest": "2023-02-05T21:10:20+00:00",
@@ -516,126 +484,6 @@
       {
         "url": "https://m.webtoo.ls/@patak",
         "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://til.simonwillison.net/mastodon/mastodon-bots-github-actions",
-    "title": "til.simonwillison.net/mastodon...",
-    "latest": "2023-02-04T20:06:44+00:00",
-    "first": "2023-02-03T03:04:09+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109798585121445501",
-      "content": "<p>Here's a TIL describing how the new Mastodon bot works - should be handy for anyone else who wants to create their own bots too: <a href=\"https://til.simonwillison.net/mastodon/mastodon-bots-github-actions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">til.simonwillison.net/mastodon</span><span class=\"invisible\">/mastodon-bots-github-actions</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://mastodon.social/@ummjackson",
-        "display_name": "Jackson Palmer"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.00801",
-    "title": "A tutorial on networks in social systems: A mathematical modeling perspective",
-    "latest": "2023-02-03T16:24:11+00:00",
-    "first": "2023-02-03T02:49:19+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@masonporter/109798241483402899",
-      "content": "<p>\"A tutorial on networks in social systems: A mathematical modeling perspective\" (by Heather Z. Brooks): <a href=\"https://arxiv.org/abs/2302.00801\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00801</span><span class=\"invisible\"></span></a></p><p>\"The goal is to provide an accessible, broad, and solid foundation for a reader who is new to the field so that they may confidently engage more deeply with the mathematical study of social networks.\"</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.truesciphi.org/@TrueSciPhi",
-        "display_name": "Kelly Truelove"
-      },
-      {
-        "url": "https://mathstodon.xyz/@ethanepperly",
-        "display_name": "ethanepperly"
-      }
-    ]
-  },
-  {
-    "link": "https://www.theverge.com/2023/2/2/23582982/twitter-api-free-access-cutoff-bot-developers-shutdown",
-    "title": "Your favorite Twitter bot might die next week",
-    "latest": "2023-02-03T05:22:15+00:00",
-    "first": "2023-02-03T01:09:21+00:00",
-    "last_post": {
-      "url": "https://merveilles.town/@v/109797547224043944",
-      "content": "<p>was interviewed by The Verge about the bot shutdown <a href=\"https://www.theverge.com/2023/2/2/23582982/twitter-api-free-access-cutoff-bot-developers-shutdown\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theverge.com/2023/2/2/23582982</span><span class=\"invisible\">/twitter-api-free-access-cutoff-bot-developers-shutdown</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://xoxo.zone/@lauraehall",
-        "display_name": "Laura E. Hall"
-      },
-      {
-        "url": "https://mastodon.social/@hugovk",
-        "display_name": "hugovk"
-      }
-    ]
-  },
-  {
-    "link": "https://scene-dreamer.github.io/",
-    "title": "SceneDreamer",
-    "latest": "2023-02-03T08:45:46+00:00",
-    "first": "2023-02-03T01:35:14+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109798235472608558",
-      "content": "<p>SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections</p><p>proj: <a href=\"https://scene-dreamer.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">scene-dreamer.github.io/</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2302.01330\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01330</span><span class=\"invisible\"></span></a><br>video: <a href=\"https://www.youtube.com/watch?v=AjtOlDHsiyU&amp;feature=youtu.be\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=AjtOlDHsiy</span><span class=\"invisible\">U&amp;feature=youtu.be</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.01330",
-    "title": "https://arxiv.org/abs/2302.01330",
-    "latest": "2023-02-03T08:45:46+00:00",
-    "first": "2023-02-03T01:35:14+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109798235472608558",
-      "content": "<p>SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections</p><p>proj: <a href=\"https://scene-dreamer.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">scene-dreamer.github.io/</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2302.01330\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01330</span><span class=\"invisible\"></span></a><br>video: <a href=\"https://www.youtube.com/watch?v=AjtOlDHsiyU&amp;feature=youtu.be\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=AjtOlDHsiy</span><span class=\"invisible\">U&amp;feature=youtu.be</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=AjtOlDHsiyU&amp;feature=youtu.be",
-    "title": "youtube.com/watch?v=AjtOlDHsiy...",
-    "latest": "2023-02-03T08:45:46+00:00",
-    "first": "2023-02-03T01:35:14+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109798235472608558",
-      "content": "<p>SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections</p><p>proj: <a href=\"https://scene-dreamer.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">scene-dreamer.github.io/</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2302.01330\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01330</span><span class=\"invisible\"></span></a><br>video: <a href=\"https://www.youtube.com/watch?v=AjtOlDHsiyU&amp;feature=youtu.be\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=AjtOlDHsiy</span><span class=\"invisible\">U&amp;feature=youtu.be</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
       }
     ]
   },
@@ -1280,26 +1128,6 @@
     ]
   },
   {
-    "link": "https://github.com/tootsdk/tootsdk",
-    "title": "https://github.com/tootsdk/tootsdk",
-    "latest": "2023-02-05T15:34:53+00:00",
-    "first": "2023-02-05T08:38:19+00:00",
-    "last_post": {
-      "url": "https://m.iamkonstantin.eu/objects/2361fd93-aad4-4037-8dae-386d3f40bc04",
-      "content": "Hey folks, TootSDK is now public! \ud83d\ude80<br><br>TootSDK is a Swift package for creating apps that interact with Mastodon, Pleroma and other Fediverse APIs.<br><br>It handles the data model and network calls, with lovely async/await based calls.<br><br>The SDK is still young. There are plenty of API calls still to add. The foundations are strong, and TootSDK is very useful already.<br><br>Contributions and PRs are more than welcome!<br><br>Check out the repo here: <a href=\"https://github.com/tootsdk/tootsdk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/tootsdk/tootsdk</a> :mastodance: :apple:<br><br><a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/iosdev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#iosdev</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/vapor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#vapor</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/serversideswift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#serversideswift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/appkit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#appkit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/uikit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#uikit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swiftui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swiftui</a>"
-    },
-    "people": [
-      {
-        "url": "https://curbal.social/@ruthpozuelo",
-        "display_name": "Ruth Pozuelo Martinez"
-      },
-      {
-        "url": "https://mastodon.social/@dahukanna",
-        "display_name": "Dawn Ahukanna"
-      }
-    ]
-  },
-  {
     "link": "https://social.wikimedia.es/",
     "title": "Wikimedion ES",
     "latest": "2023-02-05T17:12:49+00:00",
@@ -1456,6 +1284,66 @@
       {
         "url": "https://social.coop/@konrad",
         "display_name": "Konrad M. Lawson"
+      }
+    ]
+  },
+  {
+    "link": "https://magazine.amstat.org/blog/2018/09/01/hiring-a-data-scientist/",
+    "title": "magazine.amstat.org/blog/2018/...",
+    "latest": "2023-02-06T02:52:52+00:00",
+    "first": "2023-02-05T20:36:41+00:00",
+    "last_post": {
+      "url": "https://datasci.social/@bearloga/109813408140822684",
+      "content": "<p>A brief <a href=\"https://datasci.social/tags/introduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>introduction</span></a>: I'm a data scientist w/ a math+stats background. I've been with the Wikimedia Foundation (the non-profit behind Wikipedia) for 7y+ and I've been managing since 2021</p><p>You may have read my guide on hiring: <a href=\"https://magazine.amstat.org/blog/2018/09/01/hiring-a-data-scientist/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">magazine.amstat.org/blog/2018/</span><span class=\"invisible\">09/01/hiring-a-data-scientist/</span></a></p><p>I\u2019ve written about my journey as an individual contributor (back in 2017) on my blog: <a href=\"https://mpopov.com/blog/2017/09/21/the-journey-so-far/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mpopov.com/blog/2017/09/21/the</span><span class=\"invisible\">-journey-so-far/</span></a></p><p>I've authored a few R packages, most notably WikidataQueryServiceR</p><p>You can learn about my team and what we do at <a href=\"https://www.mediawiki.org/wiki/Product_Analytics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mediawiki.org/wiki/Product_Ana</span><span class=\"invisible\">lytics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      }
+    ]
+  },
+  {
+    "link": "https://mpopov.com/blog/2017/09/21/the-journey-so-far/",
+    "title": "mpopov.com/blog/2017/09/21/the...",
+    "latest": "2023-02-06T02:52:52+00:00",
+    "first": "2023-02-05T20:36:41+00:00",
+    "last_post": {
+      "url": "https://datasci.social/@bearloga/109813408140822684",
+      "content": "<p>A brief <a href=\"https://datasci.social/tags/introduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>introduction</span></a>: I'm a data scientist w/ a math+stats background. I've been with the Wikimedia Foundation (the non-profit behind Wikipedia) for 7y+ and I've been managing since 2021</p><p>You may have read my guide on hiring: <a href=\"https://magazine.amstat.org/blog/2018/09/01/hiring-a-data-scientist/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">magazine.amstat.org/blog/2018/</span><span class=\"invisible\">09/01/hiring-a-data-scientist/</span></a></p><p>I\u2019ve written about my journey as an individual contributor (back in 2017) on my blog: <a href=\"https://mpopov.com/blog/2017/09/21/the-journey-so-far/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mpopov.com/blog/2017/09/21/the</span><span class=\"invisible\">-journey-so-far/</span></a></p><p>I've authored a few R packages, most notably WikidataQueryServiceR</p><p>You can learn about my team and what we do at <a href=\"https://www.mediawiki.org/wiki/Product_Analytics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mediawiki.org/wiki/Product_Ana</span><span class=\"invisible\">lytics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      }
+    ]
+  },
+  {
+    "link": "https://www.mediawiki.org/wiki/Product_Analytics",
+    "title": "mediawiki.org/wiki/Product_Ana...",
+    "latest": "2023-02-06T02:52:52+00:00",
+    "first": "2023-02-05T20:36:41+00:00",
+    "last_post": {
+      "url": "https://datasci.social/@bearloga/109813408140822684",
+      "content": "<p>A brief <a href=\"https://datasci.social/tags/introduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>introduction</span></a>: I'm a data scientist w/ a math+stats background. I've been with the Wikimedia Foundation (the non-profit behind Wikipedia) for 7y+ and I've been managing since 2021</p><p>You may have read my guide on hiring: <a href=\"https://magazine.amstat.org/blog/2018/09/01/hiring-a-data-scientist/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">magazine.amstat.org/blog/2018/</span><span class=\"invisible\">09/01/hiring-a-data-scientist/</span></a></p><p>I\u2019ve written about my journey as an individual contributor (back in 2017) on my blog: <a href=\"https://mpopov.com/blog/2017/09/21/the-journey-so-far/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mpopov.com/blog/2017/09/21/the</span><span class=\"invisible\">-journey-so-far/</span></a></p><p>I've authored a few R packages, most notably WikidataQueryServiceR</p><p>You can learn about my team and what we do at <a href=\"https://www.mediawiki.org/wiki/Product_Analytics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mediawiki.org/wiki/Product_Ana</span><span class=\"invisible\">lytics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
       }
     ]
   }

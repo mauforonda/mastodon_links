@@ -1,33 +1,5 @@
 [
   {
-    "link": "https://infrequently.org/2023/02/the-market-for-lemons/",
-    "title": "The Market for Lemons",
-    "latest": "2023-02-05T19:46:53+00:00",
-    "first": "2023-02-05T01:13:33+00:00",
-    "last_post": {
-      "url": "https://opinuendo.com/@matthew/109813223535011784",
-      "content": "<p>\"They understood that most websites lack tight latency budgeting, dedicated performance teams, hawkish management reviews, ship gates to prevent regressions, and end-to-end measurements of critical user journeys. They understood the only way to scale JS-driven frontends are massive investments in controlling complexity, but warned none of their customers.\"</p><p>\"The Market for Lemons\", excellent read: <a href=\"https://infrequently.org/2023/02/the-market-for-lemons/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">infrequently.org/2023/02/the-m</span><span class=\"invisible\">arket-for-lemons/</span></a></p><p><a href=\"https://opinuendo.com/tags/software\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>software</span></a> <a href=\"https://opinuendo.com/tags/softwareDevelopment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>softwareDevelopment</span></a> <a href=\"https://opinuendo.com/tags/complexity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>complexity</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://bell.bz/@andy",
-        "display_name": "Andy Bell"
-      },
-      {
-        "url": "https://mastodon.social/@dahukanna",
-        "display_name": "Dawn Ahukanna"
-      },
-      {
-        "url": "https://toot.cafe/@nolan",
-        "display_name": "Nolan"
-      },
-      {
-        "url": "https://jawns.club/@vicki",
-        "display_name": "Vicki Boykis"
-      }
-    ]
-  },
-  {
     "link": "https://www.monkeon.co.uk/gifaanisqatsi/",
     "title": "Gifaanisqatsi",
     "latest": "2023-02-05T18:19:20+00:00",
@@ -56,6 +28,30 @@
     ]
   },
   {
+    "link": "https://github.com/tootsdk/tootsdk",
+    "title": "https://github.com/tootsdk/tootsdk",
+    "latest": "2023-02-06T01:06:20+00:00",
+    "first": "2023-02-05T08:38:19+00:00",
+    "last_post": {
+      "url": "https://m.iamkonstantin.eu/objects/2361fd93-aad4-4037-8dae-386d3f40bc04",
+      "content": "Hey folks, TootSDK is now public! \ud83d\ude80<br><br>TootSDK is a Swift package for creating apps that interact with Mastodon, Pleroma and other Fediverse APIs.<br><br>It handles the data model and network calls, with lovely async/await based calls.<br><br>The SDK is still young. There are plenty of API calls still to add. The foundations are strong, and TootSDK is very useful already.<br><br>Contributions and PRs are more than welcome!<br><br>Check out the repo here: <a href=\"https://github.com/tootsdk/tootsdk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/tootsdk/tootsdk</a> :mastodance: :apple:<br><br><a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/iosdev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#iosdev</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/vapor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#vapor</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/serversideswift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#serversideswift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/appkit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#appkit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/uikit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#uikit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swiftui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swiftui</a>"
+    },
+    "people": [
+      {
+        "url": "https://curbal.social/@ruthpozuelo",
+        "display_name": "Ruth Pozuelo Martinez"
+      },
+      {
+        "url": "https://mastodon.social/@dahukanna",
+        "display_name": "Dawn Ahukanna"
+      },
+      {
+        "url": "https://hci.social/@barik",
+        "display_name": "Titus Barik"
+      }
+    ]
+  },
+  {
     "link": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/",
     "title": "Speeding up the JavaScript ecosystem - eslint",
     "latest": "2023-02-05T21:10:20+00:00",
@@ -76,26 +72,6 @@
       {
         "url": "https://m.webtoo.ls/@patak",
         "display_name": "patak"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tootsdk/tootsdk",
-    "title": "https://github.com/tootsdk/tootsdk",
-    "latest": "2023-02-05T15:34:53+00:00",
-    "first": "2023-02-05T08:38:19+00:00",
-    "last_post": {
-      "url": "https://m.iamkonstantin.eu/objects/2361fd93-aad4-4037-8dae-386d3f40bc04",
-      "content": "Hey folks, TootSDK is now public! \ud83d\ude80<br><br>TootSDK is a Swift package for creating apps that interact with Mastodon, Pleroma and other Fediverse APIs.<br><br>It handles the data model and network calls, with lovely async/await based calls.<br><br>The SDK is still young. There are plenty of API calls still to add. The foundations are strong, and TootSDK is very useful already.<br><br>Contributions and PRs are more than welcome!<br><br>Check out the repo here: <a href=\"https://github.com/tootsdk/tootsdk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/tootsdk/tootsdk</a> :mastodance: :apple:<br><br><a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/iosdev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#iosdev</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/vapor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#vapor</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/serversideswift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#serversideswift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/appkit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#appkit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/uikit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#uikit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swiftui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swiftui</a>"
-    },
-    "people": [
-      {
-        "url": "https://curbal.social/@ruthpozuelo",
-        "display_name": "Ruth Pozuelo Martinez"
-      },
-      {
-        "url": "https://mastodon.social/@dahukanna",
-        "display_name": "Dawn Ahukanna"
       }
     ]
   },
@@ -256,6 +232,66 @@
       {
         "url": "https://social.coop/@konrad",
         "display_name": "Konrad M. Lawson"
+      }
+    ]
+  },
+  {
+    "link": "https://magazine.amstat.org/blog/2018/09/01/hiring-a-data-scientist/",
+    "title": "magazine.amstat.org/blog/2018/...",
+    "latest": "2023-02-06T02:52:52+00:00",
+    "first": "2023-02-05T20:36:41+00:00",
+    "last_post": {
+      "url": "https://datasci.social/@bearloga/109813408140822684",
+      "content": "<p>A brief <a href=\"https://datasci.social/tags/introduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>introduction</span></a>: I'm a data scientist w/ a math+stats background. I've been with the Wikimedia Foundation (the non-profit behind Wikipedia) for 7y+ and I've been managing since 2021</p><p>You may have read my guide on hiring: <a href=\"https://magazine.amstat.org/blog/2018/09/01/hiring-a-data-scientist/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">magazine.amstat.org/blog/2018/</span><span class=\"invisible\">09/01/hiring-a-data-scientist/</span></a></p><p>I\u2019ve written about my journey as an individual contributor (back in 2017) on my blog: <a href=\"https://mpopov.com/blog/2017/09/21/the-journey-so-far/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mpopov.com/blog/2017/09/21/the</span><span class=\"invisible\">-journey-so-far/</span></a></p><p>I've authored a few R packages, most notably WikidataQueryServiceR</p><p>You can learn about my team and what we do at <a href=\"https://www.mediawiki.org/wiki/Product_Analytics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mediawiki.org/wiki/Product_Ana</span><span class=\"invisible\">lytics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      }
+    ]
+  },
+  {
+    "link": "https://mpopov.com/blog/2017/09/21/the-journey-so-far/",
+    "title": "mpopov.com/blog/2017/09/21/the...",
+    "latest": "2023-02-06T02:52:52+00:00",
+    "first": "2023-02-05T20:36:41+00:00",
+    "last_post": {
+      "url": "https://datasci.social/@bearloga/109813408140822684",
+      "content": "<p>A brief <a href=\"https://datasci.social/tags/introduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>introduction</span></a>: I'm a data scientist w/ a math+stats background. I've been with the Wikimedia Foundation (the non-profit behind Wikipedia) for 7y+ and I've been managing since 2021</p><p>You may have read my guide on hiring: <a href=\"https://magazine.amstat.org/blog/2018/09/01/hiring-a-data-scientist/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">magazine.amstat.org/blog/2018/</span><span class=\"invisible\">09/01/hiring-a-data-scientist/</span></a></p><p>I\u2019ve written about my journey as an individual contributor (back in 2017) on my blog: <a href=\"https://mpopov.com/blog/2017/09/21/the-journey-so-far/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mpopov.com/blog/2017/09/21/the</span><span class=\"invisible\">-journey-so-far/</span></a></p><p>I've authored a few R packages, most notably WikidataQueryServiceR</p><p>You can learn about my team and what we do at <a href=\"https://www.mediawiki.org/wiki/Product_Analytics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mediawiki.org/wiki/Product_Ana</span><span class=\"invisible\">lytics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      }
+    ]
+  },
+  {
+    "link": "https://www.mediawiki.org/wiki/Product_Analytics",
+    "title": "mediawiki.org/wiki/Product_Ana...",
+    "latest": "2023-02-06T02:52:52+00:00",
+    "first": "2023-02-05T20:36:41+00:00",
+    "last_post": {
+      "url": "https://datasci.social/@bearloga/109813408140822684",
+      "content": "<p>A brief <a href=\"https://datasci.social/tags/introduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>introduction</span></a>: I'm a data scientist w/ a math+stats background. I've been with the Wikimedia Foundation (the non-profit behind Wikipedia) for 7y+ and I've been managing since 2021</p><p>You may have read my guide on hiring: <a href=\"https://magazine.amstat.org/blog/2018/09/01/hiring-a-data-scientist/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">magazine.amstat.org/blog/2018/</span><span class=\"invisible\">09/01/hiring-a-data-scientist/</span></a></p><p>I\u2019ve written about my journey as an individual contributor (back in 2017) on my blog: <a href=\"https://mpopov.com/blog/2017/09/21/the-journey-so-far/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mpopov.com/blog/2017/09/21/the</span><span class=\"invisible\">-journey-so-far/</span></a></p><p>I've authored a few R packages, most notably WikidataQueryServiceR</p><p>You can learn about my team and what we do at <a href=\"https://www.mediawiki.org/wiki/Product_Analytics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mediawiki.org/wiki/Product_Ana</span><span class=\"invisible\">lytics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
       }
     ]
   }

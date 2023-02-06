@@ -1,5 +1,101 @@
 [
   {
+    "link": "https://arxiv.org/abs/2302.01398",
+    "title": "The unreasonable effectiveness of few-shot learning for machine translation",
+    "latest": "2023-02-06T03:09:13+00:00",
+    "first": "2023-02-06T03:09:13+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109815591968501084",
+      "content": "<p>The unreasonable effectiveness of few-shot learning for machine translation</p><p>Outperforms the best performing system on the WMT\u201921 English\u2212Chinese news translation task by only using five examples of English\u2212Chinese parallel data at inference.</p><p><a href=\"https://arxiv.org/abs/2302.01398\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01398</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/ab/2302.01339",
+    "title": "https://arxiv.org/ab/2302.01339",
+    "latest": "2023-02-06T02:08:34+00:00",
+    "first": "2023-02-06T02:08:34+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109815353499142308",
+      "content": "<p>Creating a Large Language Model of a Philosopher</p><p>Fine-tunes GPT-3 with the works of philosopher Daniel C. Dennett. While experts could distinguish generated statements from the real ones better than random, ordinary participants couldn't.</p><p><a href=\"https://arxiv.org/ab/2302.01339\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/ab/2302.01339</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.01496",
+    "title": "Efficient Domain Adaptation for Speech Foundation Models",
+    "latest": "2023-02-06T02:08:32+00:00",
+    "first": "2023-02-06T02:08:32+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109815353337837905",
+      "content": "<p>Efficient Domain Adaptation for Speech Foundation Models</p><p>Achieves the same quality with only 21.6M supervised<br>in-domain data and 130.8M finetuned parameters, compared to the 731.1M model trained from scratch on additional 300M supervised in-domain data.</p><p><a href=\"https://arxiv.org/abs/2302.01496\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01496</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.01918",
+    "title": "PyGlove: Efficiently Exchanging ML Ideas as Code",
+    "latest": "2023-02-06T02:08:29+00:00",
+    "first": "2023-02-06T02:08:29+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109815353137929825",
+      "content": "<p>PyGlove: Efficiently Exchanging ML Ideas as Code</p><p>PyGlove represents ideas as symbolic rule-based patches, enabling researchers to write down the rules for models they have not seen.</p><p><a href=\"https://arxiv.org/abs/2302.01918\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01918</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/1803.00144",
+    "title": "Learning Longer-term Dependencies in RNNs with Auxiliary Losses",
+    "latest": "2023-02-06T02:08:21+00:00",
+    "first": "2023-02-06T02:08:21+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109815352610305147",
+      "content": "<p>Has anyone tried next token prediction with truncated BPTT + label prediction at the end for a Long Range Arena like task?</p><p>I think TBPTT setting is interesting because some real-world tasks may have longer context than the training-time data. </p><p>Ref: <a href=\"https://arxiv.org/abs/1803.00144\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1803.00144</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://link.springer.com/article/10.3758/s13428-022-02050-9",
+    "title": "link.springer.com/article/10.3...",
+    "latest": "2023-02-06T01:35:10+00:00",
+    "first": "2023-02-06T01:35:10+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@gershbrain/109815222123043812",
+      "content": "<p>This looks like an awesome new data resource: the Timing Database.<br><a href=\"https://timingdatabase.shinyapps.io/DownloadUI/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">timingdatabase.shinyapps.io/Do</span><span class=\"invisible\">wnloadUI/</span></a><br><a href=\"https://link.springer.com/article/10.3758/s13428-022-02050-9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/article/10.3</span><span class=\"invisible\">758/s13428-022-02050-9</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@gershbrain",
+        "display_name": "Sam Gershman"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2212.02581",
     "title": "Editing a Woman's Voice",
     "latest": "2023-02-05T23:30:48+00:00",
@@ -3276,102 +3372,6 @@
       {
         "url": "https://recurse.social/@rntz",
         "display_name": "rntz"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1016/j.scitotenv.2023.161716",
-    "title": "doi.org/10.1016/j.scitotenv.20...",
-    "latest": "2023-01-25T14:16:03+00:00",
-    "first": "2023-01-25T14:16:03+00:00",
-    "last_post": {
-      "url": "https://mapstodon.space/@WorldPopProject/109750266313913966",
-      "content": "<p>New <a href=\"https://mapstodon.space/tags/Research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Research</span></a> Alert! \ud83d\udea8 </p><p>Led by Dr Sarchil Qader - Exploring the use of <a href=\"https://mapstodon.space/tags/Sentinel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Sentinel</span></a>-2 datasets and environmental variables to model wheat crop yield in smallholder arid and semi-arid <a href=\"https://mapstodon.space/tags/farming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>farming</span></a> systems - @STOTEN_journal <a href=\"https://mapstodon.space/tags/agriculture\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>agriculture</span></a> <a href=\"https://mapstodon.space/tags/SatelliteData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SatelliteData</span></a> <a href=\"https://mapstodon.space/tags/Bayesian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Bayesian</span></a> <a href=\"https://mapstodon.space/tags/Mapping\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mapping</span></a> <a href=\"https://doi.org/10.1016/j.scitotenv.2023.161716\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.scitotenv.20</span><span class=\"invisible\">23.161716</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mapstodon.space/@WorldPopProject",
-        "display_name": "WorldPopProject"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1101/2022.06.30.498280",
-    "title": "doi.org/10.1101/2022.06.30.498...",
-    "latest": "2023-01-25T11:32:02+00:00",
-    "first": "2023-01-25T11:32:02+00:00",
-    "last_post": {
-      "url": "https://ecoevo.social/@PeerCommunityIn/109749621400935388",
-      "content": "<p>A new <a href=\"https://ecoevo.social/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> <a href=\"https://ecoevo.social/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> <a href=\"https://ecoevo.social/tags/PeerReview\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PeerReview</span></a> by <a href=\"https://ecoevo.social/tags/PCIEvolBiol\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PCIEvolBiol</span></a>: Laroche F, Lenormand T (2022) The genetic architecture of local adaptation in a cline. <a href=\"https://ecoevo.social/tags/bioRxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bioRxiv</span></a> <a href=\"https://doi.org/10.1101/2022.06.30.498280\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1101/2022.06.30.498</span><span class=\"invisible\">280</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://ecoevo.social/@PeerCommunityIn",
-        "display_name": "Peer Community In"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1101/2022.08.16.503739",
-    "title": "doi.org/10.1101/2022.08.16.503...",
-    "latest": "2023-01-25T11:16:00+00:00",
-    "first": "2023-01-25T11:16:00+00:00",
-    "last_post": {
-      "url": "https://ecoevo.social/@PeerCommunityIn/109749558343823199",
-      "content": "<p>A new <a href=\"https://ecoevo.social/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> <a href=\"https://ecoevo.social/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> <a href=\"https://ecoevo.social/tags/PeerReview\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PeerReview</span></a> by <a href=\"https://ecoevo.social/tags/PCI_Ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PCI_Ecology</span></a>: Lenzi O, Grossenbacher K, Zumbach S, L\u00fcscher B, Althaus S, Schmocker D, Recher H, Thoma M, Ozgul A, Schmidt BR (2022) Four decades of phenology in an alpine <a href=\"https://ecoevo.social/tags/amphibian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>amphibian</span></a>: trends, stasis, and climatic drivers. <a href=\"https://ecoevo.social/tags/bioRxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bioRxiv</span></a>, <a href=\"https://doi.org/10.1101/2022.08.16.503739\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1101/2022.08.16.503</span><span class=\"invisible\">739</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://ecoevo.social/@PeerCommunityIn",
-        "display_name": "Peer Community In"
-      }
-    ]
-  },
-  {
-    "link": "http://arxiv.org/abs/2301.09308",
-    "title": "http://arxiv.org/abs/2301.09308",
-    "latest": "2023-01-25T10:39:19+00:00",
-    "first": "2023-01-25T10:37:28+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@chaitjo/109749414113011945",
-      "content": "<p>\ud83d\ude80 Excited+nervous to share our latest work on understanding geometric GNNs for biomolecules, materials, etc.</p><p>\"On the Expressive Power of Geometric GNNs\" with Cris Bodnar, Simon V. Mathis, Taco Cohen and Pietro Li\u00f2.</p><p>PDF: <a href=\"http://arxiv.org/abs/2301.09308\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/2301.09308</span><span class=\"invisible\"></span></a></p><p>Code: <a href=\"http://github.com/chaitjo/geometric-gnn-dojo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">github.com/chaitjo/geometric-g</span><span class=\"invisible\">nn-dojo</span></a></p><p>Key findings: <a href=\"https://twitter.com/chaitjo/status/1617812402632019968\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/chaitjo/status/161</span><span class=\"invisible\">7812402632019968</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@chaitjo",
-        "display_name": "Chaitanya K. Joshi"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2210.05050",
-    "title": "Neurosymbolic Programming for Science",
-    "latest": "2023-01-25T06:48:07+00:00",
-    "first": "2023-01-25T06:48:07+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@chrisshank/109748504999837369",
-      "content": "<p>\u201cNeurosymbolic Programming for Science\u201d by Sun et al. (2022)</p><p><a href=\"https://arxiv.org/abs/2210.05050\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2210.05050</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@chrisshank",
-        "display_name": "\ud835\udd6e"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.48550/arXiv.2301.10196",
-    "title": "doi.org/10.48550/arXiv.2301.10...",
-    "latest": "2023-01-25T06:33:32+00:00",
-    "first": "2023-01-25T06:33:32+00:00",
-    "last_post": {
-      "url": "https://mastodon-pa.sorbonne-universite.fr/@piquemal/109748447672253817",
-      "content": "<p><a href=\"https://mastodon-pa.sorbonne-universite.fr/tags/compchem\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compchem</span></a> <a href=\"https://mastodon-pa.sorbonne-universite.fr/tags/quantumcomputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quantumcomputing</span></a> New <a href=\"https://mastodon-pa.sorbonne-universite.fr/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a>: Overlap-ADAPT-VQE: Practical Quantum Chemistry on Quantum Computers via Overlap-Guided Compact Ans\u00e4tze. Great work by C. Feniou and M. Hassan; nice theochem/maths interdisciplinary collaboration with Y. Maday. <a href=\"https://doi.org/10.48550/arXiv.2301.10196\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.48550/arXiv.2301.10</span><span class=\"invisible\">196</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon-pa.sorbonne-universite.fr/@piquemal",
-        "display_name": "Jean-Philip Piquemal"
       }
     ]
   }
