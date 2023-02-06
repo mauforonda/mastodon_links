@@ -1,5 +1,85 @@
 [
   {
+    "link": "https://github.com/gkaramanis/mappromptmonday/tree/master/2023/2023-week_06",
+    "title": "mappromptmonday/2023/2023-week_06 at master \u00b7 gkaramanis/mappromptmonday",
+    "latest": "2023-02-06T17:33:45+00:00",
+    "first": "2023-02-06T17:33:45+00:00",
+    "last_post": {
+      "url": "https://vis.social/@georgios/109818991430719865",
+      "content": "<p>Lowest and highest temperatures between 1970 and 2000 for this week's <a href=\"https://vis.social/tags/MapPromptMonday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MapPromptMonday</span></a> (Climate/Weather)<br>code: <a href=\"https://github.com/gkaramanis/mappromptmonday/tree/master/2023/2023-week_06\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gkaramanis/mappromp</span><span class=\"invisible\">tmonday/tree/master/2023/2023-week_06</span></a></p><p><a href=\"https://vis.social/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://vis.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@georgios",
+        "display_name": "Georgios Karamanis"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/astrowonk/search_transcripts",
+    "title": "GitHub - astrowonk/search_transcripts: Convert a directory of .vtt or json transcripts into a fast searchable database",
+    "latest": "2023-02-06T16:46:32+00:00",
+    "first": "2023-01-26T18:33:15+00:00",
+    "last_post": {
+      "url": "https://vmst.io/@marcoshuerta/109818805794725260",
+      "content": "<p><span class=\"h-card\"><a href=\"https://jawns.club/@vicki\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vicki</span></a></span> FYI I built a python library to take a folder of Whisper transcripts (ostensibly of podcasts, but could be anything), chunk them into ~300 word blocks, and push them into a full text search (FTS5) enabled sqlite database:</p><p><a href=\"https://github.com/astrowonk/search_transcripts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/astrowonk/search_tr</span><span class=\"invisible\">anscripts</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2",
+    "title": "A list of RSS endpoints, readers and resources",
+    "latest": "2023-02-06T16:18:17+00:00",
+    "first": "2023-02-06T16:18:17+00:00",
+    "last_post": {
+      "url": "https://graphics.social/@thefranke/109818589238174310",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.gamedev.place/@doppioslash\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>doppioslash</span></a></span> </p><p>Btw, I made a list of RSS endpoints for all kinds of services: <a href=\"https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/thefranke/6385</span><span class=\"invisible\">3a6f8c499dc97bc17838f6cedcc2</span></a></p><p>It's not showing every variation, but there's a good overview for instance for the various Twitter RSS endpoints, as they sometimes format (in a content sense) messages differently. RSS-Bridge has a RSS stream for Fediverse/Mastodon profiles, which is much nicer than the built-in one Mastodon has for example.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/veekaybee/3cd4f7f417f8eb83a40eecaeed1fd83a",
+    "title": "whisper.ipynb",
+    "latest": "2023-02-06T15:24:27+00:00",
+    "first": "2023-02-06T15:24:27+00:00",
+    "last_post": {
+      "url": "https://jawns.club/@vicki/109818482989582747",
+      "content": "<p>Have been trying out Whisper, the transcription model from OpenAI, and ran it across this 2-hour <a href=\"https://jawns.club/tags/recsys\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>recsys</span></a> interview, which I really loved and has a LOT of valuable goodness. </p><p>It's really good, even for NER tasks (i.e. recognizing Spotify in the text), the only thing it's not built for is splitting speakers, but tools are being built on top to account for that. </p><p>All transcription code and the actual transcript are here. <a href=\"https://gist.github.com/veekaybee/3cd4f7f417f8eb83a40eecaeed1fd83a\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/veekaybee/3cd4</span><span class=\"invisible\">f7f417f8eb83a40eecaeed1fd83a</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://jawns.club/@vicki",
+        "display_name": "Vicki Boykis"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/vercel/next.js/discussions/36349#discussioncomment-2614989",
+    "title": "basePath supports for public assets \u00b7 Discussion #36349 \u00b7 vercel/next.js",
+    "latest": "2023-02-06T15:22:53+00:00",
+    "first": "2023-02-06T15:22:53+00:00",
+    "last_post": {
+      "url": "https://vis.social/@llimllib/109818476873355028",
+      "content": "<p>Seriously though, look at this hackery: <a href=\"https://github.com/vercel/next.js/discussions/36349#discussioncomment-2614989\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vercel/next.js/disc</span><span class=\"invisible\">ussions/36349#discussioncomment-2614989</span></a></p><p>I try to solve things the way that is natural to the ecosystem I'm using, but in this case I'll take my one-line sed fix instead, tyvm</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@llimllib",
+        "display_name": "llimllib"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/simonoliver/UnityFigmaBridge",
     "title": "GitHub - simonoliver/UnityFigmaBridge: Easily bring your Figma Documents, Components, Assets and Prototypes to Unity",
     "latest": "2023-02-06T15:08:00+00:00",
@@ -3364,86 +3444,6 @@
       {
         "url": "https://fosstodon.org/@giswqs",
         "display_name": "Qiusheng Wu"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hodgesmr/2022-campaign-tech-keynote-talent",
-    "title": "GitHub - hodgesmr/2022-campaign-tech-keynote-talent: PDF of my morning keynote on the importance of retaining tech talent in political work",
-    "latest": "2023-01-27T13:52:26+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@MattHodges/109761498068699291",
-      "content": "<p>Our users \u2014 other staff \u2014 didn't even know that there was an AI / ML component. That had two ways to use the tool: ingest and search. Ingest allowed them to upload files or paste urls and our weird bots took it from there. Search was search. Media was returned with transcript, links back to source material, and relevant people, locations, and organizations tagged. I spoke a bit about this during my CampaignTech Innovation Summit keynote\u00b2 in November. <a href=\"https://mastodon.social/tags/PoliticalTech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PoliticalTech</span></a> 3/</p><p>\u00b2 <a href=\"https://github.com/hodgesmr/2022-campaign-tech-keynote-talent\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/2022-campa</span><span class=\"invisible\">ign-tech-keynote-talent</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      }
-    ],
-    "first": "2023-01-04T00:56:54+00:00"
-  },
-  {
-    "link": "https://github.com/papers-we-love/papers-we-love/blob/master/data_compression/Significantly_Improving_Lossy_Compression_for_Scientific_Data_Sets_Based_on_Multidimensional_Prediction_and_Error-Controlled_Quantization.pdf",
-    "title": "github.com/papers-we-love/pape...",
-    "latest": "2023-01-27T13:05:05+00:00",
-    "first": "2023-01-27T13:05:05+00:00",
-    "last_post": {
-      "url": "https://mstdn.io/@paperswelove/109761311929920777",
-      "content": "<p>\ud83d\udcdc Significantly Improving Lossy Compression for Scientific Data Sets Based on Multidimensional Prediction and Error-Controlled Quantization [2017]</p><p>By: Dingwen Tao, Sheng Di, Zizhong Chen, et al.</p><p>\ud83d\udcd6 <a href=\"https://github.com/papers-we-love/papers-we-love/blob/master/data_compression/Significantly_Improving_Lossy_Compression_for_Scientific_Data_Sets_Based_on_Multidimensional_Prediction_and_Error-Controlled_Quantization.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/papers-we-love/pape</span><span class=\"invisible\">rs-we-love/blob/master/data_compression/Significantly_Improving_Lossy_Compression_for_Scientific_Data_Sets_Based_on_Multidimensional_Prediction_and_Error-Controlled_Quantization.pdf</span></a><br>\ud83d\udd0d <a href=\"https://www.semanticscholar.org/paper/4370744924f3bd3915a0baa8b4d1d217d4dc4649\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semanticscholar.org/paper/4370</span><span class=\"invisible\">744924f3bd3915a0baa8b4d1d217d4dc4649</span></a></p><p><a href=\"https://mstdn.io/tags/semanticScholar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>semanticScholar</span></a> <a href=\"https://mstdn.io/tags/paperswelove\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperswelove</span></a> <a href=\"https://mstdn.io/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a> <a href=\"https://mstdn.io/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.io/@paperswelove",
-        "display_name": "Papers We Love"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/JuliaGraphs/MultilayerGraphs.jl",
-    "title": "GitHub - JuliaGraphs/MultilayerGraphs.jl: A Julia package for the creation, manipulation and analysis of the structure, dynamics and functions of multilayer graphs.",
-    "latest": "2023-01-27T12:30:58.203000+00:00",
-    "first": "2023-01-09T21:04:14.165000+00:00",
-    "last_post": {
-      "url": "https://bayes.club/@PietroMonticone/109761177630068660",
-      "content": "<p>\ud83d\udce2 New minor release of MultilayerGraphs.jl (1.1.2)!</p><p>\u2705 Implemented node-aligned edge-colored graphs. </p><p>They can be adopted to model online social media networks like <span class=\"h-card\"><a href=\"https://mastodon.social/@Mastodon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Mastodon</span></a></span> endowed with layers encoding multiple interaction types (e.g. \"like\", \"boost\", \"follow\", etc.) and no interlayers.</p><p>\ud83d\udce6 Repo: <a href=\"https://github.com/JuliaGraphs/MultilayerGraphs.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaGraphs/Multila</span><span class=\"invisible\">yerGraphs.jl</span></a></p><p>\ud83d\udcc1 Docs: <a href=\"https://juliagraphs.org/MultilayerGraphs.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">juliagraphs.org/MultilayerGrap</span><span class=\"invisible\">hs.jl</span></a></p><p><a href=\"https://bayes.club/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> <a href=\"https://bayes.club/tags/JuliaPackages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaPackages</span></a> <a href=\"https://bayes.club/tags/GraphMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GraphMastodon</span></a> <a href=\"https://bayes.club/tags/MultilayerGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultilayerGraphs</span></a> <a href=\"https://bayes.club/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://bayes.club/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://bayes.club/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> </p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/julialang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>julialang</span></a></span><br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://a.gup.pe/u/networkscience",
-        "display_name": "networkscience group"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-27_Hilma-Af-Klint",
-    "title": "github.com/paezha/genuary2023/...",
-    "latest": "2023-01-27T12:19:21+00:00",
-    "first": "2023-01-27T12:19:21+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@paezha/109761132083487468",
-      "content": "<p><a href=\"https://mastodon.online/tags/Genuary27\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary27</span></a> <a href=\"https://mastodon.online/tags/genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genuary</span></a> <a href=\"https://mastodon.online/tags/Rtistry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rtistry</span></a> </p><p>Day 27: Hilma af Klint</p><p>A practitioner of automatic painting, af Klint's abstract work predates that of Kandinsky, Malevtich, and Mondrian.</p><p><a href=\"https://en.wikipedia.org/wiki/Surrealist_automatism#Automatic_drawing_and_painting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Surreali</span><span class=\"invisible\">st_automatism#Automatic_drawing_and_painting</span></a></p><p>For this piece I drew inspiration from The Swan series. So simple and yet so full of depth. This seems to be a popular reference for today's prompt!</p><p><span class=\"h-card\"><a href=\"https://mstdn.social/@AaronReuland\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>AaronReuland</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jacquietran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jacquietran</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@meghansharris\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meghansharris</span></a></span> <span class=\"h-card\"><a href=\"https://genart.social/@davepagurek\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>davepagurek</span></a></span> </p><p>Coded in <a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> using <a href=\"https://mastodon.online/tags/SimpleFeatures\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SimpleFeatures</span></a> and <a href=\"https://mastodon.online/tags/ggplot2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggplot2</span></a>. See my repo:</p><p><a href=\"https://github.com/paezha/genuary2023/tree/master/2022-01-27_Hilma-Af-Klint\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paezha/genuary2023/</span><span class=\"invisible\">tree/master/2022-01-27_Hilma-Af-Klint</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@paezha",
-        "display_name": "Antonio P\u00e1ez"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/facebook/react-native/issues/35936#issuecomment-1406193574",
-    "title": "[Investigation] ANRs Using Multiline TextInput on Samsung Devices \u00b7 Issue #35936 \u00b7 facebook/react-native",
-    "latest": "2023-01-27T10:46:15+00:00",
-    "first": "2023-01-27T10:46:15+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@kelset/109760765989984380",
-      "content": "<p>update for <a href=\"https://mastodon.online/tags/reactnative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reactnative</span></a> \u269b\ufe0f + Samsung Keyboard + Android 13 + Grammarly issue: @cortinico published instructions on how to test the latest nightly, that contains a potential fix for the problem \ud83d\udc47</p><p>Help us verify that this fix addresses the issue \ud83e\udef5<br><a href=\"https://github.com/facebook/react-native/issues/35936#issuecomment-1406193574\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebook/react-nati</span><span class=\"invisible\">ve/issues/35936#issuecomment-1406193574</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@kelset",
-        "display_name": "Lorenzo \ud83c\uddfa\ud83c\udde6"
       }
     ]
   }
