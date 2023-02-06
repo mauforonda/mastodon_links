@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/simonoliver/UnityFigmaBridge",
+    "title": "GitHub - simonoliver/UnityFigmaBridge: Easily bring your Figma Documents, Components, Assets and Prototypes to Unity",
+    "latest": "2023-02-06T15:08:00+00:00",
+    "first": "2023-02-06T15:08:00+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@simonoliver/109789242496223856",
+      "content": "<p>Announcing the release of Unity Figma Bridge \ud83c\udf89A free, open-source package that lets you generate native Unity UI from your Figma Designs with full recreation of prototype flows. Great for jamming and prototyping! Get it here - <a href=\"https://github.com/simonoliver/UnityFigmaBridge\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonoliver/UnityFi</span><span class=\"invisible\">gmaBridge</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@lifewinning/bodega-inventory-as-gentrification-metric",
+    "title": "Bodega Inventory as Gentrification Metric",
+    "latest": "2023-02-06T14:25:48+00:00",
+    "first": "2023-02-06T14:25:48+00:00",
+    "last_post": {
+      "url": "https://social.coop/@inevernu/109818252402860565",
+      "content": "<p>Loved these maps by <span class=\"h-card\"><a href=\"https://everything.happens.horse/@ingrid\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ingrid</span></a></span> using bodegas and Soylent as a gentrification metric. Walking this morning I started wondering if Amazon Prime van activity vs cop car circulation might be another good one? I see wayyyy more vans than cops in my gentrified \"arrondissement.\" <br>(I *think* here in Montreal there are fewer cops circulating in richer neighbourhoods but I'm pretty sure that's not the case in the US so my idea might not work. \ud83e\udd14 (If the data is even available.))<br><a href=\"https://observablehq.com/@lifewinning/bodega-inventory-as-gentrification-metric\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@lifewinning/</span><span class=\"invisible\">bodega-inventory-as-gentrification-metric</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@inevernu",
+        "display_name": "Patrick Tanguay"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Developer-Notes-Extension/Unity-Notes",
+    "title": "GitHub - Developer-Notes-Extension/Unity-Notes: Developer Notes for Unity Docs",
+    "latest": "2023-02-06T13:07:28+00:00",
+    "first": "2023-02-06T13:07:28+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@radiatoryang/109814570574352009",
+      "content": "<p>still recommend the unofficial community <a href=\"https://mastodon.gamedev.place/tags/Unity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Unity</span></a> Notes browser plugin that adds a comments section for every Unity Docs page <a href=\"https://github.com/Developer-Notes-Extension/Unity-Notes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Developer-Notes-Ext</span><span class=\"invisible\">ension/Unity-Notes</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/histoire-dev/histoire/releases/tag/v0.13.0",
     "title": "Release v0.13.0 \u00b7 histoire-dev/histoire",
     "latest": "2023-02-06T09:32:24+00:00",
@@ -3396,54 +3444,6 @@
       {
         "url": "https://mastodon.online/@kelset",
         "display_name": "Lorenzo \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@neocartocnrs/bertin-js-chropoleth?collection=@neocartocnrs/bertin",
-    "title": "Bertin.js: choropleth",
-    "latest": "2023-01-27T08:32:05+00:00",
-    "first": "2023-01-27T08:32:05+00:00",
-    "last_post": {
-      "url": "https://vis.social/@neocarto/109760238390344082",
-      "content": "<p>It was missing. In <a href=\"https://vis.social/tags/bertin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bertin</span></a>, you can now make choropleth maps with a geometric progression. <a href=\"https://vis.social/tags/JSspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSspatial</span></a> <a href=\"https://vis.social/tags/cartography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cartography</span></a> <a href=\"https://observablehq.com/@neocartocnrs/bertin-js-chropoleth?collection=@neocartocnrs/bertin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/bertin-js-chropoleth?collection=@neocartocnrs/bertin</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@neocarto",
-        "display_name": "Nicolas Lambert \ud83c\udf0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/pointfreeco/swift-custom-dump",
-    "title": "GitHub - pointfreeco/swift-custom-dump: A collection of tools for debugging, diffing, and testing your application's data structures.",
-    "latest": "2023-01-27T07:46:53+00:00",
-    "first": "2023-01-27T07:46:53+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ricobeck/109757589602257092",
-      "content": "<p><a href=\"https://mastodon.social/tags/swift\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>swift</span></a> tip for testing: Do yourself a favor and use <span class=\"h-card\"><a href=\"https://hachyderm.io/@pointfreeco\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pointfreeco</span></a></span>\u2018s XCTAssertNoDifference from their Custom Dump library.</p><p>Diffing huge result datasets instantly becomes manageable.</p><p><a href=\"https://github.com/pointfreeco/swift-custom-dump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pointfreeco/swift-c</span><span class=\"invisible\">ustom-dump</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ctietze",
-        "display_name": "Christian Tietze"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/akamai/akamai-security-research/tree/main/PoCs/CVE-2022-34689",
-    "title": "akamai-security-research/PoCs/CVE-2022-34689 at main \u00b7 akamai/akamai-security-research",
-    "latest": "2023-01-27T07:39:30+00:00",
-    "first": "2023-01-27T07:39:30+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@Sempf/109759342402138573",
-      "content": "<p>PoC out for the CryptoAPI bug.</p><p><a href=\"https://github.com/akamai/akamai-security-research/tree/main/PoCs/CVE-2022-34689\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/akamai/akamai-secur</span><span class=\"invisible\">ity-research/tree/main/PoCs/CVE-2022-34689</span></a></p><p>Worth a look at least.</p>"
-    },
-    "people": [
-      {
-        "url": "https://infosec.exchange/@hacks4pancakes",
-        "display_name": "Lesley Carhart :unverified:"
       }
     ]
   }
