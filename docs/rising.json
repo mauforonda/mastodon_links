@@ -56,6 +56,30 @@
     ]
   },
   {
+    "link": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/",
+    "title": "Speeding up the JavaScript ecosystem - eslint",
+    "latest": "2023-02-05T21:10:20+00:00",
+    "first": "2023-02-05T18:09:23+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@marvinh/109812972575672128",
+      "content": "<p>Speeding up the JavaScript ecosystem - Part 3 \ud83d\ude80</p><p>This time we're taking a closer look at eslint and what is needed for a linter to do it's jobs. There are a few surprises in there that would make it faster.</p><p><a href=\"https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marvinh.dev/blog/speeding-up-j</span><span class=\"invisible\">avascript-ecosystem-part-3/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toot.cafe/@oliverturner",
+        "display_name": "Oliver"
+      },
+      {
+        "url": "https://toot.cafe/@nolan",
+        "display_name": "Nolan"
+      },
+      {
+        "url": "https://m.webtoo.ls/@patak",
+        "display_name": "patak"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/tootsdk/tootsdk",
     "title": "https://github.com/tootsdk/tootsdk",
     "latest": "2023-02-05T15:34:53+00:00",
@@ -156,22 +180,22 @@
     ]
   },
   {
-    "link": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/",
-    "title": "Speeding up the JavaScript ecosystem - eslint",
-    "latest": "2023-02-05T16:53:51+00:00",
-    "first": "2023-02-05T18:09:23+00:00",
+    "link": "https://medium.com/@owenyin/scoop-oh-the-things-youll-do-with-bing-s-chatgpt-62b42d8d7198",
+    "title": "Scoop: Oh the Things You\u2019ll Do with Bing\u2019s ChatGPT - Features Sneak Peek | Medium",
+    "latest": "2023-02-05T22:03:44+00:00",
+    "first": "2023-02-05T12:50:46+00:00",
     "last_post": {
-      "url": "https://toot.cafe/@nolan/109813172239910808",
-      "content": "<p>\"Speeding up the JavaScript ecosystem - eslint\" by Marvin Hagemeister <a href=\"https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">marvinh.dev/blog/speeding-up-j</span><span class=\"invisible\">avascript-ecosystem-part-3/</span></a></p><p>This series has been so useful in both 1) showing how a great performance engineer thinks, and 2) that it's not really JavaScript that's the problem; it's our tools being under-optimized that's the problem.</p>"
+      "url": "https://someone.elses.computer/@mikarv/109814390730796879",
+      "content": "<p>at least <a href=\"https://someone.elses.computer/tags/Microsoft\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Microsoft</span></a>\u2019s reported integration of <a href=\"https://someone.elses.computer/tags/GPT4\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GPT4</span></a> into <a href=\"https://someone.elses.computer/tags/Bing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Bing</span></a> saves regulators the back and forth of \u2018is a large language model processing personal data\u2019 (spoiler: often) because now they can just look at the Google Spain case.</p><p>Yet how will Microsoft comply with right to be forgotten requests? <a href=\"https://medium.com/@owenyin/scoop-oh-the-things-youll-do-with-bing-s-chatgpt-62b42d8d7198\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">medium.com/@owenyin/scoop-oh-t</span><span class=\"invisible\">he-things-youll-do-with-bing-s-chatgpt-62b42d8d7198</span></a> <a href=\"https://someone.elses.computer/tags/LLMs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLMs</span></a> <a href=\"https://someone.elses.computer/tags/chatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chatGPT</span></a> <a href=\"https://someone.elses.computer/tags/eudp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>eudp</span></a> <a href=\"https://someone.elses.computer/tags/rtbf\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rtbf</span></a></p>"
     },
     "people": [
       {
-        "url": "https://toot.cafe/@oliverturner",
-        "display_name": "Oliver"
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
       },
       {
-        "url": "https://toot.cafe/@nolan",
-        "display_name": "Nolan"
+        "url": "https://someone.elses.computer/@mikarv",
+        "display_name": "Michael Veale"
       }
     ]
   },
@@ -192,6 +216,46 @@
       {
         "url": "https://mastodon.social/@justinhendrix",
         "display_name": "Justin Hendrix"
+      }
+    ]
+  },
+  {
+    "link": "https://www.samharris.org/podcasts/making-sense-episodes/310-social-media-public-trust",
+    "title": "Sam Harris | #310 - Social Media & Public Trust",
+    "latest": "2023-02-05T23:39:52+00:00",
+    "first": "2023-02-05T16:29:48+00:00",
+    "last_post": {
+      "url": "https://saturation.social/@Noupside/109813077647226223",
+      "content": "<p>I went on the Sam Harris Podcast w/Bari Weiss &amp; Michael Shellenberger - two journos who worked on the Twitter files - to talk ab social media &amp; public trust. Some of the convo was ab findings- different interpretations of Files stories -but much was ab loss of trust in institutions. We talked ab \u201cRussiagate\u201d, the role of the govt (FBI &amp; CDC talking to platforms?), the infamous \ud83d\udcbb, &amp; the need for transparency. </p><p><a href=\"https://www.samharris.org/podcasts/making-sense-episodes/310-social-media-public-trust\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">samharris.org/podcasts/making-</span><span class=\"invisible\">sense-episodes/310-social-media-public-trust</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://saturation.social/@Noupside",
+        "display_name": "Renee DiResta"
+      },
+      {
+        "url": "https://me.dm/@buster",
+        "display_name": "Buster Benson"
+      }
+    ]
+  },
+  {
+    "link": "https://archive.org/details/@the_ibis_rebellion",
+    "title": "archive.org/details/@the_ibis_...",
+    "latest": "2023-02-05T23:13:47+00:00",
+    "first": "2023-02-05T15:09:25+00:00",
+    "last_post": {
+      "url": "https://mastodon.archive.org/@textfiles/109812757982523009",
+      "content": "<p>Some users are so prolific and so high-quality uploaders that just visiting their \"user uploads\" page is an exquisite curation it itself.</p><p>Such it is with THE IBIS REBELLION, who has been scanning in and uploading discard pulp magazines with a nod to quality and evocation for years:</p><p><a href=\"https://archive.org/details/@the_ibis_rebellion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">archive.org/details/@the_ibis_</span><span class=\"invisible\">rebellion</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.archive.org/@brewsterkahle",
+        "display_name": "Brewster Kahle"
+      },
+      {
+        "url": "https://social.coop/@konrad",
+        "display_name": "Konrad M. Lawson"
       }
     ]
   }

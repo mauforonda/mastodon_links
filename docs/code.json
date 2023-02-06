@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/JoshuaKGoldberg/ts-tools",
+    "title": "GitHub - JoshuaKGoldberg/ts-tools: Utility functions for working with TypeScript's API. Based on the wonderful ajafff/tsutils.",
+    "latest": "2023-02-05T23:39:20+00:00",
+    "first": "2023-02-05T23:39:20+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@JoshuaKGoldberg/109814766693038076",
+      "content": "<p>Ended up going with ts-tools! \u2728</p><p><a href=\"https://github.com/JoshuaKGoldberg/ts-tools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JoshuaKGoldberg/ts-</span><span class=\"invisible\">tools</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@JoshuaKGoldberg",
+        "display_name": "Josh Goldberg \ud83d\udc96"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/neet/masto.js/",
     "title": "GitHub - neet/masto.js: \ud83d\udc18 Mastodon API client for JavaScript, TypeScript, Node.js, browsers",
     "latest": "2023-02-05T20:22:58+00:00",
@@ -3432,22 +3448,6 @@
       {
         "url": "https://mefi.social/@melissaekline",
         "display_name": "Melissa Kline Struhl"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/astrowonk/search_transcripts",
-    "title": "GitHub - astrowonk/search_transcripts: Convert a directory of .vtt or json transcripts into a fast searchable database",
-    "latest": "2023-01-26T18:33:15+00:00",
-    "first": "2023-01-26T18:33:15+00:00",
-    "last_post": {
-      "url": "https://vmst.io/@marcoshuerta/109756940019194378",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@SebRaschka\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SebRaschka</span></a></span> FYI, I wrote a python module that takes a collection of .json or .vtt transcripts of anything (ostensibly podcasts, but any transcript will do), segments them into ~300 word chunks, and pushes them into a full-text-search (FTS5) enabled sqlite database:</p><p><a href=\"https://github.com/astrowonk/search_transcripts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/astrowonk/search_tr</span><span class=\"invisible\">anscripts</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
       }
     ]
   }
