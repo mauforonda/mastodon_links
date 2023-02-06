@@ -28,30 +28,6 @@
     ]
   },
   {
-    "link": "https://github.com/tootsdk/tootsdk",
-    "title": "https://github.com/tootsdk/tootsdk",
-    "latest": "2023-02-06T01:06:20+00:00",
-    "first": "2023-02-05T08:38:19+00:00",
-    "last_post": {
-      "url": "https://m.iamkonstantin.eu/objects/2361fd93-aad4-4037-8dae-386d3f40bc04",
-      "content": "Hey folks, TootSDK is now public! \ud83d\ude80<br><br>TootSDK is a Swift package for creating apps that interact with Mastodon, Pleroma and other Fediverse APIs.<br><br>It handles the data model and network calls, with lovely async/await based calls.<br><br>The SDK is still young. There are plenty of API calls still to add. The foundations are strong, and TootSDK is very useful already.<br><br>Contributions and PRs are more than welcome!<br><br>Check out the repo here: <a href=\"https://github.com/tootsdk/tootsdk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/tootsdk/tootsdk</a> :mastodance: :apple:<br><br><a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/iosdev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#iosdev</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/vapor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#vapor</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/serversideswift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#serversideswift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/appkit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#appkit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/uikit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#uikit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swiftui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swiftui</a>"
-    },
-    "people": [
-      {
-        "url": "https://curbal.social/@ruthpozuelo",
-        "display_name": "Ruth Pozuelo Martinez"
-      },
-      {
-        "url": "https://mastodon.social/@dahukanna",
-        "display_name": "Dawn Ahukanna"
-      },
-      {
-        "url": "https://hci.social/@barik",
-        "display_name": "Titus Barik"
-      }
-    ]
-  },
-  {
     "link": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/",
     "title": "Speeding up the JavaScript ecosystem - eslint",
     "latest": "2023-02-05T21:10:20+00:00",
@@ -312,6 +288,46 @@
       {
         "url": "https://mastodon.social/@Cmastication",
         "display_name": "JD Long \u2705"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.01560",
+    "title": "Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents",
+    "latest": "2023-02-06T08:37:22+00:00",
+    "first": "2023-02-06T04:29:17+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109815906823098338",
+      "content": "<p>RT @jeasinema@twitter.com</p><p>Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents</p><p>Can ChatGPT help with open-world game playing, like Minecraft? It sure can!  \ud83e\uddf5\ud83d\udc47</p><p><a href=\"https://arxiv.org/abs/2302.01560\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01560</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/CraftJarvis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/CraftJarvis</span><span class=\"invisible\"></span></a>(code will be shipped soon)</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/jeasinema/status/1622428535897067521\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/jeasinema/status/1</span><span class=\"invisible\">622428535897067521</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/CraftJarvis",
+    "title": "https://github.com/CraftJarvis",
+    "latest": "2023-02-06T08:37:22+00:00",
+    "first": "2023-02-06T04:29:17+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109815906823098338",
+      "content": "<p>RT @jeasinema@twitter.com</p><p>Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents</p><p>Can ChatGPT help with open-world game playing, like Minecraft? It sure can!  \ud83e\uddf5\ud83d\udc47</p><p><a href=\"https://arxiv.org/abs/2302.01560\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01560</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/CraftJarvis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/CraftJarvis</span><span class=\"invisible\"></span></a>(code will be shipped soon)</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/jeasinema/status/1622428535897067521\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/jeasinema/status/1</span><span class=\"invisible\">622428535897067521</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
       }
     ]
   }
