@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://arxiv.org/abs/2302.01560",
+    "title": "Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents",
+    "latest": "2023-02-06T04:29:17+00:00",
+    "first": "2023-02-06T04:29:17+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109815906823098338",
+      "content": "<p>RT @jeasinema@twitter.com</p><p>Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents</p><p>Can ChatGPT help with open-world game playing, like Minecraft? It sure can!  \ud83e\uddf5\ud83d\udc47</p><p><a href=\"https://arxiv.org/abs/2302.01560\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01560</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/CraftJarvis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/CraftJarvis</span><span class=\"invisible\"></span></a>(code will be shipped soon)</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/jeasinema/status/1622428535897067521\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/jeasinema/status/1</span><span class=\"invisible\">622428535897067521</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2302.01398",
     "title": "The unreasonable effectiveness of few-shot learning for machine translation",
     "latest": "2023-02-06T03:09:13+00:00",
@@ -3356,22 +3372,6 @@
       {
         "url": "https://sigmoid.social/@culurciello",
         "display_name": "Eugenio Culurciello"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/math/0305282",
-    "title": "https://arxiv.org/abs/math/0305282",
-    "latest": "2023-01-25T14:41:32+00:00",
-    "first": "2023-01-25T14:41:32+00:00",
-    "last_post": {
-      "url": "https://types.pl/@maxsnew/109750304414816056",
-      "content": "<p>In tribute to Lawvere, here is one of his ideas that is simple enough to explain in one post.<br>The original paper is \"Diagonal arguments and cartesian closed categories\" (<a href=\"http://tac.mta.ca/tac/reprints/articles/15/tr15abs.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">tac.mta.ca/tac/reprints/articl</span><span class=\"invisible\">es/15/tr15abs.html</span></a>)</p><p>Lawvere's fixed point theorem is the positive constructive content of many diagonalization arguments.<br>Here I'll show how it unifies Cantor's theorem that there's no surjection from a set to its powerset and the construction of the Y combinator.</p><p>Lawvere's fixed point theorem in type theory:<br>If r : X -&gt; (X -&gt; D) is surjective (forall f: X -&gt; D. exists x. r x = f), then for every function h : D -&gt; D  there exists d : D. a fixed point of h , i.e., h d = d.</p><p>Proof:<br>Given h : D -&gt; D, by surjectivity there exists l:X such that r l = \u03bb x. h(r x x).<br>Then r l l is a fixed point of h:<br>r l l = (\u03bb x. h(r x x)) l = h (r l l)</p><p>Corollary: Cantor's theorem. There is no surjection X -&gt; (X -&gt; Prop).<br>Proof:<br>If there were, then every h : Prop -&gt; Prop would have a fixed point, but not : Prop -&gt; Prop does not have a fixed point (exercise).</p><p>If we strengthen the hypothesis we can get something which makes sense purely in the equational theory of the lambda calculus (i.e., no existential quantifiers) and therefore interpretable in all Cartesian Closed Categories.</p><p>Variant of Lawvere's fixed point theorem in STLC:<br>if r : X -&gt; (X -&gt; D) is a retract of s : (X -&gt; D) -&gt; X (i.e., (\u03bb x. r(s(x))) = (\u03bb x. x)), then we can construct a fixed point combinator Y : (D -&gt; D) -&gt; D, i.e., Y = \u03bb h. h(Y h).</p><p>Note that in the presence of the axiom of choice, this variant is equivalent to the previous, but the most interesting applications are in settings without choice.</p><p>Proof:<br>Y = \u03bb h. r (s (\u03bb x. h(r x x))) (s (\u03bb x. h(r x x)))<br>Here s (\u03bb x. h(r x x)) is the l in the previous proof, where our strengthened hypothesis gives us a choice of element rather than its mere existence.<br>Then<br>Y<br>= \u03bb h. Y h<br>= \u03bb h. r (s (\u03bb x. h(r x x))) (s (\u03bb x. h(r x x)))<br>= \u03bb h. (\u03bb x. h(r x x)) (s (\u03bb x. h(r x x)))<br>= \u03bb h. h(r (s (\u03bb x. h(r x x))) (s (\u03bb x. h(r x x)))))<br>= \u03bb h. h(Y h)</p><p>Which is the Y combinator in STLC, which more typically is constructed using a recursive type X =~ (X -&gt; D) with r, s the isomorphism, or in untyped lambda calculus which is equivalent to having a single type D where if only \u03b2 is assumed then D is a retract of (D -&gt; D) and with \u03b7 then D is isomorphic to (D -&gt; D).</p><p>Related expository material:<br>- <a href=\"https://arxiv.org/abs/math/0305282\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/math/0305282</span><span class=\"invisible\"></span></a><br>- <a href=\"https://math.andrej.com/2007/04/08/on-a-proof-of-cantors-theorem/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">math.andrej.com/2007/04/08/on-</span><span class=\"invisible\">a-proof-of-cantors-theorem/</span></a><br>- <a href=\"https://www.cs.bham.ac.uk/~mhe/agda-new/LawvereFPT.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cs.bham.ac.uk/~mhe/agda-new/La</span><span class=\"invisible\">wvereFPT.html</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://recurse.social/@rntz",
-        "display_name": "rntz"
       }
     ]
   }

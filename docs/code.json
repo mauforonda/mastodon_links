@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://github.com/benmarwick/ctv-archaeology#publications-that-include-r-code",
+    "title": "GitHub - benmarwick/ctv-archaeology: CRAN Task View: Archaeological Science",
+    "latest": "2023-02-06T04:50:48+00:00",
+    "first": "2023-02-06T04:50:48+00:00",
+    "last_post": {
+      "url": "https://archaeo.social/@archpaperscode/109803265680998875",
+      "content": "<p>There are now 324 <a href=\"https://archaeo.social/tags/archaeology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>archaeology</span></a> papers that include <a href=\"https://archaeo.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> code, with 6 published in 2023. You can see the full list here: <a href=\"https://github.com/benmarwick/ctv-archaeology#publications-that-include-r-code\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benmarwick/ctv-arch</span><span class=\"invisible\">aeology#publications-that-include-r-code</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://berlin.social/@psm_os",
+        "display_name": "Paul Schultze-Motel"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/CraftJarvis",
+    "title": "https://github.com/CraftJarvis",
+    "latest": "2023-02-06T04:29:17+00:00",
+    "first": "2023-02-06T04:29:17+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109815906823098338",
+      "content": "<p>RT @jeasinema@twitter.com</p><p>Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents</p><p>Can ChatGPT help with open-world game playing, like Minecraft? It sure can!  \ud83e\uddf5\ud83d\udc47</p><p><a href=\"https://arxiv.org/abs/2302.01560\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01560</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/CraftJarvis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/CraftJarvis</span><span class=\"invisible\"></span></a>(code will be shipped soon)</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/jeasinema/status/1622428535897067521\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/jeasinema/status/1</span><span class=\"invisible\">622428535897067521</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/simonw/datasette/issues/1558",
+    "title": "Redesign `facet_results` JSON structure prior to Datasette 1.0 \u00b7 Issue #1558 \u00b7 simonw/datasette",
+    "latest": "2023-02-06T03:49:12+00:00",
+    "first": "2023-02-06T03:49:12+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109815749213762189",
+      "content": "<p>Here's the initial issue that brought this problem to mind: <a href=\"https://github.com/simonw/datasette/issues/1558\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/datasette/is</span><span class=\"invisible\">sues/1558</span></a></p><p>Then I thought back on my interactions with this kind of API and realized that I very often end up writing code to turn the key/object structures into an array of objects-with-keys instead when I actually want to render them or process them in some way</p><p>Optimizing for lookup-by-key turns out not to be as useful as I always expect it to be</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/manna-harbour/miryoku",
+    "title": "github.com/manna-harbour/miryo...",
+    "latest": "2023-02-06T03:13:00+00:00",
+    "first": "2023-02-06T03:13:00+00:00",
+    "last_post": {
+      "url": "https://vis.social/@grantcuster/109815606818216316",
+      "content": "<p>Inspiration \u2193 <a href=\"https://feed.grantcuster.com/post/1675653174\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">feed.grantcuster.com/post/1675</span><span class=\"invisible\">653174</span></a><br>I've been experimenting more with keyboard customization again. Really appreciating Miryoku as an opinionated, minimal, layered layout.<br>from <a href=\"https://github.com/manna-harbour/miryoku\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/manna-harbour/miryo</span><span class=\"invisible\">ku</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@grantcuster",
+        "display_name": "grant"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/tootsdk/tootsdk",
     "title": "https://github.com/tootsdk/tootsdk",
     "latest": "2023-02-06T01:06:20+00:00",
@@ -3388,70 +3452,6 @@
       {
         "url": "https://curbal.social/@ruthpozuelo",
         "display_name": "Ruth Pozuelo Martinez"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Curbal-Data-Labs/Matplotlib-Labs/blob/master/Proportion%20plot/Proportion%20plot.ipynb",
-    "title": "Matplotlib-Labs/Proportion plot.ipynb at master \u00b7 Curbal-Data-Labs/Matplotlib-Labs",
-    "latest": "2023-01-26T21:50:47+00:00",
-    "first": "2023-01-26T21:50:47+00:00",
-    "last_post": {
-      "url": "https://curbal.social/@python/109757716746144064",
-      "content": "<p>If you want to create a proportion plot in  <a href=\"https://curbal.social/tags/matplotlib\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>matplotlib</span></a> , here is a guide:</p><p><a href=\"https://github.com/Curbal-Data-Labs/Matplotlib-Labs/blob/master/Proportion%20plot/Proportion%20plot.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Curbal-Data-Labs/Ma</span><span class=\"invisible\">tplotlib-Labs/blob/master/Proportion%20plot/Proportion%20plot.ipynb</span></a></p><p><a href=\"https://curbal.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://curbal.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://curbal.social/tags/data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>data</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://curbal.social/@python",
-        "display_name": "Python"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ropensci/geojsonio/issues/193",
-    "title": "Workaround to convert geoJSON to topoJSON \u00b7 Issue #193 \u00b7 ropensci/geojsonio",
-    "latest": "2023-01-26T19:57:28+00:00",
-    "first": "2023-01-26T19:57:28+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@ropensci/109756355390508513",
-      "content": "<p>[help wanted] rOpenSci \ud83d\udce6 geojsonio (maintained by <span class=\"h-card\"><a href=\"https://fosstodon.org/@MikeMahoney218\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MikeMahoney218</span></a></span>) is looking for some help! \ud83d\ude4f</p><p>Check out the issue labelled 'help wanted':</p><p>\"Workaround to convert geoJSON to topoJSON\"<br>at <a href=\"https://github.com/ropensci/geojsonio/issues/193\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ropensci/geojsonio/</span><span class=\"invisible\">issues/193</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a>  <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/rstats\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rstats</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/simonw/datasette-search-all/blob/5b5f1926d7634ae3ed39f7eaf3fa74325e5d842b/datasette_search_all/templates/search_all.html#L97-L106",
-    "title": "datasette-search-all/search_all.html at 5b5f1926d7634ae3ed39f7eaf3fa74325e5d842b \u00b7 simonw/datasette-search-all",
-    "latest": "2023-01-26T19:28:47+00:00",
-    "first": "2023-01-26T19:28:47+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109757157511395462",
-      "content": "<p><span class=\"h-card\"><a href=\"https://toot.cafe/@matt\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>matt</span></a></span> that's the great thing about tagged template literals... you can roll your own auto-escaping in a few lines of code! See <a href=\"https://github.com/simonw/datasette-search-all/blob/5b5f1926d7634ae3ed39f7eaf3fa74325e5d842b/datasette_search_all/templates/search_all.html#L97-L106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/datasette-se</span><span class=\"invisible\">arch-all/blob/5b5f1926d7634ae3ed39f7eaf3fa74325e5d842b/datasette_search_all/templates/search_all.html#L97-L106</span></a> line 97 - then you get to write this:</p><p>el.innerHTML = autoescape`&lt;p&gt;<br>  &lt;a href=\"${search_url}\"&gt;${Number(more_count).toLocaleString()} more result${more_count == 1 ? '' : 's'}&lt;/a&gt;<br>&lt;/p&gt;`;</p><p>(I also love that backticks give you multiline strings)</p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/alan-turing-institute/the-turing-way/tree/v1.1.0#README.md",
-    "title": "GitHub - alan-turing-institute/the-turing-way at v1.1.0",
-    "latest": "2023-01-26T19:17:45+00:00",
-    "first": "2023-01-26T19:17:45+00:00",
-    "last_post": {
-      "url": "https://ecoevo.social/@evopma/109557123607360753",
-      "content": "<p>The <a href=\"https://ecoevo.social/tags/TuringWayProject\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TuringWayProject</span></a> has released a new version of the Turing Way handbook to support <a href=\"https://ecoevo.social/tags/Reproducible\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Reproducible</span></a> <a href=\"https://ecoevo.social/tags/Ethical\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ethical</span></a> &amp; <a href=\"https://ecoevo.social/tags/Collaborative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Collaborative</span></a> <a href=\"https://ecoevo.social/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a>. For more information see <a href=\"https://github.com/alan-turing-institute/the-turing-way/tree/v1.1.0#README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/alan-turing-institu</span><span class=\"invisible\">te/the-turing-way/tree/v1.1.0#README.md</span></a> and follow the project in the <a href=\"https://ecoevo.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a>  <span class=\"h-card\"><a href=\"https://fosstodon.org/@turingway\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>turingway</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://mefi.social/@melissaekline",
-        "display_name": "Melissa Kline Struhl"
       }
     ]
   }
