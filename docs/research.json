@@ -1,12 +1,60 @@
 [
   {
-    "link": "https://arxiv.org/abs/2302.00487",
-    "title": "A Comprehensive Survey of Continual Learning: Theory, Method and Application",
-    "latest": "2023-02-06T23:56:22+00:00",
-    "first": "2023-02-06T23:56:22+00:00",
+    "link": "https://www.tandfonline.com/doi/abs/10.1080/03155986.1974.11731586",
+    "title": "Immanent Forms Of Imminent Crisis",
+    "latest": "2023-02-07T02:51:56.688000+00:00",
+    "first": "2023-02-07T02:51:56.688000+00:00",
     "last_post": {
-      "url": "https://sigmoid.social/@aran/109820495979661341",
-      "content": "<p>RT @Jeande_d@twitter.com</p><p>A Comprehensive Survey of Continual Learning(CL): Theory, Method and Application</p><p>A survey paper on CL, one of the emerging topics in AI. ML has advanced a lot, but given the dynamic nature of the world, ML systems still struggle at adapting to changes.</p><p><a href=\"https://arxiv.org/abs/2302.00487\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00487</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/Jeande_d/status/1622710336058195968\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/Jeande_d/status/16</span><span class=\"invisible\">22710336058195968</span></a></p>"
+      "url": "https://eigenmagic.net/@daedalus/109819480873194855",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@twcau\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>twcau</span></a></span> <span class=\"h-card\"><a href=\"https://strangeobject.space/@esther\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>esther</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@kcarruthers\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kcarruthers</span></a></span> \"The purpose of a system is what it does\", yes. It's a paraphrase of the core idea of Stafford Beer's 1974 article \"Immanent Forms of Imminent Crisis\" <a href=\"https://www.tandfonline.com/doi/abs/10.1080/03155986.1974.11731586\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tandfonline.com/doi/abs/10.108</span><span class=\"invisible\">0/03155986.1974.11731586</span></a> where he phrased it \"Institutions are systems for being what they are and for doing what they do.\" <a href=\"https://eigenmagic.net/tags/posiwid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>posiwid</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@pevohr",
+        "display_name": "Paul Rohr"
+      }
+    ]
+  },
+  {
+    "link": "https://osf.io/4zk3n/",
+    "title": "https://osf.io/4zk3n/",
+    "latest": "2023-02-07T02:39:28+00:00",
+    "first": "2023-02-07T02:39:28+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@philipncohen/109821137302113440",
+      "content": "<p>I got the major earthquake data from the National Geophysical Data Center / World Data Service (NGDC/WDS): NCEI/WDS Global Significant Earthquake Database.<br><a href=\"https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/search\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">ngdc.noaa.gov/hazel/view/hazar</span><span class=\"invisible\">ds/earthquake/search</span></a><br>I put the data, with sunrise time info coded by <span class=\"h-card\"><a href=\"https://mastodon.social/@bthalpin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bthalpin</span></a></span> (Thank you!), here: <a href=\"https://osf.io/4zk3n/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">osf.io/4zk3n/</span><span class=\"invisible\"></span></a>. Feel free to use it. (My hypothesis is that night is worse in poorer countries because homes aren't safe - haven't tested that yet.)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@philipncohen",
+        "display_name": "Philip N Cohen"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.02676",
+    "title": "Languages are Rewards: Hindsight Finetuning using Human Feedback",
+    "latest": "2023-02-07T02:04:16+00:00",
+    "first": "2023-02-07T02:04:16+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109820998863737795",
+      "content": "<p>Languages are Rewards: Hindsight Finetuning using Human Feedback</p><p>Conditions the model on outputs paired with hindsight feedback and finetunes the model to predict the most preferred output</p><p>=&gt; Better perf on summarization and dialogue tasks</p><p><a href=\"https://arxiv.org/abs/2302.02676\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.02676</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.03027",
+    "title": "https://arxiv.org/abs/2302.03027",
+    "latest": "2023-02-07T01:55:20+00:00",
+    "first": "2023-02-07T01:55:20+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109820963764586686",
+      "content": "<p>Zero-shot Image-to-Image Translation</p><p>Proposes pix2pix-zero, an image-to-image translation method that can preserve the content of the original image without manual prompting.</p><p>proj: <a href=\"https://pix2pixzero.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pix2pixzero.github.io/</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2302.03027\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03027</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
@@ -18,7 +66,7 @@
   {
     "link": "https://arxiv.org/abs/2202.05798",
     "title": "The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention",
-    "latest": "2023-02-06T23:56:08+00:00",
+    "latest": "2023-02-07T01:29:39+00:00",
     "first": "2023-02-06T23:56:08+00:00",
     "last_post": {
       "url": "https://sigmoid.social/@aran/109820495051592273",
@@ -28,17 +76,41 @@
       {
         "url": "https://sigmoid.social/@aran",
         "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@lucidrains",
+        "display_name": "Ice Cream"
       }
     ]
   },
   {
     "link": "https://arxiv.org/abs/2212.10559",
     "title": "https://arxiv.org/abs/2212.10559",
-    "latest": "2023-02-06T23:56:08+00:00",
+    "latest": "2023-02-07T01:29:39+00:00",
     "first": "2023-02-06T23:56:08+00:00",
     "last_post": {
       "url": "https://sigmoid.social/@aran/109820495051592273",
       "content": "<p>Actually, gradient descent can be seen as attention that applies beyond the model's context length! Let me explain why \ud83e\uddf5 \ud83d\udc47 (1/N)</p><p>Ref:<br><a href=\"https://arxiv.org/abs/2202.05798\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2202.05798</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/2212.10559\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.10559</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@lucidrains",
+        "display_name": "Ice Cream"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.00487",
+    "title": "A Comprehensive Survey of Continual Learning: Theory, Method and Application",
+    "latest": "2023-02-06T23:56:22+00:00",
+    "first": "2023-02-06T23:56:22+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109820495979661341",
+      "content": "<p>RT @Jeande_d@twitter.com</p><p>A Comprehensive Survey of Continual Learning(CL): Theory, Method and Application</p><p>A survey paper on CL, one of the emerging topics in AI. ML has advanced a lot, but given the dynamic nature of the world, ML systems still struggle at adapting to changes.</p><p><a href=\"https://arxiv.org/abs/2302.00487\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00487</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/Jeande_d/status/1622710336058195968\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/Jeande_d/status/16</span><span class=\"invisible\">22710336058195968</span></a></p>"
     },
     "people": [
       {
@@ -3300,90 +3372,6 @@
       {
         "url": "https://econtwitter.net/@leightjessica",
         "display_name": "Jessica Leight"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/s41599-021-00903-w",
-    "title": "Growth rates of modern science: a latent piecewise growth curve approach to model publication numbers from established and new literature databases - Humanities and Social Sciences Communications",
-    "latest": "2023-01-26T14:36:50+00:00",
-    "first": "2023-01-26T14:36:50+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@albertcardona/109755980141014435",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.online/@Neurograce\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Neurograce</span></a></span> There's also the fact that science as an enterprise has been growing, at a rate of 5% annually since 1800 or so\u2013measuring by the number of publications. So a professor in the 90's had far less publications and labs to look up than we do now. Today, we need distillers more than ever, producing good reviews that summarize across the vast publication record.</p><p>Figure from <a href=\"https://www.nature.com/articles/s41599-021-00903-w\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41599-021</span><span class=\"invisible\">-00903-w</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@Neurograce",
-        "display_name": "Grace Lindsay"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/s41562-022-01498-1",
-    "title": "Gender inequality and self-publication are common among academic editors - Nature Human Behaviour",
-    "latest": "2023-01-26T14:07:35+00:00",
-    "first": "2023-01-16T19:08:35+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@gershbrain/109755895317551732",
-      "content": "<p>Original research here: <a href=\"https://www.nature.com/articles/s41562-022-01498-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41562-022</span><span class=\"invisible\">-01498-1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@mszll",
-        "display_name": "Michael Szell"
-      },
-      {
-        "url": "https://mastodon.social/@philipncohen",
-        "display_name": "Philip N Cohen"
-      },
-      {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      },
-      {
-        "url": "https://econtwitter.net/@ckrafftc",
-        "display_name": "Caroline Krafft"
-      },
-      {
-        "url": "https://fediscience.org/@gershbrain",
-        "display_name": "Sam Gershman"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.10524",
-    "title": "Stability of Bogoliubov Fermi Surfaces within BCS Theory",
-    "latest": "2023-01-26T13:48:32+00:00",
-    "first": "2023-01-26T13:48:32+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@JoshuahHeath/109755820438189853",
-      "content": "<p>Today's <a href=\"https://mathstodon.xyz/tags/arXivsummary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arXivsummary</span></a>: <a href=\"https://arxiv.org/abs/2301.10524\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10524</span><span class=\"invisible\"></span></a> by Bhattacharya &amp; Timm. Authors show that, within BCS theory, that the time-reversal-symmetry-breaking states are stabilized over broad parameter ranges at weak coupling. A fast method that involves solving the inverse BCS gap equation (which does not require iteration) introduced. <a href=\"https://mathstodon.xyz/tags/CondMat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CondMat</span></a> <a href=\"https://mathstodon.xyz/tags/SuprCon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SuprCon</span></a> <a href=\"https://mathstodon.xyz/tags/arXiv_2301_10524\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arXiv_2301_10524</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@JoshuahHeath",
-        "display_name": "|\u00d0r\u27e9\u2295|J\u03b8\u03a3\u0127\u03bc\u03b1\u0127\u27e9\u2297|H\u03b5\u03b1\u03c4\u0127\u27e9"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.5281/zenodo.7560153",
-    "title": "https://doi.org/10.5281/zenodo.7560153",
-    "latest": "2023-01-26T13:24:09+00:00",
-    "first": "2023-01-26T14:31:08+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@sdruskat/109754614120584209",
-      "content": "<p>The slides for this talk are here: <a href=\"https://doi.org/10.5281/zenodo.7560153\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.5281/zenodo.7560153</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
-      },
-      {
-        "url": "https://fosstodon.org/@danielskatz",
-        "display_name": "Daniel S. Katz"
       }
     ]
   }

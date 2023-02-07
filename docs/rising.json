@@ -148,6 +148,30 @@
     ]
   },
   {
+    "link": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
+    "title": "An important next step on our AI journey",
+    "latest": "2023-02-07T01:59:25+00:00",
+    "first": "2023-02-06T19:18:40+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@mmasnick/109820362620691572",
+      "content": "<p>The conversational AI wars commence: <a href=\"https://blog.google/technology/ai/bard-google-ai-search-updates/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.google/technology/ai/bard</span><span class=\"invisible\">-google-ai-search-updates/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@elipariser",
+        "display_name": "Eli Pariser"
+      },
+      {
+        "url": "https://fosstodon.org/@danielskatz",
+        "display_name": "Daniel S. Katz"
+      },
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2302.01560",
     "title": "Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents",
     "latest": "2023-02-06T08:37:22+00:00",
@@ -408,6 +432,26 @@
     ]
   },
   {
+    "link": "https://independenttechresearch.org/letter-twitter-api-access-threatens-public-interest-research",
+    "title": "independenttechresearch.org/le...",
+    "latest": "2023-02-07T02:02:26+00:00",
+    "first": "2023-02-06T17:17:54+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@whiskeyocelot/109818921401566291",
+      "content": "<p>Twitter's decision to revoke access to their free API will severely disrupt thousands of public interest projects worldwide. @transparenttech is calling on Twitter to reverse this decision in a letter published today: <a href=\"https://independenttechresearch.org/letter-twitter-api-access-threatens-public-interest-research\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">independenttechresearch.org/le</span><span class=\"invisible\">tter-twitter-api-access-threatens-public-interest-research</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://saturation.social/@Noupside",
+        "display_name": "Renee DiResta"
+      },
+      {
+        "url": "https://social.coop/@natematias",
+        "display_name": "J. Nathan Matias \ud83e\udda3"
+      }
+    ]
+  },
+  {
     "link": "https://www.cwts.nl/seminars/announcements?article=n-s2x274",
     "title": "cwts.nl/seminars/announcements...",
     "latest": "2023-02-06T15:31:05+00:00",
@@ -528,26 +572,6 @@
     ]
   },
   {
-    "link": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
-    "title": "An important next step on our AI journey",
-    "latest": "2023-02-07T00:47:30+00:00",
-    "first": "2023-02-06T19:18:40+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@danielskatz/109820697040629228",
-      "content": "<p>While reading the Google Bard announcement (<a href=\"https://blog.google/technology/ai/bard-google-ai-search-updates/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.google/technology/ai/bard</span><span class=\"invisible\">-google-ai-search-updates/</span></a>), this caught my eye: \"When people think of Google, they often think of turning to us for quick factual answers... But ...\" which I could complete by \"people don't want facts anymore.</p><p>More seriously, this made me wonder if any of these new LLMs could be trained to provide confidence intervals along with their answers.</p><p>Probably not, since there is no internal model of right or wrong to use, but it would be nice to imagine</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@elipariser",
-        "display_name": "Eli Pariser"
-      },
-      {
-        "url": "https://fosstodon.org/@danielskatz",
-        "display_name": "Daniel S. Katz"
-      }
-    ]
-  },
-  {
     "link": "https://www.usajobs.gov/job/700799600",
     "title": "https://www.usajobs.gov/job/700799600",
     "latest": "2023-02-06T23:07:11+00:00",
@@ -564,6 +588,46 @@
       {
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2202.05798",
+    "title": "The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention",
+    "latest": "2023-02-07T01:29:39+00:00",
+    "first": "2023-02-06T23:56:08+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109820495051592273",
+      "content": "<p>Actually, gradient descent can be seen as attention that applies beyond the model's context length! Let me explain why \ud83e\uddf5 \ud83d\udc47 (1/N)</p><p>Ref:<br><a href=\"https://arxiv.org/abs/2202.05798\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2202.05798</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/2212.10559\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.10559</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@lucidrains",
+        "display_name": "Ice Cream"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2212.10559",
+    "title": "https://arxiv.org/abs/2212.10559",
+    "latest": "2023-02-07T01:29:39+00:00",
+    "first": "2023-02-06T23:56:08+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109820495051592273",
+      "content": "<p>Actually, gradient descent can be seen as attention that applies beyond the model's context length! Let me explain why \ud83e\uddf5 \ud83d\udc47 (1/N)</p><p>Ref:<br><a href=\"https://arxiv.org/abs/2202.05798\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2202.05798</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/2212.10559\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.10559</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@lucidrains",
+        "display_name": "Ice Cream"
       }
     ]
   }
