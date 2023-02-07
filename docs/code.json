@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-07",
+    "title": "tidytuesday/2023/2023-02-07 at main \u00b7 nrennie/tidytuesday",
+    "latest": "2023-02-07T09:36:14+00:00",
+    "first": "2023-02-07T09:36:14+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@nrennie/109822776086528084",
+      "content": "<p>It's time for <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> again! Thanks to Evan Gower for sharing the data this week!</p><p>We're looking at stock prices of tech companies, and I used geom_sankey_bump() from {ggsankey} to look at the rank of Adobe over time!</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-07\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-02-07</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@nrennie",
+        "display_name": "Nicola Rennie"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/chatternet/chatternet-client-http",
     "title": "github.com/chatternet/chattern...",
     "latest": "2023-02-07T06:29:38+00:00",
@@ -3421,22 +3437,6 @@
   },
   {
     "link": "https://github.com/mastodon/mastodon/issues/12753",
-    "title": "github.com/mastodon/mastodon/i...",
-    "latest": "2023-01-27T16:16:01+00:00",
-    "first": "2023-01-27T16:16:01+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@bigzaphod/109762058434454658",
-      "content": "<p>My position on Quote Toots/Posts is that I hope client authors realize there have been long and detailed discussions and debates around this topic for pretty much the entire time Mastodon has existed - don't dismiss them out of hand.</p><p><a href=\"https://github.com/mastodon/mastodon/issues/309\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/309</span></a><br><a href=\"https://github.com/mastodon/mastodon/issues/12753\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/12753</span></a><br><a href=\"https://github.com/mastodon/mastodon/issues/13876\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/13876</span></a><br><a href=\"https://github.com/mastodon/mastodon/issues/15524\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/15524</span></a><br><a href=\"https://github.com/mastodon/mastodon/issues/18473\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/18473</span></a><br><a href=\"https://github.com/mastodon/mastodon/issues/19889\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/19889</span></a><br><a href=\"https://github.com/mastodon/mastodon/issues/20673\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/20673</span></a><br><a href=\"https://github.com/mastodon/mastodon/issues/22793\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/22793</span></a><br><a href=\"https://github.com/mastodon/mastodon/issues/22872\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/22872</span></a><br><a href=\"https://github.com/mastodon/mastodon/issues/22978\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/22978</span></a><br>etc...</p>"
-    },
-    "people": [
-      {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues/13876",
     "title": "github.com/mastodon/mastodon/i...",
     "latest": "2023-01-27T16:16:01+00:00",
     "first": "2023-01-27T16:16:01+00:00",

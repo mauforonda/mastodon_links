@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://arxiv.org/abs/2302.00923",
+    "title": "Multimodal Chain-of-Thought Reasoning in Language Models",
+    "latest": "2023-02-07T10:33:53+00:00",
+    "first": "2023-02-03T01:45:13+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@LChoshen/109822421424835221",
+      "content": "<p>Chain of Thought for vision<br>beating GPT3 by 16% and supposedly humans</p><p>Text and captions are not enough, but <br>with vision CoT does really well</p><p>@zhangzhuosheng<br> <br>@astonzhangAZ<br> <br>@mli65<br> Hai Zhao <br>@karypis<br> <br><span class=\"h-card\"><a href=\"https://sigmoid.social/@smolix\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smolix</span></a></span></p><p><a href=\"https://arxiv.org/abs/2302.00923\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00923</span><span class=\"invisible\"></span></a><br>sigmoid.social/@smolix<br>(any simple way of finding author handles anyone?)</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2211.05875",
+    "title": "Steps towards prompt-based creation of virtual worlds",
+    "latest": "2023-02-07T10:25:42+00:00",
+    "first": "2023-02-07T10:25:42+00:00",
+    "last_post": {
+      "url": "https://mstdn.social/@narphorium/109391641572531866",
+      "content": "<p>Steps towards prompt-based creation of virtual worlds<br><a href=\"https://arxiv.org/abs/2211.05875\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.05875</span><span class=\"invisible\"></span></a></p><p>Using the OpenAI Codex model to build an interactive Holodeck</p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@arnicas",
+        "display_name": "arnicas"
+      }
+    ]
+  },
+  {
     "link": "http://arxiv.org/abs/2302.03029",
     "title": "http://arxiv.org/abs/2302.03029",
     "latest": "2023-02-07T05:24:06+00:00",
@@ -1044,22 +1080,6 @@
       {
         "url": "https://mastodon.social/@philipncohen",
         "display_name": "Philip N Cohen"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.00923",
-    "title": "Multimodal Chain-of-Thought Reasoning in Language Models",
-    "latest": "2023-02-03T01:45:13+00:00",
-    "first": "2023-02-03T01:45:13+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109798274705495264",
-      "content": "<p>Multimodal Chain-of-Thought Reasoning in Language Models</p><p>Multimodal-CoT outperforms GPT-3.5 by 16% (75.17% -&gt; 91.68%) on ScienceQA and even surpasses human performance. </p><p>abs: <a href=\"https://arxiv.org/abs/2302.00923\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00923</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/amazon-science/mm-cot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/amazon-science/mm-c</span><span class=\"invisible\">ot</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
       }
     ]
   },
@@ -3352,22 +3372,6 @@
       {
         "url": "https://hcommons.social/@proghist",
         "display_name": "Programming Historian"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.10448",
-    "title": "Pre-computed memory or on-the-fly encoding? A hybrid approach to retrieval augmentation makes the most of your compute",
-    "latest": "2023-01-26T16:40:52+00:00",
-    "first": "2023-01-26T02:13:24+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109756498066239358",
-      "content": "<p>RT @michielsdj@twitter.com</p><p>New paper! Retrieval-augmented models are expensive. Make them faster by partially pre-computing passage representations. Work with @_theopompus@twitter.com, @nfitz@twitter.com, Joshua Ainslie, Sumit Sanghai, @feishaAI@twitter.com, @professorwcohen@twitter.com. 1/N<br><a href=\"https://arxiv.org/abs/2301.10448\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10448</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/michielsdj/status/1618424125147746307\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/michielsdj/status/</span><span class=\"invisible\">1618424125147746307</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
       }
     ]
   }
