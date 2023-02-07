@@ -28,6 +28,34 @@
     ]
   },
   {
+    "link": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
+    "title": "An important next step on our AI journey",
+    "latest": "2023-02-07T03:43:50+00:00",
+    "first": "2023-02-06T19:18:40+00:00",
+    "last_post": {
+      "url": "https://xoxo.zone/@andybaio/109821039887160756",
+      "content": "<p>Google used to take pride in minimizing time we spent there, guiding us to relevant pages as quickly as possible. Over time, they tried to answer everything themselves: longer snippets, inline FAQs, search results full of knowledge panels.</p><p>Today's Bard announcement feels like their natural evolution: extracting all value out of the internet for themselves, burying pages at the bottom of each GPT-generated essay like footnotes. <a href=\"https://blog.google/technology/ai/bard-google-ai-search-updates/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.google/technology/ai/bard</span><span class=\"invisible\">-google-ai-search-updates/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@elipariser",
+        "display_name": "Eli Pariser"
+      },
+      {
+        "url": "https://fosstodon.org/@danielskatz",
+        "display_name": "Daniel S. Katz"
+      },
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      },
+      {
+        "url": "https://stammy.design/@stammy",
+        "display_name": "Stammy"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2302.01339",
     "title": "Creating a Large Language Model of a Philosopher",
     "latest": "2023-02-06T22:52:08+00:00",
@@ -144,70 +172,6 @@
       {
         "url": "https://mstdn.social/@funnygodmother",
         "display_name": "Cheryl Platz :verified:"
-      }
-    ]
-  },
-  {
-    "link": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
-    "title": "An important next step on our AI journey",
-    "latest": "2023-02-07T01:59:25+00:00",
-    "first": "2023-02-06T19:18:40+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@mmasnick/109820362620691572",
-      "content": "<p>The conversational AI wars commence: <a href=\"https://blog.google/technology/ai/bard-google-ai-search-updates/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.google/technology/ai/bard</span><span class=\"invisible\">-google-ai-search-updates/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@elipariser",
-        "display_name": "Eli Pariser"
-      },
-      {
-        "url": "https://fosstodon.org/@danielskatz",
-        "display_name": "Daniel S. Katz"
-      },
-      {
-        "url": "https://mastodon.social/@Colarusso",
-        "display_name": "David Colarusso"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.01560",
-    "title": "Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents",
-    "latest": "2023-02-06T08:37:22+00:00",
-    "first": "2023-02-06T04:29:17+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109815906823098338",
-      "content": "<p>RT @jeasinema@twitter.com</p><p>Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents</p><p>Can ChatGPT help with open-world game playing, like Minecraft? It sure can!  \ud83e\uddf5\ud83d\udc47</p><p><a href=\"https://arxiv.org/abs/2302.01560\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01560</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/CraftJarvis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/CraftJarvis</span><span class=\"invisible\"></span></a>(code will be shipped soon)</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/jeasinema/status/1622428535897067521\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/jeasinema/status/1</span><span class=\"invisible\">622428535897067521</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/CraftJarvis",
-    "title": "https://github.com/CraftJarvis",
-    "latest": "2023-02-06T08:37:22+00:00",
-    "first": "2023-02-06T04:29:17+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109815906823098338",
-      "content": "<p>RT @jeasinema@twitter.com</p><p>Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents</p><p>Can ChatGPT help with open-world game playing, like Minecraft? It sure can!  \ud83e\uddf5\ud83d\udc47</p><p><a href=\"https://arxiv.org/abs/2302.01560\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01560</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/CraftJarvis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/CraftJarvis</span><span class=\"invisible\"></span></a>(code will be shipped soon)</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/jeasinema/status/1622428535897067521\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/jeasinema/status/1</span><span class=\"invisible\">622428535897067521</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
       }
     ]
   },
