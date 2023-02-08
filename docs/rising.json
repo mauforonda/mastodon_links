@@ -1,37 +1,5 @@
 [
   {
-    "link": "https://www.usajobs.gov/job/700799600",
-    "title": "https://www.usajobs.gov/job/700799600",
-    "latest": "2023-02-07T15:14:57+00:00",
-    "first": "2023-02-07T00:36:01+00:00",
-    "last_post": {
-      "url": "https://sfba.social/@rklau/109820172848447582",
-      "content": "<p>NASA is hiring a Chief Data Officer. I'll bet a few of you know someone who absolutely needs to know about this opportunity: <a href=\"https://www.usajobs.gov/job/700799600\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">usajobs.gov/job/700799600</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hcommons.social/@scott_bot",
-        "display_name": "@scott_bot \ud83e\udd39"
-      },
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      },
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
-      },
-      {
-        "url": "https://fediscience.org/@petersuber",
-        "display_name": "petersuber"
-      }
-    ]
-  },
-  {
     "link": "https://atlas.nomic.ai/map/twitter",
     "title": "Atlas",
     "latest": "2023-02-07T16:00:50+00:00",
@@ -56,102 +24,26 @@
     ]
   },
   {
-    "link": "https://www.openstreetmap.org/user/Pieter%20Vander%20Vennet/diary/400909",
-    "title": "Pieter Vander Vennet's Diary | OpenStreetMap is in trouble | OpenStreetMap",
-    "latest": "2023-02-07T18:31:09+00:00",
-    "first": "2023-02-07T00:53:48+00:00",
+    "link": "https://www.kickstarter.com/projects/mwichary/shift-happens",
+    "title": "Coming soon: Shift Happens: A book about keyboards",
+    "latest": "2023-02-07T23:46:12+00:00",
+    "first": "2023-02-07T18:35:34+00:00",
     "last_post": {
-      "url": "https://mastodon.ar.al/@aral/109819109742679088",
-      "content": "<p><a href=\"https://mastodon.ar.al/tags/OpenStreetMap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenStreetMap</span></a> is in trouble</p><p><a href=\"https://mastodon.ar.al/tags/Microsoft\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Microsoft</span></a> <a href=\"https://mastodon.ar.al/tags/Bing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Bing</span></a> Map Builder \u201c\u2026entered the ecosystem with parasitic intents \u2026 If [nothing improves], we should consider cutting off mapbuilder from the API, and we should consider starting a lawsuit over the copyright infringement. This is not a small hobby website which happened to have forgotten the attribution. This is a cancer that is starting to grow. This is designed to kill the community.\u201d</p><p><a href=\"https://www.openstreetmap.org/user/Pieter%20Vander%20Vennet/diary/400909\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">openstreetmap.org/user/Pieter%</span><span class=\"invisible\">20Vander%20Vennet/diary/400909</span></a></p><p>By <span class=\"h-card\"><a href=\"https://en.osm.town/@pietervdvn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pietervdvn</span></a></span> <a href=\"https://mastodon.ar.al/tags/embraceExtendExtinguish\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>embraceExtendExtinguish</span></a></p>"
+      "url": "https://vis.social/@scott/109826118255409845",
+      "content": "<p>So so so so happy to support the creation of the new book \u201c Shift Happens: A book about keyboards\u201d by <span class=\"h-card\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mwichary</span></a></span> </p><p><a href=\"https://www.kickstarter.com/projects/mwichary/shift-happens\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kickstarter.com/projects/mwich</span><span class=\"invisible\">ary/shift-happens</span></a></p><p>\u2328\ufe0f\ud83e\udd13</p><p><a href=\"https://vis.social/tags/keyboards\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>keyboards</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.online/@paezha",
-        "display_name": "Antonio P\u00e1ez"
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
       },
       {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2202.05798",
-    "title": "The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention",
-    "latest": "2023-02-07T01:29:39+00:00",
-    "first": "2023-02-06T23:56:08+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109820495051592273",
-      "content": "<p>Actually, gradient descent can be seen as attention that applies beyond the model's context length! Let me explain why \ud83e\uddf5 \ud83d\udc47 (1/N)</p><p>Ref:<br><a href=\"https://arxiv.org/abs/2202.05798\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2202.05798</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/2212.10559\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.10559</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
+        "url": "https://typo.social/@jasonsantamaria",
+        "display_name": "Jason Santa Maria"
       },
       {
-        "url": "https://sigmoid.social/@lucidrains",
-        "display_name": "Ice Cream"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2212.10559",
-    "title": "https://arxiv.org/abs/2212.10559",
-    "latest": "2023-02-07T01:29:39+00:00",
-    "first": "2023-02-06T23:56:08+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109820495051592273",
-      "content": "<p>Actually, gradient descent can be seen as attention that applies beyond the model's context length! Let me explain why \ud83e\uddf5 \ud83d\udc47 (1/N)</p><p>Ref:<br><a href=\"https://arxiv.org/abs/2202.05798\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2202.05798</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/2212.10559\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.10559</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://sigmoid.social/@lucidrains",
-        "display_name": "Ice Cream"
-      }
-    ]
-  },
-  {
-    "link": "https://bit.ly/fediverse-funding",
-    "title": "https://bit.ly/fediverse-funding",
-    "latest": "2023-02-07T07:34:15+00:00",
-    "first": "2023-02-06T23:33:44+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@davidslifka/109820394362885471",
-      "content": "<p>The fediverse has come this far despite being very capital-constrained.</p><p>What if that constraint were lifted?</p><p>If you have a project or idea (for- or non-profit) that helps build or grow the fediverse and would benefit from funding, I hope you'll apply here. Thank you!<br><a href=\"https://bit.ly/fediverse-funding\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/fediverse-funding</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://curbal.social/@ruthpozuelo",
-        "display_name": "Ruth Pozuelo Martinez"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=tRU9PFKnUdA",
-    "title": "The Inner World and Social Consequences of Political Professionals",
-    "latest": "2023-02-07T17:22:33+00:00",
-    "first": "2023-02-06T22:51:12+00:00",
-    "last_post": {
-      "url": "https://sciences.social/@socannex/109824500799297489",
-      "content": "<p>LIVE at 12:15 PM Eastern.  <span class=\"h-card\"><a href=\"https://sciences.social/@socannex\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>socannex</span></a></span> sits down with <span class=\"h-card\"><a href=\"https://sciences.social/@daniel_laurison\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daniel_laurison</span></a></span> to discuss the inner world of political campaigns, and the sociology of culture, stratification, and politics. <a href=\"https://www.youtube.com/watch?v=tRU9PFKnUdA\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=tRU9PFKnUd</span><span class=\"invisible\">A</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@philipncohen",
-        "display_name": "Philip N Cohen"
-      },
-      {
-        "url": "https://sciences.social/@markigra",
-        "display_name": "Mark Igra"
+        "url": "https://vis.social/@scott",
+        "display_name": "Scott Murray"
       }
     ]
   },
@@ -172,6 +64,26 @@
       {
         "url": "https://pkm.social/@eleanorkonik",
         "display_name": "Eleanor Konik"
+      }
+    ]
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=ktIuUa0uf7E",
+    "title": "Shift Happens: The launch livestream and a conversation with Robin Rendle",
+    "latest": "2023-02-07T23:53:31+00:00",
+    "first": "2023-02-07T03:43:46+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@mwichary/109826147078044425",
+      "content": "<p>This is the recording of the livestream for those who might have missed it! It was a really fun conversation: <a href=\"https://www.youtube.com/watch?v=ktIuUa0uf7E\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=ktIuUa0uf7</span><span class=\"invisible\">E</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sfba.social/@fonts",
+        "display_name": "Robin Rendle"
+      },
+      {
+        "url": "https://mastodon.online/@mwichary",
+        "display_name": "mwichary"
       }
     ]
   },
@@ -456,6 +368,26 @@
     ]
   },
   {
+    "link": "https://www.tidyverse.org/blog/2023/02/dplyr-1-1-0-pick-reframe-arrange/",
+    "title": "dplyr 1.1.0: `pick()`, `reframe()`, and `arrange()`",
+    "latest": "2023-02-07T22:40:48+00:00",
+    "first": "2023-02-07T17:11:01+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@davis/109824463472275777",
+      "content": "<p>The final post for dplyr 1.1.0 is out! <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> \ud83c\udf89</p><p>Today, we'll look at two new verbs:<br>- `pick()` for column selection<br>- `reframe()` as a way to \"do anything\" to each group</p><p>We'll also look at performance and reproducibility improvements to `arrange()`!</p><p><a href=\"https://www.tidyverse.org/blog/2023/02/dplyr-1-1-0-pick-reframe-arrange/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tidyverse.org/blog/2023/02/dpl</span><span class=\"invisible\">yr-1-1-0-pick-reframe-arrange/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sciences.social/@markigra",
+        "display_name": "Mark Igra"
+      },
+      {
+        "url": "https://fosstodon.org/@hadleywickham",
+        "display_name": "Hadley Wickham"
+      }
+    ]
+  },
+  {
     "link": "https://ourworldindata.org/ai-timelines",
     "title": "AI timelines: What do experts in artificial intelligence expect for the future?",
     "latest": "2023-02-07T18:17:02+00:00",
@@ -472,6 +404,26 @@
       {
         "url": "https://mastodon.truesciphi.org/@TrueSciPhi",
         "display_name": "Kelly Truelove"
+      }
+    ]
+  },
+  {
+    "link": "https://glyph.tools/",
+    "title": "Glyph.Tools | Tiny Tool For Text Transformation",
+    "latest": "2023-02-07T21:35:53+00:00",
+    "first": "2023-02-07T15:51:48+00:00",
+    "last_post": {
+      "url": "https://front-end.social/@henry/109824142087888553",
+      "content": "<p>Published a new silly little tool last night! Still fairly buggy and WIP but useful :) I hope u think it's nice!</p><p><a href=\"https://glyph.tools/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">glyph.tools/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://bell.bz/@andy",
+        "display_name": "Andy Bell"
+      },
+      {
+        "url": "https://front-end.social/@lynnandtonic",
+        "display_name": "Lynn Fisher"
       }
     ]
   },
@@ -496,6 +448,26 @@
     ]
   },
   {
+    "link": "https://peerj.com/blog/post/115284886994/",
+    "title": "peerj.com/blog/post/1152848869...",
+    "latest": "2023-02-07T23:41:27+00:00",
+    "first": "2023-02-07T21:03:05+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@PeerJ/109825328062537942",
+      "content": "<p>PeerJ is making peer review more transparent and increasing the opportunity for reviewers to publicly claim credit for their contribution: now, ALL PeerJ articles will be published with their entire peer review history. </p><p><a href=\"https://peerj.com/blog/post/115284886994/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">peerj.com/blog/post/1152848869</span><span class=\"invisible\">94/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@danielskatz",
+        "display_name": "Daniel S. Katz"
+      },
+      {
+        "url": "https://social.cwts.nl/@LudoWaltman",
+        "display_name": "Ludo Waltman"
+      }
+    ]
+  },
+  {
     "link": "https://www.theverge.com/2023/2/7/23588249/microsoft-event-ai-live-blog-openai-chatgpt-bing-announcements-news",
     "title": "Microsoft\u2019s AI event live blog: news, announcements and more",
     "latest": "2023-02-07T18:37:06+00:00",
@@ -516,22 +488,42 @@
     ]
   },
   {
-    "link": "https://www.kickstarter.com/projects/mwichary/shift-happens",
-    "title": "Coming soon: Shift Happens: A book about keyboards",
-    "latest": "2023-02-07T18:41:06+00:00",
-    "first": "2023-02-07T18:35:34+00:00",
+    "link": "https://informationisbeautiful.net/visualizations/world-dataviz-prize-2023-poster-longlist/",
+    "title": "informationisbeautiful.net/vis...",
+    "latest": "2023-02-07T21:38:18+00:00",
+    "first": "2023-02-07T22:24:48+00:00",
     "last_post": {
-      "url": "https://typo.social/@jasonsantamaria/109824918557616343",
-      "content": "<p>Shift Happens \u2014 <span class=\"h-card\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mwichary</span></a></span>\u2019s book about the history of keyboards \u2014 is now live on Kickstarter!</p><p>I\u2019ve been enjoying an early preview test print and can say it\u2019s beautiful. I\u2019ve always loved Marcin\u2019s writing and attention to detail in typography, but this book sets a new bar. There is so much care in his typesetting and amazing depth in his photographs. I can\u2019t wait to see read the final book.</p><p>Don\u2019t miss out! <a href=\"https://www.kickstarter.com/projects/mwichary/shift-happens\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kickstarter.com/projects/mwich</span><span class=\"invisible\">ary/shift-happens</span></a></p>"
+      "url": "https://fediscience.org/@leahdriel/109825615351282336",
+      "content": "<p>My infographic Panta Rhei - Everything Flows made the 2023 World Data Visualization Prize Longlist!</p><p><a href=\"https://fediscience.org/tags/informationvisualization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>informationvisualization</span></a> <a href=\"https://fediscience.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fediscience.org/tags/worldgovernmentsummit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>worldgovernmentsummit</span></a> <a href=\"https://fediscience.org/tags/worlddatavisualizationprize\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>worlddatavisualizationprize</span></a></p><p><a href=\"https://informationisbeautiful.net/visualizations/world-dataviz-prize-2023-poster-longlist/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">informationisbeautiful.net/vis</span><span class=\"invisible\">ualizations/world-dataviz-prize-2023-poster-longlist/</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@Colarusso",
-        "display_name": "David Colarusso"
+        "url": "https://techhub.social/@avatorl",
+        "display_name": "Andrzej Leszkiewicz"
       },
       {
-        "url": "https://typo.social/@jasonsantamaria",
-        "display_name": "Jason Santa Maria"
+        "url": "https://fediscience.org/@leahdriel",
+        "display_name": "Leah  Brown"
+      }
+    ]
+  },
+  {
+    "link": "https://motherduck.com/blog/big-data-is-dead/",
+    "title": "MotherDuck: Big Data is Dead",
+    "latest": "2023-02-07T21:33:40+00:00",
+    "first": "2023-02-07T22:37:21+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jmcastagnetto/109825531376982566",
+      "content": "<p>RT @jrdntgn<br>I wrote a blog post about the end of big data <a href=\"https://motherduck.com/blog/big-data-is-dead/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">motherduck.com/blog/big-data-i</span><span class=\"invisible\">s-dead/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mamot.fr/@nemobis",
+        "display_name": "Nemo_bis \ud83c\udf08"
+      },
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
       }
     ]
   }

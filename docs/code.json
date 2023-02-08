@@ -1,5 +1,85 @@
 [
   {
+    "link": "https://github.com/typescript-eslint/typescript-eslint/pull/6436",
+    "title": "chore: migrated shared-fixtures to ast-spec by JoshuaKGoldberg \u00b7 Pull Request #6436 \u00b7 typescript-eslint/typescript-eslint",
+    "latest": "2023-02-07T23:52:11+00:00",
+    "first": "2023-02-07T23:52:11+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@JoshuaKGoldberg/109826141794052553",
+      "content": "<p>Cool thing of the day: 100 lines of code to migrate @tseslint's AST fixtures from an old format to a new one.</p><p>Along with manually deleting the old fixture package &amp; touching up a few files:<br>* \u270d\ufe0f 3.3k lines changed<br>* \ud83d\udfe9 +284,141<br>* \ud83d\udfe5 \u22126,375</p><p><a href=\"https://github.com/typescript-eslint/typescript-eslint/pull/6436\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/typescript-eslint/t</span><span class=\"invisible\">ypescript-eslint/pull/6436</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@JoshuaKGoldberg",
+        "display_name": "Josh Goldberg \ud83d\udc96"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jgm/pandoc/issues/2730",
+    "title": "Very slow performance with some markdown options \u00b7 Issue #2730 \u00b7 jgm/pandoc",
+    "latest": "2023-02-07T23:39:46+00:00",
+    "first": "2023-02-07T23:39:46+00:00",
+    "last_post": {
+      "url": "https://dan.mastohon.com/@danhon/109826093000424041",
+      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@allafarce\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>allafarce</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@delong\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>delong</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@timoreilly\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>timoreilly</span></a></span> Threw in a credit card and now waiting for it to generate an index against ~7mb of markdown-formatted newsletter episodes. Markdown because I hit a problem like this with Pandoc converting them to plain text: <a href=\"https://github.com/jgm/pandoc/issues/2730\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jgm/pandoc/issues/2</span><span class=\"invisible\">730</span></a>, almost as if With 557 Markdown Files, Dan's GPT AI System Was At Risk -- Until This Weekend Hack Fixed It.</p>"
+    },
+    "people": [
+      {
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/netlify/remix-compute/pull/16",
+    "title": "feat: implemented Remix server adapter and runtime for Netlify by nickytonline \u00b7 Pull Request #16 \u00b7 netlify/remix-compute",
+    "latest": "2023-02-07T23:29:57+00:00",
+    "first": "2023-02-07T23:29:57+00:00",
+    "last_post": {
+      "url": "https://toot.cafe/@nickytonline/109826054390382067",
+      "content": "<p>It\u2019s not all the pieces, but this is the big chunk. Looking forward to getting this merged. <a href=\"https://github.com/netlify/remix-compute/pull/16\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/netlify/remix-compu</span><span class=\"invisible\">te/pull/16</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toot.cafe/@nickytonline",
+        "display_name": "Nick Taylor"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/karpathy/nanoGPT",
+    "title": "GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "latest": "2023-02-07T21:58:10+00:00",
+    "last_post": {
+      "url": "https://dan.mastohon.com/@danhon/109825693473169923",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@delong\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>delong</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@timoreilly\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>timoreilly</span></a></span> Um, if you email them to me, I can have a go. I tried with my newsletter on my M1 MacBook Pro with <a href=\"https://github.com/karpathy/nanoGPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/karpathy/nanoGPT</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://sigmoid.social/@lucidrains",
+        "display_name": "Ice Cream"
+      },
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      },
+      {
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
+      }
+    ],
+    "first": "2023-01-02T21:46:12+00:00"
+  },
+  {
     "link": "https://github.com/samim23/polymath",
     "title": "GitHub - samim23/polymath: Convert any music library into a music production sample-library with ML",
     "latest": "2023-02-07T19:57:45+00:00",
@@ -3372,70 +3452,6 @@
       {
         "url": "https://vis.social/@georgios",
         "display_name": "Georgios Karamanis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues/23282",
-    "title": "How to ensure toots from other time zones or sent at unusual times are visible in crowded timelines? \u00b7 Issue #23282 \u00b7 mastodon/mastodon",
-    "latest": "2023-01-28T17:46:17+00:00",
-    "first": "2023-01-28T17:46:17+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jukey/109766122621477091",
-      "content": "<p>It seems to be hard to follow toots sent at unusual hours or other another <a href=\"https://mastodon.social/tags/timezone\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>timezone</span></a>. I created an issue in the <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> repository to list and discuss potential solutions: <a href=\"https://github.com/mastodon/mastodon/issues/23282\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/23282</span></a> Who wants to join the discussion?</p>"
-    },
-    "people": [
-      {
-        "url": "https://sciences.social/@markigra",
-        "display_name": "Mark Igra"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rasbt/deeplearning-models/tree/master/pytorch-lightning_ipynb/data-augmentation/autoaugment",
-    "title": "deeplearning-models/pytorch-lightning_ipynb/data-augmentation/autoaugment at master \u00b7 rasbt/deeplearning-models",
-    "latest": "2023-01-28T15:49:29+00:00",
-    "first": "2023-01-28T15:49:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@SebRaschka/109767620663999744",
-      "content": "<p>I have been using PyTorch for more than 5 years now. Still, I occasionally discover useful features in the PyTorch library that I was previously unaware of. </p><p>Have you tried AutoAugment for data augmentation yet?</p><p>I just experimented with it and it resulted in a 10% improvement in accuracy for this simple example case, although it took a few epochs to achieve.</p><p>I uploaded the code here if you want to give it a try: <a href=\"https://github.com/rasbt/deeplearning-models/tree/master/pytorch-lightning_ipynb/data-augmentation/autoaugment\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rasbt/deeplearning-</span><span class=\"invisible\">models/tree/master/pytorch-lightning_ipynb/data-augmentation/autoaugment</span></a></p><p><a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> <a href=\"https://mastodon.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@SebRaschka",
-        "display_name": "Sebastian Raschka"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Chocobozzz/PeerTube/releases/tag/v5.0.0",
-    "title": "Release v5.0.0 \u00b7 Chocobozzz/PeerTube",
-    "latest": "2023-01-28T15:20:30+00:00",
-    "first": "2023-01-28T15:20:30+00:00",
-    "last_post": {
-      "url": "https://toot.fedilab.app/@apps/109767506692402224",
-      "content": "<p>Some users cannot use <a href=\"https://toot.fedilab.app/tags/Fedilab\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fedilab</span></a> with   <a href=\"https://toot.fedilab.app/tags/Peertube\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Peertube</span></a>. </p><p>Currently, instances below v5.0.0 can't work due to a REST API breaking change.</p><p>We will publish a fix that will ignore \"role\" for users temporary.</p><p>More: <a href=\"https://github.com/Chocobozzz/PeerTube/releases/tag/v5.0.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Chocobozzz/PeerTube</span><span class=\"invisible\">/releases/tag/v5.0.0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.fedilab.app/@apps",
-        "display_name": "Fedilab Apps"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-28_Generative-Poetry",
-    "title": "genuary2023/2022-01-28_Generative-Poetry at master \u00b7 paezha/genuary2023",
-    "latest": "2023-01-28T15:10:56+00:00",
-    "first": "2023-01-28T15:10:56+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@paezha/109767469041362839",
-      "content": "<p><a href=\"https://mastodon.online/tags/Genuary28\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary28</span></a> <a href=\"https://mastodon.online/tags/Genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary</span></a> </p><p>Day 28: Generative poetry</p><p>For this prompt I decided to revisit my system for creating asemic glyphs. Here is a poem by Lady Ono no Komachi in one randomly generated synthetic script:</p><p>Visible colours<br>(Invisible passions)<br>Fade from<br>This world's<br>Human hearts<br>And flowers.</p><p>Coded in <a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> using <a href=\"https://mastodon.online/tags/ggplot2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggplot2</span></a> and <a href=\"https://mastodon.online/tags/ggforce\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggforce</span></a>. Code and more examples of outputs can be found in my <a href=\"https://mastodon.online/tags/Genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary</span></a> 2023 repo:</p><p><a href=\"https://github.com/paezha/genuary2023/tree/master/2022-01-28_Generative-Poetry\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paezha/genuary2023/</span><span class=\"invisible\">tree/master/2022-01-28_Generative-Poetry</span></a></p><p><a href=\"https://mastodon.online/tags/Rtistry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rtistry</span></a> <a href=\"https://mastodon.online/tags/MastoArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoArt</span></a> <a href=\"https://mastodon.online/tags/artbooster\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artbooster</span></a> </p><p><span class=\"h-card\"><a href=\"https://mastodon.social/@jacquietran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jacquietran</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@meghansharris\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meghansharris</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@paezha",
-        "display_name": "Antonio P\u00e1ez"
       }
     ]
   }
