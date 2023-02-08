@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/vanatteveldt/cssbook",
+    "title": "github.com/vanatteveldt/cssboo...",
+    "latest": "2023-02-08T09:32:12+00:00",
+    "first": "2023-02-08T09:32:12+00:00",
+    "last_post": {
+      "url": "https://sciences.social/@vanatteveldt/109828152717938330",
+      "content": "<p>\ud83d\udcd6New and improved packaging!\ud83d\udcd6 Our open access computational textbook <a href=\"https://cssbook.net\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">cssbook.net</span><span class=\"invisible\"></span></a> is now on quarto! Easier to read &amp; especially easier to update. The goal is to keep this webpage updated and as useful as possible for computational social science teaching -- and hopefully work towards a second published edition. Feel free to post issues/PRs for anything that can be improved! <a href=\"https://github.com/vanatteveldt/cssbook\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vanatteveldt/cssboo</span><span class=\"invisible\">k</span></a> w/ <span class=\"h-card\"><a href=\"https://akademienl.social/@damiantrilling\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>damiantrilling</span></a></span> &amp; Carlos Arcila</p>"
+    },
+    "people": [
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/jgm/pandoc/issues/2730",
     "title": "Very slow performance with some markdown options \u00b7 Issue #2730 \u00b7 jgm/pandoc",
     "latest": "2023-02-08T02:57:47+00:00",
@@ -3440,22 +3456,6 @@
       {
         "url": "https://merveilles.town/@akkartik",
         "display_name": "Kartik Agaram"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/gkaramanis/mappromptmonday/tree/master/2023/2023-week_04",
-    "title": "mappromptmonday/2023/2023-week_04 at master \u00b7 gkaramanis/mappromptmonday",
-    "latest": "2023-01-28T17:53:14+00:00",
-    "first": "2023-01-28T17:53:14+00:00",
-    "last_post": {
-      "url": "https://vis.social/@georgios/109768107231060507",
-      "content": "<p>For this week's <a href=\"https://vis.social/tags/MapPromptMonday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MapPromptMonday</span></a> I made a map comparing the streaming TV viewership between two age groups in EU countries.</p><p>code: <a href=\"https://github.com/gkaramanis/mappromptmonday/tree/master/2023/2023-week_04\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gkaramanis/mappromp</span><span class=\"invisible\">tmonday/tree/master/2023/2023-week_04</span></a></p><p><a href=\"https://vis.social/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://vis.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@georgios",
-        "display_name": "Georgios Karamanis"
       }
     ]
   }
