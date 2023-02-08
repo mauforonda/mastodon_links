@@ -1,5 +1,37 @@
 [
   {
+    "link": "https://observablehq.com/@sxywu/02-noc-vectors",
+    "title": "02 | vectors",
+    "latest": "2023-02-08T17:41:02+00:00",
+    "first": "2023-02-08T17:41:02+00:00",
+    "last_post": {
+      "url": "https://vis.social/@shirley/109830344695775504",
+      "content": "<p>for my last semester at ITP I'm taking <span class=\"h-card\"><a href=\"https://mastodon.social/@shiffman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>shiffman</span></a></span>'s Nature of Code! but as a personal challenge I'm trying to do it all in <a href=\"https://vis.social/tags/webgl\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webgl</span></a> \u2728</p><p>so as a webGL newbie I'm trying to seek advice for this week's assignment: I'm trying to recreate dry brush strokes w/ ~30 \"dots\" (transformed in vertex shader) per brush stroke but that doesn't feel optimal/performant? should I draw direct to fragment shader instead?</p><p>here's the <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span>: <a href=\"https://observablehq.com/@sxywu/02-noc-vectors\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@sxywu/02-noc</span><span class=\"invisible\">-vectors</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@shirley",
+        "display_name": "Shirley Wu"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/microsoft/TypeScript/pull/52656#issuecomment-1421249664",
+    "title": "[experiment] Run babel over output for let/const to var by jakebailey \u00b7 Pull Request #52656 \u00b7 microsoft/TypeScript",
+    "latest": "2023-02-08T15:36:38.843000+00:00",
+    "first": "2023-02-08T15:36:38.843000+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@robpalmer/109826100544348803",
+      "content": "<p>An excellent JS performance experiment by <span class=\"h-card\"><a href=\"https://fosstodon.org/@jakebailey\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jakebailey</span></a></span> \u26a1</p><p>Modifying the TypeScript compiler itself so that `let`/`const` become `var` reduces parsing time by ~10% \ud83d\ude32</p><p>This is on V8 10.2</p><p>One theory is that the perf penalty is due to TDZ checks when using `let`/`const`</p><p>Maybe results in Bun/JSC will be different?</p><p>Nothing is conclusive. The PR is unlikely to be merged.</p><p>The investigation continues... \ud83d\ude09</p><p><a href=\"https://github.com/microsoft/TypeScript/pull/52656#issuecomment-1421249664\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/microsoft/TypeScrip</span><span class=\"invisible\">t/pull/52656#issuecomment-1421249664</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@evanw",
+        "display_name": "Evan Wallace"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/vanatteveldt/cssbook",
     "title": "github.com/vanatteveldt/cssboo...",
     "latest": "2023-02-08T09:32:12+00:00",
@@ -3424,38 +3456,6 @@
       {
         "url": "https://mstdn.social/@ramikrispin",
         "display_name": "Rami Krispin :unverified:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/usysrc/iga",
-    "title": "GitHub - usysrc/iga: texture synthesis inspired by wave function collapse for love",
-    "latest": "2023-01-28T18:05:29+00:00",
-    "first": "2023-01-28T18:05:29+00:00",
-    "last_post": {
-      "url": "https://merveilles.town/@akkartik/109768155415398254",
-      "content": "<p>I just had a fun hour with the kids and this program:</p><p><a href=\"https://github.com/usysrc/iga\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/usysrc/iga</span><span class=\"invisible\"></span></a></p><p>Based on <a href=\"https://github.com/mxgmn/WaveFunctionCollapse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mxgmn/WaveFunctionC</span><span class=\"invisible\">ollapse</span></a></p><p>We tried out different tiles for a while.</p><p>After I got sick of typing out the filenames, I added the ability to drop files on the window.</p><p>Then we noticed that some of the tiles are more boring. I hardcoded the starting point near the bottom rather than the top, and that helped.</p><p>Finally I had it take the starting point from the place where you drop the file on the window.</p><p>cc <span class=\"h-card\"><a href=\"https://berlin.social/@jack\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jack</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@akkartik",
-        "display_name": "Kartik Agaram"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mxgmn/WaveFunctionCollapse",
-    "title": "github.com/mxgmn/WaveFunctionC...",
-    "latest": "2023-01-28T18:05:29+00:00",
-    "first": "2023-01-28T18:05:29+00:00",
-    "last_post": {
-      "url": "https://merveilles.town/@akkartik/109768155415398254",
-      "content": "<p>I just had a fun hour with the kids and this program:</p><p><a href=\"https://github.com/usysrc/iga\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/usysrc/iga</span><span class=\"invisible\"></span></a></p><p>Based on <a href=\"https://github.com/mxgmn/WaveFunctionCollapse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mxgmn/WaveFunctionC</span><span class=\"invisible\">ollapse</span></a></p><p>We tried out different tiles for a while.</p><p>After I got sick of typing out the filenames, I added the ability to drop files on the window.</p><p>Then we noticed that some of the tiles are more boring. I hardcoded the starting point near the bottom rather than the top, and that helped.</p><p>Finally I had it take the starting point from the place where you drop the file on the window.</p><p>cc <span class=\"h-card\"><a href=\"https://berlin.social/@jack\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jack</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@akkartik",
-        "display_name": "Kartik Agaram"
       }
     ]
   }
