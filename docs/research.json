@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://dl.acm.org/doi/pdf/10.1145/3442188.3445901",
+    "title": "dl.acm.org/doi/pdf/10.1145/344...",
+    "latest": "2023-02-08T01:48:59+00:00",
+    "first": "2023-02-08T01:48:59+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@ct_bergstrom/109826601113326223",
+      "content": "<p>Difficult or not, it is worth adding to your vocabulary if you care about the impacts of information technology, machine learning, artificial intelligence, and so forth. In a recent FAccT \u201921 conference paper Measurement and Fairness <a href=\"https://dl.acm.org/doi/pdf/10.1145/3442188.3445901\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/pdf/10.1145/344</span><span class=\"invisible\">2188.3445901</span></a> authors Abigail Jacobs <span class=\"h-card\"><a href=\"https://sigmoid.social/@az_jacobs\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>az_jacobs</span></a></span> and Hanna Wallach <span class=\"h-card\"><a href=\"https://sigmoid.social/@hanna\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hanna</span></a></span> observe that AI systems often aim to quantify\u2014and critically, make decisions based upon\u2014unobservable theoretical constructs such as \"teacher effectiveness\" or \"risk of recidivism\".</p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@ct_bergstrom",
+        "display_name": "Carl T. Bergstrom"
+      }
+    ]
+  },
+  {
     "link": "https://osf.io/4zk3n/",
     "title": "https://osf.io/4zk3n/",
     "latest": "2023-02-07T21:58:37+00:00",
@@ -3348,22 +3364,6 @@
       {
         "url": "https://sigmoid.social/@TedUnderwood",
         "display_name": "Ted Underwood"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.10972",
-    "title": "On the Importance of Noise Scheduling for Diffusion Models",
-    "latest": "2023-01-27T03:04:43+00:00",
-    "first": "2023-01-27T03:04:43+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109758951161810715",
-      "content": "<p>RT @_akhaliq@twitter.com</p><p>On the Importance of Noise Scheduling for Diffusion Models </p><p>sota pixel-based diffusion models for high-resolution images on ImageNet, enabling single-stage, end-to-end generation of diverse and high-fidelity images at 1024\u00d71024 resolution<br>abs: <a href=\"https://arxiv.org/abs/2301.10972\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10972</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/_akhaliq/status/1618799200493338626\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_akhaliq/status/16</span><span class=\"invisible\">18799200493338626</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
       }
     ]
   }

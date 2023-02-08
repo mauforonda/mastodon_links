@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/jgm/pandoc/issues/2730",
+    "title": "Very slow performance with some markdown options \u00b7 Issue #2730 \u00b7 jgm/pandoc",
+    "latest": "2023-02-08T02:57:47+00:00",
+    "first": "2023-02-07T23:39:46+00:00",
+    "last_post": {
+      "url": "https://dan.mastohon.com/@danhon/109826093000424041",
+      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@allafarce\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>allafarce</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@delong\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>delong</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@timoreilly\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>timoreilly</span></a></span> Threw in a credit card and now waiting for it to generate an index against ~7mb of markdown-formatted newsletter episodes. Markdown because I hit a problem like this with Pandoc converting them to plain text: <a href=\"https://github.com/jgm/pandoc/issues/2730\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jgm/pandoc/issues/2</span><span class=\"invisible\">730</span></a>, almost as if With 557 Markdown Files, Dan's GPT AI System Was At Risk -- Until This Weekend Hack Fixed It.</p>"
+    },
+    "people": [
+      {
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
+      },
+      {
+        "url": "https://mastodon.social/@delong",
+        "display_name": "delong"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/typescript-eslint/typescript-eslint/pull/6436",
     "title": "chore: migrated shared-fixtures to ast-spec by JoshuaKGoldberg \u00b7 Pull Request #6436 \u00b7 typescript-eslint/typescript-eslint",
     "latest": "2023-02-07T23:52:11+00:00",
@@ -12,22 +32,6 @@
       {
         "url": "https://fosstodon.org/@JoshuaKGoldberg",
         "display_name": "Josh Goldberg \ud83d\udc96"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jgm/pandoc/issues/2730",
-    "title": "Very slow performance with some markdown options \u00b7 Issue #2730 \u00b7 jgm/pandoc",
-    "latest": "2023-02-07T23:39:46+00:00",
-    "first": "2023-02-07T23:39:46+00:00",
-    "last_post": {
-      "url": "https://dan.mastohon.com/@danhon/109826093000424041",
-      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@allafarce\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>allafarce</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@delong\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>delong</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@timoreilly\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>timoreilly</span></a></span> Threw in a credit card and now waiting for it to generate an index against ~7mb of markdown-formatted newsletter episodes. Markdown because I hit a problem like this with Pandoc converting them to plain text: <a href=\"https://github.com/jgm/pandoc/issues/2730\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jgm/pandoc/issues/2</span><span class=\"invisible\">730</span></a>, almost as if With 557 Markdown Files, Dan's GPT AI System Was At Risk -- Until This Weekend Hack Fixed It.</p>"
-    },
-    "people": [
-      {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
       }
     ]
   },
