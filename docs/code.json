@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://github.com/golang/go/discussions/58409",
+    "title": "telemetry in the Go toolchain \u00b7 Discussion #58409 \u00b7 golang/go",
+    "latest": "2023-02-09T08:11:40+00:00",
+    "first": "2023-02-09T08:11:40+00:00",
+    "last_post": {
+      "url": "https://mastodon.ar.al/@aral/109833544957920153",
+      "content": "<p>Oh look, Google being Google.</p><p>(In case you were thinking of learning/using Go, I\u2019d say skip it. There are plenty of other fish in the sea. Unless you like telemetry by default in your programming languages and tools, that is. In fact, just don\u2019t touch anything tainted by Google if you can help it.)</p><p><a href=\"https://github.com/golang/go/discussions/58409\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/golang/go/discussio</span><span class=\"invisible\">ns/58409</span></a></p><p><a href=\"https://mastodon.ar.al/tags/google\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>google</span></a> <a href=\"https://mastodon.ar.al/tags/alphabet\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>alphabet</span></a> <a href=\"https://mastodon.ar.al/tags/go\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>go</span></a> <a href=\"https://mastodon.ar.al/tags/surveillance\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>surveillance</span></a> <a href=\"https://mastodon.ar.al/tags/capitalism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>capitalism</span></a> <a href=\"https://mastodon.ar.al/tags/peopleFarming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>peopleFarming</span></a> <a href=\"https://mastodon.ar.al/tags/privacy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>privacy</span></a> <a href=\"https://mastodon.ar.al/tags/development\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>development</span></a> <a href=\"https://mastodon.ar.al/tags/dev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dev</span></a> <a href=\"https://mastodon.ar.al/tags/software\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>software</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ctietze",
+        "display_name": "Christian Tietze"
+      }
+    ]
+  },
+  {
+    "link": "https://gitlab.com/jaywink/socialhome",
+    "title": "https://gitlab.com/jaywink/socialhome",
+    "latest": "2023-02-09T06:50:41+00:00",
+    "first": "2023-02-09T06:50:41+00:00",
+    "last_post": {
+      "url": "https://socialhome.network/content/8d9a0eeb-ae15-422d-a591-08da57cc9142/",
+      "content": "<p>Socialhome v0.16.0 released</p>\n<p></p>\n<p>After over a year, a Socialhome release is out again! The main thanks for this release goes out to @alain@jase.social, who has pretty much re-written the whole ActivityPub federation layer for this release. Not a small job at all, and without any noticeable regressions too.</p>\n<p>Initially, when the ActivityPub layer was added for Socialhome, it was a quick JSON only job, with federation only really ever tested with Mastodon. Now we have proper JSON-LD based inbound/outbound federation that not only adds a lot more supported platforms but also support for various new objects like video and audio.</p>\n<p>Highlights:</p>\n<p>\nFully rewritten ActivityPub protocol support using JSON-LD.<br>\nPython minimum version supported changed to 3.8 with support up to 3.10.<br>\nNodeJS required version bumped to v12.<br>\nNew background queue priorities to ensure federation traffic is always prioritised.<br>\nThreaded replies!<br>\nSupport for video and audio attachments (ActivityPub only).<br>\nFetching of previous replies when new content is received.<br>\n</p>\n<p>And many more fixes and tweaks. <a href=\"https://socialhome.readthedocs.io/en/latest/changelog.html#id2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Full changelog</a>.</p>\n<p>This release also pairs with a v0.23.0 release of the federation library. The changelog for that can be found <a href=\"https://federation.readthedocs.io/en/latest/changelog.html#id1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">here</a>.</p>\n<p>What is Socialhome?</p>\n<p>Socialhome is best described as a federated personal profile with social networking functionality. Users can create rich content using Markdown. All content can be pinned to the user profile and all content will federate to contacts in the federated social web. Federation happens using the ActivityPub and Diaspora protocols (Matrix maybe coming up one day :))!</p>\n<p>Please check the official site for more information about features. Naturally, the official site is a Socialhome profile itself.</p>\n<p>\n<a href=\"https://socialhome.network\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Official site</a><br>\n<a href=\"https://socialhome.readthedocs.io\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Documentation (for admins)</a><br>\n<a href=\"https://gitlab.com/jaywink/socialhome\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Code repository</a> (<a href=\"https://github.com/jaywink/socialhome\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">GitHub mirror</a>)<br>\n<a href=\"https://matrix.to/#/#socialhome:federator.dev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Chat room on Matrix</a><br>\n</p>\n<p>FYI, currently signups are closed on the official instance due to spam users. We're working on changing this soon.</p>\n<p>Contribute</p>\n<p>Want to work on a Django and VueJS powered social network server? Join in the fun! We have easy to follow development environment setup documentation and a friendly chat room for questions.</p>\n<p><a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/socialhome/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>socialhome</span></a> <a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/federation/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>federation</span></a> <a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/fediverse/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a> <a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/activitypub/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>activitypub</span></a> <a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/diaspora/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>diaspora</span></a> <a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/django/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>django</span></a> <a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/vuejs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vuejs</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jaywink/socialhome",
+    "title": "https://github.com/jaywink/socialhome",
+    "latest": "2023-02-09T06:50:41+00:00",
+    "first": "2023-02-09T06:50:41+00:00",
+    "last_post": {
+      "url": "https://socialhome.network/content/8d9a0eeb-ae15-422d-a591-08da57cc9142/",
+      "content": "<p>Socialhome v0.16.0 released</p>\n<p></p>\n<p>After over a year, a Socialhome release is out again! The main thanks for this release goes out to @alain@jase.social, who has pretty much re-written the whole ActivityPub federation layer for this release. Not a small job at all, and without any noticeable regressions too.</p>\n<p>Initially, when the ActivityPub layer was added for Socialhome, it was a quick JSON only job, with federation only really ever tested with Mastodon. Now we have proper JSON-LD based inbound/outbound federation that not only adds a lot more supported platforms but also support for various new objects like video and audio.</p>\n<p>Highlights:</p>\n<p>\nFully rewritten ActivityPub protocol support using JSON-LD.<br>\nPython minimum version supported changed to 3.8 with support up to 3.10.<br>\nNodeJS required version bumped to v12.<br>\nNew background queue priorities to ensure federation traffic is always prioritised.<br>\nThreaded replies!<br>\nSupport for video and audio attachments (ActivityPub only).<br>\nFetching of previous replies when new content is received.<br>\n</p>\n<p>And many more fixes and tweaks. <a href=\"https://socialhome.readthedocs.io/en/latest/changelog.html#id2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Full changelog</a>.</p>\n<p>This release also pairs with a v0.23.0 release of the federation library. The changelog for that can be found <a href=\"https://federation.readthedocs.io/en/latest/changelog.html#id1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">here</a>.</p>\n<p>What is Socialhome?</p>\n<p>Socialhome is best described as a federated personal profile with social networking functionality. Users can create rich content using Markdown. All content can be pinned to the user profile and all content will federate to contacts in the federated social web. Federation happens using the ActivityPub and Diaspora protocols (Matrix maybe coming up one day :))!</p>\n<p>Please check the official site for more information about features. Naturally, the official site is a Socialhome profile itself.</p>\n<p>\n<a href=\"https://socialhome.network\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Official site</a><br>\n<a href=\"https://socialhome.readthedocs.io\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Documentation (for admins)</a><br>\n<a href=\"https://gitlab.com/jaywink/socialhome\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Code repository</a> (<a href=\"https://github.com/jaywink/socialhome\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">GitHub mirror</a>)<br>\n<a href=\"https://matrix.to/#/#socialhome:federator.dev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Chat room on Matrix</a><br>\n</p>\n<p>FYI, currently signups are closed on the official instance due to spam users. We're working on changing this soon.</p>\n<p>Contribute</p>\n<p>Want to work on a Django and VueJS powered social network server? Join in the fun! We have easy to follow development environment setup documentation and a friendly chat room for questions.</p>\n<p><a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/socialhome/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>socialhome</span></a> <a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/federation/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>federation</span></a> <a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/fediverse/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a> <a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/activitypub/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>activitypub</span></a> <a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/diaspora/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>diaspora</span></a> <a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/django/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>django</span></a> <a class=\"mention hashtag\" href=\"https://socialhome.network/streams/tag/vuejs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vuejs</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/simonw/datasette-explain",
     "title": "GitHub - simonw/datasette-explain: Explain and validate SQL queries as you type them into Datasette",
     "latest": "2023-02-09T05:12:25+00:00",
@@ -3286,137 +3334,5 @@
         "display_name": "patak"
       }
     ]
-  },
-  {
-    "link": "https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md",
-    "title": "armstrong-distributed-systems/erlang-is-not-about.md at main \u00b7 stevana/armstrong-distributed-systems",
-    "latest": "2023-01-29T05:58:19+00:00",
-    "first": "2023-01-29T05:58:19+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@chrisshank/109770958431697898",
-      "content": "<p>\u201cErlang's not about lightweight processes and message passing...\u201d (2023)</p><p><a href=\"https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/stevana/armstrong-d</span><span class=\"invisible\">istributed-systems/blob/main/docs/erlang-is-not-about.md</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@chrisshank",
-        "display_name": "\ud835\udd6e"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hodgesmr/mastodon_digest",
-    "title": "GitHub - hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline",
-    "latest": "2023-01-29T01:09:03+00:00",
-    "last_post": {
-      "url": "https://social.jvns.ca/@b0rk/109722489383419112",
-      "content": "<p>quick summary of the mastodon digest tools people listed in the replies:</p><p>- mastodon digest <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a><br>- a fork of mastodon_digest that runs on github access (<a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a>) to make a page like this <a href=\"https://mauforonda.github.io/mastodon_digest/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mauforonda.github.io/mastodon_</span><span class=\"invisible\">digest/</span></a><br>- and an email version <a href=\"https://github.com/mauforonda/mastodon_email_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_email_digest</span></a> .<br>- fediview <a href=\"https://fediview.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com/</span><span class=\"invisible\"></span></a><br>- quintessence (top links) <a href=\"https://quintsns.pianeta.uno\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">quintsns.pianeta.uno</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@samim",
-        "display_name": "samim"
-      },
-      {
-        "url": "https://econtwitter.net/@paulgp",
-        "display_name": "Paul Goldsmith-Pinkham"
-      },
-      {
-        "url": "https://mastodon.social/@Cmastication",
-        "display_name": "JD Long \u2705"
-      },
-      {
-        "url": "https://mstdn.science/@contaminatedsci",
-        "display_name": "Tami Lieberman"
-      },
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://econtwitter.net/@fetzert",
-        "display_name": "Thiemo Fetzer"
-      },
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      },
-      {
-        "url": "https://mastodon.social/@Colarusso",
-        "display_name": "David Colarusso"
-      },
-      {
-        "url": "https://hachyderm.io/@mnl",
-        "display_name": "mnml mnl (he/him)"
-      },
-      {
-        "url": "https://neuromatch.social/@LeonDLotter",
-        "display_name": "Leon Lotter"
-      },
-      {
-        "url": "https://mastodon.social/@ummjackson",
-        "display_name": "Jackson Palmer"
-      },
-      {
-        "url": "https://social.jvns.ca/@b0rk",
-        "display_name": "Julia Evans"
-      },
-      {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
-      },
-      {
-        "url": "https://fosstodon.org/@shazow",
-        "display_name": "Andrey Petrov"
-      },
-      {
-        "url": "https://mastodon.social/@dahukanna",
-        "display_name": "Dawn Ahukanna"
-      }
-    ],
-    "first": "2023-01-06T16:46:47.992000+00:00"
-  },
-  {
-    "link": "https://github.com/mauforonda/mastodon_digest",
-    "title": "github.com/mauforonda/mastodon...",
-    "latest": "2023-01-29T01:09:03+00:00",
-    "last_post": {
-      "url": "https://social.jvns.ca/@b0rk/109722489383419112",
-      "content": "<p>quick summary of the mastodon digest tools people listed in the replies:</p><p>- mastodon digest <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a><br>- a fork of mastodon_digest that runs on github access (<a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a>) to make a page like this <a href=\"https://mauforonda.github.io/mastodon_digest/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mauforonda.github.io/mastodon_</span><span class=\"invisible\">digest/</span></a><br>- and an email version <a href=\"https://github.com/mauforonda/mastodon_email_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_email_digest</span></a> .<br>- fediview <a href=\"https://fediview.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com/</span><span class=\"invisible\"></span></a><br>- quintessence (top links) <a href=\"https://quintsns.pianeta.uno\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">quintsns.pianeta.uno</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://sigmoid.social/@maria_antoniak",
-        "display_name": "Maria Antoniak"
-      },
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      },
-      {
-        "url": "https://hachyderm.io/@mnl",
-        "display_name": "mnml mnl (he/him)"
-      },
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      },
-      {
-        "url": "https://social.jvns.ca/@b0rk",
-        "display_name": "Julia Evans"
-      },
-      {
-        "url": "https://fosstodon.org/@shazow",
-        "display_name": "Andrey Petrov"
-      },
-      {
-        "url": "https://mastodon.social/@dahukanna",
-        "display_name": "Dawn Ahukanna"
-      }
-    ],
-    "first": "2023-01-06T16:46:47.992000+00:00"
   }
 ]
