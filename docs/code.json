@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://github.com/gesteves/denali/commit/e5ff1b408759435d1c61738eba93f9bb0fa5dca0",
+    "title": "Add native masonry \u00b7 gesteves/denali@e5ff1b4",
+    "latest": "2023-02-09T00:22:04+00:00",
+    "first": "2023-02-09T00:22:04+00:00",
+    "last_post": {
+      "url": "https://mastodon.gesteves.com/@g/109831917154320035",
+      "content": "<p><span class=\"h-card\"><a href=\"https://front-end.social/@jensimmons\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jensimmons</span></a></span> I could cry \ud83d\ude2d</p><p>My favorite thing is how easy it is to implement masonry if you're already using the classic JS library, and still leave it as a fallback: <a href=\"https://github.com/gesteves/denali/commit/e5ff1b408759435d1c61738eba93f9bb0fa5dca0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gesteves/denali/com</span><span class=\"invisible\">mit/e5ff1b408759435d1c61738eba93f9bb0fa5dca0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://front-end.social/@jensimmons",
+        "display_name": "Jen Simmons"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/golang/go/discussions/58409#discussioncomment-4909183",
+    "title": "github.com/golang/go/discussio...",
+    "latest": "2023-02-09T00:18:43+00:00",
+    "first": "2023-02-09T00:18:43+00:00",
+    "last_post": {
+      "url": "https://abyssdomain.expert/@filippo/109831908464245538",
+      "content": "<p>It's sad to see a lot of pushback to this proposal come in the form of \"clever\" quips about Google.</p><p>@arp242@github.com has a good take on Go vs Google, which is something I've always wanted to talk about but always assumed would not be well received coming from me.</p><p>Having a broken mental model of the \"other side\" doesn't help anyone's cause. It just leads to talking past each other.</p><p><a href=\"https://github.com/golang/go/discussions/58409#discussioncomment-4909183\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/golang/go/discussio</span><span class=\"invisible\">ns/58409#discussioncomment-4909183</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://abyssdomain.expert/@filippo",
+        "display_name": "Filippo Valsorda :go:"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/astrowonk/6b2bc29115165f5d7c6465a345943604",
+    "title": "NCSH County Codes to FIPS",
+    "latest": "2023-02-08T22:33:37+00:00",
+    "first": "2023-02-08T22:33:37+00:00",
+    "last_post": {
+      "url": "https://vmst.io/@marcoshuerta/109831495194301138",
+      "content": "<p>I've been using US natality data from NBER as a test case for <a href=\"https://vmst.io/tags/duckdb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>duckdb</span></a> , and I finally concatenated NCSH county and state codes (in the natality data there's one code that has both state and county NCSH combined) to map them to FIPS. I went ahead and put this in gist, with a comment here on how it was made.</p><p><a href=\"https://gist.github.com/astrowonk/6b2bc29115165f5d7c6465a345943604\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/astrowonk/6b2b</span><span class=\"invisible\">c29115165f5d7c6465a345943604</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/elk-zone/elk/issues/1421",
+    "title": "github.com/elk-zone/elk/issues...",
+    "latest": "2023-02-08T22:31:40.376000+00:00",
+    "first": "2023-02-08T22:31:40.376000+00:00",
+    "last_post": {
+      "url": "https://mastodon.cloud/@mogul/109831441078378955",
+      "content": "<p>With the exception of one bug*, The web-based Mastodon client at <a href=\"https://elk.zone\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">elk.zone</span><span class=\"invisible\"></span></a> is looking super sharp! Definitely check it out if you just want the usability of Mastodon's default UI (and in particular DMs!) to feel more like Twitter.</p><p>* this one: <a href=\"https://github.com/elk-zone/elk/issues/1421\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/elk-zone/elk/issues</span><span class=\"invisible\">/1421</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@allafarce",
+        "display_name": "Dave Guarino"
+      }
+    ]
+  },
+  {
     "link": "https://observablehq.com/@sxywu/02-noc-vectors?collection=@sxywu/nature-of-code-w-webgl",
     "title": "02 | vectors & inks",
     "latest": "2023-02-08T18:55:21+00:00",
@@ -3372,78 +3436,6 @@
       {
         "url": "https://sigmoid.social/@R4_Unit",
         "display_name": "R4_Unit"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/johnsamuelwrites/awesome-wikidata",
-    "title": "GitHub - johnsamuelwrites/awesome-wikidata: Curated list of Wikidata Projects",
-    "latest": "2023-01-29T00:14:54+00:00",
-    "first": "2023-01-29T00:14:54+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jsamwrites/109766846426049913",
-      "content": "<p>With the recent release of Wikidata REST API, the list of awesome services and APIs to work with Wikidata has now been updated</p><p><a href=\"https://github.com/johnsamuelwrites/awesome-wikidata\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/johnsamuelwrites/aw</span><span class=\"invisible\">esome-wikidata</span></a></p><p><a href=\"https://mastodon.social/tags/Wikidata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wikidata</span></a> <a href=\"https://mastodon.social/tags/OpenData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenData</span></a> <a href=\"https://mastodon.social/tags/API\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>API</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@fetzert",
-        "display_name": "Thiemo Fetzer"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mszell/sciencememes",
-    "title": "GitHub - mszell/sciencememes: Science-inspired visual memes",
-    "latest": "2023-01-28T21:01:12+00:00",
-    "first": "2023-01-28T21:01:12+00:00",
-    "last_post": {
-      "url": "https://datasci.social/@mszll/109768846373089473",
-      "content": "<p>I realized I have created some science-inspired \"memes\" over the past years. To not lose them (and their source files) I organized them here: <a href=\"https://github.com/mszell/sciencememes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mszell/sciencememes</span><span class=\"invisible\"></span></a><br>Hope to add more in the future <a href=\"https://datasci.social/tags/sciencecomm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sciencecomm</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@mszll",
-        "display_name": "Michael Szell"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/eramdam/tokimeki-mastodon",
-    "title": "github.com/eramdam/tokimeki-ma...",
-    "latest": "2023-01-28T19:40:52+00:00",
-    "first": "2023-01-10T18:31:53+00:00",
-    "last_post": {
-      "url": "https://octodon.social/@Eramdam/109663455265127820",
-      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
-      },
-      {
-        "url": "https://vis.social/@Luca",
-        "display_name": "Luca Hammer"
-      },
-      {
-        "url": "https://octodon.social/@Eramdam",
-        "display_name": "Damien \u2728"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/usysrc/iga/compare/master...akkartik:iga:master",
-    "title": "Comparing usysrc:master...akkartik:master \u00b7 usysrc/iga",
-    "latest": "2023-01-28T19:13:55+00:00",
-    "first": "2023-01-28T19:13:55+00:00",
-    "last_post": {
-      "url": "https://merveilles.town/@akkartik/109768424499720492",
-      "content": "<p>Cleaned up and published: <a href=\"https://github.com/usysrc/iga/compare/master...akkartik:iga:master\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/usysrc/iga/compare/</span><span class=\"invisible\">master...akkartik:iga:master</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://merveilles.town/@akkartik",
-        "display_name": "Kartik Agaram"
       }
     ]
   }

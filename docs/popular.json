@@ -42,11 +42,11 @@
   {
     "link": "https://www.kickstarter.com/projects/mwichary/shift-happens",
     "title": "Coming soon: Shift Happens: A book about keyboards",
-    "latest": "2023-02-08T16:23:38+00:00",
+    "latest": "2023-02-08T21:18:54+00:00",
     "first": "2023-02-07T18:35:34+00:00",
     "last_post": {
-      "url": "https://saturation.social/@clive/109830040355439670",
-      "content": "<p>Okay all my fellow keyboard freaks</p><p>Marcin Wichary has spent years researching, writing, designing and producing an epic two-volume history of the keyboard -- \"from early typewriters to modern mechanical marvels\" \u2328\ufe0f </p><p>I just backed it on Kickstarter</p><p>Check it out: <a href=\"https://www.kickstarter.com/projects/mwichary/shift-happens\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kickstarter.com/projects/mwich</span><span class=\"invisible\">ary/shift-happens</span></a></p>"
+      "url": "https://saturation.social/@jkottke/109825495856932673",
+      "content": "<p>Pro tip: do not introduce your trifling little t-shirt on the same day <span class=\"h-card\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mwichary</span></a></span> launches his monumental book on keyboards.</p><p><a href=\"https://kottke.org/23/02/kottke-hypertext-tshirt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">kottke.org/23/02/kottke-hypert</span><span class=\"invisible\">ext-tshirt</span></a></p><p><a href=\"https://www.kickstarter.com/projects/mwichary/shift-happens\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kickstarter.com/projects/mwich</span><span class=\"invisible\">ary/shift-happens</span></a></p>"
     },
     "people": [
       {
@@ -204,6 +204,38 @@
       {
         "url": "https://berlin.social/@psm_os",
         "display_name": "Paul Schultze-Motel"
+      }
+    ]
+  },
+  {
+    "link": "https://blog.cloudflare.com/welcome-to-wildebeest-the-fediverse-on-cloudflare/",
+    "title": "Welcome to Wildebeest: the Fediverse on Cloudflare",
+    "latest": "2023-02-08T22:48:44+00:00",
+    "first": "2023-02-08T20:41:07+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@atomicpoet/109831402534056507",
+      "content": "<p>\ud83d\udea8 BIG NEWS! \ud83d\udea8</p><p>Cloudflare just released Wildebeest, a Fediverse competitor to Mastodon!</p><p>A key feature is that Wildebeest runs \u201centirely on Cloudflare\u201d.</p><p>Is this an attempt to centralize the Fediverse\u2014which, until now, has been built for decentralized social media?</p><p><a href=\"https://blog.cloudflare.com/welcome-to-wildebeest-the-fediverse-on-cloudflare/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.cloudflare.com/welcome-to</span><span class=\"invisible\">-wildebeest-the-fediverse-on-cloudflare/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      },
+      {
+        "url": "https://mastodon.social/@TodePond",
+        "display_name": "Lu Wilson"
+      },
+      {
+        "url": "https://fediscience.org/@biocs",
+        "display_name": "Michael Kuhn"
+      },
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
+      },
+      {
+        "url": "https://mastodon.social/@argimenes",
+        "display_name": "Codex OS"
       }
     ]
   },
@@ -508,6 +540,30 @@
     ]
   },
   {
+    "link": "https://motherduck.com/blog/big-data-is-dead/",
+    "title": "MotherDuck: Big Data is Dead",
+    "latest": "2023-02-08T23:42:27.993000+00:00",
+    "first": "2023-02-07T22:37:21+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@pwramsey/109830916892665224",
+      "content": "<p>This is an amazing and excellent must-read for anyone in analytics. The amount of analysis you can do on a single box has grown and grown while the amount of analysis organizations really get value from has stayed more or less constant. There are still some workloads that need specialty OLAP systems, but most organizations don't have them and, more important, won't EVER have them. <a href=\"https://motherduck.com/blog/big-data-is-dead/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">motherduck.com/blog/big-data-i</span><span class=\"invisible\">s-dead/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mamot.fr/@nemobis",
+        "display_name": "Nemo_bis \ud83c\udf08"
+      },
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://hachyderm.io/@kvnweb",
+        "display_name": "Kevin Webb"
+      }
+    ]
+  },
+  {
     "link": "https://pruvisto.org/debirdify",
     "title": "https://pruvisto.org/debirdify",
     "latest": "2023-02-08T13:57:55+00:00",
@@ -552,50 +608,6 @@
       {
         "url": "https://newsie.social/@themarkup",
         "display_name": "The Markup"
-      }
-    ]
-  },
-  {
-    "link": "https://blog.cloudflare.com/welcome-to-wildebeest-the-fediverse-on-cloudflare/",
-    "title": "Welcome to Wildebeest: the Fediverse on Cloudflare",
-    "latest": "2023-02-08T20:05:54+00:00",
-    "first": "2023-02-08T20:41:07+00:00",
-    "last_post": {
-      "url": "https://tapbots.social/@paul/109830727681764776",
-      "content": "<p>Cloudflare's wildebeest project is pretty cool. Bridges the gap between using one of the various servers and having to figure out how the hell Docker, Postgres, etc.. works to run your own.</p><p>At some point we'll work with them to get Ivory compatible with it.<br><a href=\"https://blog.cloudflare.com/welcome-to-wildebeest-the-fediverse-on-cloudflare/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.cloudflare.com/welcome-to</span><span class=\"invisible\">-wildebeest-the-fediverse-on-cloudflare/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
-      },
-      {
-        "url": "https://mastodon.social/@TodePond",
-        "display_name": "Lu Wilson"
-      },
-      {
-        "url": "https://fediscience.org/@biocs",
-        "display_name": "Michael Kuhn"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2212.02581",
-    "title": "Editing a Woman's Voice",
-    "latest": "2023-02-06T13:41:12+00:00",
-    "first": "2023-02-05T23:30:48+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@davdittrich/109814130962254948",
-      "content": "<p>via Susanna Berkouwer<br>Another wild finding:<br>Male &amp; female economists write with similar levels of uncertainty, but the writing of those assigned biased editors becomes more uncertain during review</p><p>Paper: <a href=\"https://arxiv.org/abs/2212.02581\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.02581</span><span class=\"invisible\"></span></a><br><a href=\"https://fediscience.org/tags/gender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gender</span></a> <a href=\"https://fediscience.org/tags/SciComm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SciComm</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@ckrafftc",
-        "display_name": "Caroline Krafft"
-      },
-      {
-        "url": "https://econtwitter.net/@NicVdSijpe",
-        "display_name": "Nicolas Van de Sijpe"
       }
     ]
   },
@@ -1640,6 +1652,26 @@
     ]
   },
   {
+    "link": "https://kottke.org/23/02/kottke-hypertext-tshirt",
+    "title": "The Kottke.org T-shirt, a Fine Hypertext Product",
+    "latest": "2023-02-08T21:18:54+00:00",
+    "first": "2023-02-07T19:06:23+00:00",
+    "last_post": {
+      "url": "https://saturation.social/@jkottke/109825495856932673",
+      "content": "<p>Pro tip: do not introduce your trifling little t-shirt on the same day <span class=\"h-card\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mwichary</span></a></span> launches his monumental book on keyboards.</p><p><a href=\"https://kottke.org/23/02/kottke-hypertext-tshirt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">kottke.org/23/02/kottke-hypert</span><span class=\"invisible\">ext-tshirt</span></a></p><p><a href=\"https://www.kickstarter.com/projects/mwichary/shift-happens\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kickstarter.com/projects/mwich</span><span class=\"invisible\">ary/shift-happens</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://friend.camp/@darius",
+        "display_name": "Darius Kazemi"
+      },
+      {
+        "url": "https://saturation.social/@clive",
+        "display_name": "Clive Thompson"
+      }
+    ]
+  },
+  {
     "link": "https://dataliteracy.com/nightingale-and-data-literacy/",
     "title": "Patient and Persuasive: How Florence Nightingale conveyed data insights to all",
     "latest": "2023-02-08T10:01:50+00:00",
@@ -1736,26 +1768,6 @@
       {
         "url": "https://fediscience.org/@leahdriel",
         "display_name": "Leah  Brown"
-      }
-    ]
-  },
-  {
-    "link": "https://motherduck.com/blog/big-data-is-dead/",
-    "title": "MotherDuck: Big Data is Dead",
-    "latest": "2023-02-07T21:33:40+00:00",
-    "first": "2023-02-07T22:37:21+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jmcastagnetto/109825531376982566",
-      "content": "<p>RT @jrdntgn<br>I wrote a blog post about the end of big data <a href=\"https://motherduck.com/blog/big-data-is-dead/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">motherduck.com/blog/big-data-i</span><span class=\"invisible\">s-dead/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mamot.fr/@nemobis",
-        "display_name": "Nemo_bis \ud83c\udf08"
-      },
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
       }
     ]
   },
@@ -1900,6 +1912,26 @@
     ]
   },
   {
+    "link": "https://ischool.illinois.edu/sites/default/files/documents/postdoc_positiondescription_2023_1.pdf",
+    "title": "ischool.illinois.edu/sites/def...",
+    "latest": "2023-02-08T21:51:16+00:00",
+    "first": "2023-02-08T14:34:05+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@TedUnderwood/109829609587653236",
+      "content": "<p>Postdoctoral positions available at the School of Information Sciences, UIUC. Salary of at least $60k + $2k for research and travel, 1/1 teaching load, renewable for two years. Please boost! <a href=\"https://ischool.illinois.edu/sites/default/files/documents/postdoc_positiondescription_2023_1.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ischool.illinois.edu/sites/def</span><span class=\"invisible\">ault/files/documents/postdoc_positiondescription_2023_1.pdf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      },
+      {
+        "url": "https://mastodon.social/@jose_eduardo",
+        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
+      }
+    ]
+  },
+  {
     "link": "https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/",
     "title": "Why does 0.1 + 0.2 = 0.30000000000000004?",
     "latest": "2023-02-08T15:48:12+00:00",
@@ -1976,6 +2008,26 @@
       {
         "url": "https://mastodon.social/@cbail",
         "display_name": "cbail"
+      }
+    ]
+  },
+  {
+    "link": "https://www.wired.com/story/chatgpt-has-been-sucked-into-indias-culture-wars/",
+    "title": "ChatGPT Has Been Sucked Into India's Culture Wars",
+    "latest": "2023-02-08T21:51:03+00:00",
+    "first": "2023-02-08T15:30:16+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@Riedl/109829812299991138",
+      "content": "<p>ChatGPT has been sucked into India's culture wars</p><p><a href=\"https://www.wired.com/story/chatgpt-has-been-sucked-into-indias-culture-wars/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wired.com/story/chatgpt-has-be</span><span class=\"invisible\">en-sucked-into-indias-culture-wars/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@TedUnderwood",
+        "display_name": "Ted Underwood"
+      },
+      {
+        "url": "https://mastodon.social/@jose_eduardo",
+        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
       }
     ]
   }
