@@ -2,16 +2,40 @@
   {
     "link": "https://github.com/golang/go/discussions/58409",
     "title": "telemetry in the Go toolchain \u00b7 Discussion #58409 \u00b7 golang/go",
-    "latest": "2023-02-09T08:11:40+00:00",
+    "latest": "2023-02-09T13:43:22+00:00",
     "first": "2023-02-09T08:11:40+00:00",
     "last_post": {
-      "url": "https://mastodon.ar.al/@aral/109833544957920153",
-      "content": "<p>Oh look, Google being Google.</p><p>(In case you were thinking of learning/using Go, I\u2019d say skip it. There are plenty of other fish in the sea. Unless you like telemetry by default in your programming languages and tools, that is. In fact, just don\u2019t touch anything tainted by Google if you can help it.)</p><p><a href=\"https://github.com/golang/go/discussions/58409\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/golang/go/discussio</span><span class=\"invisible\">ns/58409</span></a></p><p><a href=\"https://mastodon.ar.al/tags/google\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>google</span></a> <a href=\"https://mastodon.ar.al/tags/alphabet\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>alphabet</span></a> <a href=\"https://mastodon.ar.al/tags/go\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>go</span></a> <a href=\"https://mastodon.ar.al/tags/surveillance\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>surveillance</span></a> <a href=\"https://mastodon.ar.al/tags/capitalism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>capitalism</span></a> <a href=\"https://mastodon.ar.al/tags/peopleFarming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>peopleFarming</span></a> <a href=\"https://mastodon.ar.al/tags/privacy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>privacy</span></a> <a href=\"https://mastodon.ar.al/tags/development\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>development</span></a> <a href=\"https://mastodon.ar.al/tags/dev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dev</span></a> <a href=\"https://mastodon.ar.al/tags/software\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>software</span></a></p>"
+      "url": "https://mastodon.social/@Migueldeicaza/109835072496256530",
+      "content": "<p>Doing tool telemetry in a respectful way, I like what Russ from the Go team is proposing here.  We never put telemetry on Mono, as designing a respectful system like this is a project on its own. </p><p>I didn\u2019t like the mandatory and over-the-top telemetry that was forced into .net core (it is the first thing I disable - and you should too):</p><p><a href=\"https://github.com/golang/go/discussions/58409\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/golang/go/discussio</span><span class=\"invisible\">ns/58409</span></a></p>"
     },
     "people": [
       {
         "url": "https://mastodon.social/@ctietze",
         "display_name": "Christian Tietze"
+      },
+      {
+        "url": "https://mastodon.social/@Migueldeicaza",
+        "display_name": "Miguel de Icaza"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/r-lib/rig",
+    "title": "GitHub - r-lib/rig: The R Installation Manager",
+    "latest": "2023-02-09T13:00:38+00:00",
+    "first": "2023-02-09T03:07:21+00:00",
+    "last_post": {
+      "url": "https://vis.social/@ijlyttle/109831791179362124",
+      "content": "<p>The r-lib/rig tool for cross-platform installations of <a href=\"https://vis.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> is straight-up stone-cold magic \ud83e\udd2f</p><p>\ud83d\udc49 if you install on linux, it sets `options(\"repos\")` to use RSPM binaries<br>\ud83d\udc49 by <span class=\"h-card\"><a href=\"https://fosstodon.org/@gaborcsardi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gaborcsardi</span></a></span>, naturally</p><p><a href=\"https://github.com/r-lib/rig\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/r-lib/rig</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@jennybryan",
+        "display_name": "Jenny Bryan"
+      },
+      {
+        "url": "https://fosstodon.org/@hadleywickham",
+        "display_name": "Hadley Wickham"
       }
     ]
   },
@@ -60,22 +84,6 @@
       {
         "url": "https://fedi.simonwillison.net/@simon",
         "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/r-lib/rig",
-    "title": "GitHub - r-lib/rig: The R Installation Manager",
-    "latest": "2023-02-09T03:07:21+00:00",
-    "first": "2023-02-09T03:07:21+00:00",
-    "last_post": {
-      "url": "https://vis.social/@ijlyttle/109831791179362124",
-      "content": "<p>The r-lib/rig tool for cross-platform installations of <a href=\"https://vis.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> is straight-up stone-cold magic \ud83e\udd2f</p><p>\ud83d\udc49 if you install on linux, it sets `options(\"repos\")` to use RSPM binaries<br>\ud83d\udc49 by <span class=\"h-card\"><a href=\"https://fosstodon.org/@gaborcsardi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gaborcsardi</span></a></span>, naturally</p><p><a href=\"https://github.com/r-lib/rig\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/r-lib/rig</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@jennybryan",
-        "display_name": "Jenny Bryan"
       }
     ]
   },
