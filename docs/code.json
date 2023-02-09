@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/r-lib/rig",
+    "title": "GitHub - r-lib/rig: The R Installation Manager",
+    "latest": "2023-02-09T03:07:21+00:00",
+    "first": "2023-02-09T03:07:21+00:00",
+    "last_post": {
+      "url": "https://vis.social/@ijlyttle/109831791179362124",
+      "content": "<p>The r-lib/rig tool for cross-platform installations of <a href=\"https://vis.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> is straight-up stone-cold magic \ud83e\udd2f</p><p>\ud83d\udc49 if you install on linux, it sets `options(\"repos\")` to use RSPM binaries<br>\ud83d\udc49 by <span class=\"h-card\"><a href=\"https://fosstodon.org/@gaborcsardi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gaborcsardi</span></a></span>, naturally</p><p><a href=\"https://github.com/r-lib/rig\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/r-lib/rig</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@jennybryan",
+        "display_name": "Jenny Bryan"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/gesteves/denali/commit/e5ff1b408759435d1c61738eba93f9bb0fa5dca0",
     "title": "Add native masonry \u00b7 gesteves/denali@e5ff1b4",
     "latest": "2023-02-09T00:22:04+00:00",
@@ -3422,21 +3438,5 @@
       }
     ],
     "first": "2023-01-06T16:46:47.992000+00:00"
-  },
-  {
-    "link": "https://github.com/rudyrucker/chaos",
-    "title": "GitHub - rudyrucker/chaos: James Gleick's Chaos: The Software",
-    "latest": "2023-01-29T01:06:28+00:00",
-    "first": "2023-01-29T01:06:28+00:00",
-    "last_post": {
-      "url": "https://sfba.social/@rudytheelder/109764784490372772",
-      "content": "<p>Go Git it. <br>---<br>RT @jonl<br><span class=\"h-card\"><a href=\"https://sfba.social/@rudytheelder\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rudytheelder</span></a></span> This reminds me of Chaos, which I had for the PC back in the paleozoic... and wow, I found this: <a href=\"https://github.com/rudyrucker/chaos\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rudyrucker/chaos</span><span class=\"invisible\"></span></a><br><a href=\"https://twitter.com/jonl/status/1618994412528476161\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/jonl/status/161899</span><span class=\"invisible\">4412528476161</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@R4_Unit",
-        "display_name": "R4_Unit"
-      }
-    ]
   }
 ]
