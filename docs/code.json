@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://github.com/simonw/datasette-explain",
+    "title": "GitHub - simonw/datasette-explain: Explain and validate SQL queries as you type them into Datasette",
+    "latest": "2023-02-09T05:12:25+00:00",
+    "first": "2023-02-09T05:12:25+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109833063340513447",
+      "content": "<p>While exploring this I prototyped a new Datasette plugin for running \"explain query plan select..\" while you type a query: <a href=\"https://github.com/simonw/datasette-explain\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/datasette-ex</span><span class=\"invisible\">plain</span></a></p><p>Demo here: <a href=\"https://latest-with-plugins.datasette.io/github?sql=select+repos.full_name%2C+%28+select+json_group_array%28+json_object%28+%27id%27%2C+id%2C+%27name%27%2C+name+%29+%29+from+%28+select+*+from+releases+where+repo+%3D+repos.id+order+by+created_at+desc+limit+3+%29+%29+as+recent_releases%0D%0Afrom+repos%0D%0Alimit+10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">latest-with-plugins.datasette.</span><span class=\"invisible\">io/github?sql=select+repos.full_name%2C+%28+select+json_group_array%28+json_object%28+%27id%27%2C+id%2C+%27name%27%2C+name+%29+%29+from+%28+select+*+from+releases+where+repo+%3D+repos.id+order+by+created_at+desc+limit+3+%29+%29+as+recent_releases%0D%0Afrom+repos%0D%0Alimit+10</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/r-lib/rig",
     "title": "GitHub - r-lib/rig: The R Installation Manager",
     "latest": "2023-02-09T03:07:21+00:00",
@@ -3387,42 +3403,6 @@
       {
         "url": "https://mstdn.social/@arnicas",
         "display_name": "arnicas"
-      },
-      {
-        "url": "https://social.jvns.ca/@b0rk",
-        "display_name": "Julia Evans"
-      },
-      {
-        "url": "https://fosstodon.org/@shazow",
-        "display_name": "Andrey Petrov"
-      },
-      {
-        "url": "https://mastodon.social/@dahukanna",
-        "display_name": "Dawn Ahukanna"
-      }
-    ],
-    "first": "2023-01-06T16:46:47.992000+00:00"
-  },
-  {
-    "link": "https://github.com/mauforonda/mastodon_email_digest",
-    "title": "github.com/mauforonda/mastodon...",
-    "latest": "2023-01-29T01:09:03+00:00",
-    "last_post": {
-      "url": "https://social.jvns.ca/@b0rk/109722489383419112",
-      "content": "<p>quick summary of the mastodon digest tools people listed in the replies:</p><p>- mastodon digest <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a><br>- a fork of mastodon_digest that runs on github access (<a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a>) to make a page like this <a href=\"https://mauforonda.github.io/mastodon_digest/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mauforonda.github.io/mastodon_</span><span class=\"invisible\">digest/</span></a><br>- and an email version <a href=\"https://github.com/mauforonda/mastodon_email_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_email_digest</span></a> .<br>- fediview <a href=\"https://fediview.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com/</span><span class=\"invisible\"></span></a><br>- quintessence (top links) <a href=\"https://quintsns.pianeta.uno\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">quintsns.pianeta.uno</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@adamghill",
-        "display_name": "adamghill"
-      },
-      {
-        "url": "https://hachyderm.io/@mnl",
-        "display_name": "mnml mnl (he/him)"
-      },
-      {
-        "url": "https://neuromatch.social/@LeonDLotter",
-        "display_name": "Leon Lotter"
       },
       {
         "url": "https://social.jvns.ca/@b0rk",
