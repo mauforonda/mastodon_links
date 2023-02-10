@@ -1,12 +1,52 @@
 [
   {
+    "link": "https://blog.cloudflare.com/welcome-to-wildebeest-the-fediverse-on-cloudflare/",
+    "title": "Welcome to Wildebeest: the Fediverse on Cloudflare",
+    "latest": "2023-02-09T22:17:56+00:00",
+    "first": "2023-02-08T20:41:07+00:00",
+    "last_post": {
+      "url": "https://status.kinlan.me/@paul/109837095820770209",
+      "content": "<p><a href=\"https://blog.cloudflare.com/welcome-to-wildebeest-the-fediverse-on-cloudflare/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.cloudflare.com/welcome-to</span><span class=\"invisible\">-wildebeest-the-fediverse-on-cloudflare/</span></a> &lt; Pretty neat.</p>"
+    },
+    "people": [
+      {
+        "url": "https://vmst.io/@marcoshuerta",
+        "display_name": "Marcos Huerta"
+      },
+      {
+        "url": "https://mastodon.social/@TodePond",
+        "display_name": "Lu Wilson"
+      },
+      {
+        "url": "https://fediscience.org/@biocs",
+        "display_name": "Michael Kuhn"
+      },
+      {
+        "url": "https://social.coop/@bmann",
+        "display_name": "Boris Mann"
+      },
+      {
+        "url": "https://mastodon.social/@argimenes",
+        "display_name": "Codex OS"
+      },
+      {
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
+      },
+      {
+        "url": "https://status.kinlan.me/@paul",
+        "display_name": "Paul Kinlan"
+      }
+    ]
+  },
+  {
     "link": "https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web",
     "title": "newyorker.com/tech/annals-of-t...",
-    "latest": "2023-02-09T19:44:56+00:00",
+    "latest": "2023-02-09T21:36:49+00:00",
     "first": "2023-02-09T17:49:16+00:00",
     "last_post": {
-      "url": "https://social.holovaty.com/@adrian/109835678933591905",
-      "content": "<p>\"ChatGPT Is a Blurry JPEG of the Web\" by Ted Chiang. This is easily the best piece I've read about large language models.</p><p>Has a bunch of great new metaphors to seek your teeth into.</p><p><a href=\"https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newyorker.com/tech/annals-of-t</span><span class=\"invisible\">echnology/chatgpt-is-a-blurry-jpeg-of-the-web</span></a></p>"
+      "url": "https://fediscience.org/@juemos/109836323408621301",
+      "content": "<p>Outstanding essay by the fabulous Ted Chiang on the uses and limitations of <a href=\"https://fediscience.org/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a></p><p><a href=\"https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newyorker.com/tech/annals-of-t</span><span class=\"invisible\">echnology/chatgpt-is-a-blurry-jpeg-of-the-web</span></a></p>"
     },
     "people": [
       {
@@ -112,70 +152,38 @@
     ]
   },
   {
-    "link": "https://blog.cloudflare.com/welcome-to-wildebeest-the-fediverse-on-cloudflare/",
-    "title": "Welcome to Wildebeest: the Fediverse on Cloudflare",
-    "latest": "2023-02-09T02:52:23+00:00",
-    "first": "2023-02-08T20:41:07+00:00",
+    "link": "https://www.tootfinder.ch/",
+    "title": "Tootfinder",
+    "latest": "2023-02-09T21:29:01+00:00",
+    "first": "2023-02-09T00:13:26+00:00",
     "last_post": {
-      "url": "https://mastodon.social/@danyork/109831094052164038",
-      "content": "<p>Wherein <span class=\"h-card\"><a href=\"https://cloudflare.social/@cloudflare\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cloudflare</span></a></span> goes into DEEP detail on <a href=\"https://mastodon.social/tags/Wildebeest\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wildebeest</span></a>, their new <a href=\"https://mastodon.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> / <a href=\"https://mastodon.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> server - <a href=\"https://blog.cloudflare.com/welcome-to-wildebeest-the-fediverse-on-cloudflare/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.cloudflare.com/welcome-to</span><span class=\"invisible\">-wildebeest-the-fediverse-on-cloudflare/</span></a></p>"
+      "url": "https://fediscience.org/@petersuber/109836374584710980",
+      "content": "<p>If you've been waiting for full-text <a href=\"https://fediscience.org/tags/search\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>search</span></a> on <a href=\"https://fediscience.org/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a>, please go to <a href=\"https://fediscience.org/tags/TootFinder\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TootFinder</span></a> and sign in. The more the merrier.<br><a href=\"https://www.tootfinder.ch/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">tootfinder.ch/</span><span class=\"invisible\"></span></a></p><p>Thanks to <span class=\"h-card\"><a href=\"https://tooting.ch/@buercher\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>buercher</span></a></span> for building it.</p><p>It's opt-in, not opt-out. It respects Mastodon culture and doesn't index accounts that don't sign in. </p><p>That means the index might be small if we don't spread the word. </p><p><a href=\"https://fediscience.org/tags/mastotips\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastotips</span></a>#feditips</p>"
     },
     "people": [
       {
-        "url": "https://vmst.io/@marcoshuerta",
-        "display_name": "Marcos Huerta"
+        "url": "https://toot.cafe/@oliverturner",
+        "display_name": "Oliver"
       },
       {
-        "url": "https://mastodon.social/@TodePond",
-        "display_name": "Lu Wilson"
+        "url": "https://mastodon.gamedev.place/@doppioslash",
+        "display_name": "Claudia Doppioslash/ShaderCat"
       },
       {
-        "url": "https://fediscience.org/@biocs",
-        "display_name": "Michael Kuhn"
+        "url": "https://mastodon.social/@Edent",
+        "display_name": "Terence Eden"
       },
       {
-        "url": "https://social.coop/@bmann",
-        "display_name": "Boris Mann"
-      },
-      {
-        "url": "https://mastodon.social/@argimenes",
-        "display_name": "Codex OS"
-      },
-      {
-        "url": "https://mastodon.social/@judell",
-        "display_name": "Jon Udell"
-      }
-    ]
-  },
-  {
-    "link": "https://www.usajobs.gov/job/700799600",
-    "title": "https://www.usajobs.gov/job/700799600",
-    "latest": "2023-02-07T15:14:57+00:00",
-    "first": "2023-02-07T00:36:01+00:00",
-    "last_post": {
-      "url": "https://sfba.social/@rklau/109820172848447582",
-      "content": "<p>NASA is hiring a Chief Data Officer. I'll bet a few of you know someone who absolutely needs to know about this opportunity: <a href=\"https://www.usajobs.gov/job/700799600\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">usajobs.gov/job/700799600</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hcommons.social/@scott_bot",
-        "display_name": "@scott_bot \ud83e\udd39"
-      },
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://mapstodon.space/@jeremy",
-        "display_name": "J\u00e9r\u00e9my Garniaux"
-      },
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
       },
       {
         "url": "https://fediscience.org/@petersuber",
         "display_name": "petersuber"
+      },
+      {
+        "url": "https://fediscience.org/@biocs",
+        "display_name": "Michael Kuhn"
       }
     ]
   },
@@ -208,38 +216,6 @@
       {
         "url": "https://berlin.social/@psm_os",
         "display_name": "Paul Schultze-Motel"
-      }
-    ]
-  },
-  {
-    "link": "https://www.tootfinder.ch/",
-    "title": "Tootfinder",
-    "latest": "2023-02-09T19:14:31+00:00",
-    "first": "2023-02-09T00:13:26+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@petersuber/109836374584710980",
-      "content": "<p>If you've been waiting for full-text <a href=\"https://fediscience.org/tags/search\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>search</span></a> on <a href=\"https://fediscience.org/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a>, please go to <a href=\"https://fediscience.org/tags/TootFinder\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TootFinder</span></a> and sign in. The more the merrier.<br><a href=\"https://www.tootfinder.ch/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">tootfinder.ch/</span><span class=\"invisible\"></span></a></p><p>Thanks to <span class=\"h-card\"><a href=\"https://tooting.ch/@buercher\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>buercher</span></a></span> for building it.</p><p>It's opt-in, not opt-out. It respects Mastodon culture and doesn't index accounts that don't sign in. </p><p>That means the index might be small if we don't spread the word. </p><p><a href=\"https://fediscience.org/tags/mastotips\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastotips</span></a>#feditips</p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@oliverturner",
-        "display_name": "Oliver"
-      },
-      {
-        "url": "https://mastodon.gamedev.place/@doppioslash",
-        "display_name": "Claudia Doppioslash/ShaderCat"
-      },
-      {
-        "url": "https://mastodon.social/@Edent",
-        "display_name": "Terence Eden"
-      },
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://fediscience.org/@petersuber",
-        "display_name": "petersuber"
       }
     ]
   },
@@ -684,106 +660,6 @@
       {
         "url": "https://mastodon.social/@jonkeegan",
         "display_name": "Jon Keegan"
-      }
-    ]
-  },
-  {
-    "link": "https://www.openstreetmap.org/user/Pieter%20Vander%20Vennet/diary/400909",
-    "title": "Pieter Vander Vennet's Diary | OpenStreetMap is in trouble | OpenStreetMap",
-    "latest": "2023-02-07T18:31:09+00:00",
-    "first": "2023-02-07T00:53:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.ar.al/@aral/109819109742679088",
-      "content": "<p><a href=\"https://mastodon.ar.al/tags/OpenStreetMap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenStreetMap</span></a> is in trouble</p><p><a href=\"https://mastodon.ar.al/tags/Microsoft\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Microsoft</span></a> <a href=\"https://mastodon.ar.al/tags/Bing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Bing</span></a> Map Builder \u201c\u2026entered the ecosystem with parasitic intents \u2026 If [nothing improves], we should consider cutting off mapbuilder from the API, and we should consider starting a lawsuit over the copyright infringement. This is not a small hobby website which happened to have forgotten the attribution. This is a cancer that is starting to grow. This is designed to kill the community.\u201d</p><p><a href=\"https://www.openstreetmap.org/user/Pieter%20Vander%20Vennet/diary/400909\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">openstreetmap.org/user/Pieter%</span><span class=\"invisible\">20Vander%20Vennet/diary/400909</span></a></p><p>By <span class=\"h-card\"><a href=\"https://en.osm.town/@pietervdvn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pietervdvn</span></a></span> <a href=\"https://mastodon.ar.al/tags/embraceExtendExtinguish\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>embraceExtendExtinguish</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@paezha",
-        "display_name": "Antonio P\u00e1ez"
-      },
-      {
-        "url": "https://berlin.social/@psm_os",
-        "display_name": "Paul Schultze-Motel"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2202.05798",
-    "title": "The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention",
-    "latest": "2023-02-07T01:29:39+00:00",
-    "first": "2023-02-06T23:56:08+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109820495051592273",
-      "content": "<p>Actually, gradient descent can be seen as attention that applies beyond the model's context length! Let me explain why \ud83e\uddf5 \ud83d\udc47 (1/N)</p><p>Ref:<br><a href=\"https://arxiv.org/abs/2202.05798\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2202.05798</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/2212.10559\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.10559</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://sigmoid.social/@lucidrains",
-        "display_name": "Ice Cream"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2212.10559",
-    "title": "https://arxiv.org/abs/2212.10559",
-    "latest": "2023-02-07T01:29:39+00:00",
-    "first": "2023-02-06T23:56:08+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109820495051592273",
-      "content": "<p>Actually, gradient descent can be seen as attention that applies beyond the model's context length! Let me explain why \ud83e\uddf5 \ud83d\udc47 (1/N)</p><p>Ref:<br><a href=\"https://arxiv.org/abs/2202.05798\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2202.05798</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/2212.10559\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.10559</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://sigmoid.social/@lucidrains",
-        "display_name": "Ice Cream"
-      }
-    ]
-  },
-  {
-    "link": "https://bit.ly/fediverse-funding",
-    "title": "https://bit.ly/fediverse-funding",
-    "latest": "2023-02-07T07:34:15+00:00",
-    "first": "2023-02-06T23:33:44+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@davidslifka/109820394362885471",
-      "content": "<p>The fediverse has come this far despite being very capital-constrained.</p><p>What if that constraint were lifted?</p><p>If you have a project or idea (for- or non-profit) that helps build or grow the fediverse and would benefit from funding, I hope you'll apply here. Thank you!<br><a href=\"https://bit.ly/fediverse-funding\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/fediverse-funding</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://curbal.social/@ruthpozuelo",
-        "display_name": "Ruth Pozuelo Martinez"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=tRU9PFKnUdA",
-    "title": "The Inner World and Social Consequences of Political Professionals",
-    "latest": "2023-02-07T17:22:33+00:00",
-    "first": "2023-02-06T22:51:12+00:00",
-    "last_post": {
-      "url": "https://sciences.social/@socannex/109824500799297489",
-      "content": "<p>LIVE at 12:15 PM Eastern.  <span class=\"h-card\"><a href=\"https://sciences.social/@socannex\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>socannex</span></a></span> sits down with <span class=\"h-card\"><a href=\"https://sciences.social/@daniel_laurison\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daniel_laurison</span></a></span> to discuss the inner world of political campaigns, and the sociology of culture, stratification, and politics. <a href=\"https://www.youtube.com/watch?v=tRU9PFKnUdA\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=tRU9PFKnUd</span><span class=\"invisible\">A</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@philipncohen",
-        "display_name": "Philip N Cohen"
-      },
-      {
-        "url": "https://sciences.social/@markigra",
-        "display_name": "Mark Igra"
       }
     ]
   },
@@ -2028,6 +1904,46 @@
     ]
   },
   {
+    "link": "https://arxiv.org/abs/2302.04023",
+    "title": "A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity",
+    "latest": "2023-02-09T22:59:39+00:00",
+    "first": "2023-02-09T14:46:10+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@BenjaminHan/109837112583148239",
+      "content": "<p>1/ A comprehensive -- <a href=\"https://sigmoid.social/tags/multitask\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>multitask</span></a>, <a href=\"https://sigmoid.social/tags/multilingual\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>multilingual</span></a>, <a href=\"https://sigmoid.social/tags/multimodal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>multimodal</span></a> -- <a href=\"https://sigmoid.social/tags/evaluation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>evaluation</span></a> of <a href=\"https://sigmoid.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a>:</p><p>Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, and Pascale Fung. 2023. A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity. arXiv [cs.CL]. <a href=\"https://arxiv.org/abs/2302.04023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.04023</span><span class=\"invisible\"></span></a></p><p><a href=\"https://sigmoid.social/tags/NLG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLG</span></a> <a href=\"https://sigmoid.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> <a href=\"https://sigmoid.social/tags/NLU\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLU</span></a> <a href=\"https://sigmoid.social/tags/NLGPU\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLGPU</span></a> <a href=\"https://sigmoid.social/tags/NLProc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLProc</span></a> <a href=\"https://sigmoid.social/tags/DeepLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DeepLearning</span></a> <a href=\"https://sigmoid.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://sigmoid.social/tags/Paper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Paper</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@nsaphra",
+        "display_name": "Naomi Saphra"
+      },
+      {
+        "url": "https://sigmoid.social/@andrey",
+        "display_name": "Andrey Kurenkov"
+      }
+    ]
+  },
+  {
+    "link": "https://www.wired.com/story/delete-twitter-dms-gdpr/",
+    "title": "Want to Delete Your Twitter DMs? Good Luck With That",
+    "latest": "2023-02-09T23:19:55+00:00",
+    "first": "2023-02-09T17:59:09+00:00",
+    "last_post": {
+      "url": "https://suomi.social/@lari/109836003839925555",
+      "content": "<p>I was interviewed by <span class=\"h-card\"><a href=\"https://infosec.exchange/@mattburgess\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mattburgess</span></a></span> for Wired magazine about my failed attempts to get my direct messages removed from Twitter. </p><p>However, most important and substantial words here are said by <span class=\"h-card\"><a href=\"https://someone.elses.computer/@mikarv\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mikarv</span></a></span>: \"Big Tech companies are trying to position themselves so that they decide what people\u2019s information rights are and what information they should provide to people.\" </p><p>\"We don\u2019t really know the extent of information that\u2019s collected by these companies.\"</p><p><a href=\"https://suomi.social/tags/twitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>twitter</span></a> <a href=\"https://suomi.social/tags/gdpr\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gdpr</span></a></p><p><a href=\"https://www.wired.com/story/delete-twitter-dms-gdpr/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wired.com/story/delete-twitter</span><span class=\"invisible\">-dms-gdpr/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@jhilden",
+        "display_name": "Jonatan Hild\u00e9n"
+      },
+      {
+        "url": "https://someone.elses.computer/@mikarv",
+        "display_name": "Michael Veale"
+      }
+    ]
+  },
+  {
     "link": "https://www.theverge.com/2018/4/19/17256370/switter-cloudflare-sex-workers-banned",
     "title": "Switter, one of the last online spaces friendly to sex workers, was just banned by its network",
     "latest": "2023-02-09T15:47:57+00:00",
@@ -2084,6 +2000,46 @@
       {
         "url": "https://vis.social/@observablehq",
         "display_name": ""
+      }
+    ]
+  },
+  {
+    "link": "http://ourworldindata.org/light-at-night",
+    "title": "ourworldindata.org/light-at-ni...",
+    "latest": "2023-02-09T21:50:35+00:00",
+    "first": "2023-02-09T20:35:48+00:00",
+    "last_post": {
+      "url": "https://mas.to/@maxroser/109836694249807278",
+      "content": "<p>As the things we value become cheaper we become richer.  </p><p>Here is the price of light over the very long run. One innovation after the next drove down the price of having light at night.</p><p>[From our redesigned page on the history of light at night, published together with Hannah Ritchie: <a href=\"http://ourworldindata.org/light-at-night\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">ourworldindata.org/light-at-ni</span><span class=\"invisible\">ght</span></a>]</p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@maxroser",
+        "display_name": "Max Roser"
+      },
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      }
+    ]
+  },
+  {
+    "link": "https://fediscience.org/@petersuber/109836374584710980",
+    "title": "petersuber (@petersuber@fediscience.org)",
+    "latest": "2023-02-09T21:29:56+00:00",
+    "first": "2023-02-09T20:17:09+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/109836620879025021",
+      "content": "<p>Hey all <a href=\"https://mastodon.social/tags/infosec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>infosec</span></a> <a href=\"https://mastodon.social/tags/datasci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datasci</span></a> <a href=\"https://mastodon.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> folks.</p><p>Unless you're a \ud83d\udc18 purist, please do this. </p><p><a href=\"https://fediscience.org/@petersuber/109836374584710980\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediscience.org/@petersuber/10</span><span class=\"invisible\">9836374584710980</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://fediscience.org/@biocs",
+        "display_name": "Michael Kuhn"
       }
     ]
   }
